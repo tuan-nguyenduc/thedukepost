@@ -1,0 +1,27 @@
+name: Sync wire feeds
+
+on:
+  schedule:
+    # Every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: npm run sync-feeds
+      - name: Commit updated wire.json
+        run: |
+          git config user.name "thedukepost-bot"
+          git config user.email "bot@thedukepost.com"
+          git add src/data/wire.json
+          git diff --staged --quiet || git commit -m "chore: sync wire feeds"
+          git push

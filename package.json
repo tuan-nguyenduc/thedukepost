@@ -1,0 +1,15 @@
+{
+  "name": "thedukepost",
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "sync-feeds": "node scripts/sync-feeds.mjs"
+  },
+  "dependencies": {
+    "astro": "^4.16.0",
+    "rss-parser": "^3.13.0"
+  }
+}

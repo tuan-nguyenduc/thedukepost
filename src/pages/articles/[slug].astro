@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  return articles.map((article) => ({
+    params: { slug: article.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+---
+<BaseLayout title={`${article.data.title} — The Duke Post`} description={article.data.description}>
+  <article class="wrap article">
+    <span class="eyebrow">{article.data.category}</span>
+    <h1>{article.data.title}</h1>
+    <p class="byline">{article.data.author} · {article.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</p>
+    <div class="content">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .article { padding: 48px 24px 80px; max-width: 740px; }
+  .article h1 { font-size: clamp(28px, 4vw, 42px); margin: 10px 0 14px; }
+  .content { margin-top: 36px; font-size: 18px; line-height: 1.7; }
+  .content :global(h2) { font-size: 24px; margin: 36px 0 14px; }
+  .content :global(p) { margin: 0 0 20px; }
+  .content :global(a) { color: var(--signal); border-bottom: 1px solid var(--signal); }
+  .content :global(ol),
+  .content :global(ul) { padding-left: 22px; margin: 0 0 20px; }
+</style>

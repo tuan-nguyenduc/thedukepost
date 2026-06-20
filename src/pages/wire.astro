@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import wireData from '../data/wire.json';
+
+const syncedAt = new Date(wireData.syncedAt);
+---
+<BaseLayout title="The Wire — The Duke Post" description="Curated tech headlines, refreshed regularly.">
+  <section class="wrap page">
+    <h1>The Wire</h1>
+    <p class="intro">A running feed of headlines from other publishers. We link out — we don't republish. <span class="byline">Last synced {syncedAt.toISOString().replace('T', ' ').slice(0, 16)} UTC</span></p>
+    <ul class="list">
+      {wireData.items.map((item) => (
+        <li>
+          <a href={item.link} target="_blank" rel="noopener noreferrer">
+            <span class="eyebrow">{item.source}</span>
+            <h2>{item.title}</h2>
+            <p>{item.summary}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>
+
+<style>
+  .page { padding: 48px 24px 80px; }
+  h1 { font-size: 36px; margin-bottom: 14px; }
+  .intro { color: var(--slate); margin-bottom: 36px; }
+  .intro .byline { display: block; margin-top: 6px; }
+  .list { list-style: none; margin: 0; padding: 0; }
+  .list li { border-bottom: 1px solid var(--paper-line); padding: 24px 0; }
+  .list h2 { font-size: 20px; margin: 8px 0 8px; }
+  .list p { color: var(--slate); margin: 0; font-size: 15px; }
+</style>

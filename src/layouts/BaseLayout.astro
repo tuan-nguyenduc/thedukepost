@@ -1,0 +1,103 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Tech news and signal, curated and written by The Duke Post.' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <title>{title}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap site-header__inner">
+      <a href="/" class="logo">The Duke<span class="logo__accent">Post</span></a>
+      <nav class="site-nav">
+        <a href="/articles">Articles</a>
+        <a href="/wire">Wire</a>
+        <a href="/about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap site-footer__inner">
+      <p>&copy; {new Date().getFullYear()} The Duke Post. Independent tech coverage.</p>
+      <p class="byline">Curated headlines link to original publishers.</p>
+    </div>
+  </footer>
+</body>
+</html>
+
+<style>
+  .site-header {
+    border-bottom: 2px solid var(--ink);
+    background: var(--paper);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .site-header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  .logo {
+    font-family: var(--font-display);
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .logo__accent { color: var(--signal); }
+  .site-nav {
+    display: flex;
+    gap: 28px;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+  .site-nav a {
+    border-bottom: 2px solid transparent;
+    padding-bottom: 4px;
+    transition: border-color 0.15s ease;
+  }
+  .site-nav a:hover { border-color: var(--signal); }
+
+  .site-footer {
+    border-top: 1px solid var(--paper-line);
+    margin-top: 80px;
+    padding: 28px 0 48px;
+    color: var(--slate);
+    font-size: 14px;
+  }
+  .site-footer__inner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  @media (max-width: 640px) {
+    .site-header__inner { flex-direction: column; align-items: flex-start; gap: 12px; }
+    .site-nav { gap: 18px; }
+  }
+</style>
