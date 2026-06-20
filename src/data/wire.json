@@ -1,6 +1,48 @@
 {
-  "syncedAt": "2026-06-20T10:35:16.669Z",
+  "syncedAt": "2026-06-20T14:10:28.147Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\nComments URL: https://news.ycombinator.com/item…",
+      "publishedAt": "2026-06-20T13:44:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Toy Story has the right take on tech",
+      "link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read a…",
+      "publishedAt": "2026-06-20T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+      "link": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+      "summary": "Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones\nComments URL: https://news.ycombinator.co…",
+      "publishedAt": "2026-06-20T11:58:32.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+      "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+      "summary": "Tests of age-verification technology show the risks of life-altering errors.",
+      "publishedAt": "2026-06-20T11:15:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "link": "https://bootimus.com",
+      "summary": "Article URL: https://bootimus.com\nComments URL: https://news.ycombinator.com/item?id=48608255\nPoints: 26\n# Comments: 5",
+      "publishedAt": "2026-06-20T10:55:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CSSQuake",
+      "link": "https://cssquake.com/",
+      "summary": "Article URL: https://cssquake.com/\nComments URL: https://news.ycombinator.com/item?id=48608223\nPoints: 153\n# Comments: 26",
+      "publishedAt": "2026-06-20T10:49:53.000Z"
+    },
     {
       "source": "The Verge",
       "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
@@ -12,7 +54,7 @@
       "source": "Hacker News",
       "title": "I Stored a Website in a Favicon",
       "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 136\n# Comments: 51",
+      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 214\n# Comments: 77",
       "publishedAt": "2026-06-20T05:33:59.000Z"
     },
     {
@@ -26,8 +68,15 @@
       "source": "Hacker News",
       "title": "Where to Find the Colors Your Screen Can't Show You",
       "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/\nComments URL: https://news.ycombinator.com/item?id=48606140\nPoints: 133\n#…",
+      "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/\nComments URL: https://news.ycombinator.com/item?id=48606140\nPoints: 254\n#…",
       "publishedAt": "2026-06-20T03:36:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLMs Are Complicated Now",
+      "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+      "summary": "Article URL: https://ianbarber.blog/2026/06/19/llms-are-complicated-now/\nComments URL: https://news.ycombinator.com/item?id=48605355\nPoints: 80\n# Comments: 22",
+      "publishedAt": "2026-06-20T01:25:14.000Z"
     },
     {
       "source": "TechCrunch",
@@ -35,13 +84,6 @@
       "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
       "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
       "publishedAt": "2026-06-20T00:47:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
-      "link": "https://news.ycombinator.com/item?id=48604232",
-      "summary": "Maybe there will even be more interest in the invention and use of more advanced algorithms and data structures that use less memory?\nComments URL: https://news.ycombinator.com/ite…",
-      "publishedAt": "2026-06-19T22:51:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -72,39 +114,11 @@
       "publishedAt": "2026-06-19T21:00:34.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Surprising economics of load-balanced systems",
-      "link": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "summary": "Article URL: https://brooker.co.za/blog/2020/08/06/erlang.html\nComments URL: https://news.ycombinator.com/item?id=48602918\nPoints: 114\n# Comments: 29",
-      "publishedAt": "2026-06-19T20:30:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "link": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "summary": "Article URL: https://www.legacy.com/legacy/robert-bobby-prince-lll\nComments URL: https://news.ycombinator.com/item?id=48602352\nPoints: 379\n# Comments: 42",
-      "publishedAt": "2026-06-19T19:35:15.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
       "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
       "summary": "Relativity Space’s CEO is former Google executive Eric Schmidt. | Image: Alexander Tamargo / Getty Images\t\n\nRelativity Space, the rocket company led by former Google executive Eric…",
       "publishedAt": "2026-06-19T18:41:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Big Banana Car",
-      "link": "https://bigbananacar.com/",
-      "summary": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-...\nComments URL: https://news.ycombinator.com/item?id=48601420\nPoints: 156\n# Comments: 79",
-      "publishedAt": "2026-06-19T18:14:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "John Jumper to join Anthropic",
-      "link": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "summary": "Article URL: https://twitter.com/JohnJumperSci/status/2068001285173834106\nComments URL: https://news.ycombinator.com/item?id=48601162\nPoints: 134\n# Comments: 101",
-      "publishedAt": "2026-06-19T17:53:00.000Z"
     },
     {
       "source": "The Verge",
@@ -170,13 +184,6 @@
       "publishedAt": "2026-06-19T13:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
-      "link": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's…",
-      "publishedAt": "2026-06-19T13:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
       "link": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
@@ -217,13 +224,6 @@
       "link": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
       "summary": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
       "publishedAt": "2026-06-18T20:49:55.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Android verification is coming: Google confirms timeline and supported app stores",
-      "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-      "summary": "A new system service will roll out this month ahead of big changes starting in September.",
-      "publishedAt": "2026-06-18T19:53:33.000Z"
     }
   ]
 }
