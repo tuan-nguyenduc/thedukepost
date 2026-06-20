@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import wireData from '../data/wire.json';
+import { faviconUrl } from '../lib/favicon';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -15,7 +16,7 @@ const syncedAt = new Date(wireData.syncedAt);
 <BaseLayout title="The Duke Post — Tech News & Signal">
   {featured && (
     <section class="hero wrap">
-      <a href={`/articles/${featured.slug}`} class="hero__link">
+      <a href={`/articles/${featured.slug}`} class="hero__link sticker">
         <span class="eyebrow">{featured.data.category}</span>
         <h1 class="hero__title">{featured.data.title}</h1>
         <p class="hero__desc">{featured.data.description}</p>
@@ -26,10 +27,10 @@ const syncedAt = new Date(wireData.syncedAt);
 
   {rest.length > 0 && (
     <section class="more-articles wrap">
-      <h2 class="section-title">More from the desk</h2>
+      <h2 class="section-title">Fresh off the desk</h2>
       <div class="more-grid">
         {rest.map((a) => (
-          <a href={`/articles/${a.slug}`} class="more-card">
+          <a href={`/articles/${a.slug}`} class="more-card sticker">
             <span class="eyebrow">{a.data.category}</span>
             <h3>{a.data.title}</h3>
             <p>{a.data.description}</p>
@@ -41,14 +42,17 @@ const syncedAt = new Date(wireData.syncedAt);
 
   <section class="wire wrap">
     <div class="wire__header">
-      <h2 class="section-title">The Wire</h2>
+      <h2 class="section-title">⚡ The Wire</h2>
       <span class="wire__synced">last synced {syncedAt.toISOString().replace('T', ' ').slice(0, 16)} UTC</span>
     </div>
     <ul class="wire__list">
       {wireItems.map((item) => (
         <li class="wire__item">
           <a href={item.link} target="_blank" rel="noopener noreferrer">
-            <span class="wire__source">{item.source}</span>
+            <span class="wire__source">
+              {faviconUrl(item.link) && <img class="wire__logo" src={faviconUrl(item.link)} alt="" width="14" height="14" loading="lazy" />}
+              {item.source}
+            </span>
             <span class="wire__title">{item.title}</span>
           </a>
         </li>
@@ -59,11 +63,11 @@ const syncedAt = new Date(wireData.syncedAt);
 </BaseLayout>
 
 <style>
-  .hero { padding: 56px 24px 48px; border-bottom: 1px solid var(--paper-line); }
-  .hero__link { display: block; }
+  .hero { padding: 48px 24px; }
+  .hero__link { display: block; padding: 40px 36px; }
   .hero__title {
     font-size: clamp(32px, 5vw, 56px);
-    margin-top: 10px;
+    margin-top: 14px;
     max-width: 16ch;
   }
   .hero__desc {
@@ -80,15 +84,16 @@ const syncedAt = new Date(wireData.syncedAt);
     margin-bottom: 22px;
   }
 
-  .more-articles { padding: 48px 24px; border-bottom: 1px solid var(--paper-line); }
+  .more-articles { padding: 24px 24px 56px; }
   .more-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     gap: 28px;
   }
+  .more-card { display: block; padding: 22px; }
   .more-card h3 {
     font-size: 19px;
-    margin: 8px 0 8px;
+    margin: 12px 0 8px;
   }
   .more-card p {
     color: var(--slate);
@@ -100,6 +105,8 @@ const syncedAt = new Date(wireData.syncedAt);
     background: var(--surface);
     color: var(--paper);
     padding: 48px 24px 56px;
+    border-radius: 24px;
+    margin: 0 auto 56px;
   }
   .wire .section-title { color: var(--paper); }
   .wire__header {
@@ -131,19 +138,26 @@ const syncedAt = new Date(wireData.syncedAt);
     padding: 13px 0;
   }
   .wire__source {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
     font-family: var(--font-mono);
     font-size: 11px;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--signal);
     flex-shrink: 0;
-    width: 130px;
+    width: 140px;
+  }
+  .wire__logo {
+    border-radius: 3px;
+    flex-shrink: 0;
   }
   .wire__title {
     font-size: 15px;
     transition: color 0.15s ease;
   }
-  .wire__item a:hover .wire__title { color: var(--signal); }
+  .wire__item a:hover .wire__title { color: var(--accent-soft); }
   .wire__note {
     font-size: 13px;
     color: #8B96A5;

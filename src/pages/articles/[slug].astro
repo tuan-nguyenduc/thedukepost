@@ -30,7 +30,8 @@ const { Content } = await render(article);
   .content { margin-top: 36px; font-size: 18px; line-height: 1.7; }
   .content :global(h2) { font-size: 24px; margin: 36px 0 14px; }
   .content :global(p) { margin: 0 0 20px; }
-  .content :global(a) { color: var(--signal); border-bottom: 1px solid var(--signal); }
+  .content :global(a) { color: var(--accent); border-bottom: 2px solid var(--accent-soft); transition: border-color 0.15s ease; }
+  .content :global(a:hover) { border-color: var(--accent); }
   .content :global(ol),
   .content :global(ul) { padding-left: 22px; margin: 0 0 20px; }
 </style>

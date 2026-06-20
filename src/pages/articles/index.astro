@@ -11,7 +11,7 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft))
     <ul class="list">
       {articles.map((a) => (
         <li>
-          <a href={`/articles/${a.slug}`}>
+          <a href={`/articles/${a.slug}`} class="sticker">
             <span class="eyebrow">{a.data.category}</span>
             <h2>{a.data.title}</h2>
             <p>{a.data.description}</p>
@@ -26,8 +26,9 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft))
 <style>
   .page { padding: 48px 24px 80px; }
   h1 { font-size: 36px; margin-bottom: 36px; }
-  .list { list-style: none; margin: 0; padding: 0; }
-  .list li { border-bottom: 1px solid var(--paper-line); padding: 28px 0; }
-  .list h2 { font-size: 24px; margin: 8px 0 8px; }
+  .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
+  .list li { margin: 0; }
+  .list a { display: block; padding: 24px; }
+  .list h2 { font-size: 24px; margin: 12px 0 8px; }
   .list p { color: var(--slate); margin: 0 0 8px; }
 </style>

@@ -1,12 +1,14 @@
 :root {
   /* Color tokens */
-  --ink: #0F1419;
-  --paper: #FAF9F6;
-  --signal: #D4571F;
-  --slate: #5B6470;
-  --surface: #1A2332;
-  --surface-line: #2A3441;
-  --paper-line: #E4E1D8;
+  --ink: #14110F;
+  --paper: #FFFBF2;
+  --signal: #FF2D78;
+  --accent: #2B59FF;
+  --accent-soft: #FFC2DC;
+  --slate: #6B6358;
+  --surface: #14110F;
+  --surface-line: rgba(255, 255, 255, 0.14);
+  --paper-line: #ECE3CF;
 
   /* Type tokens */
   --font-display: 'Fraunces', Georgia, serif;
@@ -58,21 +60,46 @@ img { max-width: 100%; display: block; }
 
 h1, h2, h3 {
   font-family: var(--font-display);
-  font-weight: 600;
-  line-height: 1.1;
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: -0.01em;
   margin: 0;
 }
 
 .eyebrow {
+  display: inline-block;
   font-family: var(--font-mono);
-  font-size: 12px;
-  letter-spacing: 0.08em;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--signal);
+  color: var(--ink);
+  background: var(--accent-soft);
+  padding: 4px 10px;
+  border-radius: 999px;
+  transform: rotate(-1.5deg);
+  transition: transform 0.15s ease;
+}
+
+a:hover .eyebrow {
+  transform: rotate(1.5deg) scale(1.04);
 }
 
 .byline {
   font-family: var(--font-mono);
   font-size: 12px;
   color: var(--slate);
+}
+
+.sticker {
+  background: var(--paper);
+  border: 2px solid var(--ink);
+  border-radius: 16px;
+  box-shadow: 5px 5px 0 var(--ink);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.sticker:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 8px 8px 0 var(--signal);
 }

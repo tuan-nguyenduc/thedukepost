@@ -13,7 +13,7 @@ const FEEDS = [
   { name: 'TechCrunch', url: 'https://techcrunch.com/feed/' },
   { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml' },
   { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index' },
-  { name: 'Hacker News (Front Page)', url: 'https://hnrss.org/frontpage' },
+  { name: 'Hacker News', url: 'https://hnrss.org/frontpage' },
 ];
 
 const MAX_ITEMS_PER_FEED = 8;
