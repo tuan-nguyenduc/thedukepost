@@ -1,6 +1,27 @@
 {
-  "syncedAt": "2026-06-20T19:41:45.539Z",
+  "syncedAt": "2026-06-20T21:21:16.155Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Seeing the world in radio waves with the QuadRF",
+      "link": "https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/",
+      "summary": "Article URL: https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/\nComments URL: https://news.ycombinator.com/item?id=48612859\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-06-20T20:48:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
+      "link": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+      "summary": "Article URL: https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/\nComments URL: h…",
+      "publishedAt": "2026-06-20T20:41:06.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "publishedAt": "2026-06-20T20:32:29.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "In the Weights is your new AI-centric vanity search",
@@ -10,10 +31,31 @@
     },
     {
       "source": "Hacker News",
+      "title": "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuabl…",
+      "publishedAt": "2026-06-20T19:19:06.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
       "link": "https://mitchivin.com/",
       "summary": "I posted my portfolio here about a year ago (https://news.ycombinator.com/item?id=45154609) and while there was a big response, it was very mixed! It'll probably be similar this ti…",
       "publishedAt": "2026-06-20T19:18:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "link": "https://clickhouse.com/blog/postgresbench",
+      "summary": "Article URL: https://clickhouse.com/blog/postgresbench\nComments URL: https://news.ycombinator.com/item?id=48611942\nPoints: 36\n# Comments: 7",
+      "publishedAt": "2026-06-20T19:01:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
+      "link": "https://github.com/confh/Tiny",
+      "summary": "Article URL: https://github.com/confh/Tiny\nComments URL: https://news.ycombinator.com/item?id=48611857\nPoints: 12\n# Comments: 3",
+      "publishedAt": "2026-06-20T18:53:46.000Z"
     },
     {
       "source": "The Verge",
@@ -33,50 +75,15 @@
       "source": "Hacker News",
       "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
       "link": "https://github.com/overflowy/make-look-scanned",
-      "summary": "Article URL: https://github.com/overflowy/make-look-scanned\nComments URL: https://news.ycombinator.com/item?id=48611513\nPoints: 6\n# Comments: 3",
+      "summary": "Article URL: https://github.com/overflowy/make-look-scanned\nComments URL: https://news.ycombinator.com/item?id=48611513\nPoints: 45\n# Comments: 20",
       "publishedAt": "2026-06-20T18:17:58.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
       "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-      "summary": "Article URL: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\nComments URL: https://news.ycombinator.com/item?id=48611411\nPoints: 189\n# Comments: 58",
+      "summary": "Article URL: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\nComments URL: https://news.ycombinator.com/item?id=48611411\nPoints: 261\n# Comments: 107",
       "publishedAt": "2026-06-20T18:05:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
-      "link": "https://news.ycombinator.com/item?id=48611303",
-      "summary": "I have a few projects on Github. I am receiving a lot of spam PRs and requests from vibe coders and bots. Most of them to prop up their profiles. The stars are obviously exaggerate…",
-      "publishedAt": "2026-06-20T17:52:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The ability to regrow body parts is dormant in mammals, not lost",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260617032207.htm\nComments URL: https://news.ycombinator.com/item?id=48611083\nPoints: 60\n# Comments: 24",
-      "publishedAt": "2026-06-20T17:27:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "link": "https://www.lispm.net/apps/uhf-x11/",
-      "summary": "Article URL: https://www.lispm.net/apps/uhf-x11/\nComments URL: https://news.ycombinator.com/item?id=48610853\nPoints: 62\n# Comments: 9",
-      "publishedAt": "2026-06-20T17:04:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-      "link": "https://github.com/oven-sh/WebKit/pull/249",
-      "summary": "Article URL: https://github.com/oven-sh/WebKit/pull/249\nComments URL: https://news.ycombinator.com/item?id=48610841\nPoints: 56\n# Comments: 52",
-      "publishedAt": "2026-06-20T17:02:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "summary": "Article URL: https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\nComments URL: https://news.yco…",
-      "publishedAt": "2026-06-20T17:01:36.000Z"
     },
     {
       "source": "TechCrunch",
@@ -154,13 +161,6 @@
       "link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
       "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phon…",
       "publishedAt": "2026-06-19T21:28:39.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-      "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
-      "summary": "What’s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this produc…",
-      "publishedAt": "2026-06-19T21:00:34.000Z"
     },
     {
       "source": "The Verge",
