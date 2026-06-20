@@ -1,12 +1,89 @@
 {
-  "syncedAt": "2026-06-20T14:10:28.147Z",
+  "syncedAt": "2026-06-20T17:37:48.354Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
-      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "summary": "Article URL: https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/\nComments URL: https://news.ycombinator.com/item…",
-      "publishedAt": "2026-06-20T13:44:39.000Z"
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "summary": "Article URL: https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\nComments URL: https://news.yco…",
+      "publishedAt": "2026-06-20T17:01:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "link": "https://github.com/DatanoiseTV/ember-hackernews",
+      "summary": "Article URL: https://github.com/DatanoiseTV/ember-hackernews\nComments URL: https://news.ycombinator.com/item?id=48610816\nPoints: 6\n# Comments: 1",
+      "publishedAt": "2026-06-20T17:00:38.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "publishedAt": "2026-06-20T16:39:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+      "link": "https://startupwiki.tech/",
+      "summary": "I've been building StartupWiki, a free startup database designed to make it easier to discover and research companies.\nThe original motivation was frustration with how difficult it…",
+      "publishedAt": "2026-06-20T15:59:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "summary": "Indulging in the “Dark Souls of synthesis.” | Image: Aleksander Stojanov / Hainbach\t\n\nStefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and…",
+      "publishedAt": "2026-06-20T15:20:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "summary": "Article URL: https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\nComments URL: https://news.ycombinator.com/item?id=48609766\nPoints: 68\n# Comments: 15",
+      "publishedAt": "2026-06-20T15:10:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "publishedAt": "2026-06-20T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cargo-Geiger",
+      "link": "https://github.com/geiger-rs/cargo-geiger",
+      "summary": "Article URL: https://github.com/geiger-rs/cargo-geiger\nComments URL: https://news.ycombinator.com/item?id=48609645\nPoints: 16\n# Comments: 4",
+      "publishedAt": "2026-06-20T14:52:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios",
+      "link": "https://vawaa.com/",
+      "summary": "Article URL: https://vawaa.com/\nComments URL: https://news.ycombinator.com/item?id=48609553\nPoints: 14\n# Comments: 2",
+      "publishedAt": "2026-06-20T14:40:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+      "link": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+      "summary": "Article URL: https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/\nComments URL: https://news.ycombinator.com/item?id=48609506\nPoi…",
+      "publishedAt": "2026-06-20T14:32:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Web Browsers on PDAS",
+      "link": "https://vale.rocks/posts/pda-browsers",
+      "summary": "Article URL: https://vale.rocks/posts/pda-browsers\nComments URL: https://news.ycombinator.com/item?id=48609422\nPoints: 22\n# Comments: 6",
+      "publishedAt": "2026-06-20T14:20:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+      "link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+      "summary": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Ge…",
+      "publishedAt": "2026-06-20T14:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -16,13 +93,6 @@
       "publishedAt": "2026-06-20T12:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-      "link": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-      "summary": "Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones\nComments URL: https://news.ycombinator.co…",
-      "publishedAt": "2026-06-20T11:58:32.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
       "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
@@ -30,53 +100,11 @@
       "publishedAt": "2026-06-20T11:15:09.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "link": "https://bootimus.com",
-      "summary": "Article URL: https://bootimus.com\nComments URL: https://news.ycombinator.com/item?id=48608255\nPoints: 26\n# Comments: 5",
-      "publishedAt": "2026-06-20T10:55:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "CSSQuake",
-      "link": "https://cssquake.com/",
-      "summary": "Article URL: https://cssquake.com/\nComments URL: https://news.ycombinator.com/item?id=48608223\nPoints: 153\n# Comments: 26",
-      "publishedAt": "2026-06-20T10:49:53.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
       "link": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
       "summary": "I’m a fan.\t\n\nI can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the…",
       "publishedAt": "2026-06-20T07:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "I Stored a Website in a Favicon",
-      "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 214\n# Comments: 77",
-      "publishedAt": "2026-06-20T05:33:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Satellite reveals immense scale of GPS signal tampering",
-      "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-      "summary": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering\nComments URL: https://…",
-      "publishedAt": "2026-06-20T04:07:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/\nComments URL: https://news.ycombinator.com/item?id=48606140\nPoints: 254\n#…",
-      "publishedAt": "2026-06-20T03:36:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "LLMs Are Complicated Now",
-      "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-      "summary": "Article URL: https://ianbarber.blog/2026/06/19/llms-are-complicated-now/\nComments URL: https://news.ycombinator.com/item?id=48605355\nPoints: 80\n# Comments: 22",
-      "publishedAt": "2026-06-20T01:25:14.000Z"
     },
     {
       "source": "TechCrunch",
@@ -94,9 +122,9 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
       "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "summary": "Go’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app…",
+      "summary": "Go's IPO — Japan's biggest so far this year — has done more than provide a much-needed boost to the country's languishing listing season. It has also supplied the taxi-hailing app…",
       "publishedAt": "2026-06-19T21:45:00.000Z"
     },
     {
@@ -142,13 +170,6 @@
       "publishedAt": "2026-06-19T16:08:17.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "publishedAt": "2026-06-19T15:23:28.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
       "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
@@ -156,32 +177,11 @@
       "publishedAt": "2026-06-19T14:53:53.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. \nThe film, which stars Andrew Garfield and covers the rollercoaster five…",
-      "publishedAt": "2026-06-19T14:15:29.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Our long national sunscreen nightmare is almost over",
-      "link": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
-      "summary": "You need a quarter teaspoon for your face alone, a half teaspoon if you include the neck (which you should!)\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewe…",
-      "publishedAt": "2026-06-19T14:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
       "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
       "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
       "publishedAt": "2026-06-19T13:36:53.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "publishedAt": "2026-06-19T13:00:00.000Z"
     },
     {
       "source": "Ars Technica",
