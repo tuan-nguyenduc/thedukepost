@@ -1,19 +1,54 @@
 {
-  "syncedAt": "2026-06-20T21:21:16.155Z",
+  "syncedAt": "2026-06-20T23:12:02.929Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Seeing the world in radio waves with the QuadRF",
-      "link": "https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/",
-      "summary": "Article URL: https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/\nComments URL: https://news.ycombinator.com/item?id=48612859\nPoints: 6\n# Comments: 0",
-      "publishedAt": "2026-06-20T20:48:04.000Z"
+      "title": "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
+      "link": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
+      "summary": "Article URL: https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/\nComments URL: https://news.ycombinator.com/item?id=48613732\nPoints: 11\n#…",
+      "publishedAt": "2026-06-20T22:50:43.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
-      "link": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
-      "summary": "Article URL: https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/\nComments URL: h…",
-      "publishedAt": "2026-06-20T20:41:06.000Z"
+      "title": "Pre-2022 Books",
+      "link": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+      "summary": "Article URL: https://notes.lorenzogravina.com/musings/pre-2022-books\nComments URL: https://news.ycombinator.com/item?id=48613631\nPoints: 20\n# Comments: 7",
+      "publishedAt": "2026-06-20T22:36:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tesla allegedly in autopilot mode crashes into Texas house, woman killed",
+      "link": "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374",
+      "summary": "Article URL: https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374\nComments URL: https://news.ycombinator.com/item?id=48613481\nPoints:…",
+      "publishedAt": "2026-06-20T22:14:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl",
+      "link": "https://www.phoronix.com/news/systemd-261",
+      "summary": "Article URL: https://www.phoronix.com/news/systemd-261\nComments URL: https://news.ycombinator.com/item?id=48613328\nPoints: 20\n# Comments: 5",
+      "publishedAt": "2026-06-20T21:50:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Supermarket giant Tesco sues VMware for breach of contract",
+      "link": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+      "summary": "Article URL: https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651\nComments URL: https://news.ycombinator.com/item?id=4…",
+      "publishedAt": "2026-06-20T21:09:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",
+      "link": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+      "summary": "Article URL: https://www.phoronix.com/news/Linux-7.2-Drops-strncpy\nComments URL: https://news.ycombinator.com/item?id=48612943\nPoints: 53\n# Comments: 19",
+      "publishedAt": "2026-06-20T20:59:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Alice is impatient",
+      "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "summary": "Article URL: https://brooker.co.za/blog/2026/06/19/waiting.html\nComments URL: https://news.ycombinator.com/item?id=48612740\nPoints: 27\n# Comments: 5",
+      "publishedAt": "2026-06-20T20:32:54.000Z"
     },
     {
       "source": "TechCrunch",
@@ -23,39 +58,18 @@
       "publishedAt": "2026-06-20T20:32:29.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "A Love Story",
+      "link": "https://pudding.cool/2026/06/love-story/",
+      "summary": "Article URL: https://pudding.cool/2026/06/love-story/\nComments URL: https://news.ycombinator.com/item?id=48612714\nPoints: 24\n# Comments: 3",
+      "publishedAt": "2026-06-20T20:30:06.000Z"
+    },
+    {
       "source": "TechCrunch",
       "title": "In the Weights is your new AI-centric vanity search",
       "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
       "summary": "So ... what's your In the Weights score?",
       "publishedAt": "2026-06-20T19:41:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuabl…",
-      "publishedAt": "2026-06-20T19:19:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
-      "link": "https://mitchivin.com/",
-      "summary": "I posted my portfolio here about a year ago (https://news.ycombinator.com/item?id=45154609) and while there was a big response, it was very mixed! It'll probably be similar this ti…",
-      "publishedAt": "2026-06-20T19:18:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "link": "https://clickhouse.com/blog/postgresbench",
-      "summary": "Article URL: https://clickhouse.com/blog/postgresbench\nComments URL: https://news.ycombinator.com/item?id=48611942\nPoints: 36\n# Comments: 7",
-      "publishedAt": "2026-06-20T19:01:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
-      "link": "https://github.com/confh/Tiny",
-      "summary": "Article URL: https://github.com/confh/Tiny\nComments URL: https://news.ycombinator.com/item?id=48611857\nPoints: 12\n# Comments: 3",
-      "publishedAt": "2026-06-20T18:53:46.000Z"
     },
     {
       "source": "The Verge",
@@ -70,20 +84,6 @@
       "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
       "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
       "publishedAt": "2026-06-20T18:26:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-      "link": "https://github.com/overflowy/make-look-scanned",
-      "summary": "Article URL: https://github.com/overflowy/make-look-scanned\nComments URL: https://news.ycombinator.com/item?id=48611513\nPoints: 45\n# Comments: 20",
-      "publishedAt": "2026-06-20T18:17:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Wholesale Plagiarism of Obscure Sorrows",
-      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-      "summary": "Article URL: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\nComments URL: https://news.ycombinator.com/item?id=48611411\nPoints: 261\n# Comments: 107",
-      "publishedAt": "2026-06-20T18:05:31.000Z"
     },
     {
       "source": "TechCrunch",
