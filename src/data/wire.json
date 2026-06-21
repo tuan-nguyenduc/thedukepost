@@ -1,11 +1,83 @@
 {
-  "syncedAt": "2026-06-21T15:55:16.034Z",
+  "syncedAt": "2026-06-21T17:42:27.544Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "(How to Write a (Lisp) Interpreter (In Python))",
+      "title": "Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer",
+      "link": "https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/",
+      "summary": "Article URL: https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/\nComments URL: https://news.ycombinator.com/item?id=48620776\nPoints: 9\n# Comments: 1",
+      "publishedAt": "2026-06-21T17:28:16.000Z",
+      "image": "https://www.randalolson.com/assets/2026/06/aca-insurer-claim-denial-rates.png"
+    },
+    {
+      "source": "The Verge",
+      "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
+      "link": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+      "summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles t…",
+      "publishedAt": "2026-06-21T17:00:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Cold-Court-Hands-Up-EP-Art-by-Gabriel-Good-large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer",
+      "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer\nComments URL: https://news.ycombinator.com/item?id=48620504\nPoints: 0\n# Commen…",
+      "publishedAt": "2026-06-21T17:00:28.000Z",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/ded9c49e4caae76b5466102e61073e6b370cb326.png?1738308671"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!",
+      "link": "https://news.ycombinator.com/item?id=48620502",
+      "summary": "My shortened story: due to factors in Soviet controlled Poland, my uncle played my dad role.\nHe took me to a quarry to fire Estes-style rocket cars, and all that.. he also managed…",
+      "publishedAt": "2026-06-21T17:00:26.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "link": "https://brandur.org/minimum-viable-unit",
+      "summary": "Article URL: https://brandur.org/minimum-viable-unit\nComments URL: https://news.ycombinator.com/item?id=48620342\nPoints: 12\n# Comments: 1",
+      "publishedAt": "2026-06-21T16:41:21.000Z",
+      "image": "https://brandur.org/assets/images/minimum-viable-unit/twitter@2x.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+      "publishedAt": "2026-06-21T16:35:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\nComments URL: https://news.ycombinator.com/item?id=48620090\nPoints: 118\n# Comments: 88",
+      "publishedAt": "2026-06-21T16:08:23.000Z",
+      "image": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+      "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "publishedAt": "2026-06-21T16:05:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/baidu-apollo-getty.jpg?resize=1200,800"
+    },
+    {
+      "source": "Engadget",
+      "title": "NASA's Perseverance rover has traveled the distance of a marathon on Mars",
+      "link": "https://www.engadget.com/2198455/nasa-perseverance-rover-has-traveled-the-distance-of-a-marathon-on-mars/",
+      "summary": "It did so in just five years.",
+      "publishedAt": "2026-06-21T15:55:23.000Z",
+      "image": "https://www.engadget.com/img/gallery/nasas-perseverance-rover-has-traveled-the-distance-of-a-marathon-on-mars/l-intro-1782057130.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
       "link": "https://norvig.com/lispy.html",
-      "summary": "Article URL: https://norvig.com/lispy.html\nComments URL: https://news.ycombinator.com/item?id=48619831\nPoints: 7\n# Comments: 1",
+      "summary": "Article URL: https://norvig.com/lispy.html\nComments URL: https://news.ycombinator.com/item?id=48619831\nPoints: 57\n# Comments: 26",
       "publishedAt": "2026-06-21T15:36:33.000Z",
       "image": null
     },
@@ -21,7 +93,7 @@
       "source": "Hacker News",
       "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
       "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-      "summary": "Article URL: https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/\nComments URL: https://news.ycombinator.com/item?id=48619394\nPoints: 12\n# Comments: 7",
+      "summary": "Article URL: https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/\nComments URL: https://news.ycombinator.com/item?id=48619394\nPoints: 64\n# Comments: 34",
       "publishedAt": "2026-06-21T14:43:08.000Z",
       "image": "https://cleantechnica.com/wp-content/uploads/2026/06/07101180-df6c-43af-ac8b-bacaddd3be58_1600x900.webp"
     },
@@ -35,7 +107,7 @@
     },
     {
       "source": "The Verge",
-      "title": "That viral clip you saw of someone winning big on Polymarket was probably fake",
+      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
       "link": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
       "summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified o…",
       "publishedAt": "2026-06-21T14:19:46.000Z",
@@ -45,7 +117,7 @@
       "source": "Hacker News",
       "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
       "link": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-      "summary": "Article URL: https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you\nComments URL: https://news.ycombinator.com/item?id=48619140\nPoints: 62\n# Comm…",
+      "summary": "Article URL: https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you\nComments URL: https://news.ycombinator.com/item?id=48619140\nPoints: 110\n# Com…",
       "publishedAt": "2026-06-21T14:09:07.000Z",
       "image": "//wsrv.nl/?url=https://cdn.satellite.earth/982124c8576aeb2bcddeec69f0bec1eb4e93d601318113272791c9f817ab5430.png"
     },
@@ -58,36 +130,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Roomba_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Hacker News",
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "link": "https://github.com/proteanthread/bcg",
-      "summary": "Article URL: https://github.com/proteanthread/bcg\nComments URL: https://news.ycombinator.com/item?id=48618226\nPoints: 34\n# Comments: 14",
-      "publishedAt": "2026-06-21T12:11:29.000Z",
-      "image": "https://opengraph.githubassets.com/22d50803b5cd88f3499a0e07fb00af2131363bbb020449de0aa09ac3c9c4d969/proteanthread/bcg"
-    },
-    {
       "source": "The Verge",
       "title": "Electric air taxis are stuck in the courtroom",
       "link": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
       "summary": "Joby flight at JFK airport. | Image: The Verge\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, a…",
       "publishedAt": "2026-06-21T12:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC01507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "link": "https://www.beyondallreason.info",
-      "summary": "Article URL: https://www.beyondallreason.info\nComments URL: https://news.ycombinator.com/item?id=48617990\nPoints: 217\n# Comments: 99",
-      "publishedAt": "2026-06-21T11:38:01.000Z",
-      "image": "https://cdn.prod.website-files.com/5c68622246b367adf6f3041d/60d97aab6fdf2731bde767e8_BAR_Web_OG-media-2021_1200_V2.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The case against geometric algebra (2024)",
-      "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "summary": "Article URL: https://alexkritchevsky.com/2024/02/28/geometric-algebra.html\nComments URL: https://news.ycombinator.com/item?id=48617782\nPoints: 91\n# Comments: 65",
-      "publishedAt": "2026-06-21T11:06:55.000Z",
-      "image": null
     },
     {
       "source": "Wired",
@@ -152,22 +200,6 @@
       "summary": "The cryptographic keys that secure your computer's boot sequence will start to expire on June 24. Here's what that means for you.",
       "publishedAt": "2026-06-21T09:00:00.000Z",
       "image": "https://media.wired.com/photos/6a342b0819ec74e5dcd4e6ca/191:100/w_1280,c_limit/GettyImages-1091064696.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google Hits 50% IPv6",
-      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "summary": "Article URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/\nComments URL: https://news.ycombinator.com/item?id=48616800\nPoints: 294\n# Comments: 284",
-      "publishedAt": "2026-06-21T08:21:22.000Z",
-      "image": "https://blog.apnic.net/wp-content/uploads/2026/04/50-percent_ft.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A 3D voxel game engine written in APL",
-      "link": "https://github.com/namgyaaal/avoxelgame",
-      "summary": "Article URL: https://github.com/namgyaaal/avoxelgame\nComments URL: https://news.ycombinator.com/item?id=48616713\nPoints: 103\n# Comments: 8",
-      "publishedAt": "2026-06-21T08:04:54.000Z",
-      "image": "https://opengraph.githubassets.com/f6a01ab6a333c7eca7caa33ed855a088b9bad9019643bab2492924bf7f2c5f33/namgyaaal/avoxelgame"
     },
     {
       "source": "TechCrunch",
@@ -258,14 +290,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Portrait-Aleksander-Stojanov-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "TechCrunch",
-      "title": "Every new iOS 27 feature that’s worth knowing about",
-      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-      "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
-      "publishedAt": "2026-06-20T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Apple-services-hero_big-1.jpg.large_2x.jpg?w=1200"
-    },
-    {
       "source": "The Verge",
       "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
       "link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
@@ -280,14 +304,6 @@
       "summary": "Car buyers love Android Auto. Automakers? Not so much.",
       "publishedAt": "2026-06-20T13:30:00.000Z",
       "image": "https://www.engadget.com/img/gallery/car-manufacturers-are-ditching-android-auto-in-2026-heres-why/l-intro-1781823858.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Toy Story has the right take on tech",
-      "link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read a…",
-      "publishedAt": "2026-06-20T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Installer-133.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "source": "Engadget",
@@ -314,28 +330,12 @@
       "image": "https://media.wired.com/photos/6a35a0ac7cb7548eacd52c88/191:100/w_1280,c_limit/Home-Batteries-Aren%E2%80%99t-Just-for-Doomsday-Preppers.-Here%E2%80%99s-Why-You-Might-Want-One.jpg"
     },
     {
-      "source": "Engadget",
-      "title": "Steam Next Fest demos, a Virtual Boy-inspired shooter and other new indie games worth checking out",
-      "link": "https://www.engadget.com/2198112/steam-next-fest-demos-a-virtual-boy-inspired-shooter-and-other-new-indie-games-worth-checking-out/",
-      "summary": "Steam Next Fest demos, a Virtual Boy-inspired shooter and other new indie games worth checking out.",
-      "publishedAt": "2026-06-20T11:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/steam-next-fest-demos-a-virtual-boy-inspired-shooter-and-other-new-indie-games-worth-checking-out/l-intro-1781888544.jpg"
-    },
-    {
       "source": "Wired",
       "title": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
       "link": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
       "summary": "We’ve trawled the depths of Amazon to find the best deals on gear we’ve tested.",
       "publishedAt": "2026-06-20T10:38:00.000Z",
       "image": "https://media.wired.com/photos/6a31e4e303c0be2f1d7e861f/191:100/w_1280,c_limit/Launorma_EarlyPrimeDayDeal.png"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
-      "publishedAt": "2026-06-20T00:47:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2182705840.jpeg?resize=1200,800"
     },
     {
       "source": "VentureBeat",
