@@ -52,9 +52,20 @@ const pageTitle = page.currentPage === 1
     </ul>
 
     <nav class="pager" aria-label="Pagination">
-      {page.url.prev ? <a href={page.url.prev} class="pager__link">← Newer</a> : <span />}
-      <span class="pager__status">Page {page.currentPage} of {page.lastPage}</span>
-      {page.url.next ? <a href={page.url.next} class="pager__link">Older →</a> : <span />}
+      <div class="pager__row">
+        {page.url.prev ? <a href={page.url.prev} class="pager__link">← Newer</a> : <span />}
+        <span class="pager__status">Page {page.currentPage} of {page.lastPage}</span>
+        {page.url.next ? <a href={page.url.next} class="pager__link">Older →</a> : <span />}
+      </div>
+      <div class="pager__numbers">
+        {Array.from({ length: page.lastPage }, (_, i) => i + 1).map((n) => (
+          n === page.currentPage ? (
+            <span class="pager__num pager__num--active" aria-current="page">{n}</span>
+          ) : (
+            <a href={n === 1 ? '/wire' : `/wire/${n}`} class="pager__num">{n}</a>
+          )
+        ))}
+      </div>
     </nav>
   </section>
 </BaseLayout>
@@ -82,14 +93,16 @@ const pageTitle = page.currentPage === 1
   .list p { color: var(--slate); margin: 0; font-size: 15px; overflow-wrap: anywhere; }
 
   .pager {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
     margin-top: 48px;
     font-family: var(--font-mono);
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 0.03em;
+  }
+  .pager__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
   .pager__link {
     padding: 10px 18px;
@@ -104,10 +117,38 @@ const pageTitle = page.currentPage === 1
   }
   .pager__status { color: var(--slate); }
 
+  .pager__numbers {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 20px;
+  }
+  .pager__num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border: 2px solid var(--ink);
+    border-radius: 50%;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  a.pager__num:hover {
+    background: var(--ink);
+    color: var(--paper);
+    transform: rotate(-8deg);
+  }
+  .pager__num--active {
+    background: var(--signal);
+    border-color: var(--signal);
+    color: var(--ink-fixed);
+  }
+
   @media (max-width: 560px) {
     .card { flex-direction: column; }
     .card__image { width: 100%; height: 160px; }
-    .pager { font-size: 12px; }
+    .pager__row { font-size: 12px; }
     .pager__link { padding: 8px 12px; }
   }
 </style>
