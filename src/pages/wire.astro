@@ -49,8 +49,8 @@ const itemListJsonLd = {
   .intro { color: var(--slate); margin-bottom: 36px; }
   .intro .byline { display: block; margin-top: 6px; }
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
-  .list li { margin: 0; }
-  .card { display: flex; gap: 20px; padding: 22px; align-items: flex-start; }
+  .list li { margin: 0; min-width: 0; }
+  .card { display: flex; gap: 20px; padding: 22px; align-items: flex-start; min-width: 0; }
   .card__image {
     width: 140px;
     height: 100px;
@@ -62,8 +62,8 @@ const itemListJsonLd = {
   .card__body { flex: 1; min-width: 0; }
   .source { display: inline-flex; align-items: center; gap: 8px; }
   .source__logo { border-radius: 4px; }
-  .list h2 { font-size: 20px; margin: 12px 0 8px; }
-  .list p { color: var(--slate); margin: 0; font-size: 15px; }
+  .list h2 { font-size: 20px; margin: 12px 0 8px; overflow-wrap: anywhere; }
+  .list p { color: var(--slate); margin: 0; font-size: 15px; overflow-wrap: anywhere; }
 
   @media (max-width: 560px) {
     .card { flex-direction: column; }

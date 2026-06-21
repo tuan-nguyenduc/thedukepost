@@ -22,8 +22,8 @@ const FEEDS = [
 
 const MAX_ITEMS_PER_FEED = 8;
 const MAX_SUMMARY_LENGTH = 180;
-const IMAGE_FETCH_CONCURRENCY = 6;
-const IMAGE_FETCH_TIMEOUT_MS = 8000;
+const IMAGE_FETCH_CONCURRENCY = 12;
+const IMAGE_FETCH_TIMEOUT_MS = 5000;
 
 function stripHtml(html = '') {
   return html.replace(/<[^>]*>/g, '').trim();
@@ -41,6 +41,18 @@ function decodeHtmlEntities(text) {
     .replace(/&#0?39;/g, "'")
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>');
+}
+
+// Many feeds already embed an image (an <enclosure>, or an <img> in the
+// content HTML) — pulling that is free, so we only hit the network for
+// items that don't have one.
+function imageFromFeedItem(item) {
+  if (item.enclosure?.url && /^image\//.test(item.enclosure.type ?? '')) {
+    return item.enclosure.url;
+  }
+  const html = item['content:encoded'] ?? item.content ?? '';
+  const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return match ? decodeHtmlEntities(match[1]) : null;
 }
 
 // Fetch the original article page and pull its og:image (or twitter:image
@@ -88,6 +100,7 @@ async function syncFeeds() {
         link: item.link ?? '#',
         summary: truncate(stripHtml(item.contentSnippet ?? item.summary ?? ''), MAX_SUMMARY_LENGTH),
         publishedAt: item.isoDate ?? item.pubDate ?? new Date().toISOString(),
+        image: imageFromFeedItem(item),
       }));
       allItems.push(...items);
       console.log(`✓ ${feed.name}: ${items.length} items`);
@@ -98,12 +111,14 @@ async function syncFeeds() {
 
   allItems.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
-  console.log(`\nFetching preview images for ${allItems.length} items…`);
-  const images = await mapWithConcurrency(allItems, IMAGE_FETCH_CONCURRENCY, (item) =>
+  const needsFetch = allItems.filter((item) => !item.image);
+  console.log(`\n${allItems.length - needsFetch.length}/${allItems.length} items already had an image from their feed.`);
+  console.log(`Fetching preview images for the other ${needsFetch.length}…`);
+  const fetched = await mapWithConcurrency(needsFetch, IMAGE_FETCH_CONCURRENCY, (item) =>
     fetchPreviewImage(item.link)
   );
-  allItems.forEach((item, i) => { item.image = images[i]; });
-  console.log(`✓ Found images for ${images.filter(Boolean).length}/${allItems.length} items`);
+  needsFetch.forEach((item, i) => { item.image = fetched[i]; });
+  console.log(`✓ Found images for ${allItems.filter((item) => item.image).length}/${allItems.length} items total`);
 
   await mkdir('src/data', { recursive: true });
   await writeFile(
