@@ -22,6 +22,8 @@ const FEEDS = [
 
 const MAX_ITEMS_PER_FEED = 8;
 const MAX_SUMMARY_LENGTH = 180;
+const IMAGE_FETCH_CONCURRENCY = 6;
+const IMAGE_FETCH_TIMEOUT_MS = 8000;
 
 function stripHtml(html = '') {
   return html.replace(/<[^>]*>/g, '').trim();
@@ -30,6 +32,48 @@ function stripHtml(html = '') {
 function truncate(text, max) {
   if (text.length <= max) return text;
   return text.slice(0, max).trimEnd() + '…';
+}
+
+function decodeHtmlEntities(text) {
+  return text
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
+}
+
+// Fetch the original article page and pull its og:image (or twitter:image
+// fallback) so each Wire item can show a real preview image, not a stock icon.
+async function fetchPreviewImage(link) {
+  try {
+    const res = await fetch(link, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; TheDukePostBot/1.0)' },
+      signal: AbortSignal.timeout(IMAGE_FETCH_TIMEOUT_MS),
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const match =
+      html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
+      html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    return match ? decodeHtmlEntities(match[1]) : null;
+  } catch {
+    return null;
+  }
+}
+
+async function mapWithConcurrency(items, limit, fn) {
+  const results = new Array(items.length);
+  let next = 0;
+  async function worker() {
+    while (next < items.length) {
+      const index = next++;
+      results[index] = await fn(items[index]);
+    }
+  }
+  await Promise.all(Array.from({ length: limit }, worker));
+  return results;
 }
 
 async function syncFeeds() {
@@ -53,6 +97,13 @@ async function syncFeeds() {
   }
 
   allItems.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
+  console.log(`\nFetching preview images for ${allItems.length} items…`);
+  const images = await mapWithConcurrency(allItems, IMAGE_FETCH_CONCURRENCY, (item) =>
+    fetchPreviewImage(item.link)
+  );
+  allItems.forEach((item, i) => { item.image = images[i]; });
+  console.log(`✓ Found images for ${images.filter(Boolean).length}/${allItems.length} items`);
 
   await mkdir('src/data', { recursive: true });
   await writeFile(

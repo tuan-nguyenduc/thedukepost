@@ -13,6 +13,13 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 <!doctype html>
 <html lang="en">
 <head>
+  <script is:inline>
+    (function () {
+      var stored = localStorage.getItem('theme');
+      var theme = stored || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.dataset.theme = theme;
+    })();
+  </script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content={description} />
@@ -44,6 +51,10 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
         <a href="/articles">Articles</a>
         <a href="/wire">Wire</a>
         <a href="/about">About</a>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">
+          <span class="theme-toggle__icon theme-toggle__icon--sun">☀️</span>
+          <span class="theme-toggle__icon theme-toggle__icon--moon">🌙</span>
+        </button>
       </nav>
     </div>
   </header>
@@ -60,6 +71,15 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
   </footer>
 
   <Analytics />
+
+  <script is:inline>
+    document.getElementById('theme-toggle').addEventListener('click', function () {
+      var root = document.documentElement;
+      var next = root.dataset.theme === 'dark' ? 'light' : 'dark';
+      root.dataset.theme = next;
+      localStorage.setItem('theme', next);
+    });
+  </script>
 </body>
 </html>
 
@@ -114,6 +134,27 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
     color: var(--paper);
     transform: rotate(-1deg);
   }
+  .theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border: 2px solid var(--ink);
+    border-radius: 50%;
+    background: none;
+    font-size: 14px;
+    line-height: 1;
+    cursor: pointer;
+    transition: transform 0.15s ease, background 0.15s ease;
+  }
+  .theme-toggle:hover {
+    background: var(--ink);
+    transform: rotate(-8deg);
+  }
+  .theme-toggle__icon--moon { display: none; }
+  [data-theme='dark'] .theme-toggle__icon--sun { display: none; }
+  [data-theme='dark'] .theme-toggle__icon--moon { display: inline; }
 
   .site-footer {
     border-top: 2px solid var(--ink);

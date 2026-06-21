@@ -103,12 +103,12 @@ const syncedAt = new Date(wireData.syncedAt);
 
   .wire {
     background: var(--surface);
-    color: var(--paper);
+    color: var(--surface-text);
     padding: 48px 24px 56px;
     border-radius: 24px;
     margin: 0 auto 56px;
   }
-  .wire .section-title { color: var(--paper); }
+  .wire .section-title { color: var(--surface-text); }
   .wire__header {
     display: flex;
     align-items: baseline;
@@ -163,7 +163,7 @@ const syncedAt = new Date(wireData.syncedAt);
     color: #8B96A5;
     margin-top: 22px;
   }
-  .wire__note a { color: var(--paper); border-bottom: 1px solid var(--signal); }
+  .wire__note a { color: var(--surface-text); border-bottom: 1px solid var(--signal); }
 
   @media (max-width: 640px) {
     .wire__item a { flex-direction: column; gap: 4px; }
