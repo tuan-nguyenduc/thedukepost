@@ -5,7 +5,7 @@
 import Parser from 'rss-parser';
 import { writeFile, mkdir } from 'node:fs/promises';
 
-const parser = new Parser();
+const parser = new Parser({ timeout: 10000 });
 
 // Add or remove feeds here. Keep to publishers that publish full RSS feeds
 // with title + link + summary — we only ever show a short excerpt and link out.
@@ -23,7 +23,12 @@ const FEEDS = [
 const MAX_ITEMS_PER_FEED = 8;
 const MAX_SUMMARY_LENGTH = 180;
 const IMAGE_FETCH_CONCURRENCY = 12;
-const IMAGE_FETCH_TIMEOUT_MS = 5000;
+const IMAGE_FETCH_TIMEOUT_MS = 4000;
+// Hard ceiling on the whole image-fetching phase. Some hosts can leave a
+// connection open without ever resolving or rejecting, which AbortSignal
+// doesn't always cut off reliably in CI — this guarantees the script moves
+// on regardless, with whatever images it managed to fetch in time.
+const IMAGE_FETCH_PHASE_DEADLINE_MS = 45000;
 
 function stripHtml(html = '') {
   return html.replace(/<[^>]*>/g, '').trim();
@@ -55,9 +60,25 @@ function imageFromFeedItem(item) {
   return match ? decodeHtmlEntities(match[1]) : null;
 }
 
+// Races a promise against a plain timer so a hung connection can never
+// block us, even if the promise's own abort/cancellation never fires.
+function withTimeout(promise, ms, fallback) {
+  return new Promise((resolve) => {
+    const timer = setTimeout(() => resolve(fallback), ms);
+    promise.then(
+      (value) => { clearTimeout(timer); resolve(value); },
+      () => { clearTimeout(timer); resolve(fallback); }
+    );
+  });
+}
+
 // Fetch the original article page and pull its og:image (or twitter:image
 // fallback) so each Wire item can show a real preview image, not a stock icon.
 async function fetchPreviewImage(link) {
+  return withTimeout(fetchPreviewImageUncapped(link), IMAGE_FETCH_TIMEOUT_MS, null);
+}
+
+async function fetchPreviewImageUncapped(link) {
   try {
     const res = await fetch(link, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; TheDukePostBot/1.0)' },
@@ -75,47 +96,60 @@ async function fetchPreviewImage(link) {
   }
 }
 
-async function mapWithConcurrency(items, limit, fn) {
-  const results = new Array(items.length);
+async function mapWithConcurrency(items, limit, fn, phaseDeadlineMs) {
+  const results = new Array(items.length).fill(null);
   let next = 0;
+  let timedOut = false;
+
   async function worker() {
-    while (next < items.length) {
+    while (next < items.length && !timedOut) {
       const index = next++;
       results[index] = await fn(items[index]);
     }
   }
-  await Promise.all(Array.from({ length: limit }, worker));
+
+  const allDone = Promise.all(Array.from({ length: limit }, worker));
+  const deadline = new Promise((resolve) => {
+    setTimeout(() => { timedOut = true; resolve(); }, phaseDeadlineMs);
+  });
+
+  await Promise.race([allDone, deadline]);
   return results;
 }
 
 async function syncFeeds() {
-  const allItems = [];
-
-  for (const feed of FEEDS) {
-    try {
-      const parsed = await parser.parseURL(feed.url);
-      const items = (parsed.items ?? []).slice(0, MAX_ITEMS_PER_FEED).map((item) => ({
-        source: feed.name,
-        title: item.title ?? 'Untitled',
-        link: item.link ?? '#',
-        summary: truncate(stripHtml(item.contentSnippet ?? item.summary ?? ''), MAX_SUMMARY_LENGTH),
-        publishedAt: item.isoDate ?? item.pubDate ?? new Date().toISOString(),
-        image: imageFromFeedItem(item),
-      }));
-      allItems.push(...items);
-      console.log(`✓ ${feed.name}: ${items.length} items`);
-    } catch (err) {
-      console.error(`✗ ${feed.name}: failed to fetch — ${err.message}`);
-    }
-  }
+  const feedResults = await Promise.all(
+    FEEDS.map(async (feed) => {
+      try {
+        const parsed = await parser.parseURL(feed.url);
+        const items = (parsed.items ?? []).slice(0, MAX_ITEMS_PER_FEED).map((item) => ({
+          source: feed.name,
+          title: item.title ?? 'Untitled',
+          link: item.link ?? '#',
+          summary: truncate(stripHtml(item.contentSnippet ?? item.summary ?? ''), MAX_SUMMARY_LENGTH),
+          publishedAt: item.isoDate ?? item.pubDate ?? new Date().toISOString(),
+          image: imageFromFeedItem(item),
+        }));
+        console.log(`✓ ${feed.name}: ${items.length} items`);
+        return items;
+      } catch (err) {
+        console.error(`✗ ${feed.name}: failed to fetch — ${err.message}`);
+        return [];
+      }
+    })
+  );
+  const allItems = feedResults.flat();
 
   allItems.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
   const needsFetch = allItems.filter((item) => !item.image);
   console.log(`\n${allItems.length - needsFetch.length}/${allItems.length} items already had an image from their feed.`);
   console.log(`Fetching preview images for the other ${needsFetch.length}…`);
-  const fetched = await mapWithConcurrency(needsFetch, IMAGE_FETCH_CONCURRENCY, (item) =>
-    fetchPreviewImage(item.link)
+  const fetched = await mapWithConcurrency(
+    needsFetch,
+    IMAGE_FETCH_CONCURRENCY,
+    (item) => fetchPreviewImage(item.link),
+    IMAGE_FETCH_PHASE_DEADLINE_MS
   );
   needsFetch.forEach((item, i) => { item.image = fetched[i]; });
   console.log(`✓ Found images for ${allItems.filter((item) => item.image).length}/${allItems.length} items total`);
@@ -129,4 +163,13 @@ async function syncFeeds() {
   console.log(`\nWrote ${allItems.length} items to src/data/wire.json`);
 }
 
-syncFeeds();
+// Abandoned fetches from hung connections (the ones withTimeout/AbortSignal
+// raced past) can leave open sockets behind, which would otherwise keep the
+// process alive long after our own work is done. Exit explicitly instead of
+// waiting for Node to drain an event loop that may never empty on its own.
+syncFeeds()
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
