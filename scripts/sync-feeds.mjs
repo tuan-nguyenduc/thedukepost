@@ -14,6 +14,10 @@ const FEEDS = [
   { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml' },
   { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index' },
   { name: 'Hacker News', url: 'https://hnrss.org/frontpage' },
+  { name: 'Wired', url: 'https://www.wired.com/feed/rss' },
+  { name: 'Engadget', url: 'https://www.engadget.com/rss.xml' },
+  { name: 'MIT Technology Review', url: 'https://www.technologyreview.com/feed/' },
+  { name: 'VentureBeat', url: 'https://venturebeat.com/feed/' },
 ];
 
 const MAX_ITEMS_PER_FEED = 8;

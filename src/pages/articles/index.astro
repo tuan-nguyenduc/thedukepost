@@ -8,18 +8,22 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft))
 <BaseLayout title="Articles — The Duke Post">
   <section class="wrap page">
     <h1>Articles</h1>
-    <ul class="list">
-      {articles.map((a) => (
-        <li>
-          <a href={`/articles/${a.slug}`} class="sticker">
-            <span class="eyebrow">{a.data.category}</span>
-            <h2>{a.data.title}</h2>
-            <p>{a.data.description}</p>
-            <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
-          </a>
-        </li>
-      ))}
-    </ul>
+    {articles.length > 0 ? (
+      <ul class="list">
+        {articles.map((a) => (
+          <li>
+            <a href={`/articles/${a.slug}`} class="sticker">
+              <span class="eyebrow">{a.data.category}</span>
+              <h2>{a.data.title}</h2>
+              <p>{a.data.description}</p>
+              <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <p class="empty">No articles published yet — check back soon.</p>
+    )}
   </section>
 </BaseLayout>
 
@@ -31,4 +35,5 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .list a { display: block; padding: 24px; }
   .list h2 { font-size: 24px; margin: 12px 0 8px; }
   .list p { color: var(--slate); margin: 0 0 8px; }
+  .empty { color: var(--slate); font-size: 17px; }
 </style>
