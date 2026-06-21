@@ -1,6 +1,30 @@
 {
-  "syncedAt": "2026-06-21T19:47:04.180Z",
+  "syncedAt": "2026-06-21T21:17:42.714Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Polymarket has reportedly been paying creators to post fake betting videos",
+      "link": "https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/",
+      "summary": "The Wall Street Journal reviewed 1,105 videos along with guidance given to creators for crafting their posts.",
+      "publishedAt": "2026-06-21T20:53:42.000Z",
+      "image": "https://www.engadget.com/img/gallery/polymarket-has-reportedly-been-paying-creators-to-post-fake-betting-videos/l-intro-1782074956.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask for no, don't ask for yes (2022)",
+      "link": "https://www.mooreds.com/wordpress/archives/3518",
+      "summary": "Article URL: https://www.mooreds.com/wordpress/archives/3518\nComments URL: https://news.ycombinator.com/item?id=48622234\nPoints: 8\n# Comments: 0",
+      "publishedAt": "2026-06-21T20:17:48.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "link": "https://clevercrow.io",
+      "summary": "Howdy all. I'm Zack :wave:. I've been thinking about the problem of misguided AI pull requests and figured I'd throw a possible solution out there for feedback. Basically, CleverCr…",
+      "publishedAt": "2026-06-21T19:06:07.000Z",
+      "image": "https://clevercrow.io/og-card.png"
+    },
     {
       "source": "The Verge",
       "title": "Bose thinks it can be a media company for some reason",
@@ -13,7 +37,7 @@
       "source": "Hacker News",
       "title": "JSON-LD Explained for Personal Websites",
       "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "summary": "Article URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/\nComments URL: https://news.ycombinator.com/item?id=48621517\nPoints: 12\n# Comments: 2",
+      "summary": "Article URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/\nComments URL: https://news.ycombinator.com/item?id=48621517\nPoints: 85\n# Comments: 19",
       "publishedAt": "2026-06-21T18:51:47.000Z",
       "image": null
     },
@@ -53,7 +77,7 @@
       "source": "Hacker News",
       "title": "Burnout is real for open source maintainers",
       "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "summary": "Article URL: https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers\nComments URL: https://news.ycombinator.com/item?id=48620462\nPoints: 77\n# Comments: 34",
+      "summary": "Article URL: https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers\nComments URL: https://news.ycombinator.com/item?id=48620462\nPoints: 103\n# Comments: 49",
       "publishedAt": "2026-06-21T16:56:18.000Z",
       "image": "https://images.prismic.io/openjsf/acRGrpGXnQHGY-L1_BlogPostImagesOpenJS-2-.png?auto=format,compress"
     },
@@ -61,7 +85,7 @@
       "source": "Hacker News",
       "title": "The minimum viable unit of saleable software",
       "link": "https://brandur.org/minimum-viable-unit",
-      "summary": "Article URL: https://brandur.org/minimum-viable-unit\nComments URL: https://news.ycombinator.com/item?id=48620342\nPoints: 51\n# Comments: 22",
+      "summary": "Article URL: https://brandur.org/minimum-viable-unit\nComments URL: https://news.ycombinator.com/item?id=48620342\nPoints: 74\n# Comments: 36",
       "publishedAt": "2026-06-21T16:41:21.000Z",
       "image": "https://brandur.org/assets/images/minimum-viable-unit/twitter@2x.jpg"
     },
@@ -75,17 +99,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "The early hiring funnel is now breaking on both ends",
-      "link": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-      "summary": "Article URL: https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it\nComments URL: https://news.ycombinator.com/item?id=48620142\nPoints: 68\n# Comments: 110",
-      "publishedAt": "2026-06-21T16:14:54.000Z",
-      "image": "/resources/images/article_assets/2026/05/Jun26_05_116781636.jpg"
-    },
-    {
-      "source": "Hacker News",
       "title": "Prefer duplication over the wrong abstraction (2016)",
       "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\nComments URL: https://news.ycombinator.com/item?id=48620090\nPoints: 282\n# Comments: 199",
+      "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\nComments URL: https://news.ycombinator.com/item?id=48620090\nPoints: 355\n# Comments: 246",
       "publishedAt": "2026-06-21T16:08:23.000Z",
       "image": null
     },
@@ -109,7 +125,7 @@
       "source": "Hacker News",
       "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
       "link": "https://norvig.com/lispy.html",
-      "summary": "Article URL: https://norvig.com/lispy.html\nComments URL: https://news.ycombinator.com/item?id=48619831\nPoints: 105\n# Comments: 36",
+      "summary": "Article URL: https://norvig.com/lispy.html\nComments URL: https://news.ycombinator.com/item?id=48619831\nPoints: 141\n# Comments: 41",
       "publishedAt": "2026-06-21T15:36:33.000Z",
       "image": null
     },
@@ -120,14 +136,6 @@
       "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
       "publishedAt": "2026-06-21T15:28:17.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-      "link": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-      "summary": "Article URL: https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/\nComments URL: https://news.ycombinator.com/item?id=48619394\nPoints: 98\n# Comments: 63",
-      "publishedAt": "2026-06-21T14:43:08.000Z",
-      "image": "https://cleantechnica.com/wp-content/uploads/2026/06/07101180-df6c-43af-ac8b-bacaddd3be58_1600x900.webp"
     },
     {
       "source": "TechCrunch",
@@ -312,14 +320,6 @@
       "summary": "Car buyers love Android Auto. Automakers? Not so much.",
       "publishedAt": "2026-06-20T13:30:00.000Z",
       "image": "https://www.engadget.com/img/gallery/car-manufacturers-are-ditching-android-auto-in-2026-heres-why/l-intro-1781823858.jpg"
-    },
-    {
-      "source": "Engadget",
-      "title": "Nothing's budget brand CMF won't be releasing a new phone this year",
-      "link": "https://www.engadget.com/2198323/nothing-budget-brand-cmf-new-new-phone-this-year/",
-      "summary": "CMF by Nothing won't be able to release a follow-up to the Phone Pro 2 this year.",
-      "publishedAt": "2026-06-20T11:55:17.000Z",
-      "image": "https://www.engadget.com/img/gallery/nothings-budget-brand-cmf-wont-be-releasing-a-new-phone-this-year/l-intro-1781956332.jpg"
     },
     {
       "source": "Ars Technica",
