@@ -1,11 +1,59 @@
 {
-  "syncedAt": "2026-06-21T06:16:27.913Z",
+  "syncedAt": "2026-06-21T09:54:45.073Z",
   "items": [
     {
+      "source": "Wired",
+      "title": "A Critical Deadline Is Approaching for Windows and Linux Security",
+      "link": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
+      "summary": "The cryptographic keys that secure your computer's boot sequence will start to expire on June 24. Here's what that means for you.",
+      "publishedAt": "2026-06-21T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a342b0819ec74e5dcd4e6ca/191:100/w_1280,c_limit/GettyImages-1091064696.jpg"
+    },
+    {
       "source": "Hacker News",
-      "title": "Building Reliable Agentic AI Systems",
+      "title": "Google Hits 50% IPv6",
+      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "summary": "Article URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/\nComments URL: https://news.ycombinator.com/item?id=48616800\nPoints: 61\n# Comments: 36",
+      "publishedAt": "2026-06-21T08:21:22.000Z",
+      "image": "https://blog.apnic.net/wp-content/uploads/2026/04/50-percent_ft.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A 3D voxel game engine written in APL",
+      "link": "https://github.com/namgyaaal/avoxelgame",
+      "summary": "Article URL: https://github.com/namgyaaal/avoxelgame\nComments URL: https://news.ycombinator.com/item?id=48616713\nPoints: 29\n# Comments: 6",
+      "publishedAt": "2026-06-21T08:04:54.000Z",
+      "image": "https://opengraph.githubassets.com/23995f78bd2b420f355d372374a0ace748227c616651207b66651c13681dfbcb/namgyaaal/avoxelgame"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "link": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+      "summary": "Article URL: https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48616173\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-06-21T06:24:52.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "The 100k Whys of AI",
+      "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai\nComments URL: https://news.ycombinator.com/item?id=48616017\nPoints: 106\n# Comments: 55",
+      "publishedAt": "2026-06-21T05:45:21.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+      "link": "https://spectrum.ieee.org/alan-turings-delilah",
+      "summary": "Article URL: https://spectrum.ieee.org/alan-turings-delilah\nComments URL: https://news.ycombinator.com/item?id=48615890\nPoints: 21\n# Comments: 1",
+      "publishedAt": "2026-06-21T05:15:33.000Z",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=56152253&width=1200&height=600&coordinates=0%2C15%2C0%2C15"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building reliable agentic AI systems",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html\nComments URL: https://news.ycombinator.com/item?id=48615680\nPoints: 31\n# Comments: 2",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html\nComments URL: https://news.ycombinator.com/item?id=48615680\nPoints: 101\n# Comments: 20",
       "publishedAt": "2026-06-21T04:28:39.000Z",
       "image": null
     },
@@ -13,57 +61,17 @@
       "source": "Hacker News",
       "title": "Your brain was never designed for this much bad news",
       "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm\nComments URL: https://news.ycombinator.com/item?id=48615569\nPoints: 70\n# Comments: 40",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm\nComments URL: https://news.ycombinator.com/item?id=48615569\nPoints: 190\n# Comments: 122",
       "publishedAt": "2026-06-21T04:02:08.000Z",
       "image": "https://www.sciencedaily.com/images/1920/serious-woman-upset-by-bad-news-on-smartphone.webp"
     },
     {
       "source": "Hacker News",
-      "title": "Armstrong Effect",
-      "link": "https://en.wikipedia.org/wiki/Armstrong_effect",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Armstrong_effect\nComments URL: https://news.ycombinator.com/item?id=48615529\nPoints: 17\n# Comments: 1",
-      "publishedAt": "2026-06-21T03:54:22.000Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Meyers_b5_s0529_b3.png"
-    },
-    {
-      "source": "Hacker News",
       "title": "Developers don't understand CORS (2019)",
       "link": "https://fosterelli.co/developers-dont-understand-cors",
-      "summary": "Article URL: https://fosterelli.co/developers-dont-understand-cors\nComments URL: https://news.ycombinator.com/item?id=48614844\nPoints: 97\n# Comments: 36",
+      "summary": "Article URL: https://fosterelli.co/developers-dont-understand-cors\nComments URL: https://news.ycombinator.com/item?id=48614844\nPoints: 192\n# Comments: 101",
       "publishedAt": "2026-06-21T01:35:40.000Z",
       "image": "https://fosterelli.co/image/social.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "When I reject AI code even if it works",
-      "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/\nComments URL: https://news.ycombinator.com/item?id=48614631\nPoints: 126\n# Comments: 72",
-      "publishedAt": "2026-06-21T00:58:13.000Z",
-      "image": "https://vinibrasil.com/og/when-i-reject-ai-code-even-if-it-works.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Project Fetch: Phase Two",
-      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "summary": "Article URL: https://www.anthropic.com/research/project-fetch-phase-two\nComments URL: https://news.ycombinator.com/item?id=48614311\nPoints: 52\n# Comments: 18",
-      "publishedAt": "2026-06-21T00:00:25.000Z",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Knobs&backgroundColor=cactus"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Epoll vs. io_uring in Linux",
-      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/\nComments URL: https://news.ycombinator.com/item?id=48613872\nPoints: 111\n# Comments: 31",
-      "publishedAt": "2026-06-20T23:07:09.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Renting a sewing machine from the library",
-      "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\nComments URL: https://news.ycombinator.com/item?id=48613755\nPoints: 182\n# Comm…",
-      "publishedAt": "2026-06-20T22:54:11.000Z",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0nssr23.jpg"
     },
     {
       "source": "TechCrunch",
@@ -352,14 +360,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottle…",
       "publishedAt": "2026-06-19T12:10:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2020/12/JF21_intro.jpeg?w=2600"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
-      "link": "https://www.wired.com/gallery/the-best-ipad/",
-      "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
-      "publishedAt": "2026-06-19T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/69ced2e8b3e67db87f57d6c7/191:100/w_1280,c_limit/ipad-air-m4-04%20(1).jpg"
     },
     {
       "source": "Ars Technica",
