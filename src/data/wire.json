@@ -1,6 +1,62 @@
 {
-  "syncedAt": "2026-06-21T21:17:42.714Z",
+  "syncedAt": "2026-06-21T23:18:05.610Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Rent collections are down in New York – and no one's sure why",
+      "link": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
+      "summary": "Article URL: https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982\nComments URL: https://news.ycombinator.com/item?id=4862298…",
+      "publishedAt": "2026-06-21T21:54:34.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Did my old job only exist because of fraud?",
+      "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "summary": "Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\nComments URL: https://news.ycombinator.com/item?id=48622867\nPoints: 72\n# Comments: 17",
+      "publishedAt": "2026-06-21T21:40:53.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/\nComments URL: https://news.ycombinator.com/item?id=48…",
+      "publishedAt": "2026-06-21T21:30:25.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "link": "https://apertvs.ai/",
+      "summary": "Article URL: https://apertvs.ai/\nComments URL: https://news.ycombinator.com/item?id=48622778\nPoints: 96\n# Comments: 24",
+      "publishedAt": "2026-06-21T21:29:43.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "PowerFox Browser",
+      "link": "https://powerfox.jazzzny.me/",
+      "summary": "Article URL: https://powerfox.jazzzny.me/\nComments URL: https://news.ycombinator.com/item?id=48622731\nPoints: 33\n# Comments: 11",
+      "publishedAt": "2026-06-21T21:23:13.000Z",
+      "image": "https://powerfox.jazzzny.me/assets/img/prodimg.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Everything Is Logarithms",
+      "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "summary": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\nComments URL: https://news.ycombinator.com/item?id=48622626\nPoints: 64\n# Comments: 5",
+      "publishedAt": "2026-06-21T21:10:32.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stop wasting tokens and re explaining your project between sessions",
+      "link": "https://github.com/raiyanyahya/recall",
+      "summary": "Article URL: https://github.com/raiyanyahya/recall\nComments URL: https://news.ycombinator.com/item?id=48622590\nPoints: 43\n# Comments: 30",
+      "publishedAt": "2026-06-21T21:05:37.000Z",
+      "image": "https://opengraph.githubassets.com/cf363a6502582faf10075fca279efff82c87928558b7481b7af269af284e6e0e/raiyanyahya/recall"
+    },
     {
       "source": "Engadget",
       "title": "Polymarket has reportedly been paying creators to post fake betting videos",
@@ -13,17 +69,9 @@
       "source": "Hacker News",
       "title": "Ask for no, don't ask for yes (2022)",
       "link": "https://www.mooreds.com/wordpress/archives/3518",
-      "summary": "Article URL: https://www.mooreds.com/wordpress/archives/3518\nComments URL: https://news.ycombinator.com/item?id=48622234\nPoints: 8\n# Comments: 0",
+      "summary": "Article URL: https://www.mooreds.com/wordpress/archives/3518\nComments URL: https://news.ycombinator.com/item?id=48622234\nPoints: 78\n# Comments: 36",
       "publishedAt": "2026-06-21T20:17:48.000Z",
       "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-      "link": "https://clevercrow.io",
-      "summary": "Howdy all. I'm Zack :wave:. I've been thinking about the problem of misguided AI pull requests and figured I'd throw a possible solution out there for feedback. Basically, CleverCr…",
-      "publishedAt": "2026-06-21T19:06:07.000Z",
-      "image": "https://clevercrow.io/og-card.png"
     },
     {
       "source": "The Verge",
@@ -32,14 +80,6 @@
       "summary": "The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exceptio…",
       "publishedAt": "2026-06-21T18:53:50.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/bosequietcomfortultraheadphonessecondgeneration.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Hacker News",
-      "title": "JSON-LD Explained for Personal Websites",
-      "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "summary": "Article URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/\nComments URL: https://news.ycombinator.com/item?id=48621517\nPoints: 85\n# Comments: 19",
-      "publishedAt": "2026-06-21T18:51:47.000Z",
-      "image": null
     },
     {
       "source": "TechCrunch",
@@ -66,44 +106,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Cold-Court-Hands-Up-EP-Art-by-Gabriel-Good-large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Hacker News",
-      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
-      "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer\nComments URL: https://news.ycombinator.com/item?id=48620504\nPoints: 0\n# Commen…",
-      "publishedAt": "2026-06-21T17:00:28.000Z",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/ded9c49e4caae76b5466102e61073e6b370cb326.png?1738308671"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Burnout is real for open source maintainers",
-      "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "summary": "Article URL: https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers\nComments URL: https://news.ycombinator.com/item?id=48620462\nPoints: 103\n# Comments: 49",
-      "publishedAt": "2026-06-21T16:56:18.000Z",
-      "image": "https://images.prismic.io/openjsf/acRGrpGXnQHGY-L1_BlogPostImagesOpenJS-2-.png?auto=format,compress"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The minimum viable unit of saleable software",
-      "link": "https://brandur.org/minimum-viable-unit",
-      "summary": "Article URL: https://brandur.org/minimum-viable-unit\nComments URL: https://news.ycombinator.com/item?id=48620342\nPoints: 74\n# Comments: 36",
-      "publishedAt": "2026-06-21T16:41:21.000Z",
-      "image": "https://brandur.org/assets/images/minimum-viable-unit/twitter@2x.jpg"
-    },
-    {
       "source": "TechCrunch",
       "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
       "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
       "summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
       "publishedAt": "2026-06-21T16:35:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\nComments URL: https://news.ycombinator.com/item?id=48620090\nPoints: 355\n# Comments: 246",
-      "publishedAt": "2026-06-21T16:08:23.000Z",
-      "image": null
     },
     {
       "source": "TechCrunch",
@@ -120,14 +128,6 @@
       "summary": "It did so in just five years.",
       "publishedAt": "2026-06-21T15:55:23.000Z",
       "image": "https://www.engadget.com/img/gallery/nasas-perseverance-rover-has-traveled-the-distance-of-a-marathon-on-mars/l-intro-1782057130.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "link": "https://norvig.com/lispy.html",
-      "summary": "Article URL: https://norvig.com/lispy.html\nComments URL: https://news.ycombinator.com/item?id=48619831\nPoints: 141\n# Comments: 41",
-      "publishedAt": "2026-06-21T15:36:33.000Z",
-      "image": null
     },
     {
       "source": "TechCrunch",
@@ -221,7 +221,7 @@
       "source": "Wired",
       "title": "Buying a Used iPhone Makes More Sense Than Ever",
       "link": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
-      "summary": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it'll last longer than ever.",
+      "summary": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it’ll last longer than ever.",
       "publishedAt": "2026-06-21T10:00:00.000Z",
       "image": "https://media.wired.com/photos/6a3322aebc63986040a4a6ba/191:100/w_1280,c_limit/GettyImages-2210156582.jpg"
     },
@@ -229,7 +229,7 @@
       "source": "Wired",
       "title": "A Critical Deadline Is Approaching for Windows and Linux Security",
       "link": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
-      "summary": "The cryptographic keys that secure your computer's boot sequence will start to expire on June 24. Here's what that means for you.",
+      "summary": "The cryptographic keys that secure your computer’s boot sequence will start to expire on June 24. Here’s what that means for you.",
       "publishedAt": "2026-06-21T09:00:00.000Z",
       "image": "https://media.wired.com/photos/6a342b0819ec74e5dcd4e6ca/191:100/w_1280,c_limit/GettyImages-1091064696.jpg"
     },
