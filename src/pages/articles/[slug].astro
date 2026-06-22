@@ -15,6 +15,7 @@ const { Content } = await render(article);
 ---
 <BaseLayout title={`${article.data.title} — The Duke Post`} description={article.data.description}>
   <article class="wrap article">
+    {article.data.image && <img class="article__hero" src={article.data.image} alt="" />}
     <span class="eyebrow">{article.data.category}</span>
     <h1>{article.data.title}</h1>
     <p class="byline">{article.data.author} · {article.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</p>
@@ -26,6 +27,14 @@ const { Content } = await render(article);
 
 <style>
   .article { padding: 48px 24px 80px; max-width: 740px; }
+  .article__hero {
+    width: 100%;
+    max-height: 420px;
+    object-fit: cover;
+    border-radius: 16px;
+    border: 2px solid var(--ink);
+    margin-bottom: 28px;
+  }
   .article h1 { font-size: clamp(28px, 4vw, 42px); margin: 10px 0 14px; }
   .content { margin-top: 36px; font-size: 18px; line-height: 1.7; }
   .content :global(h2) { font-size: 24px; margin: 36px 0 14px; }

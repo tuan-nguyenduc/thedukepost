@@ -1,6 +1,7 @@
 ---
 title: "How the Wire feed stays current"
 description: "A quick note on the RSS sync mechanism behind The Duke Post."
+image: "/images/wire-sync-cover.svg"
 pubDate: 2026-06-19
 author: "The Duke Post"
 category: "general"

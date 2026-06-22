@@ -17,6 +17,7 @@ const syncedAt = new Date(wireData.syncedAt);
   {featured && (
     <section class="hero wrap">
       <a href={`/articles/${featured.slug}`} class="hero__link sticker">
+        {featured.data.image && <img class="hero__image" src={featured.data.image} alt="" />}
         <span class="eyebrow">{featured.data.category}</span>
         <h1 class="hero__title">{featured.data.title}</h1>
         <p class="hero__desc">{featured.data.description}</p>
@@ -31,6 +32,7 @@ const syncedAt = new Date(wireData.syncedAt);
       <div class="more-grid">
         {rest.map((a) => (
           <a href={`/articles/${a.slug}`} class="more-card sticker">
+            {a.data.image && <img class="more-card__image" src={a.data.image} alt="" loading="lazy" />}
             <span class="eyebrow">{a.data.category}</span>
             <h3>{a.data.title}</h3>
             <p>{a.data.description}</p>
@@ -65,6 +67,14 @@ const syncedAt = new Date(wireData.syncedAt);
 <style>
   .hero { padding: 48px 24px; }
   .hero__link { display: block; padding: 40px 36px; }
+  .hero__image {
+    width: 100%;
+    max-height: 360px;
+    object-fit: cover;
+    border-radius: 16px;
+    border: 2px solid var(--ink);
+    margin-bottom: 24px;
+  }
   .hero__title {
     font-size: clamp(32px, 5vw, 56px);
     margin-top: 14px;
@@ -91,6 +101,14 @@ const syncedAt = new Date(wireData.syncedAt);
     gap: 28px;
   }
   .more-card { display: block; padding: 22px; }
+  .more-card__image {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid var(--ink);
+    margin-bottom: 14px;
+  }
   .more-card h3 {
     font-size: 19px;
     margin: 12px 0 8px;

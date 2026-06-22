@@ -1,6 +1,7 @@
 ---
 title: "Welcome to The Duke Post"
 description: "What this site is, and how it works."
+image: "/images/welcome-cover.jpg"
 pubDate: 2026-06-20
 author: "The Duke Post"
 category: "general"

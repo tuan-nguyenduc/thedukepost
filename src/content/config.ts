@@ -5,6 +5,7 @@ const articles = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
+    image: z.string().optional(),
     pubDate: z.coerce.date(),
     author: z.string().default('The Duke Post'),
     category: z.enum(['ai', 'gadgets', 'startups', 'security', 'opinion', 'general']).default('general'),
