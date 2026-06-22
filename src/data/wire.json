@@ -1,27 +1,163 @@
 {
-  "syncedAt": "2026-06-22T04:45:26.720Z",
+  "syncedAt": "2026-06-22T12:10:22.427Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "The Flat Curve Society",
-      "link": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
-      "summary": "Article URL: https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b\nComments URL: https://news.ycombinator.com/item?id=48625192\nPoints: 16\n# Comments: 7",
-      "publishedAt": "2026-06-22T03:09:22.000Z",
-      "image": null
+      "source": "Engadget",
+      "title": "OpenAI signs deal to show Getty's images in ChatGPT results",
+      "link": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
+      "summary": "Getty Images will allow OpenAI to use its content library in AI search and ChatGPT.",
+      "publishedAt": "2026-06-22T11:50:11.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/l-intro-1782128913.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "Chinese-style EV battery swap stations are coming to Europe",
+      "link": "https://www.engadget.com/2198629/chinese-style-ev-battery-swap-stations-are-coming-to-europe/",
+      "summary": "Octopus and CATL are pledging to roll out a network of battery swap stations for heavy trucks across Europe.",
+      "publishedAt": "2026-06-22T11:38:27.000Z",
+      "image": "https://www.engadget.com/img/gallery/chinese-style-ev-battery-swap-stations-are-coming-to-europe/l-intro-1782128193.jpg"
     },
     {
       "source": "Hacker News",
-      "title": "Canadian government spent $46.8M on a secret Palantir contract",
-      "link": "https://theijf.org/brief/canadian-palantir-contract-amendments-obd",
-      "summary": "Article URL: https://theijf.org/brief/canadian-palantir-contract-amendments-obd\nComments URL: https://news.ycombinator.com/item?id=48624834\nPoints: 13\n# Comments: 1",
-      "publishedAt": "2026-06-22T02:16:50.000Z",
-      "image": "https://storage.ghost.io/c/f9/62/f9622874-fed0-4058-bf3d-67605eb66d47/content/images/2026/05/CP175653471.jpg"
+      "title": "Britain's prime minister to step down, Burnham puts himself forward as successor",
+      "link": "https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/",
+      "summary": "Article URL: https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/\nComments URL: https://news.ycombinator.com/item?id=4…",
+      "publishedAt": "2026-06-22T11:11:11.000Z",
+      "image": null
+    },
+    {
+      "source": "The Verge",
+      "title": "Read this before you vibe-code another app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. I…",
+      "publishedAt": "2026-06-22T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLMs do not merely reflect the bias of their training, they police it",
+      "link": "https://twitter.com/brianroemmele/status/1991714955339657384",
+      "summary": "Article URL: https://twitter.com/brianroemmele/status/1991714955339657384\nComments URL: https://news.ycombinator.com/item?id=48628450\nPoints: 24\n# Comments: 6",
+      "publishedAt": "2026-06-22T10:50:46.000Z",
+      "image": "https://pbs.twimg.com/media/G6P-MS_acAIJogX.jpg:large"
+    },
+    {
+      "source": "Wired",
+      "title": "These Are the 12 Ikea Products the Company's Design Chief Personally Owns",
+      "link": "https://www.wired.com/story/these-are-the-12-ikea-products-ikeas-design-chief-personally-owns/",
+      "summary": "We asked Johan Ejdemo to list which Ikea items populate his home. He also tells us about his all-time favorite. (No, it's not a Billy bookcase.)",
+      "publishedAt": "2026-06-22T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a350344f3efe9ab9aad1474/191:100/w_1280,c_limit/061826_IKEA-Best-Picks.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "The UK Just Lost Its Sixth Prime Minister of the Decade",
+      "link": "https://www.wired.com/story/uk-loses-its-sixth-prime-minister-keir-starmer/",
+      "summary": "Keir Starmer's resignation on Monday morning paves the way for yet another leadership battle.",
+      "publishedAt": "2026-06-22T09:46:54.000Z",
+      "image": "https://media.wired.com/photos/6a38fc895d106edb5cddd748/191:100/w_1280,c_limit/GettyImages-2282209778.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+      "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+      "summary": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
+      "publishedAt": "2026-06-22T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a317f4a898b4be9664d5a85/191:100/w_1280,c_limit/Business_ElectriciansHaveaLotofComplicatedFeelingsAboutBuildingDataCenters-v1.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "World Cup Scams Are Getting Harder to Spot",
+      "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
+      "publishedAt": "2026-06-22T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a33f50cd1cfcb762af591a1/191:100/w_1280,c_limit/WorldcupScam_lead2.jpg"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "link": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a d…",
+      "publishedAt": "2026-06-22T08:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/aug2024-tunnel-arsvagen5.jpg?w=2667"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "link": "https://github.com/openai/codex/issues/28224",
+      "summary": "Article URL: https://github.com/openai/codex/issues/28224\nComments URL: https://news.ycombinator.com/item?id=48626930\nPoints: 153\n# Comments: 80",
+      "publishedAt": "2026-06-22T07:30:17.000Z",
+      "image": "https://opengraph.githubassets.com/be9e4adcbaa9b9afbdb33d6b53cd738d34be03879707fb328e1886db4c63bdc2/openai/codex/issues/28224"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Investors get real-time view of UK bond market activity for the first time",
+      "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+      "summary": "Article URL: https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time\nComments URL: https://news.ycombinator.com/item?id=48626918…",
+      "publishedAt": "2026-06-22T07:29:17.000Z",
+      "image": "https://www.fca.org.uk/sites/default/files/media/images/fca_social_share.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GLM 5.2 vs. Opus",
+      "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "summary": "Article URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/\nComments URL: https://news.ycombinator.com/item?id=48626866\nPoints: 184\n# Comments: 156",
+      "publishedAt": "2026-06-22T07:22:03.000Z",
+      "image": "https://techstackups.com/img/comparisons/glm-5.2-vs-opus/cover.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Deno Desktop",
+      "link": "https://docs.deno.com/runtime/desktop/",
+      "summary": "Article URL: https://docs.deno.com/runtime/desktop/\nComments URL: https://news.ycombinator.com/item?id=48626137\nPoints: 538\n# Comments: 203",
+      "publishedAt": "2026-06-22T05:38:40.000Z",
+      "image": "https://docs.deno.com/runtime/desktop/index.png"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ethan Thornton is trying to do everything all at once",
+      "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+      "summary": "Mach's approach differs sharply from some of its peers.",
+      "publishedAt": "2026-06-22T05:31:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Ethan-Thornton.jpg?resize=1200,800"
+    },
+    {
+      "source": "Wired",
+      "title": "Priceline Promo Codes & Coupons: 10% Off June",
+      "link": "https://www.wired.com/story/priceline-promo-code/",
+      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "publishedAt": "2026-06-22T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "LG Promo Codes and Coupons for June 2026",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "publishedAt": "2026-06-22T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/191:100/w_1280,c_limit/WIRED-Coupons-R2_17.png"
+    },
+    {
+      "source": "Wired",
+      "title": "Whoop Promo Codes: 20% Off This June 2026",
+      "link": "https://www.wired.com/story/whoop-promo-code/",
+      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of…",
+      "publishedAt": "2026-06-22T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "Dyson Promo Codes: 25% Off in June 2026",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "publishedAt": "2026-06-22T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/191:100/w_1280,c_limit/WIRED-Coupons-R2_9.png"
     },
     {
       "source": "Hacker News",
       "title": "Sakana Fugu",
       "link": "https://sakana.ai/fugu/",
-      "summary": "Article URL: https://sakana.ai/fugu/\nComments URL: https://news.ycombinator.com/item?id=48624782\nPoints: 57\n# Comments: 21",
+      "summary": "Article URL: https://sakana.ai/fugu/\nComments URL: https://news.ycombinator.com/item?id=48624782\nPoints: 138\n# Comments: 82",
       "publishedAt": "2026-06-22T02:08:18.000Z",
       "image": "https://sakana.ai/assets/fugu_lp/ogp.png"
     },
@@ -29,41 +165,9 @@
       "source": "Hacker News",
       "title": "1983 Northern Telecom Commodore Phone",
       "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-      "summary": "Article URL: https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\nComments URL: https://news.ycombinator.com/item?id=48624114\nPoints: 33\n# Comments: 9",
+      "summary": "Article URL: https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\nComments URL: https://news.ycombinator.com/item?id=48624114\nPoints: 64\n# Comments: 21",
       "publishedAt": "2026-06-22T00:34:33.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\nComments URL: https://news.ycombinator.com/item?id=48623434\nPoints: 54\n# C…",
-      "publishedAt": "2026-06-21T22:55:23.000Z",
-      "image": "https://www.teachmecoolstuff.com/img/tor.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Japanese verb conjugation the simple hard way",
-      "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
-      "summary": "Article URL: https://underreacted.leaflet.pub/3mmevu6woys27\nComments URL: https://news.ycombinator.com/item?id=48623419\nPoints: 50\n# Comments: 67",
-      "publishedAt": "2026-06-21T22:53:50.000Z",
-      "image": "https://leaflet.pub/lish/did%3Aplc%3Afpruhuo22xkm5o7ttr2ktxdo/3m23dstduds2v/3mmevu6woys27/opengraph-image-vzkbb4?edc23816ae45539e"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Rent collections are down in New York",
-      "link": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-      "summary": "Article URL: https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982\nComments URL: https://news.ycombinator.com/item?id=4862298…",
-      "publishedAt": "2026-06-21T21:54:34.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Did my old job only exist because of fraud?",
-      "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "summary": "Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\nComments URL: https://news.ycombinator.com/item?id=48622867\nPoints: 330\n# Comments: 148",
-      "publishedAt": "2026-06-21T21:40:53.000Z",
-      "image": null
+      "image": "https://www.oldtelephoneroom.ca/wp-content/uploads/2023/04/83-Com-02.jpg"
     },
     {
       "source": "Engadget",
@@ -170,14 +274,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC01507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Wired",
-      "title": "Wooting 60HE v2: Peak Keyboard Perfection",
-      "link": "https://www.wired.com/review/review-wooting-60he-v2/",
-      "summary": "Wooting’s 60HE v2 isn’t just a terrific Hall Effect keyboard. It’s a fantastic keyboard period.",
-      "publishedAt": "2026-06-21T11:01:00.000Z",
-      "image": "https://media.wired.com/photos/6a35ab3c6859e0a25fd52f9d/191:100/w_1280,c_limit/Wooting-60HE-v2-.jpg"
-    },
-    {
       "source": "The Verge",
       "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
       "link": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
@@ -186,52 +282,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Wired",
-      "title": "The Best NAS Devices for Your Home After Months of Testing",
-      "link": "https://www.wired.com/story/best-nas-devices/",
-      "summary": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
-      "publishedAt": "2026-06-21T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a17d5a46c30c214d6076c82/191:100/w_1280,c_limit/Best%20NAS%20Storage%20top%20art%20052026%20SOURCE%20Amazon.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-      "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
-      "publishedAt": "2026-06-21T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/641df3ef11b9b75446f8f278/191:100/w_1280,c_limit/11-Creative-ChatGPT-Prompts-Gear-GettyImages-1433912783.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "If You’re Searching for a New Skillet, Consider Stainless Steel",
-      "link": "https://www.wired.com/story/stainless-steel-skillets-are-great/",
-      "summary": "Stainless-steel pans may lack nonstick coatings, but they’re unfussy, they sear well, and they’re built for a lifetime of hard work.",
-      "publishedAt": "2026-06-21T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a2ff7a5f6151b9749aa4dad/191:100/w_1280,c_limit/31766_HES_HN9_Triple%20Pack_SS_Lifestyle%20copy.jpg"
-    },
-    {
       "source": "Ars Technica",
       "title": "Review: Widow's Bay is a boldly original take on comedic horror",
       "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
       "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
       "publishedAt": "2026-06-21T10:00:11.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bay12-1152x648.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "Buying a Used iPhone Makes More Sense Than Ever",
-      "link": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
-      "summary": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it’ll last longer than ever.",
-      "publishedAt": "2026-06-21T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a3322aebc63986040a4a6ba/191:100/w_1280,c_limit/GettyImages-2210156582.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "A Critical Deadline Is Approaching for Windows and Linux Security",
-      "link": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
-      "summary": "The cryptographic keys that secure your computer’s boot sequence will start to expire on June 24. Here’s what that means for you.",
-      "publishedAt": "2026-06-21T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a342b0819ec74e5dcd4e6ca/191:100/w_1280,c_limit/GettyImages-1091064696.jpg"
     },
     {
       "source": "TechCrunch",
@@ -266,14 +322,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "TechCrunch",
-      "title": "Founders Fund’s outlier bet on humanely killed fish",
-      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
-      "publishedAt": "2026-06-20T18:26:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-20-at-5.40.30-PM.png?resize=1200,650"
-    },
-    {
       "source": "Engadget",
       "title": "Epic is working on a 'ground-up rebuild' of its launcher that will be 5x faster",
       "link": "https://www.engadget.com/2198357/epic-is-working-on-a-ground-up-rebuild-of-its-launcher-that-will-be-5x-faster/",
@@ -298,52 +346,12 @@
       "image": "https://www.engadget.com/img/gallery/claude-guillemot-one-of-ubisofts-co-founders-has-died-in-a-plane-crash/l-intro-1781969343.jpg"
     },
     {
-      "source": "Engadget",
-      "title": "How to personalize the screensaver on your Kindle",
-      "link": "https://www.engadget.com/2198274/how-to-customize-kindle-screensaver-guide/",
-      "summary": "Once you remove lockscreen ads and toggle on book covers, here's what else you can do to customize your Kindle's screensaver.",
-      "publishedAt": "2026-06-20T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-personalize-the-screensaver-on-your-kindle/l-intro-1781908899.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
-      "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
-      "summary": "Indulging in the “Dark Souls of synthesis.” | Image: Aleksander Stojanov / Hainbach\t\n\nStefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and…",
-      "publishedAt": "2026-06-20T15:20:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Portrait-Aleksander-Stojanov-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Engadget",
-      "title": "Car manufacturers are ditching Android Auto in 2026: Here's why",
-      "link": "https://www.engadget.com/2197854/why-car-manufacturers-ditching-android-auto-explained/",
-      "summary": "Car buyers love Android Auto. Automakers? Not so much.",
-      "publishedAt": "2026-06-20T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/car-manufacturers-are-ditching-android-auto-in-2026-heres-why/l-intro-1781823858.jpg"
-    },
-    {
       "source": "Ars Technica",
       "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
       "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
       "summary": "Tests of age-verification technology show the risks of life-altering errors.",
       "publishedAt": "2026-06-20T11:15:09.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "Home Batteries: How They're Installed and How Much They Cost",
-      "link": "https://www.wired.com/story/how-to-buy-a-home-battery/",
-      "summary": "After adding one to my home, here's why you might want a home battery, how they work, and what to look for, plus some installation tips.",
-      "publishedAt": "2026-06-20T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a35a0ac7cb7548eacd52c88/191:100/w_1280,c_limit/Home-Batteries-Aren%E2%80%99t-Just-for-Doomsday-Preppers.-Here%E2%80%99s-Why-You-Might-Want-One.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
-      "link": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
-      "summary": "We’ve trawled the depths of Amazon to find the best deals on gear we’ve tested.",
-      "publishedAt": "2026-06-20T10:38:00.000Z",
-      "image": "https://media.wired.com/photos/6a31e4e303c0be2f1d7e861f/191:100/w_1280,c_limit/Launorma_EarlyPrimeDayDeal.png"
     },
     {
       "source": "VentureBeat",
@@ -496,14 +504,6 @@
       "summary": "Building a context layer between enterprise data stores and AI agents is bespoke work, with no standard service to automate or maintain the graphs over time. Amazon is making a dir…",
       "publishedAt": "2026-06-17T22:10:38.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3io1fRBUqBtb0b4g3PWP1u/23d64118a63ed9f4388e51d688f32ab8/context-smk1.jpg?w=300&q=30"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering get…",
-      "publishedAt": "2026-06-17T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2022/02/T1042.png?w=2234"
     }
   ]
 }
