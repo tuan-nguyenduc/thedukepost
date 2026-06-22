@@ -10,6 +10,8 @@ export const getStaticPaths = (({ paginate }) => {
 
 const { page } = Astro.props;
 const syncedAt = new Date(wireData.syncedAt);
+const sourceList = Array.from(new Set(wireData.items.map((item) => item.source))).sort();
+const clientItems = wireData.items.map(({ source, title, link, summary, image }) => ({ source, title, link, summary, image }));
 
 const itemListJsonLd = {
   '@context': 'https://schema.org',
@@ -33,41 +35,223 @@ const pageTitle = page.currentPage === 1
   <section class="wrap page">
     <h1>⚡ The Wire</h1>
     <p class="intro">A running feed of headlines from other publishers. We link out — we don't republish. <span class="byline">Last synced {syncedAt.toISOString().replace('T', ' ').slice(0, 16)} UTC</span></p>
-    <ul class="list">
-      {page.data.map((item) => (
-        <li>
-          <a href={item.link} target="_blank" rel="noopener noreferrer" class="sticker card">
-            <img class="card__image" src={item.image || '/wire-placeholder.svg'} alt="" loading="lazy" />
-            <div class="card__body">
-              <span class="source">
-                {faviconUrl(item.link) && <img class="source__logo" src={faviconUrl(item.link)} alt="" width="16" height="16" loading="lazy" />}
-                <span class="eyebrow">{item.source}</span>
-              </span>
-              <h2>{item.title}</h2>
-              <p>{item.summary}</p>
-            </div>
-          </a>
-        </li>
-      ))}
-    </ul>
 
-    <nav class="pager" aria-label="Pagination">
-      <div class="pager__row">
-        {page.url.prev ? <a href={page.url.prev} class="pager__link">← Newer</a> : <span />}
-        <span class="pager__status">Page {page.currentPage} of {page.lastPage}</span>
-        {page.url.next ? <a href={page.url.next} class="pager__link">Older →</a> : <span />}
-      </div>
-      <div class="pager__numbers">
-        {Array.from({ length: page.lastPage }, (_, i) => i + 1).map((n) => (
-          n === page.currentPage ? (
-            <span class="pager__num pager__num--active" aria-current="page">{n}</span>
-          ) : (
-            <a href={n === 1 ? '/wire' : `/wire/${n}`} class="pager__num">{n}</a>
-          )
+    <div class="filters" role="group" aria-label="Filter by source" id="filters">
+      <button type="button" class="chip chip--active" data-source="all" aria-pressed="true">All</button>
+      {sourceList.map((source) => (
+        <button type="button" class="chip" data-source={source} aria-pressed="false">{source}</button>
+      ))}
+    </div>
+
+    <div id="static-view">
+      <ul class="list">
+        {page.data.map((item) => (
+          <li>
+            <a href={item.link} target="_blank" rel="noopener noreferrer" class="sticker card">
+              <img class="card__image" src={item.image || '/wire-placeholder.svg'} alt="" loading="lazy" />
+              <div class="card__body">
+                <span class="source">
+                  {faviconUrl(item.link) && <img class="source__logo" src={faviconUrl(item.link)} alt="" width="16" height="16" loading="lazy" />}
+                  <span class="eyebrow">{item.source}</span>
+                </span>
+                <h2>{item.title}</h2>
+                <p>{item.summary}</p>
+              </div>
+            </a>
+          </li>
         ))}
-      </div>
-    </nav>
+      </ul>
+
+      <nav class="pager" aria-label="Pagination">
+        <div class="pager__row">
+          {page.url.prev ? <a href={page.url.prev} class="pager__link">← Newer</a> : <span />}
+          <span class="pager__status">Page {page.currentPage} of {page.lastPage}</span>
+          {page.url.next ? <a href={page.url.next} class="pager__link">Older →</a> : <span />}
+        </div>
+        <div class="pager__numbers">
+          {Array.from({ length: page.lastPage }, (_, i) => i + 1).map((n) => (
+            n === page.currentPage ? (
+              <span class="pager__num pager__num--active" aria-current="page">{n}</span>
+            ) : (
+              <a href={n === 1 ? '/wire' : `/wire/${n}`} class="pager__num">{n}</a>
+            )
+          ))}
+        </div>
+      </nav>
+    </div>
+
+    <div id="filtered-view" hidden>
+      <ul class="list" id="filtered-list"></ul>
+      <nav class="pager" id="filtered-pager" aria-label="Pagination"></nav>
+    </div>
   </section>
+
+  <script type="application/json" id="wire-items" set:html={JSON.stringify(clientItems)} />
+  <script>
+    const PAGE_SIZE = 15;
+    const allItems = JSON.parse(document.getElementById('wire-items').textContent);
+    const filters = document.getElementById('filters');
+    const chips = filters.querySelectorAll('.chip');
+    const staticView = document.getElementById('static-view');
+    const filteredView = document.getElementById('filtered-view');
+    const filteredList = document.getElementById('filtered-list');
+    const filteredPager = document.getElementById('filtered-pager');
+
+    let currentSource = 'all';
+    let currentPage = 1;
+
+    function faviconUrl(link: string): string | null {
+      try {
+        const { hostname } = new URL(link);
+        return `https://www.google.com/s2/favicons?domain=${hostname}&sz=64`;
+      } catch {
+        return null;
+      }
+    }
+
+    function buildCard(item: { source: string; title: string; link: string; summary: string; image: string | null }) {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = item.link;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.className = 'sticker card';
+
+      const img = document.createElement('img');
+      img.className = 'card__image';
+      img.src = item.image || '/wire-placeholder.svg';
+      img.alt = '';
+      img.loading = 'lazy';
+
+      const body = document.createElement('div');
+      body.className = 'card__body';
+
+      const sourceEl = document.createElement('span');
+      sourceEl.className = 'source';
+      const fav = faviconUrl(item.link);
+      if (fav) {
+        const favImg = document.createElement('img');
+        favImg.className = 'source__logo';
+        favImg.src = fav;
+        favImg.alt = '';
+        favImg.width = 16;
+        favImg.height = 16;
+        favImg.loading = 'lazy';
+        sourceEl.appendChild(favImg);
+      }
+      const eyebrow = document.createElement('span');
+      eyebrow.className = 'eyebrow';
+      eyebrow.textContent = item.source;
+      sourceEl.appendChild(eyebrow);
+
+      const h2 = document.createElement('h2');
+      h2.textContent = item.title;
+
+      const p = document.createElement('p');
+      p.textContent = item.summary;
+
+      body.append(sourceEl, h2, p);
+      a.append(img, body);
+      li.appendChild(a);
+      return li;
+    }
+
+    function renderFiltered() {
+      const items = allItems.filter((item: { source: string }) => item.source === currentSource);
+      const totalPages = Math.max(1, Math.ceil(items.length / PAGE_SIZE));
+      currentPage = Math.min(currentPage, totalPages);
+      const start = (currentPage - 1) * PAGE_SIZE;
+      const pageItems = items.slice(start, start + PAGE_SIZE);
+
+      filteredList.replaceChildren(...pageItems.map(buildCard));
+
+      const row = document.createElement('div');
+      row.className = 'pager__row';
+
+      const prevBtn = document.createElement('button');
+      prevBtn.type = 'button';
+      prevBtn.className = 'pager__link';
+      prevBtn.textContent = '← Newer';
+      if (currentPage > 1) {
+        prevBtn.addEventListener('click', () => goToPage(currentPage - 1));
+      } else {
+        prevBtn.replaceWith(document.createElement('span'));
+      }
+
+      const status = document.createElement('span');
+      status.className = 'pager__status';
+      status.textContent = `Page ${currentPage} of ${totalPages}`;
+
+      const nextBtn = document.createElement('button');
+      nextBtn.type = 'button';
+      nextBtn.className = 'pager__link';
+      nextBtn.textContent = 'Older →';
+      if (currentPage < totalPages) {
+        nextBtn.addEventListener('click', () => goToPage(currentPage + 1));
+      }
+
+      row.append(currentPage > 1 ? prevBtn : document.createElement('span'), status, currentPage < totalPages ? nextBtn : document.createElement('span'));
+
+      const numbers = document.createElement('div');
+      numbers.className = 'pager__numbers';
+      for (let n = 1; n <= totalPages; n++) {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = n === currentPage ? 'pager__num pager__num--active' : 'pager__num';
+        btn.textContent = String(n);
+        if (n === currentPage) {
+          btn.setAttribute('aria-current', 'page');
+        } else {
+          btn.addEventListener('click', () => goToPage(n));
+        }
+        numbers.appendChild(btn);
+      }
+
+      filteredPager.replaceChildren(row, numbers);
+    }
+
+    function goToPage(n: number) {
+      currentPage = n;
+      renderFiltered();
+      filteredView.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function setSource(source: string) {
+      currentSource = source;
+      currentPage = 1;
+      chips.forEach((chip) => {
+        const isActive = chip.getAttribute('data-source') === source;
+        chip.classList.toggle('chip--active', isActive);
+        chip.setAttribute('aria-pressed', String(isActive));
+      });
+
+      const url = new URL(window.location.href);
+      if (source === 'all') {
+        url.searchParams.delete('source');
+      } else {
+        url.searchParams.set('source', source);
+      }
+      window.history.replaceState(null, '', url.pathname + url.search);
+
+      if (source === 'all') {
+        staticView.hidden = false;
+        filteredView.hidden = true;
+      } else {
+        staticView.hidden = true;
+        filteredView.hidden = false;
+        renderFiltered();
+      }
+    }
+
+    chips.forEach((chip) => {
+      chip.addEventListener('click', () => setSource(chip.getAttribute('data-source') || 'all'));
+    });
+
+    const initialSource = new URLSearchParams(window.location.search).get('source');
+    if (initialSource && allItems.some((item: { source: string }) => item.source === initialSource)) {
+      setSource(initialSource);
+    }
+  </script>
 </BaseLayout>
 
 <style>
@@ -75,6 +259,23 @@ const pageTitle = page.currentPage === 1
   h1 { font-size: 36px; margin-bottom: 14px; }
   .intro { color: var(--slate); margin-bottom: 36px; }
   .intro .byline { display: block; margin-top: 6px; }
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 36px; }
+  .chip {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 8px 16px;
+    border: 2px solid var(--ink);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--ink);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  .chip:hover { transform: rotate(-1deg); }
+  .chip--active { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
   .list li { margin: 0; min-width: 0; }
   .card { display: flex; gap: 20px; padding: 22px; align-items: flex-start; min-width: 0; }
@@ -116,6 +317,16 @@ const pageTitle = page.currentPage === 1
     transform: rotate(-1deg);
   }
   .pager__status { color: var(--slate); }
+  button.pager__link,
+  button.pager__num {
+    font: inherit;
+    text-transform: inherit;
+    letter-spacing: inherit;
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+    appearance: none;
+  }
 
   .pager__numbers {
     display: flex;
@@ -134,7 +345,8 @@ const pageTitle = page.currentPage === 1
     border-radius: 50%;
     transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
   }
-  a.pager__num:hover {
+  a.pager__num:hover,
+  button.pager__num:hover {
     background: var(--ink);
     color: var(--paper);
     transform: rotate(-8deg);
