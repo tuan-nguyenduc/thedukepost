@@ -1,9 +1,57 @@
 {
-  "syncedAt": "2026-06-21T23:18:05.610Z",
+  "syncedAt": "2026-06-22T04:45:26.720Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Rent collections are down in New York – and no one's sure why",
+      "title": "The Flat Curve Society",
+      "link": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+      "summary": "Article URL: https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b\nComments URL: https://news.ycombinator.com/item?id=48625192\nPoints: 16\n# Comments: 7",
+      "publishedAt": "2026-06-22T03:09:22.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Canadian government spent $46.8M on a secret Palantir contract",
+      "link": "https://theijf.org/brief/canadian-palantir-contract-amendments-obd",
+      "summary": "Article URL: https://theijf.org/brief/canadian-palantir-contract-amendments-obd\nComments URL: https://news.ycombinator.com/item?id=48624834\nPoints: 13\n# Comments: 1",
+      "publishedAt": "2026-06-22T02:16:50.000Z",
+      "image": "https://storage.ghost.io/c/f9/62/f9622874-fed0-4058-bf3d-67605eb66d47/content/images/2026/05/CP175653471.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sakana Fugu",
+      "link": "https://sakana.ai/fugu/",
+      "summary": "Article URL: https://sakana.ai/fugu/\nComments URL: https://news.ycombinator.com/item?id=48624782\nPoints: 57\n# Comments: 21",
+      "publishedAt": "2026-06-22T02:08:18.000Z",
+      "image": "https://sakana.ai/assets/fugu_lp/ogp.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "1983 Northern Telecom Commodore Phone",
+      "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+      "summary": "Article URL: https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\nComments URL: https://news.ycombinator.com/item?id=48624114\nPoints: 33\n# Comments: 9",
+      "publishedAt": "2026-06-22T00:34:33.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\nComments URL: https://news.ycombinator.com/item?id=48623434\nPoints: 54\n# C…",
+      "publishedAt": "2026-06-21T22:55:23.000Z",
+      "image": "https://www.teachmecoolstuff.com/img/tor.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Japanese verb conjugation the simple hard way",
+      "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
+      "summary": "Article URL: https://underreacted.leaflet.pub/3mmevu6woys27\nComments URL: https://news.ycombinator.com/item?id=48623419\nPoints: 50\n# Comments: 67",
+      "publishedAt": "2026-06-21T22:53:50.000Z",
+      "image": "https://leaflet.pub/lish/did%3Aplc%3Afpruhuo22xkm5o7ttr2ktxdo/3m23dstduds2v/3mmevu6woys27/opengraph-image-vzkbb4?edc23816ae45539e"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rent collections are down in New York",
       "link": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
       "summary": "Article URL: https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982\nComments URL: https://news.ycombinator.com/item?id=4862298…",
       "publishedAt": "2026-06-21T21:54:34.000Z",
@@ -13,49 +61,9 @@
       "source": "Hacker News",
       "title": "Did my old job only exist because of fraud?",
       "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "summary": "Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\nComments URL: https://news.ycombinator.com/item?id=48622867\nPoints: 72\n# Comments: 17",
+      "summary": "Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\nComments URL: https://news.ycombinator.com/item?id=48622867\nPoints: 330\n# Comments: 148",
       "publishedAt": "2026-06-21T21:40:53.000Z",
       "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-      "link": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-      "summary": "Article URL: https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/\nComments URL: https://news.ycombinator.com/item?id=48…",
-      "publishedAt": "2026-06-21T21:30:25.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "link": "https://apertvs.ai/",
-      "summary": "Article URL: https://apertvs.ai/\nComments URL: https://news.ycombinator.com/item?id=48622778\nPoints: 96\n# Comments: 24",
-      "publishedAt": "2026-06-21T21:29:43.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "PowerFox Browser",
-      "link": "https://powerfox.jazzzny.me/",
-      "summary": "Article URL: https://powerfox.jazzzny.me/\nComments URL: https://news.ycombinator.com/item?id=48622731\nPoints: 33\n# Comments: 11",
-      "publishedAt": "2026-06-21T21:23:13.000Z",
-      "image": "https://powerfox.jazzzny.me/assets/img/prodimg.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Everything Is Logarithms",
-      "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-      "summary": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\nComments URL: https://news.ycombinator.com/item?id=48622626\nPoints: 64\n# Comments: 5",
-      "publishedAt": "2026-06-21T21:10:32.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stop wasting tokens and re explaining your project between sessions",
-      "link": "https://github.com/raiyanyahya/recall",
-      "summary": "Article URL: https://github.com/raiyanyahya/recall\nComments URL: https://news.ycombinator.com/item?id=48622590\nPoints: 43\n# Comments: 30",
-      "publishedAt": "2026-06-21T21:05:37.000Z",
-      "image": "https://opengraph.githubassets.com/cf363a6502582faf10075fca279efff82c87928558b7481b7af269af284e6e0e/raiyanyahya/recall"
     },
     {
       "source": "Engadget",
@@ -64,14 +72,6 @@
       "summary": "The Wall Street Journal reviewed 1,105 videos along with guidance given to creators for crafting their posts.",
       "publishedAt": "2026-06-21T20:53:42.000Z",
       "image": "https://www.engadget.com/img/gallery/polymarket-has-reportedly-been-paying-creators-to-post-fake-betting-videos/l-intro-1782074956.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask for no, don't ask for yes (2022)",
-      "link": "https://www.mooreds.com/wordpress/archives/3518",
-      "summary": "Article URL: https://www.mooreds.com/wordpress/archives/3518\nComments URL: https://news.ycombinator.com/item?id=48622234\nPoints: 78\n# Comments: 36",
-      "publishedAt": "2026-06-21T20:17:48.000Z",
-      "image": null
     },
     {
       "source": "The Verge",
