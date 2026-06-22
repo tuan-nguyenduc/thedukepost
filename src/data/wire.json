@@ -1,6 +1,214 @@
 {
-  "syncedAt": "2026-06-22T18:13:58.885Z",
+  "syncedAt": "2026-06-22T22:05:57.669Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+      "publishedAt": "2026-06-22T21:08:09.000Z",
+      "image": "https://media.wired.com/photos/6a39a2a46c59c72c499e05ba/191:100/w_1280,c_limit/2281617231"
+    },
+    {
+      "source": "The Verge",
+      "title": "Valve describes just how brutal RAM negotiations are in 2026",
+      "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+      "summary": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up th…",
+      "publishedAt": "2026-06-22T21:07:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_KMcClellan_0037.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\nComments URL: https://news.ycombinator.com/item?id=48636125\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-06-22T21:00:51.000Z",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/36d823535a32695e6b82b2371e3ed3df2496af99.png?1754429935"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tacky men with ridiculous glasses want you to wear them too",
+      "link": "https://manualdousuario.net/en/smart-glasses-ugly-tacky/",
+      "summary": "Article URL: https://manualdousuario.net/en/smart-glasses-ugly-tacky/\nComments URL: https://news.ycombinator.com/item?id=48636100\nPoints: 17\n# Comments: 6",
+      "publishedAt": "2026-06-22T20:59:15.000Z",
+      "image": "https://manualdousuario.net/wp-content/uploads/2026/06/robert-scoble-google-glass.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Job application asked for my SAT scores",
+      "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+      "summary": "Article URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/\nComments URL: https://news.ycombinator.com/item?id=48636062\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-06-22T20:55:17.000Z",
+      "image": "/static/og-image.png"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The AI world is getting ‘loopy’",
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "publishedAt": "2026-06-22T20:53:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+      "link": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+      "summary": "Article URL: https://spur.us/blog/smart-tv-apps-residential-proxy-sdks\nComments URL: https://news.ycombinator.com/item?id=48635954\nPoints: 26\n# Comments: 7",
+      "publishedAt": "2026-06-22T20:48:30.000Z",
+      "image": "https://cdn.sanity.io/images/b9pzoci3/production/2adc1982dab065cba0b11ab1021585c8aafb239a-1000x1000.jpg?w=1200&h=630&fit=max"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+      "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+      "summary": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.",
+      "publishedAt": "2026-06-22T20:37:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1303397476.jpg?resize=1200,796"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+      "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+      "publishedAt": "2026-06-22T20:28:53.000Z",
+      "image": "https://media.wired.com/photos/6a39919203c4ca2994a792a9/191:100/w_1280,c_limit/GettyImages-1297676683.jpg"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
+      "link": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+      "summary": "Alibaba Cloud on Sunday released HappyHorse 1.1, a major upgrade to its AI video generation model that the company says delivers production-ready video synthesis across core conten…",
+      "publishedAt": "2026-06-22T20:22:56.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5KFpqkXqsJ1UadPksN3wpB/437fe886256a70c820f5e152f0512430/Nuneybits_Vector_art_of_cheerful_horse_trotting_across_computer_f02e9dc0-d6b4-4a8c-b0f8-de134058b9c8.webp?w=300&q=30"
+    },
+    {
+      "source": "Engadget",
+      "title": "iOS 27 beta 2 is out now, here's what's new",
+      "link": "https://www.engadget.com/2199312/ios-27-beta-2-is-out-now-here-s-what-s-new/",
+      "summary": "Spoiler: It's more Siri stuff.",
+      "publishedAt": "2026-06-22T20:16:27.000Z",
+      "image": "https://www.engadget.com/img/gallery/ios-27-beta-2-is-out-now-heres-whats-new/l-intro-1782159199.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "publishedAt": "2026-06-22T20:13:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "summary": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
+      "publishedAt": "2026-06-22T20:10:34.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
+      "link": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "summary": "Article URL: https://www.acquired.fm/episodes/the-walt-disney-company\nComments URL: https://news.ycombinator.com/item?id=48635409\nPoints: 38\n# Comments: 26",
+      "publishedAt": "2026-06-22T20:09:40.000Z",
+      "image": "https://imagedelivery.net/4Iq_5OuN3Oq3QRRKSY6D4w/episodes_og_the-walt-disney-company/main"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "publishedAt": "2026-06-22T20:08:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800"
+    },
+    {
+      "source": "The Verge",
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overp…",
+      "publishedAt": "2026-06-22T20:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+      "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+      "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
+      "publishedAt": "2026-06-22T19:25:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tata-electronics.jpg?resize=1200,800"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Japanese symbols that speak without words",
+      "link": "https://arun.is/blog/japan-symbols/",
+      "summary": "Article URL: https://arun.is/blog/japan-symbols/\nComments URL: https://news.ycombinator.com/item?id=48634803\nPoints: 47\n# Comments: 7",
+      "publishedAt": "2026-06-22T19:22:37.000Z",
+      "image": "https://arun.is/_astro/social.bcNmzcHo.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "summary": "Article URL: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes\nComments URL: https://news.ycombinator.com/item?id=48634787\nPoints: 65\n# Comments: 20",
+      "publishedAt": "2026-06-22T19:21:00.000Z",
+      "image": "https://imagedelivery.net/lPM0ntuwQfh8VQgJRu0mFg/20d3ec66-0a11-4da9-51c6-2fba2b821900/public"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "link": "https://github.com/dorukkumkumoglu/optocamzero",
+      "summary": "Article URL: https://github.com/dorukkumkumoglu/optocamzero\nComments URL: https://news.ycombinator.com/item?id=48634778\nPoints: 47\n# Comments: 10",
+      "publishedAt": "2026-06-22T19:19:55.000Z",
+      "image": "https://repository-images.githubusercontent.com/1193634026/80071535-dcd7-4805-9957-acaf49143c50"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "publishedAt": "2026-06-22T19:16:52.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
+      "link": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
+      "summary": "Valve says it's using a randomized purchase queue to make the experience \"less frustrating and more fair.\"",
+      "publishedAt": "2026-06-22T19:02:45.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1152x648.jpeg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ",
+      "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+      "summary": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPho…",
+      "publishedAt": "2026-06-22T18:50:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "publishedAt": "2026-06-22T18:49:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2252299302.jpg?w=1024"
+    },
+    {
+      "source": "Engadget",
+      "title": "Ray-Ban Meta Optics review: A better fit comes with a higher price",
+      "link": "https://www.engadget.com/2199194/ray-ban-meta-optics-review/",
+      "summary": "The Ray-Ban Meta Optics lineup adds a premium fit and a few extra features, but comes with a higher price.",
+      "publishedAt": "2026-06-22T18:18:04.000Z",
+      "image": "https://www.engadget.com/img/gallery/ray-ban-meta-optics-review-a-better-fit-comes-with-a-price/l-intro-1782151653.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+      "link": "https://www.wired.com/gallery/best-mushroom-coffee/",
+      "summary": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+      "publishedAt": "2026-06-22T18:10:09.000Z",
+      "image": "https://media.wired.com/photos/68422670b6a5ae04b97cb39e/191:100/w_1280,c_limit/Best%20Mushroom%20Coffee%20(update)_.png"
+    },
     {
       "source": "TechCrunch",
       "title": "Anthropic says Claude may want to see your ID",
@@ -50,30 +258,6 @@
       "image": "https://www.engadget.com/img/gallery/valves-steam-machine-starts-at-1049-with-512gb-storage-and-no-controller/l-intro-1782150372.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": "Finding the Best Dog Treat with Statistics",
-      "link": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-      "summary": "Article URL: https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html\nComments URL: https://news.ycombinator.com/item?id=48633410\nPoints: 5\n# Comments: 1",
-      "publishedAt": "2026-06-22T17:46:48.000Z",
-      "image": "https://wespiser.com/img/home_compress.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Amazon is testing Alexa+ in India with Hindi support",
-      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
-      "publishedAt": "2026-06-22T17:31:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Steam Machine Launches Today",
-      "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "summary": "Article URL: https://store.steampowered.com/news/group/45479024/view/685257114654870245\nComments URL: https://news.ycombinator.com/item?id=48633012\nPoints: 39\n# Comments: 7",
-      "publishedAt": "2026-06-22T17:18:49.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/45479024/7d1bda5486460ba7efc032efb727a61d638420a0.png"
-    },
-    {
       "source": "The Verge",
       "title": "Google invests in A24 to build AI movie tools",
       "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
@@ -82,16 +266,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-DeepMind-A24-partnership.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Hacker News",
-      "title": "Steam Machine game testing",
-      "link": "https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article\nComments URL: https://news.ycombinator.com/item?id=48632989\nPoints:…",
-      "publishedAt": "2026-06-22T17:17:29.000Z",
-      "image": "https://storage.ghost.io/c/68/2d/682dc4d0-6daf-426a-b3d4-9f443976d0d8/content/images/2026/06/IMG_9827.JPG"
-    },
-    {
       "source": "Ars Technica",
-      "title": "Doorbell cam filmed Tesla Autopilot crash that killed woman in her home",
+      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
       "link": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
       "summary": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
       "publishedAt": "2026-06-22T17:10:52.000Z",
@@ -106,28 +282,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Hacker News",
-      "title": "Steam Machine",
-      "link": "https://store.steampowered.com/hardware/steammachine",
-      "summary": "Article URL: https://store.steampowered.com/hardware/steammachine\nComments URL: https://news.ycombinator.com/item?id=48632884\nPoints: 99\n# Comments: 77",
-      "publishedAt": "2026-06-22T17:09:51.000Z",
-      "image": "https://clan.fastly.steamstatic.com/images/45479024/d2ce7e96bb0ab51817ba37cf61e3ca919d6f7209.jpg"
-    },
-    {
       "source": "The Verge",
       "title": "Here’s how you can reserve a Steam Machine",
       "link": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
       "summary": "The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder…",
       "publishedAt": "2026-06-22T17:07:01.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Blogger Defeats Photographer's Copyright Claim-Sokolskyfilm vs. Messiah",
-      "link": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
-      "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm\nComments URL: https://news.ycombinator.com/item?…",
-      "publishedAt": "2026-06-22T17:06:10.000Z",
-      "image": "https://blog.ericgoldman.org/wp-content/uploads/2026/06/elaine-join-the-club.jpg"
     },
     {
       "source": "The Verge",
@@ -146,14 +306,6 @@
       "image": "https://media.wired.com/photos/6a3966d8ead7f254c141ecc7/191:100/w_1280,c_limit/Dude.-The-Ninja-Slushi-Is-Ridiculously-Cheap-Right-Now.jpg"
     },
     {
-      "source": "The Verge",
-      "title": "Valve explains why it isn&#8217;t subsidizing the Steam Machine",
-      "link": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
-      "summary": "But the Xbox Series X is kind of like two Steam Machines! | Photo: Kelsey McClellan / The Verge\t\n\nValve finally announced the price of the Steam Machine, and like a lot of new gadg…",
-      "publishedAt": "2026-06-22T17:02:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_KMcClellan_0010.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Wired",
       "title": "I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)",
       "link": "https://www.wired.com/story/early-prime-day-deals-june-2026-3/",
@@ -162,52 +314,12 @@
       "image": "https://media.wired.com/photos/6a31e4e303c0be2f1d7e861f/191:100/w_1280,c_limit/Launorma_EarlyPrimeDayDeal.png"
     },
     {
-      "source": "Hacker News",
-      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
-      "link": "https://jobs.ashbyhq.com/charge-robotics",
-      "summary": "Article URL: https://jobs.ashbyhq.com/charge-robotics\nComments URL: https://news.ycombinator.com/item?id=48632792\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-06-22T17:00:17.000Z",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/245e1357-fdad-4538-b768-fbc50d9a625b/e90ad744-2cfa-4bef-bbf2-c8f00d147795/d108bc03-6e25-40ec-85b4-5ccda2c6d3ec.png"
-    },
-    {
-      "source": "The Verge",
-      "title": "Valve prices the Steam Machine at $1,049",
-      "link": "https://www.theverge.com/news/837022/valve-steam-machine-price-release-date",
-      "summary": "After months of waiting, Valve has finally announced that the Steam Machine, its new living room-friendly PC, will start at $1,049 and go on sale beginning June 29th.\nYou can now r…",
-      "publishedAt": "2026-06-22T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Wired",
       "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
       "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
       "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bu…",
       "publishedAt": "2026-06-22T17:00:00.000Z",
       "image": "https://media.wired.com/photos/6a2fc599a8e3255f0ac3665f/191:100/w_1280,c_limit/061526_OpenAI%20Hires%20an%20Army%20to%20Patch%20Open%20Source%20Bugs%20as%20It%20Battles%20Mythos%20for%20Cyber%20AI%20Supremacy.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colos…",
-      "publishedAt": "2026-06-22T16:51:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mexico Just Showed Off a New Cheap, Government-Backed EV",
-      "link": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
-      "summary": "Article URL: https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080\nComments URL: https://news.ycombinator.com/item?id=48632652\nPoints: 29…",
-      "publishedAt": "2026-06-22T16:48:45.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "DisplayMate",
-      "link": "https://www.displaymate.com/",
-      "summary": "Article URL: https://www.displaymate.com/\nComments URL: https://news.ycombinator.com/item?id=48632613\nPoints: 24\n# Comments: 7",
-      "publishedAt": "2026-06-22T16:45:52.000Z",
-      "image": null
     },
     {
       "source": "Wired",
@@ -240,14 +352,6 @@
       "summary": "The cuts and redundancies are part of a plan to \"simplify the company,\" the CEO says.",
       "publishedAt": "2026-06-22T15:22:46.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Lucid-Air-Pure-24-of-25-1152x648.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup",
-      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
-      "summary": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
-      "publishedAt": "2026-06-22T15:21:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/whatsapp-logo-notification-badge.jpg?resize=1200,800"
     },
     {
       "source": "Ars Technica",
@@ -306,52 +410,12 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7evVer22ufMtmOwoZ1Cfuq/6222b39130f1015e2fc42f84df11c42c/self-improving_harness.jpg?w=300&q=30"
     },
     {
-      "source": "TechCrunch",
-      "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
-      "link": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
-      "summary": "Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing.",
-      "publishedAt": "2026-06-22T14:14:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/WIDESCREEN_BLACK_FRAMED_16_9.png?resize=1200,675"
-    },
-    {
       "source": "Ars Technica",
       "title": "This former hacker saw the light—and now wants to collect all of it",
       "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
       "summary": "\"I don’t know of a bigger question we can answer as humans.\"",
       "publishedAt": "2026-06-22T14:11:03.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/20260504_ObservableSpace_123-2560x1440.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
-      "publishedAt": "2026-06-22T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "How Anthropic may have talked itself into an AI export ban",
-      "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
-      "publishedAt": "2026-06-22T13:45:24.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-1152x648.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
-      "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
-      "summary": "The company is also eliminating a production shift at its Arizona factory to align \"production plans with anticipated demand.\"",
-      "publishedAt": "2026-06-22T13:42:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Lucid-Gravity-terrain.jpg?resize=1200,675"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
-      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-      "summary": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund, which will see it expanding its presence in the United…",
-      "publishedAt": "2026-06-22T13:37:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Seedcamp.jpg?resize=1200,800"
     },
     {
       "source": "MIT Technology Review",
@@ -362,52 +426,12 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2022/04/20220318_075142_0E5A1371.jpeg?w=3000"
     },
     {
-      "source": "Engadget",
-      "title": "OpenAI signs deal to show Getty's images in ChatGPT results",
-      "link": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
-      "summary": "Getty Images will allow OpenAI to use its content library in AI search and ChatGPT.",
-      "publishedAt": "2026-06-22T11:50:11.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/l-intro-1782128913.jpg"
-    },
-    {
-      "source": "Engadget",
-      "title": "Chinese-style EV battery swap stations are coming to Europe",
-      "link": "https://www.engadget.com/2198629/chinese-style-ev-battery-swap-stations-are-coming-to-europe/",
-      "summary": "Octopus and CATL are pledging to roll out a network of battery swap stations for heavy trucks across Europe.",
-      "publishedAt": "2026-06-22T11:38:27.000Z",
-      "image": "https://www.engadget.com/img/gallery/chinese-style-ev-battery-swap-stations-are-coming-to-europe/l-intro-1782128193.jpg"
-    },
-    {
       "source": "Wired",
       "title": "These Are the 12 Ikea Products the Company’s Design Chief Personally Owns",
       "link": "https://www.wired.com/story/these-are-the-12-ikea-products-ikeas-design-chief-personally-owns/",
       "summary": "We asked Johan Ejdemo to list which Ikea items populate his home. He also tells us about his all-time favorite. (No, it’s not a Billy bookcase.)",
       "publishedAt": "2026-06-22T10:00:00.000Z",
       "image": "https://media.wired.com/photos/6a350344f3efe9ab9aad1474/191:100/w_1280,c_limit/061826_IKEA-Best-Picks.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "The UK Just Lost Its Sixth Prime Minister of the Decade",
-      "link": "https://www.wired.com/story/uk-loses-its-sixth-prime-minister-keir-starmer/",
-      "summary": "Keir Starmer’s resignation on Monday morning paves the way for yet another leadership battle.",
-      "publishedAt": "2026-06-22T09:46:54.000Z",
-      "image": "https://media.wired.com/photos/6a38fc895d106edb5cddd748/191:100/w_1280,c_limit/GettyImages-2282209778.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "Some Electricians Think Building Data Centers Is for Sellouts",
-      "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
-      "summary": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
-      "publishedAt": "2026-06-22T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a317f4a898b4be9664d5a85/191:100/w_1280,c_limit/Business_ElectriciansHaveaLotofComplicatedFeelingsAboutBuildingDataCenters-v1.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "World Cup Scams Are Getting Harder to Spot",
-      "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
-      "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
-      "publishedAt": "2026-06-22T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a33f50cd1cfcb762af591a1/191:100/w_1280,c_limit/WorldcupScam_lead2.jpg"
     },
     {
       "source": "MIT Technology Review",
@@ -424,22 +448,6 @@
       "summary": "Presented by Solidigm\n\nAs inference workloads evolve from discrete question-and-answer exchanges into persistent, multi-step agentic systems, GPU availability is no longer the most…",
       "publishedAt": "2026-06-22T07:00:00.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5GJSLwxzfZtlmGbw0irLnU/fc9fab29b482054ff058a97a10e51be1/FastCo_HeroImage.jpg?w=300&q=30"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Trump admin’s coal investments assist plants with repeated violations",
-      "link": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
-      "summary": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
-      "publishedAt": "2026-06-21T17:49:35.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/coal-ash-1152x648.jpg"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
-      "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
-      "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways.",
-      "publishedAt": "2026-06-21T10:00:11.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bay12-1152x648.jpg"
     },
     {
       "source": "VentureBeat",
@@ -488,14 +496,6 @@
       "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paraly…",
       "publishedAt": "2026-06-19T09:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/bci-brain2.jpg?resize=1200,600"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
-      "link": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
-      "summary": "Anthropic announced a potentially game-changing new feature for users of Claude Code on the Claude Team and Enterprise subscription plans: Artifacts. \nThis update turns a Claude Co…",
-      "publishedAt": "2026-06-18T23:18:59.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=300&q=30"
     },
     {
       "source": "MIT Technology Review",
