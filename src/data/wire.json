@@ -1,6 +1,142 @@
 {
-  "syncedAt": "2026-06-22T22:05:57.669Z",
+  "syncedAt": "2026-06-23T03:51:01.260Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "link": "https://arxiv.org/abs/2606.03748",
+      "summary": "Article URL: https://arxiv.org/abs/2606.03748\nComments URL: https://news.ycombinator.com/item?id=48639434\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-06-23T02:28:00.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "link": "https://arxiv.org/abs/2606.16140",
+      "summary": "Article URL: https://arxiv.org/abs/2606.16140\nComments URL: https://news.ycombinator.com/item?id=48639240\nPoints: 20\n# Comments: 5",
+      "publishedAt": "2026-06-23T02:01:25.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "1,700 free online courses from top universities",
+      "link": "https://www.openculture.com/freeonlinecourses",
+      "summary": "Article URL: https://www.openculture.com/freeonlinecourses\nComments URL: https://news.ycombinator.com/item?id=48639184\nPoints: 77\n# Comments: 15",
+      "publishedAt": "2026-06-23T01:54:38.000Z",
+      "image": "https://www.openculture.com/wp-content/themes/openculture_v4c/images/open_culture_white.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "An Introduction to YOLO26",
+      "link": "https://blog.roboflow.com/yolo26/",
+      "summary": "Article URL: https://blog.roboflow.com/yolo26/\nComments URL: https://news.ycombinator.com/item?id=48639165\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-06-23T01:52:20.000Z",
+      "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/01/rfdetr-seg--1-.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "SpaceX sheds $400B in market value as debut rally hits reverse",
+      "link": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
+      "summary": "Article URL: https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4\nComments URL: https://news.ycombinator.com/item?id=48639057\nPoints: 30\n# Comments: 13",
+      "publishedAt": "2026-06-23T01:35:26.000Z",
+      "image": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "publishedAt": "2026-06-23T01:27:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800"
+    },
+    {
+      "source": "Hacker News",
+      "title": "In praise of memcached",
+      "link": "https://jchri.st/blog/in-praise-of-memcached/",
+      "summary": "Article URL: https://jchri.st/blog/in-praise-of-memcached/\nComments URL: https://news.ycombinator.com/item?id=48638886\nPoints: 65\n# Comments: 20",
+      "publishedAt": "2026-06-23T01:15:05.000Z",
+      "image": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "publishedAt": "2026-06-23T00:11:31.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fu…",
+      "publishedAt": "2026-06-22T23:24:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+      "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+      "publishedAt": "2026-06-22T22:59:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2202236922.jpg?w=1024"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+      "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+      "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+      "publishedAt": "2026-06-22T22:43:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800"
+    },
+    {
+      "source": "Engadget",
+      "title": "Meta is 'pausing' employee tracking program after it let the whole company see sensitive data",
+      "link": "https://www.engadget.com/2199458/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/",
+      "summary": "This won't make the already-controversial AI training endeavor any more popular.",
+      "publishedAt": "2026-06-22T22:40:14.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-is-pausing-employee-tracking-program-after-it-let-the-whole-company-see-sensitive-data/l-intro-1782167927.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+      "link": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
+      "summary": "Researchers say the discovery could be a “Rosetta stone” for cosmic signals.",
+      "publishedAt": "2026-06-22T22:15:10.000Z",
+      "image": "https://media.wired.com/photos/6a3958bcdf5a1d50d09fc7ed/191:100/w_1280,c_limit/GettyImages-2275575477.jpg"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+      "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
+      "publishedAt": "2026-06-22T21:52:39.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-factory-zero-1152x648.jpg"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
+      "link": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/",
+      "summary": "SpaceX has told NASA it plans to launch Starship every eight days from Kennedy.",
+      "publishedAt": "2026-06-22T21:28:19.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-9057-1152x648.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "ytr: YouTube Radio for Emacs",
+      "link": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+      "summary": "Article URL: https://xenodium.com/ytr-youtube-radio-for-emacs\nComments URL: https://news.ycombinator.com/item?id=48636380\nPoints: 69\n# Comments: 8",
+      "publishedAt": "2026-06-22T21:21:08.000Z",
+      "image": "https://xenodium.com/share.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Runing GLM-5.2 on local hardware",
+      "link": "https://unsloth.ai/docs/models/glm-5.2",
+      "summary": "Article URL: https://unsloth.ai/docs/models/glm-5.2\nComments URL: https://news.ycombinator.com/item?id=48636377\nPoints: 224\n# Comments: 102",
+      "publishedAt": "2026-06-22T21:21:01.000Z",
+      "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=b1ca68fa&sv=2"
+    },
     {
       "source": "Wired",
       "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
@@ -18,28 +154,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_KMcClellan_0037.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Hacker News",
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\nComments URL: https://news.ycombinator.com/item?id=48636125\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-06-22T21:00:51.000Z",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/36d823535a32695e6b82b2371e3ed3df2496af99.png?1754429935"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tacky men with ridiculous glasses want you to wear them too",
-      "link": "https://manualdousuario.net/en/smart-glasses-ugly-tacky/",
-      "summary": "Article URL: https://manualdousuario.net/en/smart-glasses-ugly-tacky/\nComments URL: https://news.ycombinator.com/item?id=48636100\nPoints: 17\n# Comments: 6",
-      "publishedAt": "2026-06-22T20:59:15.000Z",
-      "image": "https://manualdousuario.net/wp-content/uploads/2026/06/robert-scoble-google-glass.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Job application asked for my SAT scores",
-      "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-      "summary": "Article URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/\nComments URL: https://news.ycombinator.com/item?id=48636062\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-06-22T20:55:17.000Z",
-      "image": "/static/og-image.png"
+      "source": "Ars Technica",
+      "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
+      "link": "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/",
+      "summary": "He had retinal tears and bruises from squishing his eyeballs with the gun.",
+      "publishedAt": "2026-06-22T21:02:08.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg"
     },
     {
       "source": "TechCrunch",
@@ -48,14 +168,6 @@
       "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
       "publishedAt": "2026-06-22T20:53:11.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-      "link": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
-      "summary": "Article URL: https://spur.us/blog/smart-tv-apps-residential-proxy-sdks\nComments URL: https://news.ycombinator.com/item?id=48635954\nPoints: 26\n# Comments: 7",
-      "publishedAt": "2026-06-22T20:48:30.000Z",
-      "image": "https://cdn.sanity.io/images/b9pzoci3/production/2adc1982dab065cba0b11ab1021585c8aafb239a-1000x1000.jpg?w=1200&h=630&fit=max"
     },
     {
       "source": "TechCrunch",
@@ -106,14 +218,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
-      "link": "https://www.acquired.fm/episodes/the-walt-disney-company",
-      "summary": "Article URL: https://www.acquired.fm/episodes/the-walt-disney-company\nComments URL: https://news.ycombinator.com/item?id=48635409\nPoints: 38\n# Comments: 26",
-      "publishedAt": "2026-06-22T20:09:40.000Z",
-      "image": "https://imagedelivery.net/4Iq_5OuN3Oq3QRRKSY6D4w/episodes_og_the-walt-disney-company/main"
-    },
-    {
       "source": "TechCrunch",
       "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
       "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
@@ -128,38 +232,6 @@
       "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overp…",
       "publishedAt": "2026-06-22T20:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
-      "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
-      "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
-      "publishedAt": "2026-06-22T19:25:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tata-electronics.jpg?resize=1200,800"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Japanese symbols that speak without words",
-      "link": "https://arun.is/blog/japan-symbols/",
-      "summary": "Article URL: https://arun.is/blog/japan-symbols/\nComments URL: https://news.ycombinator.com/item?id=48634803\nPoints: 47\n# Comments: 7",
-      "publishedAt": "2026-06-22T19:22:37.000Z",
-      "image": "https://arun.is/_astro/social.bcNmzcHo.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "British Columbia, Time Zones, and Postgres",
-      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "summary": "Article URL: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes\nComments URL: https://news.ycombinator.com/item?id=48634787\nPoints: 65\n# Comments: 20",
-      "publishedAt": "2026-06-22T19:21:00.000Z",
-      "image": "https://imagedelivery.net/lPM0ntuwQfh8VQgJRu0mFg/20d3ec66-0a11-4da9-51c6-2fba2b821900/public"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "link": "https://github.com/dorukkumkumoglu/optocamzero",
-      "summary": "Article URL: https://github.com/dorukkumkumoglu/optocamzero\nComments URL: https://news.ycombinator.com/item?id=48634778\nPoints: 47\n# Comments: 10",
-      "publishedAt": "2026-06-22T19:19:55.000Z",
-      "image": "https://repository-images.githubusercontent.com/1193634026/80071535-dcd7-4805-9957-acaf49143c50"
     },
     {
       "source": "Ars Technica",
@@ -178,22 +250,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1152x648.jpeg"
     },
     {
-      "source": "TechCrunch",
-      "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ",
-      "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
-      "summary": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPho…",
-      "publishedAt": "2026-06-22T18:50:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
-      "publishedAt": "2026-06-22T18:49:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2252299302.jpg?w=1024"
-    },
-    {
       "source": "Engadget",
       "title": "Ray-Ban Meta Optics review: A better fit comes with a higher price",
       "link": "https://www.engadget.com/2199194/ray-ban-meta-optics-review/",
@@ -208,14 +264,6 @@
       "summary": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
       "publishedAt": "2026-06-22T18:10:09.000Z",
       "image": "https://media.wired.com/photos/68422670b6a5ae04b97cb39e/191:100/w_1280,c_limit/Best%20Mushroom%20Coffee%20(update)_.png"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Anthropic says Claude may want to see your ID",
-      "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-      "summary": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
-      "publishedAt": "2026-06-22T18:05:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024"
     },
     {
       "source": "The Verge",
@@ -290,14 +338,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "The Verge",
-      "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop",
-      "link": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
-      "summary": "If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that \"starting with the SteamOS 3.8 release, you can p…",
-      "publishedAt": "2026-06-22T17:05:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Wired",
       "title": "The Ninja Slushi Is Only $200: Early Amazon Prime Day Deal 2026",
       "link": "https://www.wired.com/story/ninja-slushi-amazon-prime-day-deal-2026/",
@@ -354,28 +394,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/Lucid-Air-Pure-24-of-25-1152x648.jpg"
     },
     {
-      "source": "Ars Technica",
-      "title": "A US military exercise in space got underway with barely anyone noticing",
-      "link": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
-      "summary": "The Space Force wants to cut the time to field new satellites from years to weeks, days, or hours.",
-      "publishedAt": "2026-06-22T15:18:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/1779807626173-1020x648.jpg"
-    },
-    {
       "source": "Engadget",
       "title": "Tesla in autopilot crashed into Texas home, killing one",
       "link": "https://www.engadget.com/2198847/tesla-in-autopilot-crashed-into-texas-home-killing-one/",
       "summary": "One woman is dead after a Tesla with \"an automated driving assistance system\" engaged crashed into a home in Katy, Texas.",
       "publishedAt": "2026-06-22T15:11:01.000Z",
       "image": "https://www.engadget.com/img/gallery/tesla-in-autopilot-crashed-into-texas-home-killing-one/l-intro-1782140976.jpg"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
-      "link": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
-      "summary": "The high-altitude race is a unique test of car and driver.",
-      "publishedAt": "2026-06-22T15:07:00.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NA5_5812-1152x648.jpg"
     },
     {
       "source": "VentureBeat",
@@ -394,14 +418,6 @@
       "image": "https://www.engadget.com/img/gallery/fungalpunk-rpg-signet-city-isnt-afraid-to-be-weird-and-political/l-intro-1782145118.jpg"
     },
     {
-      "source": "Engadget",
-      "title": "Instagram for TV is now available on Samsung TVs in the US",
-      "link": "https://www.engadget.com/2198313/instagram-for-tv-samsung-tvs-us/",
-      "summary": "Instagram's TV app is expanding to Samsung TVs in the US, half a year after it launched for Amazon Fire TV devices.",
-      "publishedAt": "2026-06-22T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/instagram-for-tv-expands-to-samsung-tvs-in-the-us/l-intro-1781938852.jpg"
-    },
-    {
       "source": "VentureBeat",
       "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
       "link": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
@@ -410,28 +426,12 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7evVer22ufMtmOwoZ1Cfuq/6222b39130f1015e2fc42f84df11c42c/self-improving_harness.jpg?w=300&q=30"
     },
     {
-      "source": "Ars Technica",
-      "title": "This former hacker saw the light—and now wants to collect all of it",
-      "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
-      "summary": "\"I don’t know of a bigger question we can answer as humans.\"",
-      "publishedAt": "2026-06-22T14:11:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/20260504_ObservableSpace_123-2560x1440.jpg"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: record-breaking subsea tunnels and flexible data centers",
       "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest sub…",
       "publishedAt": "2026-06-22T12:10:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2022/04/20220318_075142_0E5A1371.jpeg?w=3000"
-    },
-    {
-      "source": "Wired",
-      "title": "These Are the 12 Ikea Products the Company’s Design Chief Personally Owns",
-      "link": "https://www.wired.com/story/these-are-the-12-ikea-products-ikeas-design-chief-personally-owns/",
-      "summary": "We asked Johan Ejdemo to list which Ikea items populate his home. He also tells us about his all-time favorite. (No, it’s not a Billy bookcase.)",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a350344f3efe9ab9aad1474/191:100/w_1280,c_limit/061826_IKEA-Best-Picks.jpg"
     },
     {
       "source": "MIT Technology Review",
