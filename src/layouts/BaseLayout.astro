@@ -5,10 +5,38 @@ import Analytics from '@vercel/analytics/astro';
 interface Props {
   title: string;
   description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 
-const { title, description = 'Tech news and signal, curated and written by The Duke Post.' } = Astro.props;
+const {
+  title,
+  description = 'The Duke Post tracks every major tech outlet and surfaces what actually matters, so you get the day\'s real trends without tab-hopping across a dozen news sites.',
+  image,
+  type = 'website',
+  jsonLd,
+} = Astro.props;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+const ogImageUrl = image ? new URL(image, Astro.site) : undefined;
+
+const siteJsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'The Duke Post',
+    url: Astro.site?.toString(),
+    logo: new URL('/favicon.svg', Astro.site).toString(),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'The Duke Post',
+    url: Astro.site?.toString(),
+    description: 'Original tech reporting plus a curated Wire of headlines from every major outlet, in one feed.',
+  },
+  ...(jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : []),
+];
 ---
 <!doctype html>
 <html lang="en">
@@ -25,16 +53,23 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
   <meta name="description" content={description} />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=2" />
   <link rel="canonical" href={canonicalUrl} />
+  <link rel="alternate" type="application/rss+xml" title="The Duke Post" href="/rss.xml" />
   <title>{title}</title>
 
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content={type} />
   <meta property="og:site_name" content="The Duke Post" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonicalUrl} />
-  <meta name="twitter:card" content="summary" />
+  {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+  <meta name="twitter:card" content={ogImageUrl ? 'summary_large_image' : 'summary'} />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
+  {ogImageUrl && <meta name="twitter:image" content={ogImageUrl} />}
+
+  {siteJsonLd.map((entry) => (
+    <script type="application/ld+json" set:html={JSON.stringify(entry)} />
+  ))}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -66,7 +101,7 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
   <footer class="site-footer">
     <div class="wrap site-footer__inner">
       <p>&copy; {new Date().getFullYear()} The Duke Post. Independent tech coverage.</p>
-      <p class="byline">Curated headlines link to original publishers.</p>
+      <p class="byline">Curated headlines link to original publishers. <a href="/rss.xml">RSS</a></p>
     </div>
   </footer>
 

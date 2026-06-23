@@ -7,13 +7,31 @@ import { faviconUrl } from '../lib/favicon';
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
+const GRID_SIZE = 8;
+
 const featured = articles.find((a) => a.data.featured) ?? articles[0];
-const rest = articles.filter((a) => a.id !== featured?.id).slice(0, 4);
+const rest = articles.filter((a) => a.id !== featured?.id).slice(0, GRID_SIZE);
 
 const wireItems = wireData.items.slice(0, 10);
 const syncedAt = new Date(wireData.syncedAt);
+
+// Backfill the grid with Wire highlights when there aren't enough original
+// articles yet, so the homepage isn't sparse. Pull from items past the ones
+// already shown in the Wire section below, to avoid duplicates on the page.
+const fillCount = Math.max(0, GRID_SIZE - rest.length);
+const wireFill = wireData.items.slice(10, 10 + fillCount);
+
+const moreCards = [
+  ...rest.map((a) => ({ kind: 'article' as const, article: a })),
+  ...wireFill.map((item) => ({ kind: 'wire' as const, item })),
+];
 ---
-<BaseLayout title="The Duke Post — Tech News & Signal">
+<BaseLayout
+  title="The Duke Post — All the Tech Trends, One Feed, No Tab-Hopping"
+  description="The Duke Post tracks every major tech outlet so you don't have to. Original reporting plus a constantly updated Wire of curated headlines — the day's real trends in one place."
+  image={featured?.data.image}
+>
+  <p class="tagline wrap">Skip the dozen open tabs. Original reporting and a live, curated Wire from every major outlet — the trends that matter, in one feed.</p>
   {featured && (
     <section class="hero wrap">
       <a href={`/articles/${featured.slug}`} class="hero__link sticker">
@@ -26,17 +44,26 @@ const syncedAt = new Date(wireData.syncedAt);
     </section>
   )}
 
-  {rest.length > 0 && (
+  {moreCards.length > 0 && (
     <section class="more-articles wrap">
       <h2 class="section-title">Fresh off the desk</h2>
       <div class="more-grid">
-        {rest.map((a) => (
-          <a href={`/articles/${a.slug}`} class="more-card sticker">
-            {a.data.image && <img class="more-card__image" src={a.data.image} alt="" loading="lazy" />}
-            <span class="eyebrow">{a.data.category}</span>
-            <h3>{a.data.title}</h3>
-            <p>{a.data.description}</p>
-          </a>
+        {moreCards.map((card) => (
+          card.kind === 'article' ? (
+            <a href={`/articles/${card.article.slug}`} class="more-card sticker">
+              {card.article.data.image && <img class="more-card__image" src={card.article.data.image} alt="" loading="lazy" />}
+              <span class="eyebrow">{card.article.data.category}</span>
+              <h3>{card.article.data.title}</h3>
+              <p>{card.article.data.description}</p>
+            </a>
+          ) : (
+            <a href={card.item.link} target="_blank" rel="noopener noreferrer" class="more-card more-card--wire sticker">
+              {card.item.image && <img class="more-card__image" src={card.item.image} alt="" loading="lazy" />}
+              <span class="eyebrow eyebrow--wire">From the Wire · {card.item.source}</span>
+              <h3>{card.item.title}</h3>
+              <p>{card.item.summary}</p>
+            </a>
+          )
         ))}
       </div>
     </section>
@@ -65,6 +92,14 @@ const syncedAt = new Date(wireData.syncedAt);
 </BaseLayout>
 
 <style>
+  .tagline {
+    padding: 28px 24px 0;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    letter-spacing: 0.02em;
+    color: var(--slate);
+    max-width: 56ch;
+  }
   .hero { padding: 48px 24px; }
   .hero__link { display: block; padding: 40px 36px; }
   .hero__image {
@@ -112,11 +147,15 @@ const syncedAt = new Date(wireData.syncedAt);
   .more-card h3 {
     font-size: 19px;
     margin: 12px 0 8px;
+    overflow-wrap: anywhere;
   }
+  .more-card--wire { border-style: dashed; }
+  .eyebrow--wire { color: var(--signal); }
   .more-card p {
     color: var(--slate);
     font-size: 15px;
     margin: 0;
+    overflow-wrap: anywhere;
   }
 
   .wire {

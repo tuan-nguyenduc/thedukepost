@@ -9,6 +9,7 @@
     "sync-feeds": "node scripts/sync-feeds.mjs"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.2.1",
     "@vercel/analytics": "^2.0.1",
     "astro": "^4.16.0",

@@ -12,8 +12,25 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
+
+const articleJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: article.data.title,
+  description: article.data.description,
+  datePublished: article.data.pubDate.toISOString(),
+  author: { '@type': 'Organization', name: article.data.author },
+  publisher: { '@type': 'Organization', name: 'The Duke Post' },
+  ...(article.data.image ? { image: [new URL(article.data.image, Astro.site).toString()] } : {}),
+};
 ---
-<BaseLayout title={`${article.data.title} — The Duke Post`} description={article.data.description}>
+<BaseLayout
+  title={`${article.data.title} — The Duke Post`}
+  description={article.data.description}
+  image={article.data.image}
+  type="article"
+  jsonLd={articleJsonLd}
+>
   <article class="wrap article">
     {article.data.image && <img class="article__hero" src={article.data.image} alt="" />}
     <span class="eyebrow">{article.data.category}</span>
