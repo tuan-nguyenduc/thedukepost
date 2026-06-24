@@ -58,7 +58,7 @@ const moreCards = [
             </a>
           ) : (
             <a href={card.item.link} target="_blank" rel="noopener noreferrer" class="more-card more-card--wire sticker">
-              {card.item.image && <img class="more-card__image" src={card.item.image} alt="" loading="lazy" />}
+              <img class="more-card__image" src={card.item.image || '/wire-placeholder.svg'} alt="" loading="lazy" />
               <span class="eyebrow eyebrow--wire">From the Wire · {card.item.source}</span>
               <h3>{card.item.title}</h3>
               <p>{card.item.summary}</p>
