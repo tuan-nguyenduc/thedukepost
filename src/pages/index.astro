@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import wireData from '../data/wire.json';
 import { faviconUrl } from '../lib/favicon';
+import { categoryHref, categoryLabel } from '../lib/categories';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -34,13 +35,15 @@ const moreCards = [
   <p class="tagline wrap">Skip the dozen open tabs. Original reporting and a live, curated Wire from every major outlet — the trends that matter, in one feed.</p>
   {featured && (
     <section class="hero wrap">
-      <a href={`/articles/${featured.slug}`} class="hero__link sticker">
-        {featured.data.image && <img class="hero__image" src={featured.data.image} alt="" />}
-        <span class="eyebrow">{featured.data.category}</span>
-        <h1 class="hero__title">{featured.data.title}</h1>
-        <p class="hero__desc">{featured.data.description}</p>
-        <span class="byline">{featured.data.author} · {featured.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
-      </a>
+      <div class="hero__card">
+        <a href={`/articles/${featured.slug}`} class="hero__link sticker">
+          {featured.data.image && <img class="hero__image" src={featured.data.image} alt="" />}
+          <h1 class="hero__title">{featured.data.title}</h1>
+          <p class="hero__desc">{featured.data.description}</p>
+          <span class="byline">{featured.data.author} · {featured.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+        </a>
+        <a href={categoryHref(featured.data.category)} class="eyebrow hero__eyebrow">{categoryLabel(featured.data.category)}</a>
+      </div>
     </section>
   )}
 
@@ -50,12 +53,14 @@ const moreCards = [
       <div class="more-grid">
         {moreCards.map((card) => (
           card.kind === 'article' ? (
-            <a href={`/articles/${card.article.slug}`} class="more-card sticker">
-              {card.article.data.image && <img class="more-card__image" src={card.article.data.image} alt="" loading="lazy" />}
-              <span class="eyebrow">{card.article.data.category}</span>
-              <h3>{card.article.data.title}</h3>
-              <p>{card.article.data.description}</p>
-            </a>
+            <div class="more-card-wrap">
+              <a href={`/articles/${card.article.slug}`} class="more-card sticker">
+                {card.article.data.image && <img class="more-card__image" src={card.article.data.image} alt="" loading="lazy" />}
+                <h3>{card.article.data.title}</h3>
+                <p>{card.article.data.description}</p>
+              </a>
+              <a href={categoryHref(card.article.data.category)} class="eyebrow more-card__eyebrow">{categoryLabel(card.article.data.category)}</a>
+            </div>
           ) : (
             <a href={card.item.link} target="_blank" rel="noopener noreferrer" class="more-card more-card--wire sticker">
               <img class="more-card__image" src={card.item.image || '/wire-placeholder.svg'} alt="" loading="lazy" />
@@ -101,6 +106,8 @@ const moreCards = [
     max-width: 56ch;
   }
   .hero { padding: 48px 24px; }
+  .hero__card { position: relative; }
+  .hero__eyebrow { position: absolute; top: 28px; left: 28px; z-index: 2; }
   .hero__link { display: block; padding: 40px 36px; }
   .hero__image {
     width: 100%;
@@ -135,6 +142,9 @@ const moreCards = [
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     gap: 28px;
   }
+  .more-card-wrap { position: relative; min-width: 0; }
+  .more-card-wrap > .more-card { height: 100%; }
+  .more-card__eyebrow { position: absolute; top: 14px; left: 14px; z-index: 2; }
   .more-card { display: block; padding: 22px; }
   .more-card__image {
     width: 100%;
@@ -146,7 +156,7 @@ const moreCards = [
   }
   .more-card h3 {
     font-size: 19px;
-    margin: 12px 0 8px;
+    margin: 0 0 8px;
     overflow-wrap: anywhere;
   }
   .more-card--wire { border-style: dashed; }

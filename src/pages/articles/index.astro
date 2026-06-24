@@ -1,9 +1,12 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { categoryHref, categoryLabel } from '../../lib/categories';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const categoriesPresent = Array.from(new Set(articles.map((a) => a.data.category))).sort();
 ---
 <BaseLayout
   title="Articles — The Duke Post"
@@ -12,34 +15,105 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft))
   <section class="wrap page">
     <h1>Articles</h1>
     {articles.length > 0 ? (
-      <ul class="list">
-        {articles.map((a) => (
-          <li>
-            <a href={`/articles/${a.slug}`} class="sticker card">
-              {a.data.image && <img class="card__image" src={a.data.image} alt="" loading="lazy" />}
-              <div class="card__body">
-                <span class="eyebrow">{a.data.category}</span>
-                <h2>{a.data.title}</h2>
-                <p>{a.data.description}</p>
-                <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
-              </div>
-            </a>
-          </li>
-        ))}
-      </ul>
+      <>
+        {categoriesPresent.length > 1 && (
+          <div class="filters" role="group" aria-label="Filter by category" id="filters">
+            <button type="button" class="chip chip--active" data-category="all" aria-pressed="true">All</button>
+            {categoriesPresent.map((category) => (
+              <button type="button" class="chip" data-category={category} aria-pressed="false">{categoryLabel(category)}</button>
+            ))}
+          </div>
+        )}
+        <ul class="list" id="article-list">
+          {articles.map((a) => (
+            <li data-category={a.data.category}>
+              <a href={`/articles/${a.slug}`} class="sticker card">
+                {a.data.image && <img class="card__image" src={a.data.image} alt="" loading="lazy" />}
+                <div class="card__body">
+                  <h2>{a.data.title}</h2>
+                  <p>{a.data.description}</p>
+                  <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+                </div>
+              </a>
+              <a href={categoryHref(a.data.category)} class="eyebrow card__eyebrow">{categoryLabel(a.data.category)}</a>
+            </li>
+          ))}
+        </ul>
+        <p class="empty" id="empty-filtered" hidden>No articles in this category yet.</p>
+      </>
     ) : (
       <p class="empty">No articles published yet — check back soon.</p>
     )}
   </section>
+
+  <script>
+    const filters = document.getElementById('filters');
+    if (filters) {
+      const chips = Array.from(filters.querySelectorAll<HTMLButtonElement>('.chip'));
+      const items = Array.from(document.querySelectorAll<HTMLLIElement>('#article-list > li'));
+      const emptyMsg = document.getElementById('empty-filtered');
+
+      function setCategory(category: string) {
+        chips.forEach((chip) => {
+          const isActive = chip.dataset.category === category;
+          chip.classList.toggle('chip--active', isActive);
+          chip.setAttribute('aria-pressed', String(isActive));
+        });
+
+        let visibleCount = 0;
+        items.forEach((li) => {
+          const match = category === 'all' || li.dataset.category === category;
+          li.hidden = !match;
+          if (match) visibleCount++;
+        });
+        if (emptyMsg) emptyMsg.hidden = visibleCount !== 0;
+
+        const url = new URL(window.location.href);
+        if (category === 'all') {
+          url.searchParams.delete('category');
+        } else {
+          url.searchParams.set('category', category);
+        }
+        window.history.replaceState(null, '', url.pathname + url.search);
+      }
+
+      chips.forEach((chip) => {
+        chip.addEventListener('click', () => setCategory(chip.dataset.category || 'all'));
+      });
+
+      const initialCategory = new URLSearchParams(window.location.search).get('category');
+      if (initialCategory && chips.some((chip) => chip.dataset.category === initialCategory)) {
+        setCategory(initialCategory);
+      }
+    }
+  </script>
 </BaseLayout>
 
 <style>
   .page { padding: 48px 24px 80px; }
   h1 { font-size: 36px; margin-bottom: 36px; }
+
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 36px; }
+  .chip {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 8px 16px;
+    border: 2px solid var(--ink);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--ink);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  .chip:hover { transform: rotate(-1deg); }
+  .chip--active { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
-  .list li { margin: 0; min-width: 0; }
-  .list a { padding: 24px; }
-  .card { display: flex; gap: 20px; align-items: flex-start; min-width: 0; }
+  .list li { position: relative; margin: 0; min-width: 0; }
+  .card__eyebrow { position: absolute; top: 14px; left: 14px; z-index: 2; }
+  .card { display: flex; gap: 20px; align-items: flex-start; min-width: 0; padding: 24px; }
   .card__image {
     width: 140px;
     height: 100px;
@@ -49,7 +123,7 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft))
     flex-shrink: 0;
   }
   .card__body { flex: 1; min-width: 0; }
-  .list h2 { font-size: 24px; margin: 12px 0 8px; overflow-wrap: anywhere; }
+  .list h2 { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
   .list p { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
   .empty { color: var(--slate); font-size: 17px; }
 

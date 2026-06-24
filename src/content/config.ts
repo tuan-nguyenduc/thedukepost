@@ -1,4 +1,5 @@
 import { defineCollection, z } from 'astro:content';
+import { CATEGORIES } from '../lib/categories';
 
 const articles = defineCollection({
   type: 'content',
@@ -8,7 +9,7 @@ const articles = defineCollection({
     image: z.string().optional(),
     pubDate: z.coerce.date(),
     author: z.string().default('The Duke Post'),
-    category: z.enum(['ai', 'gadgets', 'startups', 'security', 'opinion', 'general']).default('general'),
+    category: z.enum(CATEGORIES).default('general'),
     featured: z.boolean().default(false),
     draft: z.boolean().default(false),
   }),

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
+import { categoryHref, categoryLabel } from '../../lib/categories';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -33,7 +34,7 @@ const articleJsonLd = {
 >
   <article class="wrap article">
     {article.data.image && <img class="article__hero" src={article.data.image} alt="" />}
-    <span class="eyebrow">{article.data.category}</span>
+    <a href={categoryHref(article.data.category)} class="eyebrow">{categoryLabel(article.data.category)}</a>
     <h1>{article.data.title}</h1>
     <p class="byline">{article.data.author} · {article.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</p>
     <div class="content">

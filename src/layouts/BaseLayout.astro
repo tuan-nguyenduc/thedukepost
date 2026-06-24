@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import Analytics from '@vercel/analytics/astro';
+import { CATEGORIES, categoryHref, categoryLabel } from '../lib/categories';
 
 interface Props {
   title: string;
@@ -89,6 +90,14 @@ const siteJsonLd = [
       </a>
       <nav class="site-nav">
         <a href="/articles">Articles</a>
+        <details class="nav-dropdown">
+          <summary>Categories</summary>
+          <div class="nav-dropdown__panel">
+            {CATEGORIES.map((category) => (
+              <a href={categoryHref(category)}>{categoryLabel(category)}</a>
+            ))}
+          </div>
+        </details>
         <a href="/wire">Wire</a>
         <a href="/about">About</a>
         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">
@@ -118,6 +127,14 @@ const siteJsonLd = [
       var next = root.dataset.theme === 'dark' ? 'light' : 'dark';
       root.dataset.theme = next;
       localStorage.setItem('theme', next);
+    });
+
+    document.addEventListener('click', function (event) {
+      document.querySelectorAll('.nav-dropdown[open]').forEach(function (details) {
+        if (!details.contains(event.target)) {
+          details.removeAttribute('open');
+        }
+      });
     });
   </script>
 </body>
@@ -173,6 +190,47 @@ const siteJsonLd = [
     background: var(--ink);
     color: var(--paper);
     transform: rotate(-1deg);
+  }
+  .nav-dropdown { position: relative; }
+  .nav-dropdown summary {
+    display: inline-block;
+    list-style: none;
+    cursor: pointer;
+    padding: 6px 14px;
+    border-radius: 999px;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  .nav-dropdown summary::-webkit-details-marker { display: none; }
+  .nav-dropdown summary:hover,
+  .nav-dropdown[open] summary {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .nav-dropdown__panel {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    min-width: 160px;
+    padding: 8px;
+    background: var(--paper);
+    border: 2px solid var(--ink);
+    border-radius: 14px;
+    box-shadow: 5px 5px 0 var(--ink);
+    z-index: 20;
+  }
+  .nav-dropdown__panel a {
+    padding: 8px 12px;
+    border-radius: 8px;
+    text-transform: none;
+    letter-spacing: normal;
+    font-family: var(--font-body);
+    font-size: 14px;
+  }
+  .nav-dropdown__panel a:hover {
+    background: var(--paper-line);
+    transform: none;
   }
   .theme-toggle {
     display: inline-flex;
