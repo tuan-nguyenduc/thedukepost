@@ -1,9 +1,145 @@
 {
-  "syncedAt": "2026-06-24T17:57:15.933Z",
+  "syncedAt": "2026-06-24T19:59:05.175Z",
   "items": [
     {
       "source": "The Verge",
-      "title": "Google&#8217;s new rules for the app store will allow alternative billing next week",
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for  a major defense bill, but denies it was used for the bill text itself and says \"N…",
+      "publishedAt": "2026-06-24T19:36:46.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Here’s why Slate changed the battery in its cheap EV truck",
+      "link": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
+      "summary": "While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that decision had been building for ye…",
+      "publishedAt": "2026-06-24T19:27:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Inspo_Truck_web.jpg?resize=1200,800"
+    },
+    {
+      "source": "Wired",
+      "title": "Every Time Norway Scores at the World Cup the City of Bergen Trembles",
+      "link": "https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/",
+      "summary": "This curious phenomenon was documented by the seismometer at the University of Bergen, which recorded slight vibrations whenever the national team scored a goal.",
+      "publishedAt": "2026-06-24T19:26:06.000Z",
+      "image": "https://media.wired.com/photos/6a3bed39f875943dad2ec17a/191:100/w_1280,c_limit/2282334280"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
+      "link": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
+      "summary": "Alibaba's Qwen team released Qwen-AgentWorld on Tuesday — two models trained not to act inside agent environments, but to predict what those environments return. The release covers…",
+      "publishedAt": "2026-06-24T19:15:36.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5KgNJs5U9hQNBwID9QnJ0D/115ecf0e3e5c4261db0b258971a58b6b/qwen-world-smk1.jpg?w=300&q=30"
+    },
+    {
+      "source": "Wired",
+      "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+      "link": "https://www.wired.com/story/kindle-prime-day-deals-06-24-2026/",
+      "summary": "There’s no better time to get a Kindle than during Amazon's own sale event.",
+      "publishedAt": "2026-06-24T19:13:22.000Z",
+      "image": "https://media.wired.com/photos/6a39c0acf875943dad2ebda1/191:100/w_1280,c_limit/The-Best-Kindle-Deals-Happening-for-Amazon-Prime-Day.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Thomann takes legal action against Fender",
+      "link": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+      "summary": "Article URL: https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/\nComments URL: https://news.ycombinator.com/item?id=48664384\nPoints: 54\n# Comments: 8",
+      "publishedAt": "2026-06-24T19:08:22.000Z",
+      "image": "https://www.thomann.de/blog/app/uploads/sites/3/2026/06/Strat-Header-6a.png"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task — and smaller models gain the most",
+      "link": "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most",
+      "summary": "As enterprise AI agents take on increasingly complex, long-horizon tasks, their performance is often restricted by their harness, the software scaffolding that connects the backbon…",
+      "publishedAt": "2026-06-24T18:45:08.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/53J920lS3O060grdobdxEa/0a45b1e112853e19bd1d132e22afc1b3/self-improving_harness.jpg?w=300&q=30"
+    },
+    {
+      "source": "Wired",
+      "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+      "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+      "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
+      "publishedAt": "2026-06-24T18:45:00.000Z",
+      "image": "https://media.wired.com/photos/6a3af3bc66e0743c653aa81f/191:100/w_1280,c_limit/AI-Lab-America-China-Have-No-Choice-But-to-Work-Together-to-Secure-AI-Open-Frontier-Business.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "GTA VI is a worrying sign for the future of physical games",
+      "link": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+      "summary": "Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed…",
+      "publishedAt": "2026-06-24T18:42:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Engadget",
+      "title": "Hulu auto-quality settings are quietly downgrading your picture. Here's why",
+      "link": "https://www.engadget.com/2200298/hulu-auto-quality-downgrading-picture-fix/",
+      "summary": "If you have a half-decent internet connection, you can probably turn \"Data Saver\" off.",
+      "publishedAt": "2026-06-24T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/hulu-auto-quality-settings-are-quietly-downgrading-your-picture-heres-why/l-intro-1782257012.jpg"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026",
+      "link": "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026",
+      "summary": "Drug discovery is notoriously inefficient. Pharmaceutical projects span years, moving from one specialized human team to the next through disconnected workflows that result in know…",
+      "publishedAt": "2026-06-24T18:30:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6gt6vz460cr7iCC55ud4SF/44ed7a283b142bdd156de373512683fc/Dr._James_Zou.png?w=300&q=30"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wikipedia Workers to Seek Union Recognition",
+      "link": "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/",
+      "summary": "Article URL: https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/\nComments URL: https://news.ycombinator.com/item?id=48663861\nPoints: 10\n# Comments: 0",
+      "publishedAt": "2026-06-24T18:27:16.000Z",
+      "image": "https://www.cwu.org/wp-content/uploads/2024/10/holding-image.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "Honda is reportedly reviving the Element as an affordable hybrid",
+      "link": "https://www.engadget.com/2200882/honda-reportedly-bringing-back-element-as-affordable-hybrid/",
+      "summary": "According to Automotive News, the cult-favorite Honda Element could return in 2029 as a small hybrid SUV.",
+      "publishedAt": "2026-06-24T18:12:35.000Z",
+      "image": "https://www.engadget.com/img/gallery/honda-reportedly-bringing-back-element-as-affordable-hybrid/l-intro-1782325027.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
+      "link": "https://posthog.com/blog/sql-parser",
+      "summary": "Article URL: https://posthog.com/blog/sql-parser\nComments URL: https://news.ycombinator.com/item?id=48663544\nPoints: 39\n# Comments: 7",
+      "publishedAt": "2026-06-24T18:05:33.000Z",
+      "image": "https://d36j3rcgc2qfsv.cloudfront.net/blogsql-parser.jpeg"
+    },
+    {
+      "source": "The Verge",
+      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "summary": "The AirPods Max 2 have some updates on the inside, but look identical to the original AirPods Max. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmazon’s Prime Day is now in its…",
+      "publishedAt": "2026-06-24T18:05:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268418_Apple_AirPods_Max_2_AKrales_0416.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Engadget",
+      "title": "Lumysi hid an activity tracker in a bracelet because wearables are gauche, darling",
+      "link": "https://www.engadget.com/2199703/lumsi-hid-an-activity-tracker-in-a-bracelet-because-wearables-are-gauche-darling/",
+      "summary": "It's a Kickstarter from an unknown brand that wants to offer a classier fitness tracker.",
+      "publishedAt": "2026-06-24T18:00:00.000Z",
+      "image": "https://www.engadget.com/img/engadget-meta-image-1280x720.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "summary": "Announcement: https://openai.com/index/openai-broadcom-jalapeno-inference-...\nhttps://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...\nhttps://www.cnn.com/2026/06/24/tech/op…",
+      "publishedAt": "2026-06-24T17:47:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google is finally opening the Play Store to outside payments",
       "link": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
       "summary": "While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play,…",
       "publishedAt": "2026-06-24T17:36:44.000Z",
@@ -19,11 +155,11 @@
     },
     {
       "source": "Wired",
-      "title": "The Best Breville Espresso Machine Is 30 Percent off Right Now (2026)",
+      "title": "The Best Breville Espresso Machine Is 30 Percent Off Right Now (2026)",
       "link": "https://www.wired.com/story/breville-deals-apd-6-24-2026/",
       "summary": "You can save hundreds of dollars on Breville appliances during Amazon Prime Day.",
       "publishedAt": "2026-06-24T17:31:32.000Z",
-      "image": null
+      "image": "https://media.wired.com/photos/6a34781c9bab9b898fe10473/191:100/w_1280,c_limit/Amazon%E2%80%99s-2-Best-Selling-Espresso-Machines-Are-Up-to-$200-Off.jpg"
     },
     {
       "source": "The Verge",
@@ -106,14 +242,6 @@
       "image": "https://www.engadget.com/img/gallery/family-files-wrongful-death-suit-following-tesla-autopilot-crash-in-texas/l-intro-1782319906.jpg"
     },
     {
-      "source": "The Verge",
-      "title": "UK staff at the foundation that runs Wikipedia seeks union recognition",
-      "link": "https://www.theverge.com/news/956237/wikipedia-wikimedia-foundation-staff-unionization-volunteer-editor-strike",
-      "summary": "UK-based staff at the Wikimedia Foundation (WMF), the nonprofit that supports Wikipedia, are pushing forward with their unionization drive. On Wednesday, the staff sent a letter to…",
-      "publishedAt": "2026-06-24T16:51:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "TechCrunch",
       "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
       "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
@@ -130,20 +258,20 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-Barbour-complaint-1152x648.jpg"
     },
     {
+      "source": "Hacker News",
+      "title": "Big AI labs are hiring philosophers",
+      "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "summary": "https://archive.is/T1FJG\nComments URL: https://news.ycombinator.com/item?id=48662452\nPoints: 23\n# Comments: 12",
+      "publishedAt": "2026-06-24T16:40:13.000Z",
+      "image": null
+    },
+    {
       "source": "TechCrunch",
       "title": "NTSB launches probe into fatal Texas Tesla crash",
       "link": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
       "summary": "The safety board, known for its thorough investigations, is probing the crash alongside the National Highway Traffic Safety Administration.",
       "publishedAt": "2026-06-24T16:39:08.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?resize=1200,675"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Xteink X4 E-Ink Reader",
-      "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "summary": "Article URL: https://blog.omgmog.net/post/xteink-x4-e-ink-reader/\nComments URL: https://news.ycombinator.com/item?id=48662381\nPoints: 32\n# Comments: 7",
-      "publishedAt": "2026-06-24T16:35:56.000Z",
-      "image": "https://blog.omgmog.net/assets/ogimage-generic.png"
     },
     {
       "source": "VentureBeat",
@@ -162,26 +290,10 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675"
     },
     {
-      "source": "The Verge",
-      "title": "Figma now has AI motion graphics and shader tools",
-      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "summary": "Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with…",
-      "publishedAt": "2026-06-24T16:15:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "The Verge",
-      "title": "52 Prime Day steals under $25 you won&#8217;t want to miss",
-      "link": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
-      "summary": "We at The Verge love a good gadget or tchotchke, especially when it’s not too expensive. But with the rising cost of just about everything these days, many once-cheap gadgets aren’…",
-      "publishedAt": "2026-06-24T16:09:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Logitech-Pop-Mouse.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Hacker News",
       "title": "I taught a bucket to speak Git",
       "link": "https://www.tigrisdata.com/blog/objgit/",
-      "summary": "Article URL: https://www.tigrisdata.com/blog/objgit/\nComments URL: https://news.ycombinator.com/item?id=48661938\nPoints: 33\n# Comments: 3",
+      "summary": "Article URL: https://www.tigrisdata.com/blog/objgit/\nComments URL: https://news.ycombinator.com/item?id=48661938\nPoints: 57\n# Comments: 12",
       "publishedAt": "2026-06-24T16:04:26.000Z",
       "image": "https://www.tigrisdata.com/blog/assets/images/hero-image-baf7c5edcab708543188e76e67d3a0ef.webp"
     },
@@ -195,27 +307,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "CAPTCHAs have failed for 20 years",
-      "link": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
-      "summary": "Article URL: https://www.browserbase.com/blog/why-captchas-are-getting-harder\nComments URL: https://news.ycombinator.com/item?id=48661911\nPoints: 45\n# Comments: 35",
-      "publishedAt": "2026-06-24T16:02:32.000Z",
-      "image": "https://cdn.sanity.io/images/yd6zslid/production/cd3a1c87bc3f777a2a15455ef582259e571d2432-856x579.png?rect=0,67,856,447&w=1200&h=627&fit=crop"
-    },
-    {
-      "source": "Hacker News",
-      "title": "John Carmack on the mistakes around Quake that ruined id software",
+      "title": "There are a few things that I look back on as my mistakes in the early days",
       "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2069799283369345247\nComments URL: https://news.ycombinator.com/item?id=48661825\nPoints: 295\n# Comments: 138",
+      "summary": "https://xcancel.com/ID_AA_Carmack/status/2069799283369345247\nComments URL: https://news.ycombinator.com/item?id=48661825\nPoints: 391\n# Comments: 199",
       "publishedAt": "2026-06-24T15:56:19.000Z",
       "image": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_200x200.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-      "link": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-      "summary": "Article URL: https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489\nComments URL: https:…",
-      "publishedAt": "2026-06-24T15:37:18.000Z",
-      "image": "https://image.theregister.com/225000.jpg?imageId=225000&x=0&y=28.33&cropw=100&croph=71.67&panox=0&panoy=28.33&panow=100&panoh=71.67&width=1200&height=683"
     },
     {
       "source": "VentureBeat",
@@ -224,14 +320,6 @@
       "summary": "Customer expectations have shifted from simple, fast conversational interactions to complex agentic AI-powered tasks that legacy IT architectures simply can’t handle. \nTo address t…",
       "publishedAt": "2026-06-24T15:34:01.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4beKXWJf5Wx9BIJoKHwlLV/6a725e624e590c21e12badb22e15f9bb/Nhung_Ho.png?w=300&q=30"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself",
-      "link": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
-      "summary": "Article URL: https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/\nComments URL: https://news.ycombinator.com/item?id=48661415\nPoints: 7\n# Comments:…",
-      "publishedAt": "2026-06-24T15:28:04.000Z",
-      "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&cs&#x3D;tinysrgb&fit&#x3D;max&fm&#x3D;jpg&ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&ixlib&#x3D;rb-4.1.0&q&#x3D;80&w&#x3D;2000"
     },
     {
       "source": "MIT Technology Review",
@@ -256,14 +344,6 @@
       "summary": "OpenAI and Broadcom this morning unveiled their first custom AI accelerator chip named \"Jalapeño,\" positioning it is as a purpose-built processor for large language model (LLM) inf…",
       "publishedAt": "2026-06-24T15:14:00.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40NiWDW8fJyLJIBZs5hAA7/e7fc12ca4026ff704436a4e061d1dbd4/ChatGPT_Image_Jun_24__2026__10_10_44_AM.png?w=300&q=30"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
-      "link": "https://www.dijkstrascry.com/inventory",
-      "summary": "Article URL: https://www.dijkstrascry.com/inventory\nComments URL: https://news.ycombinator.com/item?id=48661179\nPoints: 22\n# Comments: 4",
-      "publishedAt": "2026-06-24T15:10:27.000Z",
-      "image": null
     },
     {
       "source": "TechCrunch",
@@ -298,14 +378,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2224665122-1152x648.jpg"
     },
     {
-      "source": "TechCrunch",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-      "publishedAt": "2026-06-24T14:54:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670"
-    },
-    {
       "source": "Wired",
       "title": "I've Built Countless Sets, and These Are the Best Prime Day Lego Deals (2026)",
       "link": "https://www.wired.com/story/amazon-prime-day-lego-deals-june-2026/",
@@ -338,28 +410,12 @@
       "image": "https://media.wired.com/photos/6a3a246397b3e5bb7d92cfe0/191:100/w_1280,c_limit/The-Best-Fitness-Tech-Deals-This-Amazon-Prime-Day.jpg"
     },
     {
-      "source": "Wired",
-      "title": "The Samsung 990 Pro SSD Is on Sale for the Lowest Price I’ve Seen in 2026",
-      "link": "https://www.wired.com/story/the-best-prime-day-deal-on-memory-2026/",
-      "summary": "These Prime Day specials on a Samsung SSD and Lexar SD card represent the best digital storage deals you're likely to find this year.",
-      "publishedAt": "2026-06-24T14:07:04.000Z",
-      "image": "https://media.wired.com/photos/669679425d2d61e4805c3177/191:100/w_1280,c_limit/Lexar-128GB-Professional-2000x-SDXC-Memory-Card-Abstract-Background-SOURCE-Amazon.jpg"
-    },
-    {
       "source": "Ars Technica",
       "title": "We got a sneak peek of the final space shuttle set to go on public display",
       "link": "https://arstechnica.com/space/2026/06/november-launch-set-for-space-shuttle-endeavours-towering-display/",
       "summary": "\"It is an incredible exhibit and incredible sight.\"",
       "publishedAt": "2026-06-24T14:04:56.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/news-062426a-lg-1152x648.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "21 Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)",
-      "link": "https://www.wired.com/story/best-prime-day-beauty-deals-2026/",
-      "summary": "It wouldn't be Amazon Prime Day without some beauty deals. Here's a roundup of all our favorites.",
-      "publishedAt": "2026-06-24T14:03:45.000Z",
-      "image": "https://media.wired.com/photos/67cc8e3ff03aeba6ea4a8208/191:100/w_1280,c_limit/GHD-Chronos-Max-Hair-Straightener-Abstract-Background-032025-SOURCE-Nordstrom.jpg"
     },
     {
       "source": "Ars Technica",
@@ -378,14 +434,6 @@
       "image": "https://www.engadget.com/img/gallery/wireless-charging-wastes-way-more-electricity-than-wired-heres-why/l-intro-1782244203.jpg"
     },
     {
-      "source": "Wired",
-      "title": "Google Home Speaker Review: Leading the Pack, Again",
-      "link": "https://www.wired.com/review/google-home-speaker-2026/",
-      "summary": "Google’s first new smart speaker in six years is here and once again leads its competitors—now with paywalled features.",
-      "publishedAt": "2026-06-24T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a3abff3dfbd2eb361fca970/191:100/w_1280,c_limit/Review--Google-Home-Speaker.jpg"
-    },
-    {
       "source": "Engadget",
       "title": "Google Home Speaker review: A modest update for the Gemini era",
       "link": "https://www.engadget.com/2200116/google-home-speaker-review/",
@@ -400,14 +448,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Engineering issue We can’…",
       "publishedAt": "2026-06-24T12:10:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2019/12/gamingaddictioneyesthumbnail-9.jpg?w=1000"
-    },
-    {
-      "source": "Engadget",
-      "title": "US government reportedly urging Meta to share its AI models",
-      "link": "https://www.engadget.com/2200490/us-government-reportedly-urging-meta-to-share-its-ai-models/",
-      "summary": "The US government is reportedly asking Meta to share its AI models for review, in the midst of growing security and safety concerns over the technology.",
-      "publishedAt": "2026-06-24T12:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/us-government-reportedly-urging-meta-to-share-its-ai-models/l-intro-1782301851.jpg"
     },
     {
       "source": "MIT Technology Review",
@@ -426,14 +466,6 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg"
     },
     {
-      "source": "Engadget",
-      "title": "Rockstar finally reveals pricing for Grand Theft Auto 6",
-      "link": "https://www.engadget.com/2200483/rockstar-reveals-gta-6-pricing-launch/",
-      "summary": "Grand Theft Auto 6 will cost $80 when pre-orders open on June 25th at midnight.",
-      "publishedAt": "2026-06-24T11:40:03.000Z",
-      "image": "https://www.engadget.com/img/gallery/rockstar-finally-reveals-pricing-for-grand-theft-auto-6/l-intro-1782301097.jpg"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "This flying solar-powered platform could deliver better internet from the air",
       "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
@@ -448,14 +480,6 @@
       "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to…",
       "publishedAt": "2026-06-24T09:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2021/09/mat_final.png?w=1000"
-    },
-    {
-      "source": "Engadget",
-      "title": "YouTube settles early test case over social media harm to children",
-      "link": "https://www.engadget.com/2200409/youtube-settles-early-test-case-over-social-media-harm-to-children/",
-      "summary": "Google has settled a lawsuit with a minor known who claimed that social media platforms harmed them.",
-      "publishedAt": "2026-06-24T08:13:12.000Z",
-      "image": "https://www.engadget.com/img/gallery/youtube-settles-early-test-case-over-social-media-harm-to-children/l-intro-1782288615.jpg"
     },
     {
       "source": "Ars Technica",
@@ -480,30 +504,6 @@
       "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love…",
       "publishedAt": "2026-06-23T21:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/demaine.jpg?w=1473"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Visa will offer an inside look at Project Glasswing and how the most powerful agentic models are changing enterprise security at VB Transform 2026",
-      "link": "https://venturebeat.com/security/visa-will-offer-an-inside-look-at-project-glasswing-and-how-the-most-powerful-agentic-models-are-changing-enterprise-security-at-vb-transform-2026",
-      "summary": "The security implications of advanced AI models were immediately clear to Visa’s technology team when they began testing Anthropic’s Mythos model.\nJust weeks into Project Glasswing…",
-      "publishedAt": "2026-06-23T19:35:53.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6iaSyGRz2yDxeia20Gkujs/86bf68468867dbe4f3a949ab89625350/Rajat_Taneja.png?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
-      "link": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
-      "summary": "While many enterprises have already begun integrating AI-generated images, visuals, graphics and videos into their production workflows — there is also a growing pool of data and s…",
-      "publishedAt": "2026-06-23T18:53:03.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
-      "link": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
-      "summary": "Anthropic on Tuesday launched Claude Tag, a new product that embeds its most advanced AI model directly inside Slack as a persistent, shared teammate that anyone on a team can dele…",
-      "publishedAt": "2026-06-23T17:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6CFsd7sGf60QrI8jTqYfuy/788282d94743cf3a42c6c4bb28553ad6/Nuneybits_Vector_art_of_entirely_burnt_orange_chat_panel_mergin_c649b311-f246-4715-9849-8358622f4bee.webp?w=300&q=30"
     }
   ]
 }
