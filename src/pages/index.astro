@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 import wireData from '../data/wire.json';
 import { faviconUrl } from '../lib/favicon';
 import { categoryHref, categoryLabel } from '../lib/categories';
+import { calculateReadingTime, formatReadingTime } from '../lib/readingTime';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -58,6 +59,7 @@ const moreCards = [
                 {card.article.data.image && <img class="more-card__image" src={card.article.data.image} alt="" loading="lazy" />}
                 <h3>{card.article.data.title}</h3>
                 <p>{card.article.data.description}</p>
+                <span class="more-card__meta">{formatReadingTime(calculateReadingTime(card.article.body))}</span>
               </a>
               <a href={categoryHref(card.article.data.category)} class="eyebrow more-card__eyebrow">{categoryLabel(card.article.data.category)}</a>
             </div>
@@ -164,8 +166,16 @@ const moreCards = [
   .more-card p {
     color: var(--slate);
     font-size: 15px;
-    margin: 0;
+    margin: 0 0 8px;
     overflow-wrap: anywhere;
+  }
+  .more-card__meta {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--slate);
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
   }
 
   .wire {

@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
+import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -35,7 +36,7 @@ const categoriesPresent = Array.from(new Set(articles.map((a) => a.data.category
                 <div class="card__body">
                   <h2>{a.data.title}</h2>
                   <p>{a.data.description}</p>
-                  <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+                  <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · {formatReadingTime(calculateReadingTime(a.body))}</span>
                 </div>
               </a>
               <a href={categoryHref(a.data.category)} class="eyebrow card__eyebrow">{categoryLabel(a.data.category)}</a>

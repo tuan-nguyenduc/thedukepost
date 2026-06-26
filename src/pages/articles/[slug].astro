@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
+import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -12,7 +13,8 @@ export async function getStaticPaths() {
 }
 
 const { article } = Astro.props;
-const { Content } = await render(article);
+const { Content, remarkPluginFrontmatter } = await render(article);
+const readingTime = calculateReadingTime(article.body);
 
 const allArticles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -43,7 +45,7 @@ const articleJsonLd = {
     {article.data.image && <img class="article__hero" src={article.data.image} alt="" />}
     <a href={categoryHref(article.data.category)} class="eyebrow">{categoryLabel(article.data.category)}</a>
     <h1>{article.data.title}</h1>
-    <p class="byline">{article.data.author} · {article.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</p>
+    <p class="byline">{article.data.author} · {article.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · {formatReadingTime(readingTime)}</p>
     <div class="content">
       <Content />
     </div>
