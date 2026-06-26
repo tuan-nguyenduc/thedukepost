@@ -1,37 +1,301 @@
 {
-  "syncedAt": "2026-06-26T14:31:05.513Z",
+  "syncedAt": "2026-06-26T17:51:16.462Z",
   "items": [
     {
+      "source": "TechCrunch",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom infe…",
+      "publishedAt": "2026-06-26T17:43:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
+      "link": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
+      "summary": "An endpoint agent cannot report its own absence. The 2026 Axonius Actionability Report, conducted with the Ponemon Institute and surveying 662 IT and security professionals, put a…",
+      "publishedAt": "2026-06-26T17:32:42.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6i1AXzJrBmm5vHORb2EnjQ/c51ee7dc067b682eb5ed97250025fb13/HERO_FOR_ARTICLE.jpg?w=300&q=30"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
+      "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
+      "summary": "The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years.",
+      "publishedAt": "2026-06-26T17:29:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/jaguar-land-rover-logo.jpg?resize=1200,831"
+    },
+    {
       "source": "Hacker News",
-      "title": "Why have papers by one of history's most famous physicists been retracted?",
+      "title": "'Cost Me the Election': Data Centers Trigger Voter Backlash",
+      "link": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
+      "summary": "Article URL: https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327\nComments URL: https://news.ycombinator.com/item?id=48689275\nPoints: 6\n# Comm…",
+      "publishedAt": "2026-06-26T17:24:21.000Z",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/06/AP20003647701029.jpg?w=1200&crop=1"
+    },
+    {
+      "source": "Wired",
+      "title": "I Just Saw That Eufy’s Floodlight Security Camera Is Cheaper Than Ever (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-eufy-floodlight-security-camera-june-2026/",
+      "summary": "If you want to beef up your home security this Prime Day, Eufy’s Floodlight Camera is a great way to do it.",
+      "publishedAt": "2026-06-26T17:23:59.000Z",
+      "image": "https://media.wired.com/photos/6a3eb546e89f0e5e9b32c765/191:100/w_1280,c_limit/Don%E2%80%99t-Miss-This-Eufy-Floodlight-Security-Camera-Deal.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+      "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home t…",
+      "publishedAt": "2026-06-26T17:15:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "summary": "Article URL: https://openai.com/index/previewing-gpt-5-6-sol/\nComments URL: https://news.ycombinator.com/item?id=48689028\nPoints: 121\n# Comments: 123",
+      "publishedAt": "2026-06-26T17:06:55.000Z",
+      "image": null
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+      "publishedAt": "2026-06-26T17:05:40.000Z",
+      "image": "https://media.wired.com/photos/6a3ea08bf7f42d4ea1deffa3/191:100/w_1280,c_limit/GettyImages-2281424331.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\nComments URL: https://news.ycombinator.com/item?id=48688961\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-06-26T17:00:43.000Z",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/37f702dd855e82c1592e6a2f877ffb12d23539c2.png?1754614441"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here.  On Friday, the compa…",
+      "publishedAt": "2026-06-26T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
+      "link": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "summary": "OpenAI is announcing a limited preview of its next-generation GPT-5.6 model series today, introducing three distinct, capability-tiered models—Sol, Terra, and Luna—designed to re-e…",
+      "publishedAt": "2026-06-26T17:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3lU9GHu18yIWPaRDqvYm2f/4e26e084df7b76a47a4a332857942384/ChatGPT_Image_Jun_26__2026__01_00_08_PM.png?w=300&q=30"
+    },
+    {
+      "source": "The Verge",
+      "title": "Smart lock maker Level has been gutted and its founders are out",
+      "link": "https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud",
+      "summary": "Level’s defining innovation was hiding the battery, motor, and electronics that power the smart lock inside the deadbolt itself. | Photo by Dan Seifert / The Verge\t\n\nAssa Abloy has…",
+      "publishedAt": "2026-06-26T16:59:16.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20053906/dseifert_200625_4076_0004.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "link": "https://github.com/workweave/router",
+      "summary": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo…",
+      "publishedAt": "2026-06-26T16:40:11.000Z",
+      "image": "https://opengraph.githubassets.com/17a85557a96f11eb49e271acb89e392b8f73d242ea01203ff2f8f16356677e61/workweave/router"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+      "link": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+      "summary": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
+      "publishedAt": "2026-06-26T16:32:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/tesla-california-getty_8264a8.jpg?resize=1200,831"
+    },
+    {
+      "source": "Wired",
+      "title": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
+      "link": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
+      "summary": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special operations officer.",
+      "publishedAt": "2026-06-26T16:30:33.000Z",
+      "image": "https://media.wired.com/photos/6a3abedeea2c52b725f7742e/191:100/w_1280,c_limit/Sensitive-US-Intelligence-Operatives-Exposed-Security-2263872663.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TikTok’s road to becoming a super app",
+      "link": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "publishedAt": "2026-06-26T16:29:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801"
+    },
+    {
+      "source": "The Verge",
+      "title": "You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike",
+      "link": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
+      "summary": "You can save hundreds on the latest iPad Air. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple just raised prices across its iPad and MacBook lineup. The good news is that man…",
+      "publishedAt": "2026-06-26T16:26:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+      "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+      "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn",
+      "publishedAt": "2026-06-26T16:24:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-1152x648.png"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "publishedAt": "2026-06-26T16:24:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/white-house-conklin.jpg?w=1024"
+    },
+    {
+      "source": "Wired",
+      "title": "27 Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)",
+      "link": "https://www.wired.com/story/best-prime-day-beauty-deals-06-26-2026/",
+      "summary": "It wouldn't be Amazon Prime Day without some beauty deals. Here's a roundup of all our favorites.",
+      "publishedAt": "2026-06-26T16:17:20.000Z",
+      "image": "https://media.wired.com/photos/67cc8e3ff03aeba6ea4a8208/191:100/w_1280,c_limit/GHD-Chronos-Max-Hair-Straightener-Abstract-Background-032025-SOURCE-Nordstrom.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "The 16 best robot vacuum deals you can still get before Prime Day ends",
+      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "summary": "Narwal’s stair-climbing Flow 2 is still at its best price. | Image: Narwal\t\n\nIf you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a goo…",
+      "publishedAt": "2026-06-26T16:07:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/narwal_flow2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Wired",
+      "title": "I Found the Best Prime Day Pixel Buds Deals: 2a, Pro (2026)",
+      "link": "https://www.wired.com/story/google-pixel-buds-prime-day-2026/",
+      "summary": "Google Pixel Buds are steeply on sale, presumably only through the end of the day.",
+      "publishedAt": "2026-06-26T15:58:48.000Z",
+      "image": "https://media.wired.com/photos/6a3eb4bfcc32244df21894ce/191:100/w_1280,c_limit/This-Prime-Day-Pixel-Buds-Discount-Brings-Our-Top-Earbuds-to-Their-Lowest-Price.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "Prime Day’s Best Handheld Fan Deals, Up to 20% Off, Are About to Disappear (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-deals-on-handheld-fans-2026/",
+      "summary": "These are the best last-minute Prime Day discounts on handheld fans, from $10 budget buys to Shark’s high-tech ChillPill.",
+      "publishedAt": "2026-06-26T15:56:39.000Z",
+      "image": "https://media.wired.com/photos/6a3eb9f8968c5775a92ca402/191:100/w_1280,c_limit/PlayHot-Portable-Handheld-Turbo-Fan.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xreal’s best USB-C smart glasses are $50 off, but not for long",
+      "link": "https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale",
+      "summary": "If you’ve been curious about the emerging world of smart glasses, Prime Day is your chance to try some of the best models with a rare discount from Best Buy or directly from Xreal.…",
+      "publishedAt": "2026-06-26T15:53:08.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257820_XREAL_One_XREAL_One_Pro_AKrales-_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What is a Lithium-ion capacitor?",
+      "link": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
+      "summary": "Article URL: https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html\nComments URL: https://news.ycombinator.com/item?id=48688081\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-06-26T15:51:19.000Z",
+      "image": "https://www.jtekt.co.jp/e/assets/img/common/ogp.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
+      "link": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
+      "summary": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments in 2024.",
+      "publishedAt": "2026-06-26T15:46:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1140767852.jpg?resize=1200,800"
+    },
+    {
+      "source": "Wired",
+      "title": "The US Is About to Deport an Immigrant to the Center of the Ebola Crisis",
+      "link": "https://www.wired.com/story/the-us-is-about-to-deport-an-immigrant-to-the-center-of-the-ebola-crisis/",
+      "summary": "Edward Nalwamba is a 78-year-old retired pastor whose health has rapidly declined while in detention, his attorney says.",
+      "publishedAt": "2026-06-26T15:43:49.000Z",
+      "image": "https://media.wired.com/photos/6a3d9aad0e1573fd224c1c7f/191:100/w_1280,c_limit/US-About-to-Deport-Immigrants-to-Ebola-Ridden-Uganda-Politics-2195715331.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "summary": "The latest iPad Air is still available at its pre-price hike discount. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmazon’s Prime Day is now in its final day, but whether you’r…",
+      "publishedAt": "2026-06-26T15:40:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0020.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Engadget",
+      "title": "Samsung will start charging for SmartThings API access",
+      "link": "https://www.engadget.com/2202497/samsung-will-start-charging-for-smartthings-api-access/",
+      "summary": "Samsung will start charging for SmartThings API access.",
+      "publishedAt": "2026-06-26T15:36:15.000Z",
+      "image": "https://www.engadget.com/img/gallery/samsung-will-start-charging-for-smartthings-api-access/l-intro-1782488126.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "It’s now the Arduino Uno Q’s turn to get a price hike",
+      "link": "https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis",
+      "summary": "Arduino's Raspberry Pi-like microcomputer the Uno Q is joining many other devices in getting a price hike this week. The 2GB version of the Uno Q, which is powered by a Qualcomm Dr…",
+      "publishedAt": "2026-06-26T15:35:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/arduino1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Wired",
+      "title": "Get $145 Off the Best Mesh Router This Prime Day 2026",
+      "link": "https://www.wired.com/story/amazon-prime-day-router-deals-06-26-2026/",
+      "summary": "Do you crave speedy, reliable Wi-Fi throughout your home? Snag one of these Prime Day router or mesh deals.",
+      "publishedAt": "2026-06-26T15:18:06.000Z",
+      "image": "https://media.wired.com/photos/6923cb457986ae64be5848c8/191:100/w_1280,c_limit/Unmissable%20Black%20Friday%20Netgear%20Mesh%20Router%20Deals.png"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "VW may close four factories to adapt to the future, report says",
+      "link": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+      "summary": "With falling sales in the US and especially China, VW Group wants to restructure.",
+      "publishedAt": "2026-06-26T15:10:03.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2240447022-1152x648.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jolla Phone (October 2026)",
+      "link": "https://commerce.jolla.com/products/jolla-phone-october-2026",
+      "summary": "Article URL: https://commerce.jolla.com/products/jolla-phone-october-2026\nComments URL: https://news.ycombinator.com/item?id=48687272\nPoints: 162\n# Comments: 99",
+      "publishedAt": "2026-06-26T14:46:00.000Z",
+      "image": "http://commerce.jolla.com/cdn/shop/files/jolla_phone_hero_double.png?v=1772105235"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+      "link": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+      "summary": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
+      "publishedAt": "2026-06-26T14:41:18.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/mochras-core-1152x648.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Springer Nature has removed two studies by Max Planck",
       "link": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
       "summary": "Article URL: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted\nComments URL: https://news.ycombinator.com/item?id=48686834…",
       "publishedAt": "2026-06-26T14:10:26.000Z",
       "image": null
     },
     {
-      "source": "Wired",
-      "title": "2026 Prime Day Deals: 20% off NOCO and Wolfbox Jump Starters",
-      "link": "https://www.wired.com/story/best-amazon-prime-day-jump-starter-deals-2026/",
-      "summary": "If you don't know you need a jump starter, it’s a sign you really, really need a jump starter. NOCO and Wolfbox are the best ones.",
-      "publishedAt": "2026-06-26T13:56:22.000Z",
-      "image": "https://media.wired.com/photos/6a3dc838f39b93129a624fa9/191:100/w_1280,c_limit/Shocking!-The-2-Best-Jump-Starters-Are-Only-$100-for-Prime-Day.jpg"
+      "source": "Engadget",
+      "title": "Not all tech survives solar storms, here's what's most at risk",
+      "link": "https://www.engadget.com/2201195/solar-maximum-tech-damage-space-weather/",
+      "summary": "The northern lights could mean lights out for the infrastructure we rely on.",
+      "publishedAt": "2026-06-26T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/not-all-tech-survives-solar-storms-heres-whats-most-at-risk/l-intro-1782344171.jpg"
     },
     {
-      "source": "Wired",
-      "title": "My Family Loves Board Games—Here Are the 12 I’d Buy On Sale During Prime Day (2026)",
-      "link": "https://www.wired.com/story/amazon-prime-day-board-game-deals-june-2026/",
-      "summary": "Looking for family fun this summer? You need these WIRED-recommended Prime Day board game deals.",
-      "publishedAt": "2026-06-26T13:41:13.000Z",
-      "image": "https://media.wired.com/photos/6a3c433efe44d5e7f2330a56/191:100/w_1280,c_limit/Best-Prime-Day-Board-Game-Deals.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The AI backlash is only getting started",
-      "link": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started\nComments URL: https://news.ycombinator.com/item?id=48686219\nPoints: 12\n# Comments:…",
-      "publishedAt": "2026-06-26T13:12:04.000Z",
-      "image": null
+      "source": "Ars Technica",
+      "title": "SpaceX plans to launch Starlink mobile service in the US",
+      "link": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
+      "summary": "Move would test whether group can turn ambition into a mass-market phone business.",
+      "publishedAt": "2026-06-26T13:22:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2240006305-1024x648.jpg"
     },
     {
       "source": "Engadget",
@@ -40,14 +304,6 @@
       "summary": "Volkswagen reportedly plans to cut 100,000 jobs.",
       "publishedAt": "2026-06-26T13:08:00.000Z",
       "image": "https://www.engadget.com/img/gallery/volkswagen-reportedly-plans-to-cut-100000-jobs/l-intro-1782479164.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple&#8217;s AirPods Max 2 headphones are still $150 off — for now",
-      "link": "https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale",
-      "summary": "One of the best deals this ongoing Prime Day has been on Apple’s latest flagship headphones. The AirPods Max 2 are still available for a heavily discounted price of $399 ($150 off)…",
-      "publishedAt": "2026-06-26T13:06:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268418_Apple_AirPods_Max_2_AKrales_0204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "source": "TechCrunch",
@@ -69,17 +325,9 @@
       "source": "Hacker News",
       "title": "Incident CVE-2026-LGTM",
       "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "summary": "Article URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\nComments URL: https://news.ycombinator.com/item?id=48686093\nPoints: 63\n# Comments: 15",
+      "summary": "Article URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\nComments URL: https://news.ycombinator.com/item?id=48686093\nPoints: 369\n# Comments: 65",
       "publishedAt": "2026-06-26T12:58:07.000Z",
       "image": "https://nesbitt.io/images/boxes.png"
-    },
-    {
-      "source": "The Verge",
-      "title": "Prime Day is offering rare discounts on Philips Hue smart lights",
-      "link": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
-      "summary": "Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s sma…",
-      "publishedAt": "2026-06-26T12:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Hue-Essential-Livingroom-strip-light-1-16x9-PUP-copy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "source": "MIT Technology Review",
@@ -98,14 +346,6 @@
       "image": "https://www.engadget.com/img/gallery/australias-social-media-ban-may-not-be-that-effective-study-finds/l-intro-1782475241.jpg"
     },
     {
-      "source": "The Verge",
-      "title": "With GTA looming, consoles are getting expensive at the worst possible time",
-      "link": "https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes",
-      "summary": "The release of Grand Theft Auto VI is a singular moment, the kind of massive cultural phenomenon that makes people want to go out and buy a console to play it. It is the preeminent…",
-      "publishedAt": "2026-06-26T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_STOCK_305_04_a209e3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "VentureBeat",
       "title": "Most companies think they're building a software factory. They're actually just shipping bugs faster.",
       "link": "https://venturebeat.com/orchestration/most-companies-think-theyre-building-a-software-factory-theyre-actually-just-shipping-bugs-faster",
@@ -114,44 +354,12 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1oY2sfJ8Gaa5oq70I4Fw6i/900d9ac8831716003b13af9a4c6ba2e8/Gemini_Generated_Image_pcp86wpcp86wpcp8.png?w=300&q=30"
     },
     {
-      "source": "Hacker News",
-      "title": "Ultrasound Imaging of the Brain",
-      "link": "https://alephneuro.com/blog/ultrasound-brain",
-      "summary": "Article URL: https://alephneuro.com/blog/ultrasound-brain\nComments URL: https://news.ycombinator.com/item?id=48685558\nPoints: 20\n# Comments: 4",
-      "publishedAt": "2026-06-26T11:51:11.000Z",
-      "image": null
-    },
-    {
-      "source": "Wired",
-      "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
-      "link": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
-      "summary": "Welcome to Walmart deals for folks who’d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
-      "publishedAt": "2026-06-26T11:50:08.000Z",
-      "image": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/191:100/w_1280,c_limit/The-Best-Walmart-Deals-This-Prime-Day.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Samsung will soon start charging to access its smart home API",
-      "link": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
-      "summary": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developer…",
-      "publishedAt": "2026-06-26T11:38:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_220504_STK123_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Engadget",
       "title": "The Morning After: Prices rocket up on Xboxes, MacBooks, iPads and more",
       "link": "https://www.engadget.com/2202230/prices-rocket-up-on-xboxes-macbooks-ipads-and-more/",
       "summary": "This week, we've been hit with major price hikes from major players, including Microsoft and Apple.",
       "publishedAt": "2026-06-26T11:30:00.000Z",
       "image": "https://www.engadget.com/img/gallery/the-morning-after-prices-rocket-up-on-xboxes-macbooks-ipads-and-more/l-intro-1782467476.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades",
-      "link": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
-      "summary": "Apple is reportedly skipping the M6 Pro, Max, and Ultra variants in favour of jumping to its M7 chip lineup. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nApple is expected to sha…",
-      "publishedAt": "2026-06-26T11:14:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "source": "Engadget",
@@ -168,54 +376,6 @@
       "summary": "Is SpaceX planning to end its Transporter program?",
       "publishedAt": "2026-06-26T11:00:59.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/smalll.png"
-    },
-    {
-      "source": "The Verge",
-      "title": "It’s the last day of Prime Day — here are over 130 great deals to choose from",
-      "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home t…",
-      "publishedAt": "2026-06-26T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Wired",
-      "title": "Which MacBook to Buy (2026): Neo, Air, or Pro?",
-      "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
-      "summary": "After testing each of the MacBooks myself, here's my honest advice on which is right for you.",
-      "publishedAt": "2026-06-26T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/69cbff9493b7298932e00d65/191:100/w_1280,c_limit/IMG_3324.JPG"
-    },
-    {
-      "source": "Wired",
-      "title": "Ivanka Trump and Jared Kushner's Island Resort Could Bring Down Albania’s Prime Minister",
-      "link": "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
-      "summary": "What began as a “flamingo revolution” to protest the $1.4 billion development on Sazan Island has spiraled into mass protests against a ruling party that thousands now want out.",
-      "publishedAt": "2026-06-26T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a3d3c2c148f10187e92230b/191:100/w_1280,c_limit/062526-Ivanka-trump-Jared-kusner-Albania.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "We're Tracking the Final Hours of Amazon Prime Day Deals Live",
-      "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-26-2026/",
-      "summary": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
-      "publishedAt": "2026-06-26T10:54:18.000Z",
-      "image": "https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/191:100/w_1280,c_limit/Launorma_Liveblog.png"
-    },
-    {
-      "source": "Wired",
-      "title": "Should You Buy Your Kid a 3D Printer? What to Know and Consider (2026)",
-      "link": "https://www.wired.com/story/3d-printer-for-kids/",
-      "summary": "Kids love 3D printers almost as much as K-Pop Demon Hunters. Just give in and get one.",
-      "publishedAt": "2026-06-26T10:31:00.000Z",
-      "image": "https://media.wired.com/photos/6a3d5db4979872ef6f4ad990/191:100/w_1280,c_limit/When-You-Give-a-Kid-a-3D-Printer,-Every-Morning-Is-Like-Christmas.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "The Gooner Music Video Boom Is Here",
-      "link": "https://www.wired.com/story/the-gooner-music-video-boom-is-here/",
-      "summary": "Porn music videos have circulated on the fringes of the internet for years. Featuring everything from narrative-driven stories to hypnosis, they are proliferating across X as “bate…",
-      "publishedAt": "2026-06-26T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a3c0b30d68a96bd30e06ddc/191:100/w_1280,c_limit/Culture_GoonerMusicVideoBoom_v3.jpg"
     },
     {
       "source": "Engadget",
@@ -242,92 +402,12 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_checkup_hotbrains.jpg?resize=1200,600"
     },
     {
-      "source": "Engadget",
-      "title": "YouTube Shorts nixes 'dislikes' and lets you double the playback speed",
-      "link": "https://www.engadget.com/2202221/youtube-shorts-nixes-dislikes-adds-double-playback-speed/",
-      "summary": "YouTube has made several key changes to Shorts by removing dislikes and offering a clear screen mode.",
-      "publishedAt": "2026-06-26T08:46:20.000Z",
-      "image": "https://www.engadget.com/img/gallery/youtube-shorts-nixes-dislikes-and-lets-you-double-the-playback-speed/l-intro-1782463470.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Trump Mobile will take your $499 right now",
-      "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
-      "summary": "Yours for $499 (plus tax and an indeterminate amount of time for processing and shipping). | Screenshot: Trump Mobile\t\n\nWhere's the Trump phone? We're going to keep talking about i…",
-      "publishedAt": "2026-06-26T08:40:21.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/trump-mobile-t1-phone-video-packing-flag-stripes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Hacker News",
-      "title": "We all depend on open source. We will defend it together",
-      "link": "https://akrites.org/letter/",
-      "summary": "Article URL: https://akrites.org/letter/\nComments URL: https://news.ycombinator.com/item?id=48682737\nPoints: 350\n# Comments: 167",
-      "publishedAt": "2026-06-26T05:40:36.000Z",
-      "image": "https://akrites.org/wp-content/uploads/sites/9/2026/06/social.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Libre Barcode Project",
-      "link": "https://graphicore.github.io/librebarcode/",
-      "summary": "Article URL: https://graphicore.github.io/librebarcode/\nComments URL: https://news.ycombinator.com/item?id=48681949\nPoints: 222\n# Comments: 36",
-      "publishedAt": "2026-06-26T03:12:42.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/\nComments URL: https://news.ycombinator.com/item?id=48681687\nPoints: 258\n# Comments: 106",
-      "publishedAt": "2026-06-26T02:29:23.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\nComments URL: https://news.ycombinator.com/item?id=48681220\nPoints: 245\n# Commen…",
-      "publishedAt": "2026-06-26T01:10:52.000Z",
-      "image": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-      "publishedAt": "2026-06-25T23:34:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800"
-    },
-    {
       "source": "VentureBeat",
       "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'  ",
       "link": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
       "summary": "Liquid AI, founded by former MIT computer scientists, today released its smallest AI language model yet, LFM2.5-230M, and enterprises would do well to consider it for their uses in…",
       "publishedAt": "2026-06-25T23:31:00.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2CkpUnk6QB6wOWckJtp3i4/2821a2e5e1e68445d6b88ec1b05dae1f/ChatGPT_Image_Jun_25__2026__07_00_02_PM.png?w=300&q=30"
-    },
-    {
-      "source": "The Verge",
-      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "summary": "The latest iPad Air is still available at its pre-price hike discount. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmazon’s Prime Day is now in its third day, and whether you’r…",
-      "publishedAt": "2026-06-25T23:04:23.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0107.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Engadget",
-      "title": "OpenAI will initially only release ChatGPT 5.6 to government-approved customers",
-      "link": "https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/",
-      "summary": "So much for voluntary review.",
-      "publishedAt": "2026-06-25T22:48:26.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/l-intro-1782427340.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-      "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-      "summary": "YouTube Shorts is getting a makeover.",
-      "publishedAt": "2026-06-25T22:02:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-shorts.jpg?resize=1200,800"
     },
     {
       "source": "Ars Technica",
@@ -338,44 +418,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-1024x648.jpg"
     },
     {
-      "source": "TechCrunch",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "publishedAt": "2026-06-25T20:19:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Patronus-team.jpg?resize=1200,800"
-    },
-    {
       "source": "Ars Technica",
       "title": "FCC may kill $2B program that connects schools and libraries to Internet",
       "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
       "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
       "publishedAt": "2026-06-25T20:01:08.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-1152x648.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Polymarket says hackers stole users’ funds",
-      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-      "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
-      "publishedAt": "2026-06-25T19:58:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/polymarket-logo-people.jpg?resize=1200,800"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Xbox follows Apple with price increases ",
-      "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-      "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
-      "publishedAt": "2026-06-25T19:39:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2174641784.jpg?resize=1200,800"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Notion Mail shuts down amid agent takeover",
-      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-      "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
-      "publishedAt": "2026-06-25T19:14:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/WhatsNew_Mail05.png?w=1200"
     },
     {
       "source": "Ars Technica",
@@ -386,44 +434,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg"
     },
     {
-      "source": "Ars Technica",
-      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-      "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-      "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
-      "publishedAt": "2026-06-25T18:38:51.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-1152x648.png"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
-      "publishedAt": "2026-06-25T18:01:48.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Planet orbits so close to its star that their magnetic fields connect",
-      "link": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-      "summary": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
-      "publishedAt": "2026-06-25T18:00:39.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-7-1152x468.png"
-    },
-    {
       "source": "VentureBeat",
       "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API",
       "link": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
       "summary": "OpenAI has made a significant update to its most widely used language model, GPT-5.5 Instant, which is the default in the free version of ChatGPT. \nThe company announced the upgrad…",
       "publishedAt": "2026-06-25T17:02:00.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/NtxBk8J2vDH5xwG9pFvSK/e3916a101b626751a365a8b3a8633c56/ChatGPT_Image_Jun_25__2026__11_42_09_AM.png?w=300&q=30"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-      "summary": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
-      "publishedAt": "2026-06-25T14:40:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Original-5471-polestar-3-1152x648.jpeg"
     },
     {
       "source": "MIT Technology Review",
@@ -472,22 +488,6 @@
       "summary": "Mistral AI on Tuesday released OCR 4, a document intelligence model that moves beyond raw text extraction to return structured representations of entire documents — complete with b…",
       "publishedAt": "2026-06-24T21:04:04.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/msSjc8ARR1xPpxHBZTTQ8/61ee220620ff5dfc326faf18ad15d161/Nuneybits_Vector_art_of_white_document_centered_in_orange_OCR_g_389a1d54-734c-4957-a8fa-848d9b6e9794.webp?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
-      "link": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
-      "summary": "Alibaba's Qwen team released Qwen-AgentWorld on Tuesday — two models trained not to act inside agent environments, but to predict what those environments return. The release covers…",
-      "publishedAt": "2026-06-24T19:15:36.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5KgNJs5U9hQNBwID9QnJ0D/115ecf0e3e5c4261db0b258971a58b6b/qwen-world-smk1.jpg?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task — and smaller models gain the most",
-      "link": "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most",
-      "summary": "As enterprise AI agents take on increasingly complex, long-horizon tasks, their performance is often restricted by their harness, the software scaffolding that connects the backbon…",
-      "publishedAt": "2026-06-24T18:45:08.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/53J920lS3O060grdobdxEa/0a45b1e112853e19bd1d132e22afc1b3/self-improving_harness.jpg?w=300&q=30"
     },
     {
       "source": "MIT Technology Review",
