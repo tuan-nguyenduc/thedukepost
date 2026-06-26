@@ -50,12 +50,12 @@ const pageTitle = page.currentPage === 1
             <a href={item.link} target="_blank" rel="noopener noreferrer" class="sticker card">
               <img class="card__image" src={item.image || '/wire-placeholder.svg'} alt="" loading="lazy" />
               <div class="card__body">
+                <h2>{item.title}</h2>
+                <p>{item.summary}</p>
                 <span class="source">
                   {faviconUrl(item.link) && <img class="source__logo" src={faviconUrl(item.link)} alt="" width="16" height="16" loading="lazy" />}
                   <span class="eyebrow">{item.source}</span>
                 </span>
-                <h2>{item.title}</h2>
-                <p>{item.summary}</p>
               </div>
             </a>
           </li>
@@ -126,6 +126,12 @@ const pageTitle = page.currentPage === 1
       const body = document.createElement('div');
       body.className = 'card__body';
 
+      const h2 = document.createElement('h2');
+      h2.textContent = item.title;
+
+      const p = document.createElement('p');
+      p.textContent = item.summary;
+
       const sourceEl = document.createElement('span');
       sourceEl.className = 'source';
       const fav = faviconUrl(item.link);
@@ -144,13 +150,7 @@ const pageTitle = page.currentPage === 1
       eyebrow.textContent = item.source;
       sourceEl.appendChild(eyebrow);
 
-      const h2 = document.createElement('h2');
-      h2.textContent = item.title;
-
-      const p = document.createElement('p');
-      p.textContent = item.summary;
-
-      body.append(sourceEl, h2, p);
+      body.append(h2, p, sourceEl);
       a.append(img, body);
       li.appendChild(a);
       return li;
@@ -288,10 +288,10 @@ const pageTitle = page.currentPage === 1
     flex-shrink: 0;
   }
   .card__body { flex: 1; min-width: 0; }
-  .source { display: inline-flex; align-items: center; gap: 8px; }
+  .list h2 { font-size: 20px; margin: 0 0 8px; overflow-wrap: anywhere; }
+  .list p { color: var(--slate); margin: 0 0 8px; font-size: 15px; overflow-wrap: anywhere; }
+  .source { display: inline-flex; align-items: center; gap: 8px; font-family: var(--font-mono); font-size: 12px; color: var(--slate); text-transform: uppercase; letter-spacing: 0.02em; }
   .source__logo { border-radius: 4px; }
-  .list h2 { font-size: 20px; margin: 12px 0 8px; overflow-wrap: anywhere; }
-  .list p { color: var(--slate); margin: 0; font-size: 15px; overflow-wrap: anywhere; }
 
   .pager {
     margin-top: 48px;
