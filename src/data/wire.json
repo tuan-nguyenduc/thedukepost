@@ -1,13 +1,93 @@
 {
-  "syncedAt": "2026-06-25T23:21:12.331Z",
+  "syncedAt": "2026-06-26T03:59:25.917Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "No-One Escapes the Permanent Underclass",
+      "link": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
+      "summary": "Article URL: https://borretti.me/article/no-one-escapes-the-permanent-underclass\nComments URL: https://news.ycombinator.com/item?id=48682016\nPoints: 6\n# Comments: 1",
+      "publishedAt": "2026-06-26T03:25:51.000Z",
+      "image": "https://borretti.me/assets/card/no-one-escapes-the-permanent-underclass.webp"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Libre Barcode Project",
+      "link": "https://graphicore.github.io/librebarcode/",
+      "summary": "Article URL: https://graphicore.github.io/librebarcode/\nComments URL: https://news.ycombinator.com/item?id=48681949\nPoints: 14\n# Comments: 0",
+      "publishedAt": "2026-06-26T03:12:42.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/\nComments URL: https://news.ycombinator.com/item?id=48681687\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-06-26T02:29:23.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "A data race that doesn't compile",
+      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+      "summary": "Article URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/\nComments URL: https://news.ycombinator.com/item?id=48681361\nPoints: 20\n# Comments: 5",
+      "publishedAt": "2026-06-26T01:33:15.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\nComments URL: https://news.ycombinator.com/item?id=48681220\nPoints: 67\n# Comment…",
+      "publishedAt": "2026-06-26T01:10:52.000Z",
+      "image": null
+    },
+    {
+      "source": "Wired",
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "publishedAt": "2026-06-26T00:49:13.000Z",
+      "image": "https://media.wired.com/photos/6a3c48b56c59c72c499e0fad/191:100/w_1280,c_limit/Model-Behavior-AI-Safe-Only-With-Anthropic-Business.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
+      "link": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
+      "summary": "Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing.",
+      "publishedAt": "2026-06-26T00:07:57.000Z",
+      "image": "https://media.wired.com/photos/6a3dc0bb5cdc2b309c97a38b/191:100/w_1280,c_limit/This-Is-Probably-Your-Last-Chance-to-Buy-a-Cheap-MacBook-for-a-While.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "publishedAt": "2026-06-25T23:34:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'  ",
+      "link": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+      "summary": "Liquid AI, founded by former MIT computer scientists, today released its smallest AI language model yet, LFM2.5-230M, and enterprises would do well to consider it for their uses in…",
+      "publishedAt": "2026-06-25T23:31:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2CkpUnk6QB6wOWckJtp3i4/2821a2e5e1e68445d6b88ec1b05dae1f/ChatGPT_Image_Jun_25__2026__07_00_02_PM.png?w=300&q=30"
+    },
     {
       "source": "Wired",
       "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-      "summary": "Amazon-owned MGM Studios’ decision to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we take a look at where thi…",
+      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this…",
       "publishedAt": "2026-06-25T23:13:45.000Z",
       "image": "https://media.wired.com/photos/6a3c48825cdc2b309c97a195/191:100/w_1280,c_limit/Uncanny-Valley-AI-Hollywood-Business.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+      "link": "https://gchandbook.org/",
+      "summary": "Article URL: https://gchandbook.org/\nComments URL: https://news.ycombinator.com/item?id=48680370\nPoints: 78\n# Comments: 11",
+      "publishedAt": "2026-06-25T23:10:30.000Z",
+      "image": null
     },
     {
       "source": "The Verge",
@@ -50,14 +130,6 @@
       "image": "https://media.wired.com/photos/6a3d9aa235acf7de1a65dc28/191:100/w_1280,c_limit/venezuelasismo.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": "Military branches restore flu shot requirement after virus swept through base",
-      "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-      "summary": "Article URL: https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/\nComments URL: https://news.ycombinator.com/item?i…",
-      "publishedAt": "2026-06-25T22:16:55.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2224665122-1152x648.jpg"
-    },
-    {
       "source": "The Verge",
       "title": "YouTube updates Shorts to make it even more like TikTok",
       "link": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
@@ -93,7 +165,7 @@
       "source": "Hacker News",
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "summary": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet\nComments URL: https://news.ycombinator.com/item?id=48679608\nPoints: 180\n# Comments: 60",
+      "summary": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet\nComments URL: https://news.ycombinator.com/item?id=48679608\nPoints: 486\n# Comments: 234",
       "publishedAt": "2026-06-25T21:44:55.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!ikRw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9049285c-dc2e-420a-b023-0f94858244b3_1000x667.jpeg"
     },
@@ -117,33 +189,9 @@
       "source": "Hacker News",
       "title": "Migrating from Proxmox to NixOS and Incus",
       "link": "https://www.nijho.lt/post/proxmox-to-nixos/",
-      "summary": "Article URL: https://www.nijho.lt/post/proxmox-to-nixos/\nComments URL: https://news.ycombinator.com/item?id=48679385\nPoints: 22\n# Comments: 4",
+      "summary": "Article URL: https://www.nijho.lt/post/proxmox-to-nixos/\nComments URL: https://news.ycombinator.com/item?id=48679385\nPoints: 60\n# Comments: 38",
       "publishedAt": "2026-06-25T21:22:59.000Z",
       "image": "/media/icon_hu80d4068d4a221917e6e98566e3ddf93f_419855_512x512_fill_lanczos_center_3.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "summary": "Article URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/\nComments URL: https://news.ycombinator.com/item?id=48679007\nPoints: 73\n# Comments:…",
-      "publishedAt": "2026-06-25T20:50:02.000Z",
-      "image": "https://unconv.ai/wp-content/uploads/2026/06/un-0.mosaichero-1024x576.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
-      "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html\nComments URL: https://news.ycombinator.com/item?id=48678873\nPoints: 73\n# Comments…",
-      "publishedAt": "2026-06-25T20:36:05.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Om Malik has died",
-      "link": "https://om.co/2026/06/24/1966-2026/",
-      "summary": "Article URL: https://om.co/2026/06/24/1966-2026/\nComments URL: https://news.ycombinator.com/item?id=48678852\nPoints: 241\n# Comments: 22",
-      "publishedAt": "2026-06-25T20:33:37.000Z",
-      "image": "https://om.co/wp-content/uploads/2021/04/image-og-fallback-om-fog.png"
     },
     {
       "source": "Ars Technica",
@@ -168,22 +216,6 @@
       "summary": "The Xbox Series S and Series X consoles together. | Photo by Vjeran Pavic / The Verge\t\n\nMicrosoft announced today that the price of all Xbox models will rise in August, the second…",
       "publishedAt": "2026-06-25T20:18:47.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012262/vpavic_4275_20201030_0050.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Hacker News",
-      "title": "An oral history of Bank Python (2021)",
-      "link": "https://calpaterson.com/bank-python.html",
-      "summary": "Article URL: https://calpaterson.com/bank-python.html\nComments URL: https://news.ycombinator.com/item?id=48678645\nPoints: 43\n# Comments: 9",
-      "publishedAt": "2026-06-25T20:14:35.000Z",
-      "image": "https://calpaterson.com/images/photo/wharf.jpeg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Parallel Parentheses Matching",
-      "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-      "summary": "Article URL: https://williamdue.github.io/blog/parallel-parentheses-matching\nComments URL: https://news.ycombinator.com/item?id=48678623\nPoints: 34\n# Comments: 6",
-      "publishedAt": "2026-06-25T20:12:24.000Z",
-      "image": null
     },
     {
       "source": "The Verge",
@@ -354,30 +386,6 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/NtxBk8J2vDH5xwG9pFvSK/e3916a101b626751a365a8b3a8633c56/ChatGPT_Image_Jun_25__2026__11_42_09_AM.png?w=300&q=30"
     },
     {
-      "source": "TechCrunch",
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "publishedAt": "2026-06-25T16:55:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800"
-    },
-    {
-      "source": "Wired",
-      "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
-      "link": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
-      "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.",
-      "publishedAt": "2026-06-25T16:54:55.000Z",
-      "image": "https://media.wired.com/photos/6a3d558e5cdc2b309c97a33d/191:100/w_1280,c_limit/Flash-Deal--This-Fancy-Aerogarden-Model-Is-Now-63-Percent-Off.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
-      "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/",
-      "summary": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
-      "publishedAt": "2026-06-25T16:05:30.000Z",
-      "image": "https://media.wired.com/photos/6a3a246397b3e5bb7d92cfe0/191:100/w_1280,c_limit/The-Best-Fitness-Tech-Deals-This-Amazon-Prime-Day.jpg"
-    },
-    {
       "source": "Ars Technica",
       "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
       "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
@@ -464,14 +472,6 @@
       "summary": "Drug discovery is notoriously inefficient. Pharmaceutical projects span years, moving from one specialized human team to the next through disconnected workflows that result in know…",
       "publishedAt": "2026-06-24T18:30:00.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6gt6vz460cr7iCC55ud4SF/44ed7a283b142bdd156de373512683fc/Dr._James_Zou.png?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "How Shopify built an AI stack that doesn't care which models survive",
-      "link": "https://venturebeat.com/orchestration/how-shopify-built-an-ai-stack-that-doesnt-care-which-models-survive",
-      "summary": "Shopify built an LLM proxy that gives every engineer access to multiple AI providers — with automatic failover when any one of them goes down, changes, or disappears. When Claude F…",
-      "publishedAt": "2026-06-24T17:10:58.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/20bQ4S6NVl5DyUuE4sCPkt/3cf05921e3f3e6f5c5ae44e26713cfc6/u7277289442_AI_engineers_are_analyzing_different_models_repre_a031ca2a-342d-4a40-b2eb-fc3dbb875eba_0.png?w=300&q=30"
     },
     {
       "source": "MIT Technology Review",
