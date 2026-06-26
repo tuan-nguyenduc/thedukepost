@@ -14,6 +14,13 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content } = await render(article);
 
+const allArticles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const relatedArticles = allArticles
+  .filter((a) => a.id !== article.id && a.data.category === article.data.category)
+  .slice(0, 3);
+
 const articleJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'NewsArticle',
@@ -41,6 +48,25 @@ const articleJsonLd = {
       <Content />
     </div>
   </article>
+
+  {relatedArticles.length > 0 && (
+    <section class="wrap related">
+      <h2>More from {categoryLabel(article.data.category)}</h2>
+      <ul class="related__list">
+        {relatedArticles.map((a) => (
+          <li>
+            <a href={`/articles/${a.slug}`} class="sticker related__card">
+              {a.data.image && <img class="related__image" src={a.data.image} alt="" loading="lazy" />}
+              <div class="related__body">
+                <h3>{a.data.title}</h3>
+                <p>{a.data.description}</p>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
 </BaseLayout>
 
 <style>
@@ -61,4 +87,25 @@ const articleJsonLd = {
   .content :global(a:hover) { border-color: var(--accent); }
   .content :global(ol),
   .content :global(ul) { padding-left: 22px; margin: 0 0 20px; }
+
+  .related { padding: 56px 24px 80px; max-width: 740px; }
+  .related h2 { font-size: 24px; margin-bottom: 28px; }
+  .related__list { list-style: none; margin: 0; padding: 0; display: grid; gap: 20px; }
+  .related__card { display: flex; gap: 16px; align-items: flex-start; padding: 18px; }
+  .related__image {
+    width: 100px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid var(--ink);
+    flex-shrink: 0;
+  }
+  .related__body { flex: 1; min-width: 0; }
+  .related__body h3 { font-size: 18px; margin: 0 0 6px; overflow-wrap: anywhere; }
+  .related__body p { font-size: 14px; color: var(--slate); margin: 0; overflow-wrap: anywhere; }
+
+  @media (max-width: 560px) {
+    .related__card { flex-direction: column; gap: 12px; }
+    .related__image { width: 100%; height: 120px; }
+  }
 </style>
