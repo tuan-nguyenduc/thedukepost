@@ -1,6 +1,38 @@
 {
-  "syncedAt": "2026-06-27T03:42:18.443Z",
+  "syncedAt": "2026-06-27T06:55:03.845Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "link": "https://github.com/schlae/IBM_MCGA",
+      "summary": "Article URL: https://github.com/schlae/IBM_MCGA\nComments URL: https://news.ycombinator.com/item?id=48695363\nPoints: 11\n# Comments: 2",
+      "publishedAt": "2026-06-27T05:17:08.000Z",
+      "image": "https://opengraph.githubassets.com/dff75f59244f4c6a678cbc8487ca65df21f8a27b8e00c2335ccc52f58008665b/schlae/IBM_MCGA"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenTTD 16.0-Beta1",
+      "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "summary": "Article URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1\nComments URL: https://news.ycombinator.com/item?id=48695149\nPoints: 42\n# Comments: 2",
+      "publishedAt": "2026-06-27T04:31:06.000Z",
+      "image": null
+    },
+    {
+      "source": "Engadget",
+      "title": "OpenAI launches a limited preview of GPT-5.6 for a 'small group of trusted partners'",
+      "link": "https://www.engadget.com/2203102/openai-starts-previewing-gpt-56-and-its-three-variants/",
+      "summary": "OpenAI's GPT-5.6 comes in three variants, including its most powerful and its most affordable models yet.",
+      "publishedAt": "2026-06-27T04:23:40.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-starts-previewing-gpt-5-6-and-its-three-variants/l-intro-1782533490.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "link": "https://www.sfwriter.com/wordstar.htm",
+      "summary": "Article URL: https://www.sfwriter.com/wordstar.htm\nComments URL: https://news.ycombinator.com/item?id=48694853\nPoints: 52\n# Comments: 19",
+      "publishedAt": "2026-06-27T03:30:01.000Z",
+      "image": "https://sfwriter.com/rjs-og.jpg"
+    },
     {
       "source": "The Verge",
       "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
@@ -16,6 +48,14 @@
       "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home t…",
       "publishedAt": "2026-06-27T02:54:45.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+      "summary": "Article URL: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/\nComments URL: https://news.ycombinator.com/item?id=48694631\nPoints: 22\n# Comments: 6",
+      "publishedAt": "2026-06-27T02:41:53.000Z",
+      "image": null
     },
     {
       "source": "The Verge",
@@ -59,7 +99,7 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "title": "Show HN: Hacker News on a train station-style flip board",
       "link": "https://popflame.quickish.space/hn-flipboard/",
       "summary": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I'v…",
       "publishedAt": "2026-06-27T00:43:39.000Z",
@@ -115,9 +155,17 @@
     },
     {
       "source": "Hacker News",
+      "title": "Foreign funds help make housing unaffordable: research",
+      "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+      "summary": "Article URL: https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/\nComments URL: https://news.ycombinator.com/item?id=48693420\nPoints: 46\n# Comment…",
+      "publishedAt": "2026-06-26T23:36:30.000Z",
+      "image": "https://news.mccombs.utexas.edu/wp-content/uploads/2026/06/iStock-1495524595-1200x800.jpg"
+    },
+    {
+      "source": "Hacker News",
       "title": "Om",
       "link": "https://daringfireball.net/2026/06/om",
-      "summary": "Article URL: https://daringfireball.net/2026/06/om\nComments URL: https://news.ycombinator.com/item?id=48693391\nPoints: 158\n# Comments: 10",
+      "summary": "Related: Om Malik has died - https://news.ycombinator.com/item?id=48678852 - June 2026 (161 comments)\nComments URL: https://news.ycombinator.com/item?id=48693391\nPoints: 287\n# Comm…",
       "publishedAt": "2026-06-26T23:33:46.000Z",
       "image": "https://daringfireball.net/graphics/df-wide-card.png"
     },
@@ -149,25 +197,9 @@
       "source": "Hacker News",
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "summary": "https://archive.md/ArXuF\nhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a...\nComments URL: https://news.ycombinator.com/item?id=48692995\nPoints: 258\n# Comments: 249",
+      "summary": "https://archive.md/ArXuF\nhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a...\nComments URL: https://news.ycombinator.com/item?id=48692995\nPoints: 356\n# Comments: 355",
       "publishedAt": "2026-06-26T22:48:28.000Z",
       "image": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&w=1200&h=630&q=75&auto=format"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "summary": "Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed\nComments URL: https://news.ycombinator.com/item?…",
-      "publishedAt": "2026-06-26T22:43:29.000Z",
-      "image": "https://physics.stackexchange.com/Content/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI in mathematics is forcing big questions",
-      "link": "https://spectrum.ieee.org/ai-in-mathematics",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics\nComments URL: https://news.ycombinator.com/item?id=48692883\nPoints: 67\n# Comments: 28",
-      "publishedAt": "2026-06-26T22:36:51.000Z",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67007978&width=1200&height=600&coordinates=0%2C0%2C0%2C250"
     },
     {
       "source": "Ars Technica",
@@ -210,14 +242,6 @@
       "image": "https://media.wired.com/photos/6a39be772d4e45566000b82c/191:100/w_1280,c_limit/The-Best-Vacuum-Cleaner-Deals-for-Amazon-Prime-Day.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-      "link": "https://news.ycombinator.com/item?id=48692474",
-      "summary": "The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on.\nComments URL: https://news.ycombinator.com/item?id=48692474\nPoints: 70\n# Commen…",
-      "publishedAt": "2026-06-26T21:54:59.000Z",
-      "image": null
-    },
-    {
       "source": "Ars Technica",
       "title": "Doctors suspected man had brain cancer. He actually had worms.",
       "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
@@ -232,22 +256,6 @@
       "summary": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
       "publishedAt": "2026-06-26T21:30:00.000Z",
       "image": "https://media.wired.com/photos/6a39c2a6f5607ef1ccf39a6c/191:100/w_1280,c_limit/The-Best-Prime-Day-Laptop-Deals-on-My-Absolute-Favorites.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "link": "https://github.com/Tessil/hopscotch-map",
-      "summary": "Article URL: https://github.com/Tessil/hopscotch-map\nComments URL: https://news.ycombinator.com/item?id=48692090\nPoints: 71\n# Comments: 11",
-      "publishedAt": "2026-06-26T21:18:28.000Z",
-      "image": "https://opengraph.githubassets.com/622c416b6b8d1b98e95d0e499f35f0a472e22bbfaf974c38fc58813a450807aa/Tessil/hopscotch-map"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "link": "https://blog.doubleword.ai/frontier-os-llm",
-      "summary": "Article URL: https://blog.doubleword.ai/frontier-os-llm\nComments URL: https://news.ycombinator.com/item?id=48692058\nPoints: 136\n# Comments: 112",
-      "publishedAt": "2026-06-26T21:14:47.000Z",
-      "image": null
     },
     {
       "source": "Ars Technica",
@@ -408,14 +416,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientist…",
       "publishedAt": "2026-06-26T12:10:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MJ21_Data_archaeology_spreads-Maxomatic-FIN_01.jpg?w=3000"
-    },
-    {
-      "source": "Engadget",
-      "title": "Australia's social media ban may not be that effective, study finds",
-      "link": "https://www.engadget.com/2202255/australia-social-media-ban-still-not-effective/",
-      "summary": "A study finds that Australia's social media ban hasn't been that effective due to self-declared age verification checks.",
-      "publishedAt": "2026-06-26T12:01:47.000Z",
-      "image": "https://www.engadget.com/img/gallery/australias-social-media-ban-may-not-be-that-effective-study-finds/l-intro-1782475241.jpg"
     },
     {
       "source": "VentureBeat",
