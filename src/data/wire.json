@@ -1,19 +1,59 @@
 {
-  "syncedAt": "2026-06-27T06:55:03.845Z",
+  "syncedAt": "2026-06-27T10:12:07.206Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "The 37 Best Outdoor Deals From the REI 4th of July Sale",
+      "link": "https://www.wired.com/story/rei-4th-of-july-sale-2026/",
+      "summary": "Whether you need a tent, sleeping pad, rain jacket, or new pack, REI’s Independence Day sale has something for everyone.",
+      "publishedAt": "2026-06-27T10:06:00.000Z",
+      "image": "https://media.wired.com/photos/6a3f1ecf4c1af07ac240d486/191:100/w_1280,c_limit/The-37-Best-Outdoor-Deals-From-the-REI-4th-of-July-Sale.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
+      "link": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
+      "summary": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
+      "publishedAt": "2026-06-27T09:44:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-looking-to-buy-chips-from-a-us-blacklisted-chinese-company/l-intro-1782553197.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48696585\nPoints: 84\n# Comments: 3",
+      "publishedAt": "2026-06-27T09:18:52.000Z",
+      "image": "https://opengraph.githubassets.com/1b2d589bfd62d4bd9b80293c9cc91ecefaa1bc373a3efd815dee278a170121d8/deepseek-ai/DeepSpec"
+    },
+    {
+      "source": "Wired",
+      "title": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings",
+      "link": "https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/",
+      "summary": "Factors like the short interval between the two powerful quakes and different types of soil led to some structures collapsing while others stayed standing.",
+      "publishedAt": "2026-06-27T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a3ef3589858133e592bac26/191:100/w_1280,c_limit/GettyImages-2282644793.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple executive in charge of Vision Pro is reportedly leaving for OpenAI",
+      "link": "https://www.engadget.com/2203115/apple-executive-vision-pro-leaving-for-openai/",
+      "summary": "Apple's Vision Pro chief is reportedly leaving for OpenAI to start a hardware division.",
+      "publishedAt": "2026-06-27T07:36:58.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-executive-in-charge-of-vision-pro-is-reportedly-leaving-for-openai/l-intro-1782545665.jpg"
+    },
     {
       "source": "Hacker News",
       "title": "IBM MCGA Gate Array Reverse Engineering",
       "link": "https://github.com/schlae/IBM_MCGA",
-      "summary": "Article URL: https://github.com/schlae/IBM_MCGA\nComments URL: https://news.ycombinator.com/item?id=48695363\nPoints: 11\n# Comments: 2",
+      "summary": "Article URL: https://github.com/schlae/IBM_MCGA\nComments URL: https://news.ycombinator.com/item?id=48695363\nPoints: 29\n# Comments: 5",
       "publishedAt": "2026-06-27T05:17:08.000Z",
-      "image": "https://opengraph.githubassets.com/dff75f59244f4c6a678cbc8487ca65df21f8a27b8e00c2335ccc52f58008665b/schlae/IBM_MCGA"
+      "image": "https://opengraph.githubassets.com/93667fccf568dc4aa4b324eec849eb82c23f38c62ada699b6f4df0fd8e6d95e4/schlae/IBM_MCGA"
     },
     {
       "source": "Hacker News",
       "title": "OpenTTD 16.0-Beta1",
       "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-      "summary": "Article URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1\nComments URL: https://news.ycombinator.com/item?id=48695149\nPoints: 42\n# Comments: 2",
+      "summary": "Article URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1\nComments URL: https://news.ycombinator.com/item?id=48695149\nPoints: 158\n# Comments: 25",
       "publishedAt": "2026-06-27T04:31:06.000Z",
       "image": null
     },
@@ -29,7 +69,7 @@
       "source": "Hacker News",
       "title": "WordStar: A Writer's Word Processor (1996)",
       "link": "https://www.sfwriter.com/wordstar.htm",
-      "summary": "Article URL: https://www.sfwriter.com/wordstar.htm\nComments URL: https://news.ycombinator.com/item?id=48694853\nPoints: 52\n# Comments: 19",
+      "summary": "Article URL: https://www.sfwriter.com/wordstar.htm\nComments URL: https://news.ycombinator.com/item?id=48694853\nPoints: 92\n# Comments: 41",
       "publishedAt": "2026-06-27T03:30:01.000Z",
       "image": "https://sfwriter.com/rjs-og.jpg"
     },
@@ -53,7 +93,7 @@
       "source": "Hacker News",
       "title": "Anatomy of a Failed (Nation-State?) Attack",
       "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-      "summary": "Article URL: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/\nComments URL: https://news.ycombinator.com/item?id=48694631\nPoints: 22\n# Comments: 6",
+      "summary": "Article URL: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/\nComments URL: https://news.ycombinator.com/item?id=48694631\nPoints: 59\n# Comments: 9",
       "publishedAt": "2026-06-27T02:41:53.000Z",
       "image": null
     },
@@ -157,7 +197,7 @@
       "source": "Hacker News",
       "title": "Foreign funds help make housing unaffordable: research",
       "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-      "summary": "Article URL: https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/\nComments URL: https://news.ycombinator.com/item?id=48693420\nPoints: 46\n# Comment…",
+      "summary": "Article URL: https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/\nComments URL: https://news.ycombinator.com/item?id=48693420\nPoints: 79\n# Comment…",
       "publishedAt": "2026-06-26T23:36:30.000Z",
       "image": "https://news.mccombs.utexas.edu/wp-content/uploads/2026/06/iStock-1495524595-1200x800.jpg"
     },
@@ -165,7 +205,7 @@
       "source": "Hacker News",
       "title": "Om",
       "link": "https://daringfireball.net/2026/06/om",
-      "summary": "Related: Om Malik has died - https://news.ycombinator.com/item?id=48678852 - June 2026 (161 comments)\nComments URL: https://news.ycombinator.com/item?id=48693391\nPoints: 287\n# Comm…",
+      "summary": "Related: Om Malik has died - https://news.ycombinator.com/item?id=48678852 - June 2026 (161 comments)\nComments URL: https://news.ycombinator.com/item?id=48693391\nPoints: 372\n# Comm…",
       "publishedAt": "2026-06-26T23:33:46.000Z",
       "image": "https://daringfireball.net/graphics/df-wide-card.png"
     },
@@ -192,14 +232,6 @@
       "summary": "We’ve already rounded up the best Philips Hue deals of Prime Day, but if you’re looking for something a little more budget-friendly, Govee’s latest sale is worth checking out. The…",
       "publishedAt": "2026-06-26T22:51:28.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/goveefloorlampbasiclifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Hacker News",
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "summary": "https://archive.md/ArXuF\nhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a...\nComments URL: https://news.ycombinator.com/item?id=48692995\nPoints: 356\n# Comments: 355",
-      "publishedAt": "2026-06-26T22:48:28.000Z",
-      "image": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&w=1200&h=630&q=75&auto=format"
     },
     {
       "source": "Ars Technica",
@@ -234,28 +266,12 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Corgi-founder-CEO-Nico-Laqua.jpg?resize=1200,815"
     },
     {
-      "source": "Wired",
-      "title": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
-      "link": "https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/",
-      "summary": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.",
-      "publishedAt": "2026-06-26T22:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a39be772d4e45566000b82c/191:100/w_1280,c_limit/The-Best-Vacuum-Cleaner-Deals-for-Amazon-Prime-Day.jpg"
-    },
-    {
       "source": "Ars Technica",
       "title": "Doctors suspected man had brain cancer. He actually had worms.",
       "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
       "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
       "publishedAt": "2026-06-26T21:43:57.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Prime Day Laptop Deals on My Personal Favorites",
-      "link": "https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/",
-      "summary": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
-      "publishedAt": "2026-06-26T21:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a39c2a6f5607ef1ccf39a6c/191:100/w_1280,c_limit/The-Best-Prime-Day-Laptop-Deals-on-My-Absolute-Favorites.jpg"
     },
     {
       "source": "Ars Technica",
@@ -392,22 +408,6 @@
       "summary": "Samsung will start charging for SmartThings API access.",
       "publishedAt": "2026-06-26T15:36:15.000Z",
       "image": "https://www.engadget.com/img/gallery/samsung-will-start-charging-for-smartthings-api-access/l-intro-1782488126.jpg"
-    },
-    {
-      "source": "Engadget",
-      "title": "Not all tech survives solar storms, here's what's most at risk",
-      "link": "https://www.engadget.com/2201195/solar-maximum-tech-damage-space-weather/",
-      "summary": "The northern lights could mean lights out for the infrastructure we rely on.",
-      "publishedAt": "2026-06-26T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/not-all-tech-survives-solar-storms-heres-whats-most-at-risk/l-intro-1782344171.jpg"
-    },
-    {
-      "source": "Engadget",
-      "title": "Volkswagen reportedly plans to cut 100,000 jobs",
-      "link": "https://www.engadget.com/2202288/volkswagen-reportedly-plans-to-cut-100000-jobs/",
-      "summary": "Volkswagen reportedly plans to cut 100,000 jobs.",
-      "publishedAt": "2026-06-26T13:08:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/volkswagen-reportedly-plans-to-cut-100000-jobs/l-intro-1782479164.jpg"
     },
     {
       "source": "MIT Technology Review",
