@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
 import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
+import { getShareUrls } from '../../lib/share';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -15,6 +16,13 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content, remarkPluginFrontmatter } = await render(article);
 const readingTime = calculateReadingTime(article.body);
+
+const articleUrl = new URL(`/articles/${article.slug}`, Astro.site).toString();
+const shareUrls = getShareUrls({
+  url: articleUrl,
+  title: article.data.title,
+  description: article.data.description,
+});
 
 const allArticles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -48,6 +56,20 @@ const articleJsonLd = {
     <p class="byline">{article.data.author} · {article.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · {formatReadingTime(readingTime)}</p>
     <div class="content">
       <Content />
+    </div>
+    <div class="share">
+      <p class="share__label">Share this article</p>
+      <div class="share__buttons">
+        <a href={shareUrls.twitter} target="_blank" rel="noopener noreferrer" class="share__button share__button--twitter" title="Share on X" aria-label="Share on X">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.514l-5.106-6.694-5.829 6.694h-3.328l7.732-8.835L.424 2.25h6.679l4.882 6.268L17.75 2.25h.494zm-1.38 19.5h1.84L7.114 3.995H5.113L16.864 21.75z"/></svg>
+        </a>
+        <a href={shareUrls.linkedin} target="_blank" rel="noopener noreferrer" class="share__button share__button--linkedin" title="Share on LinkedIn" aria-label="Share on LinkedIn">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        </a>
+        <a href={shareUrls.email} class="share__button share__button--email" title="Share via email" aria-label="Share via email">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+        </a>
+      </div>
     </div>
   </article>
 
@@ -89,6 +111,28 @@ const articleJsonLd = {
   .content :global(a:hover) { border-color: var(--accent); }
   .content :global(ol),
   .content :global(ul) { padding-left: 22px; margin: 0 0 20px; }
+
+  .share { margin-top: 48px; padding-top: 28px; border-top: 2px solid var(--paper-line); }
+  .share__label { font-size: 13px; font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 0.03em; color: var(--slate); margin: 0 0 14px; }
+  .share__buttons { display: flex; gap: 12px; }
+  .share__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border: 2px solid var(--ink);
+    border-radius: 8px;
+    background: var(--paper);
+    color: var(--ink);
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+  }
+  .share__button svg { width: 24px; height: 24px; }
+  .share__button:hover { transform: rotate(-2deg); }
+  .share__button--twitter:hover { background: #1DA1F2; border-color: #1DA1F2; color: white; }
+  .share__button--linkedin:hover { background: #0A66C2; border-color: #0A66C2; color: white; }
+  .share__button--email:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
 
   .related { padding: 56px 24px 80px; max-width: 740px; }
   .related h2 { font-size: 24px; margin-bottom: 28px; }
