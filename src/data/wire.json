@@ -1,6 +1,54 @@
 {
-  "syncedAt": "2026-06-27T19:24:56.905Z",
+  "syncedAt": "2026-06-27T21:07:40.500Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "publishedAt": "2026-06-27T20:42:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1160112941.jpg?resize=1200,800"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "link": "https://github.com/kageroumado/adrafinil",
+      "summary": "A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that st…",
+      "publishedAt": "2026-06-27T20:34:53.000Z",
+      "image": "https://opengraph.githubassets.com/9feb6aeada55957c257cbe16a837892eb447f5e2c91ec5068b29c1558b31c4d9/kageroumado/adrafinil"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting",
+      "link": "https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting",
+      "summary": "Article URL: https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting\nComments URL: https://news…",
+      "publishedAt": "2026-06-27T20:16:32.000Z",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/5fede032-177f-4664-97ad-ee4ef30cdc65.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's your daily reminder that you don't own digital content",
+      "link": "https://www.engadget.com/2203232/heres-your-daily-reminder-that-you-dont-own-digital-content/",
+      "summary": "People in Europe will soon lose access to Studio Canal movies they paid for on the PlayStation Store.",
+      "publishedAt": "2026-06-27T19:45:46.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-your-daily-reminder-that-you-dont-own-digital-content/l-intro-1782589406.jpg"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
+      "link": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+      "summary": "Anthropic recently told its growth team to hire more product managers, not fewer. The reason, as reported in industry coverage, was that Claude Code had quietly turned its engineer…",
+      "publishedAt": "2026-06-27T19:30:09.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5LGSLA7R28yeWuRev76Ial/a1f373359767487b9c6315ab18f28095/u7277289442_A_data_engineer_is_sitting_at_a_dashboard_with_ch_56764e66-764f-496b-bab2-2e7a55c1655c_0.png?w=300&q=30"
+    },
+    {
+      "source": "Hacker News",
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "link": "https://ipcrawl.com/",
+      "summary": "Article URL: https://ipcrawl.com/\nComments URL: https://news.ycombinator.com/item?id=48700834\nPoints: 69\n# Comments: 35",
+      "publishedAt": "2026-06-27T19:09:49.000Z",
+      "image": null
+    },
     {
       "source": "The Verge",
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
@@ -8,6 +56,14 @@
       "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images\t\n\nMaraget Atwood, the storied author of The Handmaid's Tale and The Blind Ass…",
       "publishedAt": "2026-06-27T18:39:32.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Engadget",
+      "title": "Are smart bulbs more expensive to run than standard LEDs?",
+      "link": "https://www.engadget.com/2202949/are-smart-bulbs-more-expensive-to-run-than-standard-leds/",
+      "summary": "Do the benefits of features like dimming and scheduling make up for the constant energy draw needed for connectivity?",
+      "publishedAt": "2026-06-27T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/are-smart-bulbs-more-expensive-to-run-than-standard-leds/l-intro-1782422487.jpg"
     },
     {
       "source": "Engadget",
@@ -26,14 +82,6 @@
       "image": "https://media.wired.com/photos/6a396b1e518be327f36b3895/191:100/w_1280,c_limit/PRIME-DEALS.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": "The Card That Made the Apple II Serious",
-      "link": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/",
-      "summary": "Article URL: https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/\nComments URL: https://news.ycombinator.com/item?id=48700317\nPoints: 4\n# Comme…",
-      "publishedAt": "2026-06-27T18:00:46.000Z",
-      "image": "https://www.wiseowl.com/images/author-1.jpg"
-    },
-    {
       "source": "The Verge",
       "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
       "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
@@ -43,17 +91,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "\"No, I swear I wrote this.\"",
-      "link": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
-      "summary": "Article URL: https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this\nComments URL: https://news.ycombinator.com/item?id=48699969\nPoints: 6\n# Comments: 1",
-      "publishedAt": "2026-06-27T17:17:05.000Z",
-      "image": "https://images.revise.io/published-og%2F5e1af2f1-9c41-440e-bae8-9c319113ec93.png"
-    },
-    {
-      "source": "Hacker News",
       "title": "Turn your site into a place people can bump into each other",
       "link": "https://cauenapier.com/blog/townsquare_release/",
-      "summary": "Article URL: https://cauenapier.com/blog/townsquare_release/\nComments URL: https://news.ycombinator.com/item?id=48699928\nPoints: 23\n# Comments: 7",
+      "summary": "Related: Show HN: TownSquare, a tiny presence layer for websites - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments)\nComments URL: https://news.ycombinator.c…",
       "publishedAt": "2026-06-27T17:11:20.000Z",
       "image": null
     },
@@ -69,7 +109,7 @@
       "source": "Hacker News",
       "title": "Screen time can damage under-twos' development, landmark study suggests",
       "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study\nComments URL: https://news.ycombinator.com/item?id=48699778\nPoints: 23…",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study\nComments URL: https://news.ycombinator.com/item?id=48699778\nPoints: 55…",
       "publishedAt": "2026-06-27T16:51:09.000Z",
       "image": "https://i.guim.co.uk/img/media/80926b962ff832a320bb64479ff8effa6baaa3ba/637_0_4995_3995/master/4995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7c4e6089037de66e0c363359bfadcdf"
     },
@@ -88,14 +128,6 @@
       "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
       "publishedAt": "2026-06-27T16:45:09.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Doctors suspected man had brain cancer. He had worms",
-      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-      "summary": "Article URL: https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/\nComments URL: https://news.ycombinator.com/item?id=48699617\nPoints…",
-      "publishedAt": "2026-06-27T16:31:58.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg"
     },
     {
       "source": "Engadget",
@@ -123,9 +155,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "title": "Zuckerberg's war on whistleblowers",
       "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 404\n# Comments: 154",
+      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 491\n# Comments: 188",
       "publishedAt": "2026-06-27T14:38:05.000Z",
       "image": null
     },
@@ -133,9 +165,9 @@
       "source": "Hacker News",
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "link": "https://github.com/bikini/exploitarium",
-      "summary": "Article URL: https://github.com/bikini/exploitarium\nComments URL: https://news.ycombinator.com/item?id=48698617\nPoints: 380\n# Comments: 156",
+      "summary": "Article URL: https://github.com/bikini/exploitarium\nComments URL: https://news.ycombinator.com/item?id=48698617\nPoints: 503\n# Comments: 197",
       "publishedAt": "2026-06-27T14:31:00.000Z",
-      "image": "https://opengraph.githubassets.com/4d17fc37f59a0836ac9d7518841c3f04f27a80f191a463da69993b63b2c64a98/bikini/exploitarium"
+      "image": "https://opengraph.githubassets.com/5d7f53d2a0cd4aa956fd0b8d8949dcffee8df9f9529c63347651c079344f1a20/bikini/exploitarium"
     },
     {
       "source": "TechCrunch",
@@ -178,28 +210,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Engadget",
-      "title": "The differences between Dolby Digital, DTS and Atmos (and which is better)",
-      "link": "https://www.engadget.com/2201794/difference-between-dolby-digital-dts-atmos-which-sounds-better/",
-      "summary": "How to decide which of these surround sound formats is best for your home theater.",
-      "publishedAt": "2026-06-27T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-differences-between-dolby-digital-dts-and-atmos-and-which-is-better/l-intro-1782410223.jpg"
-    },
-    {
       "source": "The Verge",
       "title": "Inside the room where the smart home industry is still betting on Matter",
       "link": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
       "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution…",
       "publishedAt": "2026-06-27T13:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Unify-3E1A1400.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Engadget",
-      "title": "NASA tests an in-orbit refueling device for deep space missions",
-      "link": "https://www.engadget.com/2203145/nasa-tests-in-orbit-refueling-device-deep-space-missions/",
-      "summary": "NASA is testing a 'cryocoupler' developed by L3Harris for in-orbit refueling.",
-      "publishedAt": "2026-06-27T12:49:55.000Z",
-      "image": "https://www.engadget.com/img/gallery/nasa-tests-an-in-orbit-refueling-device-for-deep-space-missions/l-intro-1782564424.jpg"
     },
     {
       "source": "TechCrunch",
@@ -378,14 +394,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/brendan-carr-1152x648-1773688503.jpg"
     },
     {
-      "source": "TechCrunch",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defe…",
-      "publishedAt": "2026-06-26T18:32:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800"
-    },
-    {
       "source": "Ars Technica",
       "title": "Netflix now requires every user profile to be tied to unique email address",
       "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
@@ -480,14 +488,6 @@
       "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art te…",
       "publishedAt": "2026-06-25T10:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_sub-1nmnodechip.jpg?resize=1200,600"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
-      "link": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
-      "summary": "AI agent orchestration platforms are popping up like weeds these days, but London-based AI transformation startup Mindstone's Rebel might be among the most promising I've come acro…",
-      "publishedAt": "2026-06-24T23:02:15.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1vjSZXGxKG3m4gHgnf9G3D/9d2de4fcc51903621386b6cb42c3f639/ChatGPT_Image_Jun_24__2026__04_50_03_PM.png?w=300&q=30"
     },
     {
       "source": "MIT Technology Review",
