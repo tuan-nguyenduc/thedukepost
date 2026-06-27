@@ -1,6 +1,46 @@
 {
-  "syncedAt": "2026-06-27T21:07:40.500Z",
+  "syncedAt": "2026-06-27T23:05:25.364Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Michigan spent $1.8B and only created 602 jobs",
+      "link": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+      "summary": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu\nComments URL: https://news.ycombinator.com/item?id=48702060\nPo…",
+      "publishedAt": "2026-06-27T21:44:57.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "GLP-1 drugs led to weight loss and reversed depression-like behavior in mice",
+      "link": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "summary": "Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis\nComments URL: https://news.ycombinator.com/item?id=48701984\nPoin…",
+      "publishedAt": "2026-06-27T21:34:06.000Z",
+      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-06/shutterstock_2284966451.jpg?h=99361e79&itok=GqJ4weXl"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "summary": "Instagram users could soon see more ways to tune their content.",
+      "publishedAt": "2026-06-27T21:27:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Enhancing X11 Application Security with LXC",
+      "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "summary": "Article URL: https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/\nComments URL: https://news.ycombinator.com/item?id=48701936\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-06-27T21:27:36.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
+      "link": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
+      "summary": "Article URL: https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/\nComments URL: https://news.ycombinator.com/item?id=48701822\nPoints: 124\n# Commen…",
+      "publishedAt": "2026-06-27T21:14:19.000Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26176790762613-e1782489902594.jpg?resize=1200,600"
+    },
     {
       "source": "TechCrunch",
       "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
@@ -15,15 +55,7 @@
       "link": "https://github.com/kageroumado/adrafinil",
       "summary": "A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that st…",
       "publishedAt": "2026-06-27T20:34:53.000Z",
-      "image": "https://opengraph.githubassets.com/9feb6aeada55957c257cbe16a837892eb447f5e2c91ec5068b29c1558b31c4d9/kageroumado/adrafinil"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting",
-      "link": "https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting",
-      "summary": "Article URL: https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting\nComments URL: https://news…",
-      "publishedAt": "2026-06-27T20:16:32.000Z",
-      "image": "https://www.gadgetreview.com/wp-content/uploads/5fede032-177f-4664-97ad-ee4ef30cdc65.jpg"
+      "image": "https://opengraph.githubassets.com/4d98a8b239b6d50e32242e178e51e08c478165376873cde0ca4e96530906cfba/kageroumado/adrafinil"
     },
     {
       "source": "Engadget",
@@ -45,7 +77,7 @@
       "source": "Hacker News",
       "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
       "link": "https://ipcrawl.com/",
-      "summary": "Article URL: https://ipcrawl.com/\nComments URL: https://news.ycombinator.com/item?id=48700834\nPoints: 69\n# Comments: 35",
+      "summary": "Article URL: https://ipcrawl.com/\nComments URL: https://news.ycombinator.com/item?id=48700834\nPoints: 167\n# Comments: 86",
       "publishedAt": "2026-06-27T19:09:49.000Z",
       "image": null
     },
@@ -106,14 +138,6 @@
       "image": "https://app.ashbyhq.com/api/images/org-theme-logo/7e5b88a8-0d79-4402-9ab8-3b8efa158966/524a0a49-dcc6-42e9-88a4-07178ef53946/0f376189-8354-41c1-83e5-05c6ab93a9c0.png"
     },
     {
-      "source": "Hacker News",
-      "title": "Screen time can damage under-twos' development, landmark study suggests",
-      "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study\nComments URL: https://news.ycombinator.com/item?id=48699778\nPoints: 55…",
-      "publishedAt": "2026-06-27T16:51:09.000Z",
-      "image": "https://i.guim.co.uk/img/media/80926b962ff832a320bb64479ff8effa6baaa3ba/637_0_4995_3995/master/4995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7c4e6089037de66e0c363359bfadcdf"
-    },
-    {
       "source": "Engadget",
       "title": "SpaceX is reportedly planning to build its own natural gas pipeline in Texas",
       "link": "https://www.engadget.com/2203191/spacex-is-reportedly-planning-to-build-its-own-natural-gas-pipeline-in-texas/",
@@ -154,28 +178,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/KAI-FNL-0089-EV3-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Hacker News",
-      "title": "Zuckerberg's war on whistleblowers",
-      "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 491\n# Comments: 188",
-      "publishedAt": "2026-06-27T14:38:05.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "link": "https://github.com/bikini/exploitarium",
-      "summary": "Article URL: https://github.com/bikini/exploitarium\nComments URL: https://news.ycombinator.com/item?id=48698617\nPoints: 503\n# Comments: 197",
-      "publishedAt": "2026-06-27T14:31:00.000Z",
-      "image": "https://opengraph.githubassets.com/5d7f53d2a0cd4aa956fd0b8d8949dcffee8df9f9529c63347651c079344f1a20/bikini/exploitarium"
-    },
-    {
       "source": "TechCrunch",
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
       "publishedAt": "2026-06-27T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM.png?resize=1200,683"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM-e1782596077369.png?w=1103"
     },
     {
       "source": "The Verge",
@@ -291,7 +299,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
       "publishedAt": "2026-06-27T01:01:37.000Z",
@@ -376,14 +384,6 @@
       "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
       "publishedAt": "2026-06-26T20:04:55.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-1024x648.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-      "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
-      "publishedAt": "2026-06-26T19:13:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2282709667.jpg?w=1024"
     },
     {
       "source": "Ars Technica",
