@@ -1,6 +1,54 @@
 {
-  "syncedAt": "2026-06-27T15:17:54.575Z",
+  "syncedAt": "2026-06-27T17:14:15.585Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "summary": "Article URL: https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228\nComments URL: https://news.ycombinator.com/item?id=48699842\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-06-27T17:00:15.000Z",
+      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/7e5b88a8-0d79-4402-9ab8-3b8efa158966/524a0a49-dcc6-42e9-88a4-07178ef53946/0f376189-8354-41c1-83e5-05c6ab93a9c0.png"
+    },
+    {
+      "source": "Engadget",
+      "title": "SpaceX is reportedly planning to build its own natural gas pipeline in Texas",
+      "link": "https://www.engadget.com/2203191/spacex-is-reportedly-planning-to-build-its-own-natural-gas-pipeline-in-texas/",
+      "summary": "The 8-mile pipeline would bring fuel for Starship to the company's Starbase.",
+      "publishedAt": "2026-06-27T16:50:16.000Z",
+      "image": "https://www.engadget.com/img/gallery/spacex-is-reportedly-planning-to-build-its-own-natural-gas-pipeline-in-texas/l-intro-1782578820.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "publishedAt": "2026-06-27T16:45:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/\nComments URL: https://news.ycombinator.com/item?id=48699617\nPoints…",
+      "publishedAt": "2026-06-27T16:31:58.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "Ayaneo's new horizontal handheld is an even better remake of the Game Boy Micro",
+      "link": "https://www.engadget.com/2203185/ayaneo-new-horizontal-handheld-is-an-even-better-remake-of-the-game-boy-micro/",
+      "summary": "The Pocket Micro 2 has a larger battery, improved controls and even a 3.5mm headphone jack.",
+      "publishedAt": "2026-06-27T16:21:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/ayaneos-new-horizontal-handheld-is-an-even-better-remake-of-the-game-boy-micro/l-intro-1782577061.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Kindle app for iOS has features your aging Kindle doesn't",
+      "link": "https://www.engadget.com/2202142/kindle-app-features-ios-has-ereader-still-doesnt-have/",
+      "summary": "Amazon's Kindle AI features help you read beyond the lines, so long as you have the right ereader.",
+      "publishedAt": "2026-06-27T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/l-intro-1782429214.jpg"
+    },
     {
       "source": "The Verge",
       "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
@@ -13,17 +61,33 @@
       "source": "Hacker News",
       "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
       "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 15\n# Comments: 0",
+      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 230\n# Comments: 84",
       "publishedAt": "2026-06-27T14:38:05.000Z",
       "image": null
     },
     {
       "source": "Hacker News",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "link": "https://github.com/bikini/exploitarium",
+      "summary": "Article URL: https://github.com/bikini/exploitarium\nComments URL: https://news.ycombinator.com/item?id=48698617\nPoints: 175\n# Comments: 71",
+      "publishedAt": "2026-06-27T14:31:00.000Z",
+      "image": "https://opengraph.githubassets.com/08b4c25d9e148d0c26fad88eee7630fc2c87feefe8adedb861159878d01d05c3/bikini/exploitarium"
+    },
+    {
+      "source": "Hacker News",
       "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
       "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-      "summary": "Article URL: https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/\nComments URL: https://news.ycombinator.com/item?id=48698559\nPoints: 21\n# Comme…",
+      "summary": "Article URL: https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/\nComments URL: https://news.ycombinator.com/item?id=48698559\nPoints: 53\n# Comme…",
       "publishedAt": "2026-06-27T14:23:40.000Z",
       "image": "https://cephalosec.com/content/images/size/w1200/2026/06/cephalosec-8-trans-1.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Like a Bouncer at a Bookstore: Texas' App Store Accountability Act",
+      "link": "https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/",
+      "summary": "Article URL: https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/\nComments URL: https://news.ycombinator.com/item?id=48698…",
+      "publishedAt": "2026-06-27T14:02:52.000Z",
+      "image": null
     },
     {
       "source": "TechCrunch",
@@ -55,13 +119,13 @@
       "link": "https://www.engadget.com/2202417/engadget-review-recap-msi-claw-8-ex-ai/",
       "summary": "A roundup of recent reviews published by Engadget.",
       "publishedAt": "2026-06-27T14:00:00.000Z",
-      "image": "https://www.engadget.com/img/engadget-meta-image-1280x720.png"
+      "image": "https://www.engadget.com/img/gallery/engadget-review-recap-msi-claw-8-ex-ai/l-intro-1782574511.jpg"
     },
     {
       "source": "Hacker News",
       "title": "Suspicious Discontinuities",
       "link": "https://danluu.com/discontinuities/",
-      "summary": "Article URL: https://danluu.com/discontinuities/\nComments URL: https://news.ycombinator.com/item?id=48698151\nPoints: 16\n# Comments: 0",
+      "summary": "Article URL: https://danluu.com/discontinuities/\nComments URL: https://news.ycombinator.com/item?id=48698151\nPoints: 92\n# Comments: 22",
       "publishedAt": "2026-06-27T13:32:20.000Z",
       "image": null
     },
@@ -106,30 +170,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1987915833-1152x648.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": "How Many Elementary Particles Are There, Really?",
-      "link": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
-      "summary": "Article URL: https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/\nComments URL: https://news.ycombinator.com/item?id=48697746\nPoints: 31\n# Commen…",
-      "publishedAt": "2026-06-27T12:40:59.000Z",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Qualia-ElementaryParticles-crKristinaArmitage-Social.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenRA",
-      "link": "https://www.openra.net/",
-      "summary": "Article URL: https://www.openra.net/\nComments URL: https://news.ycombinator.com/item?id=48697560\nPoints: 166\n# Comments: 46",
-      "publishedAt": "2026-06-27T12:10:27.000Z",
-      "image": "https://www.openra.net/images/social.jpg?t=2026-04-30-18-11"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nox Metals (YC S25) Is Hiring SWE",
-      "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer\nComments URL: https://news.ycombinator.com/item?id=48697504\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-06-27T12:01:03.000Z",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/49e34209296e6ac5b43b19dbb237c6beaeccbb78.png?1781189978"
-    },
-    {
       "source": "TechCrunch",
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
       "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
@@ -160,22 +200,6 @@
       "summary": "The Steam Summer Sale is underway.",
       "publishedAt": "2026-06-27T12:00:00.000Z",
       "image": "https://www.engadget.com/img/gallery/a-sidescrolling-roguelite-platformer-steam-deck-air-hockey-and-other-new-indie-games-worth-checking-out/l-intro-1782508229.jpg"
-    },
-    {
-      "source": "Engadget",
-      "title": "Uber expands US driver background checks after sexual assault lawsuits",
-      "link": "https://www.engadget.com/2203130/uber-expands-us-driver-background-checks/",
-      "summary": "Uber is adopting a more stringent background check process for drivers and couriers in the US.",
-      "publishedAt": "2026-06-27T11:58:05.000Z",
-      "image": "https://www.engadget.com/img/gallery/uber-expands-us-driver-background-checks-after-sexual-assault-lawsuits/l-intro-1782561164.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "If you can't hold it, you don't own it",
-      "link": "https://dervis.de/physical/",
-      "summary": "Article URL: https://dervis.de/physical/\nComments URL: https://news.ycombinator.com/item?id=48697335\nPoints: 122\n# Comments: 82",
-      "publishedAt": "2026-06-27T11:32:10.000Z",
-      "image": null
     },
     {
       "source": "Ars Technica",
@@ -218,28 +242,12 @@
       "image": "https://media.wired.com/photos/6a3f1ecf4c1af07ac240d486/191:100/w_1280,c_limit/The-37-Best-Outdoor-Deals-From-the-REI-4th-of-July-Sale.jpg"
     },
     {
-      "source": "Engadget",
-      "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
-      "link": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
-      "summary": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
-      "publishedAt": "2026-06-27T09:44:32.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-looking-to-buy-chips-from-a-us-blacklisted-chinese-company/l-intro-1782553197.jpg"
-    },
-    {
       "source": "Wired",
       "title": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings",
       "link": "https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/",
       "summary": "Factors like the short interval between the two powerful quakes and different types of soil led to some structures collapsing while others stayed standing.",
       "publishedAt": "2026-06-27T09:00:00.000Z",
       "image": "https://media.wired.com/photos/6a3ef3589858133e592bac26/191:100/w_1280,c_limit/GettyImages-2282644793.jpg"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple executive in charge of Vision Pro is reportedly leaving for OpenAI",
-      "link": "https://www.engadget.com/2203115/apple-executive-vision-pro-leaving-for-openai/",
-      "summary": "Apple's Vision Pro chief is reportedly leaving for OpenAI to start a hardware division.",
-      "publishedAt": "2026-06-27T07:36:58.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-executive-in-charge-of-vision-pro-is-reportedly-leaving-for-openai/l-intro-1782545665.jpg"
     },
     {
       "source": "The Verge",
@@ -384,14 +392,6 @@
       "summary": "Update began June 15 and will no longer allow you to share your login info.",
       "publishedAt": "2026-06-26T18:19:58.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Netflix-account-emails.jpeg-e1782496443192-640x906.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "publishedAt": "2026-06-26T18:19:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800"
     },
     {
       "source": "VentureBeat",
