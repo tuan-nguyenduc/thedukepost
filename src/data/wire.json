@@ -1,11 +1,51 @@
 {
-  "syncedAt": "2026-06-28T04:06:21.034Z",
+  "syncedAt": "2026-06-28T08:57:01.719Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Can China build its own ASML?",
+      "link": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+      "summary": "Article URL: https://nikkei.shorthandstories.com/can-china-build-its-own-asml/\nComments URL: https://news.ycombinator.com/item?id=48705276\nPoints: 10\n# Comments: 0",
+      "publishedAt": "2026-06-28T07:45:23.000Z",
+      "image": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/assets/kLAIDaQePv/frame-at-0.000s-of-20250711-hero-video-of-asml_9.1mb-social-cover.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+      "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+      "summary": "A $280 bike lock on a $10,000 e-bike.\t\n\nI've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start s…",
+      "publishedAt": "2026-06-28T07:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1827.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "publishedAt": "2026-06-28T05:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/MTW_2026-NPCI-Dilip.jpg?resize=1200,675"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bashblog – a single bash script to create blogs",
+      "link": "https://github.com/cfenollosa/bashblog",
+      "summary": "Article URL: https://github.com/cfenollosa/bashblog\nComments URL: https://news.ycombinator.com/item?id=48704454\nPoints: 34\n# Comments: 4",
+      "publishedAt": "2026-06-28T04:48:32.000Z",
+      "image": "https://opengraph.githubassets.com/ce19156473dcb3eda7412091120b5641bcb3f69cd09227a6fa25a27984acb45c/cfenollosa/bashblog"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "link": "https://github.com/itsthelore/wayfinder-router",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router\nComments URL: https://news.ycombinator.com/item?id=48704373\nPoints: 59\n# Comments: 11",
+      "publishedAt": "2026-06-28T04:31:18.000Z",
+      "image": "https://repository-images.githubusercontent.com/1271892689/88c43e02-cd49-45ba-9926-2f82880b57a0"
+    },
     {
       "source": "Hacker News",
       "title": "Ford hired AI and sacked humans. It backfired badly",
       "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html\nComments URL: https://news.ycombinator.com/item?id=48703968\nPoints: 24\n# Comments:…",
+      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html\nComments URL: https://news.ycombinator.com/item?id=48703968\nPoints: 174\n# Comments:…",
       "publishedAt": "2026-06-28T03:09:13.000Z",
       "image": "https://static.the-independent.com/s3fs-public/thumbnails/image/2020/07/22/12/ford-uk-factory.jpg?width=1200&height=800&crop=1200:800"
     },
@@ -13,57 +53,33 @@
       "source": "Hacker News",
       "title": "Marfa Public Radio Puts You to Sleep",
       "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 65\n# Comments: 11",
+      "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 203\n# Comments: 55",
       "publishedAt": "2026-06-28T02:23:08.000Z",
       "image": "https://npr.brightspotcdn.com/dims4/default/c3f0a81/2147483647/strip/true/crop/3000x1575+0+40/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F56%2F79316759410d8ce45efb655b32b3%2Fmpr-sleep-v2-logo-1.jpg"
     },
     {
       "source": "Hacker News",
-      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "title": "Feds Killed Polestar and Spared Volvo",
       "link": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-      "summary": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you\nComments URL: https://news.ycombinator.com/item?id=48703613\nPoints: 48\n# Co…",
+      "summary": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you\nComments URL: https://news.ycombinator.com/item?id=48703613\nPoints: 144\n# C…",
       "publishedAt": "2026-06-28T01:55:21.000Z",
       "image": "https://www.thedrive.com/wp-content/uploads/2026/06/Original-3197-681584-1-5-e1782406718657.jpg?w=1200"
     },
     {
       "source": "Hacker News",
-      "title": "I built a 100% local network privacy appliance to stop smart home spying",
-      "link": "https://www.edgedefenseai.com/",
-      "summary": "Article URL: https://www.edgedefenseai.com/\nComments URL: https://news.ycombinator.com/item?id=48703602\nPoints: 7\n# Comments: 1",
-      "publishedAt": "2026-06-28T01:53:14.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Response to AI slop is from Robin Williams",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
       "link": "https://jayacunzo.com/blog/your-move-chief",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief\nComments URL: https://news.ycombinator.com/item?id=48703452\nPoints: 93\n# Comments: 55",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief\nComments URL: https://news.ycombinator.com/item?id=48703452\nPoints: 206\n# Comments: 117",
       "publishedAt": "2026-06-28T01:28:10.000Z",
       "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "link": "https://decomp-academy.dev",
-      "summary": "Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started…",
-      "publishedAt": "2026-06-28T01:21:20.000Z",
-      "image": "https://decomp-academy.dev/brand/png/og-image.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "summary": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md\nComments URL: https://news.ycombinator.com/item?id=48703258\nPoints: 66\n# C…",
-      "publishedAt": "2026-06-28T00:46:52.000Z",
-      "image": "https://opengraph.githubassets.com/be48af604979c4aa6fa98a412ab53135840cc8157bcd9d80b13e0bc18223a960/kyuz0/amd-strix-halo-vllm-toolboxes"
-    },
-    {
-      "source": "Hacker News",
-      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-      "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-      "summary": "Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust\nComments URL: https://news.ycombinator.com/item?id=48702848\nPoints: 22\n# Comments: 0",
-      "publishedAt": "2026-06-27T23:32:58.000Z",
-      "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2FWAL_RUS_Blog_Banner_00f644032a.jpg&w=1200&h=630&q=75"
+      "title": "Turning music into a chore is how I became a musician (2022)",
+      "link": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+      "summary": "Article URL: https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/\nComments URL: https://news.ycombinator.com/item?id=48703418\nPoints: 33\n# Comments: 10",
+      "publishedAt": "2026-06-28T01:22:30.000Z",
+      "image": "/static/og-image.png"
     },
     {
       "source": "TechCrunch",
@@ -242,14 +258,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
     },
     {
-      "source": "The Verge",
-      "title": "This puzzle game&#8217;s simple premise hides surprising depth",
-      "link": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
-      "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound li…",
-      "publishedAt": "2026-06-27T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Ars Technica",
       "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
       "link": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
@@ -344,14 +352,6 @@
       "summary": "Half-million strong military will train on drones as “universal combat tool.”",
       "publishedAt": "2026-06-26T22:19:05.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-2560x1440.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-      "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
-      "publishedAt": "2026-06-26T22:00:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Corgi-founder-CEO-Nico-Laqua.jpg?resize=1200,815"
     },
     {
       "source": "Ars Technica",
