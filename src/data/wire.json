@@ -1,13 +1,45 @@
 {
-  "syncedAt": "2026-06-28T08:57:01.719Z",
+  "syncedAt": "2026-06-28T11:48:07.671Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Can China build its own ASML?",
-      "link": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
-      "summary": "Article URL: https://nikkei.shorthandstories.com/can-china-build-its-own-asml/\nComments URL: https://news.ycombinator.com/item?id=48705276\nPoints: 10\n# Comments: 0",
-      "publishedAt": "2026-06-28T07:45:23.000Z",
-      "image": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/assets/kLAIDaQePv/frame-at-0.000s-of-20250711-hero-video-of-asml_9.1mb-social-cover.jpg"
+      "source": "Wired",
+      "title": "The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality",
+      "link": "https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/",
+      "summary": "As the billionaire class gets richer, the growing online community is offering tips on how to survive with very little.",
+      "publishedAt": "2026-06-28T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a3c6e5695155ed1f252b17b/191:100/w_1280,c_limit/culture_almost_homeless_reddit.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best",
+      "link": "https://www.wired.com/story/im-addicted-to-sun-hoodies/",
+      "summary": "Sun hoodies are the greatest new garment since the original hoodie.",
+      "publishedAt": "2026-06-28T10:02:00.000Z",
+      "image": "https://media.wired.com/photos/6a3f4f739d8ba41349d506ef/191:100/w_1280,c_limit/I%E2%80%99m-Addicted-to-Sun-Hoodies.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "This Is the Most Detailed Image Yet of the Milky Way's Center",
+      "link": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/",
+      "summary": "The Euclid space telescope's stunning photo of our galaxy's “crowded heart” captures more than 60 million stars.",
+      "publishedAt": "2026-06-28T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a3e926c577be68a65b910f2/191:100/w_1280,c_limit/Euclid_s_view_of_our_galaxy_s_bulge.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "The Ebike Accessories You Need to Help You Haul the Most Stuff",
+      "link": "https://www.wired.com/story/how-to-trick-out-your-ebike/",
+      "summary": "An unadorned ebike is a blank canvas. Here, get tips for maximizing its cargo-hauling and person-carrying capabilities.",
+      "publishedAt": "2026-06-28T09:01:00.000Z",
+      "image": "https://media.wired.com/photos/6a3f4a68cadae37ef7753fdc/191:100/w_1280,c_limit/How-to-Trick-Out-Your-Ebike.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "China Defies US Restrictions and Builds the World’s Fastest Supercomputer",
+      "link": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
+      "summary": "The Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs.",
+      "publishedAt": "2026-06-28T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a3e912435a32ef4cd784d63/191:100/w_1280,c_limit/supercomputadora%20china%20EE%20UU%201228298015.jpg"
     },
     {
       "source": "The Verge",
@@ -16,6 +48,14 @@
       "summary": "A $280 bike lock on a $10,000 e-bike.\t\n\nI've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start s…",
       "publishedAt": "2026-06-28T07:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1827.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
+      "link": "https://github.com/vshakitskiy/armadillo",
+      "summary": "Article URL: https://github.com/vshakitskiy/armadillo\nComments URL: https://news.ycombinator.com/item?id=48704816\nPoints: 16\n# Comments: 0",
+      "publishedAt": "2026-06-28T06:00:31.000Z",
+      "image": "https://opengraph.githubassets.com/5e8b76c1befffdda2c14ba222422f7f386d50d462347a2606f7a73dd801f86cd/vshakitskiy/armadillo"
     },
     {
       "source": "TechCrunch",
@@ -29,47 +69,31 @@
       "source": "Hacker News",
       "title": "Bashblog – a single bash script to create blogs",
       "link": "https://github.com/cfenollosa/bashblog",
-      "summary": "Article URL: https://github.com/cfenollosa/bashblog\nComments URL: https://news.ycombinator.com/item?id=48704454\nPoints: 34\n# Comments: 4",
+      "summary": "Article URL: https://github.com/cfenollosa/bashblog\nComments URL: https://news.ycombinator.com/item?id=48704454\nPoints: 62\n# Comments: 35",
       "publishedAt": "2026-06-28T04:48:32.000Z",
-      "image": "https://opengraph.githubassets.com/ce19156473dcb3eda7412091120b5641bcb3f69cd09227a6fa25a27984acb45c/cfenollosa/bashblog"
+      "image": "https://opengraph.githubassets.com/653a19e8db8f97bd41716d6bbbddf7347ab81182c351f3d824cef69a759a479c/cfenollosa/bashblog"
     },
     {
       "source": "Hacker News",
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
       "link": "https://github.com/itsthelore/wayfinder-router",
-      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router\nComments URL: https://news.ycombinator.com/item?id=48704373\nPoints: 59\n# Comments: 11",
+      "summary": "Article URL: https://github.com/itsthelore/wayfinder-router\nComments URL: https://news.ycombinator.com/item?id=48704373\nPoints: 75\n# Comments: 23",
       "publishedAt": "2026-06-28T04:31:18.000Z",
       "image": "https://repository-images.githubusercontent.com/1271892689/88c43e02-cd49-45ba-9926-2f82880b57a0"
     },
     {
       "source": "Hacker News",
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html\nComments URL: https://news.ycombinator.com/item?id=48703968\nPoints: 174\n# Comments:…",
-      "publishedAt": "2026-06-28T03:09:13.000Z",
-      "image": "https://static.the-independent.com/s3fs-public/thumbnails/image/2020/07/22/12/ford-uk-factory.jpg?width=1200&height=800&crop=1200:800"
-    },
-    {
-      "source": "Hacker News",
       "title": "Marfa Public Radio Puts You to Sleep",
       "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 203\n# Comments: 55",
+      "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 261\n# Comments: 73",
       "publishedAt": "2026-06-28T02:23:08.000Z",
       "image": "https://npr.brightspotcdn.com/dims4/default/c3f0a81/2147483647/strip/true/crop/3000x1575+0+40/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F56%2F79316759410d8ce45efb655b32b3%2Fmpr-sleep-v2-logo-1.jpg"
     },
     {
       "source": "Hacker News",
-      "title": "Feds Killed Polestar and Spared Volvo",
-      "link": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-      "summary": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you\nComments URL: https://news.ycombinator.com/item?id=48703613\nPoints: 144\n# C…",
-      "publishedAt": "2026-06-28T01:55:21.000Z",
-      "image": "https://www.thedrive.com/wp-content/uploads/2026/06/Original-3197-681584-1-5-e1782406718657.jpg?w=1200"
-    },
-    {
-      "source": "Hacker News",
       "title": "The best response to AI slop and online noise is from Robin Williams",
       "link": "https://jayacunzo.com/blog/your-move-chief",
-      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief\nComments URL: https://news.ycombinator.com/item?id=48703452\nPoints: 206\n# Comments: 117",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief\nComments URL: https://news.ycombinator.com/item?id=48703452\nPoints: 256\n# Comments: 148",
       "publishedAt": "2026-06-28T01:28:10.000Z",
       "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w"
     },
@@ -77,9 +101,25 @@
       "source": "Hacker News",
       "title": "Turning music into a chore is how I became a musician (2022)",
       "link": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
-      "summary": "Article URL: https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/\nComments URL: https://news.ycombinator.com/item?id=48703418\nPoints: 33\n# Comments: 10",
+      "summary": "Article URL: https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/\nComments URL: https://news.ycombinator.com/item?id=48703418\nPoints: 49\n# Comments: 16",
       "publishedAt": "2026-06-28T01:22:30.000Z",
       "image": "/static/og-image.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "link": "https://decomp-academy.dev",
+      "summary": "Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started…",
+      "publishedAt": "2026-06-28T01:21:20.000Z",
+      "image": "https://decomp-academy.dev/brand/png/og-image.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "summary": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md\nComments URL: https://news.ycombinator.com/item?id=48703258\nPoints: 157\n#…",
+      "publishedAt": "2026-06-28T00:46:52.000Z",
+      "image": "https://opengraph.githubassets.com/59110ab73ff81f191cc11dbd4839d6d331e292e62885accd98bafd80a4908229/kyuz0/amd-strix-halo-vllm-toolboxes"
     },
     {
       "source": "TechCrunch",
@@ -282,30 +322,6 @@
       "image": "https://media.wired.com/photos/6a3f358d2d4e45566000bffd/191:100/w_1280,c_limit/I-Tried-DeleteMe,-the-Original-Data-Broker-Removal-Service.jpg"
     },
     {
-      "source": "Wired",
-      "title": "Security News This Week: LastPass Users Had Their Data Stolen—Again",
-      "link": "https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/",
-      "summary": "Plus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more.",
-      "publishedAt": "2026-06-27T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a3f04f5576bf7ee5cfb20ec/191:100/w_1280,c_limit/LastPass-Data-Leak-Security-1246524546.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "The 37 Best Outdoor Deals From the REI 4th of July Sale",
-      "link": "https://www.wired.com/story/rei-4th-of-july-sale-2026/",
-      "summary": "Whether you need a tent, sleeping pad, rain jacket, or new pack, REI’s Independence Day sale has something for everyone.",
-      "publishedAt": "2026-06-27T10:06:00.000Z",
-      "image": "https://media.wired.com/photos/6a3f1ecf4c1af07ac240d486/191:100/w_1280,c_limit/The-37-Best-Outdoor-Deals-From-the-REI-4th-of-July-Sale.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings",
-      "link": "https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/",
-      "summary": "Factors like the short interval between the two powerful quakes and different types of soil led to some structures collapsing while others stayed standing.",
-      "publishedAt": "2026-06-27T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a3ef3589858133e592bac26/191:100/w_1280,c_limit/GettyImages-2282644793.jpg"
-    },
-    {
       "source": "TechCrunch",
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
@@ -314,28 +330,12 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024"
     },
     {
-      "source": "Wired",
-      "title": "The 28 Best Deals Under $100 Before Prime Day Ends",
-      "link": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
-      "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
-      "publishedAt": "2026-06-27T00:59:29.000Z",
-      "image": "https://media.wired.com/photos/6a3a2d6fb32bb5aac135070f/191:100/w_1280,c_limit/The-Best-Amazon-Prime-Day-Deals-Under-$100.jpg"
-    },
-    {
       "source": "TechCrunch",
       "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
       "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
       "summary": "Mesh came out of stealth in February with a $50 million Series A.",
       "publishedAt": "2026-06-27T00:38:34.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801"
-    },
-    {
-      "source": "Wired",
-      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-      "publishedAt": "2026-06-27T00:26:14.000Z",
-      "image": "https://media.wired.com/photos/6a31dd3da349dd0edc2c4b26/191:100/w_1280,c_limit/Anthropic-Restores-Fable-Access-Business.jpg"
     },
     {
       "source": "VentureBeat",
