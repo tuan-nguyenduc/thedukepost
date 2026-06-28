@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
 import { getCollection } from 'astro:content';
 import wireData from '../data/wire.json';
 import { faviconUrl } from '../lib/favicon';
@@ -76,6 +77,10 @@ const moreCards = [
     </section>
   )}
 
+  <section class="newsletter wrap">
+    <NewsletterForm />
+  </section>
+
   <section class="wire wrap">
     <div class="wire__header">
       <h2 class="section-title">⚡ The Wire</h2>
@@ -139,6 +144,8 @@ const moreCards = [
   }
 
   .more-articles { padding: 24px 24px 56px; }
+
+  .newsletter { padding: 48px 24px 24px; }
   .more-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));

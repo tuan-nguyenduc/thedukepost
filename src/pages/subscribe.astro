@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
+---
+
+<BaseLayout
+  title="Subscribe — The Duke Post"
+  description="Get new articles from The Duke Post delivered to your inbox. No spam, unsubscribe anytime."
+>
+  <section class="subscribe-page wrap">
+    <div class="subscribe-page__header">
+      <h1>Stay in the loop</h1>
+      <p class="subscribe-page__intro">Get the latest from The Duke Post delivered straight to your inbox. Original analysis, curated trends, and the context behind the headlines.</p>
+    </div>
+
+    <div class="subscribe-page__form-container">
+      <NewsletterForm />
+    </div>
+
+    <div class="subscribe-page__benefits">
+      <h2>What you'll get</h2>
+      <ul class="benefits-list">
+        <li>📰 New original articles from The Duke Post</li>
+        <li>🔥 The trends that matter (before they go mainstream)</li>
+        <li>✋ No spam. Unsubscribe anytime.</li>
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .subscribe-page {
+    padding: 60px 24px;
+    max-width: 680px;
+  }
+
+  .subscribe-page__header {
+    margin-bottom: 48px;
+    text-align: center;
+  }
+
+  .subscribe-page__header h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+
+  .subscribe-page__intro {
+    font-size: 18px;
+    color: var(--slate);
+    max-width: 60ch;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  .subscribe-page__form-container {
+    margin: 56px 0 56px;
+  }
+
+  .subscribe-page__benefits {
+    margin-top: 48px;
+    padding: 32px;
+    background: var(--paper);
+    border: 2px dashed var(--paper-line);
+    border-radius: 16px;
+  }
+
+  .subscribe-page__benefits h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+
+  .benefits-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .benefits-list li {
+    padding: 12px 0;
+    font-size: 16px;
+    color: var(--ink);
+  }
+
+  .benefits-list li + li {
+    border-top: 1px solid var(--paper-line);
+  }
+
+  @media (max-width: 560px) {
+    .subscribe-page {
+      padding: 40px 24px;
+    }
+
+    .subscribe-page__header h1 {
+      font-size: 36px;
+    }
+
+    .subscribe-page__benefits {
+      padding: 24px;
+    }
+  }
+</style>

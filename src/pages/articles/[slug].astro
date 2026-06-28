@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
 import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
@@ -71,6 +72,10 @@ const articleJsonLd = {
         </a>
       </div>
     </div>
+
+    <section class="article-newsletter">
+      <NewsletterForm className="article-newsletter__form" />
+    </section>
   </article>
 
   {relatedArticles.length > 0 && (
@@ -115,6 +120,9 @@ const articleJsonLd = {
   .share { margin-top: 48px; padding-top: 28px; border-top: 2px solid var(--paper-line); }
   .share__label { font-size: 13px; font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 0.03em; color: var(--slate); margin: 0 0 14px; }
   .share__buttons { display: flex; gap: 12px; }
+
+  .article-newsletter { margin-top: 56px; }
+  .article-newsletter__form { max-width: none; }
   .share__button {
     display: inline-flex;
     align-items: center;

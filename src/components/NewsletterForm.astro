@@ -1,0 +1,130 @@
+---
+interface Props {
+  className?: string;
+}
+
+const { className = '' } = Astro.props;
+---
+
+<form class={`newsletter-form ${className}`} action="https://buttondown.email/api/emails/embed-subscribe/thedukepost" method="post">
+  <div class="newsletter-form__wrapper">
+    <label for="bd-email" class="newsletter-form__label">Stay updated</label>
+    <p class="newsletter-form__description">Get new articles in your inbox</p>
+    <div class="newsletter-form__input-group">
+      <input
+        type="email"
+        id="bd-email"
+        name="email"
+        placeholder="you@example.com"
+        class="newsletter-form__input"
+        required
+      />
+      <button type="submit" class="newsletter-form__button">Subscribe</button>
+    </div>
+    <p class="newsletter-form__note">No spam. Unsubscribe anytime.</p>
+  </div>
+</form>
+
+<style>
+  .newsletter-form {
+    width: 100%;
+  }
+
+  .newsletter-form__wrapper {
+    padding: 40px 32px;
+    background: var(--paper);
+    border: 2px solid var(--ink);
+    border-radius: 16px;
+    box-shadow: 5px 5px 0 var(--ink);
+  }
+
+  .newsletter-form__label {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0 0 10px;
+  }
+
+  .newsletter-form__description {
+    font-size: 16px;
+    color: var(--slate);
+    margin: 0 0 24px;
+  }
+
+  .newsletter-form__input-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .newsletter-form__input {
+    flex: 1;
+    min-width: 0;
+    padding: 12px 16px;
+    font-family: var(--font-body);
+    font-size: 16px;
+    border: 2px solid var(--ink);
+    border-radius: 10px;
+    background: var(--paper);
+    color: var(--ink);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .newsletter-form__input::placeholder {
+    color: var(--slate);
+  }
+
+  .newsletter-form__input:focus {
+    outline: none;
+    border-color: var(--signal);
+    box-shadow: 0 0 0 3px rgba(255, 45, 120, 0.1);
+  }
+
+  .newsletter-form__button {
+    padding: 12px 24px;
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 600;
+    background: var(--signal);
+    color: var(--paper);
+    border: 2px solid var(--signal);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .newsletter-form__button:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 4px 4px 0 var(--signal);
+  }
+
+  .newsletter-form__button:focus-visible {
+    outline: 2px solid var(--signal);
+    outline-offset: 3px;
+  }
+
+  .newsletter-form__note {
+    font-size: 13px;
+    color: var(--slate);
+    margin: 0;
+    font-family: var(--font-mono);
+    letter-spacing: 0.02em;
+  }
+
+  @media (max-width: 560px) {
+    .newsletter-form__wrapper {
+      padding: 28px 20px;
+    }
+
+    .newsletter-form__input-group {
+      flex-direction: column;
+    }
+
+    .newsletter-form__button {
+      width: 100%;
+    }
+  }
+</style>
