@@ -1,6 +1,62 @@
 {
-  "syncedAt": "2026-06-28T19:25:06.238Z",
+  "syncedAt": "2026-06-28T21:05:12.670Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for i…",
+      "publishedAt": "2026-06-28T20:27:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "link": "https://github.com/kamaludu/bash4llm/",
+      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or…",
+      "publishedAt": "2026-06-28T19:43:10.000Z",
+      "image": "https://repository-images.githubusercontent.com/1137022555/f62dd142-2d98-4213-ba1f-f5f1e657df79"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "link": "https://github.com/JustVugg/nanoeuler",
+      "summary": "Hi everyone,\nI started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons…",
+      "publishedAt": "2026-06-28T19:38:14.000Z",
+      "image": "https://opengraph.githubassets.com/74fca98de619d83019d75800a8ad8d3d022840f3d5ea83974168f8e1c5f2ec92/JustVugg/nanoeuler"
+    },
+    {
+      "source": "Hacker News",
+      "title": "TOP500 at ISC'26: We Have a New Number 1 – By George Cozma",
+      "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "summary": "Article URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number\nComments URL: https://news.ycombinator.com/item?id=48710775\nPoints: 28\n# Comments: 11",
+      "publishedAt": "2026-06-28T19:38:00.000Z",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/sBmc3TjQhNM"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ford rehires 'gray beard' engineers after AI falls short",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/\nComments URL: https://news.ycombinator.com/item?id=48710749\nPoints: 100\n# Com…",
+      "publishedAt": "2026-06-28T19:35:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The US Used to Demand the Best Tech. Now We Ban It",
+      "link": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
+      "summary": "Article URL: https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it\nComments URL: https://news.ycombinator.com/item?id=48710437\nPoints: 51\n# Comments: 32",
+      "publishedAt": "2026-06-28T19:07:49.000Z",
+      "image": "https://i.pcmag.com/imagery/articles/04ltqIf4ihFMDfo38F0qNgS-1.fit_lim.size_1200x630.v1782561174.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Do LLMs pass the mirror test?",
+      "link": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+      "summary": "Article URL: https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test\nComments URL: https://news.ycombinator.com/item?id=48710414\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-06-28T19:06:07.000Z",
+      "image": null
+    },
     {
       "source": "TechCrunch",
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
@@ -8,6 +64,14 @@
       "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
       "publishedAt": "2026-06-28T19:05:39.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "link": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "summary": "http://i.stanford.edu/pub/cstr/reports/cs/tr/68/85/CS-TR-68-...\nComments URL: https://news.ycombinator.com/item?id=48710350\nPoints: 11\n# Comments: 0",
+      "publishedAt": "2026-06-28T18:59:53.000Z",
+      "image": "https://archive.org/services/img/colby1968-computer-aided-language-development-in-non-speaking-children"
     },
     {
       "source": "Ars Technica",
@@ -19,19 +83,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "Historical memory prices 1960-2026",
-      "link": "https://dam.stanford.edu/memory-prices.html",
-      "summary": "Article URL: https://dam.stanford.edu/memory-prices.html\nComments URL: https://news.ycombinator.com/item?id=48710092\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-06-28T18:32:53.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "The cost YAGNI was never about",
-      "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-      "summary": "Article URL: https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about\nComments URL: https://news.ycombinator.com/item?id=48710082\nPoints: 30\n# Comments: 8",
-      "publishedAt": "2026-06-28T18:31:54.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!hzhP!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftidyfirst.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1150222451%26version%3D9"
+      "title": "Librepods: AirPods liberated",
+      "link": "https://github.com/librepods-org/librepods",
+      "summary": "Article URL: https://github.com/librepods-org/librepods\nComments URL: https://news.ycombinator.com/item?id=48710232\nPoints: 143\n# Comments: 37",
+      "publishedAt": "2026-06-28T18:48:53.000Z",
+      "image": "https://repository-images.githubusercontent.com/863717537/80b4f2f1-52f9-4c3e-b32a-779933701089"
     },
     {
       "source": "Engadget",
@@ -50,8 +106,16 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/761C8qLyC2XS0ZV0CCiPFE/d92b04f5a5c0cec56a5612a13d3f7e35/u7277289442_A_modern_interpretation_of_cybersecurity._3D_--ar_f806db26-b93b-427c-b0c9-42caa83dfe92_0.png?w=300&q=30"
     },
     {
+      "source": "The Verge",
+      "title": "China claims the world&#8217;s fastest supercomputer",
+      "link": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "summary": "The LineShine supercomputer at the National Supercomputing Center in Shenzhen. | Photo: Liang Xu/Xinhua via Getty Images\t\n\nDespite trade restrictions, China has reclaimed the title…",
+      "publishedAt": "2026-06-28T17:20:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2283018388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "source": "TechCrunch",
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
       "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
       "summary": "Has Silicon Valley been building the wrong things?",
       "publishedAt": "2026-06-28T17:03:16.000Z",
@@ -66,30 +130,6 @@
       "image": "https://www.engadget.com/img/gallery/australia-doubles-the-maximum-penalty-for-its-social-media-ban/l-intro-1782665535.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "link": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "summary": "Article URL: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\nComments URL: https://news.ycombinator.com/item?id=48709187\nPoints: 49\n# Comments: 7",
-      "publishedAt": "2026-06-28T16:58:59.000Z",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwr0Vsnj1UuAJWn229_mBMPRg6E4JpX_jhbOUQTo00gTSHpVXRCDmY3SzMr9Qs46tAMdlzSXJFn5C8PLbPkKtn4_GtyIB-ytyD_h9b9u0-r0S_fL4IVoMLVt7RBO9OkQZ3ahw4p1ybokI3ucnJ3avc2dkFUGatYUTsPfvFEY2-cazKJSjes73VfqThHZ8/w1200-h630-p-k-no-nu/stallman-lemote-2.JPG"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: DRM-Free Books",
-      "link": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-      "summary": "After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are D…",
-      "publishedAt": "2026-06-28T16:58:56.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "summary": "Article URL: https://antoine.fi/mri-analysis-using-claude-code-opus\nComments URL: https://news.ycombinator.com/item?id=48708941\nPoints: 135\n# Comments: 214",
-      "publishedAt": "2026-06-28T16:35:19.000Z",
-      "image": "https://antoine.fi/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4LCJwdXIiOiJibG9iX2lkIn19--d3e6efb19dc4b4dc72f3345968d90c00d2d027fb/avatar.jpeg"
-    },
-    {
       "source": "The Verge",
       "title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
       "link": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
@@ -98,36 +138,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/jim-henson-the-cube.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Hacker News",
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "link": "https://www.openculture.com/2020/10/daisugi.html",
-      "summary": "https://x.com/wrathofgnon/status/1250287741247426565, https://xcancel.com/wrathofgnon/status/1250287741247426565\nComments URL: https://news.ycombinator.com/item?id=48708859\nPoints:…",
-      "publishedAt": "2026-06-28T16:28:50.000Z",
-      "image": "https://cdn8.openculture.com/2020/10/22225805/Daisugi.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-      "link": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing\nComments URL: https://news.ycombinator.com/item?id=48708795\nPoints: 41\n# Comments: 54",
-      "publishedAt": "2026-06-28T16:24:10.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!rp_Y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ca712f-fd31-4c79-94b3-5a0ebe81bdb3_800x786.jpeg"
-    },
-    {
       "source": "Engadget",
       "title": "Apple's touchscreen MacBook reportedly won't wait for the M7 chips",
       "link": "https://www.engadget.com/2203348/apple-touchscreen-macbook-launch-before-m7-chips/",
       "summary": "The new models will launch with the M5 Pro and M5 Max, according to Mark Gurman.",
       "publishedAt": "2026-06-28T16:20:44.000Z",
       "image": "https://www.engadget.com/img/gallery/apples-touchscreen-macbook-reportedly-wont-wait-for-the-m7-chips/l-intro-1782663379.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reflections on software engineering in the age of AI",
-      "link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-      "summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=48708721\nPoints: 62\n# Comments: 29",
-      "publishedAt": "2026-06-28T16:17:38.000Z",
-      "image": null
     },
     {
       "source": "TechCrunch",
@@ -298,14 +314,6 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5LGSLA7R28yeWuRev76Ial/a1f373359767487b9c6315ab18f28095/u7277289442_A_data_engineer_is_sitting_at_a_dashboard_with_ch_56764e66-764f-496b-bab2-2e7a55c1655c_0.png?w=300&q=30"
     },
     {
-      "source": "The Verge",
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images\t\n\nMaraget Atwood, the storied author of The Handmaid's Tale and The Blind Ass…",
-      "publishedAt": "2026-06-27T18:39:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Engadget",
       "title": "Are smart bulbs more expensive to run than standard LEDs?",
       "link": "https://www.engadget.com/2202949/are-smart-bulbs-more-expensive-to-run-than-standard-leds/",
@@ -328,14 +336,6 @@
       "summary": "Prime Day is officially over, but many of our favorite, hand-picked deals are still available through the weekend.",
       "publishedAt": "2026-06-27T18:01:21.000Z",
       "image": "https://media.wired.com/photos/6a396b1e518be327f36b3895/191:100/w_1280,c_limit/PRIME-DEALS.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by th…",
-      "publishedAt": "2026-06-27T17:28:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "source": "Ars Technica",
