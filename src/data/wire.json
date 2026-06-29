@@ -1,6 +1,54 @@
 {
-  "syncedAt": "2026-06-29T21:37:46.250Z",
+  "syncedAt": "2026-06-29T23:01:29.341Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/\nComments URL: https://news.ycombinator.com/item?id=48726…",
+      "publishedAt": "2026-06-29T22:21:00.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scientists find molecular-level evidence for two structures in liquid water",
+      "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "summary": "Article URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html\nComments URL: https://news.ycombinator.com/item?id=48726073\nPoints: 7\n# Comments: 1",
+      "publishedAt": "2026-06-29T22:18:26.000Z",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-find-molecu-1.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "There's now an OpenClaw app for iOS and Android phones",
+      "link": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/",
+      "summary": "Smartphones are welcoming the agentic AI overlords.",
+      "publishedAt": "2026-06-29T22:07:14.000Z",
+      "image": "https://www.engadget.com/img/gallery/theres-now-an-openclaw-app-for-ios-and-android-phones/l-intro-1782770668.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED fou…",
+      "publishedAt": "2026-06-29T21:49:26.000Z",
+      "image": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/191:100/w_1280,c_limit/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is It Out Yet?",
+      "link": "https://outyet.ai",
+      "summary": "Article URL: https://outyet.ai\nComments URL: https://news.ycombinator.com/item?id=48725397\nPoints: 23\n# Comments: 9",
+      "publishedAt": "2026-06-29T21:18:46.000Z",
+      "image": "https://outyet.ai/opengraph-image?825dc31203fb37b9"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+      "publishedAt": "2026-06-29T21:09:43.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png"
+    },
     {
       "source": "The Verge",
       "title": "T-Mobile is booting customers from its oldest plans",
@@ -29,9 +77,9 @@
       "source": "TechCrunch",
       "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
       "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor, Chamath Palihapitiya, is no exception.",
+      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
       "publishedAt": "2026-06-29T20:55:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+      "image": "https://techcrunch.com/wp-content/uploads/2015/10/chamath_palihapitiya_techcrunch_disrupt.jpg?resize=1200,800"
     },
     {
       "source": "Engadget",
@@ -141,9 +189,9 @@
       "source": "Hacker News",
       "title": "JumpServer: Open-Source Privileged Access Management",
       "link": "https://github.com/jumpserver/jumpserver",
-      "summary": "Article URL: https://github.com/jumpserver/jumpserver\nComments URL: https://news.ycombinator.com/item?id=48723677\nPoints: 29\n# Comments: 6",
+      "summary": "Article URL: https://github.com/jumpserver/jumpserver\nComments URL: https://news.ycombinator.com/item?id=48723677\nPoints: 42\n# Comments: 11",
       "publishedAt": "2026-06-29T19:06:17.000Z",
-      "image": "https://opengraph.githubassets.com/ffdd948f8143915adfbcc80723ba15905f56bd4dd31203bf4727d92e7d0b3b6a/jumpserver/jumpserver"
+      "image": "https://opengraph.githubassets.com/4e0ec28d153b80516ec6ac8492f7007b318caea8e265c9e542d5caac8d8430d1/jumpserver/jumpserver"
     },
     {
       "source": "Ars Technica",
@@ -165,7 +213,7 @@
       "source": "Hacker News",
       "title": ".garden TLD's change to a bad neighborhood",
       "link": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
-      "summary": "Article URL: https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627\nComments URL: https://news.ycombinator.com/item?id=48723452\nPoints: 26\n# Comments: 19",
+      "summary": "Article URL: https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627\nComments URL: https://news.ycombinator.com/item?id=48723452\nPoints: 32\n# Comments: 21",
       "publishedAt": "2026-06-29T18:49:41.000Z",
       "image": "https://discourse.ifin.network/uploads/default/original/1X/6824644240c7d8465c68fc044fe67b4020d74a7d.png"
     },
@@ -229,7 +277,7 @@
       "source": "Hacker News",
       "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
       "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "summary": "Article URL: https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models\nComments URL: https://news.ycombinator.com/item?id=48722802\nPoints: 30\n# Comments: 9",
+      "summary": "Article URL: https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models\nComments URL: https://news.ycombinator.com/item?id=48722802\nPoints: 39\n# Comments: 11",
       "publishedAt": "2026-06-29T18:03:26.000Z",
       "image": "https://vllm.ai/blog-assets/figures/2026-06-29-micro-agent-frontier-models/looper-micro-agents.png"
     },
@@ -282,28 +330,12 @@
       "image": "https://www.engadget.com/img/gallery/the-lg-stanbyme-2-max-is-a-standalone-32-inch-touchscreen-display-that-costs-1300/l-intro-1782753977.jpg"
     },
     {
-      "source": "Engadget",
-      "title": "Tidal isn't banning AI music, but it won't pay people who upload it",
-      "link": "https://www.engadget.com/2204169/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it/",
-      "summary": "Tidal's new policy says that 100-percent AI-generated music will be demonetized.",
-      "publishedAt": "2026-06-29T17:23:36.000Z",
-      "image": "https://www.engadget.com/img/gallery/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it/l-intro-1782753753.jpg"
-    },
-    {
       "source": "Hacker News",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "link": "https://github.com/deepreinforce-ai/Ornith-1",
-      "summary": "Article URL: https://github.com/deepreinforce-ai/Ornith-1\nComments URL: https://news.ycombinator.com/item?id=48722052\nPoints: 103\n# Comments: 24",
+      "summary": "Article URL: https://github.com/deepreinforce-ai/Ornith-1\nComments URL: https://news.ycombinator.com/item?id=48722052\nPoints: 123\n# Comments: 27",
       "publishedAt": "2026-06-29T17:16:17.000Z",
-      "image": "https://opengraph.githubassets.com/58b5f7b0d55f437dd7e01e654bcba78a27f019287adeac0907f99650a04ac9f4/deepreinforce-ai/Ornith-1"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "summary": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/\nComments URL: https://news.ycombinator.com/item?id=48721903\nPoints: 430\n# Comments: 398",
-      "publishedAt": "2026-06-29T17:05:16.000Z",
-      "image": "https://quesma.com/_astro/thermal_master_p3_macbook.DJG2GL38.jpg"
+      "image": "https://opengraph.githubassets.com/7ed420972fc077aa78712af0a1be74d97a1af6e1b2656999a9e34666651470e5/deepreinforce-ai/Ornith-1"
     },
     {
       "source": "TechCrunch",
@@ -330,36 +362,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Hacker News",
-      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
-      "link": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "summary": "Article URL: https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/\nComments URL: https://news.ycombinator.com/item?id=48721072\nPoints:…",
-      "publishedAt": "2026-06-29T16:07:15.000Z",
-      "image": "https://torrentfreak.com/images/wall-feat.jpg"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
-      "link": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
-      "summary": "A heatwave, engine upgrades, plus power levels for the next two seasons.",
-      "publishedAt": "2026-06-29T16:04:52.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2283223352.jpg"
-    },
-    {
       "source": "Wired",
       "title": "Usernames Are Coming to WhatsApp Soon. Here's How to Reserve Yours",
       "link": "https://www.wired.com/story/how-to-reserve-your-whatsapp-username-before-it-goes-live/",
       "summary": "Even if you only use WhatsApp sometimes, you might want to snag your username now to stop giving out your phone number.",
       "publishedAt": "2026-06-29T16:00:00.000Z",
       "image": "https://media.wired.com/photos/6a3d5a09979872ef6f4ad98a/191:100/w_1280,c_limit/English_WhatsApp_usernames-reservation-2%20copy.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision\nComments URL: https://news.ycombinator.com/item?id=48720924\nPoints: 327\n#…",
-      "publishedAt": "2026-06-29T15:54:24.000Z",
-      "image": "https://i.guim.co.uk/img/media/ddb87e813bdb11401cf5abac3654ec9ff5b15d85/328_0_5001_4002/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4dde1080bea475527e46e854344cca12"
     },
     {
       "source": "MIT Technology Review",
@@ -416,14 +424,6 @@
       "summary": "Europe’s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.",
       "publishedAt": "2026-06-29T10:00:00.000Z",
       "image": "https://media.wired.com/photos/6a3e7dd97fffaa9389f1dae8/191:100/w_1280,c_limit/GettyImages-1946110758.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "Everyone’s Mad at the World Cup’s New ‘Hydration Breaks’—Except Mr. Moneybags Over Here",
-      "link": "https://www.wired.com/story/world-cup-new-hydration-breaks-are-about-more-than-water/",
-      "summary": "FIFA says hydration breaks protect players from heat. They also create new annoying commercial breaks—and fans are calling foul.",
-      "publishedAt": "2026-06-29T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a3eaa8c3884f1ffb5fc9b5e/191:100/w_1280,c_limit/GettyImages-2283020121.jpg"
     },
     {
       "source": "VentureBeat",
