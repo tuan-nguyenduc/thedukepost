@@ -1,0 +1,175 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { categoryHref, categoryLabel } from '../lib/categories';
+---
+<BaseLayout title="Search — The Duke Post" description="Search articles on The Duke Post.">
+  <section class="search-page wrap">
+    <h1 class="search-title">Search</h1>
+    <div class="search-box">
+      <input
+        id="search-input"
+        type="search"
+        placeholder="Search articles…"
+        autocomplete="off"
+        autofocus
+        aria-label="Search articles"
+      />
+    </div>
+    <p id="search-status" class="search-status" aria-live="polite"></p>
+    <ul id="search-results" class="results-list" role="list"></ul>
+  </section>
+</BaseLayout>
+
+<script>
+  import Fuse from 'fuse.js';
+
+  interface Article {
+    slug: string;
+    title: string;
+    description: string;
+    category: string;
+    author: string;
+    pubDate: string;
+  }
+
+  const input = document.getElementById('search-input') as HTMLInputElement;
+  const resultsList = document.getElementById('search-results') as HTMLUListElement;
+  const status = document.getElementById('search-status') as HTMLParagraphElement;
+
+  let fuse: Fuse<Article> | null = null;
+
+  async function init() {
+    const res = await fetch('/search-index.json');
+    const articles: Article[] = await res.json();
+    fuse = new Fuse(articles, {
+      keys: [
+        { name: 'title', weight: 2 },
+        { name: 'description', weight: 1 },
+        { name: 'category', weight: 0.5 },
+      ],
+      threshold: 0.4,
+      includeMatches: true,
+    });
+
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q') ?? '';
+    if (q) {
+      input.value = q;
+      runSearch(q);
+    }
+  }
+
+  function categoryLabel(cat: string): string {
+    const labels: Record<string, string> = {
+      ai: 'AI', gadgets: 'Gadgets', startups: 'Startups',
+      security: 'Security', opinion: 'Opinion', general: 'General',
+    };
+    return labels[cat] ?? cat;
+  }
+
+  function renderResults(results: Fuse.FuseResult<Article>[]) {
+    if (results.length === 0) {
+      resultsList.innerHTML = '';
+      status.textContent = 'No articles found.';
+      return;
+    }
+    status.textContent = `${results.length} result${results.length === 1 ? '' : 's'}`;
+    resultsList.innerHTML = results.map(({ item }) => `
+      <li class="result-item">
+        <a href="/articles/${item.slug}" class="result-card sticker">
+          <span class="result-meta">
+            <span class="eyebrow">${categoryLabel(item.category)}</span>
+            <span class="byline">${item.pubDate}</span>
+          </span>
+          <h2 class="result-title">${item.title}</h2>
+          <p class="result-desc">${item.description}</p>
+        </a>
+      </li>
+    `).join('');
+  }
+
+  function runSearch(query: string) {
+    if (!fuse) return;
+    const q = query.trim();
+    if (!q) {
+      resultsList.innerHTML = '';
+      status.textContent = '';
+      return;
+    }
+    renderResults(fuse.search(q));
+    const url = new URL(window.location.href);
+    url.searchParams.set('q', q);
+    window.history.replaceState(null, '', url.toString());
+  }
+
+  input.addEventListener('input', () => runSearch(input.value));
+
+  init();
+</script>
+
+<style>
+  .search-page {
+    padding: 48px 24px 80px;
+    max-width: 720px;
+  }
+  .search-title {
+    font-size: clamp(32px, 5vw, 48px);
+    margin-bottom: 28px;
+  }
+  .search-box {
+    margin-bottom: 16px;
+  }
+  #search-input {
+    width: 100%;
+    padding: 14px 18px;
+    font-size: 18px;
+    font-family: var(--font-body);
+    background: var(--paper);
+    color: var(--ink);
+    border: 2px solid var(--ink);
+    border-radius: 12px;
+    box-shadow: 4px 4px 0 var(--ink);
+    outline: none;
+    transition: box-shadow 0.15s ease;
+  }
+  #search-input:focus {
+    box-shadow: 4px 4px 0 var(--signal);
+    border-color: var(--signal);
+  }
+  .search-status {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--slate);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 0 0 24px;
+    min-height: 18px;
+  }
+  .results-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .result-card {
+    display: block;
+    padding: 22px 24px;
+  }
+  .result-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+  }
+  .result-title {
+    font-size: 22px;
+    margin-bottom: 8px;
+  }
+  .result-desc {
+    color: var(--slate);
+    font-size: 15px;
+    margin: 0;
+  }
+</style>
