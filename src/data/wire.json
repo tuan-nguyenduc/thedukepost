@@ -1,11 +1,11 @@
 {
-  "syncedAt": "2026-06-30T19:26:17.778Z",
+  "syncedAt": "2026-06-30T20:10:48.099Z",
   "items": [
     {
       "source": "TechCrunch",
       "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
       "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-      "summary": "Realta Fusion showed it could generate electricity from a fusion reaction, no steam turbine required.",
+      "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
       "publishedAt": "2026-06-30T19:12:43.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/realta-fusion-dec-demo.jpg?resize=1200,675",
       "sourceCount": 1,
@@ -19,8 +19,14 @@
       "summary": "Google is upgrading its AI image generation capabilities today with the debut of Nano Banana 2 (NB2) Lite, an optimized model built for rapid execution and tight infrastructure bud…",
       "publishedAt": "2026-06-30T16:06:00.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1SspsnZP2DbcuyWnSv0NZE/b152191ee0294e13bfca282555bf3300/Gemini_Generated_Image_dcilhudcilhudcil.png?w=300&q=30",
-      "sourceCount": 3,
+      "sourceCount": 4,
       "related": [
+        {
+          "source": "Hacker News",
+          "title": "Nano Banana 2 Lite",
+          "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "publishedAt": "2026-06-30T16:48:37.000Z"
+        },
         {
           "source": "Ars Technica",
           "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
@@ -37,21 +43,10 @@
       "latestActivity": "2026-06-30T19:02:38.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
-      "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
-      "summary": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $…",
-      "publishedAt": "2026-06-30T18:42:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/lgoledwoledmain.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T18:42:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
       "link": "https://apparent.social/heat-map",
-      "summary": "Article URL: https://apparent.social/heat-map\nComments URL: https://news.ycombinator.com/item?id=48737302\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://apparent.social/heat-map\nComments URL: https://news.ycombinator.com/item?id=48737302\nPoints: 18\n# Comments: 10",
       "publishedAt": "2026-06-30T18:38:26.000Z",
       "image": "/apparent-wordmark.png",
       "sourceCount": 1,
@@ -64,7 +59,7 @@
       "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
       "summary": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
       "publishedAt": "2026-06-30T18:34:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/IMG_0676.jpg?resize=1200,900",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/clicks-communicator.jpg?resize=1200,677",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T18:34:22.000Z"
@@ -103,17 +98,6 @@
       "latestActivity": "2026-06-30T18:25:10.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
-      "link": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
-      "summary": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franc…",
-      "publishedAt": "2026-06-30T18:14:05.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7683959b09f7863c5eb23bfdbcf039269765b5d6.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T18:14:05.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
       "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
@@ -139,9 +123,9 @@
       "source": "Hacker News",
       "title": "Claude Sonnet 5",
       "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5\nComments URL: https://news.ycombinator.com/item?id=48736605\nPoints: 406\n# Comments: 202",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5\nComments URL: https://news.ycombinator.com/item?id=48736605\nPoints: 524\n# Comments: 272",
       "publishedAt": "2026-06-30T17:59:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
       "sourceCount": 3,
       "related": [
         {
@@ -171,17 +155,6 @@
       "latestActivity": "2026-06-30T17:52:46.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
-      "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
-      "summary": "For now, only the “Laurel Oak” color option is available for $20, not the “Arabesque” color. | Image: Motorola\t\n\nAnnounced at CES 2026, the Moto Tag 2 has finally arrived in the US…",
-      "publishedAt": "2026-06-30T17:38:23.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/mototag2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T17:38:23.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
       "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
@@ -196,7 +169,7 @@
       "source": "Hacker News",
       "title": "I built a mmWave material classification radar",
       "link": "https://gauthier-lechevalier.com/radar",
-      "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 48\n# Comments: 14",
+      "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 70\n# Comments: 24",
       "publishedAt": "2026-06-30T17:29:36.000Z",
       "image": null,
       "sourceCount": 1,
@@ -204,37 +177,15 @@
       "latestActivity": "2026-06-30T17:29:36.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real compet…",
-      "publishedAt": "2026-06-30T17:19:15.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T17:19:15.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Claude Science",
       "link": "https://claude.com/product/claude-science",
-      "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 158\n# Comments: 64",
+      "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 205\n# Comments: 80",
       "publishedAt": "2026-06-30T17:07:41.000Z",
       "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T17:07:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
-      "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
-      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press re…",
-      "publishedAt": "2026-06-30T17:04:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T17:04:14.000Z"
     },
     {
       "source": "The Verge",
@@ -293,20 +244,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "We Are the Last People Who Know How It Works",
-      "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-      "summary": "Article URL: https://unix.foo/posts/last-people-who-know-how-it-works/\nComments URL: https://news.ycombinator.com/item?id=48735633\nPoints: 179\n# Comments: 117",
-      "publishedAt": "2026-06-30T16:59:00.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T16:59:00.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Xsnow \"protestware\" in Debian",
       "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/\nComments URL: https://news.ycombinator.com/item?id=48735554\nPoints: 87\n# Comments: 64",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/\nComments URL: https://news.ycombinator.com/item?id=48735554\nPoints: 101\n# Comments: 87",
       "publishedAt": "2026-06-30T16:54:41.000Z",
       "image": null,
       "sourceCount": 1,
@@ -358,6 +298,17 @@
       "latestActivity": "2026-06-30T16:03:44.000Z"
     },
     {
+      "source": "The Verge",
+      "title": "What is a quantum computer good for? Absolutely nothing — yet",
+      "link": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
+      "summary": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant…",
+      "publishedAt": "2026-06-30T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268596_Quantum_computing_CVirginia_V1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T16:00:00.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "The Super Mario Galaxy Movie launches onto Peacock on July 30",
       "link": "https://www.engadget.com/2205013/the-super-mario-galaxy-movie-launches-onto-peacock-on-july-30/",
@@ -378,6 +329,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T15:38:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Libby will filter out AI content, kind of",
+      "link": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\n\"AI is the new…",
+      "publishedAt": "2026-06-30T15:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T15:30:00.000Z"
     },
     {
       "source": "Engadget",
@@ -402,6 +364,17 @@
       "latestActivity": "2026-06-30T15:18:08.000Z"
     },
     {
+      "source": "The Verge",
+      "title": "The Supreme Court stops Trump&#8217;s attempt to end birthright citizenship",
+      "link": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+      "summary": "The Supreme Court upheld birthright citizenship, ruling 6-3 against President Donald Trump's effort to end the longstanding constitutional right via executive order.\nBirthright cit…",
+      "publishedAt": "2026-06-30T14:44:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301216/STK463_SCOTUS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T14:44:42.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "Google's Gmail Live AI feature is now available in beta",
       "link": "https://www.engadget.com/2204880/google-gmail-live-ai-feature-is-now-available-in-beta/",
@@ -422,6 +395,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T14:12:54.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
+      "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+      "summary": "Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spotted earlier by MacRumors. An account imitating leaker EvL…",
+      "publishedAt": "2026-06-30T13:57:41.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T13:57:41.000Z"
     },
     {
       "source": "Ars Technica",
@@ -488,6 +472,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T12:10:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "summary": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulminate at Bill Savitt during Musk v. Altma…",
+      "publishedAt": "2026-06-30T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T12:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
