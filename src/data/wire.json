@@ -1,6 +1,102 @@
 {
-  "syncedAt": "2026-06-30T07:56:38.279Z",
+  "syncedAt": "2026-06-30T11:15:26.798Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
+      "link": "https://www.wired.com/review/bitdefender-vpn/",
+      "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
+      "publishedAt": "2026-06-30T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a42affc6262e4d897071945/191:100/w_1280,c_limit/bitdefender3.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "European digital ID wallets are a gift to Google and Apple",
+      "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "summary": "Article URL: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/\nComments URL: https://news.ycombinator.com/item?id=48730729\nPoints: 6\n# Comments: 1",
+      "publishedAt": "2026-06-30T10:36:23.000Z",
+      "image": "https://cms.waag.org/sites/waag/files/styles/1200x630/public/2026-06/scherm-afbeelding_2026-06-23_om_10.31.35.png"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I spent 6 days building my VDOM library as I hated how React handles memo",
+      "link": "https://vflash.github.io/Tyaff/",
+      "summary": "Article URL: https://vflash.github.io/Tyaff/\nComments URL: https://news.ycombinator.com/item?id=48730720\nPoints: 6\n# Comments: 5",
+      "publishedAt": "2026-06-30T10:35:29.000Z",
+      "image": null
+    },
+    {
+      "source": "The Verge",
+      "title": "This motor could be the future of e-bikes",
+      "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+      "summary": "The Avinox MG Concept MGU coming next year. | Image: Avinox\t\n\nImagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears…",
+      "publishedAt": "2026-06-30T10:30:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MG.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Wired",
+      "title": "Bernie Sanders Saw This Coming",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reach…",
+      "publishedAt": "2026-06-30T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building tech in the world’s secret R&D hub",
+      "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concen…",
+      "publishedAt": "2026-06-30T10:23:30.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GZA-Big-Tech-Map-MIIT-Review_with-Focus-Lense.png"
+    },
+    {
+      "source": "Wired",
+      "title": "How Hunter Biden Won the Internet",
+      "link": "https://www.wired.com/story/how-hunter-biden-won-the-internet/",
+      "summary": "WIRED spent months talking to America’s favorite failson as he plotted his return to public life. Now he’s feeding the trolls—and everyone else.",
+      "publishedAt": "2026-06-30T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a430fd7ab0f689c57e00404/191:100/w_1280,c_limit/HunterBiden_WEB_DSC0702.jpg"
+    },
+    {
+      "source": "Engadget",
+      "title": "Proton's privacy-focused Lumo chatbot gets image generation",
+      "link": "https://www.engadget.com/2204704/proton-lumo-2-0-image-generation/",
+      "summary": "Proton has launched a major upgrade for its Lumo chatbot, giving it image generation and editing capabilities.",
+      "publishedAt": "2026-06-30T10:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/protons-privacy-focused-lumo-chatbot-gets-image-generation/l-intro-1782810599.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "Our best look yet at Samsung’s new wide foldable",
+      "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
+      "summary": "Case designs for the wide-style Galaxy Z Fold 8 have appeared online, and some show the phone inside them. | Image: Android Headlines\t\n\nSamsung is expected to unveil its next gener…",
+      "publishedAt": "2026-06-30T09:54:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Samsung-Galaxy-Z-Fold-8-Wide-leak-case-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Wired",
+      "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
+      "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
+      "summary": "The maps and images show the extent of destruction and give rescue operations a tool to find any remaining survivors.",
+      "publishedAt": "2026-06-30T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a42ffe448c440f683e2b40c/191:100/w_1280,c_limit/venezueladestruccion.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "link": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "summary": "Article URL: https://antaresindustries.com/updates/antares-achieves-criticality\nComments URL: https://news.ycombinator.com/item?id=48730246\nPoints: 21\n# Comments: 4",
+      "publishedAt": "2026-06-30T09:15:21.000Z",
+      "image": "https://framerusercontent.com/assets/joWFqD7ebQaUT1ODdUV7ojqTons.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/okx-ai.jpg?resize=1200,800"
+    },
     {
       "source": "Wired",
       "title": "Want to Boost Your Home’s Resale Value? Install a Heat Pump",
@@ -19,17 +115,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
-      "link": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
-      "summary": "Article URL: https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers\nComments URL: https://news.ycombinator.com/item?id=48728740\nPoints: 62\n# Comments: 25",
-      "publishedAt": "2026-06-30T05:17:02.000Z",
-      "image": "https://noyb.eu/sites/default/files/styles/facebook/public/2026-05/header_EU-US-Data-Transfers_0.jpg?h=c9a3a702&itok=ih1PTPh3"
-    },
-    {
-      "source": "Hacker News",
       "title": "Popping the GPU Bubble",
       "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
-      "summary": "Article URL: https://moondream.ai/blog/popping-the-gpu-bubble\nComments URL: https://news.ycombinator.com/item?id=48728729\nPoints: 95\n# Comments: 18",
+      "summary": "Article URL: https://moondream.ai/blog/popping-the-gpu-bubble\nComments URL: https://news.ycombinator.com/item?id=48728729\nPoints: 145\n# Comments: 36",
       "publishedAt": "2026-06-30T05:14:35.000Z",
       "image": "https://moondream.ai/images/blog/popping-the-gpu-bubble/cover.jpg"
     },
@@ -37,7 +125,7 @@
       "source": "Hacker News",
       "title": "The end of the AArch64 desktop experiment",
       "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-      "summary": "Article URL: https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/\nComments URL: https://news.ycombinator.com/item?id=48728599\nPoints: 20\n# Commen…",
+      "summary": "Article URL: https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/\nComments URL: https://news.ycombinator.com/item?id=48728599\nPoints: 67\n# Commen…",
       "publishedAt": "2026-06-30T04:51:12.000Z",
       "image": "https://marcin.juszkiewicz.com.pl/files/images/hrw-192.jpg"
     },
@@ -61,7 +149,7 @@
       "source": "Hacker News",
       "title": "Exploring PDP-1 Lisp (1960)",
       "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 56\n# Comments: 16",
+      "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 78\n# Comments: 19",
       "publishedAt": "2026-06-30T00:56:42.000Z",
       "image": null
     },
@@ -69,7 +157,7 @@
       "source": "Hacker News",
       "title": "Memory Safe Context Switching",
       "link": "https://fil-c.org/context_switches",
-      "summary": "Article URL: https://fil-c.org/context_switches\nComments URL: https://news.ycombinator.com/item?id=48727177\nPoints: 102\n# Comments: 23",
+      "summary": "Article URL: https://fil-c.org/context_switches\nComments URL: https://news.ycombinator.com/item?id=48727177\nPoints: 141\n# Comments: 25",
       "publishedAt": "2026-06-30T00:38:19.000Z",
       "image": null
     },
@@ -77,7 +165,7 @@
       "source": "Hacker News",
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "link": "https://longcat.chat/blog/longcat-2.0/",
-      "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/\nComments URL: https://news.ycombinator.com/item?id=48727116\nPoints: 113\n# Comments: 33",
+      "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/\nComments URL: https://news.ycombinator.com/item?id=48727116\nPoints: 159\n# Comments: 46",
       "publishedAt": "2026-06-30T00:30:11.000Z",
       "image": "https://s3plus.meituan.net/aigc-media-resources/longcat/big-cat-logo.png"
     },
@@ -88,14 +176,6 @@
       "summary": "Some of Apple's corporate secrets aren't so secret any more.",
       "publishedAt": "2026-06-29T23:06:30.000Z",
       "image": "https://www.engadget.com/img/gallery/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/l-intro-1782774264.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/\nComments URL: https://news.ycombinator.com/item?id=48726…",
-      "publishedAt": "2026-06-29T22:21:00.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png"
     },
     {
       "source": "Engadget",
@@ -218,16 +298,8 @@
       "image": "https://www.engadget.com/img/gallery/google-expands-personalized-intelligence-to-gemini-app-image-creation/l-intro-1782763246.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "summary": "Article URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\nComments URL: https://news.ycombinator.com/item?id…",
-      "publishedAt": "2026-06-29T19:49:28.000Z",
-      "image": null
-    },
-    {
       "source": "The Verge",
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on…",
       "publishedAt": "2026-06-29T19:47:35.000Z",
@@ -306,14 +378,6 @@
       "image": "https://www.engadget.com/img/gallery/heres-why-you-shouldnt-plug-a-power-strip-into-a-smart-plug/l-intro-1782741228.jpg"
     },
     {
-      "source": "Engadget",
-      "title": "MacBook Ultra rumors: What to expect including the touchscreen, chips, release date and more",
-      "link": "https://www.engadget.com/2204268/macbook-ultra-rumors/",
-      "summary": "Apple's rumored touchscreen MacBook may launch soon, here's what to expect.",
-      "publishedAt": "2026-06-29T18:23:18.000Z",
-      "image": "https://www.engadget.com/img/gallery/macbook-ultra-rumors-what-to-expect-including-the-touchscreen-chips-release-date-and-more/l-intro-1782756805.jpg"
-    },
-    {
       "source": "Ars Technica",
       "title": "Google warns EU's plans to weaken its monopoly could expose user data",
       "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
@@ -328,14 +392,6 @@
       "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
       "publishedAt": "2026-06-29T18:10:26.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "publishedAt": "2026-06-29T18:07:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-455242307_8b18ff.jpg?resize=1200,800"
     },
     {
       "source": "MIT Technology Review",
@@ -354,28 +410,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Libra-internals44-copy-1152x648.jpeg"
     },
     {
-      "source": "The Verge",
-      "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
-      "link": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
-      "summary": "The iPad Air supports Apple Pencil Pro, plus hover support. | ﻿Photo: Antonio G. Di Benedetto, The Verge\t\n\nMost of Apple’s price increases have gone into effect, resulting in iPads…",
-      "publishedAt": "2026-06-29T17:49:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/257606_iPad_air_ADiBenedetto_0001.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "VentureBeat",
       "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
       "link": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
       "summary": "A single fake error report hijacked Claude Code in controlled testing — the agent ran the attacker's code with the developer's full privileges, and not one alert fired. EDR, WAF, I…",
       "publishedAt": "2026-06-29T16:53:14.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6di1wa5fhWEfFyVhOuFc0/d26a92a3d31716e3c020864f400459f0/hero.png?w=300&q=30"
-    },
-    {
-      "source": "The Verge",
-      "title": "The best July 4th sales we found so far",
-      "link": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
-      "summary": "The Govee Uplighter in action. | Image: Govee\t\n\nJuly 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this…",
-      "publishedAt": "2026-06-29T16:42:48.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "source": "Wired",
@@ -394,44 +434,12 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Report-2026-cover.png"
     },
     {
-      "source": "Wired",
-      "title": "The Busy Bar Is a Gadget to Get People to Leave You Alone",
-      "link": "https://www.wired.com/story/busy-bar-is-a-gadget-to-get-people-to-leave-you-alone/",
-      "summary": "Flipper Devices, a company that built a banned hacking device, now wants to hack your attention span.",
-      "publishedAt": "2026-06-29T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a3e755d5cdc2b309c97a471/191:100/w_1280,c_limit/BSB%20M1%20Shop%20Nov25%20mounted%20screen%20v1%20251117%2001%20(1)%20copy.jpg"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: metric weaknesses and AI elephant warnings",
       "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There a…",
       "publishedAt": "2026-06-29T12:10:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1159500434.jpg?w=3000"
-    },
-    {
-      "source": "Wired",
-      "title": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
-      "link": "https://www.wired.com/story/the-robin-byrd-show/",
-      "summary": "The 1970s porn actress turned New York City late night public access queen says censorship and a lack of star quality among modern adult entertainers turned her off of the industry…",
-      "publishedAt": "2026-06-29T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a3eba5b1216f519934d7703/191:100/w_1280,c_limit/Robin-Byrd-Interview-Culture-MCDBAMY_H7003.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App",
-      "link": "https://www.wired.com/review/yeasound-ric800-hearing-aids/",
-      "summary": "With AI-powered noise reduction, an automatic speech-focusing system, and a simple, effective hearing test, it’s a shame these aids don't come with a better app.",
-      "publishedAt": "2026-06-29T10:33:00.000Z",
-      "image": "https://media.wired.com/photos/6a3f384aeaf98432f689e3e1/191:100/w_1280,c_limit/Review--Yeasound-RIC800-Hearing-Aids.jpg"
-    },
-    {
-      "source": "Wired",
-      "title": "The Anti-Data-Center Movement Is Reshaping Michigan Politics",
-      "link": "https://www.wired.com/story/anti-data-center-movement-reshaping-michigan-politics/",
-      "summary": "Climate activist Will Lawrence cofounded the Sunrise Movement. Now, he has shifted his focus in his attempt to compete for a swing-district seat by calling for a data center morato…",
-      "publishedAt": "2026-06-29T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a3ea5c91e35b245eb758885/191:100/w_1280,c_limit/GettyImages-2275015619.jpg"
     },
     {
       "source": "VentureBeat",
@@ -496,14 +504,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down pow…",
       "publishedAt": "2026-06-25T12:10:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2021/08/SO21_TR_20210804-personal-0001-thumb.jpg?w=2509"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What Europe’s heat wave means for the power grid",
-      "link": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-      "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shu…",
-      "publishedAt": "2026-06-25T10:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_extremeheat.jpg?resize=1200,600"
     }
   ]
 }
