@@ -24,6 +24,12 @@ const MAX_ITEMS_PER_FEED = 8;
 const MAX_SUMMARY_LENGTH = 180;
 const IMAGE_FETCH_CONCURRENCY = 12;
 const IMAGE_FETCH_TIMEOUT_MS = 4000;
+// Stories from different outlets only get grouped if they were published
+// within this many hours of each other — keeps us from merging an old
+// retrospective with today's breaking news just because the wording rhymes.
+const CLUSTER_WINDOW_MS = 30 * 60 * 60 * 1000;
+const CLUSTER_MIN_SHARED_TOKENS = 3;
+const CLUSTER_MIN_OVERLAP_RATIO = 0.45;
 // Hard ceiling on the whole image-fetching phase. Some hosts can leave a
 // connection open without ever resolving or rejecting, which AbortSignal
 // doesn't always cut off reliably in CI — this guarantees the script moves
@@ -46,6 +52,107 @@ function decodeHtmlEntities(text) {
     .replace(/&#0?39;/g, "'")
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>');
+}
+
+const STOPWORDS = new Set([
+  'the', 'a', 'an', 'of', 'to', 'in', 'on', 'for', 'with', 'and', 'or', 'is',
+  'are', 'was', 'were', 'be', 'been', 'being', 'by', 'at', 'from', 'as', 'it',
+  'its', 'this', 'that', 'these', 'those', 'has', 'have', 'had', 'will',
+  'would', 'can', 'could', 'should', 'may', 'might', 'about', 'into', 'over',
+  'after', 'before', 'up', 'down', 'out', 'off', 'than', 'then', 'but', 'not',
+  'no', 'do', 'does', 'did', 'you', 'your', 'we', 'our', 'they', 'their',
+  'his', 'her', 'he', 'she', 'who', 'what', 'when', 'why', 'how', 'all',
+  'more', 'most', 'some', 'just', 'here', 'says', 'said', 'report', 'reports',
+  'reportedly', 'new', 'amid', 'now', 'latest', 'one', 'first', 'still',
+]);
+
+// Reduces a headline to the words that actually distinguish its story, so
+// two outlets' takes on the same event end up with comparable token sets.
+// Numbers (model names, version numbers) are kept even when short, since
+// "iPhone 17" vs "iPhone 16" hinges on a one-character token.
+function tokenize(title) {
+  return new Set(
+    title
+      .toLowerCase()
+      .replace(/[^a-z0-9\s]/g, ' ')
+      .split(/\s+/)
+      .filter((word) => word && (word.length >= 3 || /\d/.test(word)) && !STOPWORDS.has(word))
+  );
+}
+
+function tokenOverlap(a, b) {
+  let shared = 0;
+  for (const token of a) {
+    if (b.has(token)) shared++;
+  }
+  return { shared, ratio: shared / Math.min(a.size, b.size) };
+}
+
+// Greedily groups headlines that are very likely covering the same story:
+// published close together in time, from different outlets, with enough
+// distinctive shared vocabulary. This is a cheap heuristic (no embeddings/
+// LLM calls), so it favors precision over recall — missing a match just
+// means two cards instead of one, but a false match would misleadingly
+// attribute one outlet's story to another.
+function clusterStories(items) {
+  const byTime = [...items].sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt));
+  const clusters = [];
+
+  for (const item of byTime) {
+    const tokens = tokenize(item.title);
+    const publishedTime = new Date(item.publishedAt).getTime();
+    let bestCluster = null;
+    let bestRatio = 0;
+
+    for (const cluster of clusters) {
+      if (publishedTime - cluster.lastTime > CLUSTER_WINDOW_MS) continue;
+      if (cluster.sources.has(item.source)) continue;
+      for (const member of cluster.members) {
+        const { shared, ratio } = tokenOverlap(tokens, member.tokens);
+        if (shared >= CLUSTER_MIN_SHARED_TOKENS && ratio >= CLUSTER_MIN_OVERLAP_RATIO && ratio > bestRatio) {
+          bestRatio = ratio;
+          bestCluster = cluster;
+        }
+      }
+    }
+
+    if (bestCluster) {
+      bestCluster.members.push({ ...item, tokens });
+      bestCluster.sources.add(item.source);
+      bestCluster.lastTime = Math.max(bestCluster.lastTime, publishedTime);
+    } else {
+      clusters.push({
+        members: [{ ...item, tokens }],
+        sources: new Set([item.source]),
+        lastTime: publishedTime,
+      });
+    }
+  }
+
+  return clusters.map((cluster) => {
+    // Members are in ascending publish order, so the first one is whichever
+    // outlet broke the story — that's what the card links to and credits.
+    const [primary, ...rest] = cluster.members;
+    const related = rest
+      .map(({ source, title, link, publishedAt }) => ({ source, title, link, publishedAt }))
+      .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt));
+    const latestActivity = cluster.members.reduce(
+      (max, m) => Math.max(max, new Date(m.publishedAt).getTime()),
+      0
+    );
+
+    return {
+      source: primary.source,
+      title: primary.title,
+      link: primary.link,
+      summary: primary.summary,
+      publishedAt: primary.publishedAt,
+      image: primary.image ?? cluster.members.find((m) => m.image)?.image ?? null,
+      sourceCount: cluster.sources.size,
+      related,
+      latestActivity: new Date(latestActivity).toISOString(),
+    };
+  });
 }
 
 // Many feeds already embed an image (an <enclosure>, or an <img> in the
@@ -154,13 +261,18 @@ async function syncFeeds() {
   needsFetch.forEach((item, i) => { item.image = fetched[i]; });
   console.log(`✓ Found images for ${allItems.filter((item) => item.image).length}/${allItems.length} items total`);
 
+  const stories = clusterStories(allItems);
+  stories.sort((a, b) => new Date(b.latestActivity) - new Date(a.latestActivity));
+  const mergedCount = allItems.length - stories.length;
+  console.log(`✓ Grouped ${allItems.length} headlines into ${stories.length} stories (${mergedCount} cross-outlet duplicates merged)`);
+
   await mkdir('src/data', { recursive: true });
   await writeFile(
     'src/data/wire.json',
-    JSON.stringify({ syncedAt: new Date().toISOString(), items: allItems }, null, 2)
+    JSON.stringify({ syncedAt: new Date().toISOString(), items: stories }, null, 2)
   );
 
-  console.log(`\nWrote ${allItems.length} items to src/data/wire.json`);
+  console.log(`\nWrote ${stories.length} stories to src/data/wire.json`);
 }
 
 // Abandoned fetches from hung connections (the ones withTimeout/AbortSignal

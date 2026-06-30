@@ -67,7 +67,7 @@ const moreCards = [
           ) : (
             <a href={card.item.link} target="_blank" rel="noopener noreferrer" class="more-card more-card--wire sticker">
               <img class="more-card__image" src={card.item.image || '/wire-placeholder.svg'} alt="" loading="lazy" />
-              <span class="eyebrow eyebrow--wire">From the Wire · {card.item.source}</span>
+              <span class="eyebrow eyebrow--wire">From the Wire · {card.item.source}{card.item.sourceCount > 1 ? ` +${card.item.sourceCount - 1}` : ''}</span>
               <h3>{card.item.title}</h3>
               <p>{card.item.summary}</p>
             </a>
@@ -95,6 +95,7 @@ const moreCards = [
               {item.source}
             </span>
             <span class="wire__title">{item.title}</span>
+            {item.sourceCount > 1 && <span class="wire__also">+{item.sourceCount - 1}</span>}
           </a>
         </li>
       ))}
@@ -242,6 +243,15 @@ const moreCards = [
     transition: color 0.15s ease;
   }
   .wire__item a:hover .wire__title { color: var(--accent-soft); }
+  .wire__also {
+    flex-shrink: 0;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--ink-fixed);
+    background: var(--signal);
+    border-radius: 999px;
+    padding: 2px 8px;
+  }
   .wire__note {
     font-size: 13px;
     color: #8B96A5;

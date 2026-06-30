@@ -10,8 +10,20 @@ export const getStaticPaths = (({ paginate }) => {
 
 const { page } = Astro.props;
 const syncedAt = new Date(wireData.syncedAt);
-const sourceList = Array.from(new Set(wireData.items.map((item) => item.source))).sort();
-const clientItems = wireData.items.map(({ source, title, link, summary, image }) => ({ source, title, link, summary, image }));
+// Include sources that only ever show up as "also covered by" credits, so a
+// story's secondary outlets don't silently disappear from the filter chips.
+const sourceList = Array.from(
+  new Set(wireData.items.flatMap((item) => [item.source, ...item.related.map((r) => r.source)]))
+).sort();
+const clientItems = wireData.items.map(({ source, title, link, summary, image, sourceCount, related }) => ({
+  source,
+  title,
+  link,
+  summary,
+  image,
+  sourceCount,
+  related,
+}));
 
 const itemListJsonLd = {
   '@context': 'https://schema.org',
@@ -55,9 +67,20 @@ const pageTitle = page.currentPage === 1
                 <span class="source">
                   {faviconUrl(item.link) && <img class="source__logo" src={faviconUrl(item.link)} alt="" width="16" height="16" loading="lazy" />}
                   <span class="eyebrow">{item.source}</span>
+                  {item.sourceCount > 1 && <span class="also-badge">+{item.sourceCount - 1} more</span>}
                 </span>
               </div>
             </a>
+            {item.related.length > 0 && (
+              <p class="also-covered">
+                Also covered by {item.related.map((related, index) => (
+                  <>
+                    {index > 0 && ', '}
+                    <a href={related.link} target="_blank" rel="noopener noreferrer">{related.source}</a>
+                  </>
+                ))}
+              </p>
+            )}
           </li>
         ))}
       </ul>
@@ -109,7 +132,14 @@ const pageTitle = page.currentPage === 1
       }
     }
 
-    function buildCard(item: { source: string; title: string; link: string; summary: string; image: string | null }) {
+    interface WireRelated { source: string; title: string; link: string; publishedAt: string }
+    interface WireItem { source: string; title: string; link: string; summary: string; image: string | null; sourceCount: number; related: WireRelated[] }
+
+    function itemMatchesSource(item: WireItem, source: string): boolean {
+      return item.source === source || item.related.some((r) => r.source === source);
+    }
+
+    function buildCard(item: WireItem) {
       const li = document.createElement('li');
       const a = document.createElement('a');
       a.href = item.link;
@@ -150,14 +180,38 @@ const pageTitle = page.currentPage === 1
       eyebrow.textContent = item.source;
       sourceEl.appendChild(eyebrow);
 
+      if (item.sourceCount > 1) {
+        const badge = document.createElement('span');
+        badge.className = 'also-badge';
+        badge.textContent = `+${item.sourceCount - 1} more`;
+        sourceEl.appendChild(badge);
+      }
+
       body.append(h2, p, sourceEl);
       a.append(img, body);
       li.appendChild(a);
+
+      if (item.related.length > 0) {
+        const also = document.createElement('p');
+        also.className = 'also-covered';
+        also.append('Also covered by ');
+        item.related.forEach((related, index) => {
+          if (index > 0) also.append(', ');
+          const link = document.createElement('a');
+          link.href = related.link;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          link.textContent = related.source;
+          also.appendChild(link);
+        });
+        li.appendChild(also);
+      }
+
       return li;
     }
 
     function renderFiltered() {
-      const items = allItems.filter((item: { source: string }) => item.source === currentSource);
+      const items = allItems.filter((item: WireItem) => itemMatchesSource(item, currentSource));
       const totalPages = Math.max(1, Math.ceil(items.length / PAGE_SIZE));
       currentPage = Math.min(currentPage, totalPages);
       const start = (currentPage - 1) * PAGE_SIZE;
@@ -248,7 +302,7 @@ const pageTitle = page.currentPage === 1
     });
 
     const initialSource = new URLSearchParams(window.location.search).get('source');
-    if (initialSource && allItems.some((item: { source: string }) => item.source === initialSource)) {
+    if (initialSource && allItems.some((item: WireItem) => itemMatchesSource(item, initialSource))) {
       setSource(initialSource);
     }
   </script>
@@ -293,6 +347,24 @@ const pageTitle = page.currentPage === 1
   .list p { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
   .source { display: inline-flex; align-items: center; gap: 8px; font-family: var(--font-mono); font-size: 12px; color: var(--slate); text-transform: uppercase; letter-spacing: 0.02em; }
   .source__logo { border-radius: 4px; }
+  .also-badge {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color: var(--ink-fixed);
+    background: var(--signal);
+    border-radius: 999px;
+    padding: 2px 9px;
+  }
+  .also-covered {
+    margin: -8px 0 0;
+    padding-left: 24px;
+    font-size: 13px;
+    color: var(--slate);
+  }
+  .also-covered a { color: var(--slate); border-bottom: 1px solid currentColor; }
+  .also-covered a:hover { color: var(--ink); }
 
   .pager {
     margin-top: 48px;
@@ -363,5 +435,6 @@ const pageTitle = page.currentPage === 1
     .card__image { width: 100%; height: 160px; }
     .pager__row { font-size: 12px; }
     .pager__link { padding: 8px 12px; }
+    .also-covered { padding-left: 0; }
   }
 </style>

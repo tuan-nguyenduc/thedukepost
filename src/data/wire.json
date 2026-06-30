@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "syncedAt": "2026-06-30T17:58:34.465Z",
   "items": [
     {
@@ -168,6 +169,338 @@
       "summary": "Article URL: https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/\nComments URL: https://news.ycombinator.com/item?id=48734699\nPoints: 143\n# Comments: 78",
       "publishedAt": "2026-06-30T16:05:46.000Z",
       "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/photo-1610028290816-5d937a395a49.jpeg"
+=======
+  "syncedAt": "2026-06-30T19:14:52.693Z",
+  "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+      "summary": "Realta Fusion showed it could generate electricity from a fusion reaction, no steam turbine required.",
+      "publishedAt": "2026-06-30T19:12:43.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/realta-fusion-dec-demo.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T19:12:43.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
+      "link": "https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations",
+      "summary": "Google is upgrading its AI image generation capabilities today with the debut of Nano Banana 2 (NB2) Lite, an optimized model built for rapid execution and tight infrastructure bud…",
+      "publishedAt": "2026-06-30T16:06:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1SspsnZP2DbcuyWnSv0NZE/b152191ee0294e13bfca282555bf3300/Gemini_Generated_Image_dcilhudcilhudcil.png?w=300&q=30",
+      "sourceCount": 4,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Nano Banana 2 Lite",
+          "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "publishedAt": "2026-06-30T16:48:37.000Z"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+          "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+          "publishedAt": "2026-06-30T18:36:10.000Z"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+          "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+          "publishedAt": "2026-06-30T19:02:38.000Z"
+        }
+      ],
+      "latestActivity": "2026-06-30T19:02:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
+      "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+      "summary": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $…",
+      "publishedAt": "2026-06-30T18:42:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/lgoledwoledmain.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T18:42:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
+      "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
+      "summary": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
+      "publishedAt": "2026-06-30T18:34:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/IMG_0676.jpg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T18:34:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+      "link": "https://news.ycombinator.com/item?id=48737226",
+      "summary": "Just hit this today and I'm furious. I installed the Cursor iOS app to see what it had.\nI've been on `Privacy Mode (Legacy)` for a long time, which is the \"Do not store my code\" se…",
+      "publishedAt": "2026-06-30T18:33:59.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T18:33:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to set a custom alarm sound on your iPhone",
+      "link": "https://www.engadget.com/2204492/how-to-set-custom-alarm-sound-iphone/",
+      "summary": "You can use any sound you want for an iPhone alarm, and here's how to set it up.",
+      "publishedAt": "2026-06-30T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-set-a-custom-alarm-sound-on-your-iphone/l-intro-1782766786.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T18:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "RFK Jr. stacks FDA panel with peptide peddlers as FDA scientists oppose access",
+      "link": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
+      "summary": "Peptide drugs are popular, but FDA scientists warn they're untested, may be harmful.",
+      "publishedAt": "2026-06-30T18:25:10.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T18:25:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
+      "link": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
+      "summary": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franc…",
+      "publishedAt": "2026-06-30T18:14:05.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7683959b09f7863c5eb23bfdbcf039269765b5d6.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T18:14:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "publishedAt": "2026-06-30T18:13:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T18:13:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees\nComments URL: https://news.ycombinator.com/item?id=48736…",
+      "publishedAt": "2026-06-30T18:12:33.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T18:12:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5\nComments URL: https://news.ycombinator.com/item?id=48736605\nPoints: 366\n# Comments: 176",
+      "publishedAt": "2026-06-30T17:59:52.000Z",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+          "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "publishedAt": "2026-06-30T18:00:00.000Z"
+        },
+        {
+          "source": "VentureBeat",
+          "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
+          "link": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
+          "publishedAt": "2026-06-30T18:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-06-30T18:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered…",
+      "publishedAt": "2026-06-30T17:52:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Landscape_Promo.png?resize=1200,586",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:52:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
+      "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
+      "summary": "For now, only the “Laurel Oak” color option is available for $20, not the “Arabesque” color. | Image: Motorola\t\n\nAnnounced at CES 2026, the Moto Tag 2 has finally arrived in the US…",
+      "publishedAt": "2026-06-30T17:38:23.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/mototag2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:38:23.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off a…",
+      "publishedAt": "2026-06-30T17:36:48.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/thumbnail-Test.png?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:36:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I built a mmWave material classification radar",
+      "link": "https://gauthier-lechevalier.com/radar",
+      "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 44\n# Comments: 12",
+      "publishedAt": "2026-06-30T17:29:36.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:29:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real compet…",
+      "publishedAt": "2026-06-30T17:19:15.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:19:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Science",
+      "link": "https://claude.com/product/claude-science",
+      "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 150\n# Comments: 61",
+      "publishedAt": "2026-06-30T17:07:41.000Z",
+      "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:07:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
+      "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press re…",
+      "publishedAt": "2026-06-30T17:04:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:04:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google&#8217;s killing off Tenor GIF searches in other apps",
+      "link": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+      "summary": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor websit…",
+      "publishedAt": "2026-06-30T17:00:05.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842651/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:00:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Threads adds new features to Live Chats as it expands access",
+      "link": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
+      "summary": "The updates include translations, new tools for hosts, and more.",
+      "publishedAt": "2026-06-30T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and…",
+      "publishedAt": "2026-06-30T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
+      "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+      "summary": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to st…",
+      "publishedAt": "2026-06-30T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/yXT9Lzrt7E8-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T17:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "summary": "A year in, National Design Studio delays plan to update government web standards.",
+      "publishedAt": "2026-06-30T16:59:02.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/national-design-web-vomit-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T16:59:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We Are the Last People Who Know How It Works",
+      "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+      "summary": "Article URL: https://unix.foo/posts/last-people-who-know-how-it-works/\nComments URL: https://news.ycombinator.com/item?id=48735633\nPoints: 155\n# Comments: 94",
+      "publishedAt": "2026-06-30T16:59:00.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T16:59:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Xsnow \"protestware\" in Debian",
+      "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/\nComments URL: https://news.ycombinator.com/item?id=48735554\nPoints: 82\n# Comments: 58",
+      "publishedAt": "2026-06-30T16:54:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T16:54:41.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation",
+      "link": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
+      "summary": "For most enterprises, a 90-second training video or a product explainer has never been an easy ask. It means a well planned brief, an internal film crew or an outside vendor, a sho…",
+      "publishedAt": "2026-06-30T16:19:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/kLyxawwfV6DdvwExOeUaG/4a28ab530ddd0df708b2da07890419ff/Gemini_Generated_Image_dl8h1pdl8h1pdl8h.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T16:19:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "California bill to preserve online games fails committee vote",
+      "link": "https://www.engadget.com/2205041/california-bill-to-preserve-online-games-fails-committee-vote/",
+      "summary": "At least for this session, the Stop Killing Games campaign has hit a wall in the California Senate.",
+      "publishedAt": "2026-06-30T16:11:47.000Z",
+      "image": "https://www.engadget.com/img/gallery/california-bill-to-preserve-online-games-fails-committee-vote/l-intro-1782835824.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T16:11:47.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "The Verge",
@@ -175,7 +508,14 @@
       "link": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
       "summary": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sou…",
       "publishedAt": "2026-06-30T16:05:22.000Z",
+<<<<<<< HEAD
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25444301/DSCF7117.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+=======
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25444301/DSCF7117.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T16:05:22.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Ars Technica",
@@ -183,6 +523,7 @@
       "link": "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
       "summary": "Much of it comes from heavy-duty trucks and buses that burn diesel.",
       "publishedAt": "2026-06-30T16:03:44.000Z",
+<<<<<<< HEAD
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2208838235-1152x648.jpg"
     },
     {
@@ -192,6 +533,12 @@
       "summary": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant…",
       "publishedAt": "2026-06-30T16:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268596_Quantum_computing_CVirginia_V1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+=======
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2208838235-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T16:03:44.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Engadget",
@@ -199,7 +546,14 @@
       "link": "https://www.engadget.com/2205013/the-super-mario-galaxy-movie-launches-onto-peacock-on-july-30/",
       "summary": "The second animated Mario movie made over a billion dollars.",
       "publishedAt": "2026-06-30T15:54:00.000Z",
+<<<<<<< HEAD
       "image": "https://www.engadget.com/img/gallery/the-super-mario-galaxy-movie-launches-onto-peacock-on-july-30/l-intro-1782834700.jpg"
+=======
+      "image": "https://www.engadget.com/img/gallery/the-super-mario-galaxy-movie-launches-onto-peacock-on-july-30/l-intro-1782834700.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T15:54:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Ars Technica",
@@ -207,6 +561,7 @@
       "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
       "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
       "publishedAt": "2026-06-30T15:38:08.000Z",
+<<<<<<< HEAD
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-1024x648.jpg"
     },
     {
@@ -224,6 +579,12 @@
       "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\n\"AI is the new…",
       "publishedAt": "2026-06-30T15:30:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+=======
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T15:38:08.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Engadget",
@@ -231,7 +592,14 @@
       "link": "https://www.engadget.com/2204455/all-the-apple-products-avoiding-the-price-hike-for-now/",
       "summary": "All the Apple products avoiding the price hike (for now)",
       "publishedAt": "2026-06-30T15:30:00.000Z",
+<<<<<<< HEAD
       "image": "https://www.engadget.com/img/gallery/all-the-apple-products-avoiding-the-price-hike-for-now/l-intro-1782764015.jpg"
+=======
+      "image": "https://www.engadget.com/img/gallery/all-the-apple-products-avoiding-the-price-hike-for-now/l-intro-1782764015.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T15:30:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Wired",
@@ -239,6 +607,7 @@
       "link": "https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/",
       "summary": "Extreme heat coupled with humidity will make it feel like 109 degrees Fahrenheit as the holiday weekend approaches.",
       "publishedAt": "2026-06-30T15:18:08.000Z",
+<<<<<<< HEAD
       "image": "https://media.wired.com/photos/6a4304a19ec6fcabfa38b311/191:100/w_1280,c_limit/New-York-Is-About-to-Fee-Hotter-Than-Phoenix-Science-1012325148.jpg"
     },
     {
@@ -264,6 +633,12 @@
       "summary": "Users will be able use AI to create newsletters based on their recordings.",
       "publishedAt": "2026-06-30T15:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Copy-of-Newsletter-2.jpeg?resize=1200,809"
+=======
+      "image": "https://media.wired.com/photos/6a4304a19ec6fcabfa38b311/191:100/w_1280,c_limit/New-York-Is-About-to-Fee-Hotter-Than-Phoenix-Science-1012325148.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T15:18:08.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Engadget",
@@ -271,7 +646,14 @@
       "link": "https://www.engadget.com/2204880/google-gmail-live-ai-feature-is-now-available-in-beta/",
       "summary": "You can use Gemini to quickly search your Gmail inbox with natural language.",
       "publishedAt": "2026-06-30T14:29:36.000Z",
+<<<<<<< HEAD
       "image": "https://www.engadget.com/img/gallery/googles-gmail-live-ai-feature-is-now-available-in-beta/l-intro-1782829672.jpg"
+=======
+      "image": "https://www.engadget.com/img/gallery/googles-gmail-live-ai-feature-is-now-available-in-beta/l-intro-1782829672.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T14:29:36.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Engadget",
@@ -279,7 +661,14 @@
       "link": "https://www.engadget.com/2204851/clicks-shows-off-its-communicator-smartphone-with-a-blackberry-like-keyboard/",
       "summary": "Clicks has released the first hands-on video of its Blackberry like Communicator Android phone.",
       "publishedAt": "2026-06-30T14:12:54.000Z",
+<<<<<<< HEAD
       "image": "https://www.engadget.com/img/gallery/clicks-shows-off-its-communicator-smartphone-with-a-blackberry-like-keyboard/l-intro-1782828613.jpg"
+=======
+      "image": "https://www.engadget.com/img/gallery/clicks-shows-off-its-communicator-smartphone-with-a-blackberry-like-keyboard/l-intro-1782828613.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T14:12:54.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Ars Technica",
@@ -287,7 +676,14 @@
       "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
       "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
       "publishedAt": "2026-06-30T13:40:16.000Z",
+<<<<<<< HEAD
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-ron-desantis-1152x648.jpg"
+=======
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-ron-desantis-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T13:40:16.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Engadget",
@@ -295,7 +691,14 @@
       "link": "https://www.engadget.com/2204595/you-might-be-paying-more-for-youtube-premium-through-apple-subscription/",
       "summary": "Don't get hit with the Apple tax.",
       "publishedAt": "2026-06-30T13:30:00.000Z",
+<<<<<<< HEAD
       "image": "https://www.engadget.com/img/gallery/you-might-be-paying-more-for-youtube-premium-if-you-subscribed-through-apple/l-intro-1782774879.jpg"
+=======
+      "image": "https://www.engadget.com/img/gallery/you-might-be-paying-more-for-youtube-premium-if-you-subscribed-through-apple/l-intro-1782774879.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T13:30:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Ars Technica",
@@ -303,7 +706,14 @@
       "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
       "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
       "publishedAt": "2026-06-30T13:15:59.000Z",
+<<<<<<< HEAD
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-1152x648-1782582186.png"
+=======
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1-1152x648-1782582186.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T13:15:59.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Engadget",
@@ -311,6 +721,7 @@
       "link": "https://www.engadget.com/2201889/samsung-music-studio-7-review/",
       "summary": "The Music Studio 7 is an excellent Sonos alternative that can pull double duty in the living room.",
       "publishedAt": "2026-06-30T13:00:00.000Z",
+<<<<<<< HEAD
       "image": "https://www.engadget.com/img/gallery/samsung-music-studio-7-review-a-great-speaker-on-its-own-and-even-better-in-a-pair/l-intro-1782413841.jpg"
     },
     {
@@ -320,6 +731,12 @@
       "summary": "Shark has launched a new vacuum with three form factors.",
       "publishedAt": "2026-06-30T13:00:00.000Z",
       "image": "https://www.engadget.com/img/gallery/sharks-new-powerdetect-transformer-turns-into-three-different-types-of-vacuum/l-intro-1782820297.jpg"
+=======
+      "image": "https://www.engadget.com/img/gallery/samsung-music-studio-7-review-a-great-speaker-on-its-own-and-even-better-in-a-pair/l-intro-1782413841.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T13:00:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "VentureBeat",
@@ -327,7 +744,14 @@
       "link": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
       "summary": "The competitive edge in enterprise AI is shifting to context: which platform can give an agent the right memory, the right retrieval and the right data at the moment of decision.\nC…",
       "publishedAt": "2026-06-30T13:00:00.000Z",
+<<<<<<< HEAD
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/76hubg1hFFLGeInYbGk6iZ/a0e50e1e6ab26b2991d23ab5f70b06ad/couchbase-context-smk1.jpg?w=300&q=30"
+=======
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/76hubg1hFFLGeInYbGk6iZ/a0e50e1e6ab26b2991d23ab5f70b06ad/couchbase-context-smk1.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T13:00:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "MIT Technology Review",
@@ -335,7 +759,14 @@
       "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine…",
       "publishedAt": "2026-06-30T12:10:00.000Z",
+<<<<<<< HEAD
       "image": "https://wp.technologyreview.com/wp-content/uploads/2023/02/GettyImages-183068979.jpeg?w=3000"
+=======
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2023/02/GettyImages-183068979.jpeg?w=3000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T12:10:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "MIT Technology Review",
@@ -343,7 +774,14 @@
       "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
       "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.  The use cases…",
       "publishedAt": "2026-06-30T12:00:00.000Z",
+<<<<<<< HEAD
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?w=2309"
+=======
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?w=2309",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T12:00:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Wired",
@@ -351,7 +789,14 @@
       "link": "https://www.wired.com/gallery/best-slushie-machines/",
       "summary": "The original Ninja Slushi has been replaced! The new best slushie machines chill faster and make soft serve.",
       "publishedAt": "2026-06-30T11:33:00.000Z",
+<<<<<<< HEAD
       "image": "https://media.wired.com/photos/6a430e5c1a7682b9dd9cacbc/191:100/w_1280,c_limit/The-2-Best-Slushie-Machines-for-Parties,-Margs,-and-Soft-Serve-Ice-Cream.jpg"
+=======
+      "image": "https://media.wired.com/photos/6a430e5c1a7682b9dd9cacbc/191:100/w_1280,c_limit/The-2-Best-Slushie-Machines-for-Parties,-Margs,-and-Soft-Serve-Ice-Cream.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T11:33:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Wired",
@@ -359,7 +804,14 @@
       "link": "https://www.wired.com/review/bitdefender-vpn/",
       "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
       "publishedAt": "2026-06-30T11:00:00.000Z",
+<<<<<<< HEAD
       "image": "https://media.wired.com/photos/6a42affc6262e4d897071945/191:100/w_1280,c_limit/bitdefender3.jpg"
+=======
+      "image": "https://media.wired.com/photos/6a42affc6262e4d897071945/191:100/w_1280,c_limit/bitdefender3.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T11:00:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Wired",
@@ -367,7 +819,14 @@
       "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
       "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reach…",
       "publishedAt": "2026-06-30T10:30:00.000Z",
+<<<<<<< HEAD
       "image": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg"
+=======
+      "image": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T10:30:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "MIT Technology Review",
@@ -375,7 +834,14 @@
       "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
       "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concen…",
       "publishedAt": "2026-06-30T10:23:30.000Z",
+<<<<<<< HEAD
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GZA-Big-Tech-Map-MIIT-Review_with-Focus-Lense.png"
+=======
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GZA-Big-Tech-Map-MIIT-Review_with-Focus-Lense.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T10:23:30.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Wired",
@@ -383,7 +849,14 @@
       "link": "https://www.wired.com/story/how-hunter-biden-won-the-internet/",
       "summary": "WIRED spent months talking to America’s favorite failson as he plotted his return to public life. Now he’s feeding the trolls—and everyone else.",
       "publishedAt": "2026-06-30T10:00:00.000Z",
+<<<<<<< HEAD
       "image": "https://media.wired.com/photos/6a430fd7ab0f689c57e00404/191:100/w_1280,c_limit/HunterBiden_WEB_DSC0702.jpg"
+=======
+      "image": "https://media.wired.com/photos/6a430fd7ab0f689c57e00404/191:100/w_1280,c_limit/HunterBiden_WEB_DSC0702.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T10:00:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Wired",
@@ -391,7 +864,14 @@
       "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
       "summary": "The maps and images show the extent of destruction and give rescue operations a tool to find any remaining survivors.",
       "publishedAt": "2026-06-30T09:30:00.000Z",
+<<<<<<< HEAD
       "image": "https://media.wired.com/photos/6a42ffe448c440f683e2b40c/191:100/w_1280,c_limit/venezueladestruccion.jpg"
+=======
+      "image": "https://media.wired.com/photos/6a42ffe448c440f683e2b40c/191:100/w_1280,c_limit/venezueladestruccion.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T09:30:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Wired",
@@ -399,7 +879,14 @@
       "link": "https://www.wired.com/story/boost-your-homes-resale-value-install-heat-pump/",
       "summary": "Heat pumps are more than just a way to keep your home comfortable without using fossil fuels.",
       "publishedAt": "2026-06-30T06:00:00.000Z",
+<<<<<<< HEAD
       "image": "https://media.wired.com/photos/6a3f01c471b549a9a681caf0/191:100/w_1280,c_limit/Heat-Pump-Science-2266178546.jpg"
+=======
+      "image": "https://media.wired.com/photos/6a3f01c471b549a9a681caf0/191:100/w_1280,c_limit/Heat-Pump-Science-2266178546.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T06:00:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "VentureBeat",
@@ -407,7 +894,14 @@
       "link": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
       "summary": "A few hours ago, Chinese delivery app company Meituan officially unveiled LongCat-2.0 on GitHub, Hugging Face, and its native platform, unmasking the model as the computational eng…",
       "publishedAt": "2026-06-30T05:39:00.000Z",
+<<<<<<< HEAD
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3JhPWvGZL0ITKfOW59a6dD/6b4f45b2aba49b72a7a254507dc69a9d/ChatGPT_Image_Jun_30__2026__01_18_58_AM.png?w=300&q=30"
+=======
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3JhPWvGZL0ITKfOW59a6dD/6b4f45b2aba49b72a7a254507dc69a9d/ChatGPT_Image_Jun_30__2026__01_18_58_AM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-30T05:39:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Ars Technica",
@@ -415,7 +909,14 @@
       "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
       "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
       "publishedAt": "2026-06-29T22:05:33.000Z",
+<<<<<<< HEAD
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/messenger-account-hack-techniques-300x300.webp"
+=======
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/messenger-account-hack-techniques-300x300.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-29T22:05:33.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "Wired",
@@ -423,6 +924,7 @@
       "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
       "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED fou…",
       "publishedAt": "2026-06-29T21:49:26.000Z",
+<<<<<<< HEAD
       "image": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/191:100/w_1280,c_limit/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg"
     },
     {
@@ -432,6 +934,12 @@
       "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
       "publishedAt": "2026-06-29T21:09:43.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png"
+=======
+      "image": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/191:100/w_1280,c_limit/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-29T21:49:26.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "VentureBeat",
@@ -439,6 +947,7 @@
       "link": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
       "summary": "Even as the geopolitical conversation around AI continues to grow more fraught following the U.S. government's actions to limit the new models from Anthropic and OpenAI, Chinese op…",
       "publishedAt": "2026-06-29T20:36:15.000Z",
+<<<<<<< HEAD
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1LKLzOBxewK4b4E04bGEIY/be7d3b2bd4874c5b8a3001b8498b5e02/ChatGPT_Image_Jun_29__2026__04_35_22_PM.png?w=300&q=30"
     },
     {
@@ -448,6 +957,12 @@
       "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
       "publishedAt": "2026-06-29T20:12:30.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2229677995-1152x648.jpg"
+=======
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1LKLzOBxewK4b4E04bGEIY/be7d3b2bd4874c5b8a3001b8498b5e02/ChatGPT_Image_Jun_29__2026__04_35_22_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-29T20:36:15.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "MIT Technology Review",
@@ -455,7 +970,14 @@
       "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a…",
       "publishedAt": "2026-06-29T18:00:00.000Z",
+<<<<<<< HEAD
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600"
+=======
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-29T18:00:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "VentureBeat",
@@ -463,7 +985,14 @@
       "link": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
       "summary": "A single fake error report hijacked Claude Code in controlled testing — the agent ran the attacker's code with the developer's full privileges, and not one alert fired. EDR, WAF, I…",
       "publishedAt": "2026-06-29T16:53:14.000Z",
+<<<<<<< HEAD
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6di1wa5fhWEfFyVhOuFc0/d26a92a3d31716e3c020864f400459f0/hero.png?w=300&q=30"
+=======
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6di1wa5fhWEfFyVhOuFc0/d26a92a3d31716e3c020864f400459f0/hero.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-29T16:53:14.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "MIT Technology Review",
@@ -471,7 +1000,14 @@
       "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
       "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressur…",
       "publishedAt": "2026-06-29T14:44:01.000Z",
+<<<<<<< HEAD
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Report-2026-cover.png"
+=======
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Report-2026-cover.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-29T14:44:01.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "MIT Technology Review",
@@ -479,6 +1015,7 @@
       "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There a…",
       "publishedAt": "2026-06-29T12:10:00.000Z",
+<<<<<<< HEAD
       "image": "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1159500434.jpg?w=3000"
     },
     {
@@ -488,6 +1025,12 @@
       "summary": "In the past two years, businesses have been trying to fit large language models (LLMs) into support, analytics, development, and internal automation like never before. \nAlong with…",
       "publishedAt": "2026-06-28T18:00:16.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/761C8qLyC2XS0ZV0CCiPFE/d92b04f5a5c0cec56a5612a13d3f7e35/u7277289442_A_modern_interpretation_of_cybersecurity._3D_--ar_f806db26-b93b-427c-b0c9-42caa83dfe92_0.png?w=300&q=30"
+=======
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2021/06/GettyImages-1159500434.jpg?w=3000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-29T12:10:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     },
     {
       "source": "MIT Technology Review",
@@ -495,6 +1038,7 @@
       "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientist…",
       "publishedAt": "2026-06-26T12:10:00.000Z",
+<<<<<<< HEAD
       "image": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MJ21_Data_archaeology_spreads-Maxomatic-FIN_01.jpg?w=3000"
     },
     {
@@ -504,6 +1048,12 @@
       "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F).…",
       "publishedAt": "2026-06-26T09:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_checkup_hotbrains.jpg?resize=1200,600"
+=======
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MJ21_Data_archaeology_spreads-Maxomatic-FIN_01.jpg?w=3000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-06-26T12:10:00.000Z"
+>>>>>>> 857907a (feat: clustering wire posts)
     }
   ]
 }
