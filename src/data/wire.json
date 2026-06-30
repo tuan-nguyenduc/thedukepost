@@ -1,6 +1,278 @@
 {
-  "syncedAt": "2026-06-30T14:29:46.662Z",
+  "syncedAt": "2026-06-30T17:58:34.465Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "summary": "Startup Acti is betting the smartphone keyboard is the next home for AI assistants. Its new keyboard for iOS and Android works across apps and lets users create custom AI-powered s…",
+      "publishedAt": "2026-06-30T17:52:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Landscape_Promo.png?resize=1200,586"
+    },
+    {
+      "source": "The Verge",
+      "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
+      "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
+      "summary": "For now, only the “Laurel Oak” color option is available for $20, not the “Arabesque” color. | Image: Motorola\t\n\nAnnounced at CES 2026, the Moto Tag 2 has finally arrived in the US…",
+      "publishedAt": "2026-06-30T17:38:23.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/mototag2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I built a mmWave material classification radar",
+      "link": "https://gauthier-lechevalier.com/radar",
+      "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 11\n# Comments: 0",
+      "publishedAt": "2026-06-30T17:29:36.000Z",
+      "image": null
+    },
+    {
+      "source": "The Verge",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real compet…",
+      "publishedAt": "2026-06-30T17:19:15.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Science",
+      "link": "https://claude.com/product/claude-science",
+      "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 61\n# Comments: 30",
+      "publishedAt": "2026-06-30T17:07:41.000Z",
+      "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Supreme Court takes sledgehammer to federal regulatory structure",
+      "link": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure",
+      "summary": "Article URL: https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure\nComments URL: https://news.ycombinato…",
+      "publishedAt": "2026-06-30T17:05:58.000Z",
+      "image": null
+    },
+    {
+      "source": "The Verge",
+      "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
+      "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press re…",
+      "publishedAt": "2026-06-30T17:04:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google&#8217;s killing off Tenor GIF searches in other apps",
+      "link": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+      "summary": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor websit…",
+      "publishedAt": "2026-06-30T17:00:05.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842651/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Threads adds new features to Live Chats as it expands access",
+      "link": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
+      "summary": "The updates include translations, new tools for hosts, and more.",
+      "publishedAt": "2026-06-30T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and…",
+      "publishedAt": "2026-06-30T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
+      "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+      "summary": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to st…",
+      "publishedAt": "2026-06-30T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/yXT9Lzrt7E8-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "summary": "A year in, National Design Studio delays plan to update government web standards.",
+      "publishedAt": "2026-06-30T16:59:02.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/national-design-web-vomit-1152x648.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We Are the Last People Who Know How It Works",
+      "link": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+      "summary": "Article URL: https://unix.foo/posts/last-people-who-know-how-it-works/\nComments URL: https://news.ycombinator.com/item?id=48735633\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-06-30T16:59:00.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Xsnow \"protestware\" in Debian",
+      "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/\nComments URL: https://news.ycombinator.com/item?id=48735554\nPoints: 40\n# Comments: 5",
+      "publishedAt": "2026-06-30T16:54:41.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nano Banana 2 Lite",
+      "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "summary": "Article URL: https://deepmind.google/models/gemini-image/flash-lite/\nComments URL: https://news.ycombinator.com/item?id=48735444\nPoints: 77\n# Comments: 25",
+      "publishedAt": "2026-06-30T16:48:37.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+      "link": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+      "summary": "Article URL: https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/\nComments URL: https://news.ycombinator.com/item?id=48…",
+      "publishedAt": "2026-06-30T16:44:31.000Z",
+      "image": null
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation",
+      "link": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
+      "summary": "For most enterprises, a 90-second training video or a product explainer has never been an easy ask. It means a well planned brief, an internal film crew or an outside vendor, a sho…",
+      "publishedAt": "2026-06-30T16:19:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/kLyxawwfV6DdvwExOeUaG/4a28ab530ddd0df708b2da07890419ff/Gemini_Generated_Image_dl8h1pdl8h1pdl8h.png?w=300&q=30"
+    },
+    {
+      "source": "Engadget",
+      "title": "California bill to preserve online games fails committee vote",
+      "link": "https://www.engadget.com/2205041/california-bill-to-preserve-online-games-fails-committee-vote/",
+      "summary": "At least for this session, the Stop Killing Games campaign has hit a wall in the California Senate.",
+      "publishedAt": "2026-06-30T16:11:47.000Z",
+      "image": "https://www.engadget.com/img/gallery/california-bill-to-preserve-online-games-fails-committee-vote/l-intro-1782835824.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
+      "link": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
+      "summary": "But the company is still claiming that New Glenn will return to flight this year.",
+      "publishedAt": "2026-06-30T16:09:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/gallery_ng-2.jpg?resize=1200,800"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
+      "link": "https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations",
+      "summary": "Google is upgrading its AI image generation capabilities today with the debut of Nano Banana 2 (NB2) Lite, an optimized model built for rapid execution and tight infrastructure bud…",
+      "publishedAt": "2026-06-30T16:06:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1SspsnZP2DbcuyWnSv0NZE/b152191ee0294e13bfca282555bf3300/Gemini_Generated_Image_dcilhudcilhudcil.png?w=300&q=30"
+    },
+    {
+      "source": "Hacker News",
+      "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+      "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+      "summary": "Article URL: https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/\nComments URL: https://news.ycombinator.com/item?id=48734699\nPoints: 143\n# Comments: 78",
+      "publishedAt": "2026-06-30T16:05:46.000Z",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/photo-1610028290816-5d937a395a49.jpeg"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Bose Soundlink Max is $120 off ahead of the July 4th weekend",
+      "link": "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale",
+      "summary": "The Bose Soundlink Max is usually $399, but has been on steep discount this week at Amazon, Best Buy, and directly from Bose for $279. This Bluetooth speaker has a big and bold sou…",
+      "publishedAt": "2026-06-30T16:05:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25444301/DSCF7117.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The US going 100% EV by 2040 would save more than 100k lives, study says",
+      "link": "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
+      "summary": "Much of it comes from heavy-duty trucks and buses that burn diesel.",
+      "publishedAt": "2026-06-30T16:03:44.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2208838235-1152x648.jpg"
+    },
+    {
+      "source": "The Verge",
+      "title": "What is a quantum computer good for? Absolutely nothing — yet",
+      "link": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
+      "summary": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant…",
+      "publishedAt": "2026-06-30T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268596_Quantum_computing_CVirginia_V1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Super Mario Galaxy Movie launches onto Peacock on July 30",
+      "link": "https://www.engadget.com/2205013/the-super-mario-galaxy-movie-launches-onto-peacock-on-july-30/",
+      "summary": "The second animated Mario movie made over a billion dollars.",
+      "publishedAt": "2026-06-30T15:54:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-super-mario-galaxy-movie-launches-onto-peacock-on-july-30/l-intro-1782834700.jpg"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
+      "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
+      "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
+      "publishedAt": "2026-06-30T15:38:08.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-1024x648.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
+      "link": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
+      "summary": "The company may finally be ready to try to deliver on Elon Musk's years-long promise of launching a robotaxi network of its own.",
+      "publishedAt": "2026-06-30T15:32:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2183782412.jpg?resize=1200,800"
+    },
+    {
+      "source": "The Verge",
+      "title": "Libby will filter out AI content, kind of",
+      "link": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\n\"AI is the new…",
+      "publishedAt": "2026-06-30T15:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "source": "Engadget",
+      "title": "All the Apple products avoiding the price hike (for now)",
+      "link": "https://www.engadget.com/2204455/all-the-apple-products-avoiding-the-price-hike-for-now/",
+      "summary": "All the Apple products avoiding the price hike (for now)",
+      "publishedAt": "2026-06-30T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/all-the-apple-products-avoiding-the-price-hike-for-now/l-intro-1782764015.jpg"
+    },
+    {
+      "source": "Wired",
+      "title": "New York Is About to Feel Hotter Than Phoenix",
+      "link": "https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/",
+      "summary": "Extreme heat coupled with humidity will make it feel like 109 degrees Fahrenheit as the holiday weekend approaches.",
+      "publishedAt": "2026-06-30T15:18:08.000Z",
+      "image": "https://media.wired.com/photos/6a4304a19ec6fcabfa38b311/191:100/w_1280,c_limit/New-York-Is-About-to-Fee-Hotter-Than-Phoenix-Science-1012325148.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "publishedAt": "2026-06-30T15:08:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
+      "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+      "summary": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity.",
+      "publishedAt": "2026-06-30T15:01:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "publishedAt": "2026-06-30T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Copy-of-Newsletter-2.jpeg?resize=1200,809"
+    },
+    {
+      "source": "Engadget",
+      "title": "Google's Gmail Live AI feature is now available in beta",
+      "link": "https://www.engadget.com/2204880/google-gmail-live-ai-feature-is-now-available-in-beta/",
+      "summary": "You can use Gemini to quickly search your Gmail inbox with natural language.",
+      "publishedAt": "2026-06-30T14:29:36.000Z",
+      "image": "https://www.engadget.com/img/gallery/googles-gmail-live-ai-feature-is-now-available-in-beta/l-intro-1782829672.jpg"
+    },
     {
       "source": "Engadget",
       "title": "Clicks shows off its Communicator smartphone with a Blackberry-like keyboard",
@@ -10,28 +282,12 @@
       "image": "https://www.engadget.com/img/gallery/clicks-shows-off-its-communicator-smartphone-with-a-blackberry-like-keyboard/l-intro-1782828613.jpg"
     },
     {
-      "source": "TechCrunch",
-      "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
-      "summary": "From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026.",
-      "publishedAt": "2026-06-30T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_k.jpg?resize=1200,800"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "publishedAt": "2026-06-30T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600"
-    },
-    {
-      "source": "The Verge",
-      "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
-      "link": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
-      "summary": "Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spotted earlier by MacRumors. An account imitating leaker EvL…",
-      "publishedAt": "2026-06-30T13:57:41.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "source": "Ars Technica",
+      "title": "Florida bans local governments from pursuing net-zero emissions goals",
+      "link": "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
+      "summary": "Gov. Ron DeSantis calls it a crackdown on \"radical climate policies.\"",
+      "publishedAt": "2026-06-30T13:40:16.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/getty-ron-desantis-1152x648.jpg"
     },
     {
       "source": "Engadget",
@@ -74,36 +330,12 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/76hubg1hFFLGeInYbGk6iZ/a0e50e1e6ab26b2991d23ab5f70b06ad/couchbase-context-smk1.jpg?w=300&q=30"
     },
     {
-      "source": "Hacker News",
-      "title": "Microsoft reveals why Windows 11 keeps saying a file is in use after closing app",
-      "link": "https://www.windowslatest.com/2026/06/30/microsoft-reveals-why-windows-11-keeps-saying-a-file-is-in-use-after-you-close-the-app-plus-the-fix/",
-      "summary": "Article URL: https://www.windowslatest.com/2026/06/30/microsoft-reveals-why-windows-11-keeps-saying-a-file-is-in-use-after-you-close-the-app-plus-the-fix/\nComments URL: https://new…",
-      "publishedAt": "2026-06-30T12:49:49.000Z",
-      "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Microsoft-explains-why-File-In-Use-error-occurs-even-after-the-application-is-closed.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
-      "link": "https://www.gutenberg.org/ebooks/24518",
-      "summary": "Article URL: https://www.gutenberg.org/ebooks/24518\nComments URL: https://news.ycombinator.com/item?id=48731989\nPoints: 30\n# Comments: 6",
-      "publishedAt": "2026-06-30T12:47:51.000Z",
-      "image": "https://www.gutenberg.org/cache/epub/24518/pg24518.cover.medium.jpg"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: AI “coworkers” and stratospheric internet",
       "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine…",
       "publishedAt": "2026-06-30T12:10:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2023/02/GettyImages-183068979.jpeg?w=3000"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meet the lawyer who beat Elon Musk — twice",
-      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "summary": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulminate at Bill Savitt during Musk v. Altma…",
-      "publishedAt": "2026-06-30T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "source": "MIT Technology Review",
@@ -130,46 +362,6 @@
       "image": "https://media.wired.com/photos/6a42affc6262e4d897071945/191:100/w_1280,c_limit/bitdefender3.jpg"
     },
     {
-      "source": "Hacker News",
-      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
-      "link": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-      "summary": "Article URL: https://cekrem.github.io/posts/parse-dont-validate-typescript/\nComments URL: https://news.ycombinator.com/item?id=48730818\nPoints: 75\n# Comments: 56",
-      "publishedAt": "2026-06-30T10:48:23.000Z",
-      "image": "https://cekrem.github.io/images/banner.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "European digital ID wallets rely on safety services of Google and Apple",
-      "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "summary": "Article URL: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/\nComments URL: https://news.ycombinator.com/item?id=48730729\nPoints: 447\n# Comments:…",
-      "publishedAt": "2026-06-30T10:36:23.000Z",
-      "image": "https://cms.waag.org/sites/waag/files/styles/1200x630/public/2026-06/scherm-afbeelding_2026-06-23_om_10.31.35.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-      "link": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-      "summary": "Article URL: https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/\nComments URL: https://news.ycombinator.com/item?id=48730713\nPoints: 37\n# Comments: 3",
-      "publishedAt": "2026-06-30T10:34:25.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
-      "link": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-      "summary": "Article URL: https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext\nComments URL: https://news.ycombinator.com/item?id=48730694\nPoints: 99\n# Comments: 76",
-      "publishedAt": "2026-06-30T10:31:02.000Z",
-      "image": null
-    },
-    {
-      "source": "The Verge",
-      "title": "This motor could be the future of e-bikes",
-      "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
-      "summary": "The Avinox MG Concept MGU coming next year. | Image: Avinox\t\n\nImagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears…",
-      "publishedAt": "2026-06-30T10:30:04.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MG.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Wired",
       "title": "Bernie Sanders Saw This Coming",
       "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
@@ -186,14 +378,6 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GZA-Big-Tech-Map-MIIT-Review_with-Focus-Lense.png"
     },
     {
-      "source": "Hacker News",
-      "title": "The US ambassador had Belgian police stop our reporting",
-      "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-      "summary": "Article URL: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting\nComments URL: https://news.ycombinator.com/item?id=48730608\nPoints: 434…",
-      "publishedAt": "2026-06-30T10:15:15.000Z",
-      "image": "https://images.europeancorrespondent.com/attRp54hjyayl13fH/public"
-    },
-    {
       "source": "Wired",
       "title": "How Hunter Biden Won the Internet",
       "link": "https://www.wired.com/story/how-hunter-biden-won-the-internet/",
@@ -202,36 +386,12 @@
       "image": "https://media.wired.com/photos/6a430fd7ab0f689c57e00404/191:100/w_1280,c_limit/HunterBiden_WEB_DSC0702.jpg"
     },
     {
-      "source": "Engadget",
-      "title": "Proton's privacy-focused Lumo chatbot gets image generation",
-      "link": "https://www.engadget.com/2204704/proton-lumo-2-0-image-generation/",
-      "summary": "Proton has launched a major upgrade for its Lumo chatbot, giving it image generation and editing capabilities.",
-      "publishedAt": "2026-06-30T10:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/protons-privacy-focused-lumo-chatbot-gets-image-generation/l-intro-1782810599.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Our best look yet at Samsung’s new wide foldable",
-      "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
-      "summary": "Case designs for the wide-style Galaxy Z Fold 8 have appeared online, and some show the phone inside them. | Image: Android Headlines\t\n\nSamsung is expected to unveil its next gener…",
-      "publishedAt": "2026-06-30T09:54:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Samsung-Galaxy-Z-Fold-8-Wide-leak-case-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "source": "Wired",
       "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
       "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
       "summary": "The maps and images show the extent of destruction and give rescue operations a tool to find any remaining survivors.",
       "publishedAt": "2026-06-30T09:30:00.000Z",
       "image": "https://media.wired.com/photos/6a42ffe448c440f683e2b40c/191:100/w_1280,c_limit/venezueladestruccion.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/okx-ai.jpg?resize=1200,800"
     },
     {
       "source": "Wired",
@@ -248,46 +408,6 @@
       "summary": "A few hours ago, Chinese delivery app company Meituan officially unveiled LongCat-2.0 on GitHub, Hugging Face, and its native platform, unmasking the model as the computational eng…",
       "publishedAt": "2026-06-30T05:39:00.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3JhPWvGZL0ITKfOW59a6dD/6b4f45b2aba49b72a7a254507dc69a9d/ChatGPT_Image_Jun_30__2026__01_18_58_AM.png?w=300&q=30"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The AI jobs debate just got messier",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior…",
-      "publishedAt": "2026-06-30T04:01:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "publishedAt": "2026-06-30T02:28:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 93\n# Comments: 23",
-      "publishedAt": "2026-06-30T00:56:42.000Z",
-      "image": null
-    },
-    {
-      "source": "Engadget",
-      "title": "Sensitive iPhone supplier details were part of last week's data leak at Tata Electronics",
-      "link": "https://www.engadget.com/2204589/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/",
-      "summary": "Some of Apple's corporate secrets aren't so secret any more.",
-      "publishedAt": "2026-06-29T23:06:30.000Z",
-      "image": "https://www.engadget.com/img/gallery/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/l-intro-1782774264.jpg"
-    },
-    {
-      "source": "Engadget",
-      "title": "There's now an OpenClaw app for iOS and Android phones",
-      "link": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/",
-      "summary": "Smartphones are welcoming the agentic AI overlords.",
-      "publishedAt": "2026-06-29T22:07:14.000Z",
-      "image": "https://www.engadget.com/img/gallery/theres-now-an-openclaw-app-for-ios-and-android-phones/l-intro-1782770668.jpg"
     },
     {
       "source": "Ars Technica",
@@ -314,46 +434,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png"
     },
     {
-      "source": "The Verge",
-      "title": "T-Mobile is booting customers from its oldest plans",
-      "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
-      "summary": "Time to say goodbye to that legacy Sprint plan. | Image: Alex Castro / The Verge\t\n\nEarlier today, T-Mobile started notifying customers that it will be retiring many legacy plans an…",
-      "publishedAt": "2026-06-29T21:06:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK067__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Wired",
-      "title": "Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts",
-      "link": "https://www.wired.com/gallery/best-mattresses/",
-      "summary": "WIRED has tested 100-plus bed-in-a-box mattresses for a week each. Our top pick, the Helix Midnight Luxe hybrid, is the best bed you can buy online.",
-      "publishedAt": "2026-06-29T21:05:17.000Z",
-      "image": "https://media.wired.com/photos/6985691217d9e3e139a882b8/191:100/w_1280,c_limit/The%20Best%20Mattresses%20of%202026%20So%20Far-%20Our%20Tried-and-True%20Favorites.png"
-    },
-    {
-      "source": "The Verge",
-      "title": "After a great start, DC’s new cinematic universe is already slowing down",
-      "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-      "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always f…",
-      "publishedAt": "2026-06-29T21:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/rev-1-SGRL-TRL-101_High_Res_JPEG.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
-      "publishedAt": "2026-06-29T20:55:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2015/10/chamath_palihapitiya_techcrunch_disrupt.jpg?resize=1200,800"
-    },
-    {
-      "source": "Engadget",
-      "title": "Uber is no longer offering Waymo rides in Phoenix",
-      "link": "https://www.engadget.com/2204472/uber-is-no-longer-offering-waymo-rides-in-phoenix/",
-      "summary": "Rather than external partnerships, Uber may start leaning on its own robotaxis for driverless options.",
-      "publishedAt": "2026-06-29T20:43:16.000Z",
-      "image": "https://www.engadget.com/img/gallery/uber-is-no-longer-offering-waymo-rides-in-phoenix/l-intro-1782765576.jpg"
-    },
-    {
       "source": "VentureBeat",
       "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
       "link": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
@@ -362,76 +442,12 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1LKLzOBxewK4b4E04bGEIY/be7d3b2bd4874c5b8a3001b8498b5e02/ChatGPT_Image_Jun_29__2026__04_35_22_PM.png?w=300&q=30"
     },
     {
-      "source": "The Verge",
-      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-      "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-      "summary": "The iPhone 17 Pro. | Image: The Verge\t\n\nLeaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, accordi…",
-      "publishedAt": "2026-06-29T20:18:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connec…",
-      "publishedAt": "2026-06-29T20:12:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024"
-    },
-    {
       "source": "Ars Technica",
       "title": "US renewable boom passes key milestone in April",
       "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
       "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
       "publishedAt": "2026-06-29T20:12:30.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2229677995-1152x648.jpg"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Supreme Court ruling guts government’s use of geofence warrants",
-      "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
-      "summary": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
-      "publishedAt": "2026-06-29T20:04:04.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2154885383-1152x648.jpg"
-    },
-    {
-      "source": "The Verge",
-      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on…",
-      "publishedAt": "2026-06-29T19:47:35.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
-      "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-      "summary": "Sony has been scaling down its digitial store for a few years.",
-      "publishedAt": "2026-06-29T19:10:57.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/abomb8-1152x648.jpg"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
-      "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
-      "summary": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
-      "publishedAt": "2026-06-29T19:06:21.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/storygraph-book-on-insta.jpg?resize=1123,1200"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Ozone loss was a thing even before CFCs were widely used",
-      "link": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
-      "summary": "With today’s scientific tools, the problem could have been spotted in the 1950s.",
-      "publishedAt": "2026-06-29T19:00:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ozone_concentration_20211007_1400px-1152x648.jpg"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
-      "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
-      "publishedAt": "2026-06-29T18:21:31.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg"
     },
     {
       "source": "MIT Technology Review",
@@ -472,22 +488,6 @@
       "summary": "In the past two years, businesses have been trying to fit large language models (LLMs) into support, analytics, development, and internal automation like never before. \nAlong with…",
       "publishedAt": "2026-06-28T18:00:16.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/761C8qLyC2XS0ZV0CCiPFE/d92b04f5a5c0cec56a5612a13d3f7e35/u7277289442_A_modern_interpretation_of_cybersecurity._3D_--ar_f806db26-b93b-427c-b0c9-42caa83dfe92_0.png?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
-      "link": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
-      "summary": "Anthropic recently told its growth team to hire more product managers, not fewer. The reason, as reported in industry coverage, was that Claude Code had quietly turned its engineer…",
-      "publishedAt": "2026-06-27T19:30:09.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5LGSLA7R28yeWuRev76Ial/a1f373359767487b9c6315ab18f28095/u7277289442_A_data_engineer_is_sitting_at_a_dashboard_with_ch_56764e66-764f-496b-bab2-2e7a55c1655c_0.png?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
-      "link": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m",
-      "summary": "Long-horizon reasoning exposes a core weakness in AI agents: context windows fill up fast, and retrieval pipelines return noise instead of signal.\nTo solve this, researchers at the…",
-      "publishedAt": "2026-06-26T22:58:23.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/53JyLWXY9W6yJnPRMPosSZ/290b2a2fc0e0356e3389acc8a06ec11a/agentic_memory_reasoning.jpg?w=300&q=30"
     },
     {
       "source": "MIT Technology Review",
