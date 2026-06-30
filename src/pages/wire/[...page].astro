@@ -4,18 +4,33 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import wireData from '../../data/wire.json';
 import { faviconUrl } from '../../lib/favicon';
 
+// wire.json is committed by an automated sync job; default the clustering
+// fields so a stale or hand-resolved-conflict copy without them can't crash
+// the build instead of just falling back to "every story stands alone".
+// (Astro evaluates getStaticPaths in isolation, so this normalization is
+// duplicated here rather than shared with wireItems below.)
 export const getStaticPaths = (({ paginate }) => {
-  return paginate(wireData.items, { pageSize: 15 });
+  const normalized = wireData.items.map((item) => ({
+    ...item,
+    sourceCount: item.sourceCount ?? 1,
+    related: item.related ?? [],
+  }));
+  return paginate(normalized, { pageSize: 15 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
+const wireItems = wireData.items.map((item) => ({
+  ...item,
+  sourceCount: item.sourceCount ?? 1,
+  related: item.related ?? [],
+}));
 const syncedAt = new Date(wireData.syncedAt);
 // Include sources that only ever show up as "also covered by" credits, so a
 // story's secondary outlets don't silently disappear from the filter chips.
 const sourceList = Array.from(
-  new Set(wireData.items.flatMap((item) => [item.source, ...item.related.map((r) => r.source)]))
+  new Set(wireItems.flatMap((item) => [item.source, ...item.related.map((r) => r.source)]))
 ).sort();
-const clientItems = wireData.items.map(({ source, title, link, summary, image, sourceCount, related }) => ({
+const clientItems = wireItems.map(({ source, title, link, summary, image, sourceCount, related }) => ({
   source,
   title,
   link,

@@ -15,14 +15,23 @@ const GRID_SIZE = 8;
 const featured = articles.find((a) => a.data.featured) ?? articles[0];
 const rest = articles.filter((a) => a.id !== featured?.id).slice(0, GRID_SIZE);
 
-const wireItems = wireData.items.slice(0, 10);
+// wire.json is committed by an automated sync job; default the clustering
+// fields so a stale or hand-resolved-conflict copy without them can't crash
+// the build instead of just falling back to "every story stands alone".
+const normalizedWireItems = wireData.items.map((item) => ({
+  ...item,
+  sourceCount: item.sourceCount ?? 1,
+  related: item.related ?? [],
+}));
+
+const wireItems = normalizedWireItems.slice(0, 10);
 const syncedAt = new Date(wireData.syncedAt);
 
 // Backfill the grid with Wire highlights when there aren't enough original
 // articles yet, so the homepage isn't sparse. Pull from items past the ones
 // already shown in the Wire section below, to avoid duplicates on the page.
 const fillCount = Math.max(0, GRID_SIZE - rest.length);
-const wireFill = wireData.items.slice(10, 10 + fillCount);
+const wireFill = normalizedWireItems.slice(10, 10 + fillCount);
 
 const moreCards = [
   ...rest.map((a) => ({ kind: 'article' as const, article: a })),
