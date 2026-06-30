@@ -1,6 +1,54 @@
 {
-  "syncedAt": "2026-06-30T03:55:29.027Z",
+  "syncedAt": "2026-06-30T07:56:38.279Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Want to Boost Your Home’s Resale Value? Install a Heat Pump",
+      "link": "https://www.wired.com/story/boost-your-homes-resale-value-install-heat-pump/",
+      "summary": "Heat pumps are more than just a way to keep your home comfortable without using fossil fuels.",
+      "publishedAt": "2026-06-30T06:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a3f01c471b549a9a681caf0/191:100/w_1280,c_limit/Heat-Pump-Science-2266178546.jpg"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips",
+      "link": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+      "summary": "A few hours ago, Chinese delivery app company Meituan officially unveiled LongCat-2.0 on GitHub, Hugging Face, and its native platform, unmasking the model as the computational eng…",
+      "publishedAt": "2026-06-30T05:39:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3JhPWvGZL0ITKfOW59a6dD/6b4f45b2aba49b72a7a254507dc69a9d/ChatGPT_Image_Jun_30__2026__01_18_58_AM.png?w=300&q=30"
+    },
+    {
+      "source": "Hacker News",
+      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+      "link": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "summary": "Article URL: https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers\nComments URL: https://news.ycombinator.com/item?id=48728740\nPoints: 62\n# Comments: 25",
+      "publishedAt": "2026-06-30T05:17:02.000Z",
+      "image": "https://noyb.eu/sites/default/files/styles/facebook/public/2026-05/header_EU-US-Data-Transfers_0.jpg?h=c9a3a702&itok=ih1PTPh3"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Popping the GPU Bubble",
+      "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "summary": "Article URL: https://moondream.ai/blog/popping-the-gpu-bubble\nComments URL: https://news.ycombinator.com/item?id=48728729\nPoints: 95\n# Comments: 18",
+      "publishedAt": "2026-06-30T05:14:35.000Z",
+      "image": "https://moondream.ai/images/blog/popping-the-gpu-bubble/cover.jpg"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The end of the AArch64 desktop experiment",
+      "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "summary": "Article URL: https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/\nComments URL: https://news.ycombinator.com/item?id=48728599\nPoints: 20\n# Commen…",
+      "publishedAt": "2026-06-30T04:51:12.000Z",
+      "image": "https://marcin.juszkiewicz.com.pl/files/images/hrw-192.jpg"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The AI jobs debate just got messier",
+      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior…",
+      "publishedAt": "2026-06-30T04:01:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024"
+    },
     {
       "source": "TechCrunch",
       "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
@@ -13,15 +61,15 @@
       "source": "Hacker News",
       "title": "Exploring PDP-1 Lisp (1960)",
       "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 27\n# Comments: 14",
+      "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 56\n# Comments: 16",
       "publishedAt": "2026-06-30T00:56:42.000Z",
       "image": null
     },
     {
       "source": "Hacker News",
-      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "title": "Memory Safe Context Switching",
       "link": "https://fil-c.org/context_switches",
-      "summary": "Article URL: https://fil-c.org/context_switches\nComments URL: https://news.ycombinator.com/item?id=48727177\nPoints: 50\n# Comments: 19",
+      "summary": "Article URL: https://fil-c.org/context_switches\nComments URL: https://news.ycombinator.com/item?id=48727177\nPoints: 102\n# Comments: 23",
       "publishedAt": "2026-06-30T00:38:19.000Z",
       "image": null
     },
@@ -29,17 +77,9 @@
       "source": "Hacker News",
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "link": "https://longcat.chat/blog/longcat-2.0/",
-      "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/\nComments URL: https://news.ycombinator.com/item?id=48727116\nPoints: 47\n# Comments: 12",
+      "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/\nComments URL: https://news.ycombinator.com/item?id=48727116\nPoints: 113\n# Comments: 33",
       "publishedAt": "2026-06-30T00:30:11.000Z",
-      "image": null
-    },
-    {
-      "source": "Hacker News",
-      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-      "link": "https://github.com/SMJAI/open-memory-protocol",
-      "summary": "Article URL: https://github.com/SMJAI/open-memory-protocol\nComments URL: https://news.ycombinator.com/item?id=48726966\nPoints: 16\n# Comments: 5",
-      "publishedAt": "2026-06-30T00:05:33.000Z",
-      "image": "https://opengraph.githubassets.com/b3117aa5f4c3d3cf27857338d0cd61060c5fa1fab6f091b56645efbfa48597e5/SMJAI/open-memory-protocol"
+      "image": "https://s3plus.meituan.net/aigc-media-resources/longcat/big-cat-logo.png"
     },
     {
       "source": "Engadget",
@@ -56,14 +96,6 @@
       "summary": "Article URL: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/\nComments URL: https://news.ycombinator.com/item?id=48726…",
       "publishedAt": "2026-06-29T22:21:00.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-      "summary": "Article URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html\nComments URL: https://news.ycombinator.com/item?id=48726073\nPoints: 79\n# Comments: 32",
-      "publishedAt": "2026-06-29T22:18:26.000Z",
-      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-find-molecu-1.jpg"
     },
     {
       "source": "Engadget",
@@ -306,14 +338,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-455242307_8b18ff.jpg?resize=1200,800"
     },
     {
-      "source": "Hacker News",
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "summary": "Article URL: https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models\nComments URL: https://news.ycombinator.com/item?id=48722802\nPoints: 61\n# Comments: 19",
-      "publishedAt": "2026-06-29T18:03:26.000Z",
-      "image": "https://vllm.ai/blog-assets/figures/2026-06-29-micro-agent-frontier-models/looper-micro-agents.png"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "AI agents are not your “coworkers”",
       "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
@@ -336,14 +360,6 @@
       "summary": "The iPad Air supports Apple Pencil Pro, plus hover support. | ﻿Photo: Antonio G. Di Benedetto, The Verge\t\n\nMost of Apple’s price increases have gone into effect, resulting in iPads…",
       "publishedAt": "2026-06-29T17:49:12.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/257606_iPad_air_ADiBenedetto_0001.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "publishedAt": "2026-06-29T17:39:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801"
     },
     {
       "source": "VentureBeat",
@@ -418,14 +434,6 @@
       "image": "https://media.wired.com/photos/6a3ea5c91e35b245eb758885/191:100/w_1280,c_limit/GettyImages-2275015619.jpg"
     },
     {
-      "source": "Wired",
-      "title": "Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change",
-      "link": "https://www.wired.com/story/top-google-security-staff-warn-search-data-could-be-hacked-thanks-to-eu-plans/",
-      "summary": "Europe’s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.",
-      "publishedAt": "2026-06-29T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a3e7dd97fffaa9389f1dae8/191:100/w_1280,c_limit/GettyImages-1946110758.jpg"
-    },
-    {
       "source": "VentureBeat",
       "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
       "link": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
@@ -456,14 +464,6 @@
       "summary": "An endpoint agent cannot report its own absence. The 2026 Axonius Actionability Report, conducted with the Ponemon Institute and surveying 662 IT and security professionals, put a…",
       "publishedAt": "2026-06-26T17:32:42.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6i1AXzJrBmm5vHORb2EnjQ/c51ee7dc067b682eb5ed97250025fb13/HERO_FOR_ARTICLE.jpg?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
-      "link": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
-      "summary": "OpenAI is announcing a limited preview of its newest frontier AI model GPT-5.6 family, which comes in three variants: Sol, Terra, and Luna. \nSol is for the hardest problems, such a…",
-      "publishedAt": "2026-06-26T17:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3lU9GHu18yIWPaRDqvYm2f/4e26e084df7b76a47a4a332857942384/ChatGPT_Image_Jun_26__2026__01_00_08_PM.png?w=300&q=30"
     },
     {
       "source": "MIT Technology Review",
