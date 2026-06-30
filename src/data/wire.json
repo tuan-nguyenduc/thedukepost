@@ -1,6 +1,54 @@
 {
-  "syncedAt": "2026-06-29T23:01:29.341Z",
+  "syncedAt": "2026-06-30T03:55:29.027Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "publishedAt": "2026-06-30T02:28:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 27\n# Comments: 14",
+      "publishedAt": "2026-06-30T00:56:42.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "link": "https://fil-c.org/context_switches",
+      "summary": "Article URL: https://fil-c.org/context_switches\nComments URL: https://news.ycombinator.com/item?id=48727177\nPoints: 50\n# Comments: 19",
+      "publishedAt": "2026-06-30T00:38:19.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "link": "https://longcat.chat/blog/longcat-2.0/",
+      "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/\nComments URL: https://news.ycombinator.com/item?id=48727116\nPoints: 47\n# Comments: 12",
+      "publishedAt": "2026-06-30T00:30:11.000Z",
+      "image": null
+    },
+    {
+      "source": "Hacker News",
+      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+      "link": "https://github.com/SMJAI/open-memory-protocol",
+      "summary": "Article URL: https://github.com/SMJAI/open-memory-protocol\nComments URL: https://news.ycombinator.com/item?id=48726966\nPoints: 16\n# Comments: 5",
+      "publishedAt": "2026-06-30T00:05:33.000Z",
+      "image": "https://opengraph.githubassets.com/b3117aa5f4c3d3cf27857338d0cd61060c5fa1fab6f091b56645efbfa48597e5/SMJAI/open-memory-protocol"
+    },
+    {
+      "source": "Engadget",
+      "title": "Sensitive iPhone supplier details were part of last week's data leak at Tata Electronics",
+      "link": "https://www.engadget.com/2204589/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/",
+      "summary": "Some of Apple's corporate secrets aren't so secret any more.",
+      "publishedAt": "2026-06-29T23:06:30.000Z",
+      "image": "https://www.engadget.com/img/gallery/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/l-intro-1782774264.jpg"
+    },
     {
       "source": "Hacker News",
       "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
@@ -13,7 +61,7 @@
       "source": "Hacker News",
       "title": "Scientists find molecular-level evidence for two structures in liquid water",
       "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-      "summary": "Article URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html\nComments URL: https://news.ycombinator.com/item?id=48726073\nPoints: 7\n# Comments: 1",
+      "summary": "Article URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html\nComments URL: https://news.ycombinator.com/item?id=48726073\nPoints: 79\n# Comments: 32",
       "publishedAt": "2026-06-29T22:18:26.000Z",
       "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-find-molecu-1.jpg"
     },
@@ -26,20 +74,20 @@
       "image": "https://www.engadget.com/img/gallery/theres-now-an-openclaw-app-for-ios-and-android-phones/l-intro-1782770668.jpg"
     },
     {
+      "source": "Ars Technica",
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
+      "publishedAt": "2026-06-29T22:05:33.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/messenger-account-hack-techniques-300x300.webp"
+    },
+    {
       "source": "Wired",
       "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
       "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
       "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED fou…",
       "publishedAt": "2026-06-29T21:49:26.000Z",
       "image": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/191:100/w_1280,c_limit/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Is It Out Yet?",
-      "link": "https://outyet.ai",
-      "summary": "Article URL: https://outyet.ai\nComments URL: https://news.ycombinator.com/item?id=48725397\nPoints: 23\n# Comments: 9",
-      "publishedAt": "2026-06-29T21:18:46.000Z",
-      "image": "https://outyet.ai/opengraph-image?825dc31203fb37b9"
     },
     {
       "source": "Ars Technica",
@@ -117,7 +165,7 @@
       "source": "Ars Technica",
       "title": "US renewable boom passes key milestone in April",
       "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
-      "summary": "Small-scale solar helped renewables nearly triple coal generation on the US grid.",
+      "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
       "publishedAt": "2026-06-29T20:12:30.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2229677995-1152x648.jpg"
     },
@@ -186,14 +234,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/storygraph-book-on-insta.jpg?resize=1123,1200"
     },
     {
-      "source": "Hacker News",
-      "title": "JumpServer: Open-Source Privileged Access Management",
-      "link": "https://github.com/jumpserver/jumpserver",
-      "summary": "Article URL: https://github.com/jumpserver/jumpserver\nComments URL: https://news.ycombinator.com/item?id=48723677\nPoints: 42\n# Comments: 11",
-      "publishedAt": "2026-06-29T19:06:17.000Z",
-      "image": "https://opengraph.githubassets.com/4e0ec28d153b80516ec6ac8492f7007b318caea8e265c9e542d5caac8d8430d1/jumpserver/jumpserver"
-    },
-    {
       "source": "Ars Technica",
       "title": "Ozone loss was a thing even before CFCs were widely used",
       "link": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
@@ -208,14 +248,6 @@
       "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with sever…",
       "publishedAt": "2026-06-29T18:52:03.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "source": "Hacker News",
-      "title": ".garden TLD's change to a bad neighborhood",
-      "link": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
-      "summary": "Article URL: https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627\nComments URL: https://news.ycombinator.com/item?id=48723452\nPoints: 32\n# Comments: 21",
-      "publishedAt": "2026-06-29T18:49:41.000Z",
-      "image": "https://discourse.ifin.network/uploads/default/original/1X/6824644240c7d8465c68fc044fe67b4020d74a7d.png"
     },
     {
       "source": "Engadget",
@@ -277,7 +309,7 @@
       "source": "Hacker News",
       "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
       "link": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "summary": "Article URL: https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models\nComments URL: https://news.ycombinator.com/item?id=48722802\nPoints: 39\n# Comments: 11",
+      "summary": "Article URL: https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models\nComments URL: https://news.ycombinator.com/item?id=48722802\nPoints: 61\n# Comments: 19",
       "publishedAt": "2026-06-29T18:03:26.000Z",
       "image": "https://vllm.ai/blog-assets/figures/2026-06-29-micro-agent-frontier-models/looper-micro-agents.png"
     },
@@ -306,44 +338,12 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/257606_iPad_air_ADiBenedetto_0001.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
-      "source": "Ars Technica",
-      "title": "Kalshi sues Illinois over new tax on prediction market sports bets",
-      "link": "https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/",
-      "summary": "Illinois now a key battleground in fight over prediction market sports bets.",
-      "publishedAt": "2026-06-29T17:48:11.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2266901963-1024x648.jpg"
-    },
-    {
       "source": "TechCrunch",
       "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
       "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
       "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
       "publishedAt": "2026-06-29T17:39:17.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801"
-    },
-    {
-      "source": "Engadget",
-      "title": "The LG StanbyME 2 Max is a standalone 32-inch touchscreen display that costs $1,300",
-      "link": "https://www.engadget.com/2204176/lg-stanbyme-2-max-is-a-standalone-32-inch-touchscreen-display-that-costs-1300/",
-      "summary": "If you want a 4K display you can easily move around the house, LG has you covered.",
-      "publishedAt": "2026-06-29T17:28:57.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-lg-stanbyme-2-max-is-a-standalone-32-inch-touchscreen-display-that-costs-1300/l-intro-1782753977.jpg"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "link": "https://github.com/deepreinforce-ai/Ornith-1",
-      "summary": "Article URL: https://github.com/deepreinforce-ai/Ornith-1\nComments URL: https://news.ycombinator.com/item?id=48722052\nPoints: 123\n# Comments: 27",
-      "publishedAt": "2026-06-29T17:16:17.000Z",
-      "image": "https://opengraph.githubassets.com/7ed420972fc077aa78712af0a1be74d97a1af6e1b2656999a9e34666651470e5/deepreinforce-ai/Ornith-1"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
-      "publishedAt": "2026-06-29T17:03:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745"
     },
     {
       "source": "VentureBeat",
