@@ -45,6 +45,28 @@ set up to run this automatically every 2 hours and commit the result —
 just push this repo to GitHub and it'll start working (Actions are enabled
 by default on public repos; enable them in Settings → Actions if private).
 
+## Send the subscriber digest
+
+`scripts/send-digest.mjs` turns the top Wire stories since the last send
+into an email and sends it through [Buttondown](https://buttondown.com)
+(the same service the subscribe form on `/subscribe` posts to).
+
+Setup:
+1. Get an API key from Buttondown → Settings → Programming.
+2. Add it as a repo secret named `BUTTONDOWN_API_KEY` (Settings → Secrets and
+   variables → Actions).
+
+Then:
+
+```bash
+npm run send-digest:dry   # preview the email, sends nothing
+npm run send-digest       # actually sends (requires BUTTONDOWN_API_KEY)
+```
+
+A GitHub Action (`.github/workflows/send-digest.yml`) sends it once a day
+automatically and commits `src/data/digest-state.json`, which tracks the
+last send so the next digest only includes stories that are new since then.
+
 ## Deploy
 
 **Recommended: Vercel**

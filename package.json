@@ -6,7 +6,9 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "sync-feeds": "node scripts/sync-feeds.mjs"
+    "sync-feeds": "node scripts/sync-feeds.mjs",
+    "send-digest": "node scripts/send-digest.mjs",
+    "send-digest:dry": "node scripts/send-digest.mjs --dry-run"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
