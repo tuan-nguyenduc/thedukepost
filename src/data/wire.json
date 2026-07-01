@@ -1,6 +1,189 @@
 {
-  "syncedAt": "2026-07-01T04:10:08.080Z",
+  "syncedAt": "2026-07-01T09:53:58.864Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "A Guided Tour of Donald Trump’s Renovated Washington, DC",
+      "link": "https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/",
+      "summary": "Trump has remade the nation’s capitol in his own image. Ahead of the Fourth of July, WIRED guides you through the dizzying effects of DC’s makeover.",
+      "publishedAt": "2026-07-01T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a444b5be2fa9f567e373da2/191:100/w_1280,c_limit/Dc-walking-tour-home.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T09:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+      "link": "https://news.ycombinator.com/item?id=48744213",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48744213\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-07-01T09:18:43.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T09:18:43.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
+      "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+      "summary": "Getty says it’s “not required” to accept approval conditions that would force Shutterstock to offload its editorial business. | Image: The Verge\t\n\nGetty is planning to axe its $3.7…",
+      "publishedAt": "2026-07-01T08:41:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T08:41:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
+      "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+      "summary": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Foc…",
+      "publishedAt": "2026-07-01T00:51:03.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0129.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Meta puts rate limits on its smart glasses' Conversation Focus feature",
+          "link": "https://www.engadget.com/2205660/meta-rate-limits-smart-glasses-conversation-focus-feature/",
+          "publishedAt": "2026-07-01T08:40:41.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-01T08:40:41.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust",
+      "link": "https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/",
+      "summary": "New satellite imagery reveals how much terrain has shifted in the wake of the twin quakes.",
+      "publishedAt": "2026-07-01T08:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a4422d26c66c0772f06a931/191:100/w_1280,c_limit/venezuela6.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T08:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
+      "link": "https://www.dongascience.com/en/news/30374",
+      "summary": "Article URL: https://www.dongascience.com/en/news/30374\nComments URL: https://news.ycombinator.com/item?id=48743655\nPoints: 7\n# Comments: 2",
+      "publishedAt": "2026-07-01T08:12:40.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T08:12:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understan…",
+      "publishedAt": "2026-07-01T07:43:22.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9fe6i3bvMxcRA6sb2TJAS-1600-80.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T07:43:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "link": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "summary": "Article URL: https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/\nComments URL: https://news.ycombinator.com/item?id=48742514\nPoints: 37\n# Com…",
+      "publishedAt": "2026-07-01T05:13:22.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T05:13:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The first early human eggs from stem cells",
+      "link": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+      "summary": "Article URL: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells\nComments URL: https://news.ycombinator.com/item?id=48742483\nPoints: 113\n# Com…",
+      "publishedAt": "2026-07-01T05:09:30.000Z",
+      "image": "https://framerusercontent.com/images/PfCSS8URInnpMrqsd5bQlDQBac.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T05:09:30.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
+      "link": "https://www.wired.com/story/ulta-coupon/",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "publishedAt": "2026-07-01T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/191:100/w_1280,c_limit/WIRED-Coupons-R2_3.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Nike Promo Codes and Discounts: 30% for July 2026",
+      "link": "https://www.wired.com/story/nike-promo-code/",
+      "summary": "Check out our deals for Nike this July 2026, including 15% off select purchases.",
+      "publishedAt": "2026-07-01T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Priceline Promo Codes & Coupons: 10% Off July",
+      "link": "https://www.wired.com/story/priceline-promo-code/",
+      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "publishedAt": "2026-07-01T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Peacock Promo Codes: 40% Off July 2026",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "publishedAt": "2026-07-01T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Surfshark Promo Codes: 87% Off | July 2026",
+      "link": "https://www.wired.com/story/surfshark-coupon/",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "publishedAt": "2026-07-01T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Home Depot Promo Codes: 50% Off in July 2026",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this July.",
+      "publishedAt": "2026-07-01T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/191:100/w_1280,c_limit/WIRED-Coupons-R2_13.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T05:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Single header Parser Combinators for C",
+      "link": "https://github.com/steve-chavez/CParseC",
+      "summary": "Article URL: https://github.com/steve-chavez/CParseC\nComments URL: https://news.ycombinator.com/item?id=48742049\nPoints: 27\n# Comments: 2",
+      "publishedAt": "2026-07-01T03:52:55.000Z",
+      "image": "https://opengraph.githubassets.com/1cf3661a6a45ef7f2d255f9e53ab7f8d56a085960d77432c3a1626e0da8857dc/steve-chavez/CParseC",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-01T03:52:55.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Gemini Spark comes to Google's Gemini app for macOS",
@@ -14,7 +197,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "The “Father of the Internet” is finally retiring",
+      "title": "The ‘Father of the Internet’ is finally retiring",
       "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
       "publishedAt": "2026-07-01T03:15:37.000Z",
@@ -25,30 +208,24 @@
     },
     {
       "source": "Hacker News",
-      "title": "Supersonic flight returning to US after half-century ban",
-      "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
-      "summary": "https://www.faa.gov/newsroom/trumps-transportation-secretary...\nComments URL: https://news.ycombinator.com/item?id=48741654\nPoints: 14\n# Comments: 5",
-      "publishedAt": "2026-07-01T02:26:22.000Z",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a4421163051221e5ebeea37/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "title": "ArXiv's Next Chapter",
+      "link": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "summary": "Article URL: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/\nComments URL: https://news.ycombinator.com/item?id=48741748\nPoints: 116\n# Comments: 38",
+      "publishedAt": "2026-07-01T02:51:36.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-01T02:26:22.000Z"
+      "latestActivity": "2026-07-01T02:51:36.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-      "publishedAt": "2026-06-30T23:23:04.000Z",
-      "image": "https://media.wired.com/photos/6a444e05c62f6b38179079b8/191:100/w_1280,c_limit/White-House-LiftsExport-Controls-Anthropic-Business-AP-26168447800568.jpg",
-      "sourceCount": 3,
+      "source": "Engadget",
+      "title": "US government allows Anthropic to redeploy its Mythos and Fable AI models",
+      "link": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
+      "summary": "Anthropic will start its users' access to Mythos and Fable tomorrow, July 1.",
+      "publishedAt": "2026-07-01T01:59:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/us-government-allows-anthropic-to-redeploy-its-mythos-and-fable-ai-models/l-intro-1782871024.jpg",
+      "sourceCount": 2,
       "related": [
-        {
-          "source": "Engadget",
-          "title": "US government allows Anthropic to redeploy its Mythos and Fable AI models",
-          "link": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
-          "publishedAt": "2026-07-01T01:59:26.000Z"
-        },
         {
           "source": "TechCrunch",
           "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
@@ -71,36 +248,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Americans see their country's past, present and future",
-      "link": "https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future",
-      "summary": "Article URL: https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future\nComments URL: https://news.ycombinator.com/item?id=4874136…",
-      "publishedAt": "2026-07-01T01:24:21.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-01T01:24:21.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Forestiere Underground Gardens",
       "link": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens\nComments URL: https://news.ycombinator.com/item?id=48741359\nPoints: 29\n# Comments: 3",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens\nComments URL: https://news.ycombinator.com/item?id=48741359\nPoints: 68\n# Comments: 15",
       "publishedAt": "2026-07-01T01:23:09.000Z",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Forestiere_Underground_Gardens_at_5021_West_Shaw_Avenue%2C_Fresno%2C_California_LCCN2013634990.jpg/1280px-Forestiere_Underground_Gardens_at_5021_West_Shaw_Avenue%2C_Fresno%2C_California_LCCN2013634990.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-01T01:23:09.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
-      "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-      "summary": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Foc…",
-      "publishedAt": "2026-07-01T00:51:03.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0129.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-01T00:51:03.000Z"
     },
     {
       "source": "The Verge",
@@ -112,28 +267,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-01T00:03:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "summary": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341\nComments URL: https://news.ycombinator.com/item?id=48740771\nPoints: 391\n# Comments: 178",
-      "publishedAt": "2026-06-30T23:55:12.000Z",
-      "image": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T23:55:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google copybara: moving code between repositories",
-      "link": "https://github.com/google/copybara",
-      "summary": "Article URL: https://github.com/google/copybara\nComments URL: https://news.ycombinator.com/item?id=48740698\nPoints: 102\n# Comments: 13",
-      "publishedAt": "2026-06-30T23:45:39.000Z",
-      "image": "https://repository-images.githubusercontent.com/67722017/76fcc500-525b-11ea-85e2-37c7b18c893c",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T23:45:39.000Z"
     },
     {
       "source": "Engadget",
@@ -170,7 +303,7 @@
     },
     {
       "source": "The Verge",
-      "title": "Dish files for bankruptcy, but not shutting down",
+      "title": "Dish files for bankruptcy, but is not shutting down",
       "link": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
       "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to contin…",
       "publishedAt": "2026-06-30T22:46:52.000Z",
@@ -178,17 +311,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T22:46:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
-      "link": "https://hatari.frama.io/hatari/online/hatari.html",
-      "summary": "Article URL: https://hatari.frama.io/hatari/online/hatari.html\nComments URL: https://news.ycombinator.com/item?id=48740135\nPoints: 44\n# Comments: 4",
-      "publishedAt": "2026-06-30T22:34:23.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T22:34:23.000Z"
     },
     {
       "source": "VentureBeat",
@@ -231,17 +353,6 @@
       "latestActivity": "2026-06-30T22:11:10.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "TabFM: A zero-shot foundation model for tabular data",
-      "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-      "summary": "Article URL: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/\nComments URL: https://news.ycombinator.com/item?id=48739919\nPoints: 52\n#…",
-      "publishedAt": "2026-06-30T22:08:38.000Z",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T22:08:38.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "OpenClaw is finally available on Android and iOS",
       "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
@@ -275,17 +386,6 @@
       "latestActivity": "2026-06-30T21:46:35.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "summary": "Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1\nComments URL: https://news.ycombinator.com/item?id=48739466\nPoints: 123\n# Comments:…",
-      "publishedAt": "2026-06-30T21:29:13.000Z",
-      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=kt4rIA7tiyMQ7kNvwGuNEXj&_nc_oc=Adq5wO5jKlpPs2KBnKx-tsIWTLfzmkHp8sZbQCU91HEXjaw2fBOvAz63IpHSo86QxkY&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=GVJVmDwl9B8dhTbzdEUnAg&_nc_ss=7c180&oh=00_AQDBI_nx3Ks4Y3HRRV2pYTOdiQ3i7Hf0VG_zdwPps5SPpQ&oe=6A5EC4ED",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T21:29:13.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Anthropic's new Sonnet 5 model is better at the tasks that are running up enterprise bills",
       "link": "https://www.engadget.com/2205475/anthropic-releases-claude-sonnet-5-model/",
@@ -295,17 +395,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T21:28:34.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Daisy’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper",
-      "link": "https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/",
-      "summary": "The California-based startup enters a crowded headphone market with a $399 chiseled-aluminum gamble.",
-      "publishedAt": "2026-06-30T21:07:32.000Z",
-      "image": "https://media.wired.com/photos/6a429d965cdc2b309c97ad67/191:100/w_1280,c_limit/Daisy%20One%20Silver%20Hero.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T21:07:32.000Z"
     },
     {
       "source": "Ars Technica",
@@ -361,17 +450,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T20:33:48.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Netflix used AI to put Gene Wilder's voice into a new reality show",
-      "link": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show/",
-      "summary": "So much for magic.",
-      "publishedAt": "2026-06-30T20:24:49.000Z",
-      "image": "https://www.engadget.com/img/gallery/netflix-used-ai-to-put-gene-wilders-voice-into-a-new-reality-show/l-intro-1782850909.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T20:24:49.000Z"
     },
     {
       "source": "Ars Technica",
@@ -464,17 +542,6 @@
       "latestActivity": "2026-06-30T18:42:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
-      "link": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
-      "summary": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franc…",
-      "publishedAt": "2026-06-30T18:14:05.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7683959b09f7863c5eb23bfdbcf039269765b5d6.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T18:14:05.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
       "link": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
@@ -506,17 +573,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T16:19:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "New York Is About to Feel Hotter Than Phoenix",
-      "link": "https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/",
-      "summary": "Extreme heat coupled with humidity will make it feel like 109 degrees Fahrenheit as the holiday weekend approaches.",
-      "publishedAt": "2026-06-30T15:18:08.000Z",
-      "image": "https://media.wired.com/photos/6a4304a19ec6fcabfa38b311/191:100/w_1280,c_limit/New-York-Is-About-to-Fee-Hotter-Than-Phoenix-Science-1012325148.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T15:18:08.000Z"
     },
     {
       "source": "VentureBeat",
@@ -552,39 +608,6 @@
       "latestActivity": "2026-06-30T12:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The 2 Best Slushie Machines of 2026: Now With Soft Serve",
-      "link": "https://www.wired.com/gallery/best-slushie-machines/",
-      "summary": "The original Ninja Slushi has been replaced! The new best slushie machines chill faster and make soft serve.",
-      "publishedAt": "2026-06-30T11:33:00.000Z",
-      "image": "https://media.wired.com/photos/6a430e5c1a7682b9dd9cacbc/191:100/w_1280,c_limit/The-2-Best-Slushie-Machines-for-Parties,-Margs,-and-Soft-Serve-Ice-Cream.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T11:33:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
-      "link": "https://www.wired.com/review/bitdefender-vpn/",
-      "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
-      "publishedAt": "2026-06-30T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a42affc6262e4d897071945/191:100/w_1280,c_limit/bitdefender3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Bernie Sanders Saw This Coming",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reach…",
-      "publishedAt": "2026-06-30T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T10:30:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Building tech in the world’s secret R&D hub",
       "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
@@ -594,28 +617,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-06-30T10:23:30.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "How Hunter Biden Won the Internet",
-      "link": "https://www.wired.com/story/how-hunter-biden-won-the-internet/",
-      "summary": "WIRED spent months talking to America’s favorite failson as he plotted his return to public life. Now he’s feeding the trolls—and everyone else.",
-      "publishedAt": "2026-06-30T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a430fd7ab0f689c57e00404/191:100/w_1280,c_limit/HunterBiden_WEB_DSC0702.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
-      "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
-      "summary": "The maps and images show the extent of destruction and give rescue operations a tool to find any remaining survivors.",
-      "publishedAt": "2026-06-30T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a42ffe448c440f683e2b40c/191:100/w_1280,c_limit/venezueladestruccion.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T09:30:00.000Z"
     },
     {
       "source": "VentureBeat",
