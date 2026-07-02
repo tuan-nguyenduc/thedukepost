@@ -24,6 +24,6 @@ jobs:
         run: |
           git config user.name "thedukepost-bot"
           git config user.email "bot@thedukepost.com"
-          git add src/data/digest-state.json
+          git add src/data/digest-state.json src/data/digest-archive.json
           git diff --staged --quiet || git commit -m "chore: update digest state"
           git push

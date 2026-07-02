@@ -25,6 +25,8 @@ import NewsletterForm from '../components/NewsletterForm.astro';
         <li>✋ No spam. Unsubscribe anytime.</li>
       </ul>
     </div>
+
+    <p class="subscribe-page__archive-link">Not sure yet? <a href="/newsletter">Browse past issues</a> before you subscribe.</p>
   </section>
 </BaseLayout>
 
@@ -83,6 +85,18 @@ import NewsletterForm from '../components/NewsletterForm.astro';
 
   .benefits-list li + li {
     border-top: 1px solid var(--paper-line);
+  }
+
+  .subscribe-page__archive-link {
+    text-align: center;
+    margin-top: 32px;
+    color: var(--slate);
+    font-size: 15px;
+  }
+
+  .subscribe-page__archive-link a {
+    color: var(--accent);
+    border-bottom: 2px solid var(--accent-soft);
   }
 
   @media (max-width: 560px) {

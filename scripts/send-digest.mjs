@@ -8,6 +8,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const WIRE_PATH = 'src/data/wire.json';
 const STATE_PATH = 'src/data/digest-state.json';
+const ARCHIVE_PATH = 'src/data/digest-archive.json';
 const MAX_STORIES = 8;
 const MIN_STORIES = 1;
 // First run has no prior send to diff against — fall back to a lookback
@@ -84,6 +85,28 @@ async function sendEmail({ subject, body }) {
   }
 }
 
+async function archiveIssue({ subject, sentAt, stories }) {
+  const archive = await readJson(ARCHIVE_PATH, { issues: [] });
+  const dateStr = sentAt.toISOString().slice(0, 10);
+  const existingSlugs = new Set(archive.issues.map((issue) => issue.slug));
+  let slug = dateStr;
+  let suffix = 2;
+  while (existingSlugs.has(slug)) {
+    slug = `${dateStr}-${suffix++}`;
+  }
+
+  archive.issues.unshift({
+    slug,
+    subject,
+    sentAt: sentAt.toISOString(),
+    stories: stories.map(({ title, summary, source, sourceCount, link }) => (
+      { title, summary, source, sourceCount, link }
+    )),
+  });
+
+  await writeFile(ARCHIVE_PATH, JSON.stringify(archive, null, 2) + '\n');
+}
+
 async function sendDigest() {
   const wire = await readJson(WIRE_PATH, null);
   if (!wire) throw new Error(`${WIRE_PATH} not found — run \`npm run sync-feeds\` first.`);
@@ -117,7 +140,9 @@ async function sendDigest() {
   await sendEmail(email);
   console.log(`✓ Sent digest with ${stories.length} stories: "${email.subject}"`);
 
-  await writeFile(STATE_PATH, JSON.stringify({ lastSentAt: new Date().toISOString() }, null, 2));
+  const sentAt = new Date();
+  await writeFile(STATE_PATH, JSON.stringify({ lastSentAt: sentAt.toISOString() }, null, 2));
+  await archiveIssue({ subject: email.subject, sentAt, stories });
 }
 
 sendDigest()

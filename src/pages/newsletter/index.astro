@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+import archive from '../../data/digest-archive.json';
+
+const issues = archive.issues;
+---
+<BaseLayout
+  title="Newsletter Archive — The Duke Post"
+  description="Every past issue of The Wire digest — the top tech stories, delivered daily to subscribers."
+>
+  <section class="wrap page">
+    <h1>Newsletter Archive</h1>
+    <p class="intro">Every issue we've sent, in order. New here? <a href="/subscribe">Subscribe</a> to get the next one.</p>
+
+    {issues.length > 0 ? (
+      <ul class="list">
+        {issues.map((issue) => (
+          <li>
+            <a href={`/newsletter/${issue.slug}`} class="sticker card">
+              <span class="byline">{new Date(issue.sentAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+              <h2>{issue.subject}</h2>
+              <p>{issue.stories.length} {issue.stories.length === 1 ? 'story' : 'stories'} · {issue.stories.slice(0, 3).map((s) => s.title).join(' · ')}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <p class="empty">No issues sent yet — check back soon, or <a href="/subscribe">subscribe</a> to get the first one.</p>
+    )}
+  </section>
+</BaseLayout>
+
+<style>
+  .page { padding: 48px 24px 80px; max-width: 780px; }
+  h1 { font-size: 36px; margin-bottom: 14px; }
+  .intro { color: var(--slate); margin-bottom: 36px; }
+  .intro a { color: var(--accent); border-bottom: 2px solid var(--accent-soft); }
+
+  .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 20px; }
+  .list li { margin: 0; }
+  .card { display: block; padding: 24px; }
+  .list h2 { font-size: 22px; margin: 8px 0; }
+  .list p { color: var(--slate); font-size: 14px; margin: 0; overflow-wrap: anywhere; }
+  .empty { color: var(--slate); font-size: 17px; }
+  .empty a { color: var(--accent); border-bottom: 2px solid var(--accent-soft); }
+</style>
