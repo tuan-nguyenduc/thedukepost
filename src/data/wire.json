@@ -1,21 +1,125 @@
 {
-  "syncedAt": "2026-07-02T17:51:34.223Z",
+  "syncedAt": "2026-07-02T19:28:57.374Z",
   "items": [
     {
-      "source": "Ars Technica",
-      "title": "Tesla sales increase by 25% in Q2 2026",
-      "link": "https://arstechnica.com/cars/2026/07/tesla-sales-increase-by-25-in-q2-2026/",
-      "summary": "Deliveries outstripped production, suggesting Tesla has cleared some inventory.",
-      "publishedAt": "2026-07-02T14:11:07.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-187005526-1152x648.jpg",
-      "sourceCount": 3,
+      "source": "TechCrunch",
+      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+      "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "summary": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.",
+      "publishedAt": "2026-07-02T19:14:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1136629211.jpg?resize=1200,798",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T19:14:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+      "link": "https://openjdk.org/jeps/539",
+      "summary": "Article URL: https://openjdk.org/jeps/539\nComments URL: https://news.ycombinator.com/item?id=48765830\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-02T18:56:33.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:56:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
+      "link": "https://willpenman.com/klara/",
+      "summary": "Article URL: https://willpenman.com/klara/\nComments URL: https://news.ycombinator.com/item?id=48765743\nPoints: 12\n# Comments: 9",
+      "publishedAt": "2026-07-02T18:48:58.000Z",
+      "image": "https://willpenman.com/klara/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:48:58.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "publishedAt": "2026-07-02T18:44:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:44:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Exapunks (2018)",
+      "link": "https://www.zachtronics.com/exapunks/",
+      "summary": "Article URL: https://www.zachtronics.com/exapunks/\nComments URL: https://news.ycombinator.com/item?id=48765663\nPoints: 47\n# Comments: 13",
+      "publishedAt": "2026-07-02T18:41:19.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:41:19.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+      "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+      "summary": "Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the cost and benefits of services.",
+      "publishedAt": "2026-07-02T18:39:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1140153524.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:39:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "publishedAt": "2026-07-02T18:31:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:31:09.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
+      "link": "https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/",
+      "summary": "One of Kalshi’s most prominent traders tells WIRED he’s swearing off Spotify-related markets until the issue is resolved.",
+      "publishedAt": "2026-07-02T18:30:59.000Z",
+      "image": "https://media.wired.com/photos/6a467843a501cf42d472ee3c/191:100/w_1280,c_limit/GettyImages-2277135438.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:30:59.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
+      "link": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
+      "summary": "The Weber Spirit E-325 grill with three burners. | Image: Weber\t\n\nIf our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veg…",
+      "publishedAt": "2026-07-02T18:19:03.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Weber-Spirit-E325-deal-image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:19:03.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+      "publishedAt": "2026-07-02T18:01:20.000Z",
+      "image": "https://media.wired.com/photos/6a45a0b0f1efb2d48b192c77/191:100/w_1280,c_limit/Model-Behavior-Cursor-Will-Keep-Using-Anthropic-OpenAI-Models-After-SpaceX-Deal-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:01:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tesla&#8217;s Q2 sales jump 25 percent",
+      "link": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
+      "summary": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. \nThe compan…",
+      "publishedAt": "2026-07-02T14:14:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
       "related": [
-        {
-          "source": "The Verge",
-          "title": "Tesla&#8217;s Q2 sales jump 25 percent",
-          "link": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
-          "publishedAt": "2026-07-02T14:14:48.000Z"
-        },
         {
           "source": "Engadget",
           "title": "Tesla Q2 vehicle deliveries are up 25 percent over last year",
@@ -38,6 +142,17 @@
     },
     {
       "source": "Ars Technica",
+      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+      "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+      "summary": "New US rules would legalize quiet supersonic flights without the sonic boom.",
+      "publishedAt": "2026-07-02T17:29:37.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-2560x1440.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T17:29:37.000Z"
+    },
+    {
+      "source": "Ars Technica",
       "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
       "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
       "summary": "I have not seen anyone put out a date for a new rocket, and actually hit it.",
@@ -46,17 +161,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T16:46:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
-      "link": "https://getquality.md",
-      "summary": "Hello all, I created QUALITY.md to help build a holistic quality evaluation process for my projects. Turns out it's also ideal for loop engineering. I'm hoping this provides a valu…",
-      "publishedAt": "2026-07-02T16:36:12.000Z",
-      "image": "https://qualitymd.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DWelcome%26description%3DModel%2Byour%2Bproject%2527s%2Bquality%2Bso%2Bteams%2Band%2Bagents%2Bcan%2Bevaluate%2Bit%252C%2Bstay%2Baligned%2Bon%2Bwhat%2Bgood%2Bmeans%252C%2Band%2Bimprove%2Bit%2Bover%2Btime.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fqualitymd%252FsLIMh5WV6DfwmLOb%252Fimages%252Flogo-light.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DsLIMh5WV6DfwmLOb%2526q%253D85%2526s%253D030d662d102781868c1d2a2bd2d19dd3%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fqualitymd%252FsLIMh5WV6DfwmLOb%252Fimages%252Flogo-dark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DsLIMh5WV6DfwmLOb%2526q%253D85%2526s%253D4b8425268a06c01fa6bab22883d684ef%26primaryColor%3D%25235B68EE%26lightColor%3D%2523A4ACF2%26darkColor%3D%25235B68EE%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230c0c10&w=1200&q=100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T16:36:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -161,7 +265,7 @@
       "source": "Hacker News",
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "link": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "summary": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438\nComments URL: https://news.ycombinator.com/item?id=48763035\nPoints: 186\n# Comments: 88",
+      "summary": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438\nComments URL: https://news.ycombinator.com/item?id=48763035\nPoints: 280\n# Comments: 136",
       "publishedAt": "2026-07-02T15:25:16.000Z",
       "image": null,
       "sourceCount": 1,
@@ -235,17 +339,6 @@
       "latestActivity": "2026-07-02T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
-      "link": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
-      "summary": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected.",
-      "publishedAt": "2026-07-02T14:53:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T14:53:39.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Onimusha: Way of the Sword's release date has been pushed up to avoid the pre-GTA 6 scramble",
       "link": "https://www.engadget.com/2206772/onimusha-way-of-the-sword-release-date-has-been-pushed-up-to-avoid-pre-gta-6-scramble/",
@@ -268,37 +361,26 @@
       "latestActivity": "2026-07-02T14:39:17.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "US government says it got hacked — again",
-      "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
-      "summary": "A top Democrat on the Senate's Intelligence Committee warned that the information accessed on a Homeland Security intelligence-sharing network may risk national security.",
-      "publishedAt": "2026-07-02T14:22:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/DHS-Getty.jpg?resize=1200,800",
+      "source": "Hacker News",
+      "title": "Podman v6.0.0",
+      "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "summary": "Article URL: https://blog.podman.io/2026/07/introducing-podman-v6-0-0/\nComments URL: https://news.ycombinator.com/item?id=48762098\nPoints: 112\n# Comments: 29",
+      "publishedAt": "2026-07-02T14:23:09.000Z",
+      "image": "https://s0.wp.com/i/blank.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-02T14:22:36.000Z"
+      "latestActivity": "2026-07-02T14:23:09.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
       "link": "https://github.com/rafal-qa/slopo",
-      "summary": "Article URL: https://github.com/rafal-qa/slopo\nComments URL: https://news.ycombinator.com/item?id=48762038\nPoints: 38\n# Comments: 11",
+      "summary": "Article URL: https://github.com/rafal-qa/slopo\nComments URL: https://news.ycombinator.com/item?id=48762038\nPoints: 54\n# Comments: 24",
       "publishedAt": "2026-07-02T14:19:24.000Z",
-      "image": "https://opengraph.githubassets.com/6b4f48b9728cece2feb745a7a8d22c47b5e27591450c6301fed3cee9aca7d32e/rafal-qa/slopo",
+      "image": "https://opengraph.githubassets.com/b49b217c1cd97a19ff6ab05bc4f236903a674930e7ba734130d1e71a6b0a184a/rafal-qa/slopo",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T14:19:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "link": "https://mailmemories.com",
-      "summary": "Hey HN, I’m the creator of Mail Memories. Like many of you, I've had my Gmail address for more than 20 years. A few years ago, I got curious and wanted to see what photos were buri…",
-      "publishedAt": "2026-07-02T14:16:57.000Z",
-      "image": "https://mailmemories.com/assets/images/screen-mac.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T14:16:57.000Z"
     },
     {
       "source": "The Verge",
@@ -310,39 +392,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "publishedAt": "2026-07-02T13:53:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office-e1735933827774.jpg?resize=1200,799",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T13:53:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/\nComments URL: https://news.ycombinator.com/item?id=48761536\nPoints: 230\n# Comments: 94",
-      "publishedAt": "2026-07-02T13:43:41.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T13:43:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
-      "link": "https://www.zerofs.net/",
-      "summary": "Article URL: https://www.zerofs.net/\nComments URL: https://news.ycombinator.com/item?id=48761493\nPoints: 87\n# Comments: 41",
-      "publishedAt": "2026-07-02T13:41:11.000Z",
-      "image": "https://www.zerofs.net/assets/og-card.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T13:41:11.000Z"
     },
     {
       "source": "Wired",
@@ -376,17 +425,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T13:27:42.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tesla saw a massive sales jump in the second quarter",
-      "link": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
-      "summary": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck.",
-      "publishedAt": "2026-07-02T13:20:15.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T13:20:15.000Z"
     },
     {
       "source": "Engadget",
@@ -521,28 +559,6 @@
       "latestActivity": "2026-07-02T10:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI,…",
-      "publishedAt": "2026-07-02T10:23:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T10:23:27.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
-      "link": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline amid the suffocating presence of Big Tech.",
-      "publishedAt": "2026-07-02T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a440cd07bfc78bf5e9f6406/191:100/w_1280,c_limit/GenZ-Luddite-Summer-Culture-IMG_4448.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T10:00:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
       "link": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
@@ -552,17 +568,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
-      "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
-      "summary": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
-      "publishedAt": "2026-07-02T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a39b04cb817861918a9c777/191:100/w_1280,c_limit/Meta%20Fury%20SOURCE%20Julian%20Chokkattu.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T09:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
