@@ -1,16 +1,104 @@
 {
-  "syncedAt": "2026-07-02T21:11:00.724Z",
+  "syncedAt": "2026-07-02T23:10:47.856Z",
   "items": [
     {
+      "source": "TechCrunch",
+      "title": "Private space pilots are flying orbital missions for the US Space Force",
+      "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the US military.",
+      "publishedAt": "2026-07-02T23:01:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T23:01:06.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Meta has released an app for making generative AI games",
+      "link": "https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/",
+      "summary": "Pocket is listed in app stores but seemingly unavailable in the US.",
+      "publishedAt": "2026-07-02T22:53:42.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-has-released-an-app-for-making-generative-ai-games/l-intro-1783032213.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T22:53:42.000Z"
+    },
+    {
       "source": "The Verge",
-      "title": "Meta has a new app to let you make little AI experiences",
+      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news out…",
+      "publishedAt": "2026-07-02T22:09:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2224672042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T22:09:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+      "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html\nComments URL: https://news.ycombinator.com/item?id=48767914\nPoints: 33\n# Comments: 9",
+      "publishedAt": "2026-07-02T21:59:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T21:59:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
+      "publishedAt": "2026-07-02T21:57:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/IMG_1483.jpg?w=600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T21:57:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Simple, beautiful Emacs modeline: modusregel",
+      "link": "https://codeberg.org/jjba23/modusregel",
+      "summary": "Article URL: https://codeberg.org/jjba23/modusregel\nComments URL: https://news.ycombinator.com/item?id=48767834\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-07-02T21:50:11.000Z",
+      "image": "https://codeberg.org/jjba23/modusregel/-/summary-card",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T21:50:11.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Cloudflare will filter out web crawlers that serve AI companies",
+      "link": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/",
+      "summary": "The hosting platform wants sites to have more control over how AI companies use their content.",
+      "publishedAt": "2026-07-02T21:17:10.000Z",
+      "image": "https://www.engadget.com/img/gallery/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/l-intro-1783026774.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T21:17:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
       "link": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
-      "summary": "Meta has launched a new social app called Pocket that lets you make and share little interactive \"gizmos\" with an AI prompt, as reported by Business Insider. \nMeta CEO Mark Zuckerb…",
+      "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets…",
       "publishedAt": "2026-07-02T21:09:06.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T21:09:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Virginia bans sale of geolocation data",
+      "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "summary": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\nComments URL: https://news.ycombinator.com/item?id=48767347\nPoints: 22…",
+      "publishedAt": "2026-07-02T21:03:45.000Z",
+      "image": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/assets/images-t1783027116/206510.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T21:03:45.000Z"
     },
     {
       "source": "VentureBeat",
@@ -60,7 +148,7 @@
       "source": "TechCrunch",
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
       "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
       "publishedAt": "2026-07-02T20:11:59.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
       "sourceCount": 1,
@@ -71,7 +159,7 @@
       "source": "Hacker News",
       "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
       "link": "http://www.lmdb.tech/doc/",
-      "summary": "Article URL: http://www.lmdb.tech/doc/\nComments URL: https://news.ycombinator.com/item?id=48766598\nPoints: 21\n# Comments: 6",
+      "summary": "Article URL: http://www.lmdb.tech/doc/\nComments URL: https://news.ycombinator.com/item?id=48766598\nPoints: 48\n# Comments: 26",
       "publishedAt": "2026-07-02T20:01:20.000Z",
       "image": null,
       "sourceCount": 1,
@@ -79,10 +167,21 @@
       "latestActivity": "2026-07-02T20:01:20.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+      "publishedAt": "2026-07-02T19:38:57.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T19:38:57.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "Wireless LAN SD",
       "link": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
-      "summary": "Article URL: https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/\nComments URL: https://news.ycombinator.com/item?id=48766297\nPoints: 3\n# Comments: 0",
+      "summary": "Article URL: https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/\nComments URL: https://news.ycombinator.com/item?id=48766297\nPoints: 24\n# Comments: 1…",
       "publishedAt": "2026-07-02T19:35:20.000Z",
       "image": "https://www.sdcard.org/wp-content/uploads/2020/12/isdio-graphic.png",
       "sourceCount": 1,
@@ -93,7 +192,7 @@
       "source": "Hacker News",
       "title": "Great Salt Lake Tracker – Grow the Flow",
       "link": "https://growtheflowutah.org/laketracker/",
-      "summary": "Article URL: https://growtheflowutah.org/laketracker/\nComments URL: https://news.ycombinator.com/item?id=48766286\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://growtheflowutah.org/laketracker/\nComments URL: https://news.ycombinator.com/item?id=48766286\nPoints: 38\n# Comments: 4",
       "publishedAt": "2026-07-02T19:33:55.000Z",
       "image": null,
       "sourceCount": 1,
@@ -113,14 +212,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
-      "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html\nComments URL: https://news.y…",
-      "publishedAt": "2026-07-02T19:16:20.000Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108300154-1777568965605-gettyimages-2273897299-jr_17222_lrhcapzi.jpeg?v=1783012330&w=1920&h=1080",
+      "title": "A New Catalog of Stellar Rotation Periods for over a Million Stars",
+      "link": "https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/",
+      "summary": "Article URL: https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/\nComments URL: https://news.ycombinator.com/item?id=48766124\nPoints:…",
+      "publishedAt": "2026-07-02T19:20:29.000Z",
+      "image": "https://aasnova.org/wp-content/uploads/2026/06/TESSInSpaceRender1-scaled.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-02T19:16:20.000Z"
+      "latestActivity": "2026-07-02T19:20:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -134,28 +233,6 @@
       "latestActivity": "2026-07-02T19:14:46.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Claude-real-video － any LLM can watch a video",
-      "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video\nComments URL: https://news.ycombinator.com/item?id=48766005\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-07-02T19:10:12.000Z",
-      "image": "https://opengraph.githubassets.com/ba680f9e6dd1ed079768499be1dd69c0d05731c7a0ec9a944af17a3f99156027/HUANGCHIHHUNGLeo/claude-real-video",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T19:10:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
-      "link": "https://openjdk.org/jeps/539",
-      "summary": "Article URL: https://openjdk.org/jeps/539\nComments URL: https://news.ycombinator.com/item?id=48765830\nPoints: 29\n# Comments: 11",
-      "publishedAt": "2026-07-02T18:56:33.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T18:56:33.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
       "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
@@ -165,17 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T18:44:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Exapunks (2018)",
-      "link": "https://www.zachtronics.com/exapunks/",
-      "summary": "Article URL: https://www.zachtronics.com/exapunks/\nComments URL: https://news.ycombinator.com/item?id=48765663\nPoints: 138\n# Comments: 47",
-      "publishedAt": "2026-07-02T18:41:19.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T18:41:19.000Z"
     },
     {
       "source": "TechCrunch",
@@ -209,6 +275,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T18:30:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why bulky laptop chargers are a relic of the past",
+      "link": "https://www.engadget.com/2204249/why-bulky-laptop-chargers-are-outdated/",
+      "summary": "Laptop chargers are much easier to travel with these days, and there's one specific technology that is largely to thank.",
+      "publishedAt": "2026-07-02T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-bulky-laptop-chargers-are-a-relic-of-the-past/l-intro-1782755634.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-02T18:30:00.000Z"
     },
     {
       "source": "The Verge",
@@ -251,23 +328,12 @@
       "latestActivity": "2026-07-02T17:44:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
-      "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
-      "summary": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.",
-      "publishedAt": "2026-07-02T17:30:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T17:30:04.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
       "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
       "summary": "New US rules would legalize quiet supersonic flights without the sonic boom.",
       "publishedAt": "2026-07-02T17:29:37.000Z",
-      "image": null,
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-2560x1440.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T17:29:37.000Z"
@@ -289,7 +355,7 @@
       "link": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
       "summary": "Plex is pushing customers to newer features and more frequent payments.",
       "publishedAt": "2026-07-02T16:35:59.000Z",
-      "image": null,
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2276656517-1152x648-1783004998.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T16:35:59.000Z"
@@ -372,17 +438,6 @@
       "latestActivity": "2026-07-02T15:37:08.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
-      "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
-      "summary": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures.",
-      "publishedAt": "2026-07-02T15:26:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1440486571.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T15:26:43.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
       "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
@@ -414,28 +469,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T14:53:03.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
-      "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.",
-      "publishedAt": "2026-07-02T14:39:17.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T14:39:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
-      "link": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
-      "summary": "We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions adv…",
-      "publishedAt": "2026-07-02T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_Lanzi_Digitas.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T14:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -515,28 +548,6 @@
       "latestActivity": "2026-07-02T11:31:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Amazon is ready to deploy the Leo satellite broadband service",
-      "link": "https://www.engadget.com/2206582/amazon-leo-is-ready-to-go/",
-      "summary": "There are now enough Amazon Leo satellites to launch the service, but its constellation is still tiny compared to Starlink's.",
-      "publishedAt": "2026-07-02T11:18:30.000Z",
-      "image": "https://www.engadget.com/img/gallery/amazon-is-ready-to-deploy-the-leo-satellite-broadband-service/l-intro-1782990997.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T11:18:30.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "A strange attempt to revive the 3DO is already dead",
-      "link": "https://www.engadget.com/2206578/3do-revival-empire-interactive/",
-      "summary": "A long-defunct developer returned from the dead promising to revive the 3DO, but quickly pulled its pledge when it became apparent it didn't have the right to.",
-      "publishedAt": "2026-07-02T11:12:14.000Z",
-      "image": "https://www.engadget.com/img/gallery/a-strange-attempt-to-revive-the-3do-is-already-dead/l-intro-1782990631.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T11:12:14.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Bublue BuVortex V5 Pool Skimmer Review: An Impractical Cleaner",
       "link": "https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/",
@@ -557,17 +568,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T11:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Opera's new security feature stops copy paste attacks from malicious websites",
-      "link": "https://www.engadget.com/2206574/opera-new-security-feature-stops-copy-paste-clickfix-attacks/",
-      "summary": "Opera has introduced a new safety feature that protects against malicious 'ClickFix' clipboard attacks.",
-      "publishedAt": "2026-07-02T10:57:18.000Z",
-      "image": "https://www.engadget.com/img/gallery/operas-new-security-feature-stops-copy-paste-attacks-from-malicious-websites/l-intro-1782989717.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T10:57:18.000Z"
     },
     {
       "source": "VentureBeat",
