@@ -1,6 +1,284 @@
 {
-  "syncedAt": "2026-07-03T10:39:02.733Z",
+  "syncedAt": "2026-07-03T14:12:05.448Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "summary": "Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/\nComments URL: https://news.ycombinator.com/item?id=487…",
+      "publishedAt": "2026-07-03T13:01:49.000Z",
+      "image": "https://www.gamingonlinux.com/uploads/articles/tagline_images/130717818id29323gol_og.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Engadget Podcast: Who needs Valve's Steam Machine?",
+          "link": "https://www.engadget.com/2207598/engadget-podcast-who-needs-valve-steam-machine/",
+          "publishedAt": "2026-07-03T13:35:55.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-03T13:35:55.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to claim a WhatsApp username",
+      "link": "https://www.engadget.com/2207358/how-to-claim-whatsapp-username/",
+      "summary": "Get ready to navigate a free-for-all of social media handles.",
+      "publishedAt": "2026-07-03T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-claim-a-whatsapp-username/l-intro-1783026777.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T13:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hackers shoveled snow for company, were rewarded with network admin access",
+      "link": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
+      "summary": "Article URL: https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240\nComments URL: https://news.ycombinato…",
+      "publishedAt": "2026-07-03T13:19:46.000Z",
+      "image": "https://image.theregister.com/5265252.jpg?imageId=5265252&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T13:19:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
+      "link": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
+      "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser den…",
+      "publishedAt": "2026-07-03T13:12:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_44382.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T13:12:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+      "link": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "summary": "Article URL: https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit\nComments URL: https://news.ycombinator.com/item?id=48774509\nPoints: 33…",
+      "publishedAt": "2026-07-03T13:00:31.000Z",
+      "image": "https://cdn.prod.website-files.com/64f9d9b4e737e7b37d4e39a4/69e8a268046b54c24dff01c2_OOM%20Killer%20(1).jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T13:00:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
+      "link": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
+      "summary": "In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selectio…",
+      "publishedAt": "2026-07-03T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268616_THE_VERGE_SUMMER_IN___OUT_LIST_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T13:00:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+      "link": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+      "summary": "Most verticals aren’t clean, well-oiled SaaS databases; the reality is ugly documents, proprietary schemas, implicit workflows, and long‑running tasks that most general-purpose mod…",
+      "publishedAt": "2026-07-03T13:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/63UxY1M5WET2KFyliCQstB/014b102216bc5911b9c6ab0875400a31/Trunk_Tools.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Fall and Rise of Screwworm",
+      "link": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+      "summary": "Article URL: https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm\nComments URL: https://news.ycombinator.com/item?id=48774492\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-03T12:58:47.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!Uwu9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc40934c9-1c59-4c12-9237-0baa2105463d_832x667.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:58:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
+      "link": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+      "summary": "Article URL: https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html\nComments URL: https://news.ycombinator.com/item?id=48774454\nPoints: 78\n# Comments: 64",
+      "publishedAt": "2026-07-03T12:54:53.000Z",
+      "image": "https://eshumarneedi.com/uploads/2025/avatar.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:54:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini Code Assist will be shut down on July 17",
+      "link": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+      "summary": "Article URL: https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code\nComments URL: https://news.ycombinator.com/item?id=48774429\nPoints: 12\n# Comments: 3",
+      "publishedAt": "2026-07-03T12:52:48.000Z",
+      "image": "https://docs.cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:52:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Please stop the AI confidence theater",
+      "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater\nComments URL: https://news.ycombinator.com/item?id=48774414\nPoints: 80\n# Comments: 45",
+      "publishedAt": "2026-07-03T12:51:17.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!__9h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F442d1ae1-821a-46cd-bccb-066fc8104e9a_664x377.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:51:17.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "PlayStation just struck a hammer blow to game preservation",
+      "link": "https://www.engadget.com/2207297/playstation-just-struck-a-hammer-blow-to-game-preservation/",
+      "summary": "Killing game discs is an anti-consumer move that only benefits Sony.",
+      "publishedAt": "2026-07-03T12:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/playstation-just-struck-a-hammer-blow-to-game-preservation/l-intro-1783023883.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Goodebye Forever Probably: Why I’m leaving developer relations",
+      "link": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+      "summary": "Article URL: https://whitep4nth3r.com/blog/goodbye-forever-probably/\nComments URL: https://news.ycombinator.com/item?id=48774195\nPoints: 9\n# Comments: 3",
+      "publishedAt": "2026-07-03T12:27:23.000Z",
+      "image": "https://res.cloudinary.com/whitep4nth3r/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_900,c_fit,g_north_west,co_rgb:ffffff,x_20,y_20,l_text:Anton_100__line_spacing_-40:GOODBYE%252C%20FOREVER%252C%20PROBABLY./og_2026.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:27:23.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might no…",
+      "publishedAt": "2026-07-03T12:10:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/20250621_MTTR_UAP_SH01_FS_395.jpg?w=3000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:10:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "link": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
+      "publishedAt": "2026-07-03T12:00:36.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1176751554-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:00:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple TV is hitting its stride",
+      "link": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
+      "summary": "Maximum Pleasure Guaranteed. | Image: Apple\t\n\nSince its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies t…",
+      "publishedAt": "2026-07-03T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Maximum_Pleasure_Guaranteed_Photo_010904.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "summary": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nMidjourney has shown more of its futu…",
+      "publishedAt": "2026-07-03T11:49:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T11:49:10.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Despite the darkness, I still see signs of hope in America",
+      "link": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+      "summary": "It's difficult to pinpoint the moment in my life where America started to lose the plot.",
+      "publishedAt": "2026-07-03T11:30:22.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/eric-berger-looking-at-america-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T11:30:22.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa",
+      "link": "https://www.wired.com/gallery/best-bone-conduction-headphones/",
+      "summary": "Everyone needs a safe way to listen to music on outdoor runs. We’ve found the bone conduction headphones to grab on your way out the door.",
+      "publishedAt": "2026-07-03T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/6966abea428592e866cf6614/191:100/w_1280,c_limit/The%20Best%20Bone%20Conduction%20Headphones.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T11:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Visiting the stars (and planets, and telescopes) in VR",
+      "link": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
+      "summary": "Walkthrough experience includes visits to stars, exoplanets, and observatories.",
+      "publishedAt": "2026-07-03T11:15:35.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-2-1152x648.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T11:15:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sony’s PlayStation disc factory is already being repurposed",
+      "link": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+      "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC pres…",
+      "publishedAt": "2026-07-03T01:05:13.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072872/110923_new_Playstation_5_Slim_ADiBenedetto_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Sony already invested $34 million to repurpose its EU PlayStation disc factory",
+          "link": "https://www.engadget.com/2207546/sony-repurposing-austrian-playstation-disc-factory/",
+          "publishedAt": "2026-07-03T11:12:15.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-03T11:12:15.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Wing Commander IV and the FMV future that never quite was",
+      "link": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
+      "summary": "C:\\ArsGames takes a look at the time Chris Roberts more or less made a whole movie.",
+      "publishedAt": "2026-07-03T11:03:39.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/wc4_01.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T11:03:39.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Microsoft filing shows how it shifts profits around to reduce its European tax bill",
+      "link": "https://www.engadget.com/2207542/microsoft-eu-tax-disclosure-report/",
+      "summary": "A new mandatory compliance report released by Microsoft shows how it declares profits in different European nations to reduce its tax bill.",
+      "publishedAt": "2026-07-03T11:01:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/microsoft-filings-show-how-big-tech-reduces-its-tax-bill-in-europe/l-intro-1783076375.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T11:01:52.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
+      "link": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
+      "summary": "Thanks to the AI-driven chip shortage, prices for phones, computers, and consoles are sky-high—and still climbing.",
+      "publishedAt": "2026-07-03T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a459359c28e761b85a7ec73/191:100/w_1280,c_limit/gear_product_price_GettyImages-2281531744.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T11:00:00.000Z"
+    },
     {
       "source": "Wired",
       "title": "7 Best Phones You Can’t Buy in the US (2026)",
@@ -68,28 +346,6 @@
       "latestActivity": "2026-07-03T09:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-      "link": "https://wordgard.net/",
-      "summary": "Article URL: https://wordgard.net/\nComments URL: https://news.ycombinator.com/item?id=48772573\nPoints: 14\n# Comments: 0",
-      "publishedAt": "2026-07-03T08:50:47.000Z",
-      "image": "http://wordgard.net/style/logo.svg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T08:50:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "summary": "Article URL: https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/\nComments URL: https://news.ycombinator.com/it…",
-      "publishedAt": "2026-07-03T08:31:37.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T08:31:37.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy",
       "link": "https://www.wired.com/story/sony-erases-digital-content-from-libraries/",
@@ -99,17 +355,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-03T08:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Half-Baked Product",
-      "link": "https://weli.dev/blog/half-baked-product/",
-      "summary": "Article URL: https://weli.dev/blog/half-baked-product/\nComments URL: https://news.ycombinator.com/item?id=48772388\nPoints: 104\n# Comments: 26",
-      "publishedAt": "2026-07-03T08:23:32.000Z",
-      "image": "https://weli.dev/images/social_card_bg_hu_2720064dc817e53c.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T08:23:32.000Z"
     },
     {
       "source": "Engadget",
@@ -123,66 +368,15 @@
       "latestActivity": "2026-07-03T07:00:33.000Z"
     },
     {
-      "source": "Wired",
-      "title": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
-      "link": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
-      "summary": "“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.",
-      "publishedAt": "2026-07-03T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a4666ebcb22d2a8724199f2/191:100/w_1280,c_limit/GettyImages-128087200.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-          "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-          "publishedAt": "2026-07-03T05:05:00.000Z"
-        }
-      ],
+      "source": "TechCrunch",
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with in…",
+      "publishedAt": "2026-07-03T05:05:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/stelios-1243041618.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-07-03T05:05:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-      "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-      "summary": "Article URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/\nComments URL: https://news.ycombinator.com/item?id=48770477\nPoints: 51\n# Comments: 9",
-      "publishedAt": "2026-07-03T03:49:47.000Z",
-      "image": "https://manticoresearch.com/images/blog/onnx-embeddings-speedup.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T03:49:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Safari MCP server for web developers",
-      "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "summary": "Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/\nComments URL: https://news.ycombinator.com/item?id=48769639\nPoints: 106\n# Comments:…",
-      "publishedAt": "2026-07-03T01:37:11.000Z",
-      "image": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T01:37:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sony’s PlayStation disc factory is already being repurposed",
-      "link": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
-      "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC pres…",
-      "publishedAt": "2026-07-03T01:05:13.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072872/110923_new_Playstation_5_Slim_ADiBenedetto_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T01:05:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "CarPlay Is Additive",
-      "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\nComments URL: https://news.ycombinator.com/item?id=48769397\nPoints: 317\n# Comments: 410",
-      "publishedAt": "2026-07-03T01:02:45.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T01:02:45.000Z"
     },
     {
       "source": "VentureBeat",
@@ -196,17 +390,6 @@
       "latestActivity": "2026-07-03T00:33:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "An American Privacy Emergency",
-      "link": "https://scottaaronson.blog/?p=9902",
-      "summary": "Recent and related:\nNoise infusion banned from statistical products published by Census Bureau - https://news.ycombinator.com/item?id=48517377 - June 2026 (604 comments)\nComments U…",
-      "publishedAt": "2026-07-03T00:01:06.000Z",
-      "image": "https://scottaaronson.blog/wp-content/uploads/2026/07/image-2.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T00:01:06.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
       "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
@@ -216,28 +399,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-03T00:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
-      "link": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
-      "summary": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has beco…",
-      "publishedAt": "2026-07-03T00:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a46d189d3a3e66a651b0e66/191:100/w_1280,c_limit/IMG_0190.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T00:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Right to Local Intelligence",
-      "link": "https://righttointelligence.org/",
-      "summary": "Article URL: https://righttointelligence.org/\nComments URL: https://news.ycombinator.com/item?id=48768951\nPoints: 279\n# Comments: 90",
-      "publishedAt": "2026-07-02T23:54:03.000Z",
-      "image": "https://righttointelligence.org/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T23:54:03.000Z"
     },
     {
       "source": "TechCrunch",
@@ -383,39 +544,6 @@
       "latestActivity": "2026-07-02T19:14:46.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Why bulky laptop chargers are a relic of the past",
-      "link": "https://www.engadget.com/2204249/why-bulky-laptop-chargers-are-outdated/",
-      "summary": "Laptop chargers are much easier to travel with these days, and there's one specific technology that is largely to thank.",
-      "publishedAt": "2026-07-02T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-bulky-laptop-chargers-are-a-relic-of-the-past/l-intro-1782755634.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T18:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
-      "link": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
-      "summary": "The Weber Spirit E-325 grill with three burners. | Image: Weber\t\n\nIf our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veg…",
-      "publishedAt": "2026-07-02T18:19:03.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Weber-Spirit-E325-deal-image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T18:19:03.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Tesla Q2 vehicle deliveries are up 25 percent over last year",
-      "link": "https://www.engadget.com/2207032/tesla-q2-vehicle-deliveries-up-25-percent-over-last-year/",
-      "summary": "The company has been gaining traction in Europe.",
-      "publishedAt": "2026-07-02T17:44:50.000Z",
-      "image": "https://www.engadget.com/img/gallery/tesla-q2-vehicle-deliveries-are-up-25-percent-over-last-year/l-intro-1783013749.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T17:44:50.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
       "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
@@ -449,61 +577,6 @@
       "latestActivity": "2026-07-02T16:35:59.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The video game disc is dead",
-      "link": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
-      "summary": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over t…",
-      "publishedAt": "2026-07-02T16:31:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T16:31:09.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
-      "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
-      "summary": "Early reports indicate there may be another case, but spread is thought to be localized.",
-      "publishedAt": "2026-07-02T16:30:37.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279919981-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T16:30:37.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Artificial cell manages a few rounds of cell division",
-      "link": "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
-      "summary": "It only works for a few divisions thanks to a lot of added materials.",
-      "publishedAt": "2026-07-02T16:21:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1152x648-1783004554.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T16:21:23.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
-      "summary": "The EU went after Google for the practice of bundling its search engine and browser with Android.",
-      "publishedAt": "2026-07-02T16:15:41.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T16:15:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Influencer screenings aren’t going away",
-      "link": "https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings",
-      "summary": "For a few days, it seemed like Universal decided that there would be no advanced screenings of Christopher Nolan's The Odyssey for influencers. But on Monday, influencers sat along…",
-      "publishedAt": "2026-07-02T15:50:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/CT-47787.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T15:50:26.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Achieving operational excellence with AI",
       "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
@@ -513,61 +586,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T15:37:08.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-      "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
-      "publishedAt": "2026-07-02T15:12:25.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2267710211-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T15:12:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Godox’s feature-packed key light is down to its best price yet",
-      "link": "https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale",
-      "summary": "If you don’t want to spend $180 on the Elgato Key Light, the Godox ES45 Desktop LED Key Light is a more affordable option that offers nearly as much brightness and plenty of featur…",
-      "publishedAt": "2026-07-02T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T15:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Onimusha: Way of the Sword's release date has been pushed up to avoid the pre-GTA 6 scramble",
-      "link": "https://www.engadget.com/2206772/onimusha-way-of-the-sword-release-date-has-been-pushed-up-to-avoid-pre-gta-6-scramble/",
-      "summary": "Capcom is trying to get Onimusha: Way of the Sword out the door before the fall release calendar gets really crowded.",
-      "publishedAt": "2026-07-02T14:53:03.000Z",
-      "image": "https://www.engadget.com/img/gallery/onimusha-way-of-the-swords-release-date-has-been-pushed-up-to-avoid-pre-gta-6-scramble/l-intro-1783003856.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T14:53:03.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "HDMI 2.1 vs USB-C vs DisplayPort: Which connection is better for your monitor?",
-      "link": "https://www.engadget.com/2205560/hdmi-2-1-vs-usb-c-displayport-monitor/",
-      "summary": "HDMI excels for media consumption, while PC gamers prefer DisplayPort.",
-      "publishedAt": "2026-07-02T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/hdmi-2-1-vs-usb-c-vs-displayport-which-connection-is-better-for-your-monitor/l-intro-1782861816.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T13:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Donald Trump bought a bunch of tech stock the same day he announced his AI Action Plan",
-      "link": "https://www.engadget.com/2206671/donald-trump-bought-a-bunch-of-tech-stock-the-same-day-he-announced-his-ai-action-plan/",
-      "summary": "Financial disclosures show how much Trump loves tech stocks.",
-      "publishedAt": "2026-07-02T13:27:42.000Z",
-      "image": "https://www.engadget.com/img/gallery/donald-trump-bought-a-bunch-of-tech-stock-the-same-day-he-announced-his-ai-action-plan/l-intro-1782998790.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T13:27:42.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -667,28 +685,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-01T12:10:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Digital resilience compounds when AI and human expertise scale together",
-      "link": "https://venturebeat.com/security/digital-resilience-compounds-when-ai-and-human-expertise-scale-together",
-      "summary": "Presented by Splunk \n\nAgentic AI is making IT and security teams dramatically more efficient. But it’s also removing the apprenticeship that has long produced experienced operators…",
-      "publishedAt": "2026-07-01T12:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5AXAMt7BDGYRlrMibkLrl0/4582002d39ac476ec2523200d43ea681/Splunk.jpeg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-01T12:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific rese…",
-      "publishedAt": "2026-06-30T21:50:04.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-06-30T21:50:04.000Z"
     }
   ]
 }
