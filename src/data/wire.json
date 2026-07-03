@@ -1,16 +1,78 @@
 {
-  "syncedAt": "2026-07-03T03:32:37.178Z",
+  "syncedAt": "2026-07-03T07:23:28.213Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Ask HN: Looking for work, donations, friendship, or advisors",
-      "link": "https://cjohnson.io/history",
-      "summary": "Article URL: https://cjohnson.io/history\nComments URL: https://news.ycombinator.com/item?id=48770226\nPoints: 5\n# Comments: 2",
-      "publishedAt": "2026-07-03T03:04:29.000Z",
-      "image": "https://cjohnson.io/assets/img/og/work-history-thumbnail.jpg",
+      "source": "Engadget",
+      "title": "Tesla's Model Y L finally comes to the US with six seats and a $62,000 price tag",
+      "link": "https://www.engadget.com/2207503/teslas-model-y-long-wheelbase-comes-to-the-us/",
+      "summary": "Tesla has started taking orders for the Model Y Long Wheelbase in the US and Puerto Rico.",
+      "publishedAt": "2026-07-03T07:00:33.000Z",
+      "image": "https://www.engadget.com/img/gallery/teslas-model-y-l-finally-comes-to-the-us-with-six-seats-and-a-62000-price-tag/l-intro-1783061915.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-03T03:04:29.000Z"
+      "latestActivity": "2026-07-03T07:00:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "link": "https://news.ycombinator.com/item?id=48771515",
+      "summary": "I'm a bit annoyed by the feeling that we're kind of stuck when it comes to using LLMs for programming.\nI use Claude Code and Codex, but I haven't been able to enter flow state like…",
+      "publishedAt": "2026-07-03T06:21:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T06:21:44.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
+      "link": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
+      "summary": "“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.",
+      "publishedAt": "2026-07-03T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a4666ebcb22d2a8724199f2/191:100/w_1280,c_limit/GettyImages-128087200.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+          "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+          "publishedAt": "2026-07-03T05:05:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-03T05:05:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+      "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "summary": "Article URL: https://stefan.schueller.net/posts/the-free-market-lie/\nComments URL: https://news.ycombinator.com/item?id=48770647\nPoints: 406\n# Comments: 246",
+      "publishedAt": "2026-07-03T04:16:17.000Z",
+      "image": "https://stefan.schueller.net/posts/the-free-market-lie/title-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T04:16:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "summary": "Article URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/\nComments URL: https://news.ycombinator.com/item?id=48770477\nPoints: 26\n# Comments: 3",
+      "publishedAt": "2026-07-03T03:49:47.000Z",
+      "image": "https://manticoresearch.com/images/blog/onnx-embeddings-speedup.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T03:49:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Safari MCP server for web developers",
+      "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "summary": "Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/\nComments URL: https://news.ycombinator.com/item?id=48769639\nPoints: 57\n# Comments:…",
+      "publishedAt": "2026-07-03T01:37:11.000Z",
+      "image": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T01:37:11.000Z"
     },
     {
       "source": "The Verge",
@@ -27,7 +89,7 @@
       "source": "Hacker News",
       "title": "CarPlay Is Additive",
       "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\nComments URL: https://news.ycombinator.com/item?id=48769397\nPoints: 49\n# Comments: 69",
+      "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\nComments URL: https://news.ycombinator.com/item?id=48769397\nPoints: 217\n# Comments: 259",
       "publishedAt": "2026-07-03T01:02:45.000Z",
       "image": null,
       "sourceCount": 1,
@@ -44,17 +106,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-03T00:33:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Order a burned CD of your own public GitHub repo",
-      "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-      "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl\nComments URL:…",
-      "publishedAt": "2026-07-03T00:01:26.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T00:01:26.000Z"
     },
     {
       "source": "Hacker News",
@@ -93,7 +144,7 @@
       "source": "Hacker News",
       "title": "Right to Local Intelligence",
       "link": "https://righttointelligence.org/",
-      "summary": "Article URL: https://righttointelligence.org/\nComments URL: https://news.ycombinator.com/item?id=48768951\nPoints: 57\n# Comments: 21",
+      "summary": "Article URL: https://righttointelligence.org/\nComments URL: https://news.ycombinator.com/item?id=48768951\nPoints: 164\n# Comments: 65",
       "publishedAt": "2026-07-02T23:54:03.000Z",
       "image": "https://righttointelligence.org/og.png",
       "sourceCount": 1,
@@ -126,9 +177,9 @@
       "source": "Hacker News",
       "title": "crustc: entirety of `rustc`, translated to C",
       "link": "https://github.com/FractalFir/crustc",
-      "summary": "Article URL: https://github.com/FractalFir/crustc\nComments URL: https://news.ycombinator.com/item?id=48768464\nPoints: 164\n# Comments: 31",
+      "summary": "Article URL: https://github.com/FractalFir/crustc\nComments URL: https://news.ycombinator.com/item?id=48768464\nPoints: 238\n# Comments: 41",
       "publishedAt": "2026-07-02T22:57:35.000Z",
-      "image": "https://opengraph.githubassets.com/bc964e2a085058a093a6fadf2953288be948fa95dfb6b1a121df6c8673b8af3e/FractalFir/crustc",
+      "image": "https://opengraph.githubassets.com/42cc400428488e78b1beb74c6dd9e520d38c26442d440d0f6b904a5d5f79828e/FractalFir/crustc",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T22:57:35.000Z"
@@ -143,17 +194,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T22:53:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
-      "link": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-      "summary": "Article URL: https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html\nComments UR…",
-      "publishedAt": "2026-07-02T22:44:04.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T22:44:04.000Z"
     },
     {
       "source": "The Verge",
@@ -172,7 +212,7 @@
       "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
       "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
       "publishedAt": "2026-07-02T21:57:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/11/IMG_1483.jpg?w=600",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jack-Selby.jpeg?resize=1133,1200",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T21:57:10.000Z"
@@ -198,17 +238,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T21:09:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Virginia bans sale of geolocation data",
-      "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "summary": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\nComments URL: https://news.ycombinator.com/item?id=48767347\nPoints: 56…",
-      "publishedAt": "2026-07-02T21:03:45.000Z",
-      "image": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/assets/images-t1783027116/206510.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T21:03:45.000Z"
     },
     {
       "source": "VentureBeat",
@@ -286,17 +315,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T19:14:46.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "publishedAt": "2026-07-02T18:44:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T18:44:02.000Z"
     },
     {
       "source": "Wired",
@@ -530,17 +548,6 @@
       "latestActivity": "2026-07-02T13:27:42.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Threads' ubiquitous Mr Beast spam is part of a massive crypto scam network",
-      "link": "https://www.engadget.com/2206409/threads-ubiquitous-mr-beast-spam-is-part-of-a-massive-crypto-scam-network/",
-      "summary": "Fake Mr Beast \"promotions\" are ubiquitous on Threads - they're also part of massive crypto scam network.",
-      "publishedAt": "2026-07-02T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/threads-ubiquitous-mr-beast-spam-is-part-of-a-massive-crypto-scam-network/l-intro-1782941700.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T13:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Teaching AI to run with the turbines",
       "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
@@ -572,17 +579,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-02T11:31:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Bublue BuVortex V5 Pool Skimmer Review: An Impractical Cleaner",
-      "link": "https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/",
-      "summary": "The Bublue BuVortex V5 ditches conventional skimming for a vortex-powered design that’s fascinating to watch, even if it’s severely impractical.",
-      "publishedAt": "2026-07-02T11:04:00.000Z",
-      "image": "https://media.wired.com/photos/6a45f4c0043fba997ea268a9/191:100/w_1280,c_limit/Review--Bublue-BuVortex-V5-Pool-Skimmer.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T11:04:00.000Z"
     },
     {
       "source": "VentureBeat",
