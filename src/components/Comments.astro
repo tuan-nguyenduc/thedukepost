@@ -1,0 +1,65 @@
+---
+interface Props {
+  className?: string;
+}
+const { className = '' } = Astro.props;
+---
+
+<section class={`comments ${className}`} id="giscus-container">
+  <p class="comments__label">Reactions &amp; discussion</p>
+</section>
+
+<script is:inline>
+  (function () {
+    function loadGiscus() {
+      var theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
+      var script = document.createElement('script');
+      script.src = 'https://giscus.app/client.js';
+      script.async = true;
+      script.crossOrigin = 'anonymous';
+      script.setAttribute('data-repo', 'tuan-nguyenduc/thedukepost');
+      script.setAttribute('data-repo-id', 'R_kgDOS_-fBQ');
+      script.setAttribute('data-category', 'Announcements');
+      script.setAttribute('data-category-id', 'DIC_kwDOS_-fBc4DAcYD');
+      script.setAttribute('data-mapping', 'pathname');
+      script.setAttribute('data-strict', '0');
+      script.setAttribute('data-reactions-enabled', '1');
+      script.setAttribute('data-emit-metadata', '0');
+      script.setAttribute('data-input-position', 'top');
+      script.setAttribute('data-theme', theme);
+      script.setAttribute('data-lang', 'en');
+      document.getElementById('giscus-container').appendChild(script);
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadGiscus);
+    } else {
+      loadGiscus();
+    }
+
+    document.getElementById('theme-toggle')?.addEventListener('click', function () {
+      setTimeout(function () {
+        var frame = document.querySelector('iframe.giscus-frame');
+        if (!frame) return;
+        var theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
+        frame.contentWindow.postMessage({ giscus: { setConfig: { theme: theme } } }, 'https://giscus.app');
+      }, 0);
+    });
+  })();
+</script>
+
+<style>
+  .comments {
+    margin-top: 48px;
+    padding-top: 28px;
+    border-top: 2px solid var(--paper-line);
+  }
+  .comments__label {
+    font-size: 13px;
+    font-family: var(--font-mono);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--slate);
+    margin: 0 0 14px;
+  }
+</style>

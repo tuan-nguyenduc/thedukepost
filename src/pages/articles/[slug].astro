@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsletterForm from '../../components/NewsletterForm.astro';
+import Comments from '../../components/Comments.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
 import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
@@ -72,6 +73,8 @@ const articleJsonLd = {
         </a>
       </div>
     </div>
+
+    <Comments />
 
     <section class="article-newsletter">
       <NewsletterForm className="article-newsletter__form" />
