@@ -1,6 +1,138 @@
 {
-  "syncedAt": "2026-07-04T15:07:42.229Z",
+  "syncedAt": "2026-07-04T17:09:24.769Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Leaking YouTube Creators Private Videos",
+      "link": "https://javoriuski.com/post/youtube",
+      "summary": "Article URL: https://javoriuski.com/post/youtube\nComments URL: https://news.ycombinator.com/item?id=48786781\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-07-04T16:45:10.000Z",
+      "image": "https://javoriuski.com/assets/youtube.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:45:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rob Pike – 'Concurrency Is Not Parallelism' [video]",
+      "link": "https://vimeo.com/49718712",
+      "summary": "Article URL: https://vimeo.com/49718712\nComments URL: https://news.ycombinator.com/item?id=48786713\nPoints: 10\n# Comments: 3",
+      "publishedAt": "2026-07-04T16:37:05.000Z",
+      "image": "https://i.vimeocdn.com/video/343013570-bcea4ef59362f7f89324cd98c10598f6ce9d572fd6bb4310825bc7aa3f56801c-d?f=webp&region=us",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:37:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "publishedAt": "2026-07-04T16:32:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:32:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+      "link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+      "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. \nThe deletion was suspiciously time…",
+      "publishedAt": "2026-07-04T16:19:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25739860/1998630585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100.51963048499,100.51966048848",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:19:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The End of North America",
+      "link": "https://paulkrugman.substack.com/p/the-end-of-north-america-157",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/the-end-of-north-america-157\nComments URL: https://news.ycombinator.com/item?id=48786500\nPoints: 11\n# Comments: 3",
+      "publishedAt": "2026-07-04T16:16:07.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:16:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Curveball",
+      "link": "https://mightyburger.net/projects/curveball/",
+      "summary": "Article URL: https://mightyburger.net/projects/curveball/\nComments URL: https://news.ycombinator.com/item?id=48786495\nPoints: 11\n# Comments: 0",
+      "publishedAt": "2026-07-04T16:15:48.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:15:48.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "NASA mission to rescue the falling Swift observatory has launched",
+      "link": "https://www.engadget.com/2207959/nasa-boost-mission-rescue-falling-swift-observatory-launched/",
+      "summary": "NASA has made contact with LINK, the robotic spacecraft made for the Swift Boost mission.",
+      "publishedAt": "2026-07-04T16:00:37.000Z",
+      "image": "https://www.engadget.com/img/gallery/nasa-mission-to-rescue-the-falling-swift-observatory-has-launched/l-intro-1783180769.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:00:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
+      "link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company wil…",
+      "publishedAt": "2026-07-04T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258028_Matic_Robot_Vacuum_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Submit Your Questions: Inside The World of Online Romance Scams",
+      "link": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+      "summary": "The Yahoo Boys author Carlos Barragán will join Kate Knibbs to answer your questions about Nigeria's romance scammers.",
+      "publishedAt": "2026-07-04T16:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a46ad7efaaae113b1c787e5/191:100/w_1280,c_limit/Livestream%20Social%20Promo%2016_9%20-%20Yahoo%20Boys@2x.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T16:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "publishedAt": "2026-07-04T15:51:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T15:51:32.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Tesla driver charged with manslaughter for Texas crash that killed a woman in her home",
+      "link": "https://www.engadget.com/2207957/tesla-driver-charged-manslaughter-texas-crash-killed-woman-in-home/",
+      "summary": "The incident is also being investigated by the National Highway Traffic Safety Administration.",
+      "publishedAt": "2026-07-04T15:47:31.000Z",
+      "image": "https://www.engadget.com/img/gallery/tesla-driver-charged-with-manslaughter-for-texas-crash-that-killed-a-woman-in-her-home/l-intro-1783179817.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T15:47:31.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Only these iPhone models are getting the new Siri AI this fall",
+      "link": "https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/",
+      "summary": "Some Apple devices are about to get much more intelligent, while others are getting left behind.",
+      "publishedAt": "2026-07-04T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/only-these-iphone-models-are-getting-the-new-siri-ai-this-fall/l-intro-1782923551.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T15:30:00.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
@@ -11,6 +143,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+      "link": "https://github.com/maximqaxd/wince-dc",
+      "summary": "Article URL: https://github.com/maximqaxd/wince-dc\nComments URL: https://news.ycombinator.com/item?id=48785840\nPoints: 21\n# Comments: 1",
+      "publishedAt": "2026-07-04T14:52:25.000Z",
+      "image": "https://opengraph.githubassets.com/4e96c48082354bab433c83dd711b9fe2114348ed013fc9b04ee60cf3797a6a4b/maximqaxd/wince-dc",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T14:52:25.000Z"
     },
     {
       "source": "VentureBeat",
@@ -25,33 +168,22 @@
     },
     {
       "source": "Hacker News",
-      "title": "'All men are created equal': America has lost its values. It's time to go back",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence",
-      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence\nComments URL: https://news.ycombinator.com/item?id=48785573\nPoints…",
-      "publishedAt": "2026-07-04T14:15:22.000Z",
-      "image": "https://i.guim.co.uk/img/media/57e2d01cefcbc7ae7428c406456fe5e997ade2a5/316_1040_2786_2227/master/2786.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e64c4b440237c1a2f1fab973b592060",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T14:15:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Does average person understand that all disc media dies too?",
-      "link": "https://news.ycombinator.com/item?id=48785525",
-      "summary": "or is it too much to understand for them? this is about Sony decision about no more disc game but it applies to all disc based media.\ndo they think if they get the disc, they can j…",
-      "publishedAt": "2026-07-04T14:08:55.000Z",
+      "title": "California Bans 'Sell by' Labels, Hoping to Cut Food Waste",
+      "link": "https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html\nComments URL: https://news.ycombinator.com/item?id=48785720\nPoints: 23\n# Comments: 35",
+      "publishedAt": "2026-07-04T14:34:00.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-04T14:08:55.000Z"
+      "latestActivity": "2026-07-04T14:34:00.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "link": "https://github.com/anthropics/claude-code/issues/74066",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/74066\nComments URL: https://news.ycombinator.com/item?id=48785485\nPoints: 47\n# Comments: 14",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/74066\nComments URL: https://news.ycombinator.com/item?id=48785485\nPoints: 178\n# Comments: 72",
       "publishedAt": "2026-07-04T14:03:40.000Z",
-      "image": "https://opengraph.githubassets.com/2cdc39bbb7c20b8648c2761682b6515313e35bc73132ba817d448163fd3a49ec/anthropics/claude-code/issues/74066",
+      "image": "https://opengraph.githubassets.com/d4779e25a6bb1f56f42456efea82117f36f5d80dc66259fb0022417e9bbbeaf3/anthropics/claude-code/issues/74066",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T14:03:40.000Z"
@@ -60,30 +192,12 @@
       "source": "Hacker News",
       "title": "How working memory could give rise to consciousness",
       "link": "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/",
-      "summary": "Article URL: https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48785478\nPoints: 12…",
+      "summary": "Article URL: https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48785478\nPoints: 38…",
       "publishedAt": "2026-07-04T14:02:59.000Z",
-      "image": null,
+      "image": "https://static.scientificamerican.com/dam/m/285f89e9e222c787/original/Vector-illustration-of-human-head-on-starry-space-background-Artificial-intelligence-or-cosmic-consciousness-concept-stock-illustration.jpg?m=1772748168.259&w=1200",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T14:02:59.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "A martian rock has lots of carbon on it, and it's not clear why",
-      "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
-      "summary": "Biology could explain the find, but there are other potential explanations.",
-      "publishedAt": "2026-07-04T11:00:41.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1152x648.png",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "A martian rock has lots of carbon on it, and it's not clear why",
-          "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
-          "publishedAt": "2026-07-04T14:00:03.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-04T14:00:03.000Z"
     },
     {
       "source": "The Verge",
@@ -117,17 +231,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Explanation of everything you can see in htop/top on Linux",
-      "link": "https://peteris.rocks/blog/htop/",
-      "summary": "Article URL: https://peteris.rocks/blog/htop/\nComments URL: https://news.ycombinator.com/item?id=48784777\nPoints: 95\n# Comments: 14",
-      "publishedAt": "2026-07-04T12:00:57.000Z",
-      "image": "https://peteris.rocks/blog/htop/canyoukillit-before.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T12:00:57.000Z"
     },
     {
       "source": "The Verge",
@@ -174,6 +277,17 @@
       "latestActivity": "2026-07-04T11:04:31.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "summary": "Biology could explain the find, but there are other potential explanations.",
+      "publishedAt": "2026-07-04T11:00:41.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1152x648.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T11:00:41.000Z"
+    },
+    {
       "source": "Wired",
       "title": "Where NASA Posts Its Best Space Photos, and How to Find Them",
       "link": "https://www.wired.com/story/where-nasa-posts-its-best-space-photos/",
@@ -218,17 +332,6 @@
       "latestActivity": "2026-07-04T09:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Astrophysicists Puzzle over Webb’s New Universe",
-      "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "summary": "Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/\nComments URL: https://news.ycombinator.com/item?id=48783948\nPoints: 108\n# Comme…",
-      "publishedAt": "2026-07-04T09:08:09.000Z",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JWSTUpdate-crKristinaArmitage-Social.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T09:08:09.000Z"
-    },
-    {
       "source": "Wired",
       "title": "The Best Fourth of July Mattress Sales on Beds We Actually Sleep On (2026)",
       "link": "https://www.wired.com/story/best-july-fourth-mattress-deals-2026/",
@@ -260,17 +363,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T07:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The bottleneck might be the air in the room",
-      "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "summary": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\nComments URL: https://news.ycombinator.com/item?id=48783117\nPoints: 530\n# Comments: 322",
-      "publishedAt": "2026-07-04T06:32:28.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T06:32:28.000Z"
     },
     {
       "source": "TechCrunch",
@@ -328,17 +420,6 @@
       "latestActivity": "2026-07-03T18:28:30.000Z"
     },
     {
-      "source": "Wired",
-      "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
-      "link": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
-      "summary": "The companies’ Fourth of July plans include celebrating new reactor designs coming online. But there’s still a long way to go before they deliver energy at a meaningful scale.",
-      "publishedAt": "2026-07-03T18:13:15.000Z",
-      "image": "https://media.wired.com/photos/6a4458adca4ecb6c5b11ffa9/191:100/w_1280,c_limit/Nuclear-Startups-Hit-Big-Milestone-Science.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T18:13:15.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
       "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
@@ -350,21 +431,14 @@
       "latestActivity": "2026-07-03T17:34:37.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Amazon's Fire HD 10 tablet just got a refresh with a bit more RAM",
-      "link": "https://www.engadget.com/2207669/amazon-fire-hd-10-ram-refresh/",
-      "summary": "A RAM upgrade? In this memory economy?!",
-      "publishedAt": "2026-07-03T15:40:03.000Z",
-      "image": "https://www.engadget.com/img/gallery/amazons-fire-hd-10-tablet-just-got-a-refresh-with-a-bit-more-ram/l-intro-1783093073.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-          "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-          "publishedAt": "2026-07-03T17:33:55.000Z"
-        }
-      ],
+      "source": "The Verge",
+      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+      "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year befo…",
+      "publishedAt": "2026-07-03T17:33:55.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amazonfirehd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-07-03T17:33:55.000Z"
     },
     {
@@ -390,28 +464,6 @@
       "latestActivity": "2026-07-03T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "While you’re watching the World Cup, the feds may be watching you",
-      "link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
-      "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the…",
-      "publishedAt": "2026-07-03T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS525_MASS_SURVEILLANCE6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "This slim camera has a transparent LCD screen for a viewfinder",
-      "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-      "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly…",
-      "publishedAt": "2026-07-03T14:51:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T14:51:38.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
       "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
@@ -421,28 +473,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-03T13:55:35.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Engadget Podcast: Who needs Valve's Steam Machine?",
-      "link": "https://www.engadget.com/2207598/engadget-podcast-who-needs-valve-steam-machine/",
-      "summary": "This week on the Engadget Podcast, we've got our first impressions of Valve's pricey Steam Machine, and we chat about Sony dumping PlayStation discs in 2028.",
-      "publishedAt": "2026-07-03T13:35:55.000Z",
-      "image": "https://www.engadget.com/img/gallery/engadget-podcast-who-needs-valves-steam-machine/l-intro-1783085552.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T13:35:55.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to claim a WhatsApp username",
-      "link": "https://www.engadget.com/2207358/how-to-claim-whatsapp-username/",
-      "summary": "Get ready to navigate a free-for-all of social media handles.",
-      "publishedAt": "2026-07-03T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-claim-a-whatsapp-username/l-intro-1783026777.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T13:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -542,28 +572,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-03T00:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "publishedAt": "2026-07-02T23:38:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T23:38:10.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Private space pilots are flying orbital missions for the US Space Force",
-      "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
-      "publishedAt": "2026-07-02T23:01:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jackal_1.png?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-02T23:01:06.000Z"
     },
     {
       "source": "VentureBeat",
