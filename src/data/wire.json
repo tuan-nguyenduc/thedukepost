@@ -1,6 +1,50 @@
 {
-  "syncedAt": "2026-07-04T19:18:20.810Z",
+  "syncedAt": "2026-07-04T21:00:38.541Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "publishedAt": "2026-07-04T20:55:25.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T20:55:25.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "A 10-year sky survey begins filming a 'cosmic movie,' cyborg cockroaches go for a dive and more science stories",
+      "link": "https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/",
+      "summary": "This week's science news.",
+      "publishedAt": "2026-07-04T19:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/a-10-year-sky-survey-begins-filming-a-cosmic-movie-cyborg-cockroaches-go-for-a-dive-and-more-science-stories/l-intro-1783193642.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T19:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "summary": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main\nComments URL: https://news.ycombinator.com/item?id=48788283\nPoints: 83\n# Comments: 41",
+      "publishedAt": "2026-07-04T19:41:10.000Z",
+      "image": "https://opengraph.githubassets.com/61e33800bf98d86b6fe3e5062967e32557fa46dd696050060464a2cb8e8c9ee0/ammaarreshi/Generals-Mac-iOS-iPad",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T19:41:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wicklow hotel cancels 'secretive' Peter Thiel group conference",
+      "link": "https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/",
+      "summary": "Article URL: https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/\nComments URL: https://news.ycombinator.com/item?id=48787987\nPoint…",
+      "publishedAt": "2026-07-04T19:08:44.000Z",
+      "image": "https://www.irishtimes.com/resizer/v2/XNZMFM3KKDCTRKZRHLT7GKRDWA.jpg?smart=true&auth=d3a85fdd98c264b8638ef4bae98f0585692c51f7797c6bd9c1cca762b2afdfe1&width=1200&height=630",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T19:08:44.000Z"
+    },
     {
       "source": "Engadget",
       "title": "NASA mission to rescue the falling Swift observatory has launched",
@@ -29,17 +73,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T19:00:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers",
-      "link": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
-      "summary": "Article URL: https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/\nComments URL: https://news.ycombinator.com/i…",
-      "publishedAt": "2026-07-04T18:42:24.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T18:42:24.000Z"
     },
     {
       "source": "Engadget",
@@ -74,7 +107,7 @@
       "source": "Hacker News",
       "title": "Verizon is About to Break our Watches",
       "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "summary": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches\nComments URL: https://news.ycombinator.com/item?id=48787329\nPoints: 33\n# Comments: 7",
+      "summary": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches\nComments URL: https://news.ycombinator.com/item?id=48787329\nPoints: 79\n# Comments: 31",
       "publishedAt": "2026-07-04T17:52:36.000Z",
       "image": "https://www.jefftk.com/gizmo-hub-going-away-email-big.png",
       "sourceCount": 1,
@@ -85,9 +118,9 @@
       "source": "Hacker News",
       "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
       "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-      "summary": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper\nComments URL: https://news.ycombinator.com/item?id=48787201\nPoints: 20\n# Comments: 1",
+      "summary": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper\nComments URL: https://news.ycombinator.com/item?id=48787201\nPoints: 36\n# Comments: 10",
       "publishedAt": "2026-07-04T17:37:21.000Z",
-      "image": "https://opengraph.githubassets.com/2887983491444c89c9e32046bdc8f51f385fe35a48b1e4cadaa137020cfcc922/pIat0n/BareMetal-RAM-Dumper",
+      "image": "https://opengraph.githubassets.com/4f0ea335058b23d0421d52c74457267c3d639f72ece00d25da45e755e74a2a64/pIat0n/BareMetal-RAM-Dumper",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T17:37:21.000Z"
@@ -105,31 +138,20 @@
     },
     {
       "source": "Hacker News",
-      "title": "Sick leave: Germany rising but not the worst in Europe",
-      "link": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
-      "summary": "Article URL: https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488\nComments URL: https://news.ycombinator.com/item?id=48787058\nPoints: 24\n# Comment…",
-      "publishedAt": "2026-07-04T17:18:42.000Z",
-      "image": "https://static.dw.com/image/77819894_6.jpg",
+      "title": "Game Boy Advance Dev: Logging to the Console",
+      "link": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+      "summary": "Article URL: https://www.mattgreer.dev/blog/gba-dev-logging/\nComments URL: https://news.ycombinator.com/item?id=48787001\nPoints: 13\n# Comments: 1",
+      "publishedAt": "2026-07-04T17:12:00.000Z",
+      "image": "https://mattgreer.dev/_next/static/media/twitter.5c59a676.png?t=Game Boy A",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-04T17:18:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "No more than 100 000 faint satellites should orbit Earth",
-      "link": "https://www.eso.org/public/news/eso2607/",
-      "summary": "Article URL: https://www.eso.org/public/news/eso2607/\nComments URL: https://news.ycombinator.com/item?id=48787042\nPoints: 66\n# Comments: 56",
-      "publishedAt": "2026-07-04T17:17:28.000Z",
-      "image": "https://cdn.eso.org/images/screen/eso2607a.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T17:17:28.000Z"
+      "latestActivity": "2026-07-04T17:12:00.000Z"
     },
     {
       "source": "Hacker News",
       "title": "EndBASIC 0.14: Are we multimedia yet?",
       "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-      "summary": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html\nComments URL: https://news.ycombinator.com/item?id=48786970\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html\nComments URL: https://news.ycombinator.com/item?id=48786970\nPoints: 18\n# Comments: 0",
       "publishedAt": "2026-07-04T17:08:18.000Z",
       "image": "/images/2026-07-04-endbasic-bounce.png",
       "sourceCount": 1,
@@ -140,7 +162,7 @@
       "source": "Hacker News",
       "title": "Plein Air",
       "link": "https://art.joonas.wtf/",
-      "summary": "Article URL: https://art.joonas.wtf/\nComments URL: https://news.ycombinator.com/item?id=48786880\nPoints: 24\n# Comments: 2",
+      "summary": "Article URL: https://art.joonas.wtf/\nComments URL: https://news.ycombinator.com/item?id=48786880\nPoints: 44\n# Comments: 5",
       "publishedAt": "2026-07-04T16:55:29.000Z",
       "image": null,
       "sourceCount": 1,
@@ -434,17 +456,6 @@
       "latestActivity": "2026-07-03T21:20:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The Space Shuttle Endeavour goes on public display later this year",
-      "link": "https://www.engadget.com/2207813/space-shuttle-endeavour-goes-on-public-display-later-this-year/",
-      "summary": "The spacecraft has been in LA since 2012, but now it's moving to a new permanent home at the California Science Center.",
-      "publishedAt": "2026-07-03T19:41:47.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-space-shuttle-endeavour-goes-on-public-display-later-this-year/l-intro-1783107534.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T19:41:47.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
@@ -564,17 +575,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-03T09:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with in…",
-      "publishedAt": "2026-07-03T05:05:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/stelios-1243041618.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T05:05:00.000Z"
     },
     {
       "source": "VentureBeat",
