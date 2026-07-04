@@ -23,12 +23,12 @@ import { categoryHref, categoryLabel } from '../lib/categories';
 <script>
   import Fuse from 'fuse.js';
 
-  interface Article {
-    slug: string;
+  interface SearchItem {
+    type: 'article' | 'wire';
+    link: string;
     title: string;
     description: string;
     category: string;
-    author: string;
     pubDate: string;
   }
 
@@ -36,12 +36,18 @@ import { categoryHref, categoryLabel } from '../lib/categories';
   const resultsList = document.getElementById('search-results') as HTMLUListElement;
   const status = document.getElementById('search-status') as HTMLParagraphElement;
 
-  let fuse: Fuse<Article> | null = null;
+  let fuse: Fuse<SearchItem> | null = null;
+
+  function escapeHtml(str: string): string {
+    return str.replace(/[&<>"']/g, (c) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+    }[c] as string));
+  }
 
   async function init() {
     const res = await fetch('/search-index.json');
-    const articles: Article[] = await res.json();
-    fuse = new Fuse(articles, {
+    const items: SearchItem[] = await res.json();
+    fuse = new Fuse(items, {
       keys: [
         { name: 'title', weight: 2 },
         { name: 'description', weight: 1 },
@@ -67,25 +73,30 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     return labels[cat] ?? cat;
   }
 
-  function renderResults(results: Fuse.FuseResult<Article>[]) {
+  function renderResults(results: Fuse.FuseResult<SearchItem>[]) {
     if (results.length === 0) {
       resultsList.innerHTML = '';
-      status.textContent = 'No articles found.';
+      status.textContent = 'No results found.';
       return;
     }
     status.textContent = `${results.length} result${results.length === 1 ? '' : 's'}`;
-    resultsList.innerHTML = results.map(({ item }) => `
+    resultsList.innerHTML = results.map(({ item }) => {
+      const isWire = item.type === 'wire';
+      const eyebrow = escapeHtml(isWire ? `Wire · ${item.category}` : categoryLabel(item.category));
+      const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
+      return `
       <li class="result-item">
-        <a href="/articles/${item.slug}" class="result-card sticker">
+        <a href="${escapeHtml(item.link)}" class="result-card sticker"${linkAttrs}>
           <span class="result-meta">
-            <span class="eyebrow">${categoryLabel(item.category)}</span>
-            <span class="byline">${item.pubDate}</span>
+            <span class="eyebrow">${eyebrow}</span>
+            <span class="byline">${escapeHtml(item.pubDate)}</span>
           </span>
-          <h2 class="result-title">${item.title}</h2>
-          <p class="result-desc">${item.description}</p>
+          <h2 class="result-title">${escapeHtml(item.title)}</h2>
+          <p class="result-desc">${escapeHtml(item.description)}</p>
         </a>
       </li>
-    `).join('');
+    `;
+    }).join('');
   }
 
   function runSearch(query: string) {
