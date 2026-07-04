@@ -1,11 +1,66 @@
 {
-  "syncedAt": "2026-07-03T23:07:22.442Z",
+  "syncedAt": "2026-07-04T03:25:08.245Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "How Amsterdam invented the fire department",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "link": "https://mrbruh.com/msicenter/",
+      "summary": "Article URL: https://mrbruh.com/msicenter/\nComments URL: https://news.ycombinator.com/item?id=48781688\nPoints: 34\n# Comments: 8",
+      "publishedAt": "2026-07-04T00:57:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T00:57:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Soatok's Informal Guide to Threat Models",
+      "link": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "summary": "Article URL: https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/\nComments URL: https://news.ycombinator.com/item?id=48781597\nPoints: 40\n# Comments: 2",
+      "publishedAt": "2026-07-04T00:35:49.000Z",
+      "image": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&#038;ssl=1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T00:35:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scientists discover guidance system for migratory songbirds",
+      "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/",
+      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/\nComments URL: https://news.ycombinato…",
+      "publishedAt": "2026-07-03T23:36:46.000Z",
+      "image": "https://news.exeter.ac.uk/wp-content/uploads/2026/06/Flycatcher.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T23:36:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Odin, Wikipedia and engagement farming",
+      "link": "https://katamari64.se/posts/2026/odin-wikipedia/",
+      "summary": "Article URL: https://katamari64.se/posts/2026/odin-wikipedia/\nComments URL: https://news.ycombinator.com/item?id=48781196\nPoints: 56\n# Comments: 65",
+      "publishedAt": "2026-07-03T23:24:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T23:24:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The circuit that lets your brain think and see",
+      "link": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "summary": "Article URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see\nComments URL: https://news.ycombinator.com/item?id=48780996\nPoints: 51\n# Comments…",
+      "publishedAt": "2026-07-03T22:56:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-03T22:56:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
       "link": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-      "summary": "Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/\nComments URL: https://news.ycombinator.com/item?id=48780913\nPoints: 6\n# Comments: 0",
+      "summary": "Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/\nComments URL: https://news.ycombinator.com/item?id=48780913\nPoints: 52\n# Comments: 12",
       "publishedAt": "2026-07-03T22:46:18.000Z",
       "image": "https://worksinprogress.co/wip-image/uploads/2026/07/firefighting-share-card-.jpg",
       "sourceCount": 1,
@@ -25,69 +80,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Elevating Privileges from Firefox to Android Root",
-      "link": "https://rootme.nebusec.ai/",
-      "summary": "Article URL: https://rootme.nebusec.ai/\nComments URL: https://news.ycombinator.com/item?id=48780857\nPoints: 7\n# Comments: 1",
-      "publishedAt": "2026-07-03T22:39:22.000Z",
-      "image": null,
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "link": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "summary": "Article URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge\nComments URL: https://news.ycombinator.com/item?id=48780865\nPoints: 87\n# Comments: 19",
+      "publishedAt": "2026-07-03T22:39:50.000Z",
+      "image": "https://opengraph.githubassets.com/f4e6d97b401ce5e8ce2304b398cbf87f0f9defef68a6d2fb461bdc01c1345fbc/FossPrime/Steam-Controller-Auto-Charge",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-03T22:39:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "link": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-      "summary": "Article URL: https://chenliu-1996.github.io/projects/LM-Dispersion/\nComments URL: https://news.ycombinator.com/item?id=48780826\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-07-03T22:35:47.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T22:35:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "link": "https://mistral.ai/news/leanstral-1-5/",
-      "summary": "Article URL: https://mistral.ai/news/leanstral-1-5/\nComments URL: https://news.ycombinator.com/item?id=48780801\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-07-03T22:33:10.000Z",
-      "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T22:33:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Demoralization of the White-Collar Worker",
-      "link": "https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/",
-      "summary": "Article URL: https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/\nComments URL: https://news.ycombinator.com/item?id=48780469\nPoints: 27\n# Comments: 19",
-      "publishedAt": "2026-07-03T21:53:04.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T21:53:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "link": "https://www.wafer.ai/blog/glm52-amd",
-      "summary": "Article URL: https://www.wafer.ai/blog/glm52-amd\nComments URL: https://news.ycombinator.com/item?id=48780417\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-07-03T21:49:06.000Z",
-      "image": "https://www.wafer.ai/assets/images/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T21:49:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Goodbye, Forever, Probably",
-      "link": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-      "summary": "Article URL: https://whitep4nth3r.com/blog/goodbye-forever-probably/\nComments URL: https://news.ycombinator.com/item?id=48780352\nPoints: 38\n# Comments: 19",
-      "publishedAt": "2026-07-03T21:42:19.000Z",
-      "image": "https://res.cloudinary.com/whitep4nth3r/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_900,c_fit,g_north_west,co_rgb:ffffff,x_20,y_20,l_text:Anton_100__line_spacing_-40:GOODBYE%252C%20FOREVER%252C%20PROBABLY./og_2026.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-03T21:42:19.000Z"
+      "latestActivity": "2026-07-03T22:39:50.000Z"
     },
     {
       "source": "TechCrunch",
