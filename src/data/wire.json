@@ -1,6 +1,17 @@
 {
-  "syncedAt": "2026-07-04T21:00:38.541Z",
+  "syncedAt": "2026-07-04T22:59:49.138Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "link": "https://github.com/openai/codex/issues/30364",
+      "summary": "Article URL: https://github.com/openai/codex/issues/30364\nComments URL: https://news.ycombinator.com/item?id=48789428\nPoints: 54\n# Comments: 6",
+      "publishedAt": "2026-07-04T21:51:09.000Z",
+      "image": "https://opengraph.githubassets.com/cc0da8c6951445d08061fe324d6446612a25dacea07beeabc0254181e80ee4ee/openai/codex/issues/30364",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T21:51:09.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -11,6 +22,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T20:55:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "link": "https://arxiv.org/abs/2606.26967",
+      "summary": "Article URL: https://arxiv.org/abs/2606.26967\nComments URL: https://news.ycombinator.com/item?id=48788849\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-07-04T20:38:39.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T20:38:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Better Models: Worse Tools",
+      "link": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\nComments URL: https://news.ycombinator.com/item?id=48788599\nPoints: 48\n# Comments: 13",
+      "publishedAt": "2026-07-04T20:16:22.000Z",
+      "image": "https://lucumr.pocoo.org/social/2026-07-04-better-models-worse-tools-social.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T20:16:22.000Z"
     },
     {
       "source": "Engadget",
@@ -27,23 +60,12 @@
       "source": "Hacker News",
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "summary": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main\nComments URL: https://news.ycombinator.com/item?id=48788283\nPoints: 83\n# Comments: 41",
+      "summary": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main\nComments URL: https://news.ycombinator.com/item?id=48788283\nPoints: 246\n# Comments: 106",
       "publishedAt": "2026-07-04T19:41:10.000Z",
-      "image": "https://opengraph.githubassets.com/61e33800bf98d86b6fe3e5062967e32557fa46dd696050060464a2cb8e8c9ee0/ammaarreshi/Generals-Mac-iOS-iPad",
+      "image": "https://opengraph.githubassets.com/74a03d7bb9d1e59781a8f18e0a87ab2e1ff351ef45c4c6a87fb37e7129783ca3/ammaarreshi/Generals-Mac-iOS-iPad",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T19:41:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Wicklow hotel cancels 'secretive' Peter Thiel group conference",
-      "link": "https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/",
-      "summary": "Article URL: https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/\nComments URL: https://news.ycombinator.com/item?id=48787987\nPoint…",
-      "publishedAt": "2026-07-04T19:08:44.000Z",
-      "image": "https://www.irishtimes.com/resizer/v2/XNZMFM3KKDCTRKZRHLT7GKRDWA.jpg?smart=true&auth=d3a85fdd98c264b8638ef4bae98f0585692c51f7797c6bd9c1cca762b2afdfe1&width=1200&height=630",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T19:08:44.000Z"
     },
     {
       "source": "Engadget",
@@ -107,7 +129,7 @@
       "source": "Hacker News",
       "title": "Verizon is About to Break our Watches",
       "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "summary": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches\nComments URL: https://news.ycombinator.com/item?id=48787329\nPoints: 79\n# Comments: 31",
+      "summary": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches\nComments URL: https://news.ycombinator.com/item?id=48787329\nPoints: 111\n# Comments: 49",
       "publishedAt": "2026-07-04T17:52:36.000Z",
       "image": "https://www.jefftk.com/gizmo-hub-going-away-email-big.png",
       "sourceCount": 1,
@@ -118,9 +140,9 @@
       "source": "Hacker News",
       "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
       "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-      "summary": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper\nComments URL: https://news.ycombinator.com/item?id=48787201\nPoints: 36\n# Comments: 10",
+      "summary": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper\nComments URL: https://news.ycombinator.com/item?id=48787201\nPoints: 44\n# Comments: 29",
       "publishedAt": "2026-07-04T17:37:21.000Z",
-      "image": "https://opengraph.githubassets.com/4f0ea335058b23d0421d52c74457267c3d639f72ece00d25da45e755e74a2a64/pIat0n/BareMetal-RAM-Dumper",
+      "image": "https://opengraph.githubassets.com/84308fbede5b74e98b53213ee499677d517c2161a283f5cd5dbb572d168a95b3/pIat0n/BareMetal-RAM-Dumper",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T17:37:21.000Z"
@@ -140,7 +162,7 @@
       "source": "Hacker News",
       "title": "Game Boy Advance Dev: Logging to the Console",
       "link": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-      "summary": "Article URL: https://www.mattgreer.dev/blog/gba-dev-logging/\nComments URL: https://news.ycombinator.com/item?id=48787001\nPoints: 13\n# Comments: 1",
+      "summary": "Article URL: https://www.mattgreer.dev/blog/gba-dev-logging/\nComments URL: https://news.ycombinator.com/item?id=48787001\nPoints: 20\n# Comments: 1",
       "publishedAt": "2026-07-04T17:12:00.000Z",
       "image": "https://mattgreer.dev/_next/static/media/twitter.5c59a676.png?t=Game Boy A",
       "sourceCount": 1,
@@ -151,34 +173,12 @@
       "source": "Hacker News",
       "title": "EndBASIC 0.14: Are we multimedia yet?",
       "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-      "summary": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html\nComments URL: https://news.ycombinator.com/item?id=48786970\nPoints: 18\n# Comments: 0",
+      "summary": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html\nComments URL: https://news.ycombinator.com/item?id=48786970\nPoints: 21\n# Comments: 2",
       "publishedAt": "2026-07-04T17:08:18.000Z",
       "image": "/images/2026-07-04-endbasic-bounce.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T17:08:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Plein Air",
-      "link": "https://art.joonas.wtf/",
-      "summary": "Article URL: https://art.joonas.wtf/\nComments URL: https://news.ycombinator.com/item?id=48786880\nPoints: 44\n# Comments: 5",
-      "publishedAt": "2026-07-04T16:55:29.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T16:55:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Finland's last analogue landline phones go silent after 150 years",
-      "link": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-      "summary": "Article URL: https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years\nComments URL: https://news.ycombinator.com/item?id=48786868\nP…",
-      "publishedAt": "2026-07-04T16:54:02.000Z",
-      "image": "https://images.euronews.com/articles/stories/09/81/95/28/1200x675_cmsv2_e1b57e14-96f0-5622-9dfb-5e77aeed8406-9819528.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T16:54:02.000Z"
     },
     {
       "source": "Ars Technica",
