@@ -1,16 +1,93 @@
 {
-  "syncedAt": "2026-07-04T22:59:49.138Z",
+  "syncedAt": "2026-07-05T03:41:39.117Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "link": "https://github.com/openai/codex/issues/30364",
-      "summary": "Article URL: https://github.com/openai/codex/issues/30364\nComments URL: https://news.ycombinator.com/item?id=48789428\nPoints: 54\n# Comments: 6",
-      "publishedAt": "2026-07-04T21:51:09.000Z",
-      "image": "https://opengraph.githubassets.com/cc0da8c6951445d08061fe324d6446612a25dacea07beeabc0254181e80ee4ee/openai/codex/issues/30364",
+      "title": "University of Oxford Is Older Than the Aztec Empire and Other Facts of History",
+      "link": "https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/\nComments URL: https://new…",
+      "publishedAt": "2026-07-05T02:57:52.000Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ysG8NFIt8U0ZeLInWZFvctFkaYA=/fit-in/1600x0/filters:focal(700x527:701x528)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/f3/90f35dd0-b950-41ab-abef-9fe6188a6fc7/oxfordaztec.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-04T21:51:09.000Z"
+      "latestActivity": "2026-07-05T02:57:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression",
+      "link": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478",
+      "summary": "Article URL: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478\nComments URL: https://news.ycombinator.com/item?id=48790583\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-07-05T01:39:05.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T01:39:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Egg consumption inversely correlated with Alzheimer's",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42002260/",
+      "summary": "Article URL: https://pubmed.ncbi.nlm.nih.gov/42002260/\nComments URL: https://news.ycombinator.com/item?id=48790349\nPoints: 47\n# Comments: 23",
+      "publishedAt": "2026-07-05T00:48:15.000Z",
+      "image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T00:48:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
+      "link": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+      "summary": "Article URL: https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/\nComments URL: https://news.ycombinator.com/item?id=487…",
+      "publishedAt": "2026-07-05T00:22:25.000Z",
+      "image": "https://writerbeware.blog/wp-content/uploads/2014/11/Blog-images-scam-3-scaled.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T00:22:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reflections on the Guillotine (1957)",
+      "link": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "summary": "Article URL: https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine\nComments URL: https://news.ycombinator.com/item?id=48790036\nPoints: 30\n# Comments: 8",
+      "publishedAt": "2026-07-04T23:36:11.000Z",
+      "image": "https://theanarchistlibrary.org/sitefiles/en/opengraph.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T23:36:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "link": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "summary": "Article URL: https://ridgetext.com/blog/mapbox-llm-composition\nComments URL: https://news.ycombinator.com/item?id=48789986\nPoints: 10\n# Comments: 0",
+      "publishedAt": "2026-07-04T23:25:53.000Z",
+      "image": "https://ridgetext.com/blog/mapbox-llm-composition/fire-perimeter-trail.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T23:25:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Drone Autonomy Crash Course",
+      "link": "https://www.cggonzalez.com/blog/index.html",
+      "summary": "Article URL: https://www.cggonzalez.com/blog/index.html\nComments URL: https://news.ycombinator.com/item?id=48789965\nPoints: 13\n# Comments: 1",
+      "publishedAt": "2026-07-04T23:22:15.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T23:22:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Recovering garbled Bitcoin addresses (2024)",
+      "link": "https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/",
+      "summary": "Article URL: https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/\nComments URL: https://news.ycombinator.com/item?id=48789917\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-07-04T23:12:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-04T23:12:17.000Z"
     },
     {
       "source": "TechCrunch",
@@ -24,28 +101,6 @@
       "latestActivity": "2026-07-04T20:55:25.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "link": "https://arxiv.org/abs/2606.26967",
-      "summary": "Article URL: https://arxiv.org/abs/2606.26967\nComments URL: https://news.ycombinator.com/item?id=48788849\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-07-04T20:38:39.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T20:38:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Better Models: Worse Tools",
-      "link": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\nComments URL: https://news.ycombinator.com/item?id=48788599\nPoints: 48\n# Comments: 13",
-      "publishedAt": "2026-07-04T20:16:22.000Z",
-      "image": "https://lucumr.pocoo.org/social/2026-07-04-better-models-worse-tools-social.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T20:16:22.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "A 10-year sky survey begins filming a 'cosmic movie,' cyborg cockroaches go for a dive and more science stories",
       "link": "https://www.engadget.com/2207998/vera-c-rubin-observatory-begins-cyborg-cockroaches-nasa-clps-moon-base-missions/",
@@ -55,17 +110,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T19:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "summary": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main\nComments URL: https://news.ycombinator.com/item?id=48788283\nPoints: 246\n# Comments: 106",
-      "publishedAt": "2026-07-04T19:41:10.000Z",
-      "image": "https://opengraph.githubassets.com/74a03d7bb9d1e59781a8f18e0a87ab2e1ff351ef45c4c6a87fb37e7129783ca3/ammaarreshi/Generals-Mac-iOS-iPad",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T19:41:10.000Z"
     },
     {
       "source": "Engadget",
@@ -126,28 +170,6 @@
       "latestActivity": "2026-07-04T18:00:05.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Verizon is About to Break our Watches",
-      "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "summary": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches\nComments URL: https://news.ycombinator.com/item?id=48787329\nPoints: 111\n# Comments: 49",
-      "publishedAt": "2026-07-04T17:52:36.000Z",
-      "image": "https://www.jefftk.com/gizmo-hub-going-away-email-big.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T17:52:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
-      "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-      "summary": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper\nComments URL: https://news.ycombinator.com/item?id=48787201\nPoints: 44\n# Comments: 29",
-      "publishedAt": "2026-07-04T17:37:21.000Z",
-      "image": "https://opengraph.githubassets.com/84308fbede5b74e98b53213ee499677d517c2161a283f5cd5dbb572d168a95b3/pIat0n/BareMetal-RAM-Dumper",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T17:37:21.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Tesla expands robotaxi service to small section of Miami",
       "link": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
@@ -157,28 +179,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T17:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Game Boy Advance Dev: Logging to the Console",
-      "link": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-      "summary": "Article URL: https://www.mattgreer.dev/blog/gba-dev-logging/\nComments URL: https://news.ycombinator.com/item?id=48787001\nPoints: 20\n# Comments: 1",
-      "publishedAt": "2026-07-04T17:12:00.000Z",
-      "image": "https://mattgreer.dev/_next/static/media/twitter.5c59a676.png?t=Game Boy A",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T17:12:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "EndBASIC 0.14: Are we multimedia yet?",
-      "link": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-      "summary": "Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html\nComments URL: https://news.ycombinator.com/item?id=48786970\nPoints: 21\n# Comments: 2",
-      "publishedAt": "2026-07-04T17:08:18.000Z",
-      "image": "/images/2026-07-04-endbasic-bounce.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T17:08:18.000Z"
     },
     {
       "source": "Ars Technica",
