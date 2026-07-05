@@ -1,93 +1,137 @@
 {
-  "syncedAt": "2026-07-05T07:29:43.886Z",
+  "syncedAt": "2026-07-05T10:18:11.765Z",
   "items": [
     {
+      "source": "Wired",
+      "title": "Eight Sleep Pod 5 Review: The Smartest, Nosiest Bed You Can Buy",
+      "link": "https://www.wired.com/review/eight-sleep-pod-5/",
+      "summary": "Eight Sleep’s Pod 5 is great at its job, but its job is also watching you sleep.",
+      "publishedAt": "2026-07-05T10:08:00.000Z",
+      "image": "https://media.wired.com/photos/6a47e7e93d5c75c63167831f/191:100/w_1280,c_limit/Eight-Sleep-Pod-5-Hub-%5Bcourtesy-of-Eight-Sleep%5D.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T10:08:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "What Are Fish Oil Supplements Good For? Here’s Your Crash Course",
+      "link": "https://www.wired.com/story/what-are-fish-oil-supplements-good-for-heres-your-crash-course/",
+      "summary": "A large-scale clinical trial has shown that even long-term consumption of DHA—an omega-3 fatty acid found in abundance in oily fish—may not lead to improvements in cognitive functi…",
+      "publishedAt": "2026-07-05T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a4567dcdab2390d974287b5/191:100/w_1280,c_limit/1056929056",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "There’s a Global Network of Fungi Under Your Feet. This Is the First Complete Map",
+      "link": "https://www.wired.com/story/theres-a-global-network-of-fungi-under-your-feet-this-is-the-first-complete-map/",
+      "summary": "A new study has succeeded in mapping, on a global scale, the fungal network that supports plant life and helps regulate our planet’s climate.",
+      "publishedAt": "2026-07-05T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a456749ca2139b68f2de7ec/191:100/w_1280,c_limit/large-ui-01%20(1).png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T09:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How to Avoid Spoilers Online and in Chats",
+      "link": "https://www.wired.com/story/how-to-avoid-spoilers-online/",
+      "summary": "You can minimize the risk of films and shows being spoiled for you by muting comments, conversations, and keywords on various platforms.",
+      "publishedAt": "2026-07-05T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a46ada73c9fff77056af3b9/191:100/w_1280,c_limit/Gear_HowToAvoidSpoilersOnline_v6.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T09:00:00.000Z"
+    },
+    {
       "source": "Hacker News",
-      "title": "EV Batteries Are Defying Expectations After Miles",
-      "link": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
-      "summary": "Article URL: https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13\nComments URL: https://news.ycombinator.com/item?…",
-      "publishedAt": "2026-07-05T06:30:40.000Z",
+      "title": "Apocketlypse",
+      "link": "https://0dd.company/galleries/triumph/1.html",
+      "summary": "Article URL: https://0dd.company/galleries/triumph/1.html\nComments URL: https://news.ycombinator.com/item?id=48792352\nPoints: 13\n# Comments: 1",
+      "publishedAt": "2026-07-05T08:32:09.000Z",
+      "image": "https://0dd.company/media/logos/eyelogo.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T08:32:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Web-based cryptography is always snake oil",
+      "link": "https://www.devever.net/~hl/webcrypto",
+      "summary": "Article URL: https://www.devever.net/~hl/webcrypto\nComments URL: https://news.ycombinator.com/item?id=48792203\nPoints: 21\n# Comments: 21",
+      "publishedAt": "2026-07-05T08:01:29.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-05T06:30:40.000Z"
+      "latestActivity": "2026-07-05T08:01:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Programmers need to start meditating now",
+      "link": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+      "summary": "Article URL: https://jacob.gold/posts/programmers-need-to-start-meditating-now/\nComments URL: https://news.ycombinator.com/item?id=48792080\nPoints: 27\n# Comments: 15",
+      "publishedAt": "2026-07-05T07:39:35.000Z",
+      "image": "https://jacob.gold/images/programmers-need-to-start-meditating-now.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T07:39:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fast Software, the Best Software",
+      "link": "https://craigmod.com/essays/fast_software/",
+      "summary": "Article URL: https://craigmod.com/essays/fast_software/\nComments URL: https://news.ycombinator.com/item?id=48792008\nPoints: 9\n# Comments: 0",
+      "publishedAt": "2026-07-05T07:25:25.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T07:25:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reducing Assumptions, Exploding Your Code",
+      "link": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
+      "summary": "Article URL: https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/\nComments URL: https://news.ycombinator.com/item?id=48791990\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-07-05T07:22:08.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T07:22:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is The Economist Always Wrong?",
+      "link": "https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+      "summary": "Article URL: https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong\nComments URL: https://news.ycombinator.com/item?id=48791799\nPoints: 40…",
+      "publishedAt": "2026-07-05T06:40:05.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T06:40:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/\nComments URL: https://news.ycombinator.com/item?id=48791708\nPoints: 45\n# Comments: 52",
+      "publishedAt": "2026-07-05T06:19:34.000Z",
+      "image": "https://static.simonwillison.net/static/2026/fable-plan-usage.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T06:19:34.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Megawatts by Microwave",
       "link": "https://computer.rip/2026-07-04-microwave-and-power.html",
-      "summary": "Article URL: https://computer.rip/2026-07-04-microwave-and-power.html\nComments URL: https://news.ycombinator.com/item?id=48791591\nPoints: 10\n# Comments: 0",
+      "summary": "Article URL: https://computer.rip/2026-07-04-microwave-and-power.html\nComments URL: https://news.ycombinator.com/item?id=48791591\nPoints: 23\n# Comments: 2",
       "publishedAt": "2026-07-05T05:56:03.000Z",
       "image": "/static/img/bpa/1.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-05T05:56:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Beeg float library, a Rust port of Fabrice Bellard's libbf",
-      "link": "https://github.com/lifthrasiir/libbeef",
-      "summary": "Article URL: https://github.com/lifthrasiir/libbeef\nComments URL: https://news.ycombinator.com/item?id=48791440\nPoints: 14\n# Comments: 3",
-      "publishedAt": "2026-07-05T05:23:24.000Z",
-      "image": "https://opengraph.githubassets.com/28becd4e862d4dd846cddd73e7d38615869a6d7b0a105fdb1949dafcd7edc0bc/lifthrasiir/libbeef",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T05:23:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-      "link": "https://hic-ai.com",
-      "summary": "Article URL: https://hic-ai.com\nComments URL: https://news.ycombinator.com/item?id=48791380\nPoints: 20\n# Comments: 21",
-      "publishedAt": "2026-07-05T05:01:14.000Z",
-      "image": "https://hic-ai.com/opengraph-image?0965d50c6d8fc51d",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T05:01:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "link": "https://ui.shadcn.com/docs/changelog",
-      "summary": "Article URL: https://ui.shadcn.com/docs/changelog\nComments URL: https://news.ycombinator.com/item?id=48791328\nPoints: 82\n# Comments: 20",
-      "publishedAt": "2026-07-05T04:46:08.000Z",
-      "image": "https://ui.shadcn.com/og?title=Changelog&description=Latest%20updates%20and%20announcements.",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T04:46:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Binary Coverage the Wrong Way",
-      "link": "https://redvice.org/2026/coverage-the-wrong-way/",
-      "summary": "Article URL: https://redvice.org/2026/coverage-the-wrong-way/\nComments URL: https://news.ycombinator.com/item?id=48791308\nPoints: 5\n# Comments: 1",
-      "publishedAt": "2026-07-05T04:39:53.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T04:39:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Moby Dick Workout",
-      "link": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-      "summary": "Article URL: https://www.hogbaysoftware.com/posts/moby-dick-workout/\nComments URL: https://news.ycombinator.com/item?id=48791266\nPoints: 22\n# Comments: 5",
-      "publishedAt": "2026-07-05T04:30:33.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T04:30:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "My ASN Journey series (2024)",
-      "link": "https://www.animmouse.com/p/my-asn-journey/",
-      "summary": "Article URL: https://www.animmouse.com/p/my-asn-journey/\nComments URL: https://news.ycombinator.com/item?id=48791256\nPoints: 12\n# Comments: 1",
-      "publishedAt": "2026-07-05T04:29:05.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T04:29:05.000Z"
     },
     {
       "source": "TechCrunch",
@@ -388,50 +432,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-04T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email",
-      "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
-      "summary": "Plus: Alleged Scattered Spider hacking member extradited, dozens of license plate reader errors, and Indian officials are concerned about WhatsApp’s username rollout.",
-      "publishedAt": "2026-07-04T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a459c14043fba997ea26852/191:100/w_1280,c_limit/security_roudnup_GettyImages-1157988186.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease",
-      "link": "https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/",
-      "summary": "Aa large-scale study demonstrates that preservatives widely used in everyday processed foods may exacerbate common health risks.",
-      "publishedAt": "2026-07-04T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a4570f1dae48c15b88ce83f/191:100/w_1280,c_limit/2269394826",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T09:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Fourth of July Mattress Sales on Beds We Actually Sleep On (2026)",
-      "link": "https://www.wired.com/story/best-july-fourth-mattress-deals-2026/",
-      "summary": "From cooling hybrids to organic latex beds, these are the mattresses WIRED reviewers actually sleep on and recommend.",
-      "publishedAt": "2026-07-04T09:08:00.000Z",
-      "image": "https://media.wired.com/photos/6a469972cb22d2a872419b3a/191:100/w_1280,c_limit/The-Best-Fourth-of-July-Mattress-Deals,-According-to-WIRED-Testers-(2026).jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T09:08:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Scientists Have Identified a New Fossil Species of Axolotl in Mexico",
-      "link": "https://www.wired.com/story/scientists-have-identified-a-new-fossil-species-of-axolotl-in-mexico/",
-      "summary": "Ambystoma quetzalcoatli is the first fossil salamander to be formally identified in Mexico, revealing that axolotls have inhabited the country for millions of years.",
-      "publishedAt": "2026-07-04T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a456825f7e1e70ee2698ec3/191:100/w_1280,c_limit/ajolote%20nueva%20especie%20M%C3%A9xico%202235919867.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T09:00:00.000Z"
     },
     {
       "source": "The Verge",
