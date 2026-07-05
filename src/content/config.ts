@@ -10,6 +10,7 @@ const articles = defineCollection({
     pubDate: z.coerce.date(),
     author: z.string().default('The Duke Post'),
     category: z.enum(CATEGORIES).default('general'),
+    tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
     draft: z.boolean().default(false),
   }),

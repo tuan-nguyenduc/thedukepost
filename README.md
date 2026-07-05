@@ -22,6 +22,7 @@ title: "Your headline"
 description: "One sentence for previews and SEO."
 pubDate: 2026-06-21
 category: "ai"        # ai | gadgets | startups | security | opinion | general
+tags: ["llm", "chips"] # optional, powers /tags and /tags/[tag]
 featured: false        # true = shows as homepage hero
 ---
 

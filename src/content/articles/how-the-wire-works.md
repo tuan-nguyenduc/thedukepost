@@ -5,6 +5,7 @@ image: "/images/wire-sync-cover.svg"
 pubDate: 2026-06-19
 author: "The Duke Post"
 category: "general"
+tags: ["meta", "wire", "rss"]
 featured: false
 ---
 

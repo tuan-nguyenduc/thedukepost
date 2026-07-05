@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { tagSlug } from '../../lib/tags';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  const labelBySlug = new Map<string, string>();
+  for (const article of articles) {
+    for (const tag of article.data.tags) {
+      const slug = tagSlug(tag);
+      if (!labelBySlug.has(slug)) labelBySlug.set(slug, tag);
+    }
+  }
+  return Array.from(labelBySlug.entries()).map(([slug, label]) => ({
+    params: { tag: slug },
+    props: { label },
+  }));
+}
+
+const { tag } = Astro.params as { tag: string };
+const { label } = Astro.props as { label: string };
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft && data.tags.some((t) => tagSlug(t) === tag)))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<BaseLayout
+  title={`#${label} — The Duke Post`}
+  description={`Articles tagged "${label}" on The Duke Post.`}
+>
+  <section class="wrap page">
+    <p class="back"><a href="/tags">← All tags</a></p>
+    <h1>#{label}</h1>
+    {articles.length > 0 ? (
+      <ul class="list">
+        {articles.map((a) => (
+          <li>
+            <a href={`/articles/${a.slug}`} class="sticker card">
+              {a.data.image && <img class="card__image" src={a.data.image} alt="" loading="lazy" />}
+              <div class="card__body">
+                <h2>{a.data.title}</h2>
+                <p>{a.data.description}</p>
+                <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+              </div>
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <p class="empty">No articles tagged #{label} yet.</p>
+    )}
+  </section>
+</BaseLayout>
+
+<style>
+  .page { padding: 48px 24px 80px; }
+  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
+  .back a { color: var(--slate); }
+  .back a:hover { color: var(--ink); }
+  h1 { font-size: 36px; margin-bottom: 36px; }
+  .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
+  .list li { margin: 0; min-width: 0; }
+  .list .card { padding: 24px; }
+  .card { display: flex; gap: 20px; align-items: flex-start; min-width: 0; }
+  .card__image {
+    width: 140px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid var(--ink);
+    flex-shrink: 0;
+  }
+  .card__body { flex: 1; min-width: 0; }
+  .list h2 { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
+  .list p { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
+  .empty { color: var(--slate); font-size: 17px; }
+
+  @media (max-width: 560px) {
+    .card { flex-direction: column; }
+    .card__image { width: 100%; height: 160px; }
+  }
+</style>

@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { tagSlug } from '../../lib/tags';
+
+const articles = await getCollection('articles', ({ data }) => !data.draft);
+
+const tagCounts = new Map<string, { label: string; count: number }>();
+for (const article of articles) {
+  for (const tag of article.data.tags) {
+    const slug = tagSlug(tag);
+    const existing = tagCounts.get(slug);
+    if (existing) {
+      existing.count += 1;
+    } else {
+      tagCounts.set(slug, { label: tag, count: 1 });
+    }
+  }
+}
+
+const tags = Array.from(tagCounts.entries())
+  .map(([slug, { label, count }]) => ({ slug, label, count }))
+  .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+---
+<BaseLayout
+  title="Tags — The Duke Post"
+  description="Browse The Duke Post's original articles by tag."
+>
+  <section class="wrap page">
+    <p class="back"><a href="/articles">← All articles</a></p>
+    <h1>Tags</h1>
+    {tags.length > 0 ? (
+      <div class="tag-cloud">
+        {tags.map((tag) => (
+          <a href={`/tags/${tag.slug}`} class="tag-chip sticker">
+            {tag.label} <span class="tag-count">{tag.count}</span>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="empty">No tags yet — add a <code>tags</code> list to an article's frontmatter.</p>
+    )}
+  </section>
+</BaseLayout>
+
+<style>
+  .page { padding: 48px 24px 80px; }
+  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
+  .back a { color: var(--slate); }
+  .back a:hover { color: var(--ink); }
+  h1 { font-size: 36px; margin-bottom: 36px; }
+  .tag-cloud { display: flex; flex-wrap: wrap; gap: 12px; }
+  .tag-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    font-size: 15px;
+  }
+  .tag-count {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--slate);
+  }
+  .empty { color: var(--slate); font-size: 17px; }
+  .empty code {
+    font-family: var(--font-mono);
+    background: var(--paper-line);
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+</style>

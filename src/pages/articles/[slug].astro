@@ -4,6 +4,7 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
 import Comments from '../../components/Comments.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
+import { tagHref } from '../../lib/tags';
 import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
 import { getShareUrls } from '../../lib/share';
 
@@ -56,6 +57,13 @@ const articleJsonLd = {
     <a href={categoryHref(article.data.category)} class="eyebrow">{categoryLabel(article.data.category)}</a>
     <h1>{article.data.title}</h1>
     <p class="byline">{article.data.author} · {article.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · {formatReadingTime(readingTime)}</p>
+    {article.data.tags.length > 0 && (
+      <ul class="tags">
+        {article.data.tags.map((tag) => (
+          <li><a href={tagHref(tag)} class="tag-chip">#{tag}</a></li>
+        ))}
+      </ul>
+    )}
     <div class="content">
       <Content />
     </div>
@@ -112,6 +120,17 @@ const articleJsonLd = {
     margin-bottom: 28px;
   }
   .article h1 { font-size: clamp(28px, 4vw, 42px); margin: 10px 0 14px; }
+  .tags { list-style: none; display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 0; padding: 0; }
+  .tag-chip {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--slate);
+    background: var(--paper-line);
+    border-radius: 999px;
+    padding: 4px 12px;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .tag-chip:hover { background: var(--accent-soft); color: var(--ink); }
   .content { margin-top: 36px; font-size: 18px; line-height: 1.7; }
   .content :global(h2) { font-size: 24px; margin: 36px 0 14px; }
   .content :global(p) { margin: 0 0 20px; }
