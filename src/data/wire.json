@@ -1,6 +1,50 @@
 {
-  "syncedAt": "2026-07-05T15:15:00.041Z",
+  "syncedAt": "2026-07-05T17:14:54.198Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "The Plight of the Martian Farmer",
+      "link": "https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer",
+      "summary": "Article URL: https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer\nComments URL: https://news.ycombinator.com/item?id=48795303\nPoints: 17\n# Comments: 3",
+      "publishedAt": "2026-07-05T16:04:23.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T16:04:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Where to preorder Grand Theft Auto VI",
+      "link": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
+      "summary": "A look at in-game cosmetics you’ll get with the Ultimate edition. | Image: Rockstar Games\t\n\nRockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlaySta…",
+      "publishedAt": "2026-07-05T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T16:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "link": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+      "summary": "Article URL: https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/\nComments URL: https://news.ycombinator.com/item?…",
+      "publishedAt": "2026-07-05T15:49:18.000Z",
+      "image": "https://www.designboom.com/twitterimages/uploads/2026/01/autonomous-flying-umbrella-follows-users-i-build-stuff-designboom-fb.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T15:49:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "link": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+      "summary": "Article URL: https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec\nComments URL: https://news.ycombinator.com/item?id=48794788\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-07-05T15:00:21.000Z",
+      "image": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T15:00:21.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "5 desk gadgets that can make your workday better",
@@ -11,6 +55,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-05T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "link": "https://popcar.bearblog.dev/its-about-ownership/",
+      "summary": "Article URL: https://popcar.bearblog.dev/its-about-ownership/\nComments URL: https://news.ycombinator.com/item?id=48794750\nPoints: 4\n# Comments: 1",
+      "publishedAt": "2026-07-05T14:56:15.000Z",
+      "image": "/static/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T14:56:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "link": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+      "summary": "Article URL: https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri\nComments URL: https://news.ycombinator.c…",
+      "publishedAt": "2026-07-05T14:49:42.000Z",
+      "image": "https://images.euronews.com/articles/stories/09/82/37/90/1200x675_cmsv2_08ddd015-4096-5f19-be21-c19a1ae3fb19-9823790.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T14:49:42.000Z"
     },
     {
       "source": "The Verge",
@@ -27,7 +93,7 @@
       "source": "Hacker News",
       "title": "Organic Maps",
       "link": "https://organicmaps.app/",
-      "summary": "Article URL: https://organicmaps.app/\nComments URL: https://news.ycombinator.com/item?id=48794446\nPoints: 77\n# Comments: 16",
+      "summary": "Article URL: https://organicmaps.app/\nComments URL: https://news.ycombinator.com/item?id=48794446\nPoints: 326\n# Comments: 86",
       "publishedAt": "2026-07-05T14:14:30.000Z",
       "image": "https://organicmaps.app/images/screenshots/prague.jpg",
       "sourceCount": 1,
@@ -57,6 +123,17 @@
       "latestActivity": "2026-07-05T13:51:56.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+      "link": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+      "summary": "Article URL: https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html\nComments URL: https://news.ycombinator.com/item?id=48794302\nPoints: 40\n# Comments: 13",
+      "publishedAt": "2026-07-05T13:47:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-05T13:47:44.000Z"
+    },
+    {
       "source": "TechCrunch",
       "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
       "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
@@ -82,7 +159,7 @@
       "source": "Hacker News",
       "title": "Phosh 0.56.0",
       "link": "https://phosh.mobi/releases/rel-0.56.0/",
-      "summary": "Article URL: https://phosh.mobi/releases/rel-0.56.0/\nComments URL: https://news.ycombinator.com/item?id=48794179\nPoints: 82\n# Comments: 18",
+      "summary": "Article URL: https://phosh.mobi/releases/rel-0.56.0/\nComments URL: https://news.ycombinator.com/item?id=48794179\nPoints: 122\n# Comments: 42",
       "publishedAt": "2026-07-05T13:28:11.000Z",
       "image": "https://phosh.mobi/releases/rel-0.56.0/phosh-release-0.56.0.png",
       "sourceCount": 1,
@@ -112,17 +189,6 @@
       "latestActivity": "2026-07-05T12:47:39.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: KiCad in the Browser",
-      "link": "https://demo.pcbjam.com/",
-      "summary": "KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there's a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is \"workin…",
-      "publishedAt": "2026-07-05T12:06:57.000Z",
-      "image": "https://demo.pcbjam.com/og/og-demo.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T12:06:57.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Xbox is a disaster",
       "link": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
@@ -132,39 +198,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-05T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)",
-      "link": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
-      "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk\nComments URL: https://news.ycombinator.com/item?id=48793492…",
-      "publishedAt": "2026-07-05T11:59:27.000Z",
-      "image": "http://www.acc.org/-/media/9E7FA8BE7B44449AB9993CC9237EF455.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T11:59:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Introduction to Compilers and Language Design",
-      "link": "https://dthain.github.io/books/compiler/",
-      "summary": "Article URL: https://dthain.github.io/books/compiler/\nComments URL: https://news.ycombinator.com/item?id=48793454\nPoints: 91\n# Comments: 6",
-      "publishedAt": "2026-07-05T11:54:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T11:54:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-      "link": "https://prediohq.com/",
-      "summary": "Article URL: https://prediohq.com/\nComments URL: https://news.ycombinator.com/item?id=48793298\nPoints: 10\n# Comments: 2",
-      "publishedAt": "2026-07-05T11:30:14.000Z",
-      "image": "https://prediohq.com/og.svg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T11:30:14.000Z"
     },
     {
       "source": "Ars Technica",
@@ -209,17 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-05T10:55:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pi square is nearly 10",
-      "link": "https://mihai.page/pi-square-is-10/",
-      "summary": "Article URL: https://mihai.page/pi-square-is-10/\nComments URL: https://news.ycombinator.com/item?id=48793073\nPoints: 28\n# Comments: 29",
-      "publishedAt": "2026-07-05T10:50:53.000Z",
-      "image": "https://mihai.page/imgs/logo_600.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T10:50:53.000Z"
     },
     {
       "source": "Wired",
@@ -275,17 +297,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-05T09:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Design System Prompt",
-      "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "summary": "Article URL: https://github.com/Trystan-SA/claude-design-system-prompt\nComments URL: https://news.ycombinator.com/item?id=48792399\nPoints: 96\n# Comments: 26",
-      "publishedAt": "2026-07-05T08:43:37.000Z",
-      "image": "https://opengraph.githubassets.com/d147fdcf29e7081800112d29efe37ff638857c6cc4eaa1231f1787bc7a892ad8/Trystan-SA/claude-design-system-prompt",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-05T08:43:37.000Z"
     },
     {
       "source": "TechCrunch",
@@ -405,17 +416,6 @@
       "latestActivity": "2026-07-04T16:19:06.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
-      "link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company wil…",
-      "publishedAt": "2026-07-04T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258028_Matic_Robot_Vacuum_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-04T16:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Submit Your Questions: Inside The World of Online Romance Scams",
       "link": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
@@ -520,7 +520,7 @@
       "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
       "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a…",
       "publishedAt": "2026-07-03T17:34:37.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-1849342868.jpg?resize=1200,600",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-1849342868_6fd97e.jpg?resize=1200,600",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-03T17:34:37.000Z"
