@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsletterForm from '../../components/NewsletterForm.astro';
 import Comments from '../../components/Comments.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
 import { tagHref } from '../../lib/tags';
@@ -17,7 +18,7 @@ export async function getStaticPaths() {
 }
 
 const { article } = Astro.props;
-const { Content, remarkPluginFrontmatter } = await render(article);
+const { Content, headings, remarkPluginFrontmatter } = await render(article);
 const readingTime = calculateReadingTime(article.body);
 
 const articleUrl = new URL(`/articles/${article.slug}`, Astro.site).toString();
@@ -64,6 +65,7 @@ const articleJsonLd = {
         ))}
       </ul>
     )}
+    <TableOfContents headings={headings} />
     <div class="content">
       <Content />
     </div>

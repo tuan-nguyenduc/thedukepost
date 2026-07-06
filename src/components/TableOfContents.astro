@@ -1,0 +1,59 @@
+---
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+interface Props {
+  headings: Heading[];
+}
+const { headings } = Astro.props;
+const items = headings.filter((h) => h.depth === 2 || h.depth === 3);
+---
+{items.length > 1 && (
+  <nav class="toc sticker" aria-label="Table of contents">
+    <p class="toc__label">On this page</p>
+    <ul class="toc__list">
+      {items.map((h) => (
+        <li class={`toc__item toc__item--${h.depth}`}>
+          <a href={`#${h.slug}`}>{h.text}</a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}
+
+<style>
+  .toc {
+    padding: 20px 22px;
+    margin: 28px 0 0;
+  }
+  .toc__label {
+    font-size: 12px;
+    font-family: var(--font-mono);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--slate);
+    margin: 0 0 12px;
+  }
+  .toc__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .toc__item a {
+    color: var(--ink);
+    font-size: 15px;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+  .toc__item a:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+  .toc__item--3 { padding-left: 18px; }
+  .toc__item--3 a { font-size: 14px; color: var(--slate); }
+</style>
