@@ -1,6 +1,116 @@
 {
-  "syncedAt": "2026-07-06T23:11:10.064Z",
+  "syncedAt": "2026-07-07T03:40:26.352Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+      "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+      "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
+      "publishedAt": "2026-07-07T00:47:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240099721.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T00:47:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to sequence your own DNA at home",
+      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 82\n# Comments: 20",
+      "publishedAt": "2026-07-07T00:14:21.000Z",
+      "image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f7bd0bf9-fe1a-4481-ae32-a529633a4c5d/img_4423/public",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T00:14:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 35\n# Comments: 8",
+      "publishedAt": "2026-07-06T23:59:54.000Z",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67101133&width=1200&height=600&coordinates=0%2C889%2C0%2C361",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T23:59:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastr…",
+      "publishedAt": "2026-07-06T23:56:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ransomware-attack.png?resize=1200,686",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T23:56:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "publishedAt": "2026-07-06T23:21:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T23:21:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "link": "https://ternlight-demo.vercel.app/",
+      "summary": "Article URL: https://ternlight-demo.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=48811644\nPoints: 109\n# Comments: 33",
+      "publishedAt": "2026-07-06T23:06:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T23:06:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "link": "https://github.com/MaximeRivest/Riddle",
+      "summary": "Article URL: https://github.com/MaximeRivest/Riddle\nComments URL: https://news.ycombinator.com/item?id=48811591\nPoints: 206\n# Comments: 123",
+      "publishedAt": "2026-07-06T23:00:24.000Z",
+      "image": "https://opengraph.githubassets.com/977727b249b1f139ab1c2003baa050fac50f37e82d230f62b7bceb469580a346/MaximeRivest/riddle",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T23:00:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenSSH 10.4/10.4p1 Released",
+      "link": "https://www.openssh.org/txt/release-10.4",
+      "summary": "Article URL: https://www.openssh.org/txt/release-10.4\nComments URL: https://news.ycombinator.com/item?id=48811373\nPoints: 38\n# Comments: 9",
+      "publishedAt": "2026-07-06T22:32:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T22:32:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
+      "link": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+      "summary": "Article URL: https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/\nComments URL: https://news.ycombinator.com/item?id=48811339\nPoints: 28\n# Comments:…",
+      "publishedAt": "2026-07-06T22:30:33.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T22:30:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Poly/ML – A Standard ML Implementation",
+      "link": "https://github.com/polyml/polyml",
+      "summary": "Article URL: https://github.com/polyml/polyml\nComments URL: https://news.ycombinator.com/item?id=48811317\nPoints: 30\n# Comments: 6",
+      "publishedAt": "2026-07-06T22:28:06.000Z",
+      "image": "https://opengraph.githubassets.com/b5da2d16b003b9aa7bd38625579a04b17c061a5a3434580fece777ef9b4c28de/polyml/polyml",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T22:28:06.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Google will now count all Android backup data toward your storage cap",
@@ -14,36 +124,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "How little exercise can you get away with?",
-      "link": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with\nComments URL: https://news.ycombinator.com/item?id=48811147\nPoint…",
-      "publishedAt": "2026-07-06T22:09:36.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T22:09:36.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Full Writeup of the Windows GDID",
       "link": "https://github.com/SmtimesIWndr/gdid-reversal",
-      "summary": "Article URL: https://github.com/SmtimesIWndr/gdid-reversal\nComments URL: https://news.ycombinator.com/item?id=48811081\nPoints: 11\n# Comments: 5",
+      "summary": "Article URL: https://github.com/SmtimesIWndr/gdid-reversal\nComments URL: https://news.ycombinator.com/item?id=48811081\nPoints: 44\n# Comments: 22",
       "publishedAt": "2026-07-06T22:02:24.000Z",
-      "image": "https://opengraph.githubassets.com/87f70f2133221936962f3609fa1361d5a76c93b4756c7705b9c0689ec63a75ea/SmtimesIWndr/gdid-reversal",
+      "image": "https://opengraph.githubassets.com/816ba8080af89d1b09784c8060672a2a9422a2a11f11c67be0e85d239dfd844f/SmtimesIWndr/gdid-reversal",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-06T22:02:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Titan's Resources and Their Utilization",
-      "link": "https://arxiv.org/abs/2606.06608",
-      "summary": "Article URL: https://arxiv.org/abs/2606.06608\nComments URL: https://news.ycombinator.com/item?id=48810841\nPoints: 8\n# Comments: 4",
-      "publishedAt": "2026-07-06T21:39:04.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T21:39:04.000Z"
     },
     {
       "source": "Ars Technica",
@@ -57,28 +145,6 @@
       "latestActivity": "2026-07-06T21:13:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector\nComments URL: https://news.ycombinator.com/ite…",
-      "publishedAt": "2026-07-06T21:09:23.000Z",
-      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T21:09:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Taiganet.com, Home of the WS4000 Simulator",
-      "link": "https://www.taiganet.com/",
-      "summary": "Article URL: https://www.taiganet.com/\nComments URL: https://news.ycombinator.com/item?id=48810501\nPoints: 8\n# Comments: 1",
-      "publishedAt": "2026-07-06T21:06:24.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T21:06:24.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
       "link": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
@@ -88,17 +154,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-06T21:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Learning to code is still worthwhile",
-      "link": "https://stevekrouse.com/learn-to-code",
-      "summary": "Article URL: https://stevekrouse.com/learn-to-code\nComments URL: https://news.ycombinator.com/item?id=48810439\nPoints: 84\n# Comments: 75",
-      "publishedAt": "2026-07-06T20:59:54.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T20:59:54.000Z"
     },
     {
       "source": "Ars Technica",
@@ -121,35 +176,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-06T20:24:28.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding",
-      "link": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
-      "summary": "For the past year, the awkward secret of the open-weight model boom has been that many of the strongest Chinese releases were off-limits to a large slice of the enterprises most in…",
-      "publishedAt": "2026-07-06T16:38:27.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5WKMtIVc0jqwmy7jbaJZbD/2ce92e10143e41537cb24c2180fc43de/Gemini_Generated_Image_u2p5szu2p5szu2p5.png?w=300&q=30",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "GLM 5.2 and the coming AI margin collapse",
-          "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-          "publishedAt": "2026-07-06T20:14:55.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-06T20:14:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "M/PC – A Concatenative OS",
-      "link": "https://wiki.xxiivv.com/site/m_pc.html",
-      "summary": "Article URL: https://wiki.xxiivv.com/site/m_pc.html\nComments URL: https://news.ycombinator.com/item?id=48809810\nPoints: 18\n# Comments: 1",
-      "publishedAt": "2026-07-06T20:08:46.000Z",
-      "image": "https://wiki.xxiivv.com/media/services/rss.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T20:08:46.000Z"
     },
     {
       "source": "Ars Technica",
@@ -317,6 +343,17 @@
       "latestActivity": "2026-07-06T16:44:18.000Z"
     },
     {
+      "source": "VentureBeat",
+      "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding",
+      "link": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+      "summary": "For the past year, the awkward secret of the open-weight model boom has been that many of the strongest Chinese releases were off-limits to a large slice of the enterprises most in…",
+      "publishedAt": "2026-07-06T16:38:27.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5WKMtIVc0jqwmy7jbaJZbD/2ce92e10143e41537cb24c2180fc43de/Gemini_Generated_Image_u2p5szu2p5szu2p5.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-06T16:38:27.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "AI golem Tilly Norwood is reportedly 'starring' in a feature-length movie",
       "link": "https://www.engadget.com/2208729/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/",
@@ -337,17 +374,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-06T16:22:34.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
-      "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
-      "summary": "Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework.",
-      "publishedAt": "2026-07-06T16:21:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/apple-logo-pedestrian.jpg?resize=1200,798",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T16:21:03.000Z"
     },
     {
       "source": "Ars Technica",
@@ -383,17 +409,6 @@
       "latestActivity": "2026-07-06T15:45:55.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbo…",
-      "publishedAt": "2026-07-06T15:32:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T15:32:43.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Reddit to combat AI with more AI",
       "link": "https://www.engadget.com/2208616/reddit-to-combat-ai-with-more-ai/",
@@ -414,17 +429,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-06T15:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "publishedAt": "2026-07-06T15:22:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T15:22:08.000Z"
     },
     {
       "source": "The Verge",
