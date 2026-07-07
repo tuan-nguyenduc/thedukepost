@@ -1,6 +1,303 @@
 {
-  "syncedAt": "2026-07-07T18:02:46.126Z",
+  "syncedAt": "2026-07-07T21:26:54.650Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+      "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "summary": "Article URL: https://allaboutcookies.org/eu-mandatory-distracted-driver-system\nComments URL: https://news.ycombinator.com/item?id=48823557\nPoints: 96\n# Comments: 95",
+      "publishedAt": "2026-07-07T20:50:46.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T20:50:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, In…",
+      "publishedAt": "2026-07-07T20:31:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Meta's new Muse Image model accepts Instagram accounts as a prompt",
+          "link": "https://www.engadget.com/2210087/meta-s-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/",
+          "publishedAt": "2026-07-07T20:49:10.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-07T20:49:10.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "The real cost, security, and culture problems behind enterprise AI agents",
+      "link": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
+      "summary": "Presented by Red Hat \n\nAt VentureBeat's recent AI Impact event, where the discussion centered on what separates enterprises that scale agentic AI from those that stall in pilot mod…",
+      "publishedAt": "2026-07-07T20:24:31.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4uZ9yfcgAUzj96p0I8gmUo/b6171e100300bc13cedb1325cc8040f2/IMG_4290.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T20:24:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "publishedAt": "2026-07-07T20:04:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T20:04:32.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "publishedAt": "2026-07-07T19:58:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2153485379.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T19:58:20.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+      "link": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+      "summary": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
+      "publishedAt": "2026-07-07T19:52:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/keen-1152x524.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T19:52:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Hasbro and Scooby Doo team up for one of the goofiest Transformers yet",
+      "link": "https://www.engadget.com/2209980/hasbro-and-scooby-doo-team-up-for-one-of-the-goofiest-transformers-yet/",
+      "summary": "Hasbro and Scooby Doo team up for one of the goofiest Transformers yet.",
+      "publishedAt": "2026-07-07T19:31:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/hasbro-and-scooby-doo-teamed-up-for-one-of-the-goofiest-transformers-yet/l-intro-1783452596.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T19:31:52.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "publishedAt": "2026-07-07T19:28:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T19:28:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google announces Pixel 11 launch event in August",
+      "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
+      "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the ev…",
+      "publishedAt": "2026-07-07T17:22:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-07-at-10.21.32-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 4,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Google's next Pixel event is on August 12",
+          "link": "https://www.engadget.com/2209791/googles-next-pixel-event-is-on-august-12/",
+          "publishedAt": "2026-07-07T17:32:15.000Z"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Google’s Pixel event is set for August 12",
+          "link": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
+          "publishedAt": "2026-07-07T18:38:29.000Z"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+          "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+          "publishedAt": "2026-07-07T19:08:34.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-07T19:08:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
+      "link": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
+      "summary": "As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publication…",
+      "publishedAt": "2026-07-07T16:09:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_4b9b93f38fb65007e7a6410264b2f7fdac0d3586.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Doom developer id Software is reportedly losing half its staff",
+          "link": "https://www.engadget.com/2209928/doom-developer-id-software-is-reportedly-losing-half-its-staff/",
+          "publishedAt": "2026-07-07T19:04:21.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-07T19:04:21.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The FCC wants to make easier for ISPs to hide junk fees",
+      "link": "https://www.engadget.com/2209914/the-fcc-wants-to-make-easier-for-isps-to-hide-junk-fees/",
+      "summary": "The FCC is set to defang rules around ISP junk fee reporting.",
+      "publishedAt": "2026-07-07T18:52:46.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-fcc-wants-to-make-easier-for-isps-to-hide-junk-fees/l-intro-1783450287.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:52:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "link": "https://davit.app",
+      "summary": "Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code.\nComments URL: https://news.ycombinator.com/item?id=4…",
+      "publishedAt": "2026-07-07T18:44:29.000Z",
+      "image": "img/dashboard.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:44:29.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Figma acquires team behind a vibe-coding app",
+      "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+      "summary": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.",
+      "publishedAt": "2026-07-07T18:37:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/FigmaBud.jpeg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:37:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/\nComments URL: https://news.ycombinator.com/item?id=48821749\nPoints: 46\n# Comments: 5",
+      "publishedAt": "2026-07-07T18:36:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:36:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Astro 7.0",
+      "link": "https://astro.build/blog/astro-7/",
+      "summary": "Article URL: https://astro.build/blog/astro-7/\nComments URL: https://news.ycombinator.com/item?id=48821653\nPoints: 135\n# Comments: 34",
+      "publishedAt": "2026-07-07T18:30:02.000Z",
+      "image": "https://astro.build/_astro/og-astro-7.BAGlEZn4.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:30:02.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's what the CE mark means on your electronics",
+      "link": "https://www.engadget.com/2209022/what-ce-marking-means-on-electronics/",
+      "summary": "Know when and why the CE mark appear on a label.",
+      "publishedAt": "2026-07-07T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-what-the-ce-mark-means-on-your-electronics/l-intro-1783367635.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The Weather Channel increases streaming subscription prices by up to $20",
+      "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
+      "summary": "Livestreaming the channel through its app now starts at $5 per month.",
+      "publishedAt": "2026-07-07T18:29:24.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2164684199-1152x648-1783447853.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:29:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "X says top accounts steal videos from other users as it announces new video tools",
+      "link": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
+      "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went vi…",
+      "publishedAt": "2026-07-07T18:28:08.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:28:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "summary": "Article URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/\nComments URL: https://news.ycombinator.com/item?id=48821576\nPoints: 104\n# Comm…",
+      "publishedAt": "2026-07-07T18:24:10.000Z",
+      "image": "https://ariya.io//images/2026/03/kokoro.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:24:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "link": "https://github.com/kklimuk/docx-cli",
+      "summary": "Article URL: https://github.com/kklimuk/docx-cli\nComments URL: https://news.ycombinator.com/item?id=48821500\nPoints: 30\n# Comments: 12",
+      "publishedAt": "2026-07-07T18:19:00.000Z",
+      "image": "https://opengraph.githubassets.com/7446377bf80403f86535848dc1093c84e9d62a2adfad13a7714dfb1b104e2867/kklimuk/docx-cli",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:19:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The Nintendo Switch's days are numbered—but what is that number?",
+      "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
+      "summary": "Ars analysis suggests the 9-year-old console could keep selling for years.",
+      "publishedAt": "2026-07-07T18:16:29.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:16:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Notes on Software Quality",
+      "link": "https://anthonyhobday.com/blog/20260410",
+      "summary": "Article URL: https://anthonyhobday.com/blog/20260410\nComments URL: https://news.ycombinator.com/item?id=48821441\nPoints: 41\n# Comments: 25",
+      "publishedAt": "2026-07-07T18:14:50.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:14:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "l: A new runtime for k and q",
+      "link": "https://lv1.sh/",
+      "summary": "https://lv1.sh/blog/why-l/\nComments URL: https://news.ycombinator.com/item?id=48821378\nPoints: 68\n# Comments: 43",
+      "publishedAt": "2026-07-07T18:08:29.000Z",
+      "image": "/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:08:29.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Mysterious Compound Detected on Pluto and Titan",
+      "link": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/",
+      "summary": "Something on Pluto and one of Saturn’s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
+      "publishedAt": "2026-07-07T18:03:40.000Z",
+      "image": "https://media.wired.com/photos/6a4d000d4cf7b85a60294910/191:100/w_1280,c_limit/648792438",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T18:03:40.000Z"
+    },
     {
       "source": "Engadget",
       "title": "A bug in Discord's safety systems incorrectly banned accounts since May",
@@ -35,26 +332,14 @@
       "latestActivity": "2026-07-07T17:47:38.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+      "source": "VentureBeat",
+      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
+      "link": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
+      "summary": "Anthropic on Tuesday launched Claude Cowork on mobile and web, expanding a tool that has quietly become the company's bridge between the developer-centric world of AI coding agents…",
       "publishedAt": "2026-07-07T16:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a4c0a029897ae33b7e202dc/191:100/w_1280,c_limit/Cowork-Web-Mobile-Press-No-Logo-1920x1080.png",
-      "sourceCount": 5,
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6ZETUDIzLWcalxxa40yeIg/38b9b0fd6e4133768467665290155e68/Nuneybits_Vector_art_of_burnt_orange_smartphone_framed_by_a_sim_6ca87270-c750-4113-8323-18160ad7ce93.webp?w=300&q=30",
+      "sourceCount": 3,
       "related": [
-        {
-          "source": "Engadget",
-          "title": "Now you can direct Anthropic's Claude Cowork AI from your phone",
-          "link": "https://www.engadget.com/2209495/now-you-can-direct-anthropic-claude-cowork-ai-from-your-phone/",
-          "publishedAt": "2026-07-07T16:00:00.000Z"
-        },
-        {
-          "source": "VentureBeat",
-          "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
-          "link": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
-          "publishedAt": "2026-07-07T16:00:00.000Z"
-        },
         {
           "source": "TechCrunch",
           "title": "Claude Cowork expands to mobile and web",
@@ -71,40 +356,15 @@
       "latestActivity": "2026-07-07T17:46:59.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "iRobot’s newest floor cleaner isn’t a robot",
-      "link": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
-      "summary": "The Roomba Electro Plus is iRobot’s first manually-operated floor cleaner. | Image: iRobot\t\n\niRobot just announced its first-ever non-robotic floor cleaner. The $399 Roomba Electro…",
-      "publishedAt": "2026-07-07T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Roomba_Electro_Black_Photo_Insitu_Sanitize_Homepage_Banner_Mobile_1500x1500.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "iRobot made a non-robot floor cleaner",
-          "link": "https://www.engadget.com/2209802/irobot-made-a-non-robot-floor-cleaner/",
-          "publishedAt": "2026-07-07T17:45:00.000Z"
-        }
-      ],
+      "source": "Engadget",
+      "title": "iRobot made a non-robot floor cleaner",
+      "link": "https://www.engadget.com/2209802/irobot-made-a-non-robot-floor-cleaner/",
+      "summary": "iRobot's new floor cleaner isn't a robot at all.",
+      "publishedAt": "2026-07-07T17:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/irobot-made-a-non-robot-floor-cleaner/l-intro-1783445680.jpg",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-07-07T17:45:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google announces Pixel 11 launch event in August",
-      "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
-      "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the ev…",
-      "publishedAt": "2026-07-07T17:22:48.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-07-at-10.21.32-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Google's next Pixel event is on August 12",
-          "link": "https://www.engadget.com/2209791/googles-next-pixel-event-is-on-august-12/",
-          "publishedAt": "2026-07-07T17:32:15.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-07T17:32:15.000Z"
     },
     {
       "source": "TechCrunch",
@@ -118,15 +378,15 @@
       "latestActivity": "2026-07-07T17:24:35.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The X app for iOS now has a built-in video editor",
-      "link": "https://www.engadget.com/2209749/the-x-app-for-ios-now-has-a-built-in-video-editor/",
-      "summary": "X now has a built-in video editor on iOS.",
-      "publishedAt": "2026-07-07T17:06:38.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-x-app-for-ios-now-has-a-built-in-video-editor/l-intro-1783443932.jpg",
+      "source": "Ars Technica",
+      "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
+      "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
+      "summary": "The T70S can be eligible for racing events or built to be road-legal.",
+      "publishedAt": "2026-07-07T16:45:18.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/3O0A6846-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-07T17:06:38.000Z"
+      "latestActivity": "2026-07-07T16:45:18.000Z"
     },
     {
       "source": "TechCrunch",
@@ -140,50 +400,6 @@
       "latestActivity": "2026-07-07T16:45:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Avatar Aang: The Last Airbender finally has a trailer and a July 25 release date",
-      "link": "https://www.engadget.com/2209710/avatar-aang-the-last-airbender-finally-has-a-trailer-and-a-july-25-release-date/",
-      "summary": "If you want to (legally) watch Avatar Aang: The Last Airbender, it finally has a trailer and a July 25 release date.",
-      "publishedAt": "2026-07-07T16:42:47.000Z",
-      "image": "https://www.engadget.com/img/gallery/avatar-aang-the-last-airbender-finally-has-a-trailer-and-a-july-25-release-date/l-intro-1783442456.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T16:42:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mapping homes you can buy from the US government for <$100k",
-      "link": "https://govauctions.app/research/cheapest-homes-in-america",
-      "summary": "Article URL: https://govauctions.app/research/cheapest-homes-in-america\nComments URL: https://news.ycombinator.com/item?id=48820274\nPoints: 54\n# Comments: 50",
-      "publishedAt": "2026-07-07T16:42:41.000Z",
-      "image": "https://govauctions.app/api/image?url=https%3A%2F%2Fres.cloudinary.com%2Fyardi%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Cc_limit%2Fhhs%2FIMG_3811_616731_488155005.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T16:42:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reducing Doom Loops with Final Token Preference Optimization",
-      "link": "https://www.liquid.ai/blog/antidoom",
-      "summary": "Article URL: https://www.liquid.ai/blog/antidoom\nComments URL: https://news.ycombinator.com/item?id=48820127\nPoints: 10\n# Comments: 1",
-      "publishedAt": "2026-07-07T16:31:19.000Z",
-      "image": "https://aypchzzf9pftwuto.public.blob.vercel-storage.com/doom_loop-y84oiQpw3FgeYjpEMZbCXGT7z2V4RK.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T16:31:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Jim's TrueType QR Code Font",
-      "link": "https://github.com/jimparis/qr-font",
-      "summary": "Article URL: https://github.com/jimparis/qr-font\nComments URL: https://news.ycombinator.com/item?id=48820119\nPoints: 17\n# Comments: 1",
-      "publishedAt": "2026-07-07T16:30:42.000Z",
-      "image": "https://opengraph.githubassets.com/31e9c21695a774f3d718c6629615243e1d98ec6236441fafe4cfd5e222a5b020/jimparis/qr-font",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T16:30:42.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
       "link": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
@@ -195,92 +411,37 @@
       "latestActivity": "2026-07-07T16:25:51.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
-      "link": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
-      "summary": "Article URL: https://github.com/mplsllc/macsurf/releases/tag/v1.86\nComments URL: https://news.ycombinator.com/item?id=48820022\nPoints: 15\n# Comments: 2",
-      "publishedAt": "2026-07-07T16:24:40.000Z",
-      "image": "https://opengraph.githubassets.com/0f5c67d45345af9af01bcabd576994ce03c56b157c6226a8abb6e2fbdbf24aeb/mplsllc/macsurf/releases/tag/v1.86",
+      "source": "Ars Technica",
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+      "publishedAt": "2026-07-07T16:14:53.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-07T16:24:40.000Z"
+      "latestActivity": "2026-07-07T16:14:53.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
-      "link": "https://betterthangood.xyz/blog/weighing-smoke/",
-      "summary": "Article URL: https://betterthangood.xyz/blog/weighing-smoke/\nComments URL: https://news.ycombinator.com/item?id=48819958\nPoints: 11\n# Comments: 0",
-      "publishedAt": "2026-07-07T16:20:12.000Z",
-      "image": "https://betterthangood.xyz/img/2026-07-05-weighing-smoke-8cb06999-social.png",
+      "source": "Wired",
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+      "publishedAt": "2026-07-07T16:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a4c0a029897ae33b7e202dc/191:100/w_1280,c_limit/Cowork-Web-Mobile-Press-No-Logo-1920x1080.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-07T16:20:12.000Z"
+      "latestActivity": "2026-07-07T16:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
-      "link": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
-      "summary": "As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publication…",
-      "publishedAt": "2026-07-07T16:09:48.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_4b9b93f38fb65007e7a6410264b2f7fdac0d3586.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Ars Technica",
+      "title": "Dragonflies maneuver like fighter pilots",
+      "link": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
+      "summary": "Male dragonflies' dramatic aerial combat maneuvers emerge from relatively simple vision-based rules.",
+      "publishedAt": "2026-07-07T15:54:18.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/dragonfly1-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-07T16:09:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "link": "https://30papers.com/",
-      "summary": "Article URL: https://30papers.com/\nComments URL: https://news.ycombinator.com/item?id=48819608\nPoints: 47\n# Comments: 8",
-      "publishedAt": "2026-07-07T15:58:13.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T15:58:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Sites that block AI training crawlers mostly ignore the answer time bots",
-      "link": "https://sitedex.dev/insights/robots-txt-2023-war-memorial",
-      "summary": "Article URL: https://sitedex.dev/insights/robots-txt-2023-war-memorial\nComments URL: https://news.ycombinator.com/item?id=48819517\nPoints: 10\n# Comments: 0",
-      "publishedAt": "2026-07-07T15:52:48.000Z",
-      "image": "https://sitedex.dev/insights/answer-era/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T15:52:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Better Auth is joining Vercel",
-      "link": "https://better-auth.com/blog/better-auth-joins-vercel",
-      "summary": "Article URL: https://better-auth.com/blog/better-auth-joins-vercel\nComments URL: https://news.ycombinator.com/item?id=48819512\nPoints: 82\n# Comments: 56",
-      "publishedAt": "2026-07-07T15:52:22.000Z",
-      "image": "https://better-auth.com/blogs/better-auth-joins-vercel.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T15:52:22.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here's what all of those Android status bar icons mean",
-      "link": "https://www.engadget.com/2208629/what-android-status-bar-icons-mean/",
-      "summary": "There's a lot of info packed in the top area of an Android phone's screen",
-      "publishedAt": "2026-07-07T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-what-all-of-those-android-status-bar-icons-mean/l-intro-1783352469.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T15:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
-      "link": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
-      "summary": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
-      "publishedAt": "2026-07-07T15:19:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T15:19:33.000Z"
+      "latestActivity": "2026-07-07T15:54:18.000Z"
     },
     {
       "source": "The Verge",
@@ -294,61 +455,6 @@
       "latestActivity": "2026-07-07T15:02:30.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Chemistry Ventures is raising $500M for its second fund",
-      "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
-      "summary": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
-      "publishedAt": "2026-07-07T15:02:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/Social-Media-GPs-TWITTER.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T15:02:02.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
-      "publishedAt": "2026-07-07T14:35:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T14:35:42.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Anker&#8217;s noise-blocking earbuds for sleeping are nearly half off",
-      "link": "https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale",
-      "summary": "You might have a great bed and a good sleepy time routine, but if you’re still struggling to fall (or stay) asleep, Anker’s Soundcore Sleep A20 are worth considering. They’re desig…",
-      "publishedAt": "2026-07-07T14:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VERGE-DEALS-DAILY-IMAGE-27.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T14:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "This startup pits dealerships against each other to bid on your used car",
-      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-      "summary": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
-      "publishedAt": "2026-07-07T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/bidbus-team.jpg?resize=1200,1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T14:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to protect your tech from lightning strikes",
-      "link": "https://www.engadget.com/2208395/how-to-protect-your-tech-from-lightning-strikes/",
-      "summary": "Doing a little work ahead of time will help keep your gadgets from being fried in an electrical storm.",
-      "publishedAt": "2026-07-07T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-protect-your-tech-from-lightning-strikes/l-intro-1783344750.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T13:30:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "New virus catalog reveals which pathogens pose the greatest threat",
       "link": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
@@ -358,17 +464,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-07T13:15:49.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
-      "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
-      "summary": "The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a \"pedophile\" and a \"thief.\"",
-      "publishedAt": "2026-07-07T13:10:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/us-army-2234931369.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T13:10:00.000Z"
     },
     {
       "source": "Wired",
@@ -404,17 +499,6 @@
       "latestActivity": "2026-07-07T11:30:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
-      "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
-      "summary": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
-      "publishedAt": "2026-07-07T11:15:15.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/55370181785_141924edbe_4k-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T11:15:15.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
@@ -435,17 +519,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-07T11:01:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-      "publishedAt": "2026-07-07T11:00:18.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T11:00:18.000Z"
     },
     {
       "source": "Wired",
@@ -481,17 +554,6 @@
       "latestActivity": "2026-07-07T10:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "People Used to Control Machines. They Don’t Anymore",
-      "link": "https://www.wired.com/story/loss-of-physical-world-book-excerpt-the-small-stuff-ian-bogost/",
-      "summary": "In a world regulated by devices, humanity has become disconnected from the physical world—from stick-shift cars to postcards.",
-      "publishedAt": "2026-07-07T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a441cbc08adce464121affa/191:100/w_1280,c_limit/BookExceprt_People%20Used%20to%20Control%20Machines%20They%20Don%E2%80%99t%20Anymore_v2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T10:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Why worms (and microbes) are catching on as a manure pollution solution",
       "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
@@ -514,17 +576,6 @@
       "latestActivity": "2026-07-07T07:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-      "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-      "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
-      "publishedAt": "2026-07-06T21:13:37.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-1152x648-1783369462.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T21:13:37.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
       "link": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
@@ -536,28 +587,6 @@
       "latestActivity": "2026-07-06T21:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
-      "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
-      "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
-      "publishedAt": "2026-07-06T20:52:42.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238288864-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T20:52:42.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "What is the oldest American object ever launched into space?",
-      "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
-      "summary": "From a Revolutionary War flag to the Statue of Liberty...",
-      "publishedAt": "2026-07-06T19:57:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T19:57:56.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Your family’s $300 stake in OpenAI",
       "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
@@ -567,28 +596,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-06T18:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
-      "link": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
-      "summary": "Its issues with current nuclear safety standards are termed semantic, not physical.",
-      "publishedAt": "2026-07-06T17:48:45.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T17:48:45.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-      "link": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
-      "summary": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
-      "publishedAt": "2026-07-06T17:14:09.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pegasus-Image-2-resized-1000x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T17:14:09.000Z"
     },
     {
       "source": "VentureBeat",
@@ -633,17 +640,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-06T09:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Build for the new AI era with Microsoft and NVIDIA",
-      "link": "https://venturebeat.com/orchestration/build-for-the-new-ai-era-with-microsoft-and-nvidia",
-      "summary": "Presented by Microsoft and NVIDIA\n\nEvery generation of leaders has its own business transformation challenges to face. A decade ago, modernization meant cloud migration. Five years…",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5YSzXRQOvNPvyM8JCXMPN9/88a3601bc98acede3a18cb6b41ec00a8/Microsoft-Build_Agent-Factory-Article_1200x675_2.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-06T07:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
