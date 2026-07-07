@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsletterForm from '../../components/NewsletterForm.astro';
 import Comments from '../../components/Comments.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import ReadingProgress from '../../components/ReadingProgress.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
 import { tagHref } from '../../lib/tags';
@@ -53,6 +54,7 @@ const articleJsonLd = {
   type="article"
   jsonLd={articleJsonLd}
 >
+  <ReadingProgress />
   <article class="wrap article">
     {article.data.image && <img class="article__hero" src={article.data.image} alt="" />}
     <a href={categoryHref(article.data.category)} class="eyebrow">{categoryLabel(article.data.category)}</a>
