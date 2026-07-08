@@ -1,22 +1,205 @@
 {
-  "syncedAt": "2026-07-08T19:36:39.061Z",
+  "syncedAt": "2026-07-08T21:10:27.395Z",
   "items": [
     {
+      "source": "Wired",
+      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+      "summary": "Messi and Ronaldo are betting on AI, health tech, and startups. Salah is taking a more traditional route beyond football.",
+      "publishedAt": "2026-07-08T21:08:26.000Z",
+      "image": "https://media.wired.com/photos/6a4d0ba71ec7b7e789dcf997/191:100/w_1280,c_limit/InvestmentFoot_Lead.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T21:08:26.000Z"
+    },
+    {
       "source": "Hacker News",
-      "title": "Grok 4.5",
-      "link": "https://x.ai/news/grok-4-5",
-      "summary": "Article URL: https://x.ai/news/grok-4-5\nComments URL: https://news.ycombinator.com/item?id=48835111\nPoints: 213\n# Comments: 133",
-      "publishedAt": "2026-07-08T18:00:32.000Z",
-      "image": "https://x.ai/images/news/grok-4-5-og.png",
+      "title": "Fable is not a useful model",
+      "link": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "summary": "Article URL: https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html\nComments URL: https://news.ycombinator.com/item?id=48837162\nPoints: 42\n# Comments: 14",
+      "publishedAt": "2026-07-08T20:41:33.000Z",
+      "image": "/icons/share-thumbnail.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:41:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "link": "https://github.com/linuxrebel/DocuBrowser",
+      "summary": "Article URL: https://github.com/linuxrebel/DocuBrowser\nComments URL: https://news.ycombinator.com/item?id=48837110\nPoints: 4\n# Comments: 1",
+      "publishedAt": "2026-07-08T20:37:29.000Z",
+      "image": "https://opengraph.githubassets.com/e3a8fecb072472cb8d5ea87e57ea80371307843cec66211254186e74b1404c95/linuxrebel/DocuBrowser",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:37:29.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "summary": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-gener…",
+      "publishedAt": "2026-07-08T20:37:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-watermarking.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:37:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "summary": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a Germ…",
+      "publishedAt": "2026-07-08T20:29:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/QuantumDiamonds-founders-cropped.jpeg?resize=1200,712",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:29:50.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "FTC reaches settlement that brings right-to-repair to John Deere farm equipment",
+      "link": "https://www.engadget.com/2210939/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/",
+      "summary": "The FTC sued the famed green tractor company last year.",
+      "publishedAt": "2026-07-08T20:06:11.000Z",
+      "image": "https://www.engadget.com/img/gallery/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/l-intro-1783541023.jpg",
       "sourceCount": 2,
       "related": [
         {
-          "source": "TechCrunch",
-          "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-          "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-          "publishedAt": "2026-07-08T19:30:16.000Z"
+          "source": "Wired",
+          "title": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
+          "link": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
+          "publishedAt": "2026-07-08T20:27:18.000Z"
         }
       ],
+      "latestActivity": "2026-07-08T20:27:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+      "link": "https://danluu.com/ai-coding/#llm-variance",
+      "summary": "Article URL: https://danluu.com/ai-coding/#llm-variance\nComments URL: https://news.ycombinator.com/item?id=48836951\nPoints: 4\n# Comments: 1",
+      "publishedAt": "2026-07-08T20:21:45.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:21:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+      "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+      "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsi…",
+      "publishedAt": "2026-07-08T18:50:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_9c317dc153b2905648f0b78301cde36f17001327.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Microsoft reportedly cancels Avowed sequel as Obsidian focuses on a Fallout game",
+          "link": "https://www.engadget.com/2210958/microsoft-reportedly-cancels-avowed-sequel-as-obsidian-focuses-on-a-fallout-game/",
+          "publishedAt": "2026-07-08T20:18:23.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-08T20:18:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Multigres Supports Listen/Notify Across Pooled Connections",
+      "link": "https://multigres.com/blog/listen-notify",
+      "summary": "Article URL: https://multigres.com/blog/listen-notify\nComments URL: https://news.ycombinator.com/item?id=48836838\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-08T20:11:40.000Z",
+      "image": "/img/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:11:40.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+      "publishedAt": "2026-07-08T20:09:21.000Z",
+      "image": "https://media.wired.com/photos/6a4d3e5ad99ed47ae9e00cc8/191:100/w_1280,c_limit/AI-Lab-I-Made-A-Self-Improving-AI-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:09:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "link": "https://github.com/animesh-94/Onboard-CLI",
+      "summary": "Article URL: https://github.com/animesh-94/Onboard-CLI\nComments URL: https://news.ycombinator.com/item?id=48836813\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-08T20:09:03.000Z",
+      "image": "https://opengraph.githubassets.com/be2a9e121bc84e0f63bf3c2d3f2a93a6c16b6717414a7046b6256b2f3f3c0efd/animesh-94/Onboard-CLI",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:09:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Autonomous drone delivery startup Manna plots major US expansion",
+      "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+      "summary": "Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.",
+      "publishedAt": "2026-07-08T20:06:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/manna-drones-manufacturing.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:06:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "FAANG Simulator",
+      "link": "https://www.abeyk.com/escape-the-rat-race/",
+      "summary": "Article URL: https://www.abeyk.com/escape-the-rat-race/\nComments URL: https://news.ycombinator.com/item?id=48836778\nPoints: 11\n# Comments: 2",
+      "publishedAt": "2026-07-08T20:05:42.000Z",
+      "image": "https://www.abeyk.com/escape-the-rat-race/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:05:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
+      "link": "https://hnwork.app/",
+      "summary": "Hey HN, I built a UI on top of the \"Who is hiring\" posts. Take a look at https://hnwork.app!\nOne of the downsides of unstructured text posts is the readability due to it being free…",
+      "publishedAt": "2026-07-08T20:00:04.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T20:00:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Slughorn, Slug font/glyph render lib for OpenGL/OSG/Vulkan/GPU APIs (MIT lic))",
+      "link": "https://alphapixeldev.com/slughorn-mit-licensed-gpu-agnostic-slug-font-glyph-rendering-library-for-opengl-osg-vulkan-and-all-gpu-driven-graphics-apis/",
+      "summary": "Article URL: https://alphapixeldev.com/slughorn-mit-licensed-gpu-agnostic-slug-font-glyph-rendering-library-for-opengl-osg-vulkan-and-all-gpu-driven-graphics-apis/\nComments URL: ht…",
+      "publishedAt": "2026-07-08T19:57:07.000Z",
+      "image": "https://alphapixeldev.com/wp-content/uploads/2026/06/slughorn-logo-scaled.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T19:57:07.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Peter Thiel’s Husband Sued a Flight Attendant Who Says He Assaulted Her on a Private Jet",
+      "link": "https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/",
+      "summary": "Matthew Danzeisen’s lawyer says the case is a “shakedown about a bag” that brushed someone’s leg. Stefanie Bojar says she was injured aboard the jet—and that the lawsuit is a bully…",
+      "publishedAt": "2026-07-08T19:49:30.000Z",
+      "image": "https://media.wired.com/photos/6a4d4be1cd42662145e2207c/191:100/w_1280,c_limit/Peter-Thiel-Husband-Attacked-Flight-Attendant-With-Cooler-Bag-Business-1532801923.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T19:49:30.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "publishedAt": "2026-07-08T19:30:16.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-07-08T19:30:16.000Z"
     },
     {
@@ -62,17 +245,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
-      "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
-      "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsi…",
-      "publishedAt": "2026-07-08T18:50:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_9c317dc153b2905648f0b78301cde36f17001327.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T18:50:27.000Z"
     },
     {
       "source": "VentureBeat",
@@ -137,17 +309,6 @@
       "latestActivity": "2026-07-08T18:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-      "link": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-      "summary": "Article URL: https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997\nComments URL: https://news.ycombinator.com/item?id=48835439\nPoints: 7\n# Comme…",
-      "publishedAt": "2026-07-08T18:21:53.000Z",
-      "image": "https://forum.openmandriva.org/uploads/default/original/2X/e/eb6bc6e5e60da2e909cb97a086c16d0a7c130855.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T18:21:53.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
       "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
@@ -192,39 +353,6 @@
       "latestActivity": "2026-07-08T17:57:53.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re…",
-      "publishedAt": "2026-07-08T17:47:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T17:47:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "link": "https://microsoft.github.io/flint-chart/#/",
-      "summary": "Data visualizations are the bridge between user and data.\nBut building AI agents that can generate visualizations reliably can be very tricky:\n- simple chart specs can be reliable,…",
-      "publishedAt": "2026-07-08T17:46:12.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T17:46:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
-      "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
-      "summary": "Article URL: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582\nComments URL: https://news.ycombinator.com/item?id=48834919\nPoints: 76\n# Comments: 28",
-      "publishedAt": "2026-07-08T17:45:26.000Z",
-      "image": "https://www.flatpanelshd.com/pictures/pslimits_small.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T17:45:26.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
       "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
@@ -234,17 +362,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T17:44:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What Do We Know About the Microplastics Inside Us?",
-      "link": "https://e360.yale.edu/features/cassandra-rauert-interview",
-      "summary": "Article URL: https://e360.yale.edu/features/cassandra-rauert-interview\nComments URL: https://news.ycombinator.com/item?id=48834898\nPoints: 86\n# Comments: 19",
-      "publishedAt": "2026-07-08T17:43:37.000Z",
-      "image": "https://yale-threesixty.transforms.svdcdn.com/production/Plastic-Fingertips_Getty-HEADER.jpg?w=1200&q=60&auto=format&fit=max&dm=1783439743&s=6ae88795970a9e9a134849ba859c0c1a",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T17:43:37.000Z"
     },
     {
       "source": "The Verge",
@@ -280,17 +397,6 @@
       "latestActivity": "2026-07-08T17:13:26.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its…",
-      "publishedAt": "2026-07-08T17:11:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T17:11:18.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "If Microsoft sold off Xbox, who would even buy it?",
       "link": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
@@ -313,55 +419,15 @@
       "latestActivity": "2026-07-08T17:09:28.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "GPT‑Live",
-      "link": "https://openai.com/index/introducing-gpt-live/",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/\nComments URL: https://news.ycombinator.com/item?id=48834405\nPoints: 375\n# Comments: 260",
-      "publishedAt": "2026-07-08T17:03:19.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T17:03:19.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-      "publishedAt": "2026-07-08T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T17:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "ChatGPT’s upgraded voice mode is better at shutting up",
       "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
       "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will als…",
       "publishedAt": "2026-07-08T17:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "ChatGPT's new voice mode will slow down if you tell it to",
-          "link": "https://www.engadget.com/2210651/chatgpt-new-voice-mode-will-slow-down-if-you-tell-it-to/",
-          "publishedAt": "2026-07-08T17:00:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-08T17:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "EU now one step away from reviving private message scanning rules",
-      "link": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-      "summary": "Article URL: https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/\nComments URL: https://news.ycombinator.com/item?id=48834296\nPoints: 173\n# C…",
-      "publishedAt": "2026-07-08T16:53:06.000Z",
-      "image": "https://cyberinsider.com/wp-content/uploads/2026/07/EU-now-one-step-away-from-reviving-private-message-scanning-rules.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-08T16:53:06.000Z"
+      "latestActivity": "2026-07-08T17:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -375,17 +441,6 @@
       "latestActivity": "2026-07-08T16:39:48.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Amazon is reportedly working on a more powerful agentic Alexa assistant",
-      "link": "https://www.engadget.com/2210614/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/",
-      "summary": "Amazon is working on a project codenamed 'Moonraker' that would enable the AI assistant to handle multi-step tasks more effectively.",
-      "publishedAt": "2026-07-08T16:33:31.000Z",
-      "image": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/l-intro-1783528237.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T16:33:31.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "EmTech AI 2026: The Rise of the AI Platform",
       "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
@@ -395,17 +450,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T16:26:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "link": "https://cognition.com/blog/swe-1-7",
-      "summary": "Article URL: https://cognition.com/blog/swe-1-7\nComments URL: https://news.ycombinator.com/item?id=48833866\nPoints: 145\n# Comments: 86",
-      "publishedAt": "2026-07-08T16:19:36.000Z",
-      "image": "https://cognition.com/images/swe-1-7/swe-1-7-og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T16:19:36.000Z"
     },
     {
       "source": "Ars Technica",
@@ -516,50 +560,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T12:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "9 Best Portable Power Stations (2026), Tested for Capacity and Size",
-      "link": "https://www.wired.com/gallery/best-portable-power-stations/",
-      "summary": "Whether you’re going off-grid or safeguarding against blackouts, these beefy, WIRED-tested batteries can keep the lights on.",
-      "publishedAt": "2026-07-08T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a4d496469eabca8afcd518a/191:100/w_1280,c_limit/The-Best-Portable-Power-Stations.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T11:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly",
-      "link": "https://www.wired.com/review/lg-micro-rgb-evo/",
-      "summary": "It’s hard to say if the pricey LG Micro RGB Evo television is worth shelling out for compared to its cheaper competitors, but you’ll probably enjoy its color-popping display.",
-      "publishedAt": "2026-07-08T11:01:00.000Z",
-      "image": "https://media.wired.com/photos/6a4d484870c8efed0e484179/191:100/w_1280,c_limit/Review--LG-Micro-RGB-Evo.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T11:01:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Pickup Artist Mystery Has an AI Girlfriend",
-      "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-      "publishedAt": "2026-07-08T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a4d726369eabca8afcd5361/191:100/w_1280,c_limit/Original-Pickup-Artist-AI-Girlfriend-Culture-76938494.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear",
-      "link": "https://www.wired.com/story/onlyfans-creators-dmca-hacked-government-websites/",
-      "summary": "Scammers are hijacking government websites to upload ads for “leaked” OnlyFans content. Thousands of copyright complaints from adult creators are helping people avoid malicious lin…",
-      "publishedAt": "2026-07-08T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a4d73452df7d65c50c2efad/191:100/w_1280,c_limit/OnlyFansModelsMakingHackedWebsitesDissapear_v4.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T10:30:00.000Z"
     },
     {
       "source": "VentureBeat",
