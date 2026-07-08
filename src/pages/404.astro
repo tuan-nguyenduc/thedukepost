@@ -1,0 +1,89 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Page not found — The Duke Post"
+  description="This page doesn't exist — it may have moved, or never existed. Try searching, or head back to the homepage."
+>
+  <section class="wrap page">
+    <p class="code">404</p>
+    <h1>This page wandered off.</h1>
+    <p class="lede">We couldn't find what you were looking for. It may have moved, or the link is just wrong.</p>
+
+    <form class="search-form" action="/search" method="get">
+      <input type="search" name="q" placeholder="Search articles…" aria-label="Search articles" autocomplete="off" />
+      <button type="submit" class="sticker">Search</button>
+    </form>
+
+    <div class="links">
+      <a href="/" class="sticker link-chip">Home</a>
+      <a href="/articles" class="sticker link-chip">Articles</a>
+      <a href="/wire" class="sticker link-chip">Wire</a>
+      <a href="/tags" class="sticker link-chip">Tags</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .page {
+    padding: 72px 24px 100px;
+    max-width: 620px;
+  }
+  .code {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--signal);
+    margin: 0 0 12px;
+  }
+  h1 { font-size: clamp(28px, 5vw, 40px); margin: 0 0 14px; }
+  .lede { font-size: 17px; line-height: 1.6; color: var(--slate); margin: 0 0 36px; }
+
+  .search-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 32px;
+  }
+  .search-form input {
+    flex: 1;
+    padding: 12px 16px;
+    font-family: var(--font-body);
+    font-size: 16px;
+    background: var(--paper);
+    color: var(--ink);
+    border: 2px solid var(--ink);
+    border-radius: 10px;
+    outline: none;
+  }
+  .search-form input:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+  .search-form button {
+    padding: 12px 20px;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    background: var(--signal);
+    color: var(--ink-fixed);
+    border: 2px solid var(--ink);
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .link-chip {
+    padding: 10px 18px;
+    font-size: 15px;
+  }
+
+  @media (max-width: 480px) {
+    .search-form { flex-direction: column; }
+  }
+</style>
