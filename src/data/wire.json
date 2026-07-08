@@ -1,11 +1,157 @@
 {
-  "syncedAt": "2026-07-08T06:30:31.301Z",
+  "syncedAt": "2026-07-08T10:21:34.901Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "What Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out",
+      "link": "https://www.wired.com/story/what-happens-if-china-hacks-the-us-water-supply-war-game-volt-typhoon/",
+      "summary": "Burst water mains. Evacuated hospitals. In a closed-door simulation, insurers played out their response to a mass disruption by China’s Volt Typhoon hackers—and found a nightmare s…",
+      "publishedAt": "2026-07-08T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a4d67b2cd42662145e222f2/191:100/w_1280,c_limit/WARGAME-TopArt-v4.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+      "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
+      "publishedAt": "2026-07-08T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a4be55744dc79c43267387c/191:100/w_1280,c_limit/DeepMind-Alum-QandA-Verity-Harding-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T09:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9",
+      "link": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/",
+      "summary": "OpenAI's GPT-5.6 Sol, Terra and Luna will be widely available on Thursday.",
+      "publishedAt": "2026-07-08T09:04:16.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-is-rolling-out-gpt-5-6-to-the-public-on-july-9/l-intro-1783501225.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T09:04:16.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Free Waymo Rides in California? You Can Thank a Regulatory Quirk",
+      "link": "https://www.wired.com/story/a-california-regulatory-quirk-means-free-waymo-rides/",
+      "summary": "A key delay from a state agency means robotaxi rides in the company’s new Ojai vehicle might be free for a few more months.",
+      "publishedAt": "2026-07-08T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a4d3dfe43cd8f0314cd8061/191:100/w_1280,c_limit/GettyImages-2277937150.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "summary": "Article URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/\nComments URL: https://news.ycombina…",
+      "publishedAt": "2026-07-08T08:46:06.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T08:46:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "link": "https://github.com/dekart-xyz/geosql",
+      "summary": "Article URL: https://github.com/dekart-xyz/geosql\nComments URL: https://news.ycombinator.com/item?id=48829242\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-07-08T08:37:26.000Z",
+      "image": "https://opengraph.githubassets.com/648e91f40bee88f69cc83bd1912ca28c503c4caa25e131567766a46a9059072e/dekart-xyz/geosql",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T08:37:26.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The next Samsung Galaxy Unpacked launch is happening on July 22",
+      "link": "https://www.engadget.com/2209773/the-next-samsung-galaxy-unpacked-launch-is-happening-on-july-22/",
+      "summary": "The next Samsung Galaxy Unpacked launch is happening on July 22.",
+      "publishedAt": "2026-07-07T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-next-samsung-galaxy-unpacked-launch-is-happening-on-july-22/l-intro-1783444881.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Samsung will launch its new wide foldable on July 22nd",
+          "link": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
+          "publishedAt": "2026-07-08T08:13:52.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-08T08:13:52.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "publishedAt": "2026-07-08T08:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T08:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The space bit of SpaceX is worth $8 a share, says Morgan Stanley",
+      "link": "https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388",
+      "summary": "Article URL: https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388\nComments URL: https://news.ycombinator.com/item?id=48828648\nPoints: 39\n# Comments: 38",
+      "publishedAt": "2026-07-08T07:18:26.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T07:18:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "publishedAt": "2026-07-08T07:16:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T07:16:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      "publishedAt": "2026-07-08T07:00:51.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T07:00:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+      "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "summary": "Even so, the privacy LED light is still hard to see. It’s on in this photo. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmid public backlash over its smart glasses, Meta announ…",
+      "publishedAt": "2026-07-07T23:55:19.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25012301/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0879.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Meta says it will disable the camera on its glasses if you tamper with the recording LED",
+          "link": "https://www.engadget.com/2210283/meta-disable-camera-glasses-tamper-with-recording-led/",
+          "publishedAt": "2026-07-08T06:44:17.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-08T06:44:17.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/\nComments URL: https://news.ycombinator.com/item?id=48827858\nPoints: 6\n#…",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/\nComments URL: https://news.ycombinator.com/item?id=48827858\nPoints: 195…",
       "publishedAt": "2026-07-08T05:25:35.000Z",
       "image": "https://noma.security/wp-content/uploads/Screenshot-2026-06-29-at-14.16.35.png",
       "sourceCount": 1,
@@ -68,54 +214,10 @@
       "latestActivity": "2026-07-08T05:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "20% Off Brooks Promo Code | July 2026",
-      "link": "https://www.wired.com/story/brooks-promo-code/",
-      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "publishedAt": "2026-07-08T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/191:100/w_1280,c_limit/WIRED-Coupons-13.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Valvoline Coupons and Promo Codes for July 2026",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "summary": "We've gathered all the top Valvoline coupons and promo codes for July 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "publishedAt": "2026-07-08T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/191:100/w_1280,c_limit/WIRED-Coupons-R2_4.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Buy Discount Codes: Up to 60% Off",
-      "link": "https://www.wired.com/story/best-buy-discount-code/",
-      "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
-      "publishedAt": "2026-07-08T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/191:100/w_1280,c_limit/WIRED-Coupons-R2_16.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T05:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "link": "https://twitter.com/OpenAI/status/2074704958419792299",
-      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299\nComments URL: https://news.ycombinator.com/item?id=48827402\nPoints: 107\n# Comments: 37",
-      "publishedAt": "2026-07-08T04:12:13.000Z",
-      "image": "https://pbs.twimg.com/media/HMrU7U7bwAEO8yf.jpg:large",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T04:12:13.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
       "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "summary": "Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/\nComments URL: https://news.ycombinator.com/item?id=48827325\nPoints: 101\n# Comments: 52",
+      "summary": "Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/\nComments URL: https://news.ycombinator.com/item?id=48827325\nPoints: 201\n# Comments: 121",
       "publishedAt": "2026-07-08T03:59:35.000Z",
       "image": "https://neil.computer/content/images/2024/08/CleanShot-2024-08-23-at-23.09.01@2x.png",
       "sourceCount": 1,
@@ -126,7 +228,7 @@
       "source": "Hacker News",
       "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
       "link": "https://www.digipres.org/the-floppy-guide/",
-      "summary": "Article URL: https://www.digipres.org/the-floppy-guide/\nComments URL: https://news.ycombinator.com/item?id=48827092\nPoints: 27\n# Comments: 6",
+      "summary": "Article URL: https://www.digipres.org/the-floppy-guide/\nComments URL: https://news.ycombinator.com/item?id=48827092\nPoints: 78\n# Comments: 21",
       "publishedAt": "2026-07-08T03:22:31.000Z",
       "image": "/the-floppy-guide//build/Floppy_Disk_Guide_51-79ea83c9dfced75a9a9a03fdeff76a35.jpg",
       "sourceCount": 1,
@@ -135,20 +237,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Is The Economist Always Wrong?",
-      "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-      "summary": "Article URL: https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong\nComments URL: https://news.ycombinator.com/item?id=48826703\nPoints…",
-      "publishedAt": "2026-07-08T02:17:01.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T02:17:01.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "LineageOS Statistics",
       "link": "https://stats.lineageos.org",
-      "summary": "Article URL: https://stats.lineageos.org\nComments URL: https://news.ycombinator.com/item?id=48826329\nPoints: 30\n# Comments: 12",
+      "summary": "Article URL: https://stats.lineageos.org\nComments URL: https://news.ycombinator.com/item?id=48826329\nPoints: 95\n# Comments: 56",
       "publishedAt": "2026-07-08T01:27:39.000Z",
       "image": null,
       "sourceCount": 1,
@@ -159,34 +250,12 @@
       "source": "Hacker News",
       "title": "Show HN: Chiptune Radio",
       "link": "https://chiptune-radio.alephvoid.com/",
-      "summary": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.\nComments URL: https://news.ycombinator.com/item?id=48826094\nPoints: 40\n# Comments:…",
+      "summary": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.\nComments URL: https://news.ycombinator.com/item?id=48826094\nPoints: 50\n# Comments:…",
       "publishedAt": "2026-07-08T00:55:19.000Z",
       "image": "https://chiptune-radio.alephvoid.com/assets/logo.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T00:55:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "link": "https://kb.cert.org/vuls/id/213560",
-      "summary": "Article URL: https://kb.cert.org/vuls/id/213560\nComments URL: https://news.ycombinator.com/item?id=48825749\nPoints: 139\n# Comments: 33",
-      "publishedAt": "2026-07-08T00:08:51.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T00:08:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
-      "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
-      "summary": "Even so, the privacy LED light is still hard to see. It’s on in this photo. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmid public backlash over its smart glasses, Meta announ…",
-      "publishedAt": "2026-07-07T23:55:19.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25012301/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0879.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T23:55:19.000Z"
     },
     {
       "source": "Engadget",
@@ -198,17 +267,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-07T23:23:52.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The next Samsung Galaxy Unpacked launch is happening on July 22",
-      "link": "https://www.engadget.com/2209773/the-next-samsung-galaxy-unpacked-launch-is-happening-on-july-22/",
-      "summary": "The next Samsung Galaxy Unpacked launch is happening on July 22.",
-      "publishedAt": "2026-07-07T23:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-next-samsung-galaxy-unpacked-launch-is-happening-on-july-22/l-intro-1783444881.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T23:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -418,39 +476,6 @@
       "latestActivity": "2026-07-07T19:04:21.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The FCC wants to make easier for ISPs to hide junk fees",
-      "link": "https://www.engadget.com/2209914/the-fcc-wants-to-make-easier-for-isps-to-hide-junk-fees/",
-      "summary": "The FCC is set to defang rules around ISP junk fee reporting.",
-      "publishedAt": "2026-07-07T18:52:46.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-fcc-wants-to-make-easier-for-isps-to-hide-junk-fees/l-intro-1783450287.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T18:52:46.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Figma acquires team behind a vibe-coding app",
-      "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
-      "summary": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.",
-      "publishedAt": "2026-07-07T18:37:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/FigmaBud.jpeg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T18:37:01.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here's what the CE mark means on your electronics",
-      "link": "https://www.engadget.com/2209022/what-ce-marking-means-on-electronics/",
-      "summary": "Know when and why the CE mark appear on a label.",
-      "publishedAt": "2026-07-07T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-what-the-ce-mark-means-on-your-electronics/l-intro-1783367635.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T18:30:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "The Weather Channel increases streaming subscription prices by up to $20",
       "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
@@ -471,17 +496,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-07T18:28:08.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The Nintendo Switch's days are numbered—but what is that number?",
-      "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
-      "summary": "Ars analysis suggests the 9-year-old console could keep selling for years.",
-      "publishedAt": "2026-07-07T18:16:29.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T18:16:29.000Z"
     },
     {
       "source": "The Verge",
@@ -507,35 +521,6 @@
     },
     {
       "source": "VentureBeat",
-      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
-      "link": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
-      "summary": "Anthropic on Tuesday launched Claude Cowork on mobile and web, expanding a tool that has quietly become the company's bridge between the developer-centric world of AI coding agents…",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6ZETUDIzLWcalxxa40yeIg/38b9b0fd6e4133768467665290155e68/Nuneybits_Vector_art_of_burnt_orange_smartphone_framed_by_a_sim_6ca87270-c750-4113-8323-18160ad7ce93.webp?w=300&q=30",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Anthropic is launching Claude Cowork on mobile and web",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-          "publishedAt": "2026-07-07T17:46:59.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-07T17:46:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
-      "link": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
-      "summary": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
-      "publishedAt": "2026-07-07T17:24:35.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T17:24:35.000Z"
-    },
-    {
-      "source": "VentureBeat",
       "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
       "link": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
       "summary": "Presented by Box \n\nContent access, governance, and platform flexibility are emerging as the dividing lines between AI leaders and laggards, according to the new State of AI in the…",
@@ -544,6 +529,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-07T16:25:51.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
+      "link": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
+      "summary": "Anthropic on Tuesday launched Claude Cowork on mobile and web, expanding a tool that has quietly become the company's bridge between the developer-centric world of AI coding agents…",
+      "publishedAt": "2026-07-07T16:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6ZETUDIzLWcalxxa40yeIg/38b9b0fd6e4133768467665290155e68/Nuneybits_Vector_art_of_burnt_orange_smartphone_framed_by_a_sim_6ca87270-c750-4113-8323-18160ad7ce93.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-07T16:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
