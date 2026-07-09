@@ -1,6 +1,125 @@
 {
-  "syncedAt": "2026-07-08T23:10:34.301Z",
+  "syncedAt": "2026-07-09T03:33:47.888Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+      "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+      "summary": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
+      "publishedAt": "2026-07-09T02:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/truecaller-ceo-rishit-jhunjhunwala_image.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T02:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I Think I Have LLM Burnout",
+      "link": "https://www.alecscollon.com/blog/llm-burnout/",
+      "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/\nComments URL: https://news.ycombinator.com/item?id=48839984\nPoints: 116\n# Comments: 69",
+      "publishedAt": "2026-07-09T01:56:28.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T01:56:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Remote Attestation",
+      "link": "https://www.liamcvw.com/p/remote-attestation",
+      "summary": "Article URL: https://www.liamcvw.com/p/remote-attestation\nComments URL: https://news.ycombinator.com/item?id=48839397\nPoints: 37\n# Comments: 18",
+      "publishedAt": "2026-07-09T00:32:33.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!A0EF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ab9008a-68c9-4f18-8615-2d1d4462dbcd_1536x1024.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T00:32:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "link": "https://mira-wm.com/",
+      "summary": "https://mira-wm.com/blog-post/\nComments URL: https://news.ycombinator.com/item?id=48839355\nPoints: 36\n# Comments: 6",
+      "publishedAt": "2026-07-09T00:27:57.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T00:27:57.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel",
+      "link": "https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/",
+      "summary": "The animal escaped after apparently arriving inside a package at Meta's Bangkok office, injuring one employee before finally being caught.",
+      "publishedAt": "2026-07-08T23:53:04.000Z",
+      "image": "https://media.wired.com/photos/6a4eda84351e3bcb2e38a372/191:100/w_1280,c_limit/GettyImages-2262457818.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T23:53:04.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "FTC reaches settlement that brings right-to-repair to John Deere farm equipment",
+      "link": "https://www.engadget.com/2210939/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/",
+      "summary": "The FTC sued the famed green tractor company last year.",
+      "publishedAt": "2026-07-08T20:06:11.000Z",
+      "image": "https://www.engadget.com/img/gallery/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/l-intro-1783541023.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Wired",
+          "title": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
+          "link": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
+          "publishedAt": "2026-07-08T20:27:18.000Z"
+        },
+        {
+          "source": "Hacker News",
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "publishedAt": "2026-07-08T23:37:43.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-08T23:37:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off\nComments URL: https://news.ycombinator.com/item?id=48838772\nPoints: 87\n# Comments: 38",
+      "publishedAt": "2026-07-08T23:27:14.000Z",
+      "image": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off/opengraph-image-yqks0s?3313ef8f7f360358",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T23:27:14.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Volkswagen is employing 100 sheep at a solar farm in Poland",
+      "link": "https://www.engadget.com/2211107/volkswagen-is-employing-100-sheep-at-a-solar-farm-in-poland/",
+      "summary": "It's more of a baa-ter arrangement.",
+      "publishedAt": "2026-07-08T23:22:18.000Z",
+      "image": "https://www.engadget.com/img/gallery/volkswagen-brings-100-sheep-to-its-poland-solar-farm/l-intro-1783551980.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T23:22:18.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Judge approves $1.5 million SEC-Musk settlement over Twitter investment",
+      "link": "https://www.engadget.com/2211052/judge-approves-1-5-million-sec-musk-settlement-over-twitter-investment/",
+      "summary": "The opinion says whether it's fair is 'for our citizenry to decide at the ballot box.'",
+      "publishedAt": "2026-07-08T21:34:59.000Z",
+      "image": "https://www.engadget.com/img/gallery/judge-approves-1-5-million-sec-musk-settlement-over-twitter-investment/l-intro-1783546081.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+          "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+          "publishedAt": "2026-07-08T23:11:42.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-08T23:11:42.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Lovable reportedly in talks to double its valuation to $13.2B",
@@ -11,6 +130,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T22:41:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+      "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+      "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio…",
+      "publishedAt": "2026-07-08T22:37:25.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-08T22:37:25.000Z"
     },
     {
       "source": "VentureBeat",
@@ -38,7 +168,7 @@
       "source": "Hacker News",
       "title": "Rewriting Bun in Rust",
       "link": "https://bun.com/blog/bun-in-rust",
-      "summary": "Article URL: https://bun.com/blog/bun-in-rust\nComments URL: https://news.ycombinator.com/item?id=48837877\nPoints: 69\n# Comments: 12",
+      "summary": "Article URL: https://bun.com/blog/bun-in-rust\nComments URL: https://news.ycombinator.com/item?id=48837877\nPoints: 347\n# Comments: 187",
       "publishedAt": "2026-07-08T21:49:59.000Z",
       "image": null,
       "sourceCount": 1,
@@ -57,19 +187,8 @@
       "latestActivity": "2026-07-08T21:49:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
-      "link": "https://opensourcebarware.com",
-      "summary": "Article URL: https://opensourcebarware.com\nComments URL: https://news.ycombinator.com/item?id=48837809\nPoints: 4\n# Comments: 1",
-      "publishedAt": "2026-07-08T21:43:07.000Z",
-      "image": "https://opensourcebarware.com/images/og-image.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T21:43:07.000Z"
-    },
-    {
       "source": "Ars Technica",
-      "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
       "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "summary": "AI cheating leads to \"a failed society,\" professor says.",
       "publishedAt": "2026-07-08T21:42:44.000Z",
@@ -79,15 +198,15 @@
       "latestActivity": "2026-07-08T21:42:44.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Judge approves $1.5 million SEC-Musk settlement over Twitter investment",
-      "link": "https://www.engadget.com/2211052/judge-approves-1-5-million-sec-musk-settlement-over-twitter-investment/",
-      "summary": "The opinion says whether it's fair is 'for our citizenry to decide at the ballot box.'",
-      "publishedAt": "2026-07-08T21:34:59.000Z",
-      "image": "https://www.engadget.com/img/gallery/judge-approves-1-5-million-sec-musk-settlement-over-twitter-investment/l-intro-1783546081.jpg",
+      "source": "Hacker News",
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "summary": "Article URL: https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase\nComments URL: https://news.ycombinator.com/item?id=48837696\nPoints: 1…",
+      "publishedAt": "2026-07-08T21:30:09.000Z",
+      "image": "https://www.databricks.com/sites/default/files/2026-07/pareto-cropped-1.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-08T21:34:59.000Z"
+      "latestActivity": "2026-07-08T21:30:09.000Z"
     },
     {
       "source": "Wired",
@@ -104,34 +223,12 @@
       "source": "Hacker News",
       "title": "Separating signal from noise in coding evaluations",
       "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "summary": "Article URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/\nComments URL: https://news.ycombinator.com/item?id=48837396\nPoints: 108\n# Comments: 44",
+      "summary": "Article URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/\nComments URL: https://news.ycombinator.com/item?id=48837396\nPoints: 175\n# Comments: 66",
       "publishedAt": "2026-07-08T21:03:51.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T21:03:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
-      "link": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-      "summary": "Article URL: https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html\nComments URL: https://news.ycombinator.com/item?id=48837162\nPoints: 170\n# Comments: 153",
-      "publishedAt": "2026-07-08T20:41:33.000Z",
-      "image": "/icons/share-thumbnail.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T20:41:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turning a pile of documents into a searchable useable knowledge base",
-      "link": "https://github.com/linuxrebel/DocuBrowser",
-      "summary": "Article URL: https://github.com/linuxrebel/DocuBrowser\nComments URL: https://news.ycombinator.com/item?id=48837110\nPoints: 35\n# Comments: 6",
-      "publishedAt": "2026-07-08T20:37:29.000Z",
-      "image": "https://opengraph.githubassets.com/98552c364b730e8e3c80fe1cefe12d3724d2f0ea0e1ca002aba81ea1cfefadaf/linuxrebel/DocuBrowser",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T20:37:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -154,35 +251,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T20:29:50.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "FTC reaches settlement that brings right-to-repair to John Deere farm equipment",
-      "link": "https://www.engadget.com/2210939/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/",
-      "summary": "The FTC sued the famed green tractor company last year.",
-      "publishedAt": "2026-07-08T20:06:11.000Z",
-      "image": "https://www.engadget.com/img/gallery/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/l-intro-1783541023.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Wired",
-          "title": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
-          "link": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
-          "publishedAt": "2026-07-08T20:27:18.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-08T20:27:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
-      "link": "https://danluu.com/ai-coding/#llm-variance",
-      "summary": "Article URL: https://danluu.com/ai-coding/#llm-variance\nComments URL: https://news.ycombinator.com/item?id=48836951\nPoints: 11\n# Comments: 1",
-      "publishedAt": "2026-07-08T20:21:45.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T20:21:45.000Z"
     },
     {
       "source": "The Verge",
@@ -214,17 +282,6 @@
       "latestActivity": "2026-07-08T20:09:21.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
-      "link": "https://github.com/animesh-94/Onboard-CLI",
-      "summary": "Article URL: https://github.com/animesh-94/Onboard-CLI\nComments URL: https://news.ycombinator.com/item?id=48836813\nPoints: 15\n# Comments: 2",
-      "publishedAt": "2026-07-08T20:09:03.000Z",
-      "image": "https://opengraph.githubassets.com/da1293ecc234c1a9ca13b490ec19f8adcee5b26b883791db782752bfc2ede970/animesh-94/Onboard-CLI",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T20:09:03.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Autonomous drone delivery startup Manna plots major US expansion",
       "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
@@ -234,17 +291,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T20:06:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "FAANG Simulator",
-      "link": "https://www.abeyk.com/escape-the-rat-race/",
-      "summary": "Article URL: https://www.abeyk.com/escape-the-rat-race/\nComments URL: https://news.ycombinator.com/item?id=48836778\nPoints: 146\n# Comments: 53",
-      "publishedAt": "2026-07-08T20:05:42.000Z",
-      "image": "https://www.abeyk.com/escape-the-rat-race/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T20:05:42.000Z"
     },
     {
       "source": "The Verge",
@@ -289,28 +335,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T19:30:16.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
-      "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
-      "summary": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.",
-      "publishedAt": "2026-07-08T19:22:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2158208817.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T19:22:11.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world…",
-      "publishedAt": "2026-07-08T19:19:15.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T19:19:15.000Z"
     },
     {
       "source": "Ars Technica",
@@ -377,17 +401,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T18:44:28.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Roku is the most popular streaming TV, but lacking more than you think",
-      "link": "https://www.engadget.com/2209478/roku-most-popular-streaming-tv-study/",
-      "summary": "The company's streaming devices aren't quite keeping up with competitors in several important categories.",
-      "publishedAt": "2026-07-08T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/roku-is-the-most-popular-streaming-tv-but-lacking-more-than-you-think/l-intro-1783431631.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T18:30:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -511,17 +524,6 @@
       "latestActivity": "2026-07-08T16:26:10.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "This jumping $800 robot camera dog filled me with joy",
-      "link": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
-      "summary": "The Mondo Robotics Beni. | Photo by Sean Hollister / The Verge\t\n\nWhat if you had a drone that wasn't a buzzy, annoying fly people wanted to swat - but rather a cute dog that runs a…",
-      "publishedAt": "2026-07-08T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DJI_20260701132950_0659_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T15:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Republicans Gleefully Celebrate Midterms Chaos in Maine",
       "link": "https://www.wired.com/story/republicans-gleefully-celebrate-midterms-chaos-in-maine/",
@@ -553,17 +555,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T12:10:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best MagSafe Power Banks for iPhone and Android, Plus Ones to Avoid",
-      "link": "https://www.wired.com/gallery/best-magsafe-power-banks/",
-      "summary": "Keep your iPhone or Qi2 Android phone topped up with one of the best portable chargers.",
-      "publishedAt": "2026-07-08T12:01:00.000Z",
-      "image": "https://media.wired.com/photos/692118a07d4b03d83b72c715/191:100/w_1280,c_limit/Best%20MagSafe%20Power%20Banks%20SOURCE%20Simon%20Hill.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-08T12:01:00.000Z"
     },
     {
       "source": "VentureBeat",
