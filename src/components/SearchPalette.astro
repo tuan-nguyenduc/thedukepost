@@ -1,0 +1,257 @@
+<dialog id="search-palette" class="search-palette" aria-label="Quick search">
+  <div class="search-palette__box">
+    <div class="search-palette__input-row">
+      <input
+        id="search-palette-input"
+        type="search"
+        placeholder="Search articles & wire…"
+        autocomplete="off"
+        aria-label="Search"
+      />
+      <kbd class="search-palette__esc">Esc</kbd>
+    </div>
+    <p id="search-palette-status" class="search-palette__status" aria-live="polite"></p>
+    <ul id="search-palette-results" class="search-palette__results" role="listbox"></ul>
+  </div>
+</dialog>
+
+<script>
+  import Fuse from 'fuse.js';
+
+  interface SearchItem {
+    type: 'article' | 'wire';
+    link: string;
+    title: string;
+    description: string;
+    category: string;
+    pubDate: string;
+  }
+
+  const dialog = document.getElementById('search-palette') as HTMLDialogElement;
+  const input = document.getElementById('search-palette-input') as HTMLInputElement;
+  const status = document.getElementById('search-palette-status') as HTMLParagraphElement;
+  const resultsEl = document.getElementById('search-palette-results') as HTMLUListElement;
+
+  let fuse: Fuse<SearchItem> | null = null;
+  let loadPromise: Promise<void> | null = null;
+  let activeIndex = -1;
+  let currentResults: SearchItem[] = [];
+
+  function escapeHtml(str: string): string {
+    return str.replace(/[&<>"']/g, (c) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+    }[c] as string));
+  }
+
+  function categoryLabel(cat: string): string {
+    const labels: Record<string, string> = {
+      ai: 'AI', gadgets: 'Gadgets', startups: 'Startups',
+      security: 'Security', opinion: 'Opinion', general: 'General',
+    };
+    return labels[cat] ?? cat;
+  }
+
+  async function ensureLoaded(): Promise<void> {
+    if (!loadPromise) {
+      loadPromise = fetch('/search-index.json')
+        .then((res) => res.json())
+        .then((items: SearchItem[]) => {
+          fuse = new Fuse(items, {
+            keys: [
+              { name: 'title', weight: 2 },
+              { name: 'description', weight: 1 },
+              { name: 'category', weight: 0.5 },
+            ],
+            threshold: 0.4,
+          });
+        });
+    }
+    await loadPromise;
+  }
+
+  function setActive(index: number): void {
+    const items = resultsEl.querySelectorAll('.search-palette__item');
+    items.forEach((el) => el.classList.remove('search-palette__item--active'));
+    if (index >= 0 && index < items.length) {
+      items[index].classList.add('search-palette__item--active');
+      items[index].scrollIntoView({ block: 'nearest' });
+    }
+    activeIndex = index;
+  }
+
+  function renderResults(items: SearchItem[]): void {
+    currentResults = items;
+    if (items.length === 0) {
+      resultsEl.innerHTML = '';
+      status.textContent = input.value.trim() ? 'No results found.' : '';
+      activeIndex = -1;
+      return;
+    }
+    status.textContent = `${items.length} result${items.length === 1 ? '' : 's'}`;
+    resultsEl.innerHTML = items.map((item, i) => {
+      const isWire = item.type === 'wire';
+      const eyebrow = escapeHtml(isWire ? `Wire · ${item.category}` : categoryLabel(item.category));
+      const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
+      return `
+        <li role="option" class="search-palette__item" data-index="${i}">
+          <a href="${escapeHtml(item.link)}" class="search-palette__link"${linkAttrs}>
+            <span class="search-palette__eyebrow">${eyebrow}</span>
+            <span class="search-palette__title">${escapeHtml(item.title)}</span>
+          </a>
+        </li>
+      `;
+    }).join('');
+    setActive(0);
+  }
+
+  function runSearch(query: string): void {
+    if (!fuse) return;
+    const q = query.trim();
+    if (!q) {
+      renderResults([]);
+      return;
+    }
+    renderResults(fuse.search(q).slice(0, 8).map((r) => r.item));
+  }
+
+  async function openPalette(): Promise<void> {
+    input.value = '';
+    resultsEl.innerHTML = '';
+    status.textContent = '';
+    activeIndex = -1;
+    currentResults = [];
+    dialog.showModal();
+    input.focus();
+    await ensureLoaded();
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+      e.preventDefault();
+      if (dialog.open) {
+        dialog.close();
+      } else {
+        openPalette();
+      }
+    }
+  });
+
+  dialog.addEventListener('click', (e) => {
+    if (e.target === dialog) dialog.close();
+  });
+
+  input.addEventListener('input', () => runSearch(input.value));
+
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      setActive(Math.min(activeIndex + 1, currentResults.length - 1));
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      setActive(Math.max(activeIndex - 1, 0));
+    } else if (e.key === 'Enter') {
+      if (activeIndex >= 0 && currentResults[activeIndex]) {
+        e.preventDefault();
+        const item = currentResults[activeIndex];
+        if (item.type === 'wire') {
+          window.open(item.link, '_blank', 'noopener,noreferrer');
+        } else {
+          window.location.href = item.link;
+        }
+      }
+    }
+  });
+</script>
+
+<style>
+  .search-palette {
+    border: none;
+    padding: 0;
+    background: transparent;
+    width: min(600px, 92vw);
+    max-height: 70vh;
+  }
+  .search-palette[open] {
+    position: fixed;
+    top: 12vh;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+  }
+  .search-palette::backdrop {
+    background: rgba(10, 10, 10, 0.55);
+  }
+  .search-palette__box {
+    display: flex;
+    flex-direction: column;
+    max-height: 70vh;
+    background: var(--paper);
+    color: var(--ink);
+    border: 2px solid var(--ink);
+    border-radius: 16px;
+    box-shadow: 8px 8px 0 var(--ink);
+    overflow: hidden;
+  }
+  .search-palette__input-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 16px 18px;
+    border-bottom: 2px solid var(--paper-line);
+  }
+  #search-palette-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 18px;
+  }
+  .search-palette__esc {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    padding: 2px 6px;
+    border: 1px solid var(--slate);
+    border-radius: 4px;
+    color: var(--slate);
+  }
+  .search-palette__status {
+    padding: 8px 18px 0;
+    margin: 0;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--slate);
+    min-height: 16px;
+  }
+  .search-palette__results {
+    list-style: none;
+    margin: 0;
+    padding: 8px;
+    overflow-y: auto;
+  }
+  .search-palette__link {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    color: var(--ink);
+  }
+  .search-palette__item--active .search-palette__link,
+  .search-palette__link:hover {
+    background: var(--accent-soft);
+  }
+  .search-palette__eyebrow {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--slate);
+  }
+  .search-palette__title {
+    font-size: 15px;
+  }
+</style>

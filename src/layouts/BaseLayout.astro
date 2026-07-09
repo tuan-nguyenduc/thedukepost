@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import Analytics from '@vercel/analytics/astro';
 import { CATEGORIES, categoryHref, categoryLabel } from '../lib/categories';
+import SearchPalette from '../components/SearchPalette.astro';
 
 interface Props {
   title: string;
@@ -101,7 +102,7 @@ const siteJsonLd = [
         </details>
         <a href="/wire">Wire</a>
         <a href="/newsletter">Newsletter</a>
-        <a href="/search" aria-label="Search">Search</a>
+        <a href="/search" aria-label="Search">Search <kbd class="kbd-hint">⌘K</kbd></a>
         <a href="/subscribe" class="nav-subscribe">Subscribe</a>
         <a href="/about">About</a>
         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">
@@ -122,6 +123,8 @@ const siteJsonLd = [
       <p class="byline">Curated headlines link to original publishers. <a href="/rss.xml">RSS</a></p>
     </div>
   </footer>
+
+  <SearchPalette />
 
   <Analytics />
 
@@ -194,6 +197,14 @@ const siteJsonLd = [
     background: var(--ink);
     color: var(--paper);
     transform: rotate(-1deg);
+  }
+  .kbd-hint {
+    margin-left: 4px;
+    padding: 1px 5px;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    font-size: 10px;
+    opacity: 0.6;
   }
   .nav-subscribe {
     background: var(--signal);
@@ -283,5 +294,6 @@ const siteJsonLd = [
   @media (max-width: 640px) {
     .site-header__inner { flex-direction: column; align-items: flex-start; gap: 12px; }
     .site-nav { gap: 18px; }
+    .kbd-hint { display: none; }
   }
 </style>
