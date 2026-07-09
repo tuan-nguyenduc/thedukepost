@@ -1,6 +1,180 @@
 {
-  "syncedAt": "2026-07-09T21:37:13.608Z",
+  "syncedAt": "2026-07-09T23:14:02.026Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "Netflix reportedly considers adding always-on channels",
+      "link": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
+      "summary": "Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of alw…",
+      "publishedAt": "2026-07-09T23:00:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072-05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T23:00:31.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Days after announcing mass layoffs, Xbox CEO Asha Sharma tapped to advise the Federal Reserve on jobs",
+      "link": "https://www.engadget.com/2211983/days-after-laying-off-3-200-xbox-ceo-asha-sharma-tapped-to-advise-the-federal-reserve-on-jobs/",
+      "summary": "That's a choice.",
+      "publishedAt": "2026-07-09T22:54:22.000Z",
+      "image": "https://www.engadget.com/img/gallery/days-after-laying-off-3200-xbox-ceo-asha-sharma-tapped-to-advise-the-federal-reserve-on-jobs/l-intro-1783637559.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T22:54:22.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+      "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+      "summary": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought.",
+      "publishedAt": "2026-07-09T22:29:10.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/komododragon_slasher_ZA_7204-750x500-1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T22:29:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has…",
+      "publishedAt": "2026-07-09T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "GPT-5.6",
+          "link": "https://openai.com/index/gpt-5-6/",
+          "publishedAt": "2026-07-09T17:04:14.000Z"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "OpenAI launches its new family of models with GPT-5.6",
+          "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+          "publishedAt": "2026-07-09T22:24:24.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-09T22:24:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why American ambulance rides are so expensive",
+      "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are\nComments URL: https://news.ycombinator.com/item?id=48853091\nPoints: 29\n# Comments: 11",
+      "publishedAt": "2026-07-09T22:15:56.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!KYj0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16d230e7-cc1d-491b-9e14-59f6f0aaf274_2048x1366.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T22:15:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "publishedAt": "2026-07-09T22:08:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Lyzr-graphic.png?resize=1200,658",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T22:08:58.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "publishedAt": "2026-07-09T22:03:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T22:03:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "publishedAt": "2026-07-09T21:57:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T21:57:42.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Playdate is helping Big Ben ring on time",
+      "link": "https://www.engadget.com/2211936/playdate-is-helping-big-ben-ring-on-time/",
+      "summary": "Crank it up!",
+      "publishedAt": "2026-07-09T21:56:50.000Z",
+      "image": "https://www.engadget.com/img/gallery/playdate-is-helping-big-ben-ring-on-time/l-intro-1783633974.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T21:56:50.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
+      "link": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
+      "summary": "In neighboring Ohio, cases have reportedly reached over 500.",
+      "publishedAt": "2026-07-09T21:56:44.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1615411744-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T21:56:44.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
+      "summary": "Today on Uncanny Valley, we unpack the political debacle unfolding in Maine surrounding the campaign of Democratic candidate Graham Platner.",
+      "publishedAt": "2026-07-09T21:47:57.000Z",
+      "image": "https://media.wired.com/photos/6a4ed845d214609f8c84aa7b/191:100/w_1280,c_limit/Uncanny-Valley-graham-platner_0709.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T21:47:57.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Can AI answer the $3 trillion question?",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "publishedAt": "2026-07-09T21:47:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-102719801.jpg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T21:47:50.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Come to Our WIRED@NIGHT02 Film Screening!",
+      "link": "https://www.wired.com/story/come-to-wirednight02-film-screening/",
+      "summary": "See the documentary The Oldest Person in the World before it’s in theaters.",
+      "publishedAt": "2026-07-09T21:43:26.000Z",
+      "image": "https://media.wired.com/photos/6a500cdafc02327fac76692f/191:100/w_1280,c_limit/#1%20-%20Jeanne%20Calment,%20age%20120%20and%20one%20month%20before%20her%20121st%20birthday,%20attends%20a%20press%20conference%20for%20the%20release%20of%20her%20techno-rap%20CD%20%E2%80%9CMistress%20of%20Time,%E2%80%9D%20from%20THE%20OLDEST%20PERSON%20IN%20THE%20WORLD,%20an%20Assembly%20Release.%20Photo%20courtesy%20of%20Reuter.JPG",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T21:43:26.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "OpenAI releases a new ChatGPT tool for all things work related",
+      "link": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
+      "summary": "OpenAI's long-awaited super app is here.",
+      "publishedAt": "2026-07-09T20:50:04.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-releases-chatgpt-work-tool-macos-windows-web-plans/l-intro-1783630509.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "OpenAI wants its new tool to do your work for you and with you",
+          "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+          "publishedAt": "2026-07-09T21:25:55.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-09T21:25:55.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Retroid Pocket 5 and Flip 2 are getting a spec bump, but will cost $10 more after July 14",
@@ -11,6 +185,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-09T21:21:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Rubiks Cube Solver",
+      "link": "https://speedcube.com.br/",
+      "summary": "Speedcube is an open-source platform for speedcubers featuring a Rubik's Cube solver, competition timer, algorithm library, and AI-assisted cube recognition directly in the browser…",
+      "publishedAt": "2026-07-09T21:09:05.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T21:09:05.000Z"
     },
     {
       "source": "Engadget",
@@ -33,28 +218,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-09T20:52:55.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "OpenAI releases a new ChatGPT tool for all things work related",
-      "link": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
-      "summary": "OpenAI's long-awaited super app is here.",
-      "publishedAt": "2026-07-09T20:50:04.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-releases-chatgpt-work-tool-macos-windows-web-plans/l-intro-1783630509.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T20:50:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: RandoFont, a browser for Google Fonts",
-      "link": "https://randofont.alesh.com",
-      "summary": "Inevitably when starting a new web project I want to pick the perfect font. This is just a browser that shows Google Fonts, randomly, and lets me tag favorites.\nI built this years…",
-      "publishedAt": "2026-07-09T20:46:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T20:46:38.000Z"
     },
     {
       "source": "VentureBeat",
@@ -211,24 +374,6 @@
       "latestActivity": "2026-07-09T19:05:58.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Slate’s Gray $25,000 Truck Just Got a Crayola Makeover",
-      "link": "https://www.wired.com/story/slates-gray-dollar25000-truck-just-got-a-crayola-makeover/",
-      "summary": "The Bezos-backed automaker building America’s cheapest electric truck is teaming up with the crayon company in a bid to brighten its rides. Make ours Razzmatazz.",
-      "publishedAt": "2026-07-09T13:31:13.000Z",
-      "image": "https://media.wired.com/photos/6a4f91d16718a0b2de8ac398/191:100/w_1280,c_limit/070926_Slate-Crayola.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Slate Auto teams up with Crayola to color its EV truck",
-          "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
-          "publishedAt": "2026-07-09T19:01:16.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-09T19:01:16.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
       "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
@@ -238,28 +383,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-09T18:57:53.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
-      "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
-      "summary": "The video call highlights the murky relationship between professional athletes and gambling apps.",
-      "publishedAt": "2026-07-09T18:50:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-513136711.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T18:50:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The PocketMage is an E Ink digital assistant that's absolutely obsessed with wizards",
-      "link": "https://www.engadget.com/2211733/pocketmage-e-ink-digital-assistant-that-absolutely-obsessed-with-wizards/",
-      "summary": "It has a proprietary OS, a QWERTY keyboard and dual(ish) screens.",
-      "publishedAt": "2026-07-09T18:47:43.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-pocketmage-is-an-e-ink-digital-assistant-thats-absolutely-obsessed-with-wizards/l-intro-1783622695.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T18:47:43.000Z"
     },
     {
       "source": "VentureBeat",
@@ -273,39 +396,6 @@
       "latestActivity": "2026-07-09T18:46:56.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Mercor is in talks for a $20B valuation",
-      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-      "summary": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
-      "publishedAt": "2026-07-09T18:42:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T18:42:22.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google will now disclose which ads are made with AI",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google o…",
-      "publishedAt": "2026-07-09T18:40:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T18:40:51.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "publishedAt": "2026-07-09T18:34:35.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T18:34:35.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
       "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
@@ -317,21 +407,10 @@
       "latestActivity": "2026-07-09T18:30:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "iPhone Ultra rumors: The most credible leaks, price and expected release date",
-      "link": "https://www.engadget.com/2211037/iphone-ultra-roundup-leaks-price-release-date/",
-      "summary": "iPhone Ultra or the iPhone Fold. No matter what you call it, here are all the rumors and leaks we've gathered on Apple's most anticipated iPhone in years.",
-      "publishedAt": "2026-07-09T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/iphone-ultra-rumors-the-most-credible-leaks-price-and-expected-release-date/l-intro-1783544626.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T18:30:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "GLM 5.2 is nearly as accurate as a human book keeper",
       "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark\nComments URL: https://news.ycombinator.com/item?id=48850414\nPoints: 132\n# Comments: 79",
+      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark\nComments URL: https://news.ycombinator.com/item?id=48850414\nPoints: 163\n# Comments: 97",
       "publishedAt": "2026-07-09T18:29:41.000Z",
       "image": "../assets/icon-512.png",
       "sourceCount": 1,
@@ -342,7 +421,7 @@
       "source": "Hacker News",
       "title": "How to Start a Ruby Meetup",
       "link": "https://guides.rubyevents.org/meetups/",
-      "summary": "Article URL: https://guides.rubyevents.org/meetups/\nComments URL: https://news.ycombinator.com/item?id=48850372\nPoints: 37\n# Comments: 10",
+      "summary": "Article URL: https://guides.rubyevents.org/meetups/\nComments URL: https://news.ycombinator.com/item?id=48850372\nPoints: 55\n# Comments: 13",
       "publishedAt": "2026-07-09T18:27:06.000Z",
       "image": "https://guides.rubyevents.org/assets/images/og.png",
       "sourceCount": 1,
@@ -361,28 +440,21 @@
       "latestActivity": "2026-07-09T17:33:46.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has…",
-      "publishedAt": "2026-07-09T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "GPT-5.6",
-          "link": "https://openai.com/index/gpt-5-6/",
-          "publishedAt": "2026-07-09T17:04:14.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-09T17:04:14.000Z"
+      "source": "Hacker News",
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "summary": "Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/\nComments URL: https://news.ycombinator.com/item?id=48849292\nPoints: 50\n# Comments: 11",
+      "publishedAt": "2026-07-09T17:17:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T17:17:16.000Z"
     },
     {
       "source": "Hacker News",
       "title": "ChatGPT Work",
       "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "summary": "Article URL: https://openai.com/index/chatgpt-for-your-most-ambitious-work/\nComments URL: https://news.ycombinator.com/item?id=48849059\nPoints: 281\n# Comments: 125",
+      "summary": "Article URL: https://openai.com/index/chatgpt-for-your-most-ambitious-work/\nComments URL: https://news.ycombinator.com/item?id=48849059\nPoints: 305\n# Comments: 147",
       "publishedAt": "2026-07-09T17:03:53.000Z",
       "image": null,
       "sourceCount": 1,
@@ -423,17 +495,6 @@
       "latestActivity": "2026-07-09T16:01:22.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "link": "https://www.pangram.com/blog/ai-in-your-feed",
-      "summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed\nComments URL: https://news.ycombinator.com/item?id=48847940\nPoints: 127\n# Comments: 111",
-      "publishedAt": "2026-07-09T15:50:09.000Z",
-      "image": "https://cdn.sanity.io/images/6vunltag/production/3c7bf7b542469d5572d664f321ec376ef719a9fe-1200x630.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T15:50:09.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
       "link": "https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock",
@@ -443,28 +504,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-09T15:45:46.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
-      "link": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
-      "summary": "Oddly, it wasn't the first time this had happened to the man.",
-      "publishedAt": "2026-07-09T15:33:41.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Sparganum_UHUHS_A.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T15:33:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "link": "https://www.context.dev",
-      "summary": "Hi Hacker News, I’m Yahia. I built Context.dev (https://www.context.dev/) to make it really easy to integrate web data into your products and agents.\nHere’s a demo video: https://w…",
-      "publishedAt": "2026-07-09T15:28:39.000Z",
-      "image": "https://www.context.dev/api/og?title=Every+piece+of+web+context+your+agent+needs.",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T15:28:39.000Z"
     },
     {
       "source": "VentureBeat",
@@ -478,39 +517,6 @@
       "latestActivity": "2026-07-09T15:00:10.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
-      "link": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
-      "summary": "\"You promised me that you would never take power in your name.\"",
-      "publishedAt": "2026-07-09T14:45:44.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/duneTOP-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T14:45:44.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Ruf debuts new flat-eight engine at Goodwood",
-      "link": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
-      "summary": "The 4.8 L eight-cylinder generates more than 1,000 hp and 1,000 Nm, Ruf says.",
-      "publishedAt": "2026-07-09T14:32:48.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ruf_8-Zylinder_01-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T14:32:48.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sonos Ace wireless headphones are steeply discounted",
-      "link": "https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale",
-      "summary": "If you’re looking for a discount on a great pair of active noise-canceling headphones for your summer adventures (even if they’re indoors), you’re in luck. The Sonos Ace headphones…",
-      "publishedAt": "2026-07-09T14:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Sonos-Ace-Deal-Image-Orange.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T14:30:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway",
       "link": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
@@ -520,6 +526,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-09T13:55:08.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Slate’s Gray $25,000 Truck Just Got a Crayola Makeover",
+      "link": "https://www.wired.com/story/slates-gray-dollar25000-truck-just-got-a-crayola-makeover/",
+      "summary": "The Bezos-backed automaker building America’s cheapest electric truck is teaming up with the crayon company in a bid to brighten its rides. Make ours Razzmatazz.",
+      "publishedAt": "2026-07-09T13:31:13.000Z",
+      "image": "https://media.wired.com/photos/6a4f91d16718a0b2de8ac398/191:100/w_1280,c_limit/070926_Slate-Crayola.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-09T13:31:13.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -553,28 +570,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-09T11:31:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Amseatec Criss Cross Office Chair Review: Just Right",
-      "link": "https://www.wired.com/review/amseatec-criss-cross-office-chair/",
-      "summary": "The Amseatec Criss Cross Office Chair gives you room to sit cross-legged, sideways, or however your body actually wants to sit.",
-      "publishedAt": "2026-07-09T11:06:00.000Z",
-      "image": "https://media.wired.com/photos/6a4ee8d75c4c6eaef4e0bbd3/191:100/w_1280,c_limit/Review--Amseatec-Criss-Cross-Office-Chair.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T11:06:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Data Centers Are Quietly Taking Over Texas. The Pollution Could Be Catastrophic",
-      "link": "https://www.wired.com/story/data-centers-taking-over-texas-pollution-could-be-catastrophic/",
-      "summary": "Thousands of new fossil-fuel power sources are quietly firing up across the state to power the AI boom, thanks to a regulatory loophole, leaving residents feeling blindsided.",
-      "publishedAt": "2026-07-09T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a4cde08884e40b026772a3a/191:100/w_1280,c_limit/070226_Texas-Data-Centers-2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T11:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
