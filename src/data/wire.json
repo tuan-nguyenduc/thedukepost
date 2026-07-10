@@ -1,6 +1,134 @@
 {
-  "syncedAt": "2026-07-10T19:37:00.111Z",
+  "syncedAt": "2026-07-10T21:08:14.110Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+      "link": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+      "summary": "Article URL: https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot\nComments URL: https://news.ycombinator.com/item?id=4886…",
+      "publishedAt": "2026-07-10T19:30:12.000Z",
+      "image": "https://www.nyc.gov/content/dam/nycgov/mayors-office/images/press-releases/2026/07/landmark--click-to-cancel--consumer-prot--1.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Mamdani announces new Click-to-Cancel rule for New York City",
+          "link": "https://www.engadget.com/2212741/mamdani-announces-new-click-to-cancel-rule-for-new-york-city/",
+          "publishedAt": "2026-07-10T21:04:33.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-10T21:04:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "publishedAt": "2026-07-10T21:00:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T21:00:29.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "link": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+      "summary": "An enterprise AI agent answers with total confidence, but the number is wrong. Nobody catches it until someone traces it back to a stale metric definition or a document the retriev…",
+      "publishedAt": "2026-07-10T20:58:32.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1dmfePLwv5tMnsvynK7fRY/af274baef6c18c897c0f82229f923bf8/agentic-ai-context-smk1.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T20:58:32.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "summary": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "publishedAt": "2026-07-10T20:44:05.000Z",
+      "image": "https://media.wired.com/photos/6a51395dba309b253cb3d458/191:100/w_1280,c_limit/GettyImages-2233062347.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T20:44:05.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+      "link": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+      "summary": "OpenAI on Thursday launched ChatGPT Work, a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work…",
+      "publishedAt": "2026-07-10T20:20:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/XaJBJbkMIolDxyrlIw5Qd/b9e360da7531ae921f32528977713b61/Nuneybits_Magazine-style_digital_illustration_of_oversized_clou_64512c24-eef8-4ed0-9aae-efcb0615033a.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T20:20:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "OpenAI's browser isn't dead, it just moved to the ChatGPT app",
+      "link": "https://www.engadget.com/2212701/openai-browser-isnt-dead/",
+      "summary": "Let's be real, OpenAI isn't giving up on the browser market, it is just changing its strategy.",
+      "publishedAt": "2026-07-10T20:11:13.000Z",
+      "image": "https://www.engadget.com/img/gallery/openais-browser-ambitions-arent-dead-they-just-changed-course/l-intro-1783714014.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T20:11:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Don't discontinue Gemini 2.5 Flash",
+      "link": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "summary": "Article URL: https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246\nComments URL: https://news.ycombinator.com/item?id=48864507\nPoints: 16\n# Comments: 4",
+      "publishedAt": "2026-07-10T20:00:28.000Z",
+      "image": "https://d3qe71uytubmmx.cloudfront.net/original/2X/8/8bfe64fc593eb7baba8df149ebba4457c16ca1f9.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T20:00:28.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Check out the first images of Quest shipwreck",
+      "link": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+      "summary": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
+      "publishedAt": "2026-07-10T19:59:31.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/questTOP-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T19:59:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "A decade later, Pokémon Go finally made good on its original promise",
+      "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+      "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game…",
+      "publishedAt": "2026-07-10T19:51:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T19:51:10.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+      "summary": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
+      "publishedAt": "2026-07-10T19:40:11.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T19:40:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "An Update on the scraper situation",
+      "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\nComments URL: https://news.ycombinator.com/item?id=48864252\nPoints: 16\n# Comments: 5",
+      "publishedAt": "2026-07-10T19:38:34.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T19:38:34.000Z"
+    },
     {
       "source": "Engadget",
       "title": "The Meta Glasses backlash is changing how (or if) people use them",
@@ -35,6 +163,17 @@
       "latestActivity": "2026-07-10T19:27:21.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
+      "link": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
+      "summary": "The children who get a combination shot are some of the most vulnerable.",
+      "publishedAt": "2026-07-10T19:25:04.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T19:25:04.000Z"
+    },
+    {
       "source": "The Verge",
       "title": "ICE is threatening to deport witnesses of its latest shooting",
       "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
@@ -58,14 +197,36 @@
     },
     {
       "source": "Hacker News",
-      "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+      "title": "Materials innovation has a scale-up problem, not discovery",
+      "link": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
+      "summary": "Article URL: https://www.atomscale.ai/updates/our-thesis-atom-to-scale\nComments URL: https://news.ycombinator.com/item?id=48863849\nPoints: 14\n# Comments: 3",
+      "publishedAt": "2026-07-10T19:03:36.000Z",
+      "image": "https://atomscale.ai/static/logos/AtomscaleOGImage.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T19:03:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How the terrorist group Boko Haram uses frontier AI",
       "link": "https://casp.ac/reports/ai-enabled-terrorism",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism\nComments URL: https://news.ycombinator.com/item?id=48863707\nPoints: 15\n# Comments: 5",
+      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism\nComments URL: https://news.ycombinator.com/item?id=48863707\nPoints: 67\n# Comments: 55",
       "publishedAt": "2026-07-10T18:49:26.000Z",
       "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/AwmrFUJUl1Miu5dNMpFBx8P372K3/social-images/social-1783516958074-CASP_Social_Logos_White.webp",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T18:49:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "45% of Enthusiasts 'Seriously Considering' Leaving Sony for PC",
+      "link": "https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc",
+      "summary": "Article URL: https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc\nComments URL: https://news.…",
+      "publishedAt": "2026-07-10T18:41:10.000Z",
+      "image": "https://images.pushsquare.com/434425c0b1f73/large.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T18:41:10.000Z"
     },
     {
       "source": "Engadget",
@@ -82,7 +243,7 @@
       "source": "Hacker News",
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
       "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "summary": "Article URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf\nComments URL: https://news.ycombinator.com/item?id=48863490\nPoints: 80\n# Comments: 40",
+      "summary": "Article URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf\nComments URL: https://news.ycombinator.com/item?id=48863490\nPoints: 183\n# Comments: 166",
       "publishedAt": "2026-07-10T18:29:19.000Z",
       "image": null,
       "sourceCount": 1,
@@ -93,7 +254,7 @@
       "source": "Hacker News",
       "title": "New York City to become first in US to ban deceptive subscription practices",
       "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban\nComments URL: https://news.ycombinator.com/item?id=48863464\nPoints: 51\n# Comm…",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban\nComments URL: https://news.ycombinator.com/item?id=48863464\nPoints: 203\n# Com…",
       "publishedAt": "2026-07-10T18:26:24.000Z",
       "image": "https://i.guim.co.uk/img/media/b522a4563292b5972c9443aa2001a8637f1266b5/72_226_2591_2073/master/2591.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8576dc8571bc0efaa7b0ef0eb44b88fa",
       "sourceCount": 1,
@@ -121,17 +282,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "link": "https://waratlas.org",
-      "summary": "Article URL: https://waratlas.org\nComments URL: https://news.ycombinator.com/item?id=48863080\nPoints: 29\n# Comments: 9",
-      "publishedAt": "2026-07-10T17:52:48.000Z",
-      "image": "https://waratlas.org/og-card.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T17:52:48.000Z"
     },
     {
       "source": "TechCrunch",
@@ -172,7 +322,7 @@
       "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
       "publishedAt": "2026-07-10T17:17:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/SK-hynix-logo.jpg?w=1200",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/SK-Hynix.jpg?resize=1200,675",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T17:17:12.000Z"
@@ -246,28 +396,6 @@
       "latestActivity": "2026-07-10T16:51:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "summary": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\nComments URL: https://news.ycombinator.com/item?id=48862365\nPoints: 78\n# Comments: 36",
-      "publishedAt": "2026-07-10T16:48:41.000Z",
-      "image": "https://vfxblog.com/wp-content/uploads/2017/08/death1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T16:48:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
-      "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\nComments URL: https://news.ycombinator.com/item…",
-      "publishedAt": "2026-07-10T16:37:52.000Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/uJ3_0X-O9Zw4wRJ-4uPA6-8sY-8=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b6/2c/b62c97f3-8cc5-4351-9f3d-1641f48255cf/42-33773725.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T16:37:52.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements",
       "link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
@@ -288,28 +416,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T16:29:50.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "You can now easily find out if a game is compatible with the Steam Machine",
-      "link": "https://www.engadget.com/2212386/how-to-find-steam-machine-game-compatibility/",
-      "summary": "You just have to know where to look on the Steam page.",
-      "publishedAt": "2026-07-10T16:26:01.000Z",
-      "image": "https://www.engadget.com/img/gallery/you-can-now-easily-find-out-if-a-game-is-compatible-with-the-steam-machine/l-intro-1783699087.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T16:26:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cpp2Rust: Translates C++ to safe Rust automatically",
-      "link": "https://github.com/Cpp2Rust/cpp2rust",
-      "summary": "Article URL: https://github.com/Cpp2Rust/cpp2rust\nComments URL: https://news.ycombinator.com/item?id=48862086\nPoints: 8\n# Comments: 0",
-      "publishedAt": "2026-07-10T16:24:20.000Z",
-      "image": "https://opengraph.githubassets.com/cf1defc5f4c3c7dbdd9865b3a3cb46df70d4d5907dc227b7247fd9eb60e74b65/Cpp2Rust/cpp2rust",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T16:24:20.000Z"
     },
     {
       "source": "VentureBeat",
@@ -343,17 +449,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T16:06:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hands-On with the AMD Ryzen AI Halo",
-      "link": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
-      "summary": "Article URL: https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx\nComments URL: https://news.ycombinator.com/item?id=48861833\nPoints: 23\n# Comments: 26",
-      "publishedAt": "2026-07-10T16:06:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T16:06:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -433,17 +528,6 @@
       "latestActivity": "2026-07-10T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Netflix could be planning ‘always-on’ live TV channels",
-      "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
-      "summary": "Amid signs of slowing engagement,  Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
-      "publishedAt": "2026-07-10T14:53:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1052818026.jpg?resize=1200,784",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T14:53:08.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "I spent a week using the Trump phone — it sucks",
       "link": "https://www.theverge.com/tech/963382/trump-mobile-t1-phone-review",
@@ -453,39 +537,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T14:19:59.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Engadget Podcast: Xbox resets with layoffs",
-      "link": "https://www.engadget.com/2212251/engadget-podcast-xbox-resets-with-layoffs/",
-      "summary": "This week on the Engadget Podcast, we dive into Microsoft's brutal Xbox layoffs with Mike Futter of the Virtual Economy Podcast.",
-      "publishedAt": "2026-07-10T14:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/engadget-podcast-xbox-resets-with-layoffs/l-intro-1783692574.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T14:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "I’m filling in at The Verge for 6 weeks. Ask me anything!",
-      "link": "https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything",
-      "summary": "Hello my friends! My protocol pals! My computational compadres!\nI'm David, a technology reporter and cohost of the Waveform Podcast. I'll be hosting a subscriber-only \"AMA\" today a…",
-      "publishedAt": "2026-07-10T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/David-Profile-AMA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T14:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Volkswagen Group tells its board how to fix it, unions disagree",
-      "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
-      "summary": "VW's plan calls for half as many models but didn't mention closures or job cuts.",
-      "publishedAt": "2026-07-10T13:51:10.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284728396-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T13:51:10.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -521,28 +572,6 @@
       "latestActivity": "2026-07-10T11:31:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
-      "link": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
-      "summary": "\"I have been waiting a long time to finally get up there...\"",
-      "publishedAt": "2026-07-10T11:30:29.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070926f-lg.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T11:30:29.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Is an air-conditioning revolution coming to Europe?",
-      "link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
-      "summary": "The AC culture wars may be solved by advances in environmentally friendly technology.",
-      "publishedAt": "2026-07-10T11:10:08.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277821243-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T11:10:08.000Z"
-    },
-    {
       "source": "Wired",
       "title": "The Best Pool Accessories to Upgrade Your Summer (2026)",
       "link": "https://www.wired.com/story/best-pool-accessories/",
@@ -552,17 +581,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T10:31:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
-      "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-      "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-      "publishedAt": "2026-07-10T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a39b798580177a5599b11aa/191:100/w_1280,c_limit/culture_dataland_Coral-Dreams-Stills-03.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T10:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -609,17 +627,6 @@
       "latestActivity": "2026-07-09T18:46:56.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "The enterprise AI challenge nobody solves with code generation alone",
-      "link": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
-      "summary": "Presented by SAP\n\nGenerating code with AI is fast, but getting that code to run reliably inside a large enterprise, integrated with live systems, governed for compliance, and maint…",
-      "publishedAt": "2026-07-09T15:00:10.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7zSNxewV8pGdsw8LE6bkdv/37cb42e21f6ea9c22417990f48d9a95c/AdobeStock_1878104375.jpeg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T15:00:10.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
       "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
@@ -640,17 +647,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-09T08:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "One interface isn't enough for enterprise AI",
-      "link": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-      "summary": "Presented by Oracle NetSuite\n\nEvery major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but…",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4x9dSPxassUF3IWNIitCAe/45be20ce213185ce3def62a788fc6286/VBImage.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T07:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
