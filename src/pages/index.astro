@@ -27,6 +27,11 @@ const normalizedWireItems = wireData.items.map((item) => ({
 const wireItems = normalizedWireItems.slice(0, 10);
 const syncedAt = new Date(wireData.syncedAt);
 
+const trending = normalizedWireItems
+  .filter((item) => item.sourceCount > 1)
+  .sort((a, b) => b.sourceCount - a.sourceCount)
+  .slice(0, 6);
+
 // Backfill the grid with Wire highlights when there aren't enough original
 // articles yet, so the homepage isn't sparse. Pull from items past the ones
 // already shown in the Wire section below, to avoid duplicates on the page.
@@ -54,6 +59,24 @@ const moreCards = [
           <span class="byline">{featured.data.author} · {featured.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
         </a>
         <a href={categoryHref(featured.data.category)} class="eyebrow hero__eyebrow">{categoryLabel(featured.data.category)}</a>
+      </div>
+    </section>
+  )}
+
+  {trending.length > 0 && (
+    <section class="trending wrap">
+      <h2 class="section-title">🔥 Trending on the Wire</h2>
+      <div class="trending__row">
+        {trending.map((item) => (
+          <a href={item.link} target="_blank" rel="noopener noreferrer" class="trending__card sticker">
+            <span class="trending__badge">{item.sourceCount} outlets</span>
+            <h3 class="trending__title">{item.title}</h3>
+            <span class="trending__source">
+              {faviconUrl(item.link) && <img class="trending__logo" src={faviconUrl(item.link)} alt="" width="14" height="14" loading="lazy" />}
+              {item.source}
+            </span>
+          </a>
+        ))}
       </div>
     </section>
   )}
@@ -152,6 +175,50 @@ const moreCards = [
     font-size: 22px;
     margin-bottom: 22px;
   }
+
+  .trending { padding: 0 24px 8px; }
+  .trending__row {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    scroll-snap-type: x proximity;
+  }
+  .trending__card {
+    flex: 0 0 260px;
+    scroll-snap-align: start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+  }
+  .trending__badge {
+    align-self: flex-start;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--ink-fixed);
+    background: var(--signal);
+    border-radius: 999px;
+    padding: 3px 10px;
+  }
+  .trending__title {
+    font-size: 16px;
+    margin: 0;
+    overflow-wrap: anywhere;
+  }
+  .trending__source {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color: var(--slate);
+  }
+  .trending__logo { border-radius: 3px; }
 
   .more-articles { padding: 24px 24px 56px; }
 
