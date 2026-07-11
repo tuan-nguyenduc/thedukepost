@@ -1,6 +1,17 @@
 {
-  "syncedAt": "2026-07-11T02:50:49.727Z",
+  "syncedAt": "2026-07-11T06:16:26.298Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer",
+      "link": "https://www.wired.com/story/exclusive-how-jay-z-pulled-off-a-surprise-filled-show-during-new-yorks-wildest-summer/",
+      "summary": "Summer 2026 marks the 30th anniversary of Jay-Z’s debut Reasonable Doubt. To honor it, he put on a massive concert at Yankee Stadium—complete with performances from Beyoncé, Nas, a…",
+      "publishedAt": "2026-07-11T04:51:14.000Z",
+      "image": "https://media.wired.com/photos/6a51c4611853603a10cc09d0/191:100/w_1280,c_limit/JayZ-BTS-Culture-7-4.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T04:51:14.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
@@ -48,28 +59,6 @@
       "latestActivity": "2026-07-11T01:01:28.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "I've been building this alone for months. Roast it before I lose any more time",
-      "link": "https://peakd.io",
-      "summary": "Article URL: https://peakd.io\nComments URL: https://news.ycombinator.com/item?id=48867364\nPoints: 10\n# Comments: 5",
-      "publishedAt": "2026-07-11T00:53:48.000Z",
-      "image": "https://peakd.io/images/og-default.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T00:53:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "FreeCAD in the Browser",
-      "link": "https://magik.net/freecad/",
-      "summary": "Article URL: https://magik.net/freecad/\nComments URL: https://news.ycombinator.com/item?id=48867264\nPoints: 27\n# Comments: 17",
-      "publishedAt": "2026-07-11T00:44:00.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T00:44:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
       "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
@@ -79,17 +68,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-11T00:29:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
-      "link": "https://tilion.dev/blog/cloudflare-blocks-agents",
-      "summary": "Article URL: https://tilion.dev/blog/cloudflare-blocks-agents\nComments URL: https://news.ycombinator.com/item?id=48867124\nPoints: 6\n# Comments: 0",
-      "publishedAt": "2026-07-11T00:26:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T00:26:16.000Z"
     },
     {
       "source": "The Verge",
@@ -150,7 +128,7 @@
       "source": "Hacker News",
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "summary": "Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 112\n# Comments: 41",
+      "summary": "https://www.science.org/doi/10.1126/science.aei1285\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 186\n# Comments: 63",
       "publishedAt": "2026-07-10T22:30:44.000Z",
       "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-07/chemistry-stock.jpg?h=1d4b4ebd&itok=Iv8YhdkV",
       "sourceCount": 1,
@@ -252,7 +230,7 @@
       "source": "Hacker News",
       "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
       "link": "https://nebusec.ai/research/ionstack-part-2/",
-      "summary": "Article URL: https://nebusec.ai/research/ionstack-part-2/\nComments URL: https://news.ycombinator.com/item?id=48864969\nPoints: 40\n# Comments: 9",
+      "summary": "Article URL: https://nebusec.ai/research/ionstack-part-2/\nComments URL: https://news.ycombinator.com/item?id=48864969\nPoints: 65\n# Comments: 13",
       "publishedAt": "2026-07-10T20:43:02.000Z",
       "image": "https://nebusec.ai/_astro/social-preview.BvQ1tugL.png",
       "sourceCount": 1,
@@ -318,7 +296,7 @@
       "source": "Hacker News",
       "title": "An update on residential proxies and the scraper situation",
       "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\nComments URL: https://news.ycombinator.com/item?id=48864252\nPoints: 96\n# Comments: 86",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\nComments URL: https://news.ycombinator.com/item?id=48864252\nPoints: 150\n# Comments: 142",
       "publishedAt": "2026-07-10T19:38:34.000Z",
       "image": null,
       "sourceCount": 1,
@@ -403,6 +381,28 @@
       "latestActivity": "2026-07-10T18:30:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805\nPrompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd9…",
+      "publishedAt": "2026-07-10T18:29:19.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T18:29:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "New York City to ban deceptive subscription practices",
+      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "summary": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...\nComments URL: https://news.ycombinator.com/item?id=48863464\nPoints: 489\n# Comments: 240",
+      "publishedAt": "2026-07-10T18:26:24.000Z",
+      "image": "https://i.guim.co.uk/img/media/b522a4563292b5972c9443aa2001a8637f1266b5/72_226_2591_2073/master/2591.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8576dc8571bc0efaa7b0ef0eb44b88fa",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T18:26:24.000Z"
+    },
+    {
       "source": "VentureBeat",
       "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
       "link": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
@@ -423,6 +423,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T18:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "War Atlas: An interactive cartography of every named war in human history",
+      "link": "https://waratlas.org",
+      "summary": "Article URL: https://waratlas.org\nComments URL: https://news.ycombinator.com/item?id=48863080\nPoints: 139\n# Comments: 58",
+      "publishedAt": "2026-07-10T17:52:48.000Z",
+      "image": "https://waratlas.org/og-card.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T17:52:48.000Z"
     },
     {
       "source": "TechCrunch",
@@ -555,17 +566,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T12:10:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
-      "link": "https://www.wired.com/story/how-to-share-your-location-android-ios/",
-      "summary": "Whether it’s through Google Maps or Emergency SOS, there are plenty of ways to quickly let your loved ones know where you are.",
-      "publishedAt": "2026-07-10T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a506c6a96629da7c10e3c06/191:100/w_1280,c_limit/How-to-Share-Your-Location-on-an-iPhone-or-Android.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T12:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
