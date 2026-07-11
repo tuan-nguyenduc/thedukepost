@@ -6,7 +6,7 @@ import TableOfContents from '../../components/TableOfContents.astro';
 import ReadingProgress from '../../components/ReadingProgress.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
-import { tagHref } from '../../lib/tags';
+import { tagHref, tagSlug } from '../../lib/tags';
 import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
 import { getShareUrls } from '../../lib/share';
 
@@ -32,9 +32,20 @@ const shareUrls = getShareUrls({
 const allArticles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
+const articleTagSlugs = article.data.tags.map(tagSlug);
+
 const relatedArticles = allArticles
-  .filter((a) => a.id !== article.id && a.data.category === article.data.category)
-  .slice(0, 3);
+  .filter((a) => a.id !== article.id)
+  .map((a) => {
+    const sharedTags = a.data.tags.filter((t) => articleTagSlugs.includes(tagSlug(t))).length;
+    const sameCategory = a.data.category === article.data.category;
+    const score = sharedTags * 2 + (sameCategory ? 1 : 0);
+    return { article: a, score };
+  })
+  .filter((r) => r.score > 0)
+  .sort((a, b) => b.score - a.score || b.article.data.pubDate.valueOf() - a.article.data.pubDate.valueOf())
+  .slice(0, 3)
+  .map((r) => r.article);
 
 const articleJsonLd = {
   '@context': 'https://schema.org',
@@ -95,7 +106,7 @@ const articleJsonLd = {
 
   {relatedArticles.length > 0 && (
     <section class="wrap related">
-      <h2>More from {categoryLabel(article.data.category)}</h2>
+      <h2>Related articles</h2>
       <ul class="related__list">
         {relatedArticles.map((a) => (
           <li>
