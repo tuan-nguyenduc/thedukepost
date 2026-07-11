@@ -1,6 +1,83 @@
 {
-  "syncedAt": "2026-07-11T14:56:54.023Z",
+  "syncedAt": "2026-07-11T17:00:43.164Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "OpenAI's head of safety is reportedly leaving as part of company reorganization",
+      "link": "https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/",
+      "summary": "The role will be replaced by an executive in charge of both research and safety teams.",
+      "publishedAt": "2026-07-11T15:39:12.000Z",
+      "image": "https://www.engadget.com/img/gallery/openais-head-of-safety-is-reportedly-leaving-as-part-of-company-reorganization/l-intro-1783783514.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T15:39:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tropical forests facing increasing risks of exposure to critical temp thresholds",
+      "link": "https://www.pnas.org/doi/10.1073/pnas.2528622123",
+      "summary": "Article URL: https://www.pnas.org/doi/10.1073/pnas.2528622123\nComments URL: https://news.ycombinator.com/item?id=48872973\nPoints: 16\n# Comments: 0",
+      "publishedAt": "2026-07-11T15:38:46.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T15:38:46.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Which USB port should you use for your mouse and keyboard?",
+      "link": "https://www.engadget.com/2211086/which-usb-port-for-mouse-keyboard/",
+      "summary": "Save your best ports for your most demanding devices.",
+      "publishedAt": "2026-07-11T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/which-usb-port-should-you-use-for-your-mouse-and-keyboard/l-intro-1783550097.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T15:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "summary": "Article URL: https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres\nComments URL: https://news.ycombinator.com/item?id=48872874\nPoints: 64\n# Comments: 5",
+      "publishedAt": "2026-07-11T15:28:02.000Z",
+      "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2FScaling_Pgbouncer_in_Click_House_ed1f77793f.jpg&w=1200&h=630&q=75",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T15:28:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "summary": "Article URL: https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf\nComments URL: https://news.ycombinator.com/item?id=48872858\nPoints: 23\n# Comments: 0",
+      "publishedAt": "2026-07-11T15:26:12.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T15:26:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+      "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin K…",
+      "publishedAt": "2026-07-11T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nintendo’s Talking Flower got a small price cut",
+      "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only k…",
+      "publishedAt": "2026-07-11T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T15:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
@@ -36,9 +113,20 @@
     },
     {
       "source": "Hacker News",
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "link": "https://shipthatcode.com",
+      "summary": "Article URL: https://shipthatcode.com\nComments URL: https://news.ycombinator.com/item?id=48871973\nPoints: 9\n# Comments: 5",
+      "publishedAt": "2026-07-11T13:40:27.000Z",
+      "image": "https://shipthatcode.com/opengraph-image?e5981ff808b13a14",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T13:40:27.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
       "link": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
-      "summary": "Article URL: https://languagelog.ldc.upenn.edu/myl/Good1964.pdf\nComments URL: https://news.ycombinator.com/item?id=48871932\nPoints: 18\n# Comments: 1",
+      "summary": "Article URL: https://languagelog.ldc.upenn.edu/myl/Good1964.pdf\nComments URL: https://news.ycombinator.com/item?id=48871932\nPoints: 58\n# Comments: 30",
       "publishedAt": "2026-07-11T13:33:17.000Z",
       "image": null,
       "sourceCount": 1,
@@ -79,17 +167,6 @@
       "latestActivity": "2026-07-11T13:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Networking and the Internet, from First Principles",
-      "link": "https://fazamhd.com/mental-models/networking/",
-      "summary": "Article URL: https://fazamhd.com/mental-models/networking/\nComments URL: https://news.ycombinator.com/item?id=48871470\nPoints: 118\n# Comments: 42",
-      "publishedAt": "2026-07-11T12:30:40.000Z",
-      "image": "https://fazamhd.com/og/mental-models/networking.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T12:30:40.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Engadget Indie Pitch: Penguin Colony",
       "link": "https://www.engadget.com/2212712/engadget-indie-pitch-penguin-colony/",
@@ -113,11 +190,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-      "link": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html\nComments URL: https://news.ycombinator.com/item?id=48871367\nPoints: 51\n# Comments: 46",
+      "title": "FCC approves test of space mirror to light night sky",
+      "link": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+      "summary": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror....\nhttps://www.pcmag.com/news/fcc-approves-reflect-orbitals-gia...\nComments URL: https://news.ycombinator.com/item?id=4…",
       "publishedAt": "2026-07-11T12:12:34.000Z",
-      "image": null,
+      "image": "https://images.theconversation.com/files/747250/original/file-20260710-57-3s3smh.jpg?ixlib=rb-4.1.0&rect=0%2C134%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-11T12:12:34.000Z"
@@ -167,17 +244,6 @@
       "latestActivity": "2026-07-11T12:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Palworld 1.0, Tiny Bookshop on mobile and other new indie games worth checking out",
-      "link": "https://www.engadget.com/2212703/palworld-tiny-bookshop-on-mobile-and-other-new-indie-games-worth-checking-out/",
-      "summary": "Our weekly roundup of the best new indie games is here.",
-      "publishedAt": "2026-07-11T11:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/palworld-1-0-tiny-bookshop-on-mobile-and-other-new-indie-games-worth-checking-out/l-intro-1783714378.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T11:30:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
       "link": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
@@ -214,7 +280,7 @@
       "source": "Hacker News",
       "title": "Your code is fast – if you're lucky",
       "link": "https://tiki.li/blog/lucky_code.html",
-      "summary": "Article URL: https://tiki.li/blog/lucky_code.html\nComments URL: https://news.ycombinator.com/item?id=48870799\nPoints: 78\n# Comments: 29",
+      "summary": "Article URL: https://tiki.li/blog/lucky_code.html\nComments URL: https://news.ycombinator.com/item?id=48870799\nPoints: 110\n# Comments: 75",
       "publishedAt": "2026-07-11T10:50:10.000Z",
       "image": null,
       "sourceCount": 1,
@@ -256,14 +322,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Richest people in the world by wealth creation instead of ownership",
-      "link": "https://anti-forbes-list.vercel.app",
-      "summary": "Article URL: https://anti-forbes-list.vercel.app\nComments URL: https://news.ycombinator.com/item?id=48870472\nPoints: 14\n# Comments: 4",
-      "publishedAt": "2026-07-11T09:54:14.000Z",
-      "image": "http://localhost:3741/opengraph-image?a8155e68ad213601",
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "link": "https://www.mixfont.com/ghost-font",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font\nComments URL: https://news.ycombinator.com/item?id=48870381\nPoints: 115\n# Comments: 94",
+      "publishedAt": "2026-07-11T09:36:53.000Z",
+      "image": "https://static.mixfont.com/assets/20260711-092742-ghostfont-og-j3qj8h8p.webp",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-11T09:54:14.000Z"
+      "latestActivity": "2026-07-11T09:36:53.000Z"
     },
     {
       "source": "Wired",
@@ -310,41 +376,6 @@
       "latestActivity": "2026-07-11T07:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The vintage beauty of Soviet control rooms (2018)",
-      "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 156\n# Comments: 51",
-      "publishedAt": "2026-07-11T05:19:41.000Z",
-      "image": "https://designyoutrust.com/wp-content/uploads/2018/01/1-17.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T05:19:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tag…",
-      "publishedAt": "2026-07-10T23:49:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Meta removes controversial AI feature on Instagram after backlash",
-          "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "publishedAt": "2026-07-10T23:55:07.000Z"
-        },
-        {
-          "source": "Engadget",
-          "title": "Meta deactivates feature that let you generate AI images of any public Instagram account",
-          "link": "https://www.engadget.com/2212843/meta-deactivates-muse-image-public-instagram-post-ai-images/",
-          "publishedAt": "2026-07-11T01:33:52.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-11T01:33:52.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
       "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
@@ -378,6 +409,17 @@
       "latestActivity": "2026-07-11T00:10:38.000Z"
     },
     {
+      "source": "TechCrunch",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"W…",
+      "publishedAt": "2026-07-10T23:55:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-10T23:55:07.000Z"
+    },
+    {
       "source": "Ars Technica",
       "title": "Quantum error correction can constantly recalibrate a processor",
       "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
@@ -400,28 +442,6 @@
       "latestActivity": "2026-07-10T22:37:22.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-      "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-      "summary": "The Xtra Muse and the DJI Osmo Pocket 3. | Photo by Sean Hollister / The Verge\t\n\nLast year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US,…",
-      "publishedAt": "2026-07-10T22:35:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&#038;strip=all&#038;crop=6,0,94,95.799934373975",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T22:35:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "summary": "https://www.science.org/doi/10.1126/science.aei1285\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 314\n# Comments: 135",
-      "publishedAt": "2026-07-10T22:30:44.000Z",
-      "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-07/chemistry-stock.jpg?h=1d4b4ebd&itok=Iv8YhdkV",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T22:30:44.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
       "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
@@ -442,17 +462,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T21:41:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Moss (YC F25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
-      "summary": "Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\nComments URL: https://news.ycombinator.com/item?id=48865332\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-07-10T21:11:18.000Z",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/517bdb4a88759b6d01c451df41f0ba1de9c58b00.png?1770942103",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T21:11:18.000Z"
     },
     {
       "source": "TechCrunch",
