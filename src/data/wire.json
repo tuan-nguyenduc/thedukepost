@@ -1,6 +1,90 @@
 {
-  "syncedAt": "2026-07-12T13:25:42.097Z",
+  "syncedAt": "2026-07-12T14:59:20.830Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "How Philips Hue got the smart home right",
+      "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
+      "summary": "A photo of a lightbulb glowing purple. | Photo: Amelia Holowaty Krales / The Verge\t\n\nThe state of the smart home can be frustrating, because it is just so obvious how things ought…",
+      "publishedAt": "2026-07-12T14:38:01.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRH_Hue_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T14:38:01.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Engadget review recap: Steam Machine, Samsung Music Studio 7, Oura Ring 5 and more",
+      "link": "https://www.engadget.com/2212709/engadget-review-recap-steam-machine-samsung-music-studio-7/",
+      "summary": "A roundup of recent reviews published by Engadget.",
+      "publishedAt": "2026-07-11T14:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/engadget-review-recap-steam-machine-samsung-music-studio-7-oura-ring-5-and-more/l-intro-1783713182.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Less is more with the Oura Ring 5",
+          "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+          "publishedAt": "2026-07-12T14:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-12T14:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The correct way to position your router's antennas depends on your home",
+      "link": "https://www.engadget.com/2210436/correct-way-to-position-router-antenna-depends-on-your-home/",
+      "summary": "Know where to place your router and how to position its antennas should get you better coverage.",
+      "publishedAt": "2026-07-12T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-correct-way-to-position-your-routers-antennas-depends-on-your-home/l-intro-1783518346.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T13:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery\nComments URL: https://news.ycombinator.com/item?id=48881043\nPoints: 27\n# Comments: 13",
+      "publishedAt": "2026-07-12T13:26:13.000Z",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62826557&width=1200&height=600&coordinates=0%2C1189%2C0%2C61",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T13:26:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+      "link": "https://github.com/Roee-Tsur/mcp-spec-check",
+      "summary": "Article URL: https://github.com/Roee-Tsur/mcp-spec-check\nComments URL: https://news.ycombinator.com/item?id=48881009\nPoints: 10\n# Comments: 1",
+      "publishedAt": "2026-07-12T13:21:01.000Z",
+      "image": "https://opengraph.githubassets.com/b05e116c62387806f3735bd57fcb6d076348d00a2fc8bdd5a0db28600a835a1b/Roee-Tsur/mcp-spec-check",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T13:21:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Making Crash Bandicoot (2011)",
+      "link": "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/",
+      "summary": "Article URL: https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/\nComments URL: https://news.ycombinator.com/item?id=48880987\nPoints: 19\n# Comments: 1",
+      "publishedAt": "2026-07-12T13:18:36.000Z",
+      "image": "https://all-things-andy-gavin.com/wp-content/uploads/2011/02/crash_bandicoot_crash_bandicoot-s250x304-24499-580.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T13:18:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gina Gallery of International Naive Art",
+      "link": "https://www.ginagallery.com/",
+      "summary": "Article URL: https://www.ginagallery.com/\nComments URL: https://news.ycombinator.com/item?id=48880985\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-07-12T13:18:34.000Z",
+      "image": "/wp-content/uploads/2024/03/GINA-logo-copy-scaled.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T13:18:34.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Blue Prince became a bonding — and learning — experience for my family",
@@ -13,10 +97,28 @@
       "latestActivity": "2026-07-12T13:00:00.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+      "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+      "summary": "New climate evidence adds context to these long voyages.",
+      "publishedAt": "2026-07-12T11:12:19.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285149590-2560x1440.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+          "link": "https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226",
+          "publishedAt": "2026-07-12T12:17:26.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-12T12:17:26.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "Understanding the Odin Programming Language",
       "link": "https://odinbook.com/",
-      "summary": "Article URL: https://odinbook.com/\nComments URL: https://news.ycombinator.com/item?id=48880499\nPoints: 21\n# Comments: 0",
+      "summary": "Article URL: https://odinbook.com/\nComments URL: https://news.ycombinator.com/item?id=48880499\nPoints: 50\n# Comments: 15",
       "publishedAt": "2026-07-12T12:08:07.000Z",
       "image": "https://odinbook.com/og_img_new.jpg",
       "sourceCount": 1,
@@ -36,47 +138,25 @@
     },
     {
       "source": "Hacker News",
+      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+      "link": "https://mrbruh.com/motorola/",
+      "summary": "Article URL: https://mrbruh.com/motorola/\nComments URL: https://news.ycombinator.com/item?id=48880406\nPoints: 32\n# Comments: 9",
+      "publishedAt": "2026-07-12T11:52:21.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T11:52:21.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Yt-Dlp Sequence Diagrams",
       "link": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
-      "summary": "Article URL: https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video\nComments URL: https://news.ycombinator.com/item?id=48880384\nPoints: 43\n# Comments: 5",
+      "summary": "Article URL: https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video\nComments URL: https://news.ycombinator.com/item?id=48880384\nPoints: 78\n# Comments: 1…",
       "publishedAt": "2026-07-12T11:49:38.000Z",
       "image": "https://app.ilograph.com/img/diagram2.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-12T11:49:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
-      "link": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
-      "summary": "Article URL: https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html\nComments URL…",
-      "publishedAt": "2026-07-12T11:18:32.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/RARJB5ZYAZDEDA2UYZOCBUZL54.jpeg?auth=4dbba1f63f170f2c936bc1d30dd46273565762f7cb05aa5681fb35b5f3b4c3cc&width=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T11:18:32.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-      "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
-      "summary": "New climate evidence adds context to these long voyages.",
-      "publishedAt": "2026-07-12T11:12:19.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285149590-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T11:12:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/\nComments URL: https://news.ycombinator.com/item?id=48880170\nPoints: 101\n# Comments…",
-      "publishedAt": "2026-07-12T11:09:42.000Z",
-      "image": "https://terrytao.wordpress.com/wp-content/uploads/2026/07/image-2.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T11:09:42.000Z"
     },
     {
       "source": "Wired",
@@ -112,17 +192,6 @@
       "latestActivity": "2026-07-12T10:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
-      "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france\nComments URL: https://news.ycombinator.com/item?id=48879950…",
-      "publishedAt": "2026-07-12T10:23:25.000Z",
-      "image": "https://i.guim.co.uk/img/media/759518978daf02dee0d450e98f9f76de047cf552/0_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5378afed81a42b8da30c8e1561edeb6f",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T10:23:25.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
       "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
@@ -154,39 +223,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-12T09:05:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "link": "https://dakra.github.io/ghostel/",
-      "summary": "Article URL: https://dakra.github.io/ghostel/\nComments URL: https://news.ycombinator.com/item?id=48879504\nPoints: 69\n# Comments: 3",
-      "publishedAt": "2026-07-12T08:52:59.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T08:52:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "link": "https://github.com/cosmtrek/mindwalk",
-      "summary": "Article URL: https://github.com/cosmtrek/mindwalk\nComments URL: https://news.ycombinator.com/item?id=48878682\nPoints: 99\n# Comments: 46",
-      "publishedAt": "2026-07-12T05:51:32.000Z",
-      "image": "https://opengraph.githubassets.com/0ac682f941483caf4abec7e9773e3bcc63308af17a067d767df4384172957eda/cosmtrek/mindwalk",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T05:51:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "summary": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans\nComments URL: https://news.ycombinator.com/item?id=48878126\nPoints: 130\n# Comments:…",
-      "publishedAt": "2026-07-12T04:00:14.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T04:00:14.000Z"
     },
     {
       "source": "TechCrunch",
@@ -332,17 +368,6 @@
       "latestActivity": "2026-07-11T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
-      "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
-      "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FB…",
-      "publishedAt": "2026-07-11T14:18:33.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/pentagon-ufo-videos-flir-gimbal-and-gofast.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T14:18:33.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -355,17 +380,6 @@
     },
     {
       "source": "Engadget",
-      "title": "Engadget review recap: Steam Machine, Samsung Music Studio 7, Oura Ring 5 and more",
-      "link": "https://www.engadget.com/2212709/engadget-review-recap-steam-machine-samsung-music-studio-7/",
-      "summary": "A roundup of recent reviews published by Engadget.",
-      "publishedAt": "2026-07-11T14:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/engadget-review-recap-steam-machine-samsung-music-studio-7-oura-ring-5-and-more/l-intro-1783713182.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T14:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
       "title": "Your Samsung Gallery won't be able to sync with Microsoft OneDrive soon",
       "link": "https://www.engadget.com/2211948/samsung-gallery-no-longer-syncing-microsoft-onedrive-september-2026/",
       "summary": "Your photos don't have to go home, but they can't stay here.",
@@ -374,28 +388,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-11T13:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Bluesky has an official CEO again",
-      "link": "https://www.engadget.com/2212928/bluesky-official-ceo-toni-schneider/",
-      "summary": "Toni Schneider, who took over after Jay Graber stepped down, is now Bluesky's official CEO.",
-      "publishedAt": "2026-07-11T13:07:17.000Z",
-      "image": "https://www.engadget.com/img/gallery/bluesky-has-a-permanent-ceo-again/l-intro-1783774958.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T13:07:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "ICE are heavily armed killers. They’re also huge losers",
-      "link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
-      "summary": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images…",
-      "publishedAt": "2026-07-11T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T13:00:00.000Z"
     },
     {
       "source": "Ars Technica",
