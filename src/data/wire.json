@@ -1,11 +1,44 @@
 {
-  "syncedAt": "2026-07-12T06:35:49.365Z",
+  "syncedAt": "2026-07-12T09:53:06.821Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Best External Hard Drives (2026): SSD to Store Data, Video, and More",
+      "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
+      "summary": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
+      "publishedAt": "2026-07-12T09:33:00.000Z",
+      "image": "https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/191:100/w_1280,c_limit/The%20Best%20External%20Hard%20Drives.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T09:33:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
+      "link": "https://www.wired.com/gallery/best-pet-cameras/",
+      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "publishedAt": "2026-07-12T09:05:00.000Z",
+      "image": "https://media.wired.com/photos/69e2d81939c62e0b45b3e304/191:100/w_1280,c_limit/The-Best-Pet-Cameras-of-2026.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T09:05:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "link": "https://github.com/cosmtrek/mindwalk",
+      "summary": "Article URL: https://github.com/cosmtrek/mindwalk\nComments URL: https://news.ycombinator.com/item?id=48878682\nPoints: 48\n# Comments: 17",
+      "publishedAt": "2026-07-12T05:51:32.000Z",
+      "image": "https://opengraph.githubassets.com/55e1b8733924f47d3ba50150da7f7b023fe70181575cf5d1dfaf6696ac20e8f8/cosmtrek/mindwalk",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T05:51:32.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Why Write Code in 2026",
       "link": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-      "summary": "Article URL: https://softwaredoug.com/blog/2026/07/09/write-code.html\nComments URL: https://news.ycombinator.com/item?id=48878195\nPoints: 27\n# Comments: 8",
+      "summary": "Article URL: https://softwaredoug.com/blog/2026/07/09/write-code.html\nComments URL: https://news.ycombinator.com/item?id=48878195\nPoints: 54\n# Comments: 37",
       "publishedAt": "2026-07-12T04:15:27.000Z",
       "image": "https://softwaredoug.com//assets/media/2026/write-code/image1.png",
       "sourceCount": 1,
@@ -16,7 +49,7 @@
       "source": "Hacker News",
       "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
       "link": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "summary": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans\nComments URL: https://news.ycombinator.com/item?id=48878126\nPoints: 43\n# Comments: 5…",
+      "summary": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans\nComments URL: https://news.ycombinator.com/item?id=48878126\nPoints: 90\n# Comments: 1…",
       "publishedAt": "2026-07-12T04:00:14.000Z",
       "image": null,
       "sourceCount": 1,
@@ -25,20 +58,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Why are US consumers so angry? It's not just high prices",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
-      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy\nComments URL: https://news.ycombinator.com/item?id=48877927\nPoints: 75\n#…",
-      "publishedAt": "2026-07-12T03:10:08.000Z",
-      "image": "https://i.guim.co.uk/img/media/caeb8d0189ea09e374076badf019fa85bc388f2a/45_52_3581_2866/master/3581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8d3b633e4f46c8b71405859a1def195",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T03:10:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "title": "Unexpected Solidlike Fracture in Simple Liquids",
       "link": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "summary": "Article URL: https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/\nComments URL: https://news.ycombinator.com/item?id=48877668\nPoints:…",
+      "summary": "https://journals.aps.org/prl/abstract/10.1103/t2vy-32wr\nComments URL: https://news.ycombinator.com/item?id=48877668\nPoints: 92\n# Comments: 45",
       "publishedAt": "2026-07-12T02:13:46.000Z",
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/CrackingLiquids-cr-Adapted-with-permission-from-Phys.-Rev.-Lett.-136-124002.-Copyrighted-by-the-American-Physical-Society.-Social.jpg",
       "sourceCount": 1,
@@ -49,7 +71,7 @@
       "source": "Hacker News",
       "title": "The Energetic Costs of Cellular Computation (2012)",
       "link": "https://arxiv.org/abs/1203.5426",
-      "summary": "Article URL: https://arxiv.org/abs/1203.5426\nComments URL: https://news.ycombinator.com/item?id=48877613\nPoints: 17\n# Comments: 1",
+      "summary": "Article URL: https://arxiv.org/abs/1203.5426\nComments URL: https://news.ycombinator.com/item?id=48877613\nPoints: 24\n# Comments: 3",
       "publishedAt": "2026-07-12T01:59:35.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
@@ -58,36 +80,25 @@
     },
     {
       "source": "Hacker News",
-      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-      "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "summary": "Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547\nComments URL: https://news.ycombinator.com/item?id=48877371\nPoints: 227\n# Comments: 112",
-      "publishedAt": "2026-07-12T01:09:50.000Z",
-      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T01:09:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Erlang style pure Scheme Webserver and further",
-      "link": "https://igropyr.com",
-      "summary": "Article URL: https://igropyr.com\nComments URL: https://news.ycombinator.com/item?id=48877344\nPoints: 53\n# Comments: 5",
-      "publishedAt": "2026-07-12T01:03:29.000Z",
+      "title": "A dock that wakes up reliably",
+      "link": "https://fabiensanglard.net/tb4/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/tb4/index.html\nComments URL: https://news.ycombinator.com/item?id=48877269\nPoints: 78\n# Comments: 47",
+      "publishedAt": "2026-07-12T00:48:10.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-12T01:03:29.000Z"
+      "latestActivity": "2026-07-12T00:48:10.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "A pure scheme web programming tool",
-      "link": "https://goeteia.dev",
-      "summary": "Article URL: https://goeteia.dev\nComments URL: https://news.ycombinator.com/item?id=48877314\nPoints: 76\n# Comments: 20",
-      "publishedAt": "2026-07-12T00:57:18.000Z",
+      "title": "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid",
+      "link": "https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228",
+      "summary": "Article URL: https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228\nComments URL: https://news.ycombinator.com/item?id=48877214\nPoints: 54\n# Comments:…",
+      "publishedAt": "2026-07-12T00:38:02.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-12T00:57:18.000Z"
+      "latestActivity": "2026-07-12T00:38:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -99,6 +110,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-12T00:16:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Doctors die. It’s not like the rest of us (2016)",
+      "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/\nComments URL: https://news.ycombinator.com/item?id=48876741\nPoints: 176\n# Comments: 101",
+      "publishedAt": "2026-07-11T23:15:06.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-11T23:15:06.000Z"
     },
     {
       "source": "TechCrunch",
@@ -407,28 +429,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-11T09:32:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "China’s Tianwen-2 Space Probe Has Rendezvoused With Earth’s Quasi-Moon",
-      "link": "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/",
-      "summary": "The probe sent back the first pictures of the asteroid Kamo’oalewa. Next step: landing on the surface and collecting samples to send back to Earth.",
-      "publishedAt": "2026-07-11T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a515ddfb62d5490bc0e0fe1/191:100/w_1280,c_limit/10760429.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T09:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "El Niño Is Already Wreaking Havoc on Pacific Fisheries",
-      "link": "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/",
-      "summary": "As the climate phenomenon sends warm water surging across the eastern Pacific, some parts of the fishing industry are suffering—but other regions are seeing a windfall.",
-      "publishedAt": "2026-07-11T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a5164d7eff249f8382acc34/191:100/w_1280,c_limit/GettyImages-1833363329-resized.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T09:00:00.000Z"
     },
     {
       "source": "TechCrunch",
