@@ -1,0 +1,428 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { categoryHref, categoryLabel } from '../../lib/categories';
+import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
+
+// Astro evaluates getStaticPaths in isolation, so PAGE_SIZE can't be shared
+// via closure — it's duplicated as a literal here and again below.
+export const getStaticPaths = (async ({ paginate }) => {
+  const articles = (await getCollection('articles', ({ data }) => !data.draft))
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  return paginate(articles, { pageSize: 12 });
+}) satisfies GetStaticPaths;
+
+const PAGE_SIZE = 12;
+
+const { page } = Astro.props;
+
+const allArticles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const categoriesPresent = Array.from(new Set(allArticles.map((a) => a.data.category))).sort();
+
+const clientItems = allArticles.map((a) => ({
+  slug: a.slug,
+  title: a.data.title,
+  description: a.data.description,
+  image: a.data.image ?? null,
+  category: a.data.category,
+  categoryLabel: categoryLabel(a.data.category),
+  categoryHref: categoryHref(a.data.category),
+  byline: `${a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · ${formatReadingTime(calculateReadingTime(a.body))}`,
+}));
+
+const pageTitle = page.currentPage === 1
+  ? 'Articles — The Duke Post'
+  : `Articles — Page ${page.currentPage} — The Duke Post`;
+---
+<BaseLayout
+  title={pageTitle}
+  description="Original tech analysis and reporting from The Duke Post — the context behind the trends, not just another headline."
+>
+  <section class="wrap page">
+    <h1>Articles</h1>
+    {allArticles.length > 0 ? (
+      <>
+        <div class="search-container">
+          <input type="search" id="search-input" class="search-input" placeholder="Search articles..." aria-label="Search articles" />
+        </div>
+        {categoriesPresent.length > 1 && (
+          <div class="filters" role="group" aria-label="Filter by category" id="filters">
+            <button type="button" class="chip chip--active" data-category="all" aria-pressed="true">All</button>
+            {categoriesPresent.map((category) => (
+              <button type="button" class="chip" data-category={category} aria-pressed="false">{categoryLabel(category)}</button>
+            ))}
+          </div>
+        )}
+
+        <div id="static-view">
+          <ul class="list">
+            {page.data.map((a) => (
+              <li>
+                <a href={`/articles/${a.slug}`} class="sticker card">
+                  {a.data.image && <img class="card__image" src={a.data.image} alt="" loading="lazy" />}
+                  <div class="card__body">
+                    <h2>{a.data.title}</h2>
+                    <p>{a.data.description}</p>
+                    <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · {formatReadingTime(calculateReadingTime(a.body))}</span>
+                  </div>
+                </a>
+                <a href={categoryHref(a.data.category)} class="eyebrow card__eyebrow">{categoryLabel(a.data.category)}</a>
+              </li>
+            ))}
+          </ul>
+
+          {page.lastPage > 1 && (
+            <nav class="pager" aria-label="Pagination">
+              <div class="pager__row">
+                {page.url.prev ? <a href={page.url.prev} class="pager__link">← Newer</a> : <span />}
+                <span class="pager__status">Page {page.currentPage} of {page.lastPage}</span>
+                {page.url.next ? <a href={page.url.next} class="pager__link">Older →</a> : <span />}
+              </div>
+              <div class="pager__numbers">
+                {Array.from({ length: page.lastPage }, (_, i) => i + 1).map((n) => (
+                  n === page.currentPage ? (
+                    <span class="pager__num pager__num--active" aria-current="page">{n}</span>
+                  ) : (
+                    <a href={n === 1 ? '/articles' : `/articles/${n}`} class="pager__num">{n}</a>
+                  )
+                ))}
+              </div>
+            </nav>
+          )}
+        </div>
+
+        <div id="filtered-view" hidden>
+          <ul class="list" id="filtered-list"></ul>
+          <p class="empty" id="empty-filtered" hidden>No articles match your search.</p>
+          <nav class="pager" id="filtered-pager" aria-label="Pagination"></nav>
+        </div>
+      </>
+    ) : (
+      <p class="empty">No articles published yet — check back soon.</p>
+    )}
+  </section>
+
+  <script type="application/json" id="article-items" set:html={JSON.stringify(clientItems)} />
+  <script define:vars={{ pageSize: PAGE_SIZE }}>
+    const PAGE_SIZE = pageSize;
+    const allItems = JSON.parse(document.getElementById('article-items').textContent);
+    const filters = document.getElementById('filters');
+    const searchInput = document.getElementById('search-input');
+    const staticView = document.getElementById('static-view');
+    const filteredView = document.getElementById('filtered-view');
+    const filteredList = document.getElementById('filtered-list');
+    const filteredPager = document.getElementById('filtered-pager');
+    const emptyMsg = document.getElementById('empty-filtered');
+
+    let currentCategory = 'all';
+    let currentSearch = '';
+    let currentPage = 1;
+
+    function normalizeText(text) {
+      return text.toLowerCase().trim();
+    }
+
+    function matchesFilters(item) {
+      const categoryMatch = currentCategory === 'all' || item.category === currentCategory;
+      if (!categoryMatch) return false;
+      if (!currentSearch) return true;
+      const query = normalizeText(currentSearch);
+      return normalizeText(item.title).includes(query) || normalizeText(item.description).includes(query);
+    }
+
+    function buildCard(item) {
+      const li = document.createElement('li');
+
+      const a = document.createElement('a');
+      a.href = `/articles/${item.slug}`;
+      a.className = 'sticker card';
+
+      if (item.image) {
+        const img = document.createElement('img');
+        img.className = 'card__image';
+        img.src = item.image;
+        img.alt = '';
+        img.loading = 'lazy';
+        a.appendChild(img);
+      }
+
+      const body = document.createElement('div');
+      body.className = 'card__body';
+
+      const h2 = document.createElement('h2');
+      h2.textContent = item.title;
+
+      const p = document.createElement('p');
+      p.textContent = item.description;
+
+      const byline = document.createElement('span');
+      byline.className = 'byline';
+      byline.textContent = item.byline;
+
+      body.append(h2, p, byline);
+      a.appendChild(body);
+      li.appendChild(a);
+
+      const eyebrow = document.createElement('a');
+      eyebrow.href = item.categoryHref;
+      eyebrow.className = 'eyebrow card__eyebrow';
+      eyebrow.textContent = item.categoryLabel;
+      li.appendChild(eyebrow);
+
+      return li;
+    }
+
+    function renderFiltered() {
+      const items = allItems.filter(matchesFilters);
+      const totalPages = Math.max(1, Math.ceil(items.length / PAGE_SIZE));
+      currentPage = Math.min(currentPage, totalPages);
+      const start = (currentPage - 1) * PAGE_SIZE;
+      const pageItems = items.slice(start, start + PAGE_SIZE);
+
+      filteredList.replaceChildren(...pageItems.map(buildCard));
+      if (emptyMsg) emptyMsg.hidden = items.length !== 0;
+
+      const row = document.createElement('div');
+      row.className = 'pager__row';
+
+      const prevBtn = document.createElement('button');
+      prevBtn.type = 'button';
+      prevBtn.className = 'pager__link';
+      prevBtn.textContent = '← Newer';
+      if (currentPage > 1) {
+        prevBtn.addEventListener('click', () => goToPage(currentPage - 1));
+      }
+
+      const status = document.createElement('span');
+      status.className = 'pager__status';
+      status.textContent = `Page ${currentPage} of ${totalPages}`;
+
+      const nextBtn = document.createElement('button');
+      nextBtn.type = 'button';
+      nextBtn.className = 'pager__link';
+      nextBtn.textContent = 'Older →';
+      if (currentPage < totalPages) {
+        nextBtn.addEventListener('click', () => goToPage(currentPage + 1));
+      }
+
+      row.append(
+        currentPage > 1 ? prevBtn : document.createElement('span'),
+        status,
+        currentPage < totalPages ? nextBtn : document.createElement('span')
+      );
+
+      const numbers = document.createElement('div');
+      numbers.className = 'pager__numbers';
+      if (totalPages > 1) {
+        for (let n = 1; n <= totalPages; n++) {
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = n === currentPage ? 'pager__num pager__num--active' : 'pager__num';
+          btn.textContent = String(n);
+          if (n === currentPage) {
+            btn.setAttribute('aria-current', 'page');
+          } else {
+            btn.addEventListener('click', () => goToPage(n));
+          }
+          numbers.appendChild(btn);
+        }
+      }
+
+      filteredPager.replaceChildren(row, numbers);
+    }
+
+    function goToPage(n) {
+      currentPage = n;
+      renderFiltered();
+      filteredView.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function syncView() {
+      const isFiltering = currentCategory !== 'all' || currentSearch !== '';
+      currentPage = 1;
+      if (isFiltering) {
+        staticView.hidden = true;
+        filteredView.hidden = false;
+        renderFiltered();
+      } else {
+        staticView.hidden = false;
+        filteredView.hidden = true;
+      }
+    }
+
+    function setCategory(category) {
+      currentCategory = category;
+      if (filters) {
+        const chips = Array.from(filters.querySelectorAll('.chip'));
+        chips.forEach((chip) => {
+          const isActive = chip.dataset.category === category;
+          chip.classList.toggle('chip--active', isActive);
+          chip.setAttribute('aria-pressed', String(isActive));
+        });
+      }
+
+      const url = new URL(window.location.href);
+      if (category === 'all') {
+        url.searchParams.delete('category');
+      } else {
+        url.searchParams.set('category', category);
+      }
+      window.history.replaceState(null, '', url.pathname + url.search);
+      syncView();
+    }
+
+    if (filters) {
+      const chips = Array.from(filters.querySelectorAll('.chip'));
+      chips.forEach((chip) => {
+        chip.addEventListener('click', () => setCategory(chip.dataset.category || 'all'));
+      });
+
+      const initialCategory = new URLSearchParams(window.location.search).get('category');
+      if (initialCategory && chips.some((chip) => chip.dataset.category === initialCategory)) {
+        setCategory(initialCategory);
+      }
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', () => {
+        currentSearch = searchInput.value;
+        syncView();
+      });
+    }
+  </script>
+</BaseLayout>
+
+<style>
+  .page { padding: 48px 24px 80px; }
+  h1 { font-size: 36px; margin-bottom: 36px; }
+
+  .search-container { margin-bottom: 28px; }
+  .search-input {
+    width: 100%;
+    max-width: 400px;
+    padding: 12px 16px;
+    font-family: var(--font-body);
+    font-size: 16px;
+    border: 2px solid var(--ink);
+    border-radius: 10px;
+    background: var(--paper);
+    color: var(--ink);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .search-input::placeholder {
+    color: var(--slate);
+  }
+  .search-input:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 36px; }
+  .chip {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 8px 16px;
+    border: 2px solid var(--ink);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--ink);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  .chip:hover { transform: rotate(-1deg); }
+  .chip--active { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+
+  .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
+  .list li { position: relative; margin: 0; min-width: 0; }
+  .card__eyebrow { position: absolute; top: 14px; left: 14px; z-index: 2; }
+  .card { display: flex; gap: 20px; align-items: flex-start; min-width: 0; padding: 24px; }
+  .card__image {
+    width: 140px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid var(--ink);
+    flex-shrink: 0;
+  }
+  .card__body { flex: 1; min-width: 0; }
+  .list h2 { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
+  .list p { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
+  .empty { color: var(--slate); font-size: 17px; }
+
+  .pager {
+    margin-top: 48px;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .pager__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .pager__link {
+    padding: 10px 18px;
+    border: 2px solid var(--ink);
+    border-radius: 999px;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  .pager__link:hover {
+    background: var(--ink);
+    color: var(--paper);
+    transform: rotate(-1deg);
+  }
+  .pager__status { color: var(--slate); }
+  button.pager__link,
+  button.pager__num {
+    font: inherit;
+    text-transform: inherit;
+    letter-spacing: inherit;
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+    appearance: none;
+  }
+
+  .pager__numbers {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 20px;
+  }
+  .pager__num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border: 2px solid var(--ink);
+    border-radius: 50%;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  a.pager__num:hover,
+  button.pager__num:hover {
+    background: var(--ink);
+    color: var(--paper);
+    transform: rotate(-8deg);
+  }
+  .pager__num--active {
+    background: var(--signal);
+    border-color: var(--signal);
+    color: var(--ink-fixed);
+  }
+
+  @media (max-width: 560px) {
+    .card { flex-direction: column; }
+    .card__image { width: 100%; height: 160px; }
+    .pager__row { font-size: 12px; }
+    .pager__link { padding: 8px 12px; }
+  }
+</style>
