@@ -1,6 +1,178 @@
 {
-  "syncedAt": "2026-07-13T11:14:52.551Z",
+  "syncedAt": "2026-07-13T14:40:09.768Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "summary": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which o…",
+      "publishedAt": "2026-07-13T14:19:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T14:19:44.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more.…",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Waze adds new AI-powered features and customization updates",
+          "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+          "publishedAt": "2026-07-13T14:18:16.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-13T14:18:16.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
+      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "summary": "The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns.",
+      "publishedAt": "2026-07-13T14:13:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/flock-camera-2259453709.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T14:13:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "link": "https://github.com/clawkwork/clawk",
+      "summary": "Article URL: https://github.com/clawkwork/clawk\nComments URL: https://news.ycombinator.com/item?id=48892859\nPoints: 12\n# Comments: 6",
+      "publishedAt": "2026-07-13T14:02:03.000Z",
+      "image": "https://opengraph.githubassets.com/c118129f1679ab907894695807bc61d8caf21363538448479dd7467d48e52a84/clawkwork/clawk",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T14:02:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "link": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "summary": "Article URL: https://twitter.com/a_green_being/status/2076598897779020159\nComments URL: https://news.ycombinator.com/item?id=48892512\nPoints: 105\n# Comments: 49",
+      "publishedAt": "2026-07-13T13:39:59.000Z",
+      "image": "https://pbs.twimg.com/media/HNGOF9QXwAAU_jp.png:large",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T13:39:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "link": "https://twitter.com/i/status/2076598897779020159",
+      "summary": "Article URL: https://twitter.com/i/status/2076598897779020159\nComments URL: https://news.ycombinator.com/item?id=48892468\nPoints: 72\n# Comments: 25",
+      "publishedAt": "2026-07-13T13:35:32.000Z",
+      "image": "https://pbs.twimg.com/media/HNGOF9QXwAAU_jp.png:large",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T13:35:32.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+      "link": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+      "summary": "Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant cybercr…",
+      "publishedAt": "2026-07-13T13:33:54.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/dIQcSeSRhbDxj2aciSnha/82de3e1c0e427d81134cbf5ff3516b5c/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T13:33:54.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Not 300 miles, not 250 miles: These EVs have the worst range in 2026",
+      "link": "https://www.engadget.com/2210476/ev-worst-range-in-2026/",
+      "summary": "If you like going on a long road trip, you might want to steer clear of these vehicles.",
+      "publishedAt": "2026-07-13T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/not-300-miles-not-250-miles-these-evs-have-the-worst-range-in-2026/l-intro-1783520627.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T13:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+      "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "summary": "Washington, D.C. has become a battleground for Uber and Waymo's competing views.",
+      "publishedAt": "2026-07-13T12:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/uber-waymo.jpeg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T12:30:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European…",
+      "publishedAt": "2026-07-13T12:10:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/COLOMBIA-6.edit_.jpg?w=3000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T12:10:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Oppo Watch X3 review: Come for the battery, stay for the versatility",
+      "link": "https://www.engadget.com/2211331/oppo-watch-x3-review/",
+      "summary": "Oppo's Watch X3 is a Wear OS watch that'll outlast all of its rivals.",
+      "publishedAt": "2026-07-13T12:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/oppo-watch-x3-review-come-for-the-battery-stay-for-the-quality/l-intro-1783526710.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "link": "https://github.com/floodtide/dom-docx",
+      "summary": "Article URL: https://github.com/floodtide/dom-docx\nComments URL: https://news.ycombinator.com/item?id=48891267\nPoints: 46\n# Comments: 17",
+      "publishedAt": "2026-07-13T11:51:56.000Z",
+      "image": "https://repository-images.githubusercontent.com/1289616366/8cbab077-707b-40c8-a2c8-db043ecd5e2e",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T11:51:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Control the Ideas, Not the Code",
+      "link": "https://antirez.com/news/169",
+      "summary": "Article URL: https://antirez.com/news/169\nComments URL: https://news.ycombinator.com/item?id=48891184\nPoints: 110\n# Comments: 66",
+      "publishedAt": "2026-07-13T11:45:36.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T11:45:36.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom",
+      "link": "https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/",
+      "summary": "These butt-cleaning machines also offer luxe features like custom seat warming and adjustable water flows.",
+      "publishedAt": "2026-07-13T11:35:00.000Z",
+      "image": "https://media.wired.com/photos/69f4f651c2feaf82cfb1e4f1/191:100/w_1280,c_limit/The-Best-Bidets-for-Every-Bathroom-and-Budget.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T11:35:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "link": "https://jivx.com/densha",
+      "summary": "Article URL: https://jivx.com/densha\nComments URL: https://news.ycombinator.com/item?id=48890959\nPoints: 127\n# Comments: 12",
+      "publishedAt": "2026-07-13T11:18:30.000Z",
+      "image": "https://jivx.com/densha/opengraph-image?f6da1a3c43b837cc",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T11:18:30.000Z"
+    },
     {
       "source": "Wired",
       "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
@@ -90,17 +262,6 @@
       "latestActivity": "2026-07-13T09:22:52.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Waze is getting a bunch of new AI-powered features",
-      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more.…",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T09:00:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Waze rolls out new AI features including Motorcycle and 'Less Chatty' modes",
       "link": "https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/",
@@ -115,23 +276,12 @@
       "source": "Hacker News",
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "summary": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/\nComments URL: https://news.ycombinator.com/item?id=48889637\nPoints: 303\n# Comments: 157",
+      "summary": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/\nComments URL: https://news.ycombinator.com/item?id=48889637\nPoints: 927\n# Comments: 459",
       "publishedAt": "2026-07-13T08:39:39.000Z",
       "image": "https://raymyers.org/weblog-card-1.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T08:39:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Berkshire's $397B Bet Against an Overheated Market",
-      "link": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
-      "summary": "Article URL: https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/\nComments URL: https://news.ycombinator.com/item?id=4888942…",
-      "publishedAt": "2026-07-13T08:15:52.000Z",
-      "image": "https://www.disruptionbanking.com/wp-content/uploads/2026/07/Berkshire-Hathaway.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T08:15:52.000Z"
     },
     {
       "source": "Hacker News",
@@ -145,59 +295,15 @@
       "latestActivity": "2026-07-13T08:04:30.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Quadrupling code performance with a \"useless\" if",
-      "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-      "summary": "Article URL: https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/\nComments URL: https://news.ycombinator.com/item?id=48889148\nPoints: 69\n# Comments: 9",
-      "publishedAt": "2026-07-13T07:37:06.000Z",
-      "image": null,
+      "source": "VentureBeat",
+      "title": "The desktop infrastructure problem that kubernetes finally solves",
+      "link": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
+      "summary": "Presented by Kasm Technologies\n\nEnterprise infrastructure teams have spent the better part of a decade pushing workloads into Kubernetes. Applications, APIs, batch jobs, data pipel…",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7JJlisjb2BGkLhYAqBYnld/d8e79d3ce1737ec2cfba1ed60f5f13e8/AdobeStock_677829840.jpeg?w=300&q=30",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T07:37:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Backtrack-Free Cursive",
-      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "summary": "Article URL: https://mmapped.blog/posts/52-backtrack-free-cursive\nComments URL: https://news.ycombinator.com/item?id=48888518\nPoints: 95\n# Comments: 41",
-      "publishedAt": "2026-07-13T06:08:12.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T06:08:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Sam Neill has died",
-      "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-      "summary": "Article URL: https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78\nComments URL: https://news.ycombinator.com/item?id=48888468\nPoints: 181\n# Comments: 44",
-      "publishedAt": "2026-07-13T06:02:11.000Z",
-      "image": "https://i.guim.co.uk/img/media/7f0c84a75f72a1f66a9f0ba791015de34e57334d/0_1050_3648_2189/master/3648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66f9c753cd98468c4d0e88b6cc704ba2",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T06:02:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Graph That Should Be Front-Page News",
-      "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-      "summary": "Article URL: https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news\nComments URL: https://news.ycombinator.com/item?id=48888331\nPoints: 97\n# Comments: 51",
-      "publishedAt": "2026-07-13T05:35:27.000Z",
-      "image": "https://static.wixstatic.com/media/d3c6c2_85a4b62a65324ff587885b5dc4b8751d~mv2.jpg/v1/fill/w_1244,h_903,al_c/d3c6c2_85a4b62a65324ff587885b5dc4b8751d~mv2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T05:35:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-      "link": "https://github.com/schlae/BeavisUltrasound",
-      "summary": "Article URL: https://github.com/schlae/BeavisUltrasound\nComments URL: https://news.ycombinator.com/item?id=48888193\nPoints: 66\n# Comments: 22",
-      "publishedAt": "2026-07-13T05:15:14.000Z",
-      "image": "https://opengraph.githubassets.com/5ca3ade1c5f94806d519d80e6a6cecc1a923f8c4c698fd7aa05b9a45d3468732/schlae/BeavisUltrasound",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T05:15:14.000Z"
+      "latestActivity": "2026-07-13T07:00:00.000Z"
     },
     {
       "source": "Engadget",
@@ -277,28 +383,6 @@
       "latestActivity": "2026-07-12T18:39:58.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Why GameCube games are so expensive (and why they're rarely sold at retro stores)",
-      "link": "https://www.engadget.com/2210424/why-gamecube-games-so-rarely-sold/",
-      "summary": "Vintage games can be hard to find, but Nintendo GameCube titles are exceptionally elusive.",
-      "publishedAt": "2026-07-12T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-gamecube-games-are-so-expensive-and-why-theyre-rarely-sold-at-retro-stores/l-intro-1783515961.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T18:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Refreshed Apple Pencils may arrive next year with improved repairability",
-      "link": "https://www.engadget.com/2213077/refreshed-apple-pencils-may-arrive-next-year-with-improved-repairability/",
-      "summary": "Thanks to upcoming EU regulations, the next Apple Pencil could feature replaceable batteries.",
-      "publishedAt": "2026-07-12T17:42:48.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-refreshed-apple-pencils-may-arrive-next-year-with-improved-repairability/l-intro-1783877811.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T17:42:48.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
       "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
@@ -376,17 +460,6 @@
       "latestActivity": "2026-07-12T11:09:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Here’s How Apple Is Updating Its Child Safety Features in iOS 27",
-      "link": "https://www.wired.com/story/apple-child-safety-ios-27/",
-      "summary": "Apple has announced several new Child Safety features coming soon to iPhones and other devices. Here’s what’s changing.",
-      "publishedAt": "2026-07-12T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a50fccd66a07c1d2b746b98/191:100/w_1280,c_limit/Gear_Here%E2%80%99s%20How%20Apple%20Is%20Updating%20Its%20Child%20Safety%20Features%20in%20iOS%2027_v3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T10:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Reed Jobs would rather talk about curing cancer than his last name",
       "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
@@ -420,28 +493,6 @@
       "latestActivity": "2026-07-11T17:30:00.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
-      "link": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-      "summary": "Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant cybercr…",
-      "publishedAt": "2026-07-11T16:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/dIQcSeSRhbDxj2aciSnha/82de3e1c0e427d81134cbf5ff3516b5c/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_1.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "publishedAt": "2026-07-11T14:13:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T14:13:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "A Jupiter-size planet that escaped its star's death",
       "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
@@ -462,39 +513,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-11T11:11:26.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a public…",
-      "publishedAt": "2026-07-11T01:01:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/cisa-2240293485.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T01:01:28.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product r…",
-      "publishedAt": "2026-07-11T00:29:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243869768.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T00:29:25.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"W…",
-      "publishedAt": "2026-07-10T23:55:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T23:55:07.000Z"
     },
     {
       "source": "Ars Technica",
@@ -596,17 +614,6 @@
       "latestActivity": "2026-07-10T18:21:13.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
-      "link": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
-      "summary": "The vast majority of business data is tabular — living in data warehouses, CRMs, and financial ledgers — yet building a reliable model from it still means training a new one from s…",
-      "publishedAt": "2026-07-10T16:14:24.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4VjIL7MxqMo55zqaoGOo2T/231e1e8c686502c3ac895c72b70a8cfe/Tabular_data.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T16:14:24.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
@@ -682,17 +689,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-08T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Alt…",
-      "publishedAt": "2026-07-07T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/02/MIT-Tech-Review_Evo-Genetics_thumb.jpg?w=2978",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-07T12:10:00.000Z"
     }
   ]
 }
