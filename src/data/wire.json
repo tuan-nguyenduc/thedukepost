@@ -1,93 +1,203 @@
 {
-  "syncedAt": "2026-07-13T06:56:29.396Z",
+  "syncedAt": "2026-07-13T11:14:52.551Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
+      "link": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
+      "summary": "Swimming against the iGarden Swim Jet X Pro 10’s artificial current is a real workout, even if it doesn’t quite replace a full-size lap pool.",
+      "publishedAt": "2026-07-13T11:08:00.000Z",
+      "image": "https://media.wired.com/photos/6a50890ad33cf036c6baa3c2/191:100/w_1280,c_limit/Review--iGarden-Swim-Jet-X-Pro-10.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T11:08:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Europe takes step toward social media ban for kids",
+      "link": "https://www.engadget.com/2213336/europe-takes-step-toward-social-media-ban-for-kids/",
+      "summary": "Following a worrying new report, Europe is taking steps toward barring children from using social media.",
+      "publishedAt": "2026-07-13T11:05:07.000Z",
+      "image": "https://www.engadget.com/img/gallery/europe-takes-step-toward-social-media-ban-for-kids/l-intro-1783940566.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T11:05:07.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
+      "link": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
+      "summary": "By some benchmarks, Julia code can run 10X to 1,000X faster than Python—but there’s a reason it’s not a very popular programming language.",
+      "publishedAt": "2026-07-13T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a4e88d3d12b964679cc83a9/191:100/w_1280,c_limit/WRD_JULIA_FINAL.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "White Supremacists Love Armie Hammer’s New Movie",
+      "link": "https://www.wired.com/story/a-bunch-of-white-supremacists-love-armie-hammers-new-movie/",
+      "summary": "Described as the “feel-good movie of white-boy summer” by one extremist, the movie Citizen Vigilante has been hailed by the far-right as a way to convert moderates to their cause.",
+      "publishedAt": "2026-07-13T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a503039d12b964679cc8b1a/191:100/w_1280,c_limit/MCDCIVI_EC005%20(2).jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T10:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+      "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+      "summary": "WhatCable. | Photo by Sean Hollister / The Verge\t\n\nNearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow,…",
+      "publishedAt": "2026-07-13T10:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/331A1872.jpg?quality=90&#038;strip=all&#038;crop=8,15.600243753809,85,84.399756246191",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
+      "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+      "summary": "The SFPD’s exposure of hours of videos from drone platform Skydio reveals how broadly it’s watching the city from above—and how the results can spill online.",
+      "publishedAt": "2026-07-13T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a510d72662ba7d735b3abfc/191:100/w_1280,c_limit/sf-cops-leaked-surveillance-top-art-still.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Kitchen Composters and Food Recyclers (2026)",
+      "link": "https://www.wired.com/story/home-composters-buying-guide/",
+      "summary": "Responsibly dispose of your food scraps with one of these indoor, (mostly) odor-free, WIRED-tested devices.",
+      "publishedAt": "2026-07-13T09:31:00.000Z",
+      "image": "https://media.wired.com/photos/68f838f9ca694516647e4962/191:100/w_1280,c_limit/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T09:31:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Social media limits are coming for teens across Europe",
+      "link": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+      "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media…",
+      "publishedAt": "2026-07-13T09:22:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T09:22:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more.…",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T09:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Waze rolls out new AI features including Motorcycle and 'Less Chatty' modes",
+      "link": "https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/",
+      "summary": "Like Google Maps, Waze is going all-in on Gemini.",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/waze-rolls-out-new-ai-features-including-motorcycle-and-less-chatty-modes/l-intro-1783625614.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "summary": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/\nComments URL: https://news.ycombinator.com/item?id=48889637\nPoints: 303\n# Comments: 157",
+      "publishedAt": "2026-07-13T08:39:39.000Z",
+      "image": "https://raymyers.org/weblog-card-1.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T08:39:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Berkshire's $397B Bet Against an Overheated Market",
+      "link": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
+      "summary": "Article URL: https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/\nComments URL: https://news.ycombinator.com/item?id=4888942…",
+      "publishedAt": "2026-07-13T08:15:52.000Z",
+      "image": "https://www.disruptionbanking.com/wp-content/uploads/2026/07/Berkshire-Hathaway.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T08:15:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/\nComments URL: https://news.ycombinator.com/item?id=48889350…",
+      "publishedAt": "2026-07-13T08:04:30.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T08:04:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Quadrupling code performance with a \"useless\" if",
+      "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+      "summary": "Article URL: https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/\nComments URL: https://news.ycombinator.com/item?id=48889148\nPoints: 69\n# Comments: 9",
+      "publishedAt": "2026-07-13T07:37:06.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T07:37:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Backtrack-Free Cursive",
+      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "summary": "Article URL: https://mmapped.blog/posts/52-backtrack-free-cursive\nComments URL: https://news.ycombinator.com/item?id=48888518\nPoints: 95\n# Comments: 41",
+      "publishedAt": "2026-07-13T06:08:12.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T06:08:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sam Neill has died",
+      "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+      "summary": "Article URL: https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78\nComments URL: https://news.ycombinator.com/item?id=48888468\nPoints: 181\n# Comments: 44",
+      "publishedAt": "2026-07-13T06:02:11.000Z",
+      "image": "https://i.guim.co.uk/img/media/7f0c84a75f72a1f66a9f0ba791015de34e57334d/0_1050_3648_2189/master/3648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66f9c753cd98468c4d0e88b6cc704ba2",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T06:02:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Graph That Should Be Front-Page News",
+      "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+      "summary": "Article URL: https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news\nComments URL: https://news.ycombinator.com/item?id=48888331\nPoints: 97\n# Comments: 51",
+      "publishedAt": "2026-07-13T05:35:27.000Z",
+      "image": "https://static.wixstatic.com/media/d3c6c2_85a4b62a65324ff587885b5dc4b8751d~mv2.jpg/v1/fill/w_1244,h_903,al_c/d3c6c2_85a4b62a65324ff587885b5dc4b8751d~mv2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T05:35:27.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
       "link": "https://github.com/schlae/BeavisUltrasound",
-      "summary": "Article URL: https://github.com/schlae/BeavisUltrasound\nComments URL: https://news.ycombinator.com/item?id=48888193\nPoints: 30\n# Comments: 7",
+      "summary": "Article URL: https://github.com/schlae/BeavisUltrasound\nComments URL: https://news.ycombinator.com/item?id=48888193\nPoints: 66\n# Comments: 22",
       "publishedAt": "2026-07-13T05:15:14.000Z",
-      "image": "https://opengraph.githubassets.com/85b143f8d87614439cf2691bbe7ee4efc4cf8b8bb908455e4cd779dc0e4740a7/schlae/BeavisUltrasound",
+      "image": "https://opengraph.githubassets.com/5ca3ade1c5f94806d519d80e6a6cecc1a923f8c4c698fd7aa05b9a45d3468732/schlae/BeavisUltrasound",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T05:15:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Count Binface",
-      "link": "https://countbinface.com",
-      "summary": "Article URL: https://countbinface.com\nComments URL: https://news.ycombinator.com/item?id=48887753\nPoints: 153\n# Comments: 42",
-      "publishedAt": "2026-07-13T04:00:54.000Z",
-      "image": "http://static1.squarespace.com/static/5c0930130dbda38e1eebce71/t/60fae509f73890577c86c5f3/1627055369437/CountBinface_BLACK.png?format=1500w",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T04:00:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "link": "https://news.ycombinator.com/item?id=48886741",
-      "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, a…",
-      "publishedAt": "2026-07-13T01:24:20.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T01:24:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Designing and assembling my first PCB",
-      "link": "https://vilkeliskis.com/b/2026/0711.html",
-      "summary": "Article URL: https://vilkeliskis.com/b/2026/0711.html\nComments URL: https://news.ycombinator.com/item?id=48885728\nPoints: 91\n# Comments: 34",
-      "publishedAt": "2026-07-12T22:56:56.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T22:56:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why Vanilla JavaScript",
-      "link": "https://guseyn.com/html/posts/why-vanilla-js.html",
-      "summary": "Article URL: https://guseyn.com/html/posts/why-vanilla-js.html\nComments URL: https://news.ycombinator.com/item?id=48885705\nPoints: 128\n# Comments: 79",
-      "publishedAt": "2026-07-12T22:53:51.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T22:53:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "link": "https://shellzine.net/cyberpunk-comics/",
-      "summary": "Article URL: https://shellzine.net/cyberpunk-comics/\nComments URL: https://news.ycombinator.com/item?id=48885643\nPoints: 147\n# Comments: 38",
-      "publishedAt": "2026-07-12T22:45:31.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T22:45:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "link": "https://kode.diy",
-      "summary": "Article URL: https://kode.diy\nComments URL: https://news.ycombinator.com/item?id=48884992\nPoints: 68\n# Comments: 17",
-      "publishedAt": "2026-07-12T21:27:29.000Z",
-      "image": "https://kode.diy/products/kode-dot/kode-dot-og.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T21:27:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: What Are You Working On? (July 2026)",
-      "link": "https://news.ycombinator.com/item?id=48884984",
-      "summary": "What are you working on?  Any new ideas that you're thinking about?\nComments URL: https://news.ycombinator.com/item?id=48884984\nPoints: 122\n# Comments: 393",
-      "publishedAt": "2026-07-12T21:26:41.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T21:26:41.000Z"
     },
     {
       "source": "Engadget",
@@ -148,7 +258,7 @@
       "source": "The Verge",
       "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
       "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
-      "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vesperti…",
+      "summary": "Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Björk records like Vesperti…",
       "publishedAt": "2026-07-12T19:40:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/soft-pink-truth.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -222,17 +332,6 @@
       "latestActivity": "2026-07-12T16:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Why Xiaomi phones aren't banned, but are rarely sold in the US",
-      "link": "https://www.engadget.com/2210461/why-xiaomi-not-banned-rarely-sold-usa/",
-      "summary": "The Chinese company is allowed to sell its impressive phones in the States, but it doesn't. Here's why.",
-      "publishedAt": "2026-07-12T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-xiaomi-phones-arent-banned-but-are-rarely-sold-in-the-us/l-intro-1783518849.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T15:30:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off",
       "link": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
@@ -253,50 +352,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-12T14:38:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Less is more with the Oura Ring 5",
-      "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
-      "summary": "The cross stitch pattern is by NathNolu on Etsy.\t\n\nIf you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch a…",
-      "publishedAt": "2026-07-12T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T14:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The correct way to position your router's antennas depends on your home",
-      "link": "https://www.engadget.com/2210436/correct-way-to-position-router-antenna-depends-on-your-home/",
-      "summary": "Know where to place your router and how to position its antennas should get you better coverage.",
-      "publishedAt": "2026-07-12T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-correct-way-to-position-your-routers-antennas-depends-on-your-home/l-intro-1783518346.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T13:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Blue Prince became a bonding — and learning — experience for my family",
-      "link": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
-      "summary": "My wife and son spent their weekends exploring and piecing together the mansion in Blue Prince. | Image: Courtesy of Raw Fury\t\n\nI've always been the gamer in the family. When my so…",
-      "publishedAt": "2026-07-12T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/blue-prince-hallway.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The fight against AI data centers is just beginning",
-      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "summary": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images\t\n\nThis is The Stepback, a weekly newsle…",
-      "publishedAt": "2026-07-12T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T12:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -330,50 +385,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-12T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "28 Best STEM Toys for Kids (2026): Learning Made Fun",
-      "link": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
-      "summary": "We found lots of math-filled and science-rich toys for tiny nerds to assemble, bake, squish—or even tear apart and rebuild.",
-      "publishedAt": "2026-07-12T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/691bfbe9632b8d38670cc04a/191:100/w_1280,c_limit/33%20Smart%20STEM%20Toys%20for%20the%20Techie%20Kids%20in%20Your%20Life.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
-      "publishedAt": "2026-07-12T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best External Hard Drives (2026): SSD to Store Data, Video, and More",
-      "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
-      "summary": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
-      "publishedAt": "2026-07-12T09:33:00.000Z",
-      "image": "https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/191:100/w_1280,c_limit/The%20Best%20External%20Hard%20Drives.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T09:33:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
-      "link": "https://www.wired.com/gallery/best-pet-cameras/",
-      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
-      "publishedAt": "2026-07-12T09:05:00.000Z",
-      "image": "https://media.wired.com/photos/69e2d81939c62e0b45b3e304/191:100/w_1280,c_limit/The-Best-Pet-Cameras-of-2026.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T09:05:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -451,17 +462,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-11T11:11:26.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
-      "link": "https://www.wired.com/review/beatbot-aquasense-x/",
-      "summary": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
-      "publishedAt": "2026-07-11T11:02:00.000Z",
-      "image": "https://media.wired.com/photos/6a4edebe5c4c6eaef4e0bbcd/191:100/w_1280,c_limit/Review--Beatbot-AquaSense-X-Robotic-Pool-Cleaner.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T11:02:00.000Z"
     },
     {
       "source": "TechCrunch",
