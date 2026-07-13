@@ -1,11 +1,88 @@
 {
-  "syncedAt": "2026-07-12T22:52:55.642Z",
+  "syncedAt": "2026-07-13T03:17:56.627Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Modernizing Property Tax Assessments in Allegheny County",
+      "link": "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county",
+      "summary": "Article URL: https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county\nComments URL: https://news.ycombinator.com/item?id=48886881\nPoin…",
+      "publishedAt": "2026-07-13T01:47:21.000Z",
+      "image": "http://static1.squarespace.com/static/650f13d9346acc5fd50cea6c/650f2446212fbb6062df9e2e/6a4d32b169c4b737bc294a11/1783619115910/Screenshot+2026-07-07+at+3.02.08%E2%80%AFPM.png?format=1500w",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T01:47:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "link": "https://news.ycombinator.com/item?id=48886741",
+      "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, a…",
+      "publishedAt": "2026-07-13T01:24:20.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T01:24:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Designing and assembling my first PCB",
+      "link": "https://vilkeliskis.com/b/2026/0711.html",
+      "summary": "Article URL: https://vilkeliskis.com/b/2026/0711.html\nComments URL: https://news.ycombinator.com/item?id=48885728\nPoints: 62\n# Comments: 11",
+      "publishedAt": "2026-07-12T22:56:56.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T22:56:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Architecture Description Languages [pdf]",
+      "link": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+      "summary": "Article URL: https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf\nComments URL: https://news.ycombinator.com/item?id=48885708\nPoints: 23\n# Comments: 1",
+      "publishedAt": "2026-07-12T22:54:07.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T22:54:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why Vanilla JavaScript",
+      "link": "https://guseyn.com/html/posts/why-vanilla-js.html",
+      "summary": "Article URL: https://guseyn.com/html/posts/why-vanilla-js.html\nComments URL: https://news.ycombinator.com/item?id=48885705\nPoints: 79\n# Comments: 37",
+      "publishedAt": "2026-07-12T22:53:51.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T22:53:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "link": "https://shellzine.net/cyberpunk-comics/",
+      "summary": "Article URL: https://shellzine.net/cyberpunk-comics/\nComments URL: https://news.ycombinator.com/item?id=48885643\nPoints: 92\n# Comments: 23",
+      "publishedAt": "2026-07-12T22:45:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T22:45:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Profiling the \"Abundance\" housing bottleneck with real data",
+      "link": "https://laxmena.com/same-capacity-less-throughput",
+      "summary": "Article URL: https://laxmena.com/same-capacity-less-throughput\nComments URL: https://news.ycombinator.com/item?id=48885138\nPoints: 30\n# Comments: 13",
+      "publishedAt": "2026-07-12T21:45:28.000Z",
+      "image": "https://i.snap.as/wjoTv1yV.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-12T21:45:28.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
       "link": "https://kode.diy",
-      "summary": "Article URL: https://kode.diy\nComments URL: https://news.ycombinator.com/item?id=48884992\nPoints: 9\n# Comments: 3",
+      "summary": "Article URL: https://kode.diy\nComments URL: https://news.ycombinator.com/item?id=48884992\nPoints: 47\n# Comments: 11",
       "publishedAt": "2026-07-12T21:27:29.000Z",
       "image": "https://kode.diy/products/kode-dot/kode-dot-og.jpg",
       "sourceCount": 1,
@@ -24,61 +101,6 @@
       "latestActivity": "2026-07-12T21:25:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "summary": "Article URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/\nComments URL: https://news.ycombinator.com/item?id=48884853\nPoints: 154\n# Comments: 64",
-      "publishedAt": "2026-07-12T21:12:11.000Z",
-      "image": "https://scrapfly.dev/img/og-default.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T21:12:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
-      "link": "https://www.adaptiverecall.com/",
-      "summary": "Article URL: https://www.adaptiverecall.com/\nComments URL: https://news.ycombinator.com/item?id=48884815\nPoints: 14\n# Comments: 0",
-      "publishedAt": "2026-07-12T21:08:20.000Z",
-      "image": "https://www.adaptiverecall.com/images/logo.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T21:08:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Zen Mode – a global focus mode for macOS",
-      "link": "https://github.com/cabeen/zen-mode",
-      "summary": "Article URL: https://github.com/cabeen/zen-mode\nComments URL: https://news.ycombinator.com/item?id=48884663\nPoints: 9\n# Comments: 3",
-      "publishedAt": "2026-07-12T20:52:04.000Z",
-      "image": "https://opengraph.githubassets.com/9811c957069422657a78c482e88a377f9b4430e43daeb7bdd7ed5db36a749597/cabeen/zen-mode",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T20:52:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The State of MCP Security [pdf]",
-      "link": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-      "summary": "Article URL: https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf\nComments URL: https://news.ycombinator.com/item?id=48884647\nPoints: 13\n# Comments: 0",
-      "publishedAt": "2026-07-12T20:49:46.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T20:49:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-      "link": "https://nanduruganesh.github.io/flash-msa/",
-      "summary": "Article URL: https://nanduruganesh.github.io/flash-msa/\nComments URL: https://news.ycombinator.com/item?id=48884618\nPoints: 9\n# Comments: 0",
-      "publishedAt": "2026-07-12T20:46:43.000Z",
-      "image": "/flash-msa/plot.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T20:46:43.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "What are your plans for AI Appreciation Day?",
       "link": "https://www.engadget.com/2213147/what-are-your-plans-for-ai-appreciation-day/",
@@ -88,28 +110,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-12T20:30:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tiny Emulators",
-      "link": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "summary": "Article URL: https://floooh.github.io/tiny8bit-preview/index.html\nComments URL: https://news.ycombinator.com/item?id=48884395\nPoints: 97\n# Comments: 3",
-      "publishedAt": "2026-07-12T20:23:05.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T20:23:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Irish datacenters now guzzle 23% of the country's electricity",
-      "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-      "summary": "Article URL: https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013\nComments URL: https://news.ycombinator.com/item?id=4…",
-      "publishedAt": "2026-07-12T20:16:12.000Z",
-      "image": "https://image.theregister.com/4093897.jpg?imageId=4093897&x=0&y=0&cropw=100&croph=95.56&panox=0&panoy=0&panow=100&panoh=95.56&width=1200&height=683",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T20:16:12.000Z"
     },
     {
       "source": "The Verge",
@@ -390,7 +390,7 @@
       "source": "TechCrunch",
       "title": "This slushie machine was a lifesaver during NYC’s heat wave",
       "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-      "summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, th…",
+      "summary": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
       "publishedAt": "2026-07-11T22:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ninja-Slushi-Twist.jpg?w=1200",
       "sourceCount": 1,
