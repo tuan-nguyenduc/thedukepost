@@ -1,16 +1,194 @@
 {
-  "syncedAt": "2026-07-13T19:39:24.734Z",
+  "syncedAt": "2026-07-13T20:58:50.851Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "The Chud Vision of Roman History",
-      "link": "https://acoup.blog/2026/07/10/friday-friday-july-10-2026-on-the-chud-vision-of-roman-history/",
-      "summary": "Article URL: https://acoup.blog/2026/07/10/friday-friday-july-10-2026-on-the-chud-vision-of-roman-history/\nComments URL: https://news.ycombinator.com/item?id=48896993\nPoints: 5\n# C…",
-      "publishedAt": "2026-07-13T18:45:45.000Z",
-      "image": "https://i0.wp.com/acoup.blog/wp-content/uploads/2026/07/PXL_20260621_174535969.MP_.jpg?fit=1200%2C904&#038;ssl=1",
+      "source": "Engadget",
+      "title": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available",
+      "link": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
+      "summary": "Try the new Siri AI and system-wide performance improvements.",
+      "publishedAt": "2026-07-13T20:45:24.000Z",
+      "image": "https://www.engadget.com/img/gallery/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/l-intro-1783975381.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T18:45:45.000Z"
+      "latestActivity": "2026-07-13T20:45:24.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+      "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+      "publishedAt": "2026-07-13T20:41:26.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Russian-vessels-under-attack-Kerch-Strait-July-9-2026-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T20:41:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "summary": "I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.\nThere are services that transcribe music from Youtube videos into tabs, but they never…",
+      "publishedAt": "2026-07-13T20:13:14.000Z",
+      "image": "https://opengraph.githubassets.com/960bb99969b902a96297208bb4063af5934134b6b01f636cc79b4467d9087bea/marcelpanse/youtube-guitar-tab-parser",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T20:13:14.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Los Angeles law enforcement will stop using Flock cameras",
+      "link": "https://www.engadget.com/2214135/los-angeles-law-enforcement-will-stop-using-flock-cameras/",
+      "summary": "The Los Angeles police department did not renew its contract with Flock due to data privacy concerns.",
+      "publishedAt": "2026-07-13T20:02:48.000Z",
+      "image": "https://www.engadget.com/img/gallery/los-angeles-law-enforcement-will-stop-using-flock-cameras/l-intro-1783972881.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T20:02:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for…",
+      "publishedAt": "2026-07-13T20:00:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/apple-ghost-logo.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T20:00:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I implemented a neural network in SQL",
+      "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "summary": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added…",
+      "publishedAt": "2026-07-13T20:00:10.000Z",
+      "image": "https://opengraph.githubassets.com/06060057fd3efa0931dc6bf5522570d471286244a284d0ca601d5cfaeff6f21a/xqlsystems/xarray-sql",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T20:00:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: PlanWright – A control plane for AI coding agents",
+      "link": "https://planwright.tools",
+      "summary": "MCP driven control plane for Agentic Engineering. Plan from Claude Desktop, implement in Codex, review in a custom triage agent. All via MCP, all logged and tracked with full docum…",
+      "publishedAt": "2026-07-13T19:59:50.000Z",
+      "image": "https://planwright.tools/opengraph-image?150b6dc6a1fe77e9",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:59:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Climate.gov was destroyed. Open data saved it",
+      "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+      "summary": "Article URL: https://werd.io/climate-gov-was-destroyed-open-data-saved-it/\nComments URL: https://news.ycombinator.com/item?id=48897945\nPoints: 135\n# Comments: 57",
+      "publishedAt": "2026-07-13T19:57:55.000Z",
+      "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&cs&#x3D;tinysrgb&fit&#x3D;max&fm&#x3D;jpg&ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&ixlib&#x3D;rb-4.1.0&q&#x3D;80&w&#x3D;2000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:57:55.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
+      "link": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
+      "summary": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here’s why.",
+      "publishedAt": "2026-07-13T19:55:12.000Z",
+      "image": "https://media.wired.com/photos/6a5116065a78161ead45bb3e/191:100/w_1280,c_limit/VR%20Mundial%202026%202284546127.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:55:12.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "A ransomware negotiator who colluded with attackers to scam victims was sentenced to 70 months in prison",
+      "link": "https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/",
+      "summary": "Angelo Martino helped scam ransomware victims out of over $75 million, officials said.",
+      "publishedAt": "2026-07-13T19:53:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/a-ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/l-intro-1783972323.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:53:26.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "California creates $3,500 rebate for new electric vehicle buyers",
+      "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
+      "summary": "There's a separate $1,750 rebate for used EVs, but both rebates have a price cap.",
+      "publishedAt": "2026-07-13T19:52:48.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-157308908-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:52:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Telegram's t.me domain has been suspended",
+      "link": "https://www.whois.com/whois/t.me",
+      "summary": "Article URL: https://www.whois.com/whois/t.me\nComments URL: https://news.ycombinator.com/item?id=48897878\nPoints: 54\n# Comments: 36",
+      "publishedAt": "2026-07-13T19:52:25.000Z",
+      "image": "https://www.whois.com/images/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:52:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Is a Bad Tool",
+      "link": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+      "summary": "Article URL: https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool\nComments URL: https://news.ycombinator.com/item?id=48897861\nPoints: 30\n# Comments: 2",
+      "publishedAt": "2026-07-13T19:51:15.000Z",
+      "image": "https://bytecode.news/opengraph-image",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:51:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unre…",
+      "publishedAt": "2026-07-13T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+          "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+          "publishedAt": "2026-07-13T18:22:10.000Z"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+          "publishedAt": "2026-07-13T19:17:51.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-13T19:17:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "TFTP Honey Pot Results",
+      "link": "https://bruceediger.com/posts/tftp-honeypot-results/",
+      "summary": "Article URL: https://bruceediger.com/posts/tftp-honeypot-results/\nComments URL: https://news.ycombinator.com/item?id=48897329\nPoints: 18\n# Comments: 5",
+      "publishedAt": "2026-07-13T19:11:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:11:17.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
+      "link": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
+      "summary": "New study confirms 2024 \"momentum flux theory\" on how angular momentum of water flows drives rotation.",
+      "publishedAt": "2026-07-13T19:00:47.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/sprinklerTOP-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T19:00:47.000Z"
     },
     {
       "source": "The Verge",
@@ -24,77 +202,37 @@
       "latestActivity": "2026-07-13T18:35:48.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The real prices of frontier models. Tokens * Price, right?",
-      "link": "https://playcode.io/blog/real-price-of-frontier-models",
-      "summary": "Article URL: https://playcode.io/blog/real-price-of-frontier-models\nComments URL: https://news.ycombinator.com/item?id=48896800\nPoints: 25\n# Comments: 9",
-      "publishedAt": "2026-07-13T18:32:27.000Z",
-      "image": "https://playcode.io/assets/static/img/logo.png",
+      "source": "Ars Technica",
+      "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
+      "link": "https://arstechnica.com/tech-policy/2026/07/states-sue-to-block-paramount-wbd-merger-that-was-approved-by-trump-admin/",
+      "summary": "AG: Deal will bring \"higher prices, lower quality, and less content for film and TV.\"",
+      "publishedAt": "2026-07-13T18:34:35.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T18:32:27.000Z"
+      "latestActivity": "2026-07-13T18:34:35.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
-      "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "summary": "Article URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/\nComments URL: https://news.ycombinator.com/item?id=48896665\nPoints: 37\n# Co…",
-      "publishedAt": "2026-07-13T18:22:16.000Z",
-      "image": null,
+      "title": "Thunderbird Desktop settings research: what we learned from your feedback",
+      "link": "https://blog.thunderbird.net/2026/07/desktopsettings/",
+      "summary": "Article URL: https://blog.thunderbird.net/2026/07/desktopsettings/\nComments URL: https://news.ycombinator.com/item?id=48896818\nPoints: 29\n# Comments: 22",
+      "publishedAt": "2026-07-13T18:33:47.000Z",
+      "image": "https://blog.thunderbird.net/files/2026/07/blog-banner-generic1.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T18:22:16.000Z"
+      "latestActivity": "2026-07-13T18:33:47.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unre…",
-      "publishedAt": "2026-07-13T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-          "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-          "publishedAt": "2026-07-13T18:22:10.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-13T18:22:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A full body MRI earns you a year of smoking",
-      "link": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump",
-      "summary": "Article URL: https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump\nComments URL: https://news.ycombinator.com/item?id=48896658\nPoints: 16\n# Comments: 9",
-      "publishedAt": "2026-07-13T18:21:50.000Z",
-      "image": null,
+      "source": "Engadget",
+      "title": "iCloud+ vs. Apple One: Which is worth it for you?",
+      "link": "https://www.engadget.com/2209865/icloud-plus-vs-apple-one/",
+      "summary": "The two subscription services offer more than just extra storage, but getting the right one can save you money.",
+      "publishedAt": "2026-07-13T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/icloud-vs-apple-one-which-is-worth-it-for-you/l-intro-1783447753.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T18:21:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-      "link": "https://cakehonolulu.github.io/linux-on-32x/",
-      "summary": "Article URL: https://cakehonolulu.github.io/linux-on-32x/\nComments URL: https://news.ycombinator.com/item?id=48896600\nPoints: 20\n# Comments: 2",
-      "publishedAt": "2026-07-13T18:18:25.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T18:18:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "link": "https://github.com/morganwilliscloud/billai-bass",
-      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass\nComments URL: https://news.ycombinator.com/item?id=48896599\nPoints: 14\n# Comments: 7",
-      "publishedAt": "2026-07-13T18:18:23.000Z",
-      "image": "https://opengraph.githubassets.com/e745cabf94c7cee8b0899071ed41ffecca112eafc56f8ea9d3f70bae71ff8560/morganwilliscloud/billai-bass",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T18:18:23.000Z"
+      "latestActivity": "2026-07-13T18:30:00.000Z"
     },
     {
       "source": "Wired",
@@ -141,26 +279,15 @@
       "latestActivity": "2026-07-13T18:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: Super Dario",
-      "link": "https://superdario.pawb.de",
-      "summary": "Article URL: https://superdario.pawb.de\nComments URL: https://news.ycombinator.com/item?id=48896286\nPoints: 170\n# Comments: 42",
-      "publishedAt": "2026-07-13T17:53:52.000Z",
-      "image": null,
+      "source": "Ars Technica",
+      "title": "Tom Cruise is utterly transformed in Digger trailer",
+      "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
+      "summary": "\"If we can't control the force of nature, at least we can control the narrative.\"",
+      "publishedAt": "2026-07-13T17:49:56.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/digger1-1152x648-1783953777.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T17:53:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Logseq 2.0 Beta (DB version) is here",
-      "link": "https://github.com/logseq/logseq/releases",
-      "summary": "Article URL: https://github.com/logseq/logseq/releases\nComments URL: https://news.ycombinator.com/item?id=48896229\nPoints: 44\n# Comments: 25",
-      "publishedAt": "2026-07-13T17:49:49.000Z",
-      "image": "https://repository-images.githubusercontent.com/266231149/4a33065f-481b-4da7-bb7e-f7946055c0bc",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T17:49:49.000Z"
+      "latestActivity": "2026-07-13T17:49:56.000Z"
     },
     {
       "source": "TechCrunch",
@@ -236,17 +363,6 @@
       "latestActivity": "2026-07-13T16:49:35.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
-      "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
-      "summary": "Clever coding and graphical compromises get a classic game on more classic hardware.",
-      "publishedAt": "2026-07-13T16:37:14.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomng2-1152x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T16:37:14.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Should AI help you get away with killing your spouse?",
       "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
@@ -278,17 +394,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T16:06:36.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
-      "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
-      "summary": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\"",
-      "publishedAt": "2026-07-13T16:05:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/KSC-20230219-PH-SPX01_0002large-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T16:05:03.000Z"
     },
     {
       "source": "Wired",
@@ -335,17 +440,6 @@
       "latestActivity": "2026-07-13T15:30:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "publishedAt": "2026-07-13T15:06:34.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T15:06:34.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
       "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
@@ -368,17 +462,6 @@
       "latestActivity": "2026-07-13T14:52:14.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "SpaceX cleared to fly Starship again after booster failure in May",
-      "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-      "summary": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which o…",
-      "publishedAt": "2026-07-13T14:19:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T14:19:44.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
       "link": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
@@ -390,17 +473,6 @@
       "latestActivity": "2026-07-13T13:33:54.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Not 300 miles, not 250 miles: These EVs have the worst range in 2026",
-      "link": "https://www.engadget.com/2210476/ev-worst-range-in-2026/",
-      "summary": "If you like going on a long road trip, you might want to steer clear of these vehicles.",
-      "publishedAt": "2026-07-13T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/not-300-miles-not-250-miles-these-evs-have-the-worst-range-in-2026/l-intro-1783520627.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T13:30:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a donor conception cap and world models for AI",
       "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
@@ -410,17 +482,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T12:10:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Oppo Watch X3 review: Come for the battery, stay for the versatility",
-      "link": "https://www.engadget.com/2211331/oppo-watch-x3-review/",
-      "summary": "Oppo's Watch X3 is a Wear OS watch that'll outlast all of its rivals.",
-      "publishedAt": "2026-07-13T12:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/oppo-watch-x3-review-come-for-the-battery-stay-for-the-quality/l-intro-1783526710.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T12:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -443,28 +504,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T11:08:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Europe takes step toward social media ban for kids",
-      "link": "https://www.engadget.com/2213336/europe-takes-step-toward-social-media-ban-for-kids/",
-      "summary": "Following a worrying new report, Europe is taking steps toward barring children from using social media.",
-      "publishedAt": "2026-07-13T11:05:07.000Z",
-      "image": "https://www.engadget.com/img/gallery/europe-takes-step-toward-social-media-ban-for-kids/l-intro-1783940566.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T11:05:07.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
-      "publishedAt": "2026-07-13T11:00:51.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T11:00:51.000Z"
     },
     {
       "source": "Wired",
@@ -500,17 +539,6 @@
       "latestActivity": "2026-07-13T10:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
-      "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
-      "summary": "The SFPD’s exposure of hours of videos from drone platform Skydio reveals how broadly it’s watching the city from above—and how the results can spill online.",
-      "publishedAt": "2026-07-13T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a510d72662ba7d735b3abfc/191:100/w_1280,c_limit/sf-cops-leaked-surveillance-top-art-still.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T10:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Social media limits are coming for teens across Europe",
       "link": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
@@ -528,17 +556,6 @@
       "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more.…",
       "publishedAt": "2026-07-13T09:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T09:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Waze rolls out new AI features including Motorcycle and 'Less Chatty' modes",
-      "link": "https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/",
-      "summary": "Like Google Maps, Waze is going all-in on Gemini.",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/waze-rolls-out-new-ai-features-including-motorcycle-and-less-chatty-modes/l-intro-1783625614.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T09:00:00.000Z"
@@ -564,28 +581,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-12T16:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-      "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
-      "summary": "New climate evidence adds context to these long voyages.",
-      "publishedAt": "2026-07-12T11:12:19.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285149590-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-12T11:12:19.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "A Jupiter-size planet that escaped its star's death",
-      "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
-      "summary": "It's unclear how the planet avoided its star's bloated red giant stage.",
-      "publishedAt": "2026-07-11T12:00:58.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-1152x648.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-11T12:00:58.000Z"
     },
     {
       "source": "VentureBeat",
