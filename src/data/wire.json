@@ -1,6 +1,160 @@
 {
-  "syncedAt": "2026-07-13T22:57:36.840Z",
+  "syncedAt": "2026-07-14T02:42:37.275Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Fundamentals of Wireless Communication",
+      "link": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "summary": "Article URL: https://web.stanford.edu/~dntse/wireless_book.html\nComments URL: https://news.ycombinator.com/item?id=48901454\nPoints: 8\n# Comments: 1",
+      "publishedAt": "2026-07-14T02:10:19.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T02:10:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building Food Metadata with LLM Juries",
+      "link": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "summary": "Article URL: https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/\nComments URL: https://news.ycombinator.com/item?id=489012…",
+      "publishedAt": "2026-07-14T01:41:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T01:41:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Is x86 ready to ACE it?",
+      "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+      "summary": "Article URL: https://chipsandcheese.com/p/is-x86-ready-to-ace-it\nComments URL: https://news.ycombinator.com/item?id=48901235\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-07-14T01:36:13.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!xAVD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F003e8aa7-55c2-443c-81b1-555057c678a3_1330x920.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T01:36:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Economics of Recursive Self-Improvement [pdf]",
+      "link": "https://elasticity.institute/rsi-paper.pdf",
+      "summary": "Article URL: https://elasticity.institute/rsi-paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48901224\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-07-14T01:35:23.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T01:35:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "MorphoHDL: A minimalistic language for growing circuits",
+      "link": "https://paradigms-of-intelligence.github.io/morpho/",
+      "summary": "Article URL: https://paradigms-of-intelligence.github.io/morpho/\nComments URL: https://news.ycombinator.com/item?id=48901126\nPoints: 16\n# Comments: 1",
+      "publishedAt": "2026-07-14T01:17:30.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T01:17:30.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+      "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+      "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
+      "publishedAt": "2026-07-14T01:17:14.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starship_raptor3s-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T01:17:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
+      "link": "https://github.com/DaqulaLin/MemStitch",
+      "summary": "Article URL: https://github.com/DaqulaLin/MemStitch\nComments URL: https://news.ycombinator.com/item?id=48901051\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-07-14T01:04:02.000Z",
+      "image": "https://opengraph.githubassets.com/95254d67b2554a027e3ad41007f95a57bff1487afb94c70ff8cb94dfb81d5f9e/DaqulaLin/MemStitch",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T01:04:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
+      "link": "https://arxiv.org/abs/2607.08550",
+      "summary": "Article URL: https://arxiv.org/abs/2607.08550\nComments URL: https://news.ycombinator.com/item?id=48901020\nPoints: 5\n# Comments: 1",
+      "publishedAt": "2026-07-14T00:58:55.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T00:58:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Git history command deserves more attention",
+      "link": "https://lalitm.com/post/git-history/",
+      "summary": "Article URL: https://lalitm.com/post/git-history/\nComments URL: https://news.ycombinator.com/item?id=48901010\nPoints: 71\n# Comments: 34",
+      "publishedAt": "2026-07-14T00:57:11.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T00:57:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs…",
+      "publishedAt": "2026-07-14T00:45:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T00:45:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+      "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+      "publishedAt": "2026-07-13T23:58:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1782806946.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T23:58:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "publishedAt": "2026-07-13T23:31:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T23:31:18.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Movies to Stream This Month (July 2026)",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "summary": "Project Hail Mary, They Will Kill You, and The Long Walk are among the films deserving of your eyeballs this month.",
+      "publishedAt": "2026-07-13T23:14:30.000Z",
+      "image": "https://media.wired.com/photos/6a551c101ded9c2b42f746e0/191:100/w_1280,c_limit/Movie-Guide-Project-Hail-Mary-Culture-MCDPRHA_MG004.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-13T23:14:30.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Please let this hot pink Pixel 11 leak be real",
@@ -11,17 +165,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T22:42:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "California rocked by another earthquake that will unleash the Big One",
-      "link": "https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html",
-      "summary": "Article URL: https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html\nComments URL: https://news.ycombinator.com/item?id=488997…",
-      "publishedAt": "2026-07-13T22:26:34.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T22:26:34.000Z"
     },
     {
       "source": "Wired",
@@ -35,26 +178,15 @@
       "latestActivity": "2026-07-13T22:26:22.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
-      "link": "https://1shotchallenge.ai",
-      "summary": "Article URL: https://1shotchallenge.ai\nComments URL: https://news.ycombinator.com/item?id=48899620\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-07-13T22:14:12.000Z",
-      "image": "https://oneshotchallenge.ai/og.png",
+      "source": "Ars Technica",
+      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+      "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+      "summary": "The man is said to be doing well in a Frankfurt hospital.",
+      "publishedAt": "2026-07-13T22:07:34.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284895790-2560x1440.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T22:14:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude is just Mr. Meeseeks",
-      "link": "https://github.com/thephw/claude-meseeks",
-      "summary": "Article URL: https://github.com/thephw/claude-meseeks\nComments URL: https://news.ycombinator.com/item?id=48899529\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-07-13T22:03:54.000Z",
-      "image": "https://opengraph.githubassets.com/69a7e25a994e4a41935981a4497d2a1fe9ffed4bd884e9c80f6526a898101f87/thephw/claude-meseeks",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T22:03:54.000Z"
+      "latestActivity": "2026-07-13T22:07:34.000Z"
     },
     {
       "source": "The Verge",
@@ -112,15 +244,15 @@
       "latestActivity": "2026-07-13T21:03:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-      "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
-      "summary": "Article URL: https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7\nComments URL: https://news.ycombinator.com/item?id=48898814\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-07-13T21:01:00.000Z",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-social/3942fb13-ca34-4efa-a774-063bbaf9fa6e/4d3808e3-f8b9-4d17-b149-7f59761e675e/8e245d4f-b623-4740-b12c-10c11a22aab7.png",
+      "source": "Ars Technica",
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "publishedAt": "2026-07-13T21:03:07.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T21:01:00.000Z"
+      "latestActivity": "2026-07-13T21:03:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -207,39 +339,6 @@
       "latestActivity": "2026-07-13T20:41:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "summary": "I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.\nThere are services that transcribe music from Youtube videos into tabs, but they never…",
-      "publishedAt": "2026-07-13T20:13:14.000Z",
-      "image": "https://opengraph.githubassets.com/cbc7fbd39be39cffeb820daef5e23869075584cb1a8eed4625e3d26d51ab348c/marcelpanse/youtube-guitar-tab-parser",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:13:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-      "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
-      "summary": "Article URL: https://github.com/Poseidon-fan/linux-0.11-rs\nComments URL: https://news.ycombinator.com/item?id=48898134\nPoints: 57\n# Comments: 37",
-      "publishedAt": "2026-07-13T20:11:29.000Z",
-      "image": "https://opengraph.githubassets.com/331788037cb5fb9534b51763cc920f5f90f83ae9f899205d14f1998d645c8caf/Poseidon-fan/linux-0.11-rs",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:11:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
-      "link": "https://github.com/yeet-src/sigwire",
-      "summary": "Hey everyone, I wrote this tool for inspecting linux signals across proceses\nComments URL: https://news.ycombinator.com/item?id=48898071\nPoints: 14\n# Comments: 6",
-      "publishedAt": "2026-07-13T20:07:45.000Z",
-      "image": "https://opengraph.githubassets.com/067b75eba1bf1c44b6caf98018cbab8834f21c4070212cb67a706b5a8c352777/yeet-src/sigwire",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:07:45.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Los Angeles law enforcement will stop using Flock cameras",
       "link": "https://www.engadget.com/2214135/los-angeles-law-enforcement-will-stop-using-flock-cameras/",
@@ -249,17 +348,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T20:02:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "link": "https://neow.in/cWsyMTV3",
-      "summary": "Article URL: https://neow.in/cWsyMTV3\nComments URL: https://news.ycombinator.com/item?id=48897991\nPoints: 181\n# Comments: 52",
-      "publishedAt": "2026-07-13T20:01:43.000Z",
-      "image": "https://cdn.neowin.com/news/images/uploaded/2026/07/1783952968_samsung-health_story.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:01:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -390,17 +478,6 @@
       "latestActivity": "2026-07-13T18:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Tom Cruise is utterly transformed in Digger trailer",
-      "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
-      "summary": "\"If we can't control the force of nature, at least we can control the narrative.\"",
-      "publishedAt": "2026-07-13T17:49:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/digger1-1152x648-1783953777.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T17:49:56.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Sam Altman’s space data center trash talk is what most experts already believe",
       "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
@@ -412,32 +489,14 @@
       "latestActivity": "2026-07-13T17:28:37.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-      "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-      "publishedAt": "2026-07-13T17:18:25.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Samsung-back-1-1152x648.jpg",
+      "source": "Engadget",
+      "title": "State AGs sue to block the Paramount-Warner Bros. Discovery merger",
+      "link": "https://www.engadget.com/2213857/states-sue-to-block-paramount-warner-bros-discovery-merger/",
+      "summary": "A dozen state attorneys general filed an antitrust lawsuit to stop the Paramount / Warner Bros. Discovery merger.",
+      "publishedAt": "2026-07-13T17:16:07.000Z",
+      "image": "https://www.engadget.com/img/gallery/states-sue-to-block-paramount-warner-bros-discovery-merger/l-intro-1783965035.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-13T17:18:25.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
-      "summary": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
-      "publishedAt": "2026-07-13T17:00:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/05/ViacomCBS-rebrands-to-Paramount.png?w=1200",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "State AGs sue to block the Paramount-Warner Bros. Discovery merger",
-          "link": "https://www.engadget.com/2213857/states-sue-to-block-paramount-warner-bros-discovery-merger/",
-          "publishedAt": "2026-07-13T17:16:07.000Z"
-        }
-      ],
       "latestActivity": "2026-07-13T17:16:07.000Z"
     },
     {
@@ -450,39 +509,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T17:15:35.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
-      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
-      "summary": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
-      "publishedAt": "2026-07-13T17:03:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/General-Fusion-LM26.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T17:03:11.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
-      "link": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
-      "summary": "The amendment would restrict building codes that promote electrification.",
-      "publishedAt": "2026-07-13T16:49:35.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2265209415-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T16:49:35.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Should AI help you get away with killing your spouse?",
-      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-      "summary": "What does a world of total user-aligned AI actually look like?",
-      "publishedAt": "2026-07-13T16:31:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T16:31:23.000Z"
     },
     {
       "source": "VentureBeat",
@@ -505,17 +531,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T15:56:04.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
-      "link": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
-      "summary": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
-      "publishedAt": "2026-07-13T15:49:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2158978689.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T15:49:42.000Z"
     },
     {
       "source": "VentureBeat",
@@ -549,17 +564,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T11:35:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
-      "link": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
-      "summary": "Swimming against the iGarden Swim Jet X Pro 10’s artificial current is a real workout, even if it doesn’t quite replace a full-size lap pool.",
-      "publishedAt": "2026-07-13T11:08:00.000Z",
-      "image": "https://media.wired.com/photos/6a50890ad33cf036c6baa3c2/191:100/w_1280,c_limit/Review--iGarden-Swim-Jet-X-Pro-10.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T11:08:00.000Z"
     },
     {
       "source": "VentureBeat",
