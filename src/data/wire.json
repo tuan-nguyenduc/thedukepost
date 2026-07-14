@@ -1,6 +1,288 @@
 {
-  "syncedAt": "2026-07-14T10:01:06.044Z",
+  "syncedAt": "2026-07-14T13:49:48.979Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "What's the difference between active noise canceling and passive?",
+      "link": "https://www.engadget.com/2212816/difference-between-active-noice-canceling-passive-explained/",
+      "summary": "The frustrating science of keeping your ears from doing their job.",
+      "publishedAt": "2026-07-14T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-active-noise-canceling-and-passive/l-intro-1783724616.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T13:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Serena Williams Fit-Dex",
+      "link": "https://serena-williams-fitdex.netlify.app/",
+      "summary": "Article URL: https://serena-williams-fitdex.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=48906339\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-14T13:12:55.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T13:12:55.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "'Talk to Spotify' lets you create playlists and learn about songs with voice commands",
+      "link": "https://www.engadget.com/2214520/talk-to-spotify-curate-playlists-with-voice/",
+      "summary": "Spotify is finally letting users control the app with their voice to create playlists or learn about songs.",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/talk-to-spotify-curate-playlists-with-voice/l-intro-1784034280.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T13:00:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+      "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+      "summary": "1Password on Tuesday launched AI Spend and Consumption Management, a new capability embedded in its SaaS Manager platform that gives IT and finance teams a unified, real-time view…",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4M6KLzYU9KVGs7NI46u54o/fd10b08fea94c61016c42479747bfa35/Nuneybits_Vector_art_of_budget_forecast_line_breaking_against_s_9804fce5-d862-409c-be36-2111b48bdd03.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T13:00:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
+      "link": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+      "summary": "Canva on Tuesday launched Canva Code 2.0, a major upgrade to its AI-powered coding tool that lets users build interactive websites, apps, and experiences using plain-language promp…",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Proof of Care in the Age of A.I",
+      "link": "https://jacobfilipp.com/care/",
+      "summary": "Article URL: https://jacobfilipp.com/care/\nComments URL: https://news.ycombinator.com/item?id=48906125\nPoints: 16\n# Comments: 5",
+      "publishedAt": "2026-07-14T12:56:25.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T12:56:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tensor Is the Might",
+      "link": "https://zserge.com/posts/tensor/",
+      "summary": "Article URL: https://zserge.com/posts/tensor/\nComments URL: https://news.ycombinator.com/item?id=48906123\nPoints: 10\n# Comments: 1",
+      "publishedAt": "2026-07-14T12:56:21.000Z",
+      "image": "https://zserge.com/logo.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T12:56:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "link": "https://github.com/Danau5tin/ai-trains-ai",
+      "summary": "Article URL: https://github.com/Danau5tin/ai-trains-ai\nComments URL: https://news.ycombinator.com/item?id=48905919\nPoints: 24\n# Comments: 4",
+      "publishedAt": "2026-07-14T12:41:25.000Z",
+      "image": "https://opengraph.githubassets.com/2992eb2fd71ac492d0d7cee44045e8fe791ba827d808b427c22adf044d37735a/Danau5tin/ai-trains-ai",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T12:41:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "link": "https://ryanjk5.github.io/posts/rjk-duck/",
+      "summary": "Article URL: https://ryanjk5.github.io/posts/rjk-duck/\nComments URL: https://news.ycombinator.com/item?id=48905914\nPoints: 26\n# Comments: 7",
+      "publishedAt": "2026-07-14T12:40:50.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T12:40:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Coding agents think ahead of time",
+      "link": "https://arxiv.org/abs/2607.05188",
+      "summary": "Article URL: https://arxiv.org/abs/2607.05188\nComments URL: https://news.ycombinator.com/item?id=48905764\nPoints: 27\n# Comments: 18",
+      "publishedAt": "2026-07-14T12:28:09.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T12:28:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Differentiable Fortran with LFortran and Enzyme",
+      "link": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+      "summary": "Article URL: https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html\nComments URL: https://news.ycombinator.com/item?id=48905667\nPo…",
+      "publishedAt": "2026-07-14T12:21:46.000Z",
+      "image": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/_images/social_previews/summary_blog_2026-07-09-enzyme-lfortran-autodiff_c24bbe55.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T12:21:46.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—…",
+      "publishedAt": "2026-07-14T12:10:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/01/feature-ivf.jpg?fit=1456,818",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T12:10:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?",
+      "link": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
+      "summary": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker.",
+      "publishedAt": "2026-07-14T12:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a4fd73d7f84f3b67bdcaa53/191:100/w_1280,c_limit/PLEX_JELLY%20FIN.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "summary": "Article URL: https://www.dw.com/en/germany-freedom-of-information-act/a-77939695\nComments URL: https://news.ycombinator.com/item?id=48905290\nPoints: 91\n# Comments: 44",
+      "publishedAt": "2026-07-14T11:49:48.000Z",
+      "image": "https://static.dw.com/image/73463979_6.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T11:49:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "summary": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images\t\n\nDemis Hassabis thinks the world needs an AI watchdog…",
+      "publishedAt": "2026-07-14T11:43:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T11:43:29.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "9 Tips to Get More Out of Google Chat",
+      "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
+      "summary": "There’s more to Google’s messaging app than you might realize.",
+      "publishedAt": "2026-07-14T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a54c45155569c1536a1e84b/191:100/w_1280,c_limit/GoogleChat.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T11:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best RGB TVs (2026): My Picks After Testing the Hottest TVs",
+      "link": "https://www.wired.com/story/best-rgb-tvs/",
+      "summary": "RGB TVs are the latest hotness in the world of televisions, and I’ve tested many of the latest models to see which you should buy.",
+      "publishedAt": "2026-07-14T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a552aeba327102c0a11b662/191:100/w_1280,c_limit/The-Best-RGB-TVs.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T11:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The first sunlight reflecting space mirror has been cleared for launch",
+      "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+      "summary": "Eärendil-1 is the first of many 60-foot space mirrors that Reflect Orbital is planning to launch into low Earth orbit. | Image: Reflect Orbital\t\n\nReflect Orbital has been given the…",
+      "publishedAt": "2026-07-14T11:10:39.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-115103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T11:10:39.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Oura Ring 5 Review: Still the Smart Ring to Beat",
+      "link": "https://www.wired.com/review/oura-ring-5/",
+      "summary": "It’s not the upgrade Ring 4 owners have been waiting for, but it’s easily the best smart ring Oura has ever made.",
+      "publishedAt": "2026-07-14T11:07:00.000Z",
+      "image": "https://media.wired.com/photos/6a554a624d9965d1a9a58c89/191:100/w_1280,c_limit/Review--Oura-Ring-5.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T11:07:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Let’s build a children’s public internet",
+      "link": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+      "summary": "An increasing number of people seem to agree the internet is terrible for children - allegedly addictive, destructive to self-esteem, possibly a portal to predators. Over the past…",
+      "publishedAt": "2026-07-14T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "This German Man Is on a Quest to Cut the Perfect Slice of Bread",
+      "link": "https://www.wired.com/story/this-german-man-is-on-a-mad-quest-to-cut-the-perfect-slice-of-bread/",
+      "summary": "Armed with high-end knives and digital calipers, Germanbreadcutter has entranced thousands of fans, one loaf at a time.",
+      "publishedAt": "2026-07-14T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a511606a81eaca0544bba4f/191:100/w_1280,c_limit/Inside-Mans-Quest-To-Cut-Objectively-Perfect-Slice-of-Bread-Culture-Bread-cutting-Picture.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed…",
+      "publishedAt": "2026-07-14T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "New York enacts first US ban on data center construction",
+          "link": "https://www.engadget.com/2214456/new-york-kathy-hochul-data-center-ban/",
+          "publishedAt": "2026-07-14T10:47:51.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-14T10:47:51.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "X's algorithm will finally prioritize replies from people you already follow",
+      "link": "https://www.engadget.com/2214455/x-will-prioritize-replies-from-people-you-follow/",
+      "summary": "X has made a tweak to give your replies a boost in your friends' comment section.",
+      "publishedAt": "2026-07-14T10:39:07.000Z",
+      "image": "https://www.engadget.com/img/gallery/xs-algorithm-will-finally-prioritize-replies-from-people-you-already-follow/l-intro-1784025475.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T10:39:07.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
+      "summary": "On this week’s episode of The Big Interview podcast, WIRED’s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the a…",
+      "publishedAt": "2026-07-14T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a51166bd12b964679cc95c9/191:100/w_1280,c_limit/Big-Interview-UV-Gowanus-Culture.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T10:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+      "publishedAt": "2026-07-14T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a50305c2d9a50a68798f001/191:100/w_1280,c_limit/inventing_eliza_chatbot_book.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T10:00:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Google bought all of a major solar farm's output to offset its dirty data center emissions",
@@ -35,17 +317,6 @@
       "latestActivity": "2026-07-14T09:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
-      "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-      "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a54c2f2fb247c83ade3f957/191:100/w_1280,c_limit/GettyImages-2269243394.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T09:00:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Hisense's E Ink phone has a full-color LCD you can snap on the back",
       "link": "https://www.engadget.com/2214427/hisense-a10-e-ink-phone-full-color-lcd-detachable/",
@@ -55,17 +326,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T08:31:58.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
-      "link": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
-      "summary": "The FCC authorized Reflect Orbital to launch the mirror satellite Eärendil-1. “For optical astronomy, this poses an existential threat,” the European Southern Observatory said.",
-      "publishedAt": "2026-07-14T08:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a556ad55b9b10830ab2b6f7/191:100/w_1280,c_limit/satelitesolar.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T08:30:00.000Z"
     },
     {
       "source": "Engadget",
@@ -88,61 +348,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T08:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Hotels.com Coupon Codes for July 2026",
-      "link": "https://www.wired.com/story/hotels-com-coupon/",
-      "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "publishedAt": "2026-07-14T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Bose Promo Code: 40% Off for July 2026",
-      "link": "https://www.wired.com/story/bose-coupon-code/",
-      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "publishedAt": "2026-07-14T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/191:100/w_1280,c_limit/WIRED-Coupons-R2_3.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "B&H Photo Promo Codes and Deals This July 2026",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "publishedAt": "2026-07-14T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/191:100/w_1280,c_limit/WIRED-Coupons-4.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "OnePlus Promo Codes: 30% Off July 2026",
-      "link": "https://www.wired.com/story/oneplus-promo-code/",
-      "summary": "Save 30% with a OnePlus coupon in July 2026, plus save up to 10% on earbuds, phones, and more.",
-      "publishedAt": "2026-07-14T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Peacock Promo Codes: 40% Off July 2026",
-      "link": "https://www.wired.com/story/peacock-promo-code/",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "publishedAt": "2026-07-14T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T05:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -168,9 +373,9 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
       "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs…",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs…",
       "publishedAt": "2026-07-14T00:45:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024",
       "sourceCount": 1,
@@ -255,17 +460,6 @@
       "latestActivity": "2026-07-13T21:48:43.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Microsoft is making the Windows Search Box more streamlined and useful",
-      "link": "https://www.engadget.com/2214227/microsoft-is-making-the-windows-search-box-more-streamlined-and-useful/",
-      "summary": "Bit by bit, Windows 11 is healing.",
-      "publishedAt": "2026-07-13T21:12:19.000Z",
-      "image": "https://www.engadget.com/img/gallery/microsoft-is-making-the-windows-search-box-more-streamlined-and-useful/l-intro-1783976958.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T21:12:19.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
       "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
@@ -310,57 +504,6 @@
       "latestActivity": "2026-07-13T20:57:44.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The Pixel colors might rule this year",
-      "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
-      "summary": "The purported Pixel 11 in Fuchsia (Hibiscus). | Image: 9to5Google\t\n\nThis year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listing…",
-      "publishedAt": "2026-07-13T20:52:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/pixel-11-leak.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:52:27.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available",
-      "link": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
-      "summary": "Try the new Siri AI and system-wide performance improvements.",
-      "publishedAt": "2026-07-13T20:45:24.000Z",
-      "image": "https://www.engadget.com/img/gallery/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/l-intro-1783975381.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Apple’s public betas for iOS 27 and more are out now",
-          "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
-          "publishedAt": "2026-07-13T20:45:40.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-13T20:45:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-      "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to…",
-      "publishedAt": "2026-07-13T20:44:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268635_Siri_AI_AKrales_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:44:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Siri AI is already changing how I use my iPhone",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "summary": "Siri AI in iOS 27.\t\n\niOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for qui…",
-      "publishedAt": "2026-07-13T20:43:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:43:20.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
       "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
@@ -372,17 +515,6 @@
       "latestActivity": "2026-07-13T20:41:26.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Los Angeles law enforcement will stop using Flock cameras",
-      "link": "https://www.engadget.com/2214135/los-angeles-law-enforcement-will-stop-using-flock-cameras/",
-      "summary": "The Los Angeles police department did not renew its contract with Flock due to data privacy concerns.",
-      "publishedAt": "2026-07-13T20:02:48.000Z",
-      "image": "https://www.engadget.com/img/gallery/los-angeles-law-enforcement-will-stop-using-flock-cameras/l-intro-1783972881.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:02:48.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
       "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
@@ -392,17 +524,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T20:00:17.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "A ransomware negotiator who colluded with attackers to scam victims was sentenced to 70 months in prison",
-      "link": "https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/",
-      "summary": "Angelo Martino helped scam ransomware victims out of over $75 million, officials said.",
-      "publishedAt": "2026-07-13T19:53:26.000Z",
-      "image": "https://www.engadget.com/img/gallery/a-ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/l-intro-1783972323.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T19:53:26.000Z"
     },
     {
       "source": "Ars Technica",
@@ -526,28 +647,6 @@
       "latestActivity": "2026-07-10T20:58:32.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
-      "link": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
-      "summary": "OpenAI on Thursday launched ChatGPT Work, a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work…",
-      "publishedAt": "2026-07-10T20:20:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/XaJBJbkMIolDxyrlIw5Qd/b9e360da7531ae921f32528977713b61/Nuneybits_Magazine-style_digital_illustration_of_oversized_clou_64512c24-eef8-4ed0-9aae-efcb0615033a.webp?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T20:20:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
-      "link": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
-      "summary": "Enterprise companies are running AI agents ahead of the controls needed to manage them — and they deployed that way knowingly. That is the central finding from VentureBeat Research…",
-      "publishedAt": "2026-07-10T19:29:07.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2h0wdk2i0wZME0744hQS40/282b7a507e29b9f39dbe33ad85499a8c/Gemini_Generated_Image_nocstvnocstvnocs.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T19:29:07.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
@@ -590,17 +689,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-09T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Four nuclear reactors hit a big milestone in the US",
-      "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. La…",
-      "publishedAt": "2026-07-09T08:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Aalo_s-completed-Critical-Test-Reactor-facility-1920.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-09T08:00:00.000Z"
     }
   ]
 }
