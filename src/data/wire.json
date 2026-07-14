@@ -1,6 +1,94 @@
 {
-  "syncedAt": "2026-07-14T19:23:29.125Z",
+  "syncedAt": "2026-07-14T21:02:30.637Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Three publishers challenge Google over AI copyright infringement",
+      "link": "https://www.engadget.com/2215206/three-publishers-challenge-google-over-ai-copyright-infringement/",
+      "summary": "It's the latest in a barrage of efforts to win compensation from AI companies over training materials.",
+      "publishedAt": "2026-07-14T20:28:41.000Z",
+      "image": "https://www.engadget.com/img/gallery/three-publishers-challenge-google-over-ai-copyright-infringement/l-intro-1784060759.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T20:28:41.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The next wave of emoji could help you evoke beauty and existential dread",
+      "link": "https://www.engadget.com/2215190/the-next-wave-of-emoji-could-help-you-evoke-beauty-and-existential-dread/",
+      "summary": "Who has two thumbs and is broken inside?",
+      "publishedAt": "2026-07-14T20:15:13.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-next-wave-of-emoji-could-help-you-evoke-beauty-and-existential-dread/l-intro-1784059933.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T20:15:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
+      "link": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+      "summary": "Article URL: https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987\nComments URL: https://news.ycombinator.com/item?id=48912100\nPoints: 21\n# Comments: 2",
+      "publishedAt": "2026-07-14T19:48:36.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T19:48:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners e…",
+      "publishedAt": "2026-07-14T19:42:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T19:42:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s newest ad is creeping people out",
+      "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Ant…",
+      "publishedAt": "2026-07-14T19:41:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T19:41:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+      "publishedAt": "2026-07-14T19:39:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T19:39:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: A Free RSS reader with a configurable recommendation engine",
+      "link": "https://sprinklz.io/feed/home",
+      "summary": "Article URL: https://sprinklz.io/feed/home\nComments URL: https://news.ycombinator.com/item?id=48911998\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-07-14T19:39:28.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T19:39:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that…",
+      "publishedAt": "2026-07-14T19:25:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T19:25:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "PlayStation FlexStrike wireless fight stick delayed without a firm release date",
@@ -69,9 +157,20 @@
     },
     {
       "source": "Hacker News",
-      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "summary": "Article URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left\nComments URL: https://news.ycombinator.com/item?id=48910676\nPoints: 77\n# Com…",
+      "publishedAt": "2026-07-14T17:58:35.000Z",
+      "image": "https://cdn.prod.website-files.com/673f0725df990f6c96bf18ea/6a562c4ba76323b509a1de8d_cursor-zero-hero.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T17:58:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
       "link": "https://prismml.com/news/bonsai-27b",
-      "summary": "Article URL: https://prismml.com/news/bonsai-27b\nComments URL: https://news.ycombinator.com/item?id=48910545\nPoints: 53\n# Comments: 11",
+      "summary": "Article URL: https://prismml.com/news/bonsai-27b\nComments URL: https://news.ycombinator.com/item?id=48910545\nPoints: 192\n# Comments: 56",
       "publishedAt": "2026-07-14T17:50:48.000Z",
       "image": null,
       "sourceCount": 1,
@@ -170,23 +269,12 @@
       "source": "Hacker News",
       "title": "The Tower Keeps Rising",
       "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\nComments URL: https://news.ycombinator.com/item?id=48909785\nPoints: 129\n# Comments: 44",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\nComments URL: https://news.ycombinator.com/item?id=48909785\nPoints: 221\n# Comments: 100",
       "publishedAt": "2026-07-14T16:57:54.000Z",
       "image": "https://lucumr.pocoo.org/social/2026-07-13-the-tower-keeps-rising-social.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T16:57:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
-      "link": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-      "summary": "Article URL: https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html\nComments URL: https://news.ycombinator.com/item?id=48909768\nPoi…",
-      "publishedAt": "2026-07-14T16:56:48.000Z",
-      "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/6/1/8/2/shutterstock_1488283535-6facec649168f734.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T16:56:48.000Z"
     },
     {
       "source": "The Verge",
@@ -247,7 +335,7 @@
       "source": "Hacker News",
       "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
       "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "summary": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/\nComments URL: https://news.ycombinator.com/item?id=48909424\nPoints: 222\n# Comments…",
+      "summary": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/\nComments URL: https://news.ycombinator.com/item?id=48909424\nPoints: 302\n# Comments…",
       "publishedAt": "2026-07-14T16:36:06.000Z",
       "image": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/index.png",
       "sourceCount": 1,
@@ -284,17 +372,6 @@
       "latestActivity": "2026-07-14T16:22:15.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The OLED Xbox Ally X20 is so good, Asus will sell it solo",
-      "link": "https://www.theverge.com/games/965123/asus-rog-xbox-ally-x20-oled-preview",
-      "summary": "The Ally X20 (front) and Lenovo Legion Go 2 (behind).\t\n\nWhen I first told you about the \"OLED Xbox Ally X of my dreams,\" I had to curb my enthusiasm a bit. That's partly because I…",
-      "publishedAt": "2026-07-14T16:09:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-ally-x20-sean-hollister-1-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T16:09:09.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
       "link": "https://agnost.ai",
@@ -328,88 +405,15 @@
       "latestActivity": "2026-07-14T16:04:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "publishedAt": "2026-07-14T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/New-Google-Images-1.png?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T16:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Leaked Google Pixel Watch 5 images show four different color options",
-      "link": "https://www.engadget.com/2214745/leaked-google-pixel-watch-5-images-show-four-different-color-options/",
-      "summary": "Google is expected to officially reveal the Pixel Watch 5 on August 12.",
-      "publishedAt": "2026-07-14T15:46:53.000Z",
-      "image": "https://www.engadget.com/img/gallery/leaked-google-pixel-watch-5-images-show-four-different-color-options/l-intro-1784043910.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T15:46:53.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "If you're still on a single monitor, this is the best workflow upgrade you can make",
-      "link": "https://www.engadget.com/2210891/why-dual-smaller-monitors-beat-27-inch-displays-for-home-offices/",
-      "summary": "This simple, and sometimes free, change will enhance both your productivity and entertainment.",
-      "publishedAt": "2026-07-14T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/if-youre-still-on-a-single-monitor-this-is-the-best-workflow-upgrade-you-can-make/l-intro-1783537654.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T15:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Opening lines of famous literary works",
-      "link": "https://www.verbaprima.com/",
-      "summary": "This came from an idea that had been knocking around in my head for several years. I had been collecting opening lines of famous works and thought it would be cool to see one every…",
-      "publishedAt": "2026-07-14T15:24:49.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T15:24:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Are we offloading too much of our thinking to AI?",
-      "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai\nComments URL: https://news.ycombinator.com/item?id=48908178\nPoints: 243\n# Comments: 228",
-      "publishedAt": "2026-07-14T15:18:13.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T15:18:13.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "New York bans data center construction for a year, rattling AI industry",
       "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
       "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
       "publishedAt": "2026-07-14T15:06:28.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "New York State halts construction of all new data centers",
-          "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-          "publishedAt": "2026-07-14T15:17:59.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-14T15:17:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
-      "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
-      "summary": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
-      "publishedAt": "2026-07-14T15:14:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/crowne-plaza-bahrain-iran-war.jpg?resize=1200,800",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-14T15:14:40.000Z"
+      "latestActivity": "2026-07-14T15:06:28.000Z"
     },
     {
       "source": "Wired",
