@@ -1,6 +1,174 @@
 {
-  "syncedAt": "2026-07-14T13:49:48.979Z",
+  "syncedAt": "2026-07-14T15:24:53.961Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed…",
+      "publishedAt": "2026-07-14T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 5,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "New York enacts first US ban on data center construction",
+          "link": "https://www.engadget.com/2214456/new-york-kathy-hochul-data-center-ban/",
+          "publishedAt": "2026-07-14T10:47:51.000Z"
+        },
+        {
+          "source": "Hacker News",
+          "title": "New York becomes the first state to impose a data center moratorium",
+          "link": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
+          "publishedAt": "2026-07-14T14:17:54.000Z"
+        },
+        {
+          "source": "Wired",
+          "title": "New York Governor Signs First Statewide Data Center Moratorium",
+          "link": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
+          "publishedAt": "2026-07-14T14:54:41.000Z"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "New York State halts construction of all new data centers",
+          "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+          "publishedAt": "2026-07-14T15:17:59.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-14T15:17:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Iran abused mobile networks’ vulnerabilities to locate U.S. military in the Middle East, report says",
+      "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "summary": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+      "publishedAt": "2026-07-14T15:14:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/crowne-plaza-bahrain-iran-war.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T15:14:40.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Taco Bell eyed in explosive diarrheal outbreak; leafy greens suspected",
+      "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+      "summary": "Health officials have not confirmed a source yet—and there may be multiple sources.",
+      "publishedAt": "2026-07-14T14:49:02.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:49:02.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
+      "link": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "summary": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
+      "publishedAt": "2026-07-14T14:45:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/ringconn-3.webp?resize=1200,897",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:45:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "publishedAt": "2026-07-14T14:37:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/cash-in-mattress-e1685738668559.jpg?resize=1200,701",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:37:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The real AI race may no longer be at the frontier",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends…",
+      "publishedAt": "2026-07-14T14:24:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:24:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Agnes Callard’s theory of the uni-context",
+      "link": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
+      "summary": "Article URL: https://www.derekthompson.org/p/a-philosophers-one-word-theory-to\nComments URL: https://news.ycombinator.com/item?id=48907290\nPoints: 29\n# Comments: 22",
+      "publishedAt": "2026-07-14T14:17:39.000Z",
+      "image": "https://images.unsplash.com/photo-1759298928528-68604ad099f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGRpcmVjdGlvbnxlbnwwfHx8fDE3ODM5NDY0NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:17:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
+      "link": "https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/",
+      "summary": "Article URL: https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/\nComments URL: https://news.ycombina…",
+      "publishedAt": "2026-07-14T14:12:39.000Z",
+      "image": "https://www.yubico.com/wp-content/uploads/2026/07/OAI-TAC-release-image.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:12:39.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Telegram’s shortlink domain is back online after day-long suspension",
+      "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "summary": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
+      "publishedAt": "2026-07-14T14:10:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/01/telegram-flames-draft.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:10:13.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "publishedAt": "2026-07-14T14:06:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?resize=1200,489",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:06:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sam Altman didn’t need another lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the hig…",
+      "publishedAt": "2026-07-14T14:01:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:01:07.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "publishedAt": "2026-07-14T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Superhuman-Auto-Drafts-2.jpeg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Pixel Watch 5 leak shows off four different finishes",
+      "link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes",
+      "summary": "A leak showing the Pixel Watch 5 with a “Warm Gold” case. | Image: OnLeaks via The Tide Chart\t\n\nA new leak may have just spoiled the Pixel Watch 5 and its finishes ahead of Google'…",
+      "publishedAt": "2026-07-14T13:39:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/coral-pixel-watch-5.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T13:39:36.000Z"
+    },
     {
       "source": "Engadget",
       "title": "What's the difference between active noise canceling and passive?",
@@ -13,15 +181,37 @@
       "latestActivity": "2026-07-14T13:30:00.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
+      "link": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
+      "summary": "New research overturns assumption that abstinent younger drinkers are behind weak demand.",
+      "publishedAt": "2026-07-14T13:19:16.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-609621216-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T13:19:16.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "Serena Williams Fit-Dex",
       "link": "https://serena-williams-fitdex.netlify.app/",
-      "summary": "Article URL: https://serena-williams-fitdex.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=48906339\nPoints: 3\n# Comments: 0",
+      "summary": "Article URL: https://serena-williams-fitdex.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=48906339\nPoints: 4\n# Comments: 0",
       "publishedAt": "2026-07-14T13:12:55.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T13:12:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "EverQuest’s biggest fans are leading its revival",
+      "link": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+      "summary": "Lord Nagafen stares down a Froglok. | Image: Daybreak Game Company\t\n\nLive-service games and the companies that run them are in big trouble. Games and their developers are getting s…",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-14T13:00:00.000Z"
     },
     {
       "source": "Engadget",
@@ -60,7 +250,7 @@
       "source": "Hacker News",
       "title": "Proof of Care in the Age of A.I",
       "link": "https://jacobfilipp.com/care/",
-      "summary": "Article URL: https://jacobfilipp.com/care/\nComments URL: https://news.ycombinator.com/item?id=48906125\nPoints: 16\n# Comments: 5",
+      "summary": "Article URL: https://jacobfilipp.com/care/\nComments URL: https://news.ycombinator.com/item?id=48906125\nPoints: 104\n# Comments: 60",
       "publishedAt": "2026-07-14T12:56:25.000Z",
       "image": null,
       "sourceCount": 1,
@@ -71,7 +261,7 @@
       "source": "Hacker News",
       "title": "Tensor Is the Might",
       "link": "https://zserge.com/posts/tensor/",
-      "summary": "Article URL: https://zserge.com/posts/tensor/\nComments URL: https://news.ycombinator.com/item?id=48906123\nPoints: 10\n# Comments: 1",
+      "summary": "Article URL: https://zserge.com/posts/tensor/\nComments URL: https://news.ycombinator.com/item?id=48906123\nPoints: 27\n# Comments: 11",
       "publishedAt": "2026-07-14T12:56:21.000Z",
       "image": "https://zserge.com/logo.png",
       "sourceCount": 1,
@@ -82,9 +272,9 @@
       "source": "Hacker News",
       "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
       "link": "https://github.com/Danau5tin/ai-trains-ai",
-      "summary": "Article URL: https://github.com/Danau5tin/ai-trains-ai\nComments URL: https://news.ycombinator.com/item?id=48905919\nPoints: 24\n# Comments: 4",
+      "summary": "Article URL: https://github.com/Danau5tin/ai-trains-ai\nComments URL: https://news.ycombinator.com/item?id=48905919\nPoints: 42\n# Comments: 18",
       "publishedAt": "2026-07-14T12:41:25.000Z",
-      "image": "https://opengraph.githubassets.com/2992eb2fd71ac492d0d7cee44045e8fe791ba827d808b427c22adf044d37735a/Danau5tin/ai-trains-ai",
+      "image": "https://opengraph.githubassets.com/81b47b3353e9baa9bb8d4c41ec50bbd7e3775df8149b719a7a2ddeac257489e8/Danau5tin/ai-trains-ai",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T12:41:25.000Z"
@@ -93,34 +283,12 @@
       "source": "Hacker News",
       "title": "Beautiful Type Erasure with C++26 Reflection",
       "link": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "summary": "Article URL: https://ryanjk5.github.io/posts/rjk-duck/\nComments URL: https://news.ycombinator.com/item?id=48905914\nPoints: 26\n# Comments: 7",
+      "summary": "Article URL: https://ryanjk5.github.io/posts/rjk-duck/\nComments URL: https://news.ycombinator.com/item?id=48905914\nPoints: 53\n# Comments: 21",
       "publishedAt": "2026-07-14T12:40:50.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T12:40:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Coding agents think ahead of time",
-      "link": "https://arxiv.org/abs/2607.05188",
-      "summary": "Article URL: https://arxiv.org/abs/2607.05188\nComments URL: https://news.ycombinator.com/item?id=48905764\nPoints: 27\n# Comments: 18",
-      "publishedAt": "2026-07-14T12:28:09.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T12:28:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Differentiable Fortran with LFortran and Enzyme",
-      "link": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-      "summary": "Article URL: https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html\nComments URL: https://news.ycombinator.com/item?id=48905667\nPo…",
-      "publishedAt": "2026-07-14T12:21:46.000Z",
-      "image": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/_images/social_previews/summary_blog_2026-07-09-enzyme-lfortran-autodiff_c24bbe55.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T12:21:46.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -143,17 +311,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Germany set to restrict its Freedom of Information Act",
-      "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-      "summary": "Article URL: https://www.dw.com/en/germany-freedom-of-information-act/a-77939695\nComments URL: https://news.ycombinator.com/item?id=48905290\nPoints: 91\n# Comments: 44",
-      "publishedAt": "2026-07-14T11:49:48.000Z",
-      "image": "https://static.dw.com/image/73463979_6.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T11:49:48.000Z"
     },
     {
       "source": "The Verge",
@@ -233,24 +390,6 @@
       "latestActivity": "2026-07-14T11:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed…",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "New York enacts first US ban on data center construction",
-          "link": "https://www.engadget.com/2214456/new-york-kathy-hochul-data-center-ban/",
-          "publishedAt": "2026-07-14T10:47:51.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-14T10:47:51.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "X's algorithm will finally prioritize replies from people you already follow",
       "link": "https://www.engadget.com/2214455/x-will-prioritize-replies-from-people-you-follow/",
@@ -295,28 +434,6 @@
       "latestActivity": "2026-07-14T09:39:32.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Sotheby’s Big T. Rex Auction Raises Concerns Hype and Wealth Are Upending Science",
-      "link": "https://www.wired.com/story/sothebys-t-rex-auction-shows-wealth-upending-science/",
-      "summary": "Private buyers are increasingly outbidding museums for fossils. That’s making it difficult—or even impossible—for researchers to improve our understanding of the past.",
-      "publishedAt": "2026-07-14T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a5537abf7a848ae317734b8/191:100/w_1280,c_limit/Gus-TRex-Science-Photo-credit_-Matthew-Sherman-(3).jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T09:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Pinwheel launches a retro-inspired landline phone for kids",
-      "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
-      "summary": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pinwheel-Home_Classic_White-w-Stickers-on-Table.png?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T09:00:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Hisense's E Ink phone has a full-color LCD you can snap on the back",
       "link": "https://www.engadget.com/2214427/hisense-a10-e-ink-phone-full-color-lcd-detachable/",
@@ -350,17 +467,6 @@
       "latestActivity": "2026-07-14T08:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lo…",
-      "publishedAt": "2026-07-14T02:46:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T02:46:42.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
       "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
@@ -370,50 +476,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T01:17:14.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs…",
-      "publishedAt": "2026-07-14T00:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T00:45:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T00:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
-      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
-      "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
-      "publishedAt": "2026-07-13T23:58:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1782806946.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T23:58:27.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-      "publishedAt": "2026-07-13T23:31:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T23:31:18.000Z"
     },
     {
       "source": "Engadget",
@@ -449,28 +511,6 @@
       "latestActivity": "2026-07-13T21:53:20.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "OnePlus is reportedly bailing on the US",
-      "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-      "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a Wi…",
-      "publishedAt": "2026-07-13T21:48:43.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T21:48:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
-      "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
-      "summary": "The full DJI Mic 3 kit in its charging case.\t\n\nSmartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking,…",
-      "publishedAt": "2026-07-13T21:03:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/DJI-Mic-3-charging-case.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T21:03:14.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "The US government warns that Russia state hackers are coming after your router",
       "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
@@ -482,28 +522,6 @@
       "latestActivity": "2026-07-13T21:03:07.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs tha…",
-      "publishedAt": "2026-07-13T20:59:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:59:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
-      "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
-      "summary": "The Shokz OpenRun Pro are great for outdoor workouts. | Image: Shokz\t\n\nNoise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts…",
-      "publishedAt": "2026-07-13T20:57:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Shokz_OpenRun_Headphones_Lifestyle_Press_Image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:57:44.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
       "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
@@ -513,17 +531,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T20:41:26.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for…",
-      "publishedAt": "2026-07-13T20:00:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/apple-ghost-logo.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T20:00:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -546,28 +553,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T19:17:51.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
-      "link": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
-      "summary": "New study confirms 2024 \"momentum flux theory\" on how angular momentum of water flows drives rotation.",
-      "publishedAt": "2026-07-13T19:00:47.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/sprinklerTOP-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T19:00:47.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
-      "link": "https://arstechnica.com/tech-policy/2026/07/states-sue-to-block-paramount-wbd-merger-that-was-approved-by-trump-admin/",
-      "summary": "AG: Deal will bring \"higher prices, lower quality, and less content for film and TV.\"",
-      "publishedAt": "2026-07-13T18:34:35.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T18:34:35.000Z"
     },
     {
       "source": "MIT Technology Review",
