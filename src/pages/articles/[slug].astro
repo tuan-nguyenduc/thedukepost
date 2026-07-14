@@ -32,6 +32,10 @@ const shareUrls = getShareUrls({
 const allArticles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
+const currentIndex = allArticles.findIndex((a) => a.id === article.id);
+const newerArticle = currentIndex > 0 ? allArticles[currentIndex - 1] : null;
+const olderArticle = currentIndex < allArticles.length - 1 ? allArticles[currentIndex + 1] : null;
+
 const articleTagSlugs = article.data.tags.map(tagSlug);
 
 const relatedArticles = allArticles
@@ -97,6 +101,23 @@ const articleJsonLd = {
       </div>
     </div>
 
+    {(newerArticle || olderArticle) && (
+      <nav class="article-pager" aria-label="Article navigation">
+        {newerArticle ? (
+          <a href={`/articles/${newerArticle.slug}`} class="article-pager__link article-pager__link--newer">
+            <span class="article-pager__dir">← Newer</span>
+            <span class="article-pager__title">{newerArticle.data.title}</span>
+          </a>
+        ) : <span />}
+        {olderArticle ? (
+          <a href={`/articles/${olderArticle.slug}`} class="article-pager__link article-pager__link--older">
+            <span class="article-pager__dir">Older →</span>
+            <span class="article-pager__title">{olderArticle.data.title}</span>
+          </a>
+        ) : <span />}
+      </nav>
+    )}
+
     <Comments />
 
     <section class="article-newsletter">
@@ -153,6 +174,41 @@ const articleJsonLd = {
   .content :global(a:hover) { border-color: var(--accent); }
   .content :global(ol),
   .content :global(ul) { padding-left: 22px; margin: 0 0 20px; }
+
+  .article-pager {
+    margin-top: 48px;
+    padding-top: 28px;
+    border-top: 2px solid var(--paper-line);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .article-pager__link {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 18px;
+    border: 2px solid var(--ink);
+    border-radius: 12px;
+    min-width: 0;
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  .article-pager__link:hover { background: var(--ink); color: var(--paper); transform: rotate(-1deg); }
+  .article-pager__link--older { text-align: right; align-items: flex-end; grid-column: 2; }
+  .article-pager__dir {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--slate);
+  }
+  .article-pager__link:hover .article-pager__dir { color: inherit; opacity: 0.75; }
+  .article-pager__title { font-size: 16px; font-weight: 600; overflow-wrap: anywhere; }
+
+  @media (max-width: 560px) {
+    .article-pager { grid-template-columns: 1fr; }
+    .article-pager__link--older { grid-column: 1; text-align: left; align-items: flex-start; }
+  }
 
   .share { margin-top: 48px; padding-top: 28px; border-top: 2px solid var(--paper-line); }
   .share__label { font-size: 13px; font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 0.03em; color: var(--slate); margin: 0 0 14px; }
