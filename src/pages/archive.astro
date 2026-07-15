@@ -1,0 +1,170 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { categoryHref, categoryLabel } from '../lib/categories';
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const MONTH_NAMES = [
+  'January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December',
+];
+
+type MonthGroup = { month: number; monthLabel: string; articles: typeof articles };
+type YearGroup = { year: number; count: number; months: MonthGroup[] };
+
+const years: YearGroup[] = [];
+for (const article of articles) {
+  const year = article.data.pubDate.getFullYear();
+  const month = article.data.pubDate.getMonth();
+
+  let yearGroup = years.find((y) => y.year === year);
+  if (!yearGroup) {
+    yearGroup = { year, count: 0, months: [] };
+    years.push(yearGroup);
+  }
+  yearGroup.count += 1;
+
+  let monthGroup = yearGroup.months.find((m) => m.month === month);
+  if (!monthGroup) {
+    monthGroup = { month, monthLabel: MONTH_NAMES[month], articles: [] };
+    yearGroup.months.push(monthGroup);
+  }
+  monthGroup.articles.push(article);
+}
+---
+<BaseLayout
+  title="Archive — The Duke Post"
+  description="Browse every original article from The Duke Post by year and month."
+>
+  <section class="wrap page">
+    <p class="back"><a href="/articles">← All articles</a></p>
+    <h1>Archive</h1>
+    {years.length > 0 ? (
+      <>
+        {years.length > 1 && (
+          <nav class="jump" aria-label="Jump to year">
+            {years.map((y) => <a href={`#${y.year}`}>{y.year} <span class="jump__count">{y.count}</span></a>)}
+          </nav>
+        )}
+        {years.map((yearGroup) => (
+          <section class="year" id={String(yearGroup.year)}>
+            <h2 class="year__heading">{yearGroup.year} <span class="year__count">{yearGroup.count} article{yearGroup.count === 1 ? '' : 's'}</span></h2>
+            {yearGroup.months.map((monthGroup) => (
+              <div class="month">
+                <h3 class="month__heading">{monthGroup.monthLabel}</h3>
+                <ul class="entries">
+                  {monthGroup.articles.map((a) => (
+                    <li class="entry">
+                      <time class="entry__date" datetime={a.data.pubDate.toISOString()}>
+                        {a.data.pubDate.toLocaleDateString('en-US', { day: '2-digit' })}
+                      </time>
+                      <a href={`/articles/${a.slug}`} class="entry__title">{a.data.title}</a>
+                      <a href={categoryHref(a.data.category)} class="entry__category">{categoryLabel(a.data.category)}</a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </section>
+        ))}
+      </>
+    ) : (
+      <p class="empty">No articles published yet — check back soon.</p>
+    )}
+  </section>
+</BaseLayout>
+
+<style>
+  .page { padding: 48px 24px 80px; }
+  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
+  .back a { color: var(--slate); }
+  .back a:hover { color: var(--ink); }
+  h1 { font-size: 36px; margin-bottom: 28px; }
+  .empty { color: var(--slate); font-size: 17px; }
+
+  .jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 40px;
+  }
+  .jump a {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 8px 16px;
+    border: 2px solid var(--ink);
+    border-radius: 999px;
+    color: var(--ink);
+    transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }
+  .jump a:hover { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); transform: rotate(-1deg); }
+  .jump__count { color: var(--slate); }
+  .jump a:hover .jump__count { color: inherit; opacity: 0.75; }
+
+  .year { margin-bottom: 48px; scroll-margin-top: 24px; }
+  .year__heading {
+    font-size: 26px;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid var(--paper-line);
+  }
+  .year__count { font-family: var(--font-mono); font-size: 13px; color: var(--slate); font-weight: normal; }
+
+  .month { margin-bottom: 24px; }
+  .month:last-child { margin-bottom: 0; }
+  .month__heading {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--slate);
+    margin: 0 0 12px;
+  }
+
+  .entries { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+  .entry {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 10px 4px;
+    border-radius: 8px;
+    transition: background 0.15s ease;
+  }
+  .entry:hover { background: var(--paper-line); }
+  .entry__date {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--slate);
+    flex-shrink: 0;
+    width: 24px;
+  }
+  .entry__title {
+    flex: 1;
+    min-width: 0;
+    font-size: 16px;
+    color: var(--ink);
+    overflow-wrap: anywhere;
+  }
+  .entry__title:hover { color: var(--accent); }
+  .entry__category {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color: var(--slate);
+    flex-shrink: 0;
+  }
+  .entry__category:hover { color: var(--ink); }
+
+  @media (max-width: 560px) {
+    .entry { flex-wrap: wrap; }
+    .entry__category { width: 100%; padding-left: 40px; }
+  }
+</style>
