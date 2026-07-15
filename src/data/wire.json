@@ -1,6 +1,224 @@
 {
-  "syncedAt": "2026-07-15T21:02:52.945Z",
+  "syncedAt": "2026-07-15T22:59:38.886Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+      "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+      "summary": "HP’s convertible OmniBook has a great feature set for the price. | Image: HP\t\n\nWith storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal…",
+      "publishedAt": "2026-07-15T22:47:11.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/HP_Omnibook_X_Flip_14_lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T22:47:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "SQLite should have (Rust-style) editions",
+      "link": "https://mort.coffee/home/sqlite-editions/",
+      "summary": "Article URL: https://mort.coffee/home/sqlite-editions/\nComments URL: https://news.ycombinator.com/item?id=48928135\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-07-15T22:42:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T22:42:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing…",
+      "publishedAt": "2026-07-15T22:39:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T22:39:40.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying mo…",
+      "publishedAt": "2026-07-15T22:24:17.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/6620b35dd75cc138cb57cf72a9773f07/VentureBeat-Research-1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T22:24:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "P2P local file transfer based on WebRTC",
+      "link": "https://pairdrop.net/",
+      "summary": "Article URL: https://pairdrop.net/\nComments URL: https://news.ycombinator.com/item?id=48927900\nPoints: 4\n# Comments: 3",
+      "publishedAt": "2026-07-15T22:22:08.000Z",
+      "image": "images/logo_transparent_512x512.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T22:22:08.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Valve appears to be discontinuing self-repair parts for the LCD Steam Deck at iFixit",
+      "link": "https://www.engadget.com/2215785/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck/",
+      "summary": "An iFixit staffer told a Steam Deck user that the company had no plans to stock replacement OEM batteries.",
+      "publishedAt": "2026-07-15T16:25:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck/l-intro-1784155918.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+          "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+          "publishedAt": "2026-07-15T22:16:46.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-15T22:16:46.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+      "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
+      "summary": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
+      "publishedAt": "2026-07-15T21:49:01.000Z",
+      "image": "https://media.wired.com/photos/6a1fe7c1687fab906bddd9be/191:100/w_1280,c_limit/WIRED-WC26-Cristian-Mera-How-To-Watch.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:49:01.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Sheetz moves 838 stores off VMware: Broadcom created “too much uncertainty\"",
+      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+      "summary": "The conveneince store chain will use StorMagic instead.",
+      "publishedAt": "2026-07-15T21:41:56.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:41:56.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Elon Musk bought a gas turbine company",
+      "link": "https://www.engadget.com/2216186/elon-musk-bought-a-gas-turbine-company/",
+      "summary": "It's likely to become a direct power source for SpaceXAI's data centers.",
+      "publishedAt": "2026-07-15T21:41:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/elon-musk-bought-a-gas-turbine-company/l-intro-1784151303.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:41:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+      "link": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf\nComments URL: https://news.ycombinator.com/item?id=48927409\nPoints: 33\n# Comment…",
+      "publishedAt": "2026-07-15T21:39:21.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:39:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We don't use AI in any of our design or production processes",
+      "link": "https://mass-driver.com/article/from-human-hands",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands\nComments URL: https://news.ycombinator.com/item?id=48927373\nPoints: 49\n# Comments: 26",
+      "publishedAt": "2026-07-15T21:36:49.000Z",
+      "image": "https://cdn.fontdue.com/mass-driver/images/2318642923412919528/article-header.jpg?v=63950590976",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:36:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier…",
+      "publishedAt": "2026-07-15T21:33:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:33:20.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "publishedAt": "2026-07-15T18:04:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Wired",
+          "title": "Thinking Machines Lab Drops Its First Model",
+          "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+          "publishedAt": "2026-07-15T18:05:00.000Z"
+        },
+        {
+          "source": "VentureBeat",
+          "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
+          "link": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
+          "publishedAt": "2026-07-15T21:33:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-15T21:33:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+      "link": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
+      "summary": "Federal Communications Commission | Image: Kristen Radtke / The Verge\t\n\nThe Federal Communications Commission will vote next month on whether a single company can own broadcast sta…",
+      "publishedAt": "2026-07-15T21:30:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/FCC-stock-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:30:17.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Judge: Trump can’t deport researchers just for working in content moderation",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
+      "summary": "Disinformation researchers praise ruling blocking Trump visa denials and deportations.",
+      "publishedAt": "2026-07-15T21:26:02.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2201944209-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:26:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\nComments URL: https://news.ycombinator.com/item?id=48927095\nPoints:…",
+      "publishedAt": "2026-07-15T21:16:36.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:16:36.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+      "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+      "summary": "Yes, it was, in fact, a Unix system.",
+      "publishedAt": "2026-07-15T21:04:22.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:04:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Firefox in WebAssembly",
+      "link": "https://developer.puter.com/labs/firefox-wasm/",
+      "summary": "This is the entire Firefox browser rendering to a  element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly.\nHere are a few thi…",
+      "publishedAt": "2026-07-15T21:00:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T21:00:17.000Z"
+    },
     {
       "source": "Wired",
       "title": "Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion",
@@ -22,6 +240,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T20:58:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok Build",
+      "link": "https://github.com/xai-org/grok-build",
+      "summary": "Article URL: https://github.com/xai-org/grok-build\nComments URL: https://news.ycombinator.com/item?id=48926590\nPoints: 155\n# Comments: 174",
+      "publishedAt": "2026-07-15T20:24:58.000Z",
+      "image": "https://avatars.githubusercontent.com/u/130314967?s=400&v=4",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T20:24:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -79,6 +308,17 @@
       "latestActivity": "2026-07-15T20:00:00.000Z"
     },
     {
+      "source": "VentureBeat",
+      "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026",
+      "link": "https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
+      "summary": "The enterprise AI industry has a math problem. Cisco data shows 85% of enterprises are piloting AI agents, but only 5% have shipped them to production. At VB Transform 2026 on Tues…",
+      "publishedAt": "2026-07-15T20:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1qQSIh0WBVnKtdPW7TIhDe/fb77ed50f8c04c67e0085f8771eff51c/VBTS6861.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-15T20:00:00.000Z"
+    },
+    {
       "source": "Ars Technica",
       "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
       "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
@@ -104,7 +344,7 @@
       "source": "Hacker News",
       "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
       "link": "https://brainless.swerdlow.dev",
-      "summary": "Article URL: https://brainless.swerdlow.dev\nComments URL: https://news.ycombinator.com/item?id=48926085\nPoints: 11\n# Comments: 2",
+      "summary": "Article URL: https://brainless.swerdlow.dev\nComments URL: https://news.ycombinator.com/item?id=48926085\nPoints: 63\n# Comments: 9",
       "publishedAt": "2026-07-15T19:42:53.000Z",
       "image": "https://brainless.swerdlow.dev/opengraph-image?234ed435f7768d62",
       "sourceCount": 1,
@@ -128,28 +368,6 @@
         }
       ],
       "latestActivity": "2026-07-15T19:41:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Voxatron",
-      "link": "https://www.lexaloffle.com/voxatron.php",
-      "summary": "Article URL: https://www.lexaloffle.com/voxatron.php\nComments URL: https://news.ycombinator.com/item?id=48926053\nPoints: 16\n# Comments: 7",
-      "publishedAt": "2026-07-15T19:40:23.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T19:40:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Duskers, the scary command line game, is getting a sequel",
-      "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-      "summary": "Article URL: https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20\nComments URL: https://news.ycombinator.com/item?id=48925888\nPoints: 43\n# Comments: 5",
-      "publishedAt": "2026-07-15T19:27:59.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T19:27:59.000Z"
     },
     {
       "source": "Ars Technica",
@@ -229,17 +447,6 @@
       "latestActivity": "2026-07-15T18:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Something&#8217;s glowing on the Pixel 11&#8217;s camera bar",
-      "link": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
-      "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google.\nGoogle's store page f…",
-      "publishedAt": "2026-07-15T18:24:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T18:24:22.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Apple bans home services from its upcoming Maps ads",
       "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
@@ -260,30 +467,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T18:21:02.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "publishedAt": "2026-07-15T18:04:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "Wired",
-          "title": "Thinking Machines Lab Drops Its First Model",
-          "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-          "publishedAt": "2026-07-15T18:05:00.000Z"
-        },
-        {
-          "source": "Hacker News",
-          "title": "Inkling: Our Open-Weights Model",
-          "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-          "publishedAt": "2026-07-15T18:12:45.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-15T18:12:45.000Z"
     },
     {
       "source": "TechCrunch",
@@ -319,28 +502,6 @@
       "latestActivity": "2026-07-15T17:53:32.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "summary": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident has exposed that the AI music generator…",
-      "publishedAt": "2026-07-15T17:48:01.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T17:48:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
-      "link": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
-      "summary": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling i…",
-      "publishedAt": "2026-07-15T17:17:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25703429/2042530165.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T17:17:56.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
@@ -363,17 +524,6 @@
       "latestActivity": "2026-07-15T17:03:22.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Artie (YC S23) Is Hiring Software Engineers",
-      "link": "https://jobs.ashbyhq.com/artie",
-      "summary": "Article URL: https://jobs.ashbyhq.com/artie\nComments URL: https://news.ycombinator.com/item?id=48923833\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-07-15T17:01:02.000Z",
-      "image": "https://app.ashbyhq.com/api/images/org-theme-logo/7a79f991-1016-45e2-b484-7db5794bea7e/1d23f391-33ca-4159-9d94-dee23befecd7/d9b08f72-709f-45b4-abe6-4896bd9fd4d1.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T17:01:02.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
       "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
@@ -385,39 +535,6 @@
       "latestActivity": "2026-07-15T16:55:12.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
-      "link": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix",
-      "summary": "Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story,…",
-      "publishedAt": "2026-07-15T16:37:08.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.03.25-AM-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T16:37:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A General Goal-Conditioned Minecraft Model",
-      "link": "https://pantograph.com/journal/pan-1",
-      "summary": "Article URL: https://pantograph.com/journal/pan-1\nComments URL: https://news.ycombinator.com/item?id=48923412\nPoints: 33\n# Comments: 11",
-      "publishedAt": "2026-07-15T16:35:09.000Z",
-      "image": "https://pantograph.com/images/journal/pan-1-social-preview.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T16:35:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Collection of Digital Clock Designs",
-      "link": "https://clocks.dev",
-      "summary": "Article URL: https://clocks.dev\nComments URL: https://news.ycombinator.com/item?id=48923380\nPoints: 104\n# Comments: 30",
-      "publishedAt": "2026-07-15T16:33:15.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T16:33:15.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Lionel Messi’s Final World Cup—and the Death of Early Retirement",
       "link": "https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/",
@@ -427,50 +544,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T16:28:43.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Valve appears to be discontinuing self-repair parts for the LCD Steam Deck at iFixit",
-      "link": "https://www.engadget.com/2215785/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck/",
-      "summary": "An iFixit staffer told a Steam Deck user that the company had no plans to stock replacement OEM batteries.",
-      "publishedAt": "2026-07-15T16:25:29.000Z",
-      "image": "https://www.engadget.com/img/gallery/valve-appears-to-be-discontinuing-self-repair-parts-for-the-lcd-steam-deck-at-ifixit/l-intro-1784132672.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T16:25:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Open-source memory for coding agents, synced over SSH",
-      "link": "https://github.com/vshulcz/deja-vu/",
-      "summary": "Article URL: https://github.com/vshulcz/deja-vu/\nComments URL: https://news.ycombinator.com/item?id=48923111\nPoints: 82\n# Comments: 18",
-      "publishedAt": "2026-07-15T16:15:03.000Z",
-      "image": "https://opengraph.githubassets.com/61f112d9c463b2d28604c94c24787c1e3d48b0a2255f5cb1ed4b67a500f0dc02/vshulcz/deja-vu",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T16:15:03.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "A hacker accessed Suno source code that reportedly details how the company scraped millions of songs",
-      "link": "https://www.engadget.com/2215772/a-hacker-accessed-suno-source-code-that-reportedly-details-how-the-company-scraped-millions-of-songs/",
-      "summary": "Suno says it was breached in November and \"no sensitive personal information was compromised.\"",
-      "publishedAt": "2026-07-15T16:13:15.000Z",
-      "image": "https://www.engadget.com/img/gallery/a-hacker-accessed-suno-source-code-that-reportedly-details-how-the-company-scraped-millions-of-songs/l-intro-1784131934.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T16:13:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
-      "link": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
-      "summary": "Samsung gave a sneak peek of the \"brand new shape\" for its upcoming Galaxy Z Fold 8 in a new teaser for Spider-Man: Brand New Day. The video includes a few shots of Spidey taking a…",
-      "publishedAt": "2026-07-15T16:05:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.56.45-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T16:05:34.000Z"
     },
     {
       "source": "VentureBeat",
@@ -506,17 +579,6 @@
       "latestActivity": "2026-07-15T12:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "A most improbable astronaut just went to space",
-      "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
-      "summary": "\"I pretty much, at that point in time, gave up on being an astronaut.\"",
-      "publishedAt": "2026-07-15T11:30:07.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/NHQ20260713_admin_0003large-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T11:30:07.000Z"
-    },
-    {
       "source": "Wired",
       "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Air, Pro, Mini",
       "link": "https://www.wired.com/gallery/the-best-ipad/",
@@ -528,37 +590,15 @@
       "latestActivity": "2026-07-15T11:01:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "How hard is it to build orbital data centers, actually?",
-      "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
-      "summary": "\"The ISS radiators are expensive and heavy. We're focused on making them cheap and light.\"",
-      "publishedAt": "2026-07-15T11:00:09.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/space-datacenter-analysis-one-1152x648.jpg",
+      "source": "VentureBeat",
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+      "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+      "summary": "1Password on Tuesday launched AI Spend and Consumption Management, a new capability embedded in its SaaS Manager platform that gives IT and finance teams a unified, real-time view…",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4M6KLzYU9KVGs7NI46u54o/fd10b08fea94c61016c42479747bfa35/Nuneybits_Vector_art_of_budget_forecast_line_breaking_against_s_9804fce5-d862-409c-be36-2111b48bdd03.webp?w=300&q=30",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-15T11:00:09.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "MSI Claw 8 EX AI+ Review: Great Power, Shocking Price",
-      "link": "https://www.wired.com/review/msi-claw-8-ex-ai/",
-      "summary": "But with great power comes a great price.",
-      "publishedAt": "2026-07-15T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a560346a97dd358c78df6c6/191:100/w_1280,c_limit/MSI%20Claw%20Review.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T11:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
-      "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
-      "summary": "Private buyers are increasingly outbidding museums for fossils.",
-      "publishedAt": "2026-07-15T10:30:39.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Gus-TRex-Science-Photo-credit_-Matthew-Sherman-3-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T10:30:39.000Z"
+      "latestActivity": "2026-07-14T13:00:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -567,17 +607,6 @@
       "summary": "Canva on Tuesday launched Canva Code 2.0, a major upgrade to its AI-powered coding tool that lets users build interactive websites, apps, and experiences using plain-language promp…",
       "publishedAt": "2026-07-14T13:00:00.000Z",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T13:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
-      "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
-      "summary": "1Password on Tuesday launched AI Spend and Consumption Management, a new capability embedded in its SaaS Manager platform that gives IT and finance teams a unified, real-time view…",
-      "publishedAt": "2026-07-14T13:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4M6KLzYU9KVGs7NI46u54o/fd10b08fea94c61016c42479747bfa35/Nuneybits_Vector_art_of_budget_forecast_line_breaking_against_s_9804fce5-d862-409c-be36-2111b48bdd03.webp?w=300&q=30",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-14T13:00:00.000Z"
@@ -616,28 +645,6 @@
       "latestActivity": "2026-07-13T18:00:00.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
-      "link": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
-      "summary": "Model routing is becoming a key component of the enterprise AI stack, dynamically sending prompts to the right AI model to optimize speed and costs. However, current frameworks mos…",
-      "publishedAt": "2026-07-13T16:06:36.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2mh30Nqtt7uW4PBRmMyA01/117641a26656420dad770ac3b0e0eb14/model_routing.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T16:06:36.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
-      "link": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-      "summary": "Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant cybercr…",
-      "publishedAt": "2026-07-13T13:33:54.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/dIQcSeSRhbDxj2aciSnha/82de3e1c0e427d81134cbf5ff3516b5c/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_1.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T13:33:54.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a donor conception cap and world models for AI",
       "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
@@ -647,17 +654,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T12:10:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "The desktop infrastructure problem that Kubernetes finally solves",
-      "link": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
-      "summary": "Presented by Kasm Technologies\n\nEnterprise infrastructure teams have spent the better part of a decade pushing workloads into Kubernetes. Applications, APIs, batch jobs, data pipel…",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7JJlisjb2BGkLhYAqBYnld/d8e79d3ce1737ec2cfba1ed60f5f13e8/AdobeStock_677829840.jpeg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-13T07:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
