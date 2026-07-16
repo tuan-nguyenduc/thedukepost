@@ -98,6 +98,12 @@ const articleJsonLd = {
         <a href={shareUrls.email} class="share__button share__button--email" title="Share via email" aria-label="Share via email">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
         </a>
+        <button type="button" id="copy-link" class="share__button share__button--copy" data-url={articleUrl} title="Copy link" aria-label="Copy link">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.07 0l2.83-2.83a5 5 0 0 0-7.07-7.07l-1.42 1.42"/><path d="M14 11a5 5 0 0 0-7.07 0l-2.83 2.83a5 5 0 0 0 7.07 7.07l1.42-1.42"/></svg>
+        </button>
+        <button type="button" id="print-article" class="share__button share__button--print" title="Print article" aria-label="Print article">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><path d="M6 14h12v8H6z"/></svg>
+        </button>
       </div>
     </div>
 
@@ -124,6 +130,36 @@ const articleJsonLd = {
       <NewsletterForm className="article-newsletter__form" />
     </section>
   </article>
+
+  <script>
+    const copyBtn = document.getElementById('copy-link');
+    if (copyBtn) {
+      copyBtn.addEventListener('click', async () => {
+        const url = copyBtn.getAttribute('data-url') || window.location.href;
+        try {
+          await navigator.clipboard.writeText(url);
+        } catch {
+          const input = document.createElement('input');
+          input.value = url;
+          document.body.appendChild(input);
+          input.select();
+          document.execCommand('copy');
+          document.body.removeChild(input);
+        }
+        copyBtn.classList.add('share__button--copied');
+        copyBtn.setAttribute('aria-label', 'Link copied');
+        window.setTimeout(() => {
+          copyBtn.classList.remove('share__button--copied');
+          copyBtn.setAttribute('aria-label', 'Copy link');
+        }, 2000);
+      });
+    }
+
+    const printBtn = document.getElementById('print-article');
+    if (printBtn) {
+      printBtn.addEventListener('click', () => window.print());
+    }
+  </script>
 
   {relatedArticles.length > 0 && (
     <section class="wrap related">
@@ -234,6 +270,11 @@ const articleJsonLd = {
   .share__button--twitter:hover { background: #1DA1F2; border-color: #1DA1F2; color: white; }
   .share__button--linkedin:hover { background: #0A66C2; border-color: #0A66C2; color: white; }
   .share__button--email:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  .share__button--copy,
+  .share__button--print { cursor: pointer; }
+  .share__button--copy:hover,
+  .share__button--print:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  .share__button--copied { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
 
   .related { padding: 56px 24px 80px; max-width: 740px; }
   .related h2 { font-size: 24px; margin-bottom: 28px; }
@@ -254,5 +295,18 @@ const articleJsonLd = {
   @media (max-width: 560px) {
     .related__card { flex-direction: column; gap: 12px; }
     .related__image { width: 100%; height: 120px; }
+  }
+
+  @media print {
+    .share,
+    .article-newsletter,
+    .article-pager,
+    .related,
+    :global(.reading-progress),
+    :global(.toc),
+    :global(.comments) {
+      display: none !important;
+    }
+    .content :global(a) { color: inherit; border-bottom: none; }
   }
 </style>
