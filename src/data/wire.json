@@ -1,16 +1,136 @@
 {
-  "syncedAt": "2026-07-16T06:21:37.351Z",
+  "syncedAt": "2026-07-16T10:11:31.554Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "DJB Netstrings (1997)",
-      "link": "https://cr.yp.to/proto/netstrings.txt",
-      "summary": "Article URL: https://cr.yp.to/proto/netstrings.txt\nComments URL: https://news.ycombinator.com/item?id=48930713\nPoints: 4\n# Comments: 2",
-      "publishedAt": "2026-07-16T05:33:50.000Z",
-      "image": null,
+      "source": "Wired",
+      "title": "Please Stop Making Me Opt Out of AI",
+      "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
+      "publishedAt": "2026-07-16T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a581a134de2a00b6b98c804/191:100/w_1280,c_limit/Stop-Making-Me-Opt-Out-Gear.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-16T05:33:50.000Z"
+      "latestActivity": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Oversight Board says leading AI models might be restricting free expression",
+      "link": "https://www.engadget.com/2216274/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/",
+      "summary": "The group is trying to extend its influence beyond Meta.",
+      "publishedAt": "2026-07-16T10:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/l-intro-1784158214.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Why heat pumps are still so hot in the US",
+      "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk…",
+      "publishedAt": "2026-07-16T10:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/technician-installing-a-modern-air-conditioning-sy-2026-03-20-06-17-16-utc.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever",
+      "link": "https://www.wired.com/story/astronomers-found-sugar-molecule-in-deep-space/",
+      "summary": "Researchers identified traces of erythrulose, a monosaccharide, thousands of light-years away.",
+      "publishedAt": "2026-07-16T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a57c0134de2a00b6b98bb26/191:100/w_1280,c_limit/centro%20de%20la%20galaxia.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T09:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Netflix releases a VHS-quality version of Stranger Things' first season",
+      "link": "https://www.engadget.com/2216396/netflix-stranger-things-vhs-quality/",
+      "summary": "Netflix rolls out a 'VHS' special edition of Stranger Things season 1 and says more seasons could follow if enough people watch it.",
+      "publishedAt": "2026-07-16T09:19:06.000Z",
+      "image": "https://www.engadget.com/img/gallery/netflix-releases-a-vhs-quality-version-of-stranger-things-first-season/l-intro-1784193477.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T09:19:06.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe",
+      "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "summary": "OnePlus could also wind down its operations in India by 2027.",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OnePlus-15-e1784137477629.jpeg?w=960",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T09:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OnePlus officially gives up on the US and Europe",
+      "link": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+      "summary": "The OnePlus 15 was the company’s final US flagship. | Photo: Allison Johnson / The Verge\t\n\nOnePlus has confirmed what industry observers have long expected: it's quitting the US an…",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "OnePlus is officially leaving the US and Europe",
+          "link": "https://www.engadget.com/2213731/oneplus-is-officially-leaving-the-us-and-europe/",
+          "publishedAt": "2026-07-16T09:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-16T09:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "OnePlus, the ‘Flagship-Killer’ Smartphone Brand, Is All but Dead",
+      "link": "https://www.wired.com/story/oneplus-is-all-but-dead/",
+      "summary": "The original OnePlus phone disrupted the mobile market 13 years ago with its affordable price and top-end specs. Now, the company is exiting North America and Europe to focus on Ch…",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a5651e90289d3b8cc7ba689/191:100/w_1280,c_limit/OnePlus%20RIP.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T09:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier…",
+      "publishedAt": "2026-07-15T21:33:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "xAI sues Grok user for generating nonconsensual sexualized deepfakes",
+          "link": "https://www.engadget.com/2216382/xai-sues-grok-user-generating-nonconsensual-sexualized-deepfakes/",
+          "publishedAt": "2026-07-16T08:05:05.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-16T08:05:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing…",
+      "publishedAt": "2026-07-15T22:39:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "AppleCare+ prices just went up for Macs and iPads",
+          "link": "https://www.engadget.com/2216377/applecare-plus-prices-just-went-up-for-macs-and-ipads/",
+          "publishedAt": "2026-07-16T07:47:02.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-16T07:47:02.000Z"
     },
     {
       "source": "Wired",
@@ -68,50 +188,6 @@
       "latestActivity": "2026-07-16T05:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "25% Off Adidas Promo Code | July 2026",
-      "link": "https://www.wired.com/story/adidas-promo-code/",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "publishedAt": "2026-07-16T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for July",
-      "link": "https://www.wired.com/story/sony-promo-code/",
-      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "publishedAt": "2026-07-16T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/191:100/w_1280,c_limit/WIRED-Coupons-R2_9.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T05:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The lost joy of music piracy",
-      "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "summary": "Article URL: https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming\nComments URL: https://news.ycombinator.com/item?id=48930454\nPoints: 65\n# Comm…",
-      "publishedAt": "2026-07-16T04:46:21.000Z",
-      "image": "https://cdn.sanity.io/images/pu3h3rl5/production/61dfa8f019d1a62c96f4a72bfb734ede527e0c90-1920x1080.gif?rect=0,39,1920,1003&w=1200&h=627&fit=crop&auto=format",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T04:46:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
-      "summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html\nComments URL: https://news.ycombinator.com/item?id=48930363\nPoints: 30\n# Comments: 14",
-      "publishedAt": "2026-07-16T04:31:01.000Z",
-      "image": "http://www.frank.computer/images/default.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T04:31:01.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
       "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
@@ -132,61 +208,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-16T04:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "My Throw Decides My Aim",
-      "link": "https://thegustafson.com/blog/my-throw-decides-my-aim",
-      "summary": "Article URL: https://thegustafson.com/blog/my-throw-decides-my-aim\nComments URL: https://news.ycombinator.com/item?id=48930149\nPoints: 12\n# Comments: 2",
-      "publishedAt": "2026-07-16T03:51:25.000Z",
-      "image": "https://thegustafson.com/blog/my-throw-decides-my-aim/opengraph-image.png?b4d57e529658c420",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T03:51:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "If you want to create a button from scratch, you must first create the universe",
-      "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-      "summary": "Article URL: https://madcampos.dev/blog/2026/07/accessibility-from-scratch/\nComments URL: https://news.ycombinator.com/item?id=48930136\nPoints: 57\n# Comments: 12",
-      "publishedAt": "2026-07-16T03:48:43.000Z",
-      "image": "https://madcampos.dev/assets/build/apple-pie.C6GE_Xvg_Z1v28Iy.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T03:48:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Making 768 servers look like 1",
-      "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
-      "summary": "Article URL: https://planetscale.com/blog/making-768-servers-look-like-1\nComments URL: https://news.ycombinator.com/item?id=48930075\nPoints: 37\n# Comments: 7",
-      "publishedAt": "2026-07-16T03:36:42.000Z",
-      "image": "https://planetscale.xyz/assets/making-768-servers-look-like-1-social-DXjwbEP8.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T03:36:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-      "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-      "summary": "Article URL: https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html\nComments URL: https://news.ycombinator.com/item?id=4892994…",
-      "publishedAt": "2026-07-16T03:12:47.000Z",
-      "image": "https://cdn8.openculture.com/2026/07/14224817/plate-6-1024x681.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T03:12:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-      "link": "https://github.com/PrestigePvP/Voicebox",
-      "summary": "Article URL: https://github.com/PrestigePvP/Voicebox\nComments URL: https://news.ycombinator.com/item?id=48929870\nPoints: 10\n# Comments: 5",
-      "publishedAt": "2026-07-16T02:57:30.000Z",
-      "image": "https://opengraph.githubassets.com/02c02ed60bf109e0dcc69165550af1c291d1c7c5bd11e8bf67e67bd62b846006/PrestigePvP/Voicebox",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T02:57:30.000Z"
     },
     {
       "source": "TechCrunch",
@@ -218,17 +239,6 @@
       "latestActivity": "2026-07-16T00:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
-      "link": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/",
-      "summary": "Skullcandy’s audio products aren’t exactly known for their stellar audio quality or noise cancellation, but its latest headphones are getting an assist from Bose to turn things aro…",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a56063395e35992f7024e83/191:100/w_1280,c_limit/Skullcandy_Crusher_1080_ANC_Family_Press_Images_9645.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T00:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
@@ -249,17 +259,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T22:47:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-      "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
-      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing…",
-      "publishedAt": "2026-07-15T22:39:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T22:39:40.000Z"
     },
     {
       "source": "Ars Technica",
@@ -328,17 +327,6 @@
       "latestActivity": "2026-07-15T21:41:52.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier…",
-      "publishedAt": "2026-07-15T21:33:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T21:33:20.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
       "link": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
@@ -353,7 +341,7 @@
       "source": "The Verge",
       "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
       "link": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
-      "summary": "Federal Communications Commission | Image: Kristen Radtke / The Verge\t\n\nThe Federal Communications Commission will vote next month on whether a single company can own broadcast sta…",
+      "summary": "Federal Communications Commission. | Image: Kristen Radtke / The Verge\t\n\nThe Federal Communications Commission will vote next month on whether a single company can own broadcast st…",
       "publishedAt": "2026-07-15T21:30:17.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/FCC-stock-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -405,17 +393,6 @@
       "latestActivity": "2026-07-15T20:14:57.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "European Commission will not force smartwatches and other wearables to have replaceable batteries",
-      "link": "https://www.engadget.com/2216075/european-commission-will-not-force-smartwatches-and-other-wearables-to-have-replaceable-batteries/",
-      "summary": "The EU adopted regulation in 2023 that requires many electronics to have replaceable batteries by 2027.",
-      "publishedAt": "2026-07-15T20:10:57.000Z",
-      "image": "https://www.engadget.com/img/gallery/european-commission-will-not-force-smartwatches-and-other-wearables-to-have-replaceable-batteries/l-intro-1784145947.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T20:10:57.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Roblox is shutting down its video chat service",
       "link": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
@@ -425,17 +402,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T20:02:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anyw…",
-      "publishedAt": "2026-07-15T20:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T20:00:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -493,17 +459,6 @@
       "latestActivity": "2026-07-15T18:52:22.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Microsoft patches bug in video game Age of Empires II",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
-      "publishedAt": "2026-07-15T18:47:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/age-of-empires-ii-microsoft.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T18:47:01.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "In memoriam: 7 of our favorite Sam Neill films",
       "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
@@ -513,28 +468,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T18:39:58.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "OpenAI launches a physical keypad for controlling agents",
-      "link": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
-      "summary": "OpenAI's collaboration with keyboard maker Work Louder is available to order today.",
-      "publishedAt": "2026-07-15T18:31:30.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/l-intro-1784140173.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T18:31:30.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple quietly hid a big change coming for CarPlay with iOS 27",
-      "link": "https://www.engadget.com/2211714/apple-reveal-carplay-video-playback-ios-27/",
-      "summary": "Apple announced the new CarPlay feature not long after Google announced a similar update for Android Auto.",
-      "publishedAt": "2026-07-15T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-quietly-hid-a-big-change-coming-for-carplay-with-ios-27/l-intro-1783607810.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T18:30:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -548,17 +481,6 @@
       "latestActivity": "2026-07-15T18:21:02.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Apple is reportedly shopping for AI chip companies",
-      "link": "https://www.engadget.com/2215912/apple-is-reportedly-shopping-for-ai-chip-companies/",
-      "summary": "Apple's current M2 Ultra-powered servers don't seem to be cutting it, so the company is shopping around for more power.",
-      "publishedAt": "2026-07-15T18:00:09.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-shopping-for-ai-chip-companies/l-intro-1784138203.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T18:00:09.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
@@ -568,17 +490,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T17:09:37.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Samsung is making Amazon Music pre-installed bloatware on Galaxy phones",
-      "link": "https://www.engadget.com/2215840/samsung-is-making-amazon-music-pre-installed-bloatware-on-galaxy-phones/",
-      "summary": "Don't use Amazon Music? Too bad, Samsung is installing it for you anyway.",
-      "publishedAt": "2026-07-15T17:03:22.000Z",
-      "image": "https://www.engadget.com/img/gallery/amazon-music-is-becoming-pre-installed-bloatware-on-samsung-phones/l-intro-1784134857.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T17:03:22.000Z"
     },
     {
       "source": "VentureBeat",
@@ -678,17 +589,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-10T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Sperm donors need limits, says a European fertility group",
-      "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-      "summary": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor.…",
-      "publishedAt": "2026-07-10T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/C0152102-Sperm_bank.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T09:00:00.000Z"
     }
   ]
 }
