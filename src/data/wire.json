@@ -1,6 +1,335 @@
 {
-  "syncedAt": "2026-07-16T10:11:31.554Z",
+  "syncedAt": "2026-07-16T13:58:58.254Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "How to spend 15 years perfecting a product",
+      "link": "https://refactoring.guru/email/gbb-rollout2",
+      "summary": "Article URL: https://refactoring.guru/email/gbb-rollout2\nComments URL: https://news.ycombinator.com/item?id=48934434\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-16T13:41:12.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:41:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Ninja’s microwave air fryer could be the fix for soggy reheated pizza",
+      "link": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
+      "summary": "Ninja has added everything from ice cream makers to double-decker toaster ovens to its extensive lineup of counter-clogging appliances, but it's only now introducing its first micr…",
+      "publishedAt": "2026-07-16T13:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ninja1_4956c0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Goes-19 weather satellite enters Safe Hold mode",
+      "link": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+      "summary": "Article URL: https://www.spaceweather.gov/news/goes-19-safe-hold\nComments URL: https://news.ycombinator.com/item?id=48934286\nPoints: 11\n# Comments: 0",
+      "publishedAt": "2026-07-16T13:30:00.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why does wireless Android Auto use both Bluetooth and Wi-Fi?",
+      "link": "https://www.engadget.com/2210415/why-wireless-android-auto-uses-both-bluetooth-wifi/",
+      "summary": "Bluetooth and Wi-Fi work in tandem to power the wireless Android Auto experience.",
+      "publishedAt": "2026-07-16T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-does-wireless-android-auto-use-both-bluetooth-and-wi-fi/l-intro-1783517059.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Samsung&#8217;s Galaxy Z Flip 8 leaks a week before launch event",
+      "link": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
+      "summary": "Samsung's next flip phone might be tough to tell apart from last year's Galaxy Z Flip 7. As 9to5Google points out, leaked images and specs for the upcoming Galaxy Z Flip 8 shared b…",
+      "publishedAt": "2026-07-16T13:23:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-z-flip-8-leaked-design-winfuture.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:23:50.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "publishedAt": "2026-07-16T13:17:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:17:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I've built a words game based on binary search",
+      "link": "https://hilogame.cc/",
+      "summary": "Article URL: https://hilogame.cc/\nComments URL: https://news.ycombinator.com/item?id=48934092\nPoints: 7\n# Comments: 5",
+      "publishedAt": "2026-07-16T13:15:49.000Z",
+      "image": "https://hilogame.cc/icon-512.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:15:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OnePlus never had a chance in the US",
+      "link": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
+      "summary": "After an eight-year run, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlu…",
+      "publishedAt": "2026-07-16T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/oneplus-15-sand-storm-red-background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Claude can now use your 1Password credentials for you",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for…",
+      "publishedAt": "2026-07-16T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "You can now grant Claude access to your 1Password credentials",
+          "link": "https://www.engadget.com/2216405/1password-anthropic-claude-integration/",
+          "publishedAt": "2026-07-16T13:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-16T13:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Vital Signals puts continuous blood pressure monitoring into a ring",
+      "link": "https://www.engadget.com/2216390/vital-signals-blood-pressure-ring/",
+      "summary": "Vital Signals promises its algorithmic blood pressure monitoring ring will reshape how we live with hypertension and other cardiac conditions",
+      "publishedAt": "2026-07-16T13:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/vital-signals-puts-continuous-blood-pressure-monitoring-into-a-ring/l-intro-1784191885.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the blo…",
+      "publishedAt": "2026-07-16T12:06:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "EU demands Google give AI rivals more access to Android",
+          "link": "https://www.engadget.com/2216454/eu-demands-google-give-ai-rivals-more-access-to-android/",
+          "publishedAt": "2026-07-16T12:58:26.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-16T12:58:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introduction to KizunaShelf: A shelf for everything you love",
+      "link": "https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/",
+      "summary": "Article URL: https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/\nComments URL: https://news.ycombinator.com/item?id=48933581\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-07-16T12:33:06.000Z",
+      "image": "https://mudkip.me/images/2026/07/kizunashelf-1.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T12:33:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
+      "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+      "summary": "Article URL: https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/\nComments URL: https://news.ycombinator.com/item?id=48…",
+      "publishedAt": "2026-07-16T12:13:43.000Z",
+      "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T12:13:43.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI b…",
+      "publishedAt": "2026-07-16T12:10:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/bed.jpg?w=2724",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T12:10:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "XPeng’s New ‘Budget’ EV Looks Like the Ferrari Luce",
+      "link": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
+      "summary": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
+      "publishedAt": "2026-07-16T12:09:08.000Z",
+      "image": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T12:09:08.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "11 Best Sleeping Bags (2026): Ultralight, Warm Weather, for Kids",
+      "link": "https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/",
+      "summary": "Whether you’re climbing peaks or taking the family to the local park, we’ve found the best sleeping bags for every temperature, budget, and camping expedition.",
+      "publishedAt": "2026-07-16T12:06:00.000Z",
+      "image": "https://media.wired.com/photos/6a57155826e9b49c3a93d47b/191:100/w_1280,c_limit/The-Best-Sleeping-Bags-for-Every-Adventure.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T12:06:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Act and the Outcome of Creation",
+      "link": "https://www.ssp.sh/blog/on-creation/",
+      "summary": "Article URL: https://www.ssp.sh/blog/on-creation/\nComments URL: https://news.ycombinator.com/item?id=48933370\nPoints: 16\n# Comments: 1",
+      "publishedAt": "2026-07-16T12:05:42.000Z",
+      "image": "https://www.ssp.sh/blog/on-creation/featured-image.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T12:05:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "link": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "summary": "Article URL: https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading\nComments URL: https://news.ycombinator.com/item?…",
+      "publishedAt": "2026-07-16T12:02:11.000Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/6a04202/2147483647/strip/true/crop/4367x2293+0+310/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2F5e%2Ff0d9b82c41a7b2c7d21d1d40a35c%2F175bee518a5a4f52b3535fdc3938398b.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T12:02:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/\nComments URL: https://news.ycombinator.com/item?id=48933310\nPoints: 75\n# Comments: 80",
+      "publishedAt": "2026-07-16T11:59:01.000Z",
+      "image": "https://www.theocharis.dev/jeremy-headshot.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T11:59:01.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Hyundai reportedly looking to take total control of robotics giant Boston Dynamics",
+      "link": "https://www.engadget.com/2216427/hyundai-reportedly-looking-to-buy-all-of-boston-dynamics-from-softbank/",
+      "summary": "Hyundai could soon own Boston Dynamics in full.",
+      "publishedAt": "2026-07-16T11:49:17.000Z",
+      "image": "https://www.engadget.com/img/gallery/hyundai-is-reportedly-buying-the-rest-of-boston-dynamics-from-softbank/l-intro-1784202458.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T11:49:17.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Backpacking Water Filters of 2026",
+      "link": "https://www.wired.com/gallery/best-backpacking-water-filters/",
+      "summary": "We’ve tested filters from Sawyer, Katadyn, LifeStraw, MSR and more to find the best option for every adventure.",
+      "publishedAt": "2026-07-16T11:33:00.000Z",
+      "image": "https://media.wired.com/photos/6a5702fd8c2ec9babcb2fda4/191:100/w_1280,c_limit/The-Best-Backpacking-Water-Filters.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T11:33:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "summary": "Aina is going to pilot a new device in the coming weeks.",
+      "publishedAt": "2026-07-16T11:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Apoorv-Shankar-Founder-Aina-color.jpeg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T11:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+      "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+      "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
+      "publishedAt": "2026-07-16T11:00:21.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Xona_InSitu_Orbit_03-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T11:00:21.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+      "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+      "summary": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
+      "publishedAt": "2026-07-16T11:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Meta will alert parents if their teens discuss self harm",
+          "link": "https://www.engadget.com/2216412/meta-ai-alert-parents-if-teens-discuss-self-harm/",
+          "publishedAt": "2026-07-16T11:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-16T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Computer cops",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digita…",
+      "publishedAt": "2026-07-16T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268595_AI_policing_STILL_CVirginia0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Gay Men Flocked to Goose for Friendship. Some Still Feel Excluded",
+      "link": "https://www.wired.com/story/gay-men-flocked-to-goose-for-friendship-some-still-feel-excluded/",
+      "summary": "Despite positioning itself as an anti-hookup app, users tell WIRED that Goose has fake profiles, harsh acceptance standards, and problems with inclusivity.",
+      "publishedAt": "2026-07-16T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a56676f36e98c56882c9583/191:100/w_1280,c_limit/Culture_Goose&#x27;s%20Users%20Are%20Trashing%20The%20App_v3.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Hisense XR10 Smart Projector Review: RGB-Powered Wonder",
+      "link": "https://www.wired.com/review/hisense-xr10-smart-projector/",
+      "summary": "Projectors are adopting RGB backlighting, the hottest tech from the world of TVs. This large but vivid projector is a great option for summer movie nights.",
+      "publishedAt": "2026-07-16T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a586e26a9e280f5390dcae3/191:100/w_1280,c_limit/Review--Hisense-XR10-Smart-Projector.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More",
+      "link": "https://www.wired.com/gallery/best-air-purifiers/",
+      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+      "publishedAt": "2026-07-16T10:08:00.000Z",
+      "image": "https://media.wired.com/photos/6a5869bdad0fb31ed65f955c/191:100/w_1280,c_limit/Breathe-Easy-Thanks-to-the-Best-Air-Purifier-for-Every-Home.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T10:08:00.000Z"
+    },
     {
       "source": "Wired",
       "title": "Please Stop Making Me Opt Out of AI",
@@ -58,7 +387,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe",
+      "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe",
       "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
       "summary": "OnePlus could also wind down its operations in India by 2027.",
       "publishedAt": "2026-07-16T09:00:00.000Z",
@@ -74,118 +403,9 @@
       "summary": "The OnePlus 15 was the company’s final US flagship. | Photo: Allison Johnson / The Verge\t\n\nOnePlus has confirmed what industry observers have long expected: it's quitting the US an…",
       "publishedAt": "2026-07-16T09:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "OnePlus is officially leaving the US and Europe",
-          "link": "https://www.engadget.com/2213731/oneplus-is-officially-leaving-the-us-and-europe/",
-          "publishedAt": "2026-07-16T09:00:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-16T09:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "OnePlus, the ‘Flagship-Killer’ Smartphone Brand, Is All but Dead",
-      "link": "https://www.wired.com/story/oneplus-is-all-but-dead/",
-      "summary": "The original OnePlus phone disrupted the mobile market 13 years ago with its affordable price and top-end specs. Now, the company is exiting North America and Europe to focus on Ch…",
-      "publishedAt": "2026-07-16T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a5651e90289d3b8cc7ba689/191:100/w_1280,c_limit/OnePlus%20RIP.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-16T09:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier…",
-      "publishedAt": "2026-07-15T21:33:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "xAI sues Grok user for generating nonconsensual sexualized deepfakes",
-          "link": "https://www.engadget.com/2216382/xai-sues-grok-user-generating-nonconsensual-sexualized-deepfakes/",
-          "publishedAt": "2026-07-16T08:05:05.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-16T08:05:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-      "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
-      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing…",
-      "publishedAt": "2026-07-15T22:39:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "AppleCare+ prices just went up for Macs and iPads",
-          "link": "https://www.engadget.com/2216377/applecare-plus-prices-just-went-up-for-macs-and-ipads/",
-          "publishedAt": "2026-07-16T07:47:02.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-16T07:47:02.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Lenovo Coupon Codes and Deals in July 2026",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
-      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "publishedAt": "2026-07-16T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/191:100/w_1280,c_limit/WIRED-Coupons-R2_8.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Surfshark Promo Codes: 87% Off | July 2026",
-      "link": "https://www.wired.com/story/surfshark-coupon/",
-      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-      "publishedAt": "2026-07-16T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Priceline Promo Codes & Coupons: 10% Off July",
-      "link": "https://www.wired.com/story/priceline-promo-code/",
-      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "publishedAt": "2026-07-16T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "HostGator Coupon Codes: 76% Off Hosting in July 2026",
-      "link": "https://www.wired.com/story/hostgator-coupon/",
-      "summary": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
-      "publishedAt": "2026-07-16T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/191:100/w_1280,c_limit/WIRED-Coupons-R2_6.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Verizon Promo Codes: $200 Verizon Gift Cards | July 2026",
-      "link": "https://www.wired.com/story/verizon-promo-code/",
-      "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-      "publishedAt": "2026-07-16T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/191:100/w_1280,c_limit/WIRED-Coupons-14.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T05:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -227,15 +447,8 @@
       "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial au…",
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Skullcandy Crusher 1080 review: Haptic bass meets whisper-quiet ANC",
-          "link": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
-          "publishedAt": "2026-07-16T00:00:00.000Z"
-        }
-      ],
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-07-16T00:00:00.000Z"
     },
     {
@@ -248,17 +461,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T23:59:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
-      "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
-      "summary": "HP’s convertible OmniBook has a great feature set for the price. | Image: HP\t\n\nWith storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal…",
-      "publishedAt": "2026-07-15T22:47:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/HP_Omnibook_X_Flip_14_lifestyle.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T22:47:11.000Z"
     },
     {
       "source": "Ars Technica",
@@ -283,17 +485,6 @@
       "latestActivity": "2026-07-15T22:24:17.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
-      "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
-      "summary": "The Steam Deck’s internals, including the L-shaped battery.\t\n\nValve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear  that Val…",
-      "publishedAt": "2026-07-15T22:16:46.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070039/DSCF9076.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T22:16:46.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
       "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
@@ -316,17 +507,6 @@
       "latestActivity": "2026-07-15T21:41:56.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Elon Musk bought a gas turbine company",
-      "link": "https://www.engadget.com/2216186/elon-musk-bought-a-gas-turbine-company/",
-      "summary": "It's likely to become a direct power source for SpaceXAI's data centers.",
-      "publishedAt": "2026-07-15T21:41:52.000Z",
-      "image": "https://www.engadget.com/img/gallery/elon-musk-bought-a-gas-turbine-company/l-intro-1784151303.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T21:41:52.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
       "link": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
@@ -336,17 +516,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T21:33:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
-      "link": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
-      "summary": "Federal Communications Commission. | Image: Kristen Radtke / The Verge\t\n\nThe Federal Communications Commission will vote next month on whether a single company can own broadcast st…",
-      "publishedAt": "2026-07-15T21:30:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/FCC-stock-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T21:30:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -371,39 +540,6 @@
       "latestActivity": "2026-07-15T21:04:22.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-      "publishedAt": "2026-07-15T20:22:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/ntsb-tesla-texas.jpg?resize=1200,831",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T20:22:52.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Samsung isn't sure why some Galaxy S26 Ultra screens are turning red",
-      "link": "https://www.engadget.com/2216077/samsung-galaxy-s26-ultra-screens-turning-red-not-sure-why/",
-      "summary": "Samsung appears to be internally investigating the discoloration defect.",
-      "publishedAt": "2026-07-15T20:14:57.000Z",
-      "image": "https://www.engadget.com/img/gallery/samsung-isnt-sure-why-some-galaxy-s26-ultra-screens-are-turning-red/l-intro-1784146409.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T20:14:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Roblox is shutting down its video chat service",
-      "link": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
-      "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023.\nRoblox Connect let you video chat with other people using your Roblox avatar, which would…",
-      "publishedAt": "2026-07-15T20:02:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/5c0b7b15-9367-f7f0-60f5-77c45d313ece.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T20:02:26.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026",
       "link": "https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
@@ -426,28 +562,6 @@
       "latestActivity": "2026-07-15T19:59:48.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-      "publishedAt": "2026-07-15T19:46:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Founders-Hjalmar-Nilsonne-Daniel-Ek-1.jpeg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T19:46:54.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding a…",
-      "publishedAt": "2026-07-15T19:41:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T19:41:38.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
       "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
@@ -457,17 +571,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T18:52:22.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "In memoriam: 7 of our favorite Sam Neill films",
-      "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
-      "summary": "The actor, who starred in 1993's Jurassic Park, died Monday in Sydney, Australia, at the age of 78.",
-      "publishedAt": "2026-07-15T18:39:58.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/samneill-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T18:39:58.000Z"
     },
     {
       "source": "VentureBeat",
@@ -578,17 +681,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-13T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claud…",
-      "publishedAt": "2026-07-10T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/PigeonIntoMissile.edit_.jpg?w=3000",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-10T12:10:00.000Z"
     }
   ]
 }
