@@ -1,16 +1,172 @@
 {
-  "syncedAt": "2026-07-16T17:20:40.313Z",
+  "syncedAt": "2026-07-16T19:15:38.200Z",
   "items": [
+    {
+      "source": "VentureBeat",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed a…",
+      "publishedAt": "2026-07-16T19:02:38.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T19:02:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
+      "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+      "summary": "NTSB findings back Elon Musk's claim that driver manually overrode FSD.",
+      "publishedAt": "2026-07-16T14:48:32.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-Barbour-complaint-1152x648.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator &#8216;100 percent,&#8217; investigators confirm",
+          "link": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
+          "publishedAt": "2026-07-16T15:41:09.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "NTSB investigators confirm Tesla driver overrode Full Self-Driving system in fatal crash",
+          "link": "https://www.engadget.com/2216921/ntsb-investigators-confirm-tesla-driver-overrode-full-self-driving-system-in-fatal-crash/",
+          "publishedAt": "2026-07-16T19:01:32.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-16T19:01:32.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The AMD Ryzen 7 7700X3D chip is now available for $329",
+      "link": "https://www.engadget.com/2216899/amd-ryzen-7-7700x3d-chip-now-available-for-329/",
+      "summary": "Reasonable specs for a reasonable price.",
+      "publishedAt": "2026-07-16T18:44:25.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-amd-ryzen-7-7700x3d-chip-is-now-available-for-329/l-intro-1784227215.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T18:44:25.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Everyone Thinks They Have the Diarrhea Parasite",
+      "link": "https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/",
+      "summary": "Cyclosporiasis isn’t the only thing spreading across the US. So is anxiety about getting hit with it.",
+      "publishedAt": "2026-07-16T18:36:19.000Z",
+      "image": "https://media.wired.com/photos/6a592344318daecd403c4caa/191:100/w_1280,c_limit/Everyone%20Thinks%20They%20Have%20the%20Diarrhea%20Parasite_v5.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T18:36:19.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+      "publishedAt": "2026-07-16T18:35:18.000Z",
+      "image": "https://media.wired.com/photos/6a591d287083bdea755df740/191:100/w_1280,c_limit/Model-Behavior-Cesar-Anthropic-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T18:35:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editi…",
+      "publishedAt": "2026-07-16T18:32:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T18:32:54.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Don't lose sleep over reports of 260 Starlink satellites deorbiting",
+      "link": "https://www.engadget.com/2212810/spacex-starlink-satellites-deorbit-reports/",
+      "summary": "SpaceX deorbiting satellites isn't a cause for worry, but scientists are still looking into the environmental impacts of frequent satellite deorbits.",
+      "publishedAt": "2026-07-16T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/dont-lose-sleep-over-reports-of-260-starlink-satellites-deorbiting/l-intro-1783725064.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T18:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "publishedAt": "2026-07-16T18:22:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T18:22:06.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
+      "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+      "summary": "If the large, rocky planet is losing helium, then we can infer what is left behind.",
+      "publishedAt": "2026-07-16T18:00:15.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-5.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T18:00:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "summary": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/\nComments URL: https://news.ycombinator…",
+      "publishedAt": "2026-07-16T17:44:46.000Z",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T17:44:46.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Sonos brings tab navigation, speaker sorting and more to its app",
+      "link": "https://www.engadget.com/2216827/sonos-app-update-tab-navigation-speaker-sorting-and-more/",
+      "summary": "Sonos has added some handy quality-of-life updates to its mobile app.",
+      "publishedAt": "2026-07-16T17:42:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/sonos-brings-tab-navigation-speaker-sorting-and-more-to-its-app/l-intro-1784223443.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T17:42:32.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "summary": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.",
+      "publishedAt": "2026-07-16T17:37:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1343787659.jpeg?resize=1200,975",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T17:37:03.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
       "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food delive…",
+      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delive…",
       "publishedAt": "2026-07-16T17:12:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1190485293.jpg?resize=1200,802",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-16T17:12:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "42% of adults rely on their parents for financial support",
+      "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html\nComments URL: h…",
+      "publishedAt": "2026-07-16T17:11:58.000Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/106877435-1620063592262-gettyimages-1160943786-2018_09_17_best_ager_j13_1828.jpeg?v=1620063622&w=1920&h=1080",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T17:11:58.000Z"
     },
     {
       "source": "VentureBeat",
@@ -47,9 +203,9 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Newsletter platform Beehiiv’s now lets subscribers chat with each other, adds AI",
-      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiivs-now-lets-subscribers-chat-with-each-other-adds-ai/",
-      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
       "publishedAt": "2026-07-16T17:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/STILL_2_A.jpeg?resize=1200,675",
       "sourceCount": 1,
@@ -79,17 +235,6 @@
       "latestActivity": "2026-07-16T16:52:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "'We used acid to sabotage Microsoft hyperscale data centre construction'",
-      "link": "https://techwerkers.nl/en/posts/aanval-microsoft-ai-datacentrum/",
-      "summary": "Article URL: https://techwerkers.nl/en/posts/aanval-microsoft-ai-datacentrum/\nComments URL: https://news.ycombinator.com/item?id=48936982\nPoints: 40\n# Comments: 26",
-      "publishedAt": "2026-07-16T16:49:50.000Z",
-      "image": "https://techwerkers.nl/nl/posts/aanval-microsoft-ai-datacentrum/feature.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T16:49:50.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Roblox will let people use AI to make games on their phone",
       "link": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
@@ -102,9 +247,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/\nComments URL: https://news.ycombinator.com/item?id=48936880\nPoints: 19\n# Comments: 4",
+      "summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/\nComments URL: https://news.ycombinator.com/item?id=48936880\nPoints: 76\n# Comments: 37",
       "publishedAt": "2026-07-16T16:41:37.000Z",
       "image": "https://blog.lyc8503.net/en/post/llm-classifier/ppl.png",
       "sourceCount": 1,
@@ -137,18 +282,18 @@
       "source": "Hacker News",
       "title": "Show HN: Galois connections for composable numeric casts in Rust",
       "link": "https://github.com/cmk/connections",
-      "summary": "Article URL: https://github.com/cmk/connections\nComments URL: https://news.ycombinator.com/item?id=48936803\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://github.com/cmk/connections\nComments URL: https://news.ycombinator.com/item?id=48936803\nPoints: 7\n# Comments: 1",
       "publishedAt": "2026-07-16T16:36:17.000Z",
-      "image": "https://opengraph.githubassets.com/eea07675ca59e335c46642948f19046e42b181f20a24a8748f80ae9dad0fbfb3/cmk/connections",
+      "image": "https://opengraph.githubassets.com/66d8800f81e80cf661e02de83d5421c5db5a167728ccb92c6aad27b92ed58cde/cmk/connections",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-16T16:36:17.000Z"
     },
     {
       "source": "Ars Technica",
-      "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+      "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
       "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
-      "summary": "OnePlus promises to continue supporting the phones it's already released.",
+      "summary": "OnePlus promises to continue supporting the phones it has already released.",
       "publishedAt": "2026-07-16T16:29:46.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/OnePlus-15-5-1152x648.jpg",
       "sourceCount": 1,
@@ -170,34 +315,12 @@
       "source": "Hacker News",
       "title": "56,000 lines of DOOM, in a language I made up",
       "link": "https://betlang.dev/about/",
-      "summary": "Article URL: https://betlang.dev/about/\nComments URL: https://news.ycombinator.com/item?id=48936657\nPoints: 8\n# Comments: 4",
+      "summary": "Article URL: https://betlang.dev/about/\nComments URL: https://news.ycombinator.com/item?id=48936657\nPoints: 25\n# Comments: 17",
       "publishedAt": "2026-07-16T16:24:50.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-16T16:24:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Photos of items from families in different countries with different incomes",
-      "link": "https://www.gapminder.org/dollar-street",
-      "summary": "Article URL: https://www.gapminder.org/dollar-street\nComments URL: https://news.ycombinator.com/item?id=48936654\nPoints: 26\n# Comments: 0",
-      "publishedAt": "2026-07-16T16:24:33.000Z",
-      "image": "https://www.gapminder.org/dollar-street/static/images/social/screen-matrix.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T16:24:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Building scalable AI agents with modular prompt transpilation",
-      "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-      "summary": "Article URL: https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/\nComments URL: https://news.ycombinator.com/item?id=48936621\nPoints: 5…",
-      "publishedAt": "2026-07-16T16:22:09.000Z",
-      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Cloud-1-meta.2e16d0ba.fill-1200x600.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T16:22:09.000Z"
     },
     {
       "source": "Ars Technica",
@@ -229,6 +352,17 @@
       "latestActivity": "2026-07-16T16:18:46.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Decoy Font",
+      "link": "https://www.mixfont.com/experiments/decoy-font",
+      "summary": "Article URL: https://www.mixfont.com/experiments/decoy-font\nComments URL: https://news.ycombinator.com/item?id=48936584\nPoints: 154\n# Comments: 59",
+      "publishedAt": "2026-07-16T16:18:21.000Z",
+      "image": "https://static.mixfont.com/assets/20260715-083635-decoy-font-og-ctfx685m.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-16T16:18:21.000Z"
+    },
+    {
       "source": "TechCrunch",
       "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
       "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
@@ -251,20 +385,14 @@
       "latestActivity": "2026-07-16T16:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
-      "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-      "summary": "Google said users can soon access their notebooks through AI Mode in Search.",
+      "source": "The Verge",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integ…",
       "publishedAt": "2026-07-16T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Gemini-Notebook-.jpeg?resize=1200,675",
-      "sourceCount": 3,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
       "related": [
-        {
-          "source": "The Verge",
-          "title": "Google is renaming NotebookLM to Gemini Notebook",
-          "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-          "publishedAt": "2026-07-16T16:00:00.000Z"
-        },
         {
           "source": "Engadget",
           "title": "Google's NotebookLM is now Gemini Notebook",
@@ -297,46 +425,6 @@
       "latestActivity": "2026-07-16T15:42:07.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
-      "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
-      "summary": "NTSB findings back Elon Musk's claim that driver manually overrode FSD.",
-      "publishedAt": "2026-07-16T14:48:32.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-Barbour-complaint-1152x648.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator &#8216;100 percent,&#8217; investigators confirm",
-          "link": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
-          "publishedAt": "2026-07-16T15:41:09.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-16T15:41:09.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another…",
-      "publishedAt": "2026-07-16T15:38:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/01/dasher_ps_horiz_5.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T15:38:55.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
-      "link": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
-      "summary": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking Londo…",
-      "publishedAt": "2026-07-16T15:37:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/london-underground-tube.jpg?resize=1200,783",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T15:37:47.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch",
       "link": "https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/",
@@ -359,28 +447,6 @@
       "latestActivity": "2026-07-16T14:50:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Smart speakers could help OpenAI lose even more money",
-      "link": "https://www.engadget.com/2216556/smart-speakers-could-help-openai-lose-even-more-money/",
-      "summary": "A smart speaker won't save OpenAI.",
-      "publishedAt": "2026-07-16T14:40:38.000Z",
-      "image": "https://www.engadget.com/img/gallery/smart-speakers-could-help-openai-lose-even-more-money/l-intro-1784212703.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T14:40:38.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Ofcom, the UK's communications regulator, is investigating TikTok's child safety measures",
-      "link": "https://www.engadget.com/2216550/ofcom-uk-communications-regulator-investigating-tiktok-child-safety-measures/",
-      "summary": "The regulator is assessing whether the platform is doing enough to protect children from harmful content.",
-      "publishedAt": "2026-07-16T14:35:08.000Z",
-      "image": "https://www.engadget.com/img/gallery/ofcom-the-uks-communications-regulator-is-investigating-tiktoks-child-safety-measures/l-intro-1784211945.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T14:35:08.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
       "link": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
@@ -401,28 +467,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-16T13:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why does wireless Android Auto use both Bluetooth and Wi-Fi?",
-      "link": "https://www.engadget.com/2210415/why-wireless-android-auto-uses-both-bluetooth-wifi/",
-      "summary": "Bluetooth and Wi-Fi work in tandem to power the wireless Android Auto experience.",
-      "publishedAt": "2026-07-16T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-does-wireless-android-auto-use-both-bluetooth-and-wi-fi/l-intro-1783517059.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T13:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "You can now grant Claude access to your 1Password credentials",
-      "link": "https://www.engadget.com/2216405/1password-anthropic-claude-integration/",
-      "summary": "1Password lets you use Claude agents for personal chores without exposing your credentials.",
-      "publishedAt": "2026-07-16T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/you-can-now-grant-claude-access-to-your-1password-credentials/l-intro-1784196809.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T13:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -481,17 +525,6 @@
     },
     {
       "source": "Wired",
-      "title": "Hisense XR10 Smart Projector Review: RGB-Powered Wonder",
-      "link": "https://www.wired.com/review/hisense-xr10-smart-projector/",
-      "summary": "Projectors are adopting RGB backlighting, the hottest tech from the world of TVs. This large but vivid projector is a great option for summer movie nights.",
-      "publishedAt": "2026-07-16T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a586e26a9e280f5390dcae3/191:100/w_1280,c_limit/Review--Hisense-XR10-Smart-Projector.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
       "title": "Gay Men Flocked to Goose for Friendship. Some Still Feel Excluded",
       "link": "https://www.wired.com/story/gay-men-flocked-to-goose-for-friendship-some-still-feel-excluded/",
       "summary": "Despite positioning itself as an anti-hookup app, users tell WIRED that Goose has fake profiles, harsh acceptance standards, and problems with inclusivity.",
@@ -503,25 +536,14 @@
     },
     {
       "source": "Wired",
-      "title": "Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More",
-      "link": "https://www.wired.com/gallery/best-air-purifiers/",
-      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
-      "publishedAt": "2026-07-16T10:08:00.000Z",
-      "image": "https://media.wired.com/photos/6a5869bdad0fb31ed65f955c/191:100/w_1280,c_limit/Breathe-Easy-Thanks-to-the-Best-Air-Purifier-for-Every-Home.jpg",
+      "title": "Hisense XR10 Smart Projector Review: RGB-Powered Wonder",
+      "link": "https://www.wired.com/review/hisense-xr10-smart-projector/",
+      "summary": "Projectors are adopting RGB backlighting, the hottest tech from the world of TVs. This large but vivid projector is a great option for summer movie nights.",
+      "publishedAt": "2026-07-16T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a586e26a9e280f5390dcae3/191:100/w_1280,c_limit/Review--Hisense-XR10-Smart-Projector.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-16T10:08:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Please Stop Making Me Opt Out of AI",
-      "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
-      "publishedAt": "2026-07-16T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a581a134de2a00b6b98c804/191:100/w_1280,c_limit/Stop-Making-Me-Opt-Out-Gear.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-16T10:00:00.000Z"
+      "latestActivity": "2026-07-16T11:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -568,17 +590,6 @@
       "latestActivity": "2026-07-15T22:10:41.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-      "summary": "The convenience store chain will use StorMagic instead.",
-      "publishedAt": "2026-07-15T21:41:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T21:41:56.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
       "link": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
@@ -599,17 +610,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T20:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
-      "link": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
-      "summary": "Hundreds of enterprise leaders and technical experts packed the main ballroom of the luxurious Hotel Nia in Menlo Park this week for VB Transform 2026, the year's preeminent confer…",
-      "publishedAt": "2026-07-15T18:21:02.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4e6UBj4MVRN7jC5IMqsQsV/791bfbe0e7b49a1726eceac8fc6736aa/VBTS8125.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-15T18:21:02.000Z"
     },
     {
       "source": "MIT Technology Review",
