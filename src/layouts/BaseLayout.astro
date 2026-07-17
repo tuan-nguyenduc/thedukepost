@@ -29,6 +29,7 @@ const siteJsonLd = [
     name: 'The Duke Post',
     url: Astro.site?.toString(),
     logo: new URL('/favicon-v3.svg', Astro.site).toString(),
+    sameAs: ['https://github.com/tuan-nguyenduc/thedukepost'],
   },
   {
     '@context': 'https://schema.org',
@@ -121,7 +122,7 @@ const siteJsonLd = [
   <footer class="site-footer">
     <div class="wrap site-footer__inner">
       <p>&copy; {new Date().getFullYear()} The Duke Post. Independent tech coverage.</p>
-      <p class="byline">Curated headlines link to original publishers. <a href="/rss.xml">RSS</a></p>
+      <p class="byline">Curated headlines link to original publishers. <a href="/rss.xml">RSS</a> · <a href="https://github.com/tuan-nguyenduc/thedukepost" target="_blank" rel="noopener noreferrer">GitHub</a></p>
     </div>
   </footer>
 
