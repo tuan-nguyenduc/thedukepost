@@ -57,11 +57,15 @@ const pageTitle = page.currentPage === 1
   ? 'The Wire — The Duke Post'
   : `The Wire — Page ${page.currentPage} — The Duke Post`;
 ---
-<BaseLayout title={pageTitle} description="Every major tech outlet, one feed. The Wire pulls headlines from across the industry and refreshes regularly, so you see the trends without visiting each site.">
+<BaseLayout
+  title={pageTitle}
+  description="Every major tech outlet, one feed. The Wire pulls headlines from across the industry and refreshes regularly, so you see the trends without visiting each site."
+  additionalFeed={{ href: '/wire.xml', title: 'The Wire — The Duke Post' }}
+>
   <script type="application/ld+json" set:html={JSON.stringify(itemListJsonLd)} />
   <section class="wrap page">
     <h1>⚡ The Wire</h1>
-    <p class="intro">A running feed of headlines from other publishers. We link out — we don't republish. <span class="byline">Last synced {syncedAt.toISOString().replace('T', ' ').slice(0, 16)} UTC</span></p>
+    <p class="intro">A running feed of headlines from other publishers. We link out — we don't republish. <a href="/wire.xml">RSS</a> <span class="byline">Last synced {syncedAt.toISOString().replace('T', ' ').slice(0, 16)} UTC</span></p>
 
     <div class="filters" role="group" aria-label="Filter by source" id="filters">
       <button type="button" class="chip chip--active" data-source="all" aria-pressed="true">All</button>
