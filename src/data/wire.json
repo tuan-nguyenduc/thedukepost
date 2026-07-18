@@ -1,16 +1,115 @@
 {
-  "syncedAt": "2026-07-17T22:52:26.291Z",
+  "syncedAt": "2026-07-18T02:42:26.589Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\nComments URL: https://news.ycombinato…",
-      "publishedAt": "2026-07-17T22:26:30.000Z",
-      "image": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/07/LNM-20260713-MATTERSKAISER-01.jpg?fit=2000%2C1333&ssl=1",
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "link": "https://moonstone.sh/",
+      "summary": "Article URL: https://moonstone.sh/\nComments URL: https://news.ycombinator.com/item?id=48954175\nPoints: 7\n# Comments: 1",
+      "publishedAt": "2026-07-18T01:18:15.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-17T22:26:30.000Z"
+      "latestActivity": "2026-07-18T01:18:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I Started a \"Dirt Notebook\"",
+      "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "summary": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/\nComments URL: https://news.ycombinator.com/item?id=48954149\nPoints: 14\n# Comments: 7",
+      "publishedAt": "2026-07-18T01:12:13.000Z",
+      "image": "/static/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T01:12:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "DrDroid (YC W23) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+      "summary": "Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory\nComments URL: https://news.ycombinator.com/item?id=48954074\nPoints: 0…",
+      "publishedAt": "2026-07-18T01:01:08.000Z",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/6b57f1a7b6dd9a5c9660f68f80895462c94843d4.png?1668800160",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T01:01:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "link": "https://www.stenchill.com/en/",
+      "summary": "Article URL: https://www.stenchill.com/en/\nComments URL: https://news.ycombinator.com/item?id=48953981\nPoints: 8\n# Comments: 1",
+      "publishedAt": "2026-07-18T00:48:37.000Z",
+      "image": "https://stenchill.com/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T00:48:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A grumpy screed about AI in software engineering",
+      "link": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "summary": "Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed\nComments URL: https://news.ycombinator.com/item?id=48953924\nPoints: 34\n# Comments: 20",
+      "publishedAt": "2026-07-18T00:40:08.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T00:40:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PSA about abuse of cat(1) command. Don't abuse cats",
+      "link": "https://www.abuseofcats.com",
+      "summary": "Article URL: https://www.abuseofcats.com\nComments URL: https://news.ycombinator.com/item?id=48953719\nPoints: 11\n# Comments: 19",
+      "publishedAt": "2026-07-18T00:03:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T00:03:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "summary": "Article URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier\nComments URL: https://news.ycombinator.com/item?id=48953406\nPoint…",
+      "publishedAt": "2026-07-17T23:26:35.000Z",
+      "image": "https://cdn.prod.website-files.com/6846c7b5a78f3e9225c64f10/6989e3d45b7a3c2eb3795578_beyond-alphafold-with-isomorphic-labs-drug-design-engine_l.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-17T23:26:35.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startu…",
+      "publishedAt": "2026-07-17T23:08:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/stripe-x-battlefield_eventImage-site-crop.jpg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-17T23:08:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "publishedAt": "2026-07-17T22:55:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-17T22:55:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "summary": "Article URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and\nComments URL: https:…",
+      "publishedAt": "2026-07-17T22:35:55.000Z",
+      "image": "https://www.texasattorneygeneral.gov/sites/default/files/images/admin/images/2019/PR-Twitter-Card.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-17T22:35:55.000Z"
     },
     {
       "source": "TechCrunch",
@@ -22,17 +121,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T22:12:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The US Grocery Slowdown Is Real",
-      "link": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
-      "summary": "Article URL: https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/\nComments URL: https://news.ycombinator.com/item?id=48952773\nPoints: 18\n# Comments: 8",
-      "publishedAt": "2026-07-17T22:11:01.000Z",
-      "image": "https://www.bain.com/contentassets/69d97af635954f9d83e89b83aea5b35e/v1-1_46105_grocerysoftness_promo_16.9.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T22:11:01.000Z"
     },
     {
       "source": "The Verge",
@@ -55,28 +143,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T22:05:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "US seeks share of Korean chipmakers' 'excess profits'",
-      "link": "https://www.koreatimes.co.kr/business/tech-science/20260716/us-seeks-share-of-korean-chipmakers-excess-profits-source",
-      "summary": "Article URL: https://www.koreatimes.co.kr/business/tech-science/20260716/us-seeks-share-of-korean-chipmakers-excess-profits-source\nComments URL: https://news.ycombinator.com/item?i…",
-      "publishedAt": "2026-07-17T21:42:13.000Z",
-      "image": "https://newsimg.koreatimes.co.kr/2026/07/16/dec2e036-80e5-4ae9-b9e2-a5ac3c0013db.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T21:42:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html\nComments URL: https://news.ycombinator.com/item?id=48952439\nPoints: 54\n# Comments: 23",
-      "publishedAt": "2026-07-17T21:22:53.000Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T21:22:53.000Z"
     },
     {
       "source": "TechCrunch",
@@ -112,17 +178,6 @@
       "latestActivity": "2026-07-17T20:51:05.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Open Book Touch: open-source e-reader",
-      "link": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "summary": "Article URL: https://www.crowdsupply.com/oddly-specific-objects/open-book-touch\nComments URL: https://news.ycombinator.com/item?id=48952135\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-07-17T20:47:57.000Z",
-      "image": "https://www.crowdsupply.com/img/7a19/ea41febb-029e-492e-bb3b-5953813c7a19_open-graph.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T20:47:57.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
       "link": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
@@ -132,17 +187,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T20:46:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "link": "https://github.com/tokio-rs/topcoat",
-      "summary": "Article URL: https://github.com/tokio-rs/topcoat\nComments URL: https://news.ycombinator.com/item?id=48952067\nPoints: 7\n# Comments: 1",
-      "publishedAt": "2026-07-17T20:41:43.000Z",
-      "image": "https://opengraph.githubassets.com/34de38353958a3f44471ab251f418edba8de7a0a8d94b1a0269f9ad2b20c3b6a/tokio-rs/topcoat",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T20:41:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -165,17 +209,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T20:15:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "link": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "summary": "Article URL: https://www.up.com/news/safety/Tracking-Rail-Heat-260608\nComments URL: https://news.ycombinator.com/item?id=48951780\nPoints: 5\n# Comments: 1",
-      "publishedAt": "2026-07-17T20:12:59.000Z",
-      "image": "https://www.up.com/content/dam/upcom/corp-comm/images/news/2026/june/IMG_UP_260608_Rail_heat.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T20:12:59.000Z"
     },
     {
       "source": "TechCrunch",
@@ -227,17 +260,6 @@
         }
       ],
       "latestActivity": "2026-07-17T19:49:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Zilog Z80 has turned 50",
-      "link": "https://goliath32.com/blog/z80.html",
-      "summary": "Article URL: https://goliath32.com/blog/z80.html\nComments URL: https://news.ycombinator.com/item?id=48951461\nPoints: 123\n# Comments: 31",
-      "publishedAt": "2026-07-17T19:41:02.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T19:41:02.000Z"
     },
     {
       "source": "The Verge",
@@ -401,17 +423,6 @@
       "latestActivity": "2026-07-17T18:11:13.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
-      "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
-      "summary": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.",
-      "publishedAt": "2026-07-17T18:00:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/dyson-hf1.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T18:00:17.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
       "link": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
@@ -432,17 +443,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T17:47:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief…",
-      "publishedAt": "2026-07-17T17:45:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T17:45:46.000Z"
     },
     {
       "source": "The Verge",
