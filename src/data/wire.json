@@ -1,6 +1,83 @@
 {
-  "syncedAt": "2026-07-18T09:36:19.083Z",
+  "syncedAt": "2026-07-18T11:06:22.773Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "OpenAI will start notifying parents if their teen has been kicked off of ChatGPT",
+      "link": "https://www.engadget.com/2218076/openai-notify-parents-teen-banned-chatgpt-violence/",
+      "summary": "OpenAI will send a notification to parents with linked teen accounts if their children have violated its policies around violence.",
+      "publishedAt": "2026-07-18T11:00:20.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-will-start-notifying-parents-if-their-teen-has-been-kicked-off-of-chatgpt/l-intro-1784372242.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T11:00:20.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
+      "link": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+      "summary": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
+      "publishedAt": "2026-07-18T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a5a738965c28720eb4e89e1/191:100/w_1280,c_limit/The-Best-Motion-Sensors-and-Privacy-Alternatives-to-Security-Cameras.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T10:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Your Period Tracker Is (Probably) Spying on You",
+      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+      "publishedAt": "2026-07-18T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a5ac7c5087b4a8eadcc0752/191:100/w_1280,c_limit/Security-News-Period-Tracker-Spying-on-You-Security.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T10:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "summary": "Article URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent\nComments URL: https://news.ycombinator.com/item?id=489566…",
+      "publishedAt": "2026-07-18T10:21:19.000Z",
+      "image": "https://cdn.videocardz.com/1/2026/07/LG-MONITORS-MCAFFE.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T10:21:19.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "publishedAt": "2026-07-18T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a57867336e98c56882c9e64/191:100/w_1280,c_limit/GeminiStorage.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
+      "link": "https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/",
+      "summary": "This year’s World Cup has faced sweltering heat and humidity. Now it may need to deal with wildfire smoke.",
+      "publishedAt": "2026-07-18T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a5aaa0c65d8dd9c411b8434/191:100/w_1280,c_limit/GettyImages-2286451139.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Balmuda NatureWind Studio Review: A Better Breeze",
+      "link": "https://www.wired.com/review/balmuda-naturewind-studio-fan/",
+      "summary": "Balmuda has engineered a remarkably pleasant breeze with its new NatureWind Studio, but is it worth hundreds more than its competition?",
+      "publishedAt": "2026-07-18T09:32:00.000Z",
+      "image": "https://media.wired.com/photos/6a5af789573ebecb668f5c7d/191:100/w_1280,c_limit/Review--Balmuda-NatureWind-Studio.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T09:32:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "TikTok is no longer banned on US government devices",
@@ -35,6 +112,28 @@
       "latestActivity": "2026-07-18T09:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Qubes OS Security in the Public Record",
+      "link": "https://arxiv.org/abs/2607.14587",
+      "summary": "Article URL: https://arxiv.org/abs/2607.14587\nComments URL: https://news.ycombinator.com/item?id=48956307\nPoints: 8\n# Comments: 0",
+      "publishedAt": "2026-07-18T08:50:07.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T08:50:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Computer at the Bottom of a Canal",
+      "link": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+      "summary": "Article URL: https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/\nComments URL: https://news.ycombinator.com/item?id=48956231\nPoints: 9\n# Comments: 1",
+      "publishedAt": "2026-07-18T08:33:31.000Z",
+      "image": "https://negroniventurestudios.com/wp-content/uploads/2026/07/01-hero-canal-labelled-master-1024x574.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-18T08:33:31.000Z"
+    },
+    {
       "source": "The Verge",
       "title": "Fine, electric mountain bikes don’t suck",
       "link": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
@@ -49,9 +148,9 @@
       "source": "Hacker News",
       "title": "Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
       "link": "https://github.com/skorotkiewicz/signal-in-the-dark",
-      "summary": "Article URL: https://github.com/skorotkiewicz/signal-in-the-dark\nComments URL: https://news.ycombinator.com/item?id=48955740\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://github.com/skorotkiewicz/signal-in-the-dark\nComments URL: https://news.ycombinator.com/item?id=48955740\nPoints: 10\n# Comments: 1",
       "publishedAt": "2026-07-18T06:32:24.000Z",
-      "image": "https://opengraph.githubassets.com/9f7825733432f8e621589954ea15e4e4e39169d1c9579b7f5f5b7ed2a556da51/skorotkiewicz/signal-in-the-dark",
+      "image": "https://opengraph.githubassets.com/227ac63ec1a7584e8dd85b5b1abfa65a86a3316b4547b5a98e5de9531c9f6e1d/skorotkiewicz/signal-in-the-dark",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-18T06:32:24.000Z"
@@ -82,7 +181,7 @@
       "source": "Hacker News",
       "title": "Show HN: IKEA Complexity Index",
       "link": "https://ikea.greg.technology/",
-      "summary": "Article URL: https://ikea.greg.technology/\nComments URL: https://news.ycombinator.com/item?id=48955042\nPoints: 29\n# Comments: 14",
+      "summary": "Article URL: https://ikea.greg.technology/\nComments URL: https://news.ycombinator.com/item?id=48955042\nPoints: 56\n# Comments: 27",
       "publishedAt": "2026-07-18T03:51:42.000Z",
       "image": null,
       "sourceCount": 1,
@@ -93,7 +192,7 @@
       "source": "Hacker News",
       "title": "Regressive JPEGs",
       "link": "https://maurycyz.com/projects/bad_jpeg/",
-      "summary": "Article URL: https://maurycyz.com/projects/bad_jpeg/\nComments URL: https://news.ycombinator.com/item?id=48954851\nPoints: 307\n# Comments: 24",
+      "summary": "Article URL: https://maurycyz.com/projects/bad_jpeg/\nComments URL: https://news.ycombinator.com/item?id=48954851\nPoints: 378\n# Comments: 36",
       "publishedAt": "2026-07-18T03:14:20.000Z",
       "image": null,
       "sourceCount": 1,
@@ -104,7 +203,7 @@
       "source": "Hacker News",
       "title": "I started a “dirt notebook”",
       "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "summary": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/\nComments URL: https://news.ycombinator.com/item?id=48954149\nPoints: 62\n# Comments: 53",
+      "summary": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/\nComments URL: https://news.ycombinator.com/item?id=48954149\nPoints: 70\n# Comments: 58",
       "publishedAt": "2026-07-18T01:12:13.000Z",
       "image": "/static/og-image.png",
       "sourceCount": 1,
@@ -121,28 +220,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-18T01:01:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "link": "https://www.stenchill.com/en/",
-      "summary": "Article URL: https://www.stenchill.com/en/\nComments URL: https://news.ycombinator.com/item?id=48953981\nPoints: 50\n# Comments: 10",
-      "publishedAt": "2026-07-18T00:48:37.000Z",
-      "image": "https://stenchill.com/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-18T00:48:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-      "summary": "Article URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier\nComments URL: https://news.ycombinator.com/item?id=48953406\nPoint…",
-      "publishedAt": "2026-07-17T23:26:35.000Z",
-      "image": "https://cdn.prod.website-files.com/6846c7b5a78f3e9225c64f10/6989e3d45b7a3c2eb3795578_beyond-alphafold-with-isomorphic-labs-drug-design-engine_l.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T23:26:35.000Z"
     },
     {
       "source": "TechCrunch",
@@ -165,17 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T22:55:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\nComments URL: https://news.ycombinato…",
-      "publishedAt": "2026-07-17T22:26:30.000Z",
-      "image": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/07/LNM-20260713-MATTERSKAISER-01.jpg?fit=2000%2C1333&ssl=1",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T22:26:30.000Z"
     },
     {
       "source": "TechCrunch",
@@ -288,17 +354,6 @@
       "latestActivity": "2026-07-17T20:09:27.000Z"
     },
     {
-      "source": "Wired",
-      "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
-      "link": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
-      "summary": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
-      "publishedAt": "2026-07-17T19:50:38.000Z",
-      "image": "https://media.wired.com/photos/6a5a677665d8dd9c411b81aa/191:100/w_1280,c_limit/AWS-Billing-Glitch-Business-2240015205.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T19:50:38.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
@@ -348,17 +403,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T19:19:42.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
-      "link": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
-      "summary": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
-      "publishedAt": "2026-07-17T19:17:46.000Z",
-      "image": "https://media.wired.com/photos/6a5a63486885fb838e26f206/191:100/w_1280,c_limit/GettyImages-2285777540.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T19:17:46.000Z"
     },
     {
       "source": "The Verge",
@@ -456,28 +500,6 @@
       "latestActivity": "2026-07-17T18:30:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
-      "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
-      "summary": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
-      "publishedAt": "2026-07-17T18:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a4f7be741055fa5318e81e1/191:100/w_1280,c_limit/070926_Polymarket-Panama.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T18:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here are the Samsung Galaxy Z Flip 8 and Z Fold 8 camera and battery specs, apparently",
-      "link": "https://www.engadget.com/2217717/here-are-the-samsung-galaxy-z-flip-8-and-z-fold-8-camera-and-battery-specs/",
-      "summary": "Camera upgrades in the Z Flip 8, Fold 8 and Fold 8 Ultra appear to be slim.",
-      "publishedAt": "2026-07-17T18:11:13.000Z",
-      "image": "https://www.engadget.com/img/gallery/here-are-the-samsung-galaxy-z-flip-8-and-z-fold-8-camera-and-battery-specs-apparently/l-intro-1784311802.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T18:11:13.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
       "link": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
@@ -489,17 +511,6 @@
       "latestActivity": "2026-07-17T17:49:19.000Z"
     },
     {
-      "source": "Wired",
-      "title": "ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’",
-      "link": "https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/",
-      "summary": "A newly renewed, $25 million-per-year contract with a subsidiary of Thomson Reuters further expands the power of ICE under the Trump administration.",
-      "publishedAt": "2026-07-17T17:47:05.000Z",
-      "image": "https://media.wired.com/photos/6a579eea8c18b872362b5885/191:100/w_1280,c_limit/GettyImages-2277720851.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T17:47:05.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Apple’s plot to crush OpenAI",
       "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
@@ -509,17 +520,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T17:41:32.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "‘The Odyssey’ Backlash Failed Tremendously",
-      "link": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
-      "summary": "For all the hysteria over “woke” casting and ahistorical choices, Christopher Nolan’s epic is on track to make $200 million globally during its opening weekend.",
-      "publishedAt": "2026-07-17T17:09:13.000Z",
-      "image": "https://media.wired.com/photos/6a552821d75c37609df0acb3/191:100/w_1280,c_limit/Odyssey-Postmortem-Culture-MCDODYS_UV019.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T17:09:13.000Z"
     },
     {
       "source": "Ars Technica",
