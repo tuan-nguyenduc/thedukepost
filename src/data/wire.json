@@ -1,28 +1,6 @@
 {
-  "syncedAt": "2026-07-19T20:53:44.450Z",
+  "syncedAt": "2026-07-19T22:55:36.809Z",
   "items": [
-    {
-      "source": "Hacker News",
-      "title": "Heavy TV watching associated with smaller brain structures, study finds",
-      "link": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
-      "summary": "Article URL: https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/\nComments URL: https://news.ycombinator.com/item?id=48971418\nPoints: 7…",
-      "publishedAt": "2026-07-19T20:25:58.000Z",
-      "image": "https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2026/06/raichlen-sedentary-brain-top.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T20:25:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
-      "link": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
-      "summary": "Article URL: https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv\nComments URL: https://news.ycombinator.com/item?id=48970991\nPoints: 15\n# Commen…",
-      "publishedAt": "2026-07-19T19:27:16.000Z",
-      "image": "https://cdn.videocardz.com/1/2026/07/GTA3-INSIDE-GTA-SA-MOD.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T19:27:16.000Z"
-    },
     {
       "source": "The Verge",
       "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
@@ -30,9 +8,137 @@
       "summary": "I’m partial to that avocado green one. | Image: Reto Project\t\n\nFollowing the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affo…",
       "publishedAt": "2026-07-19T19:26:06.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rsz_1233241238.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "The Kodak EC35 is a pocketable, beginner-friendly 35mm film camera",
+          "link": "https://www.engadget.com/2218273/kodak-ec35-pocketable-beginner-friendly-35mm-film-camera/",
+          "publishedAt": "2026-07-19T22:15:58.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-19T22:15:58.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
+      "publishedAt": "2026-07-19T22:11:21.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-19T19:26:06.000Z"
+      "latestActivity": "2026-07-19T22:11:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We want Texans to know their rights",
+      "link": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion\nComments URL: https://news.ycombinator.com/item?id…",
+      "publishedAt": "2026-07-19T22:03:11.000Z",
+      "image": "https://www.eff.org/files/banner_library/mayday_health_banner.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T22:03:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+      "link": "https://github.com/Pedroshakoor/grok-build-ios",
+      "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-19T21:51:26.000Z",
+      "image": "https://opengraph.githubassets.com/7ca07b7fae9824a76bfd77a54e5232b66642106ff9937efd2ee6d1d8368e57f9/Pedroshakoor/grok-build-ios",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T21:51:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "publishedAt": "2026-07-19T21:45:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Ben-Affleck_0309_R1_c.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T21:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: A canvas-based note taking and organizer app",
+      "link": "https://www.passinote.app/",
+      "summary": "So I've been working on this app for a very long time now. Started off by wanting an app that separates long form notes from short form notes visually and keeps everything organize…",
+      "publishedAt": "2026-07-19T21:31:48.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T21:31:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to Abandon Your Climate Commitments and Get Away with It",
+      "link": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html\nComments URL: https://news.ycombinator.com/item?id=48971781\nPoints: 11\n# Comm…",
+      "publishedAt": "2026-07-19T21:24:03.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T21:24:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study\nComments URL: https://news.ycombinator.com/item?id=48971738\nPoints: 73\n# Comment…",
+      "publishedAt": "2026-07-19T21:18:10.000Z",
+      "image": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T21:18:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "publishedAt": "2026-07-19T21:16:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/getty-japan-flag-distance.jpg?resize=1200,827",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T21:16:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+      "link": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+      "summary": "Sure is a lot of porcelein in there. | Image: Kieran Hebden\t\n\nJust why?\nʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌　҉　　　　　͡　͞　͞　͞　҉● ࿀ ●  ࿀  ●　　　҉⃝ 　　　⃝͢ ͞　　　͘　͞⃝̕ ͢　　　　̛　⃝…",
+      "publishedAt": "2026-07-19T21:02:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/four-tet-wingdings.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T21:02:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "link": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "summary": "Article URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html\nComments URL: https://news.ycombinator.com/item?id=48971566\nPoints: 24\n# Comments: 13",
+      "publishedAt": "2026-07-19T20:50:42.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T20:50:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+      "link": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+      "summary": "Article URL: https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv\nComments URL: https://news.ycombinator.com/item?id=48970991\nPoints: 51\n# Commen…",
+      "publishedAt": "2026-07-19T19:27:16.000Z",
+      "image": "https://cdn.videocardz.com/1/2026/07/GTA3-INSIDE-GTA-SA-MOD.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T19:27:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -44,17 +150,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T19:24:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Orion Browser by Kagi",
-      "link": "https://orionbrowser.com/",
-      "summary": "Article URL: https://orionbrowser.com/\nComments URL: https://news.ycombinator.com/item?id=48970894\nPoints: 10\n# Comments: 7",
-      "publishedAt": "2026-07-19T19:13:29.000Z",
-      "image": "https://orionbrowser.com/orion-og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T19:13:29.000Z"
     },
     {
       "source": "Engadget",
@@ -71,7 +166,7 @@
       "source": "Hacker News",
       "title": "HomeLab #1: MikroTik as a Home Router",
       "link": "https://justsomebody.dev/blog/mikrotik-home-router",
-      "summary": "Article URL: https://justsomebody.dev/blog/mikrotik-home-router\nComments URL: https://news.ycombinator.com/item?id=48970772\nPoints: 16\n# Comments: 8",
+      "summary": "Article URL: https://justsomebody.dev/blog/mikrotik-home-router\nComments URL: https://news.ycombinator.com/item?id=48970772\nPoints: 54\n# Comments: 35",
       "publishedAt": "2026-07-19T18:57:01.000Z",
       "image": "https://justsomebody.dev/blog/mikrotik-home-router/og.png",
       "sourceCount": 1,
@@ -101,28 +196,6 @@
       "latestActivity": "2026-07-19T17:35:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "HMD Touch 4G",
-      "link": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "summary": "Article URL: https://www.hmd.com/en_int/hmd-touch-4g\nComments URL: https://news.ycombinator.com/item?id=48969983\nPoints: 49\n# Comments: 43",
-      "publishedAt": "2026-07-19T17:25:03.000Z",
-      "image": "https://images.ctfassets.net/wcfotm6rrl7u/7wl5L7zEvmxcSEk731SC8r/9f41629703d9f243ca23ab22fc73ec71/HMD_Touch_4G-OG_Image.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T17:25:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Last MPEG-4 Visual Patent Has Expired",
-      "link": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
-      "summary": "Article URL: https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired\nComments URL: https://news.ycombinator.com/item?id=48969635\nPoints: 89\n# Comments: 18",
-      "publishedAt": "2026-07-19T16:45:17.000Z",
-      "image": "https://www.phoronix.net/image.php?id=2026&image=mpeg4_last_patent",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T16:45:17.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The FBI reportedly won’t investigate ICE anymore",
       "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
@@ -145,17 +218,6 @@
       "latestActivity": "2026-07-19T16:05:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130\nComments URL: https://news.ycombinator.com/item?id=48969291\nPoints: 122\n# Comments: 45",
-      "publishedAt": "2026-07-19T16:02:25.000Z",
-      "image": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_200x200.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T16:02:25.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Infrared tech is decades old – why does almost every TV remote use it?",
       "link": "https://www.engadget.com/2213636/why-infrared-still-used-tvs/",
@@ -165,17 +227,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T15:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-      "link": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-      "summary": "Article URL: https://retrogamecoders.com/c64-basic-dungeon-part8/\nComments URL: https://news.ycombinator.com/item?id=48968949\nPoints: 40\n# Comments: 1",
-      "publishedAt": "2026-07-19T15:20:22.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T15:20:22.000Z"
     },
     {
       "source": "The Verge",
@@ -253,17 +304,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T13:28:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The future of physical games is not looking great",
-      "link": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-      "summary": "Grand Theft Auto VI release won’t offer a disc. | Image: Rockstar Games\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more…",
-      "publishedAt": "2026-07-19T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T12:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -409,39 +449,6 @@
       "latestActivity": "2026-07-18T17:55:18.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "X and music publishers quietly settle opposing lawsuits",
-      "link": "https://www.engadget.com/2218101/x-music-publishers-quietly-settle-opposing-lawsuits/",
-      "summary": "The original lawsuit was filed in 2023 and claimed Twitter hosted thousands of cases of copyright infringement.",
-      "publishedAt": "2026-07-18T16:56:17.000Z",
-      "image": "https://www.engadget.com/img/gallery/x-and-music-publishers-quietly-settle-opposing-lawsuits/l-intro-1784392202.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-18T16:56:17.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
-      "publishedAt": "2026-07-18T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Honda-Prologue-at-Tesla-Supercharger1.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-18T16:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Federal employees can download TikTok on their work phones again",
-      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
-      "publishedAt": "2026-07-18T15:54:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1821998528.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-18T15:54:24.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Will AI fix prior authorization—or make it worse?",
       "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
@@ -572,17 +579,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T17:08:05.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
-      "link": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
-      "summary": "Grasshopper-like tests could begin in 2028.",
-      "publishedAt": "2026-07-17T16:42:19.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/EjqIBa_XkAAANsK-1152x648-1784306489.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T16:42:19.000Z"
     },
     {
       "source": "MIT Technology Review",
