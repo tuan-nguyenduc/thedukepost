@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-07-19T11:10:15.783Z",
+  "syncedAt": "2026-07-19T13:22:41.395Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "I burned all my tokens researching how to save tokens",
+      "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "summary": "Article URL: https://quesma.com/blog/custom-deep-research-pipeline/\nComments URL: https://news.ycombinator.com/item?id=48967355\nPoints: 19\n# Comments: 4",
+      "publishedAt": "2026-07-19T12:01:53.000Z",
+      "image": "https://quesma.com/_astro/wiki-preview.Ds4TSUAH.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T12:01:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The future of physical games is not looking great",
+      "link": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+      "summary": "Grand Theft Auto VI release won’t offer a disc. | Image: Rockstar Games\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more…",
+      "publishedAt": "2026-07-19T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "summary": "Article URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4\nComments URL: https://news.ycombinator.com/item?id=48967256\nPoints: 16\n# Comments: 3",
+      "publishedAt": "2026-07-19T11:48:18.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T11:48:18.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
+      "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+      "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
+      "publishedAt": "2026-07-19T11:19:31.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555-1152x648.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T11:19:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I joined the IndieWeb, here's what I learned",
+      "link": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "summary": "Article URL: https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/\nComments URL: https://news.ycombinator.com/item?id=48966984\nPoints: 8\n# Comments: 4",
+      "publishedAt": "2026-07-19T11:14:38.000Z",
+      "image": "https://img.andros.dev/yzCsfEYO8dKYjakeL7mkshKOE7o=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/jurian-kersten-nZI4q-nmzjU-unsplash.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T11:14:38.000Z"
+    },
     {
       "source": "The Verge",
       "title": "The grueling, 630-mile road race where the only fuel is sunlight",
@@ -35,6 +90,28 @@
       "latestActivity": "2026-07-19T11:00:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "The death and rebirth of my home server",
+      "link": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "summary": "Article URL: https://sgt.hootr.club/blog/home-server-rebirth/\nComments URL: https://news.ycombinator.com/item?id=48966769\nPoints: 22\n# Comments: 8",
+      "publishedAt": "2026-07-19T10:44:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T10:44:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "summary": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard\nComments URL: https://news.ycombinator.com/item?id=48966713\nPoints: 81\n# Comments: 43",
+      "publishedAt": "2026-07-19T10:34:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T10:34:58.000Z"
+    },
+    {
       "source": "Wired",
       "title": "The 10 Best Electrolyte Powders (We Tested Over 20)",
       "link": "https://www.wired.com/story/best-electrolyte-powders/",
@@ -49,7 +126,7 @@
       "source": "Hacker News",
       "title": "Claude Code uses Bun written in Rust now",
       "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\nComments URL: https://news.ycombinator.com/item?id=48966569\nPoints: 47\n# Comments: 14",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\nComments URL: https://news.ycombinator.com/item?id=48966569\nPoints: 123\n# Comments: 151",
       "publishedAt": "2026-07-19T10:03:23.000Z",
       "image": null,
       "sourceCount": 1,
@@ -93,7 +170,7 @@
       "source": "Hacker News",
       "title": "Qwen 3.8 Max Preview",
       "link": "https://www.qwencloud.com/pricing/token-plan",
-      "summary": "Article URL: https://www.qwencloud.com/pricing/token-plan\nComments URL: https://news.ycombinator.com/item?id=48966190\nPoints: 20\n# Comments: 2",
+      "summary": "Article URL: https://www.qwencloud.com/pricing/token-plan\nComments URL: https://news.ycombinator.com/item?id=48966190\nPoints: 149\n# Comments: 80",
       "publishedAt": "2026-07-19T08:57:31.000Z",
       "image": "https://img.alicdn.com/imgextra/i3/O1CN01eBklSt1jT2S77Xekm_!!6000000004548-2-tps-224-224.png",
       "sourceCount": 1,
@@ -104,67 +181,12 @@
       "source": "Hacker News",
       "title": "Half a Second – a book about the XZ backdoor",
       "link": "https://www.half-second.com/",
-      "summary": "Article URL: https://www.half-second.com/\nComments URL: https://news.ycombinator.com/item?id=48966139\nPoints: 9\n# Comments: 2",
+      "summary": "Article URL: https://www.half-second.com/\nComments URL: https://news.ycombinator.com/item?id=48966139\nPoints: 36\n# Comments: 33",
       "publishedAt": "2026-07-19T08:48:41.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T08:48:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen3.8 is launching and going open-weight soon",
-      "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "summary": "Article URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291\nComments URL: https://news.ycombinator.com/item?id=48966120\nPoints: 201\n# Comments: 89",
-      "publishedAt": "2026-07-19T08:44:57.000Z",
-      "image": "https://pbs.twimg.com/media/HNk8XP_aoAAUShj.jpg:large",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T08:44:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally",
-      "link": "https://offlinetts.com/",
-      "summary": "Article URL: https://offlinetts.com/\nComments URL: https://news.ycombinator.com/item?id=48965983\nPoints: 4\n# Comments: 2",
-      "publishedAt": "2026-07-19T08:21:28.000Z",
-      "image": "https://offlinetts.com/og-image.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T08:21:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mirror your GitHub repos to tangled.org automatically",
-      "link": "https://synchub.to/",
-      "summary": "Article URL: https://synchub.to/\nComments URL: https://news.ycombinator.com/item?id=48965918\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-07-19T08:06:58.000Z",
-      "image": "https://synchub.to/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T08:06:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Mighty Big Array of Finn Jensen LA8YB",
-      "link": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-      "summary": "Article URL: https://la0by.darc.de/LA8YB_EME_MBA.htm\nComments URL: https://news.ycombinator.com/item?id=48965914\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-07-19T08:05:46.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T08:05:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-      "summary": "Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic\nComments URL: https://news.ycombinator.com/item?id=48965886\nPoints: 33\n# Comments: 44",
-      "publishedAt": "2026-07-19T08:00:24.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T08:00:24.000Z"
     },
     {
       "source": "The Verge",
@@ -365,17 +387,6 @@
       "latestActivity": "2026-07-18T13:00:01.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Sony’s flagship RGB LED TV is incredible",
-      "link": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
-      "summary": "Sony’s flagship Bravia 9 II is the best RGB LED TV I’ve seen this year.\t\n\nThe Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeo…",
-      "publishedAt": "2026-07-18T12:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268637_Sony_Bravia_9_II_TV_JHiggins_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-18T12:30:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "AI-run 'utopias,' Moss in 2D and other new indie games worth checking out",
       "link": "https://www.engadget.com/2217879/ai-run-utopias-moss-in-2d-and-other-new-indie-games-worth-checking-out/",
@@ -561,17 +572,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-17T16:42:19.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
-      "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
-      "summary": "Fubo subscribers still don't have Versant channels.",
-      "publishedAt": "2026-07-17T16:24:21.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2022925606-1152x648-1751910061.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T16:24:21.000Z"
     },
     {
       "source": "MIT Technology Review",
