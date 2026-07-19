@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { authorSlug, authorHref } from '../../lib/authors';
+
+const articles = await getCollection('articles', ({ data }) => !data.draft);
+
+const authorCounts = new Map<string, { name: string; count: number }>();
+for (const article of articles) {
+  const slug = authorSlug(article.data.author);
+  const existing = authorCounts.get(slug);
+  if (existing) {
+    existing.count += 1;
+  } else {
+    authorCounts.set(slug, { name: article.data.author, count: 1 });
+  }
+}
+
+const authors = Array.from(authorCounts.values()).sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+---
+<BaseLayout
+  title="Authors — The Duke Post"
+  description="Browse The Duke Post's original articles by author."
+>
+  <section class="wrap page">
+    <p class="back"><a href="/articles">← All articles</a></p>
+    <h1>Authors</h1>
+    {authors.length > 0 ? (
+      <div class="author-cloud">
+        {authors.map((author) => (
+          <a href={authorHref(author.name)} class="author-chip sticker">
+            {author.name} <span class="author-count">{author.count}</span>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="empty">No articles published yet.</p>
+    )}
+  </section>
+</BaseLayout>
+
+<style>
+  .page { padding: 48px 24px 80px; }
+  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
+  .back a { color: var(--slate); }
+  .back a:hover { color: var(--ink); }
+  h1 { font-size: 36px; margin-bottom: 36px; }
+  .author-cloud { display: flex; flex-wrap: wrap; gap: 12px; }
+  .author-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    font-size: 15px;
+  }
+  .author-count {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--slate);
+  }
+  .empty { color: var(--slate); font-size: 17px; }
+</style>
