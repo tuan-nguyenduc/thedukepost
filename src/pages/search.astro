@@ -16,7 +16,11 @@ import { categoryHref, categoryLabel } from '../lib/categories';
       />
     </div>
     <p id="search-status" class="search-status" aria-live="polite"></p>
-    <ul id="search-results" class="results-list" role="list"></ul>
+    <ul id="search-results" class="results-list" role="listbox"></ul>
+    <div id="search-empty" class="empty-state sticker" hidden>
+      <p class="empty-state__title">No results found</p>
+      <p class="empty-state__hint">Try a different search term, or browse <a href="/articles">all articles</a> and <a href="/wire">the Wire</a> instead.</p>
+    </div>
   </section>
 </BaseLayout>
 
@@ -35,8 +39,11 @@ import { categoryHref, categoryLabel } from '../lib/categories';
   const input = document.getElementById('search-input') as HTMLInputElement;
   const resultsList = document.getElementById('search-results') as HTMLUListElement;
   const status = document.getElementById('search-status') as HTMLParagraphElement;
+  const emptyState = document.getElementById('search-empty') as HTMLDivElement;
 
   let fuse: Fuse<SearchItem> | null = null;
+  let activeIndex = -1;
+  let currentResults: SearchItem[] = [];
 
   function escapeHtml(str: string): string {
     return str.replace(/[&<>"']/g, (c) => ({
@@ -73,19 +80,33 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     return labels[cat] ?? cat;
   }
 
-  function renderResults(results: Fuse.FuseResult<SearchItem>[]) {
-    if (results.length === 0) {
+  function setActive(index: number): void {
+    const items = resultsList.querySelectorAll('.result-item');
+    items.forEach((el) => el.classList.remove('result-item--active'));
+    if (index >= 0 && index < items.length) {
+      items[index].classList.add('result-item--active');
+      items[index].scrollIntoView({ block: 'nearest' });
+    }
+    activeIndex = index;
+  }
+
+  function renderResults(items: SearchItem[], hasQuery: boolean) {
+    currentResults = items;
+    activeIndex = -1;
+    if (items.length === 0) {
       resultsList.innerHTML = '';
-      status.textContent = 'No results found.';
+      status.textContent = '';
+      emptyState.hidden = !hasQuery;
       return;
     }
-    status.textContent = `${results.length} result${results.length === 1 ? '' : 's'}`;
-    resultsList.innerHTML = results.map(({ item }) => {
+    emptyState.hidden = true;
+    status.textContent = `${items.length} result${items.length === 1 ? '' : 's'}`;
+    resultsList.innerHTML = items.map((item, i) => {
       const isWire = item.type === 'wire';
       const eyebrow = escapeHtml(isWire ? `Wire · ${item.category}` : categoryLabel(item.category));
       const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
       return `
-      <li class="result-item">
+      <li class="result-item" role="option" data-index="${i}">
         <a href="${escapeHtml(item.link)}" class="result-card sticker"${linkAttrs}>
           <span class="result-meta">
             <span class="eyebrow">${eyebrow}</span>
@@ -105,15 +126,38 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     if (!q) {
       resultsList.innerHTML = '';
       status.textContent = '';
+      emptyState.hidden = true;
+      currentResults = [];
+      activeIndex = -1;
       return;
     }
-    renderResults(fuse.search(q));
+    renderResults(fuse.search(q).map((r) => r.item), true);
     const url = new URL(window.location.href);
     url.searchParams.set('q', q);
     window.history.replaceState(null, '', url.toString());
   }
 
   input.addEventListener('input', () => runSearch(input.value));
+
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      setActive(Math.min(activeIndex + 1, currentResults.length - 1));
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      setActive(Math.max(activeIndex - 1, 0));
+    } else if (e.key === 'Enter') {
+      if (activeIndex >= 0 && currentResults[activeIndex]) {
+        e.preventDefault();
+        const item = currentResults[activeIndex];
+        if (item.type === 'wire') {
+          window.open(item.link, '_blank', 'noopener,noreferrer');
+        } else {
+          window.location.href = item.link;
+        }
+      }
+    }
+  });
 
   init();
 </script>
@@ -183,4 +227,25 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     font-size: 15px;
     margin: 0;
   }
+  .result-item--active .result-card {
+    background: var(--accent-soft);
+    border-color: var(--accent);
+  }
+
+  .empty-state {
+    padding: 28px 24px;
+    text-align: center;
+  }
+  .empty-state__title {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 8px;
+  }
+  .empty-state__hint {
+    color: var(--slate);
+    font-size: 15px;
+    margin: 0;
+  }
+  .empty-state__hint a { color: var(--accent); border-bottom: 2px solid var(--accent-soft); }
+  .empty-state__hint a:hover { border-color: var(--accent); }
 </style>
