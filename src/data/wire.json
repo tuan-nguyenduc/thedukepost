@@ -1,6 +1,28 @@
 {
-  "syncedAt": "2026-07-19T22:55:36.809Z",
+  "syncedAt": "2026-07-20T03:25:45.968Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Delete Your Data with Drop",
+      "link": "https://privacy.ca.gov/",
+      "summary": "Article URL: https://privacy.ca.gov/\nComments URL: https://news.ycombinator.com/item?id=48973715\nPoints: 9\n# Comments: 0",
+      "publishedAt": "2026-07-20T02:19:22.000Z",
+      "image": "https://privacy.ca.gov/wp-content/uploads/sites/357/2025/10/privacy-meta-promo.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T02:19:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "link": "https://github.com/hgaiser/moonshine",
+      "summary": "Article URL: https://github.com/hgaiser/moonshine\nComments URL: https://news.ycombinator.com/item?id=48972970\nPoints: 8\n# Comments: 2",
+      "publishedAt": "2026-07-20T00:16:50.000Z",
+      "image": "https://opengraph.githubassets.com/8ce0f48461461f6a66e22ae699e161aa05d6561881fc8befda1909f9f0910c62/hgaiser/moonshine",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T00:16:50.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
@@ -45,9 +67,9 @@
       "source": "Hacker News",
       "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
       "link": "https://github.com/Pedroshakoor/grok-build-ios",
-      "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 3\n# Comments: 0",
+      "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 10\n# Comments: 0",
       "publishedAt": "2026-07-19T21:51:26.000Z",
-      "image": "https://opengraph.githubassets.com/7ca07b7fae9824a76bfd77a54e5232b66642106ff9937efd2ee6d1d8368e57f9/Pedroshakoor/grok-build-ios",
+      "image": "https://opengraph.githubassets.com/1c0ee608f90dfecc84f82b24b6ad98a2b93192a477a28e51e50f40a9b8f10e11/Pedroshakoor/grok-build-ios",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T21:51:26.000Z"
@@ -65,31 +87,20 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: A canvas-based note taking and organizer app",
-      "link": "https://www.passinote.app/",
-      "summary": "So I've been working on this app for a very long time now. Started off by wanting an app that separates long form notes from short form notes visually and keeps everything organize…",
-      "publishedAt": "2026-07-19T21:31:48.000Z",
-      "image": null,
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "summary": "Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer\nComments URL: https://news.ycombinator.com/item?id=48971938\nPoints: 41\n# Comments: 6",
+      "publishedAt": "2026-07-19T21:42:12.000Z",
+      "image": "https://spectrum.ieee.org/media-library/computer-chips-spread-vertically-across-several-shelves-to-create-a-1-million-probabilistic-bit-computer.jpg?id=67500450&width=1200&height=600&coordinates=0%2C330%2C0%2C170",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-19T21:31:48.000Z"
+      "latestActivity": "2026-07-19T21:42:12.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "How to Abandon Your Climate Commitments and Get Away with It",
-      "link": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html\nComments URL: https://news.ycombinator.com/item?id=48971781\nPoints: 11\n# Comm…",
-      "publishedAt": "2026-07-19T21:24:03.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T21:24:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "title": "AI advice made people less accurate but more confident – sudy",
       "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study\nComments URL: https://news.ycombinator.com/item?id=48971738\nPoints: 73\n# Comment…",
+      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study\nComments URL: https://news.ycombinator.com/item?id=48971738\nPoints: 291\n# Commen…",
       "publishedAt": "2026-07-19T21:18:10.000Z",
       "image": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif",
       "sourceCount": 1,
@@ -122,23 +133,12 @@
       "source": "Hacker News",
       "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
       "link": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-      "summary": "Article URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html\nComments URL: https://news.ycombinator.com/item?id=48971566\nPoints: 24\n# Comments: 13",
+      "summary": "Article URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html\nComments URL: https://news.ycombinator.com/item?id=48971566\nPoints: 54\n# Comments: 42",
       "publishedAt": "2026-07-19T20:50:42.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T20:50:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
-      "link": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
-      "summary": "Article URL: https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv\nComments URL: https://news.ycombinator.com/item?id=48970991\nPoints: 51\n# Commen…",
-      "publishedAt": "2026-07-19T19:27:16.000Z",
-      "image": "https://cdn.videocardz.com/1/2026/07/GTA3-INSIDE-GTA-SA-MOD.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T19:27:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -152,6 +152,17 @@
       "latestActivity": "2026-07-19T19:24:45.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Orion Browser by Kagi",
+      "link": "https://orionbrowser.com/",
+      "summary": "Article URL: https://orionbrowser.com/\nComments URL: https://news.ycombinator.com/item?id=48970894\nPoints: 74\n# Comments: 72",
+      "publishedAt": "2026-07-19T19:13:29.000Z",
+      "image": "https://orionbrowser.com/orion-og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-19T19:13:29.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "NASA shares beautiful timelapse of the Psyche spacecraft's view over Mars",
       "link": "https://www.engadget.com/2218251/nasa-mars-timelapse-psyche-spacecraft-close-approach/",
@@ -161,17 +172,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T19:08:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "HomeLab #1: MikroTik as a Home Router",
-      "link": "https://justsomebody.dev/blog/mikrotik-home-router",
-      "summary": "Article URL: https://justsomebody.dev/blog/mikrotik-home-router\nComments URL: https://news.ycombinator.com/item?id=48970772\nPoints: 54\n# Comments: 35",
-      "publishedAt": "2026-07-19T18:57:01.000Z",
-      "image": "https://justsomebody.dev/blog/mikrotik-home-router/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T18:57:01.000Z"
     },
     {
       "source": "Engadget",
