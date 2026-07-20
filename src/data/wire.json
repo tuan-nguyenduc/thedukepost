@@ -1,11 +1,99 @@
 {
-  "syncedAt": "2026-07-20T06:49:49.218Z",
+  "syncedAt": "2026-07-20T10:55:02.801Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "A Beginner’s Guide to Growing Mushrooms at Home (2026)",
+      "link": "https://www.wired.com/story/mushroom-growing-methods/",
+      "summary": "From countertop kits to a bathroom bucket full of straw and beyond, I spent a year testing popular mushroom-growing methods. Here’s what fruited—and what just grew mold.",
+      "publishedAt": "2026-07-20T10:31:00.000Z",
+      "image": "https://media.wired.com/photos/6a5d62ab05dbc7f92d1b023d/191:100/w_1280,c_limit/I-Tested-5-Mushroom-Growing-Methods%E2%80%94Here%E2%80%99s-What-Worked.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T10:31:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "China delivers a one-two punch to America’s AI dominance ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthr…",
+      "publishedAt": "2026-07-20T10:16:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T10:16:33.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
+      "link": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
+      "summary": "Several Chinese businesses associated with the ebike brand Aipas settled a lawsuit with Amazon and the safety certification company UL in July.",
+      "publishedAt": "2026-07-20T10:15:00.000Z",
+      "image": "https://media.wired.com/photos/6a5a6e05aead5f3b34a76947/191:100/w_1280,c_limit/AmazoneULBike.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T10:15:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
+      "link": "https://www.wired.com/story/teenagers-running-trackflation/",
+      "summary": "Four-minute miles are almost routine. Middle schoolers are beating college runners. Inside the youth track boom that’s turning kids and teens into speed machines.",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a5649ba36e98c56882c9501/191:100/w_1280,c_limit/WEB_2026-06-21_EA-WIRED-NBNO-FullQual_0009.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
+      "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
+      "summary": "A new toolkit for attorneys in Massachusetts targets the technologies police use—and conceal—to build criminal cases, from facial recognition to AI-written police reports.",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a5acafd563e2d24f14f6f9a/191:100/w_1280,c_limit/GettyImages-2265184860.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Apps Marketed to US Troops Are Shipping Chinese and Russian Code",
+      "link": "https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/",
+      "summary": "A first-of-its-kind analysis found more than one in eight apps built for US service members carried foreign code—some from firms in nations the Pentagon designates as adversaries.",
+      "publishedAt": "2026-07-20T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a590c08ef566878c27c1e0d/191:100/w_1280,c_limit/Security_Apps%20Marketed%20to%20US%20Troops%20Are%20Shipping%20Chinese%20and%20Russian%20Code,%20Study%20Finds_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T09:30:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already kno…",
+      "publishedAt": "2026-07-20T08:39:01.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T08:39:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "summary": "Article URL: https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/\nComments URL: https://news.ycombinator.com/item?id=48975665…",
+      "publishedAt": "2026-07-20T08:13:36.000Z",
+      "image": "https://slcyber.io/wp-content/uploads/2026/07/Searchlight-Security-Research_Social_Dark_General.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T08:13:36.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
       "link": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-      "summary": "Article URL: https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/\nComments URL: https://news.ycombinator.com/item?id=48974476\nPoints: 19\n# Comments…",
+      "summary": "Article URL: https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/\nComments URL: https://news.ycombinator.com/item?id=48974476\nPoints: 101\n# Comment…",
       "publishedAt": "2026-07-20T04:49:47.000Z",
       "image": "https://blog.documentfoundation.org/wp-content/uploads/2026/07/vecteezy_a-collection-of-popular-microsoft-office-applications_80916331-e1784283246560.jpg",
       "sourceCount": 1,
@@ -16,7 +104,7 @@
       "source": "Hacker News",
       "title": "Xiaomi-Robotics-1",
       "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "summary": "Article URL: https://robotics.xiaomi.com/xiaomi-robotics-1.html\nComments URL: https://news.ycombinator.com/item?id=48974454\nPoints: 18\n# Comments: 2",
+      "summary": "Article URL: https://robotics.xiaomi.com/xiaomi-robotics-1.html\nComments URL: https://news.ycombinator.com/item?id=48974454\nPoints: 234\n# Comments: 171",
       "publishedAt": "2026-07-20T04:45:15.000Z",
       "image": null,
       "sourceCount": 1,
@@ -27,7 +115,7 @@
       "source": "Hacker News",
       "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
       "link": "https://github.com/Saivineeth147/lora-speedrun",
-      "summary": "Article URL: https://github.com/Saivineeth147/lora-speedrun\nComments URL: https://news.ycombinator.com/item?id=48974325\nPoints: 20\n# Comments: 0",
+      "summary": "Article URL: https://github.com/Saivineeth147/lora-speedrun\nComments URL: https://news.ycombinator.com/item?id=48974325\nPoints: 84\n# Comments: 12",
       "publishedAt": "2026-07-20T04:24:48.000Z",
       "image": "https://repository-images.githubusercontent.com/1305115824/8a9e536e-cfd7-49ca-9feb-56cc68dc9815",
       "sourceCount": 1,
@@ -36,11 +124,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "link": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-      "summary": "Article URL: https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/\nComments URL: https://news.ycombinator.com/item?id=48974292\nPoints: 65\n# Comments: 18",
+      "title": "When can a power company take your land for data center infrastructure?",
+      "link": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+      "summary": "Article URL: https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061\nComments URL: https://news.ycombinator.com/item?id=48974292\nP…",
       "publishedAt": "2026-07-20T04:19:22.000Z",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280056139-e1784391242756.jpg?resize=1200,600",
+      "image": "https://images.theconversation.com/files/747575/original/file-20260713-56-nlkqvq.jpg?ixlib=rb-4.1.0&rect=0%2C675%2C7780%2C3890&q=45&auto=format&w=1356&h=668&fit=crop",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T04:19:22.000Z"
@@ -49,7 +137,7 @@
       "source": "Hacker News",
       "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
       "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "summary": "Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566\nComments URL: https://news.ycombinator.com/item?id=48973869\nPoints: 249\n# Comments: 136",
+      "summary": "Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566\nComments URL: https://news.ycombinator.com/item?id=48973869\nPoints: 421\n# Comments: 255",
       "publishedAt": "2026-07-20T02:51:16.000Z",
       "image": null,
       "sourceCount": 1,
@@ -60,9 +148,9 @@
       "source": "Hacker News",
       "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
       "link": "https://github.com/hgaiser/moonshine",
-      "summary": "Article URL: https://github.com/hgaiser/moonshine\nComments URL: https://news.ycombinator.com/item?id=48972970\nPoints: 98\n# Comments: 48",
+      "summary": "Article URL: https://github.com/hgaiser/moonshine\nComments URL: https://news.ycombinator.com/item?id=48972970\nPoints: 194\n# Comments: 85",
       "publishedAt": "2026-07-20T00:16:50.000Z",
-      "image": "https://opengraph.githubassets.com/68a06e06b906cdc009789d06b3468155ba2c7a8221644685a1d6299a933f1b80/hgaiser/moonshine",
+      "image": "https://opengraph.githubassets.com/1b6ec22a601d3e0f129b6f283b1abd8dc7531fca2c8bfb7cf26b54f5cb5600a8/hgaiser/moonshine",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T00:16:50.000Z"
@@ -102,7 +190,7 @@
       "link": "https://github.com/Pedroshakoor/grok-build-ios",
       "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 10\n# Comments: 0",
       "publishedAt": "2026-07-19T21:51:26.000Z",
-      "image": "https://opengraph.githubassets.com/bd604cb9845b34a9f26f970b468577633ef5ad12e92a2810a7e0eabb7a18a299/Pedroshakoor/grok-build-ios",
+      "image": "https://opengraph.githubassets.com/0b8f5ba5637b768b8dc629246df398a2083a6d1dcde4a84caaf9360d3b0d9d13/Pedroshakoor/grok-build-ios",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T21:51:26.000Z"
@@ -117,17 +205,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T21:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "summary": "Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer\nComments URL: https://news.ycombinator.com/item?id=48971938\nPoints: 62\n# Comments: 9",
-      "publishedAt": "2026-07-19T21:42:12.000Z",
-      "image": "https://spectrum.ieee.org/media-library/computer-chips-spread-vertically-across-several-shelves-to-create-a-1-million-probabilistic-bit-computer.jpg?id=67500450&width=1200&height=600&coordinates=0%2C330%2C0%2C170",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T21:42:12.000Z"
     },
     {
       "source": "TechCrunch",
@@ -199,7 +276,7 @@
       "source": "The Verge",
       "title": "The FBI reportedly won’t investigate ICE anymore",
       "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-      "summary": "ICE agents hide behind masks while skulking through the halls of immigration court | Image: Michael Nigro/Pacific Press/LightRocket via Getty Images\t\n\nAccording to the New York Tim…",
+      "summary": "ICE agents hide behind masks while skulking through the halls of immigration court. | Image: Michael Nigro/Pacific Press/LightRocket via Getty Images\t\n\nAccording to the The New Yor…",
       "publishedAt": "2026-07-19T16:42:10.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -295,17 +372,6 @@
       "latestActivity": "2026-07-19T13:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
-      "link": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
-      "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and fast…",
-      "publishedAt": "2026-07-19T13:28:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRH_Clapper_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T13:28:26.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
       "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
@@ -348,39 +414,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-19T10:32:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
-      "link": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/",
-      "summary": "Astronomers have discovered a rocky exoplanet that has an atmosphere and sits within the habitable zone of a solar system.",
-      "publishedAt": "2026-07-19T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a5a9d867702499ff489cd91/191:100/w_1280,c_limit/cfa-055-helium_atomsphere_planet3H_lrg_0.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "FIFA’s World Cup Halftime Show Puts American-Style Spectacle on the World Stage",
-      "link": "https://www.wired.com/story/fifa-world-cup-halftime-show-what-to-expect/",
-      "summary": "Organizers want the show to be the most-viewed halftime show in history. Having Shakira, Justin Bieber, Coldplay, and BTS will surely help—but do soccer fans want it?",
-      "publishedAt": "2026-07-19T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a5ab6e1745fd6cf42953ce1/191:100/w_1280,c_limit/World-Cup-Halftime-Show-Culture.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T09:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
-      "link": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/",
-      "summary": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
-      "publishedAt": "2026-07-19T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a1fe7c1687fab906bddd9be/191:100/w_1280,c_limit/WIRED-WC26-Cristian-Mera-How-To-Watch.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-19T09:00:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -458,28 +491,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-18T11:18:25.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "4 Best Walking Pads for Small Spaces and Standing Desks (2026)",
-      "link": "https://www.wired.com/story/best-walking-pads/",
-      "summary": "Our remote team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
-      "publishedAt": "2026-07-18T11:03:00.000Z",
-      "image": "https://media.wired.com/photos/6a5a76cfd582497b4863aa7f/191:100/w_1280,c_limit/The-Best-Walking-Pads-We-Use-to-Stay-Active-During-WFH-Days.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-18T11:03:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Your Period Tracker Is (Probably) Spying on You",
-      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-      "publishedAt": "2026-07-18T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a5ac7c5087b4a8eadcc0752/191:100/w_1280,c_limit/Security-News-Period-Tracker-Spying-on-You-Security.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-18T10:30:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -678,17 +689,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-15T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—…",
-      "publishedAt": "2026-07-14T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/01/feature-ivf.jpg?fit=1456,818",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-14T12:10:00.000Z"
     }
   ]
 }
