@@ -1,6 +1,79 @@
 {
-  "syncedAt": "2026-07-21T21:13:05.362Z",
+  "syncedAt": "2026-07-21T22:59:57.923Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+      "publishedAt": "2026-07-21T22:50:01.000Z",
+      "image": "https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/191:100/w_1280,c_limit/security_openai_hack_huggingface.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T22:50:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "link": "https://fireworks.ai/blog/kimik3-fable",
+      "summary": "Article URL: https://fireworks.ai/blog/kimik3-fable\nComments URL: https://news.ycombinator.com/item?id=48999291\nPoints: 9\n# Comments: 0",
+      "publishedAt": "2026-07-21T22:35:24.000Z",
+      "image": "https://cdn.sanity.io/images/pv37i0yn/production/20f8c70f38eafef67a612b55a1f242a291eee1a9-1600x900.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T22:35:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 nov…",
+      "publishedAt": "2026-07-21T22:06:43.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T22:06:43.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
+      "link": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
+      "summary": "Poolside, the San Francisco AI lab that has spent most of its three-year existence quietly selling coding models to governments and defense agencies, released its most capable mode…",
+      "publishedAt": "2026-07-21T21:49:43.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3bn3yoTePyZbPJPJj0uEdC/401a5cb3161eb2cd6ae5d9b4ce0020ed/Nuneybits_Vector_art_of_minimalist_lines_clean_villas_overlooki_8da15709-c192-4383-b807-87d0dbfcf8e4.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T21:49:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "summary": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br...\nSee also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments)\nComme…",
+      "publishedAt": "2026-07-21T20:09:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+          "publishedAt": "2026-07-21T21:48:54.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-21T21:48:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+      "link": "https://www.getcomputable.com/",
+      "summary": "Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everythi…",
+      "publishedAt": "2026-07-21T21:48:19.000Z",
+      "image": "https://computable-site.vercel.app/assets/computable-pfp.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T21:48:19.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "These are the countries moving to ban social media for children",
@@ -8,9 +81,60 @@
       "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social med…",
       "publishedAt": "2026-07-21T20:57:35.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "France will ban social media for children under 15",
+          "link": "https://www.engadget.com/2220289/france-will-ban-social-media-for-children-under-15/",
+          "publishedAt": "2026-07-21T21:43:53.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-21T21:43:53.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
+      "link": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
+      "summary": "GPU memory is the most expensive resource in production AI, and it's also the one running out fastest. \nLong context windows and multi-turn conversations force AI models to repeate…",
+      "publishedAt": "2026-07-21T21:19:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/UUXwemP15RHK5kBVdXsy3/ca6758f1de3542c0d26cb65269c5c5c0/cheap-flash-storage-smk1.jpg?w=300&q=30",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-21T20:57:35.000Z"
+      "latestActivity": "2026-07-21T21:19:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\nComments URL: https://news.ycombinator.com/item?id=48998404\nPoints: 35\n# Comments: 11",
+      "publishedAt": "2026-07-21T21:13:20.000Z",
+      "image": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok/opengraph-image-yqks0s?3313ef8f7f360358",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T21:13:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\nComments URL: https://news.ycombinator.com/item?id=48998362\nPoints: 76…",
+      "publishedAt": "2026-07-21T21:09:25.000Z",
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1784674615",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T21:09:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
+      "link": "https://libretto.sh/browser-tools",
+      "summary": "We’re open-sourcing Browser Tools SDK: a small TypeScript package to give any AI agent a reliable way to control a real browser. With just a few lines of code, you can give any age…",
+      "publishedAt": "2026-07-21T21:01:57.000Z",
+      "image": "https://libretto.sh/og/browser-tools.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T21:01:57.000Z"
     },
     {
       "source": "TechCrunch",
@@ -35,17 +159,6 @@
       "latestActivity": "2026-07-21T20:52:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Mickey Mouse Sells a Bundle",
-      "link": "https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn",
-      "summary": "Article URL: https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn\nComments URL: https://news.ycombinator.com/item?id=48998082\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-07-21T20:48:22.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T20:48:22.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
       "link": "https://www.wired.com/story/best-buy-black-friday-in-july-2026/",
@@ -55,17 +168,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T20:39:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI and Hugging Face partner to address security incident",
-      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "summary": "Article URL: https://openai.com/index/hugging-face-model-evaluation-security-incident/\nComments URL: https://news.ycombinator.com/item?id=48997548\nPoints: 183\n# Comments: 78",
-      "publishedAt": "2026-07-21T20:09:52.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T20:09:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -177,7 +279,7 @@
       "source": "Hacker News",
       "title": "Advertise in ChatGPT",
       "link": "https://ads.openai.com/",
-      "summary": "Article URL: https://ads.openai.com/\nComments URL: https://news.ycombinator.com/item?id=48996571\nPoints: 192\n# Comments: 198",
+      "summary": "Article URL: https://ads.openai.com/\nComments URL: https://news.ycombinator.com/item?id=48996571\nPoints: 240\n# Comments: 233",
       "publishedAt": "2026-07-21T18:58:44.000Z",
       "image": null,
       "sourceCount": 1,
@@ -218,39 +320,6 @@
       "latestActivity": "2026-07-21T18:48:38.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The Price of Happiness (2024)",
-      "link": "https://happiness-science.org/price-of-happiness/",
-      "summary": "Article URL: https://happiness-science.org/price-of-happiness/\nComments URL: https://news.ycombinator.com/item?id=48996364\nPoints: 25\n# Comments: 8",
-      "publishedAt": "2026-07-21T18:42:46.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T18:42:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
-      "link": "https://github.com/Hikari-Systems/slater",
-      "summary": "Article URL: https://github.com/Hikari-Systems/slater\nComments URL: https://news.ycombinator.com/item?id=48996325\nPoints: 17\n# Comments: 7",
-      "publishedAt": "2026-07-21T18:39:41.000Z",
-      "image": "https://opengraph.githubassets.com/bdf4159592fd6c5f86fd724fd6cb23ee53b630830e82abecd69cd167e6e6d999/Hikari-Systems/slater",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T18:39:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "link": "https://freeink.org/",
-      "summary": "Article URL: https://freeink.org/\nComments URL: https://news.ycombinator.com/item?id=48996318\nPoints: 225\n# Comments: 52",
-      "publishedAt": "2026-07-21T18:39:06.000Z",
-      "image": "https://freeink.org/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T18:39:06.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Playstation Plus is saying goodbye to these games in August 2026",
       "link": "https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/",
@@ -260,17 +329,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T18:37:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI Agent – TRMNL",
-      "link": "https://help.trmnl.com/en/articles/14130438-ai-agent",
-      "summary": "Article URL: https://help.trmnl.com/en/articles/14130438-ai-agent\nComments URL: https://news.ycombinator.com/item?id=48996236\nPoints: 22\n# Comments: 14",
-      "publishedAt": "2026-07-21T18:32:21.000Z",
-      "image": "https://downloads.intercomcdn.com/i/o/v9ws3u2x/617860/0719b051b2786587572435169af6/15dbde1828ef9f85e25740f9aad788d4.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T18:32:21.000Z"
     },
     {
       "source": "Engadget",
@@ -379,17 +437,6 @@
       "latestActivity": "2026-07-21T17:51:52.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Apple may unveil a new device subscription service as soon as next week",
-      "link": "https://www.engadget.com/2219945/apple-may-unveil-a-new-device-subscription-service-as-soon-as-next-week/",
-      "summary": "Apple may unveil a new device subscription service, reportedly in partnership with Klarna, as soon as next week.",
-      "publishedAt": "2026-07-21T17:41:19.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-may-unveil-a-new-device-subscription-service-as-soon-as-next-week/l-intro-1784655594.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T17:41:19.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
       "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
@@ -443,28 +490,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T16:53:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Instagram will let users endlessly swap the audio on old posts",
-      "link": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
-      "summary": "There's a symbiotic - and sometimes frustrating - relationship between social media sites and the creators that depend on them. Platforms need influencers' and creators' content to…",
-      "publishedAt": "2026-07-21T16:15:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T16:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Tesla Robotaxis go to Florida",
-      "link": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
-      "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. \nThe company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attachin…",
-      "publishedAt": "2026-07-21T16:11:41.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T16:11:41.000Z"
     },
     {
       "source": "Wired",
@@ -533,17 +558,6 @@
       "latestActivity": "2026-07-21T13:36:17.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Halliday’s New Smart Glasses Skip the Camera",
-      "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
-      "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
-      "publishedAt": "2026-07-21T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a5e3b2daeae4ba2c93b5b52/191:100/w_1280,c_limit/Halliday%20G2%20Lifestyle%20Book.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T13:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
       "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
@@ -608,28 +622,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T18:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
-      "link": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build",
-      "summary": "Zillow, the real estate technology company, doesn't get one conversation with its customers. They move from a phone screen to a loan officer to a real estate agent, sometimes over…",
-      "publishedAt": "2026-07-20T16:38:48.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5MlStH2GRQOz7b1i0t3KaB/49dfcc7b3c90b5478a88a604459f189e/VBXC0582-X2-zillow.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T16:38:48.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "The cleanup trap: Stop asking RAG to fix bad data",
-      "link": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
-      "summary": "The enterprise technology ecosystem is caught in a costly cycle. Over the past two years, millions of dollars have been funneled into generative AI pilots, yet many of these initia…",
-      "publishedAt": "2026-07-20T16:19:45.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6WJse1DvwhmPbH0j3OS56Q/f6032d584f48f6d2f25edd7d56f28830/u7277289442_An_AI_robot_is_tripping_and_falling_on_its_face.__0f42aadb-7cbe-453e-ba9f-37d08820ecb9_1.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T16:19:45.000Z"
     },
     {
       "source": "MIT Technology Review",
