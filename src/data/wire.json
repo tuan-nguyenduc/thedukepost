@@ -1,6 +1,112 @@
 {
-  "syncedAt": "2026-07-21T06:30:55.498Z",
+  "syncedAt": "2026-07-21T10:26:58.491Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "Who’s afraid of the big, bad GPU?",
+      "link": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "summary": "How does AI make you feel? Are you excited to “vibe-code” your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a lit…",
+      "publishedAt": "2026-07-21T10:00:01.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/258075_GPU_IMAGE_LEDE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T10:00:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "publishedAt": "2026-07-21T10:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/gritt-machine-3.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Stop Saying Kids Can’t Read",
+      "link": "https://www.wired.com/story/mississippi-state-testing-reading-comprehension-literacy/",
+      "summary": "Everyone is talking about the reading crisis. But inside the “Mississippi Miracle,” it’s all about comprehension.",
+      "publishedAt": "2026-07-21T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a4fdd3a627676e81b78fc75/191:100/w_1280,c_limit/WEB_CLF_WIRED_260629_CORRECTED_19.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now",
+      "link": "https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/",
+      "summary": "Dealerships installed alarms in millions of vehicles—and left them in even if the buyer didn’t want them. Now researchers warn they can be hacked to unlock, track, and disable cars…",
+      "publishedAt": "2026-07-21T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a5a9ab5d6f2e062653ee65f/191:100/w_1280,c_limit/Security_This%20Device%20Hidden%20in%201.4%20Million%20Cars%20Leaves%20Them%20Vulnerable%20to%20Hacking%20and%20Theft_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Army Is Burning Through Its AI Tokens",
+      "link": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+      "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
+      "publishedAt": "2026-07-21T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a5a5366ad0fb31ed65fa3d3/191:100/w_1280,c_limit/Politics_ArmyBurningThroughAITokens_v4.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T09:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "publishedAt": "2026-07-21T00:12:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Judge approves Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit",
+          "link": "https://www.engadget.com/2219475/judge-approves-anthropic-1-5-billion-settlement-authors/",
+          "publishedAt": "2026-07-21T09:15:55.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-21T09:15:55.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+      "link": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
+      "summary": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
+      "publishedAt": "2026-07-21T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a5ac6b84b54be8a5a7b9c8e/191:100/w_1280,c_limit/Etsy-Flop-Era-Culture-2216760892.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-image-3.0\nComments URL: https://news.ycombinator.com/item?id=48989701\nPoints: 82\n# Comments: 49",
+      "publishedAt": "2026-07-21T08:44:23.000Z",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T08:44:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+      "summary": "Article URL: https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of\nComments URL: https://news.ycombinator.com/item?id=48988793\nPoints: 49\n# Comments: 28",
+      "publishedAt": "2026-07-21T06:29:22.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T06:29:22.000Z"
+    },
     {
       "source": "Engadget",
       "title": "FCC plans to ban companies selling DJI products under other brands",
@@ -11,28 +117,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T06:09:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reverse-engineering is cheap now",
-      "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
-      "summary": "Article URL: https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/\nComments URL: https://news.ycombinator.com/item?id=48988265\nPoints: 16\n# Comments: 5",
-      "publishedAt": "2026-07-21T05:10:46.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T05:10:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Do we just want slaves?",
-      "link": "https://www.yashthapliyal.com/blog/do-we-just-want-slaves",
-      "summary": "Article URL: https://www.yashthapliyal.com/blog/do-we-just-want-slaves\nComments URL: https://news.ycombinator.com/item?id=48988196\nPoints: 41\n# Comments: 39",
-      "publishedAt": "2026-07-21T04:56:18.000Z",
-      "image": "/Social_Media_Preview_portfolio.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T04:56:18.000Z"
     },
     {
       "source": "Hacker News",
@@ -47,20 +131,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding\nComments URL: https://news.ycombinator.com/item?id=489…",
-      "publishedAt": "2026-07-21T03:56:03.000Z",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F9%2F9%2F12819974-2-eng-GB%2F04ab7b8b57e0-photo_SXM2026071800000547.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T03:56:03.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Running Doom on Our Custom CPU and Going Viral",
       "link": "https://www.armaangomes.com/blogs/doom/",
-      "summary": "Article URL: https://www.armaangomes.com/blogs/doom/\nComments URL: https://news.ycombinator.com/item?id=48987846\nPoints: 31\n# Comments: 3",
+      "summary": "Article URL: https://www.armaangomes.com/blogs/doom/\nComments URL: https://news.ycombinator.com/item?id=48987846\nPoints: 75\n# Comments: 14",
       "publishedAt": "2026-07-21T03:54:16.000Z",
       "image": null,
       "sourceCount": 1,
@@ -71,7 +144,7 @@
       "source": "Hacker News",
       "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
       "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "summary": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/\nComments URL: https://news.ycombinator.com/item?id=48987831\nPoints: 22\n# Comments: 12",
+      "summary": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/\nComments URL: https://news.ycombinator.com/item?id=48987831\nPoints: 36\n# Comments: 31",
       "publishedAt": "2026-07-21T03:52:05.000Z",
       "image": "https://content.instructables.com/FIM/IWCR/MRPABNRQ/FIMIWCRMRPABNRQ.jpg?auto=webp&frame=1",
       "sourceCount": 1,
@@ -82,34 +155,23 @@
       "source": "Hacker News",
       "title": "Incremental – A library for incremental computations",
       "link": "https://github.com/janestreet/incremental",
-      "summary": "Article URL: https://github.com/janestreet/incremental\nComments URL: https://news.ycombinator.com/item?id=48987822\nPoints: 92\n# Comments: 17",
+      "summary": "Article URL: https://github.com/janestreet/incremental\nComments URL: https://news.ycombinator.com/item?id=48987822\nPoints: 206\n# Comments: 35",
       "publishedAt": "2026-07-21T03:50:53.000Z",
-      "image": "https://opengraph.githubassets.com/87409a46a3b3a84e313f5e54fb064f8d5e7939c87b4b6dfc1e696358f27248c0/janestreet/incremental",
+      "image": "https://opengraph.githubassets.com/2bb92432897817f4a64a66f05332f04ededb3640cb41bca761f5fd256272d45a/janestreet/incremental",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T03:50:53.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-      "link": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-      "summary": "Article URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-a…",
-      "publishedAt": "2026-07-21T00:33:53.000Z",
-      "image": "https://assets.aclu.org/live/uploads/2026/07/flock-camera-closeup-s.jpg",
+      "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
+      "link": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+      "summary": "Article URL: https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide\nComments URL: https://news.ycombinator.com/item?id=48987775\nPoints: 33\n# Comment…",
+      "publishedAt": "2026-07-21T03:42:47.000Z",
+      "image": "https://assets.tokyodev.com/tokyodev-production-r2/ffrg01mua7y89zizt8b6yihnq5pt",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-21T00:33:53.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "publishedAt": "2026-07-21T00:12:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T00:12:24.000Z"
+      "latestActivity": "2026-07-21T03:42:47.000Z"
     },
     {
       "source": "TechCrunch",
@@ -121,6 +183,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T23:39:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jellyfin founder Andrew leaves team",
+      "link": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "summary": "Article URL: https://forum.jellyfin.org/t-project-leadership-changes\nComments URL: https://news.ycombinator.com/item?id=48986091\nPoints: 251\n# Comments: 196",
+      "publishedAt": "2026-07-20T23:15:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T23:15:41.000Z"
     },
     {
       "source": "Engadget",
@@ -233,27 +306,14 @@
       "latestActivity": "2026-07-20T21:18:35.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
-      "link": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
-      "summary": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported…",
-      "publishedAt": "2026-07-20T17:37:53.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Judge pauses the controversial Paramount-Warner Bros. merger for two weeks",
-          "link": "https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/",
-          "publishedAt": "2026-07-20T18:02:36.000Z"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-          "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-          "publishedAt": "2026-07-20T21:10:14.000Z"
-        }
-      ],
+      "source": "Ars Technica",
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
+      "publishedAt": "2026-07-20T21:10:14.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-07-20T21:10:14.000Z"
     },
     {
@@ -394,17 +454,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T19:18:45.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
-      "publishedAt": "2026-07-20T19:11:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Team-Photo.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T19:11:25.000Z"
     },
     {
       "source": "Wired",
@@ -548,50 +597,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T12:10:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The 35 Best Board Games for Family Game Night",
-      "link": "https://www.wired.com/gallery/best-family-board-games/",
-      "summary": "From monsters to kittens to strategy games, these sets will liven things up on nights when everyone is tired of screens.",
-      "publishedAt": "2026-07-20T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/685d98d53dd992266cb616c8/191:100/w_1280,c_limit/The%20Best%20Family%20Board%20Games.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "A Beginner’s Guide to Growing Mushrooms at Home (2026)",
-      "link": "https://www.wired.com/story/mushroom-growing-methods/",
-      "summary": "From countertop kits to a bathroom bucket full of straw and beyond, I spent a year testing popular mushroom-growing methods. Here’s what fruited—and what just grew mold.",
-      "publishedAt": "2026-07-20T10:31:00.000Z",
-      "image": "https://media.wired.com/photos/6a5d62ab05dbc7f92d1b023d/191:100/w_1280,c_limit/I-Tested-5-Mushroom-Growing-Methods%E2%80%94Here%E2%80%99s-What-Worked.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T10:31:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
-      "link": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
-      "summary": "Several Chinese businesses associated with the ebike brand Aipas settled a lawsuit with Amazon and the safety certification company UL in July.",
-      "publishedAt": "2026-07-20T10:15:00.000Z",
-      "image": "https://media.wired.com/photos/6a5a6e05aead5f3b34a76947/191:100/w_1280,c_limit/AmazoneULBike.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T10:15:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
-      "link": "https://www.wired.com/story/teenagers-running-trackflation/",
-      "summary": "Four-minute miles are almost routine. Middle schoolers are beating college runners. Inside the youth track boom that’s turning kids and teens into speed machines.",
-      "publishedAt": "2026-07-20T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a5649ba36e98c56882c9501/191:100/w_1280,c_limit/WEB_2026-06-21_EA-WIRED-NBNO-FullQual_0009.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T10:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
