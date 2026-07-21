@@ -1,13 +1,79 @@
 {
-  "syncedAt": "2026-07-20T23:03:00.051Z",
+  "syncedAt": "2026-07-21T02:52:53.006Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+      "link": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+      "summary": "Article URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-a…",
+      "publishedAt": "2026-07-21T00:33:53.000Z",
+      "image": "https://assets.aclu.org/live/uploads/2026/07/flock-camera-closeup-s.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T00:33:53.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "publishedAt": "2026-07-21T00:12:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-21T00:12:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "publishedAt": "2026-07-20T23:39:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/BenLamm_DW.jpg?resize=1200,903",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T23:39:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jellyfin founder Andrew leaves team",
+      "link": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "summary": "Article URL: https://forum.jellyfin.org/t-project-leadership-changes\nComments URL: https://news.ycombinator.com/item?id=48986091\nPoints: 90\n# Comments: 38",
+      "publishedAt": "2026-07-20T23:15:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T23:15:41.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Amazon's Adaptive Display for Fire TVs is officially rolling out today",
+      "link": "https://www.engadget.com/2219335/amazon-adaptive-display-for-fire-tvs-is-officially-rolling-out-today/",
+      "summary": "Amazon's Adaptive Display accessibility feature for Fire TVs is officially rolling out today",
+      "publishedAt": "2026-07-20T23:02:44.000Z",
+      "image": "https://www.engadget.com/img/gallery/amazons-adaptive-display-accessibility-feature-for-fire-tvs-is-officially-rolling-out-today/l-intro-1784588498.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T23:02:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Opaque, Interoperable Passkey Records (and a Go API)",
+      "link": "https://words.filippo.io/passkey-record/",
+      "summary": "Article URL: https://words.filippo.io/passkey-record/\nComments URL: https://news.ycombinator.com/item?id=48985956\nPoints: 17\n# Comments: 4",
+      "publishedAt": "2026-07-20T23:00:29.000Z",
+      "image": "https://assets.buttondown.email/images/15df3c3e-98e0-486d-97e4-7542a638e7f4.jpeg?w=960&fit=max",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T23:00:29.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Trump’s latest AI czar has already resigned",
       "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
       "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
       "publishedAt": "2026-07-20T22:21:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286058347.jpg?w=1024",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T22:21:04.000Z"
@@ -35,6 +101,28 @@
       "latestActivity": "2026-07-20T22:16:14.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+      "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+      "summary": "Pennsylvania cop charged with oppression and obstruction.",
+      "publishedAt": "2026-07-20T22:15:51.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1402604764-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T22:15:51.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "publishedAt": "2026-07-20T21:55:52.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-5.24.12-PM-1152x648.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-20T21:55:52.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "The first UL 3700-compliant plug-in solar microinverter is now available in the US",
       "link": "https://www.engadget.com/2219291/the-first-ul-3700-compliant-plug-in-solar-microinverter-is-now-available-in-the-us/",
@@ -57,28 +145,6 @@
       "latestActivity": "2026-07-20T21:47:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Donation Controversy",
-      "link": "https://mullvad.net/en/blog/donation-controversy",
-      "summary": "Article URL: https://mullvad.net/en/blog/donation-controversy\nComments URL: https://news.ycombinator.com/item?id=48985249\nPoints: 24\n# Comments: 13",
-      "publishedAt": "2026-07-20T21:43:07.000Z",
-      "image": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T21:43:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "My falling-out with the rationalist community",
-      "link": "https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist\nComments URL: https://news.ycombinator.com/item?id=48985140\nPoints: 48\n# Comments: 35",
-      "publishedAt": "2026-07-20T21:30:56.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T21:30:56.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
       "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
@@ -99,6 +165,30 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T21:18:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
+      "link": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
+      "summary": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported…",
+      "publishedAt": "2026-07-20T17:37:53.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Judge pauses the controversial Paramount-Warner Bros. merger for two weeks",
+          "link": "https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/",
+          "publishedAt": "2026-07-20T18:02:36.000Z"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+          "publishedAt": "2026-07-20T21:10:14.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-20T21:10:14.000Z"
     },
     {
       "source": "The Verge",
@@ -152,20 +242,9 @@
       "latestActivity": "2026-07-20T20:50:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The creepiest 'sales demo' of all time",
-      "link": "https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html",
-      "summary": "Article URL: https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html\nComments URL: https://ne…",
-      "publishedAt": "2026-07-20T20:36:37.000Z",
-      "image": "https://bloximages.newyork1.vip.townnews.com/appenmedia.com/content/tncms/assets/v3/editorial/a/8f/a8f0cc6c-29d3-41f7-8668-8a855f760efb/6a5e1cc713897.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T20:36:37.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
-      "link": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
       "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
       "publishedAt": "2026-07-20T20:30:25.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/KSC-20241014-PH-SPX01_0003orig-1152x648-1784578136.jpg",
@@ -177,7 +256,7 @@
       "source": "Hacker News",
       "title": "I wrote an bash enumerator because I was sick of xargs",
       "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-      "summary": "Article URL: https://numerlab.org/2025/07/20/bashumerate-enumerator/\nComments URL: https://news.ycombinator.com/item?id=48984270\nPoints: 19\n# Comments: 8",
+      "summary": "Article URL: https://numerlab.org/2025/07/20/bashumerate-enumerator/\nComments URL: https://news.ycombinator.com/item?id=48984270\nPoints: 66\n# Comments: 55",
       "publishedAt": "2026-07-20T20:12:19.000Z",
       "image": null,
       "sourceCount": 1,
@@ -188,7 +267,7 @@
       "source": "Hacker News",
       "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
       "link": "https://vincentwoo.com/3d/grace_cathedral/",
-      "summary": "Article URL: https://vincentwoo.com/3d/grace_cathedral/\nComments URL: https://news.ycombinator.com/item?id=48984254\nPoints: 20\n# Comments: 2",
+      "summary": "Article URL: https://vincentwoo.com/3d/grace_cathedral/\nComments URL: https://news.ycombinator.com/item?id=48984254\nPoints: 85\n# Comments: 17",
       "publishedAt": "2026-07-20T20:10:44.000Z",
       "image": null,
       "sourceCount": 1,
@@ -210,7 +289,7 @@
       "source": "Hacker News",
       "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
       "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "summary": "Article URL: https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/\nComments URL: https://news.ycombinator.com/item?id=48984231\nPoints: 29\n#…",
+      "summary": "Article URL: https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/\nComments URL: https://news.ycombinator.com/item?id=48984231\nPoints: 61\n#…",
       "publishedAt": "2026-07-20T20:08:45.000Z",
       "image": null,
       "sourceCount": 1,
@@ -309,7 +388,7 @@
       "source": "Hacker News",
       "title": "Human mathematicians are being outcounterexampled",
       "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "summary": "Article URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/\nComments URL: https://news.ycombinator.com/item?id=48983382\nPoints: 127…",
+      "summary": "Article URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/\nComments URL: https://news.ycombinator.com/item?id=48983382\nPoints: 234…",
       "publishedAt": "2026-07-20T19:03:37.000Z",
       "image": "https://xenaproject.wordpress.com/wp-content/uploads/2020/05/cropped-twitchpfc.png?w=200",
       "sourceCount": 1,
@@ -353,7 +432,7 @@
       "source": "Hacker News",
       "title": "Nativ: Run frontier open models locally on your Mac",
       "link": "https://blaizzy.github.io/nativ/",
-      "summary": "Article URL: https://blaizzy.github.io/nativ/\nComments URL: https://news.ycombinator.com/item?id=48982681\nPoints: 130\n# Comments: 51",
+      "summary": "Article URL: https://blaizzy.github.io/nativ/\nComments URL: https://news.ycombinator.com/item?id=48982681\nPoints: 192\n# Comments: 74",
       "publishedAt": "2026-07-20T18:16:08.000Z",
       "image": null,
       "sourceCount": 1,
@@ -381,30 +460,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T18:04:55.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
-      "link": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
-      "summary": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported…",
-      "publishedAt": "2026-07-20T17:37:53.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Judge pauses $110B Paramount-Warner Bros. merger",
-          "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-          "publishedAt": "2026-07-20T17:58:50.000Z"
-        },
-        {
-          "source": "Engadget",
-          "title": "Judge pauses the controversial Paramount-Warner Bros. merger for two weeks",
-          "link": "https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/",
-          "publishedAt": "2026-07-20T18:02:36.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-20T18:02:36.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -462,17 +517,6 @@
       "latestActivity": "2026-07-20T15:49:20.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "publishedAt": "2026-07-20T15:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-4.11.16-PM.jpg?resize=1200,619",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T15:45:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
       "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
@@ -495,35 +539,6 @@
       "latestActivity": "2026-07-20T15:30:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "The first trailer for Avengers: Doomsday is finally here",
-      "link": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
-      "summary": "\"Something's coming. Something we may not be able to deter.\"",
-      "publishedAt": "2026-07-20T14:33:46.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomsdayTOP-1152x648.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Avengers: Doomsday finally has a real trailer ",
-          "link": "https://www.engadget.com/2218652/avengers-doomsday-finally-has-a-real-trailer/",
-          "publishedAt": "2026-07-20T15:14:16.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-20T15:14:16.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
-      "link": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
-      "summary": "Governments look at banning ransom payments in face of increasingly sophisticated threats.",
-      "publishedAt": "2026-07-20T14:00:50.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/ransomware-screen-1000x648.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T14:00:50.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: AI hiring biases, and weather data sabotage",
       "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
@@ -533,17 +548,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
-      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
-      "publishedAt": "2026-07-20T11:20:10.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T11:20:10.000Z"
     },
     {
       "source": "Wired",
@@ -580,11 +584,11 @@
     },
     {
       "source": "Wired",
-      "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
-      "link": "https://www.wired.com/story/teenagers-running-trackflation/",
-      "summary": "Four-minute miles are almost routine. Middle schoolers are beating college runners. Inside the youth track boom that’s turning kids and teens into speed machines.",
+      "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
+      "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
+      "summary": "A new toolkit for attorneys in Massachusetts targets the technologies police use—and conceal—to build criminal cases, from facial recognition to AI-written police reports.",
       "publishedAt": "2026-07-20T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a5649ba36e98c56882c9501/191:100/w_1280,c_limit/WEB_2026-06-21_EA-WIRED-NBNO-FullQual_0009.jpg",
+      "image": "https://media.wired.com/photos/6a5acafd563e2d24f14f6f9a/191:100/w_1280,c_limit/GettyImages-2265184860.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T10:00:00.000Z"
