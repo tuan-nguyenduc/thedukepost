@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
-import { authorSlug } from '../../lib/authors';
+import { authorSlug, authorHref } from '../../lib/authors';
+import { breadcrumbJsonLd } from '../../lib/breadcrumbs';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -22,13 +24,20 @@ const { authorName } = Astro.props;
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft && authorSlug(data.author) === Astro.params.name))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const breadcrumbItems = [
+  { label: 'Home', href: '/' },
+  { label: 'Authors', href: '/authors' },
+  { label: authorName, href: authorHref(authorName) },
+];
 ---
 <BaseLayout
   title={`${authorName} — The Duke Post`}
   description={`Articles by ${authorName} on The Duke Post.`}
+  jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
 >
   <section class="wrap page">
-    <p class="back"><a href="/authors">← All authors</a></p>
+    <Breadcrumbs items={breadcrumbItems} />
     <h1>{authorName}</h1>
     <p class="count">{articles.length} article{articles.length === 1 ? '' : 's'}</p>
     {articles.length > 0 ? (
@@ -54,9 +63,6 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft && a
 
 <style>
   .page { padding: 48px 24px 80px; }
-  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
-  .back a { color: var(--slate); }
-  .back a:hover { color: var(--ink); }
   h1 { font-size: 36px; margin-bottom: 8px; }
   .count { font-family: var(--font-mono); font-size: 13px; color: var(--slate); margin-bottom: 36px; }
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }

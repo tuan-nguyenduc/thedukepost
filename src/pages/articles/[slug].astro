@@ -4,12 +4,14 @@ import NewsletterForm from '../../components/NewsletterForm.astro';
 import Comments from '../../components/Comments.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import ReadingProgress from '../../components/ReadingProgress.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
 import { tagHref, tagSlug } from '../../lib/tags';
 import { authorHref } from '../../lib/authors';
 import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
 import { getShareUrls } from '../../lib/share';
+import { breadcrumbJsonLd } from '../../lib/breadcrumbs';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -62,16 +64,24 @@ const articleJsonLd = {
   publisher: { '@type': 'Organization', name: 'The Duke Post' },
   ...(article.data.image ? { image: [new URL(article.data.image, Astro.site).toString()] } : {}),
 };
+
+const breadcrumbItems = [
+  { label: 'Home', href: '/' },
+  { label: 'Articles', href: '/articles' },
+  { label: categoryLabel(article.data.category), href: categoryHref(article.data.category) },
+  { label: article.data.title, href: `/articles/${article.slug}` },
+];
 ---
 <BaseLayout
   title={`${article.data.title} — The Duke Post`}
   description={article.data.description}
   image={article.data.image ?? `/og/${article.slug}.png`}
   type="article"
-  jsonLd={articleJsonLd}
+  jsonLd={[articleJsonLd, breadcrumbJsonLd(breadcrumbItems, Astro.site)]}
 >
   <ReadingProgress />
   <article class="wrap article">
+    <Breadcrumbs items={breadcrumbItems} />
     {article.data.image && <img class="article__hero" src={article.data.image} alt="" />}
     <a href={categoryHref(article.data.category)} class="eyebrow">{categoryLabel(article.data.category)}</a>
     <h1>{article.data.title}</h1>

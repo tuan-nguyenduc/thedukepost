@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
-import { tagSlug } from '../../lib/tags';
+import { tagSlug, tagHref } from '../../lib/tags';
+import { breadcrumbJsonLd } from '../../lib/breadcrumbs';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -23,13 +25,20 @@ const { label } = Astro.props as { label: string };
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft && data.tags.some((t) => tagSlug(t) === tag)))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const breadcrumbItems = [
+  { label: 'Home', href: '/' },
+  { label: 'Tags', href: '/tags' },
+  { label: `#${label}`, href: tagHref(label) },
+];
 ---
 <BaseLayout
   title={`#${label} — The Duke Post`}
   description={`Articles tagged "${label}" on The Duke Post.`}
+  jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
 >
   <section class="wrap page">
-    <p class="back"><a href="/tags">← All tags</a></p>
+    <Breadcrumbs items={breadcrumbItems} />
     <h1>#{label}</h1>
     {articles.length > 0 ? (
       <ul class="list">
@@ -54,9 +63,6 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft && d
 
 <style>
   .page { padding: 48px 24px 80px; }
-  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
-  .back a { color: var(--slate); }
-  .back a:hover { color: var(--ink); }
   h1 { font-size: 36px; margin-bottom: 36px; }
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
   .list li { margin: 0; min-width: 0; }
