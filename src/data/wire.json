@@ -1,6 +1,145 @@
 {
-  "syncedAt": "2026-07-22T21:11:32.716Z",
+  "syncedAt": "2026-07-22T23:07:06.025Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Show HN: ValuePair – a friendship app that cares about values first",
+      "link": "https://valuepair.app",
+      "summary": "Hey,\nI would like to show you my project, but it's difficult because it only works with a registration, so I explain the concept to you.\nThe Idea:\nEveryone who registers has to do…",
+      "publishedAt": "2026-07-22T22:20:00.000Z",
+      "image": "https://valuepair.app/opengraph-image?v=1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T22:20:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
+      "link": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
+      "summary": "When Hugging Face got hit last week, co-founder Clement Delangue suspected a frontier lab, given the agent's sophistication. He was right. Delangue said on X that after a day worki…",
+      "publishedAt": "2026-07-22T22:12:14.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/676zZ4w0JGd2F7MVTbnmsI/c6263f05847b60ce8d07f1eab4ca4dfe/hugging_face_breach_hero.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T22:12:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fretboard Memorisation with Modular Arithmetic",
+      "link": "https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/",
+      "summary": "Article URL: https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/\nComments URL: https://news.ycombinator.com/item?id=49014143\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-07-22T22:09:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T22:09:41.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Check out this nifty 3D Playdate game demo",
+      "link": "https://www.engadget.com/2221371/check-out-this-nifty-3d-playdate-game-demo/",
+      "summary": "Adding new dimensions to the device.",
+      "publishedAt": "2026-07-22T22:07:33.000Z",
+      "image": "https://www.engadget.com/img/gallery/check-out-this-nifty-3d-playdate-game-demo/l-intro-1784757924.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T22:07:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Social media addiction lawsuit against Meta is dropped",
+      "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "summary": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leav…",
+      "publishedAt": "2026-07-22T20:36:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Meta won’t have to face the next planned social media addiction trial",
+          "link": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+          "publishedAt": "2026-07-22T22:03:53.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-22T22:03:53.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Steam adds handy gifting and wishlist updates",
+      "link": "https://www.engadget.com/2221369/steam-adds-handy-gifting-and-wishlist-updates/",
+      "summary": "You can now gift games without a Steam account and sort your wishlist into categories.",
+      "publishedAt": "2026-07-22T22:03:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/steam-adds-handy-gifting-and-wishlist-updates/l-intro-1784757719.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T22:03:52.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "publishedAt": "2026-07-22T22:01:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T22:01:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 35\n# Comments: 4",
+      "publishedAt": "2026-07-22T21:55:34.000Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/medicisplit.jpg?c=16x9&q=w_800,c_fill",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T21:55:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+      "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\nComments URL: https://news.ycombinator.com/item?id=49013995\nPoints: 18\n# Comments: 3",
+      "publishedAt": "2026-07-22T21:54:30.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T21:54:30.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Why Lettuce Is Always Making People Sick",
+      "link": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
+      "summary": "The cyclospora diarrhea outbreak isn’t an isolated incident. It’s part of a pattern of leafy greens wreaking digestive havoc.",
+      "publishedAt": "2026-07-22T21:41:29.000Z",
+      "image": "https://media.wired.com/photos/6a5fb97049c6e5150c344a38/191:100/w_1280,c_limit/Science_HowLettuceKeepsGettingUsSick_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T21:41:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Malleable Computing, Emacs, and You",
+      "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "summary": "Article URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\nComments URL: https://news.ycombinator.com/item?id=49013538\nPoints: 42\n# Comments: 5",
+      "publishedAt": "2026-07-22T21:15:26.000Z",
+      "image": "http://yummymelon.com/devnull/images/opengraph-default.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T21:15:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Safari Technology Preview 248 Released",
+      "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "summary": "Article URL: https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/\nComments URL: https://news.ycombinator.com/item?id=49013356\nPoints: 51\n# Comments: 11",
+      "publishedAt": "2026-07-22T21:00:26.000Z",
+      "image": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T21:00:26.000Z"
+    },
     {
       "source": "Wired",
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
@@ -27,7 +166,7 @@
       "source": "TechCrunch",
       "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
       "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model t…",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
       "publishedAt": "2026-07-22T20:49:03.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
       "sourceCount": 1,
@@ -40,7 +179,7 @@
       "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
       "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
       "publishedAt": "2026-07-22T20:43:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tesla-china-export-Getty.jpg?resize=1200,772",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T20:43:38.000Z"
@@ -57,21 +196,21 @@
       "latestActivity": "2026-07-22T20:40:12.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Social media addiction lawsuit against Meta is dropped",
-      "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
-      "summary": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leav…",
-      "publishedAt": "2026-07-22T20:36:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+      "source": "Ars Technica",
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
+      "publishedAt": "2026-07-22T20:36:19.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-22T20:36:41.000Z"
+      "latestActivity": "2026-07-22T20:36:19.000Z"
     },
     {
       "source": "Hacker News",
       "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
       "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "summary": "Article URL: https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/\nComments URL: https://news.ycombinator.com/item?id=49013036\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/\nComments URL: https://news.ycombinator.com/item?id=49013036\nPoints: 199\n# Comments: 43",
       "publishedAt": "2026-07-22T20:33:44.000Z",
       "image": null,
       "sourceCount": 1,
@@ -88,6 +227,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T20:17:46.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+      "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+      "summary": "FCC lets ISPs stop listing all fees after companies complained it was too hard.",
+      "publishedAt": "2026-07-22T20:17:18.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/bill-shock-1152x648-1784750351.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T20:17:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "summary": "Article URL: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/\nComments URL: https://news.ycombinator.com/item?id=49012777\nPoints: 31\n# Comments: 0",
+      "publishedAt": "2026-07-22T20:16:01.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T20:16:01.000Z"
     },
     {
       "source": "TechCrunch",
@@ -123,15 +284,15 @@
       "latestActivity": "2026-07-22T19:26:13.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "John C. Dvorak has died",
-      "link": "https://twitter.com/na_announce/status/2079952538040672302",
-      "summary": "Article URL: https://twitter.com/na_announce/status/2079952538040672302\nComments URL: https://news.ycombinator.com/item?id=49012070\nPoints: 119\n# Comments: 21",
-      "publishedAt": "2026-07-22T19:22:19.000Z",
-      "image": "https://pbs.twimg.com/profile_images/1350980458/na_twitter2_200x200.gif",
+      "source": "Ars Technica",
+      "title": "Clayface trailer leans into the body horror",
+      "link": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
+      "summary": "\"The people I trusted betrayed me. The justice system failed me.\"",
+      "publishedAt": "2026-07-22T19:18:17.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/clayfaceTOP-1152x648-1784745438.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-22T19:22:19.000Z"
+      "latestActivity": "2026-07-22T19:18:17.000Z"
     },
     {
       "source": "The Verge",
@@ -279,35 +440,6 @@
       "latestActivity": "2026-07-22T18:18:02.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the st…",
-      "publishedAt": "2026-07-22T18:13:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T18:13:58.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
-      "link": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
-      "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
-      "publishedAt": "2026-07-22T13:01:00.000Z",
-      "image": "https://media.wired.com/photos/6a5fc9b9a1ae56f154ab5d6e/191:100/w_1280,c_limit/Samsung%20Galaxy%20Z%20Fold8%20Ultra%20Fold8%20Flip8%201%20SOURCE%20Julian%20Chokkattu.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Samsung Galaxy Z Fold 8 vs Fold 8 Ultra: Which new foldable is better for you?",
-          "link": "https://www.engadget.com/2220985/samsung-galaxy-z-fold-8-vs-fold-8-ultra-comparison/",
-          "publishedAt": "2026-07-22T18:05:22.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-22T18:05:22.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Dyson V10 Konical Review (2026): Affordable and Solid",
       "link": "https://www.wired.com/review/dyson-v10-konical-2026/",
@@ -317,61 +449,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T17:53:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Everyone Should Know SIMD",
-      "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "summary": "Article URL: https://mitchellh.com/writing/everyone-should-know-simd\nComments URL: https://news.ycombinator.com/item?id=49010648\nPoints: 108\n# Comments: 35",
-      "publishedAt": "2026-07-22T17:48:18.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T17:48:18.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Poinpy, a perfect video game, is back and it's completely free on mobile",
-      "link": "https://www.engadget.com/2220938/poinpy-a-perfect-video-game-is-back-and-completely-free-on-mobile/",
-      "summary": "Poinpy disappeared from Netflix games last year but is now free for Android and iPhone.",
-      "publishedAt": "2026-07-22T17:32:01.000Z",
-      "image": "https://www.engadget.com/img/gallery/poinpy-a-perfect-video-game-is-back-and-its-completely-free-on-mobile/l-intro-1784741451.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T17:32:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "summary": "Article URL: https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56\nComments URL: https://news.ycombinator.com/item?id=49010345\nPoints: 394\n# Comments: 201",
-      "publishedAt": "2026-07-22T17:30:40.000Z",
-      "image": "https://cdn.openai.com/chatgpt/share-og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T17:30:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "link": "https://github.com/marcelroed/gigatoken/",
-      "summary": "Article URL: https://github.com/marcelroed/gigatoken/\nComments URL: https://news.ycombinator.com/item?id=49010167\nPoints: 241\n# Comments: 46",
-      "publishedAt": "2026-07-22T17:20:38.000Z",
-      "image": "https://opengraph.githubassets.com/48e5df5ced0423779fc9fc4579010e6400f0523ee20826200f4335af0db8aeae/marcelroed/gigatoken",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T17:20:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html\nComments URL: https://news.ycombinator.com/item?id=49010129\nPoints: 223\n# Comments: 93",
-      "publishedAt": "2026-07-22T17:17:54.000Z",
-      "image": "https://dylancastillo.co/posts/images/social_media_card.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T17:17:54.000Z"
     },
     {
       "source": "Ars Technica",
@@ -407,28 +484,6 @@
       "latestActivity": "2026-07-22T16:35:34.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: Web swing through midtown NYC",
-      "link": "https://www.swingnyc.com/",
-      "summary": "Article URL: https://www.swingnyc.com/\nComments URL: https://news.ycombinator.com/item?id=49009324\nPoints: 52\n# Comments: 23",
-      "publishedAt": "2026-07-22T16:25:08.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T16:25:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "link": "https://unlayer.com",
-      "summary": "Hi HN, We’re Adeel and Umair, co-founders of Unlayer (https://unlayer.com/). We let you add content creation to your applications without having to build an entire editor, renderer…",
-      "publishedAt": "2026-07-22T16:02:03.000Z",
-      "image": "https://unlayer.com/images/opengraph-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T16:02:03.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "How the Galaxy Z Fold 8 and Z Flip 8 phones compare",
       "link": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
@@ -449,17 +504,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T15:42:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
-      "link": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
-      "summary": "The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige u…",
-      "publishedAt": "2026-07-22T15:09:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/philips1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T15:09:44.000Z"
     },
     {
       "source": "VentureBeat",
@@ -495,15 +539,15 @@
       "latestActivity": "2026-07-22T13:58:24.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-      "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-      "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
-      "publishedAt": "2026-07-22T13:35:17.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/armymen-1152x648.jpg",
+      "source": "Wired",
+      "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
+      "link": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
+      "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
+      "publishedAt": "2026-07-22T13:01:00.000Z",
+      "image": "https://media.wired.com/photos/6a5fc9b9a1ae56f154ab5d6e/191:100/w_1280,c_limit/Samsung%20Galaxy%20Z%20Fold8%20Ultra%20Fold8%20Flip8%201%20SOURCE%20Julian%20Chokkattu.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-22T13:35:17.000Z"
+      "latestActivity": "2026-07-22T13:01:00.000Z"
     },
     {
       "source": "Wired",
@@ -528,28 +572,6 @@
       "latestActivity": "2026-07-22T12:10:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The 13 Best Fans for Getting Through Sweaty Days (2026)",
-      "link": "https://www.wired.com/story/the-best-fans-2026/",
-      "summary": "From powerful air movers and whisper-quiet pedestal models to options that double as misters, lamps, and air purifiers, these are the fans that impressed us most.",
-      "publishedAt": "2026-07-22T11:31:00.000Z",
-      "image": "https://media.wired.com/photos/6a0dd6dc9ba3e3dc9d0ced2f/191:100/w_1280,c_limit/Update%20The%20Best%20Fans%20to%20Buy%20Before%20It%20Gets%20Hot%20Again%20top%20art%20052026%20SOURCE%20Amazon-Sylvane.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T11:31:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-      "summary": "Ukraine's battlefield surge of robots now features airdrops and beach assaults.",
-      "publishedAt": "2026-07-22T11:15:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ukrainian-military-robot-test-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T11:15:03.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
       "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
@@ -572,17 +594,6 @@
       "latestActivity": "2026-07-22T07:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
-      "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-      "summary": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
-      "publishedAt": "2026-07-21T23:01:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_SIDE-PROFILE.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T23:01:23.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
       "link": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
@@ -603,17 +614,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T21:19:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way",
-      "link": "https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way",
-      "summary": "Google DeepMind today released three new proprietary AI models it says are among its most token-efficient yet: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber.…",
-      "publishedAt": "2026-07-21T19:59:58.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7jo7DlFPQ81t2ouEbgcvs4/a9a4492ffea4db61be9dabf46169a887/Gemini_Generated_Image_l8mtj7l8mtj7l8mt.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T19:59:58.000Z"
     },
     {
       "source": "MIT Technology Review",
