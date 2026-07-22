@@ -1,6 +1,53 @@
 {
-  "syncedAt": "2026-07-22T02:51:06.576Z",
+  "syncedAt": "2026-07-22T06:31:20.702Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "publishedAt": "2026-07-21T20:56:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "sourceCount": 5,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+          "publishedAt": "2026-07-21T21:48:54.000Z"
+        },
+        {
+          "source": "Wired",
+          "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+          "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+          "publishedAt": "2026-07-21T22:50:01.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "OpenAI admits its models hacked Hugging Face on their own",
+          "link": "https://www.engadget.com/2220436/openai-admits-models-hacked-hugging-face-on-their-own/",
+          "publishedAt": "2026-07-22T03:47:34.000Z"
+        },
+        {
+          "source": "VentureBeat",
+          "title": "OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know",
+          "link": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
+          "publishedAt": "2026-07-22T04:39:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-22T04:39:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "publishedAt": "2026-07-22T03:20:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/whisper.png?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T03:20:57.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
@@ -11,17 +58,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T01:27:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ten Steps Towards Happiness",
-      "link": "http://hintjens.com/blog:99",
-      "summary": "Article URL: http://hintjens.com/blog:99\nComments URL: https://news.ycombinator.com/item?id=49000600\nPoints: 20\n# Comments: 8",
-      "publishedAt": "2026-07-22T01:17:26.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T01:17:26.000Z"
     },
     {
       "source": "The Verge",
@@ -35,28 +71,6 @@
       "latestActivity": "2026-07-22T01:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "How an AI Anime Is Created",
-      "link": "https://www.aventos.dev/our-process?view=blog",
-      "summary": "Article URL: https://www.aventos.dev/our-process?view=blog\nComments URL: https://news.ycombinator.com/item?id=49000429\nPoints: 12\n# Comments: 12",
-      "publishedAt": "2026-07-22T00:53:00.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T00:53:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A flaky test exposed a Redis client use-after-free",
-      "link": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
-      "summary": "Article URL: https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/\nComments URL: https://news.ycombinator.com/item?id=49000250\nPoints: 29\n# Comments: 6",
-      "publishedAt": "2026-07-22T00:27:35.000Z",
-      "image": "https://buildkite.engineering/api/og/how-a-flaky-test-exposed-a-redis-use-after-free.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T00:27:35.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
       "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
@@ -66,17 +80,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T23:55:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "It's a shame what's happened to radio",
-      "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
-      "summary": "Article URL: https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/\nComments URL: https://news.ycombinator.com/item?id=48999825\nPoints: 22\n# Comments: 0",
-      "publishedAt": "2026-07-21T23:33:31.000Z",
-      "image": "https://i0.wp.com/blog.jimgrey.net/wp-content/uploads/2014/08/meonwzzq.jpg?fit=1200%2C800&ssl=1",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T23:33:31.000Z"
     },
     {
       "source": "Ars Technica",
@@ -99,41 +102,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T23:01:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "publishedAt": "2026-07-21T20:56:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-          "publishedAt": "2026-07-21T21:48:54.000Z"
-        },
-        {
-          "source": "Wired",
-          "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-          "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-          "publishedAt": "2026-07-21T22:50:01.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-21T22:50:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "link": "https://fireworks.ai/blog/kimik3-fable",
-      "summary": "Article URL: https://fireworks.ai/blog/kimik3-fable\nComments URL: https://news.ycombinator.com/item?id=48999291\nPoints: 322\n# Comments: 181",
-      "publishedAt": "2026-07-21T22:35:24.000Z",
-      "image": "https://cdn.sanity.io/images/pv37i0yn/production/4f0b611f9b0ec4e15ea45aabe369a3ba88fe4abf-2048x1152.svg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T22:35:24.000Z"
     },
     {
       "source": "The Verge",
@@ -169,17 +137,6 @@
       "latestActivity": "2026-07-21T21:49:43.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-      "link": "https://www.getcomputable.com/",
-      "summary": "Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everythi…",
-      "publishedAt": "2026-07-21T21:48:19.000Z",
-      "image": "https://computable-site.vercel.app/assets/computable-pfp.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T21:48:19.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "These are the countries moving to ban social media for children",
       "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
@@ -198,17 +155,6 @@
       "latestActivity": "2026-07-21T21:43:53.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-      "link": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "summary": "Article URL: https://ai.google.dev/gemini-api/docs/latest-model\nComments URL: https://news.ycombinator.com/item?id=48998606\nPoints: 44\n# Comments: 14",
-      "publishedAt": "2026-07-21T21:27:54.000Z",
-      "image": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png?hl=zh-cn",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T21:27:54.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
       "link": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
@@ -218,17 +164,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T21:19:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\nComments URL: https://news.ycombinator.com/item?id=48998404\nPoints: 123\n# Comments: 43",
-      "publishedAt": "2026-07-21T21:13:20.000Z",
-      "image": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok/opengraph-image-yqks0s?3313ef8f7f360358",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T21:13:20.000Z"
     },
     {
       "source": "Engadget",
@@ -381,17 +316,6 @@
       "latestActivity": "2026-07-21T18:51:19.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Einride bets $38M on EV charging as it scales electric trucking",
-      "link": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
-      "summary": "The acquisition — Einride's first as a publicly traded company — will expand its EV-charging ecosystem as it works to scale its electric trucking business.",
-      "publishedAt": "2026-07-21T18:48:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-05-at-10.03.20-PM.png?resize=1200,680",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T18:48:38.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Playstation Plus is saying goodbye to these games in August 2026",
       "link": "https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/",
@@ -456,17 +380,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T18:12:02.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The Xteink X4 Pro is a tiny ereader with more features than you might expect",
-      "link": "https://www.engadget.com/2219947/the-xteink-x4-pro-is-a-tiny-ereader-with-more-features-than-you-might-expect/",
-      "summary": "The Xteink X4 Pro is a tiny ereader for DRM-free books.",
-      "publishedAt": "2026-07-21T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-xteink-x4-pro-is-a-tiny-ereader-with-more-features-than-you-might-expect/l-intro-1784655455.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T18:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -599,17 +512,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T21:18:35.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
-      "link": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
-      "summary": "A single AI agent conversation can look flawless scored on its own and still point to a broken product. That gap is driving a shift in how enterprises evaluate agents, away from sc…",
-      "publishedAt": "2026-07-20T18:24:33.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1DTCiJTCuje8zdGCA4s3Jj/00ed8e1242fd6356d6110f7c51b8d1d3/VBXC2904-X2-llmjudge.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T18:24:33.000Z"
     },
     {
       "source": "MIT Technology Review",
