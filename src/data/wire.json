@@ -1,11 +1,44 @@
 {
-  "syncedAt": "2026-07-23T02:57:24.436Z",
+  "syncedAt": "2026-07-23T06:31:57.532Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "publishedAt": "2026-07-23T06:09:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/ServiceNow-Getty.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T06:09:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Local AI that finds sensitive files on your Mac before attackers do",
+      "link": "https://www.vaultsort.com/guardian",
+      "summary": "Article URL: https://www.vaultsort.com/guardian\nComments URL: https://news.ycombinator.com/item?id=49017170\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-07-23T05:06:12.000Z",
+      "image": "https://www.vaultsort.com/images/guardian/guardian-hero.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T05:06:12.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Orcas team up to ram sunfish until they explode",
+      "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+      "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
+      "publishedAt": "2026-07-23T04:00:38.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/orcasTOP-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T04:00:38.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Restructuring GitHub's bug bounty program",
       "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "summary": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 3\n# Comments: 0",
+      "summary": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 32\n# Comments:…",
       "publishedAt": "2026-07-23T02:28:23.000Z",
       "image": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty.png?fit=1498%2C826",
       "sourceCount": 1,
@@ -14,9 +47,20 @@
     },
     {
       "source": "Hacker News",
-      "title": "Run large language models at home, BitTorrent‑style",
+      "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+      "link": "https://arxiv.org/abs/2607.20386",
+      "summary": "Article URL: https://arxiv.org/abs/2607.20386\nComments URL: https://news.ycombinator.com/item?id=49015878\nPoints: 14\n# Comments: 0",
+      "publishedAt": "2026-07-23T01:58:18.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T01:58:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Petals: Run LLMs at home, BitTorrent-style",
       "link": "https://petals.dev/",
-      "summary": "Article URL: https://petals.dev/\nComments URL: https://news.ycombinator.com/item?id=49015735\nPoints: 33\n# Comments: 12",
+      "summary": "Article URL: https://petals.dev/\nComments URL: https://news.ycombinator.com/item?id=49015735\nPoints: 92\n# Comments: 29",
       "publishedAt": "2026-07-23T01:33:12.000Z",
       "image": null,
       "sourceCount": 1,
@@ -25,20 +69,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-      "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "summary": "Article URL: https://simonwillison.net/2026/Jul/22/openai-cyberattack/\nComments URL: https://news.ycombinator.com/item?id=49015639\nPoints: 11\n# Comments: 1",
-      "publishedAt": "2026-07-23T01:16:14.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T01:16:14.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Codeberg Bans Cryptocurrency Projects",
       "link": "https://codeberg.org/Codeberg/org/pulls/1254",
-      "summary": "Article URL: https://codeberg.org/Codeberg/org/pulls/1254\nComments URL: https://news.ycombinator.com/item?id=49015588\nPoints: 101\n# Comments: 98",
+      "summary": "Article URL: https://codeberg.org/Codeberg/org/pulls/1254\nComments URL: https://news.ycombinator.com/item?id=49015588\nPoints: 219\n# Comments: 289",
       "publishedAt": "2026-07-23T01:06:56.000Z",
       "image": "https://codeberg.org/Codeberg/org/pulls/1254/summary-card",
       "sourceCount": 1,
@@ -133,7 +166,7 @@
       "source": "Hacker News",
       "title": "Medici family mystery may be solved after more than 400 years",
       "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 84\n# Comments: 20",
+      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 104\n# Comments: 27",
       "publishedAt": "2026-07-22T21:55:34.000Z",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/medicisplit.jpg?c=16x9&q=w_800,c_fill",
       "sourceCount": 1,
@@ -144,7 +177,7 @@
       "source": "Hacker News",
       "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
       "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\nComments URL: https://news.ycombinator.com/item?id=49013995\nPoints: 36\n# Comments: 9",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\nComments URL: https://news.ycombinator.com/item?id=49013995\nPoints: 46\n# Comments: 14",
       "publishedAt": "2026-07-22T21:54:30.000Z",
       "image": null,
       "sourceCount": 1,
@@ -155,7 +188,7 @@
       "source": "Hacker News",
       "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
       "link": "https://claytondorge.com/patterns-list",
-      "summary": "Article URL: https://claytondorge.com/patterns-list\nComments URL: https://news.ycombinator.com/item?id=49013924\nPoints: 31\n# Comments: 3",
+      "summary": "Article URL: https://claytondorge.com/patterns-list\nComments URL: https://news.ycombinator.com/item?id=49013924\nPoints: 59\n# Comments: 7",
       "publishedAt": "2026-07-22T21:48:44.000Z",
       "image": "http://static1.squarespace.com/static/52121500e4b0a807b65308ff/t/6377d4d465ddb14380cb9425/1668797656906/unsplash-image-D_4R9CcYZOk.jpg?format=1500w",
       "sourceCount": 1,
@@ -172,17 +205,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T21:41:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Malleable Computing, Emacs, and You",
-      "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "summary": "Article URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\nComments URL: https://news.ycombinator.com/item?id=49013538\nPoints: 73\n# Comments: 20",
-      "publishedAt": "2026-07-22T21:15:26.000Z",
-      "image": "http://yummymelon.com/devnull/images/opengraph-default.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T21:15:26.000Z"
     },
     {
       "source": "Ars Technica",
@@ -396,17 +418,6 @@
       "latestActivity": "2026-07-22T19:01:38.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-      "publishedAt": "2026-07-22T18:50:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T18:50:44.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
       "link": "https://www.engadget.com/2221044/openai-sued-over-chatgpt-health-advice-that-almost-killed-a-pastor/",
@@ -526,17 +537,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T14:50:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "What happens when you try to chop a photon in half?",
-      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
-      "summary": "A mirror that moves mid-photon could release a shower of new photons.",
-      "publishedAt": "2026-07-22T14:17:08.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2263112099-1152x648-1784657388.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T14:17:08.000Z"
     },
     {
       "source": "Wired",
