@@ -1,6 +1,118 @@
 {
-  "syncedAt": "2026-07-23T06:31:57.532Z",
+  "syncedAt": "2026-07-23T10:25:19.914Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Sony's FX5 cinema camera finally offers open gate and RAW 5K recording",
+      "link": "https://www.engadget.com/2221526/sony-fx5-cinema-camera/",
+      "summary": "Sony has just unveiled its latest cinema camera that may foreshadow some long-awaited features in its consumer mirrorless lineup.",
+      "publishedAt": "2026-07-23T10:00:23.000Z",
+      "image": "https://www.engadget.com/img/gallery/sony-fx5-cinema-camera/l-intro-1784801377.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T10:00:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google now lets you sign in to your account using a selfie video",
+      "link": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
+      "summary": "Google announced yet another way to gain access to your account if you get locked out, forget your password, or don't have access to the phone, computer, or two-factor authenticati…",
+      "publishedAt": "2026-07-23T10:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google_selfie.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Wired",
+          "title": "Google Turns a Selfie Video Into Your Account’s Spare Key",
+          "link": "https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/",
+          "publishedAt": "2026-07-23T10:00:00.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "Google adds selfie video as a log-in option",
+          "link": "https://www.engadget.com/2221520/google-adds-selfie-video-log-in/",
+          "publishedAt": "2026-07-23T10:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Banning Social Media for Kids Is a Bad Idea",
+      "link": "https://www.wired.com/story/banning-social-media-for-kids-is-a-bad-idea/",
+      "summary": "The risks are real. But banning children from the internet could create new problems without solving the ones that really matter.",
+      "publishedAt": "2026-07-23T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a58f077ef566878c27c1e02/191:100/w_1280,c_limit/Nota-01.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "My Week of Transparent Living With Apple’s ‘More Clear’ Liquid Glass Setting",
+      "link": "https://www.wired.com/story/my-week-of-transparent-living-with-apples-more-clear-liquid-glass-setting/",
+      "summary": "I cranked Apple’s iOS 27 beta to maximum transparency on my iPhone and enjoyed every warped second.",
+      "publishedAt": "2026-07-23T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a60d76514ab8e6140d7e948/191:100/w_1280,c_limit/LiquidGlass.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T09:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Framework’s premium laptop is shipping with less RAM",
+      "link": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
+      "summary": "The Framework Laptop 13 Pro configuration you wanted may not be available for a while. | Image: Framework\t\n\nRAMageddon has claimed yet another victim, with Framework now announcing…",
+      "publishedAt": "2026-07-23T09:28:30.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FW13-ProductFamily-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T09:28:30.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
+      "link": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
+      "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
+      "publishedAt": "2026-07-23T09:15:00.000Z",
+      "image": "https://media.wired.com/photos/6a5fc280e4c9fb685d5ecb3c/191:100/w_1280,c_limit/Gear_The%20Beloved%20Jibo%20Robot%20Is%20Being%20Resurrected%20as%20an%20AI%20Wearable_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T09:15:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "‘The Child Is Terrified’: Measles Doctors Speak Out",
+      "link": "https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/",
+      "summary": "Hear from six pediatricians in measles hot spot Utah, as the US faces infection levels not seen in over three decades and prepares to lose its status as a country that eliminated t…",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a60ed327c29cf4a0e81421d/191:100/w_1280,c_limit/Measles%20Kff%202.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The power line that could reshape New York’s grid is hitting snags",
+      "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that…",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/NKT_CHPE-6_2.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T09:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "A SpaceX Falcon 9 rocket is expected to crash into the moon this August",
+      "link": "https://www.engadget.com/2221503/spacex-falcon-9-rocket-crash-moon-august/",
+      "summary": "The upper stage of a Falcon 9 rocket has been drifting in space for over a year after it launched. It's expected to crash into the moon next month.",
+      "publishedAt": "2026-07-23T08:22:27.000Z",
+      "image": "https://www.engadget.com/img/gallery/a-spacex-falcon-9-rocket-is-expected-to-crash-into-the-moon-in-august/l-intro-1784794715.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T08:22:27.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
@@ -14,14 +126,25 @@
     },
     {
       "source": "Hacker News",
-      "title": "Local AI that finds sensitive files on your Mac before attackers do",
-      "link": "https://www.vaultsort.com/guardian",
-      "summary": "Article URL: https://www.vaultsort.com/guardian\nComments URL: https://news.ycombinator.com/item?id=49017170\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-07-23T05:06:12.000Z",
-      "image": "https://www.vaultsort.com/images/guardian/guardian-hero.png",
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "summary": "Article URL: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734\nComments URL: https://news.ycombinator.com/item?id=49017344\nPoints: 57\n# Comments: 23",
+      "publishedAt": "2026-07-23T05:40:20.000Z",
+      "image": "https://ziggit.dev/uploads/default/original/1X/3417db0e8abaf83a355700b91efd528025492487.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-23T05:06:12.000Z"
+      "latestActivity": "2026-07-23T05:40:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "summary": "Article URL: https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/\nComments URL: https://news.ycombinator.com/item?id=49017265\nPoints: 85\n# Comments: 55",
+      "publishedAt": "2026-07-23T05:24:17.000Z",
+      "image": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2024/07/amiga-1000-social.jpg?fit=845%2C475&ssl=1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T05:24:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -38,7 +161,7 @@
       "source": "Hacker News",
       "title": "Restructuring GitHub's bug bounty program",
       "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "summary": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 32\n# Comments:…",
+      "summary": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 46\n# Comments:…",
       "publishedAt": "2026-07-23T02:28:23.000Z",
       "image": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty.png?fit=1498%2C826",
       "sourceCount": 1,
@@ -47,36 +170,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-      "link": "https://arxiv.org/abs/2607.20386",
-      "summary": "Article URL: https://arxiv.org/abs/2607.20386\nComments URL: https://news.ycombinator.com/item?id=49015878\nPoints: 14\n# Comments: 0",
-      "publishedAt": "2026-07-23T01:58:18.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T01:58:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Petals: Run LLMs at home, BitTorrent-style",
-      "link": "https://petals.dev/",
-      "summary": "Article URL: https://petals.dev/\nComments URL: https://news.ycombinator.com/item?id=49015735\nPoints: 92\n# Comments: 29",
-      "publishedAt": "2026-07-23T01:33:12.000Z",
+      "title": "Protecting our FLOSS commons from LLMs",
+      "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "summary": "Article URL: https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html\nComments URL: https://news.ycombinator.com/item?id=49015635\nPoints: 61\n# Comments: 13",
+      "publishedAt": "2026-07-23T01:14:53.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-23T01:33:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Codeberg Bans Cryptocurrency Projects",
-      "link": "https://codeberg.org/Codeberg/org/pulls/1254",
-      "summary": "Article URL: https://codeberg.org/Codeberg/org/pulls/1254\nComments URL: https://news.ycombinator.com/item?id=49015588\nPoints: 219\n# Comments: 289",
-      "publishedAt": "2026-07-23T01:06:56.000Z",
-      "image": "https://codeberg.org/Codeberg/org/pulls/1254/summary-card",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T01:06:56.000Z"
+      "latestActivity": "2026-07-23T01:14:53.000Z"
     },
     {
       "source": "The Verge",
@@ -166,34 +267,12 @@
       "source": "Hacker News",
       "title": "Medici family mystery may be solved after more than 400 years",
       "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 104\n# Comments: 27",
+      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 125\n# Comments: 33",
       "publishedAt": "2026-07-22T21:55:34.000Z",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/medicisplit.jpg?c=16x9&q=w_800,c_fill",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T21:55:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-      "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\nComments URL: https://news.ycombinator.com/item?id=49013995\nPoints: 46\n# Comments: 14",
-      "publishedAt": "2026-07-22T21:54:30.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T21:54:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-      "link": "https://claytondorge.com/patterns-list",
-      "summary": "Article URL: https://claytondorge.com/patterns-list\nComments URL: https://news.ycombinator.com/item?id=49013924\nPoints: 59\n# Comments: 7",
-      "publishedAt": "2026-07-22T21:48:44.000Z",
-      "image": "http://static1.squarespace.com/static/52121500e4b0a807b65308ff/t/6377d4d465ddb14380cb9425/1668797656906/unsplash-image-D_4R9CcYZOk.jpg?format=1500w",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T21:48:44.000Z"
     },
     {
       "source": "Wired",
@@ -205,6 +284,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T21:41:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Malleable Computing, Emacs, and You",
+      "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "summary": "Article URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\nComments URL: https://news.ycombinator.com/item?id=49013538\nPoints: 112\n# Comments: 31",
+      "publishedAt": "2026-07-22T21:15:26.000Z",
+      "image": "http://yummymelon.com/devnull/images/opengraph-default.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T21:15:26.000Z"
     },
     {
       "source": "Ars Technica",
@@ -287,7 +377,7 @@
       "source": "The Verge",
       "title": "Tesla’s revenues are bouncing back, but profits are still weak",
       "link": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
-      "summary": "A Tesla Model 3 electric car is seen during the China International Supply Chain Expo (CISCE) in Beijing on July 16, 2025. (Photo by Jade GAO / AFP) (Photo by JADE GAO/AFP via Gett…",
+      "summary": "A Tesla Model 3 electric car is seen during the China International Supply Chain Expo (CISCE) in Beijing on July 16, 2025. | Jade GAO/AFP via Getty Images\t\n\nAfter a dismal two year…",
       "publishedAt": "2026-07-22T20:17:46.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2224672042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -304,6 +394,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T20:17:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "summary": "Article URL: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/\nComments URL: https://news.ycombinator.com/item?id=49012777\nPoints: 125\n# Comments: 33",
+      "publishedAt": "2026-07-22T20:16:01.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T20:16:01.000Z"
     },
     {
       "source": "TechCrunch",
@@ -328,15 +429,15 @@
       "latestActivity": "2026-07-22T19:41:49.000Z"
     },
     {
-      "source": "Wired",
-      "title": "‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope",
-      "link": "https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/",
-      "summary": "Elon Musk and the online right convinced themselves that Christopher Nolan’s “woke” epic would go down in flames. Now they’re crashing out.",
-      "publishedAt": "2026-07-22T19:26:13.000Z",
-      "image": "https://media.wired.com/photos/6a610d8207319e8f27163cc3/191:100/w_1280,c_limit/Culture_The%20Anti-Odyssey%20Cope%20Is%20Getting%20Hard%20to%20Witness%20_v6.jpg",
+      "source": "Hacker News",
+      "title": "John C. Dvorak has died",
+      "link": "https://twitter.com/na_announce/status/2079952538040672302",
+      "summary": "https://xcancel.com/na_announce/status/2079952538040672302\nhttps://www.twit.community/t/john-c-dvorak-has-passed-away/2...\nhttps://www.facebook.com/aric.mackey/posts/john-c-dvorak-…",
+      "publishedAt": "2026-07-22T19:22:19.000Z",
+      "image": "https://pbs.twimg.com/profile_images/1350980458/na_twitter2_200x200.gif",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-22T19:26:13.000Z"
+      "latestActivity": "2026-07-22T19:22:19.000Z"
     },
     {
       "source": "Ars Technica",
@@ -407,17 +508,6 @@
       "latestActivity": "2026-07-22T19:11:46.000Z"
     },
     {
-      "source": "Wired",
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capa…",
-      "publishedAt": "2026-07-22T19:01:38.000Z",
-      "image": "https://media.wired.com/photos/6a61111f07c746392b7d05d4/191:100/w_1280,c_limit/China-Open-AI-Models-Challenging-Silicon-Valley-Playbook-Business-1191165992.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T19:01:38.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
       "link": "https://www.engadget.com/2221044/openai-sued-over-chatgpt-health-advice-that-almost-killed-a-pastor/",
@@ -429,39 +519,6 @@
       "latestActivity": "2026-07-22T18:40:46.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Apple's rumored upgrades to its Mac lineup go beyond touchscreens",
-      "link": "https://www.engadget.com/2221027/apples-rumored-upgrades-to-its-mac-lineup-go-beyond-touchscreens/",
-      "summary": "Apple is already preparing updates to the MacBook Neo, iMac, MacBook Air and more.",
-      "publishedAt": "2026-07-22T18:31:01.000Z",
-      "image": "https://www.engadget.com/img/gallery/apples-rumored-upgrades-to-its-mac-lineup-go-beyond-touchscreens/l-intro-1784744979.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T18:31:01.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Colorado thinks it found the answer to EV battery recycling's biggest challenge",
-      "link": "https://www.engadget.com/2220697/colorado-ev-battery-recycling-law/",
-      "summary": "End-of-life disposal of EV batteries is a growing problem. This state is trying something new.",
-      "publishedAt": "2026-07-22T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/colorado-thinks-it-found-the-answer-to-ev-battery-recyclings-biggest-challenge/l-intro-1784731446.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T18:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Before you disable Google Play Protect, here's what you need to know",
-      "link": "https://www.engadget.com/2218725/turn-off-google-play-protect/",
-      "summary": "Some Android users find the security feature to be too restrictive. Here's how to disable it and what you risk by doing so.",
-      "publishedAt": "2026-07-22T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/before-you-disable-google-play-protect-heres-what-you-need-to-know/l-intro-1784554611.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T18:30:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
       "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
@@ -471,17 +528,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T18:18:12.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Dyson V10 Konical Review (2026): Affordable and Solid",
-      "link": "https://www.wired.com/review/dyson-v10-konical-2026/",
-      "summary": "Out of Dyson’s two new affordable stick vacuums, this one is easily my favorite.",
-      "publishedAt": "2026-07-22T17:53:48.000Z",
-      "image": "https://media.wired.com/photos/6a5fd76c11a753291481624c/191:100/w_1280,c_limit/Review--Dyson-V10-Konical.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T17:53:48.000Z"
     },
     {
       "source": "Ars Technica",
@@ -506,28 +552,6 @@
       "latestActivity": "2026-07-22T16:35:58.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
-      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "summary": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge\t\n\nSamsung has given us our first chanc…",
-      "publishedAt": "2026-07-22T16:35:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-google-gentle-monster-warby-parker-ai-glasses-08.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T16:35:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "How the Galaxy Z Fold 8 and Z Flip 8 phones compare",
-      "link": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
-      "summary": "Showing off the new Samsung Galaxy Z Fold 8. | Photo: David Imel / The Verge\t\n\nSamsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July…",
-      "publishedAt": "2026-07-22T15:47:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Samsung-Galaxy-Fold8-Fan-Cam.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T15:47:10.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
       "link": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
@@ -537,28 +561,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T14:50:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
-      "link": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
-      "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
-      "publishedAt": "2026-07-22T13:01:00.000Z",
-      "image": "https://media.wired.com/photos/6a5fc9b9a1ae56f154ab5d6e/191:100/w_1280,c_limit/Samsung%20Galaxy%20Z%20Fold8%20Ultra%20Fold8%20Flip8%201%20SOURCE%20Julian%20Chokkattu.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T13:01:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Why Samsung Gave Its Next Folding Phone a New Shape",
-      "link": "https://www.wired.com/story/why-samsung-gave-its-next-folding-phone-a-new-shape-galaxy-z-fold8/",
-      "summary": "People spend hours watching videos on their smartphones. The wider, shorter, and lighter Galaxy Z Fold8 caters to exactly that.",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a5fa7f914becfb4f5b6bf98/191:100/w_1280,c_limit/SamsungFlip.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T13:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -669,17 +671,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-20T08:39:01.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause…",
-      "publishedAt": "2026-07-17T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/Varcor-Facility-Interiorpoop-thumb.jpg?w=3000",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-17T12:10:00.000Z"
     }
   ]
 }
