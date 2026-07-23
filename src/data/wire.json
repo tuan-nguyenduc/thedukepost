@@ -1,122 +1,459 @@
 {
-  "syncedAt": "2026-07-23T14:06:55.570Z",
+  "syncedAt": "2026-07-23T17:25:14.037Z",
   "items": [
     {
+      "source": "The Verge",
+      "title": "Corsair’s PC case with a panoramic glass design is $70 off",
+      "link": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
+      "summary": "If only the air looked this cool as it flows through the Frame 4500X RS. | Image: Corsair\t\n\nOn the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Bes…",
+      "publishedAt": "2026-07-23T17:20:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/corsair-4500x-rs-deal-image-3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:20:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Qobuz overhauls its music player and adds real-time lyrics",
+      "link": "https://www.engadget.com/2221837/qobuz-overhauls-its-music-player-and-adds-real-time-lyrics/",
+      "summary": "The latest updates to Qobuz make it an even better alternative to Spotify.",
+      "publishedAt": "2026-07-23T17:19:41.000Z",
+      "image": "https://www.engadget.com/img/gallery/qobuz-overhauls-its-music-player-and-adds-real-time-lyrics/l-intro-1784826857.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:19:41.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Multi-turn attacks broke AI models 88% of the time — single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026",
+      "link": "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
+      "summary": "When Cisco ran 6,986 multi-turn attacks against 15 flagship models, attackers who adapted across the conversation broke through as often as 88.3% of the time. Amy Chang, Cisco's he…",
+      "publishedAt": "2026-07-23T17:13:48.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/63dEmbP0fFdy2U4vcWJkKZ/bc298524309906711b20a459a7e2e64a/2026-VB-Transform-Hotel-Nia-0245.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:13:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tesla’s robotaxi promises are clashing with reality",
+      "link": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+      "summary": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being dri…",
+      "publishedAt": "2026-07-23T17:09:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:09:31.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Samsung will support the Galaxy Watch 9 and Ultra 2 with five years of updates",
+      "link": "https://www.engadget.com/2221818/samsung-will-support-the-galaxy-watch-9-and-ultra-2-with-five-years-of-updates/",
+      "summary": "Samsung's new wearables will receive Wear OS updates until 2031.",
+      "publishedAt": "2026-07-23T17:07:48.000Z",
+      "image": "https://www.engadget.com/img/gallery/samsung-will-support-the-galaxy-watch-9-and-ultra-2-with-five-years-of-updates-for-the-first-time/l-intro-1784826387.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:07:48.000Z"
+    },
+    {
       "source": "TechCrunch",
-      "title": "Your backstage pass to TechCrunch Disrupt 2026 is waiting ",
-      "link": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
-      "summary": "Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built.",
-      "publishedAt": "2026-07-23T14:02:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/volunteer_header.jpeg?w=1200",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router…",
+      "publishedAt": "2026-07-23T17:07:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-23T14:02:00.000Z"
+      "latestActivity": "2026-07-23T17:07:35.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’…",
-      "publishedAt": "2026-07-23T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "VentureBeat",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "link": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hy…",
+      "publishedAt": "2026-07-23T17:06:07.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-23T14:00:00.000Z"
+      "latestActivity": "2026-07-23T17:06:07.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
-      "link": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
-      "summary": "Ford plans to embed Apple Maps directly into its Universal Electric Vehicle Platform, which will start with a $30,000 midsize pickup truck set for release in 2027. In an announceme…",
-      "publishedAt": "2026-07-23T13:49:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "VentureBeat",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed a…",
+      "publishedAt": "2026-07-23T17:03:51.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:03:51.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "link": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the d…",
+      "publishedAt": "2026-07-23T17:03:09.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:03:09.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "link": "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that…",
+      "publishedAt": "2026-07-23T17:02:34.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:02:34.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying mo…",
+      "publishedAt": "2026-07-23T17:01:31.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T17:01:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
       "sourceCount": 2,
       "related": [
         {
-          "source": "TechCrunch",
-          "title": "Ford bets on Apple for its next-generation of EVs",
-          "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
-          "publishedAt": "2026-07-23T13:58:37.000Z"
+          "source": "The Verge",
+          "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+          "publishedAt": "2026-07-23T17:00:00.000Z"
         }
       ],
-      "latestActivity": "2026-07-23T13:58:37.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "There isn't a single consumer Wi-Fi router that is 100% American-made",
-      "link": "https://www.engadget.com/2218707/no-100-percent-american-made-wifi-router/",
-      "summary": "You get a waiver! You get a waiver!",
-      "publishedAt": "2026-07-23T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/there-isnt-a-single-consumer-wi-fi-router-that-is-100-american-made/l-intro-1784320811.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T13:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/\nComments URL: https://news.ycombinator.com/it…",
-      "publishedAt": "2026-07-23T13:10:02.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T13:10:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet\nComments URL: https://news.ycombinator.com/item?id=49020999\nPoints: 15\n# Comments…",
-      "publishedAt": "2026-07-23T13:09:10.000Z",
-      "image": "https://futurism.com/wp-content/uploads/2026/07/ai-companies-hide-debt-off-balance-sheet.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T13:09:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china\nComments URL: https://news.ycombinator.com/item?id=49020868\nPoints: 109\n# Comments: 76",
-      "publishedAt": "2026-07-23T13:00:03.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T13:00:03.000Z"
+      "latestActivity": "2026-07-23T17:00:00.000Z"
     },
     {
       "source": "The Verge",
-      "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
-      "link": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview",
-      "summary": "Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then t…",
-      "publishedAt": "2026-07-23T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Still-1-Rimu-Kuwaki-in-SHEEP-IN-THE-BOX_Courtesy-of-NEON.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
+      "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
+      "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned mult…",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Windows-CPU-Dark.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-23T13:00:00.000Z"
+      "latestActivity": "2026-07-23T17:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+      "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours t…",
+      "publishedAt": "2026-07-23T16:58:28.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260722_livercooling_embed1.png?w=840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:58:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What just happened to TheNumbers.com should worry us all",
+      "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "summary": "Article URL: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all\nComments URL: https://news.ycombinator.com/item?id=49024691\nPoints: 13\n# Comments:…",
+      "publishedAt": "2026-07-23T16:53:33.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!6bjM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e89262a-a687-40ab-8c52-f9190202cec9_1200x720.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:53:33.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+      "link": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/",
+      "summary": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors.",
+      "publishedAt": "2026-07-23T16:51:52.000Z",
+      "image": "https://media.wired.com/photos/6a622589d1a4f0b18c5d787b/191:100/w_1280,c_limit/GoogleFine.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:51:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+      "link": "https://news.ycombinator.com/item?id=49024620",
+      "summary": "Hi Hacker News, I'm Louis. I built Screenpipe (https://screenpipe.com), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what y…",
+      "publishedAt": "2026-07-23T16:48:38.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:48:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
+      "link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+      "summary": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, an…",
+      "publishedAt": "2026-07-23T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Xbox is testing free, ad-supported cloud gaming",
+          "link": "https://www.engadget.com/2221790/xbox-is-testing-free-ad-supported-cloud-gaming/",
+          "publishedAt": "2026-07-23T16:42:20.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-23T16:42:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
+      "link": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
+      "summary": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With…",
+      "publishedAt": "2026-07-23T16:39:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/prime-video-games-tab.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:39:32.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla’s robotaxis are moving in reverse",
+      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+      "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
+      "publishedAt": "2026-07-23T16:29:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220716767.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:29:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "publishedAt": "2026-07-23T16:28:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:28:50.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google will now let you sign in to your account with a selfie video",
+      "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/",
+      "summary": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer.",
+      "publishedAt": "2026-07-23T16:01:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:01:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "JEP 540: Simple JSON API (Now in Incubator)",
+      "link": "https://openjdk.org/jeps/540",
+      "summary": "Article URL: https://openjdk.org/jeps/540\nComments URL: https://news.ycombinator.com/item?id=49023809\nPoints: 32\n# Comments: 14",
+      "publishedAt": "2026-07-23T16:01:02.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T16:01:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Free way to get your data out of ChatGPT Business accounts",
+      "link": "https://github.com/Conradqh/scrapemychats",
+      "summary": "Article URL: https://github.com/Conradqh/scrapemychats\nComments URL: https://news.ycombinator.com/item?id=49023486\nPoints: 30\n# Comments: 3",
+      "publishedAt": "2026-07-23T15:45:51.000Z",
+      "image": "https://opengraph.githubassets.com/d8db35d4c9005716381a8b8d3f9d62ab96ab69f68dbbb1e3e84cf30834d189a9/Conradqh/scrapemychats",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:45:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "link": "https://github.com/onecli/onecli",
+      "summary": "hey HN, Jonathan and Guy here, creators of OneCLI (https://onecli.sh/). OneCLI is an open source vault for AI Agents.\nTraditional vaults are used to store your secrets and, on dema…",
+      "publishedAt": "2026-07-23T15:42:40.000Z",
+      "image": "https://repository-images.githubusercontent.com/1175900220/ef74e755-ef2e-4166-8437-b1ad4830e2ff",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:42:40.000Z"
     },
     {
       "source": "Engadget",
-      "title": "Amazon brings Luna game streaming to the Prime Video app",
-      "link": "https://www.engadget.com/2221163/amazon-brings-luna-game-streaming-to-the-prime-video-app/",
-      "summary": "Luna will be first arrive in the Prime Video app on Fire TV devices in the US and UK.",
-      "publishedAt": "2026-07-23T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/amazon-brings-luna-game-streaming-to-the-prime-video-app/l-intro-1784749550.jpg",
+      "title": "Apple Maps will power navigation in Ford's upcoming slate of EVs",
+      "link": "https://www.engadget.com/2221730/apple-maps-will-power-navigation-ford-upcoming-evs/",
+      "summary": "The car manufacturer is planning a big push into electric vehicles.",
+      "publishedAt": "2026-07-23T15:38:55.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-maps-will-power-navigation-in-fords-upcoming-slate-of-evs/l-intro-1784821008.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-23T13:00:00.000Z"
+      "latestActivity": "2026-07-23T15:38:55.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "An AI now judges every move Rubrik's agents make, its AI chief said at VB Transform 2026 — but no one's measured if the judge is right",
+      "link": "https://venturebeat.com/security/an-ai-now-judges-every-move-rubriks-agents-make-its-ai-chief-said-at-vb-transform-2026-but-no-ones-measured-if-the-judge-is-right",
+      "summary": "At a CISO roundtable organized by Anthropic's chief information security officer, Dev Rishi asked a simple question: Did everyone in the room have their AI governance and security…",
+      "publishedAt": "2026-07-23T15:38:30.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2nh4yp3GjgPP3YkgbaYwSV/2e2500b7e264c6ac6390e67a5da74e25/2026-VB-Transform-Hotel-Nia-0212.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:38:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "UK households free to install plug-in balcony solar panels from end of August",
+      "link": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels",
+      "summary": "Article URL: https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels\nComments URL: https://news.ycombinator.com/item?id=49023291\nPoint…",
+      "publishedAt": "2026-07-23T15:35:33.000Z",
+      "image": "https://i.guim.co.uk/img/media/a3c7aa28a0d3eb66717231c4b2fce69f8f8f691c/1376_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5b4be1cf1deb133ccb6a8d8bf0ab882",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:35:33.000Z"
     },
     {
       "source": "Engadget",
-      "title": "Ultrahuman overhauls its app, brings all of its analysis on-device",
-      "link": "https://www.engadget.com/2220780/ultrahuman-overhauls-app-brings-all-of-its-analysis-on-device/",
-      "summary": "Ultrahuman's revamped app now offers better advice even when your phone has no connection.",
-      "publishedAt": "2026-07-23T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/ultrahuman-overhauls-its-app-brings-all-of-its-analysis-on-device/l-intro-1784735062.jpg",
+      "title": "Does charging your phone in your car waste gas?",
+      "link": "https://www.engadget.com/2219809/car-charging-phone-gas-explained/",
+      "summary": "Charing your phone in the car may technically use energy, but not enough to give a second thought.",
+      "publishedAt": "2026-07-23T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/does-charging-your-phone-in-your-car-waste-gas/l-intro-1783615706.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-23T13:00:00.000Z"
+      "latestActivity": "2026-07-23T15:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md\nComments URL: https://news.ycombinator.com/item?id=49023019\nPoints: 11\n#…",
+      "publishedAt": "2026-07-23T15:18:48.000Z",
+      "image": "https://opengraph.githubassets.com/43e3f93f60e08614633736442d2c0833c1f95600f76f691274962831231c83c5/humanlayer/advanced-context-engineering-for-coding-agents",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:18:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "summary": "https://littletech.org/\nhttps://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0...\nComments URL: https://news.ycombinator.com/item?id=49023016\nPoints: 289\n# Comments: 290",
+      "publishedAt": "2026-07-23T15:18:40.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:18:40.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "link": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
+      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sari-Dora-Beatrice-imagi.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia is sending GPUs to the moon",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/MAPP-Testing.jpeg?w=640",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The new Halo remake is a reminder of what Xbox used to be",
+      "link": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
+      "summary": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensive…",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/assets_2026_06_1780857686_1b.HCE_Standard_Edition_No_Logo_3840x2180.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon’s best 4K streaming sticks are up to 40 percent off",
+      "link": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale",
+      "summary": "There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesigne…",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Amazon-Fire-TV-Stick-4K-Plus-Deal-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The latest Resident Evil movie trailer has lots of fun nods to the games",
+      "link": "https://www.engadget.com/2221678/new-resident-evil-movie-trailer-fun-nods-to-games/",
+      "summary": "The film, from Weapons director Zach Cregger, hits theaters on September 18.",
+      "publishedAt": "2026-07-23T14:50:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-latest-resident-evil-movie-trailer-has-lots-of-fun-nods-to-the-games/l-intro-1784817880.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T14:50:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "publishedAt": "2026-07-23T14:45:05.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-chatbot-icons-on-smartphone-1-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T14:45:05.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Lego's latest Nintendo collab is a playable Donkey Kong arcade machine",
+      "link": "https://www.engadget.com/2221668/lego-nintendo-collab-playable-donkey-kong-arcade-machine/",
+      "summary": "Barrels of fun.",
+      "publishedAt": "2026-07-23T14:41:20.000Z",
+      "image": "https://www.engadget.com/img/gallery/legos-latest-nintendo-collab-is-a-playable-donkey-kong-arcade-machine/l-intro-1784817508.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T14:41:20.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "I'm just glad Samsung's price hikes weren't worse",
+      "link": "https://www.engadget.com/2221640/im-just-glad-samsungs-price-hikes-werent-worse/",
+      "summary": "It's a sign of how hard we're braced for the RAMpocalypse that Samsung adding just $100 to its prices seems reasonable.",
+      "publishedAt": "2026-07-23T14:09:34.000Z",
+      "image": "https://www.engadget.com/img/gallery/im-just-glad-samsungs-price-hikes-werent-worse/l-intro-1784815072.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T14:09:34.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -141,28 +478,6 @@
       "latestActivity": "2026-07-23T12:01:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
-      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "summary": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images\t\n\nOn a gray, humid Saturday…",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T12:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "GoPro Wireless Mic System review: An audio upgrade with fixable flaws",
-      "link": "https://www.engadget.com/2220868/gopro-wireless-mic-system-review/",
-      "summary": "GoPro's Wireless Mic System nails the basics, but it has some frustrating flaws.",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/gopro-wireless-mic-system-review-an-audio-upgrade-with-fixable-flaws/l-intro-1784666883.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T12:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How AI helps scientists design the next generation of medicines",
       "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
@@ -172,17 +487,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T12:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Uber lays off 10 percent of its customer service team in favor of using AI",
-      "link": "https://www.engadget.com/2221547/uber-lays-off-10-percent-customer-service-team-ai/",
-      "summary": "Uber's global customer service network has been hit by layoffs in favor of AI.",
-      "publishedAt": "2026-07-23T11:44:54.000Z",
-      "image": "https://www.engadget.com/img/gallery/uber-lays-off-10-percent-of-customer-service-team-due-to-ai/l-intro-1784806898.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T11:44:54.000Z"
     },
     {
       "source": "Wired",
@@ -199,30 +503,12 @@
       "source": "Ars Technica",
       "title": "White House report says Trump can usher in a \"new golden age\" of science",
       "link": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
-      "summary": "The resulting report is a near-random mixture of real problems and grievances.",
+      "summary": "The resulting report is a near-random mixture of grievances and real problems.",
       "publishedAt": "2026-07-23T11:23:21.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2236959394-1152x648-1784766485.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T11:23:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
-      "link": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
-      "summary": "The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is fo…",
-      "publishedAt": "2026-07-23T10:33:08.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust_Kristen_Radtke.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Europe hits Google with $1 billion fine for boxing-out rivals",
-          "link": "https://www.engadget.com/2221542/eu-google-fine-1-billion-dma/",
-          "publishedAt": "2026-07-23T11:17:59.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-23T11:17:59.000Z"
     },
     {
       "source": "Wired",
@@ -245,17 +531,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T11:00:50.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-      "publishedAt": "2026-07-23T11:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T11:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -302,68 +577,6 @@
       "latestActivity": "2026-07-23T10:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "EU fines Google €890M for competition breaches over search and apps",
-      "link": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps\nComments URL: https://news.ycombinator.com/item?id=490…",
-      "publishedAt": "2026-07-23T10:07:22.000Z",
-      "image": "https://i.guim.co.uk/img/media/6e0272bc008856e02d4a2739ad877c01f88e273c/1493_528_4133_3309/master/4133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd2dde729f6acfb4cb7c3ea96bbc11ad",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T10:07:22.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Sony's FX5 cinema camera finally offers open gate and RAW 5K recording",
-      "link": "https://www.engadget.com/2221526/sony-fx5-cinema-camera/",
-      "summary": "Sony has just unveiled its latest cinema camera that may foreshadow some long-awaited features in its consumer mirrorless lineup.",
-      "publishedAt": "2026-07-23T10:00:23.000Z",
-      "image": "https://www.engadget.com/img/gallery/sony-fx5-cinema-camera/l-intro-1784801377.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T10:00:23.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google now lets you sign in to your account using a selfie video",
-      "link": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
-      "summary": "Google announced yet another way to gain access to your account if you get locked out, forget your password, or don't have access to the phone, computer, or two-factor authenticati…",
-      "publishedAt": "2026-07-23T10:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google_selfie.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Google adds selfie video as a log-in option",
-          "link": "https://www.engadget.com/2221520/google-adds-selfie-video-log-in/",
-          "publishedAt": "2026-07-23T10:00:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-23T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Banning Social Media for Kids Is a Bad Idea",
-      "link": "https://www.wired.com/story/banning-social-media-for-kids-is-a-bad-idea/",
-      "summary": "The risks are real. But banning children from the internet could create new problems without solving the ones that really matter.",
-      "publishedAt": "2026-07-23T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a58f077ef566878c27c1e02/191:100/w_1280,c_limit/Nota-01.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T10:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Framework’s premium laptop is shipping with less RAM",
-      "link": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
-      "summary": "The Framework Laptop 13 Pro configuration you wanted may not be available for a while. | Image: Framework\t\n\nRAMageddon has claimed yet another victim, with Framework now announcing…",
-      "publishedAt": "2026-07-23T09:28:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FW13-ProductFamily-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T09:28:30.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The power line that could reshape New York’s grid is hitting snags",
       "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
@@ -375,41 +588,8 @@
       "latestActivity": "2026-07-23T09:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "publishedAt": "2026-07-23T06:09:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/ServiceNow-Getty.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T06:09:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-      "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-      "summary": "Article URL: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734\nComments URL: https://news.ycombinator.com/item?id=49017344\nPoints: 112\n# Comments: 66",
-      "publishedAt": "2026-07-23T05:40:20.000Z",
-      "image": "https://ziggit.dev/uploads/default/original/1X/3417db0e8abaf83a355700b91efd528025492487.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T05:40:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Amiga 1000: Ten years ahead of its time",
-      "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-      "summary": "Article URL: https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/\nComments URL: https://news.ycombinator.com/item?id=49017265\nPoints: 122\n# Comments: 110",
-      "publishedAt": "2026-07-23T05:24:17.000Z",
-      "image": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2024/07/amiga-1000-social.jpg?fit=845%2C475&ssl=1",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T05:24:17.000Z"
-    },
-    {
       "source": "Ars Technica",
-      "title": "Orcas team up to ram sunfish until they explode",
+      "title": "Watch orcas ram a sunfish so hard it explodes",
       "link": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
       "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
       "publishedAt": "2026-07-23T04:00:38.000Z",
@@ -417,72 +597,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T04:00:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Protecting our FLOSS commons from LLMs",
-      "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "summary": "Article URL: https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html\nComments URL: https://news.ycombinator.com/item?id=49015635\nPoints: 130\n# Comments: 67",
-      "publishedAt": "2026-07-23T01:14:53.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T01:14:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
-      "link": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
-      "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Ca…",
-      "publishedAt": "2026-07-23T00:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/lego-donkey-kong-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T00:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "publishedAt": "2026-07-22T23:47:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?resize=1200,674",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T23:47:54.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
-      "link": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
-      "summary": "When Hugging Face got hit last week, co-founder Clement Delangue suspected a frontier lab, given the agent's sophistication. He was right. Delangue said on X that after a day worki…",
-      "publishedAt": "2026-07-22T22:12:14.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/676zZ4w0JGd2F7MVTbnmsI/c6263f05847b60ce8d07f1eab4ca4dfe/hugging_face_breach_hero.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T22:12:14.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "publishedAt": "2026-07-22T22:01:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T22:01:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 137\n# Comments: 43",
-      "publishedAt": "2026-07-22T21:55:34.000Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/medicisplit.jpg?c=16x9&q=w_800,c_fill",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T21:55:34.000Z"
     },
     {
       "source": "Ars Technica",
@@ -494,28 +608,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T21:15:19.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "publishedAt": "2026-07-22T20:49:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T20:49:03.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
-      "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
-      "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
-      "publishedAt": "2026-07-22T20:43:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T20:43:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -551,39 +643,6 @@
       "latestActivity": "2026-07-22T19:18:17.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
-      "link": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering",
-      "summary": "You spend weeks tuning an AI chatbot. Answers are accurate. Stakeholders sign off, and you ship it. Three months later, the system is confidently wrong about a third of what users…",
-      "publishedAt": "2026-07-22T19:14:02.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40eUHKlakRNqZ6ocyQpNni/83496824e5b1347bcebeb2b08ac5bdd3/Gemini_Generated_Image_e9jvjye9jvjye9jv.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T19:14:02.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-      "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-      "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
-      "publishedAt": "2026-07-22T18:18:12.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T18:18:12.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-      "link": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
-      "summary": "OpenAI has announced Presence, a new enterprise product for deploying and managing AI agents across customer-facing and internal business workflows. \nThe offering is designed for e…",
-      "publishedAt": "2026-07-22T14:50:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/54A16FMEjHe7hjO9GCxdZ/3504d6994f63597c4c3669fb6d79f0bb/ChatGPT_Image_Jul_22__2026__10_07_00_AM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T14:50:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
       "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
@@ -606,50 +665,6 @@
       "latestActivity": "2026-07-22T09:00:00.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "Inflection AI returns to consumer market with Pi Journeys after Microsoft upheaval",
-      "link": "https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval",
-      "summary": "Inflection AI, the Palo Alto startup that two years ago became Silicon Valley's most famous cautionary tale about the brutal economics of frontier AI, announced Tuesday that it is…",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/dbs5C4wNAEufOjFoPMdES/684593d2423a8fdc2d459ab179f350a1/Nuneybits_Vector_art_of_Pi_symbol_floating_above_smartphone_min_e18a5c04-b0a3-4fef-9f3b-11028c8deb17.webp?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T07:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know",
-      "link": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
-      "summary": "Yesterday afternoon, OpenAI and Hugging Face published a joint disclosure outlining a cybersecurity event that redefines the threat landscape for enterprise technology. \nDuring an…",
-      "publishedAt": "2026-07-22T04:39:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5T1jRqO0ZcT7MeHaDY07CQ/2c7374c1edee4f3292307be027060455/exec-f6451c12-50a2-4f4b-97f1-5f2bc5c59fed.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T04:39:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
-      "link": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
-      "summary": "Poolside, the San Francisco AI lab that has spent most of its three-year existence quietly selling coding models to governments and defense agencies, released its most capable mode…",
-      "publishedAt": "2026-07-21T21:49:43.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3bn3yoTePyZbPJPJj0uEdC/401a5cb3161eb2cd6ae5d9b4ce0020ed/Nuneybits_Vector_art_of_minimalist_lines_clean_villas_overlooki_8da15709-c192-4383-b807-87d0dbfcf8e4.webp?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T21:49:43.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
-      "link": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
-      "summary": "GPU memory is the most expensive resource in production AI, and it's also the one running out fastest. \nLong context windows and multi-turn conversations force AI models to repeate…",
-      "publishedAt": "2026-07-21T21:19:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/UUXwemP15RHK5kBVdXsy3/ca6758f1de3542c0d26cb65269c5c5c0/cheap-flash-storage-smk1.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-21T21:19:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
       "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
@@ -670,17 +685,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-21T10:37:34.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "China’s AI models have Trump’s AI world at war with itself",
-      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and form…",
-      "publishedAt": "2026-07-20T18:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-20T18:00:00.000Z"
     }
   ]
 }
