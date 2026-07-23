@@ -24,6 +24,15 @@ const {
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 const ogImageUrl = image ? new URL(image, Astro.site) : undefined;
 
+const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
+const isArticlesActive = pathname === '/articles' || (pathname.startsWith('/articles/') && !pathname.startsWith('/articles/category/'));
+const isWireActive = pathname === '/wire' || pathname.startsWith('/wire/');
+const isNewsletterActive = pathname === '/newsletter' || pathname.startsWith('/newsletter/');
+const isSearchActive = pathname === '/search';
+const isSubscribeActive = pathname === '/subscribe';
+const isAboutActive = pathname === '/about';
+const isCategoriesActive = pathname.startsWith('/articles/category/') || pathname.startsWith('/tags') || pathname.startsWith('/authors') || pathname === '/archive';
+
 const siteJsonLd = [
   {
     '@context': 'https://schema.org',
@@ -87,6 +96,7 @@ const siteJsonLd = [
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 </head>
 <body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
   <header class="site-header">
     <div class="wrap site-header__inner">
       <a href="/" class="logo">
@@ -94,23 +104,23 @@ const siteJsonLd = [
         The Duke<span class="logo__accent">Post</span>
       </a>
       <nav class="site-nav">
-        <a href="/articles">Articles</a>
-        <details class="nav-dropdown">
-          <summary>Categories</summary>
+        <a href="/articles" aria-current={isArticlesActive ? 'page' : undefined}>Articles</a>
+        <details class="nav-dropdown" data-active={isCategoriesActive ? 'true' : undefined}>
+          <summary aria-current={isCategoriesActive ? 'true' : undefined}>Categories</summary>
           <div class="nav-dropdown__panel">
             {CATEGORIES.map((category) => (
-              <a href={categoryHref(category)}>{categoryLabel(category)}</a>
+              <a href={categoryHref(category)} aria-current={pathname === categoryHref(category) ? 'page' : undefined}>{categoryLabel(category)}</a>
             ))}
-            <a href="/tags">Tags</a>
-            <a href="/authors">Authors</a>
-            <a href="/archive">Archive</a>
+            <a href="/tags" aria-current={pathname.startsWith('/tags') ? 'page' : undefined}>Tags</a>
+            <a href="/authors" aria-current={pathname.startsWith('/authors') ? 'page' : undefined}>Authors</a>
+            <a href="/archive" aria-current={pathname === '/archive' ? 'page' : undefined}>Archive</a>
           </div>
         </details>
-        <a href="/wire">Wire</a>
-        <a href="/newsletter">Newsletter</a>
-        <a href="/search" aria-label="Search">Search <kbd class="kbd-hint">⌘K</kbd></a>
-        <a href="/subscribe" class="nav-subscribe">Subscribe</a>
-        <a href="/about">About</a>
+        <a href="/wire" aria-current={isWireActive ? 'page' : undefined}>Wire</a>
+        <a href="/newsletter" aria-current={isNewsletterActive ? 'page' : undefined}>Newsletter</a>
+        <a href="/search" aria-label="Search" aria-current={isSearchActive ? 'page' : undefined}>Search <kbd class="kbd-hint">⌘K</kbd></a>
+        <a href="/subscribe" class="nav-subscribe" aria-current={isSubscribeActive ? 'page' : undefined}>Subscribe</a>
+        <a href="/about" aria-current={isAboutActive ? 'page' : undefined}>About</a>
         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">
           <span class="theme-toggle__icon theme-toggle__icon--sun">☀️</span>
           <span class="theme-toggle__icon theme-toggle__icon--moon">🌙</span>
@@ -119,7 +129,7 @@ const siteJsonLd = [
     </div>
   </header>
 
-  <main>
+  <main id="main-content" tabindex="-1">
     <slot />
   </main>
 
@@ -154,6 +164,25 @@ const siteJsonLd = [
 </html>
 
 <style>
+  .skip-link {
+    position: absolute;
+    top: -48px;
+    left: 12px;
+    z-index: 100;
+    padding: 10px 18px;
+    background: var(--ink);
+    color: var(--paper);
+    border-radius: 8px;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    transition: top 0.15s ease;
+  }
+  .skip-link:focus {
+    top: 12px;
+  }
+
   .site-header {
     border-bottom: 2px solid var(--ink);
     background: var(--paper);
@@ -204,6 +233,11 @@ const siteJsonLd = [
     color: var(--paper);
     transform: rotate(-1deg);
   }
+  .site-nav a[aria-current='page'] {
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    text-decoration-thickness: 2px;
+  }
   .kbd-hint {
     margin-left: 4px;
     padding: 1px 5px;
@@ -234,6 +268,11 @@ const siteJsonLd = [
   .nav-dropdown[open] summary {
     background: var(--ink);
     color: var(--paper);
+  }
+  .nav-dropdown[data-active='true'] summary {
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    text-decoration-thickness: 2px;
   }
   .nav-dropdown__panel {
     position: absolute;
