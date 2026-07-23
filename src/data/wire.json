@@ -1,16 +1,71 @@
 {
-  "syncedAt": "2026-07-22T23:07:06.025Z",
+  "syncedAt": "2026-07-23T02:57:24.436Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Show HN: ValuePair – a friendship app that cares about values first",
-      "link": "https://valuepair.app",
-      "summary": "Hey,\nI would like to show you my project, but it's difficult because it only works with a registration, so I explain the concept to you.\nThe Idea:\nEveryone who registers has to do…",
-      "publishedAt": "2026-07-22T22:20:00.000Z",
-      "image": "https://valuepair.app/opengraph-image?v=1",
+      "title": "Restructuring GitHub's bug bounty program",
+      "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "summary": "Article URL: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\nComments URL: https://news.ycombinator.com/item?id=49016099\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-23T02:28:23.000Z",
+      "image": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty.png?fit=1498%2C826",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-22T22:20:00.000Z"
+      "latestActivity": "2026-07-23T02:28:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Run large language models at home, BitTorrent‑style",
+      "link": "https://petals.dev/",
+      "summary": "Article URL: https://petals.dev/\nComments URL: https://news.ycombinator.com/item?id=49015735\nPoints: 33\n# Comments: 12",
+      "publishedAt": "2026-07-23T01:33:12.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T01:33:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+      "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/22/openai-cyberattack/\nComments URL: https://news.ycombinator.com/item?id=49015639\nPoints: 11\n# Comments: 1",
+      "publishedAt": "2026-07-23T01:16:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T01:16:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Codeberg Bans Cryptocurrency Projects",
+      "link": "https://codeberg.org/Codeberg/org/pulls/1254",
+      "summary": "Article URL: https://codeberg.org/Codeberg/org/pulls/1254\nComments URL: https://news.ycombinator.com/item?id=49015588\nPoints: 101\n# Comments: 98",
+      "publishedAt": "2026-07-23T01:06:56.000Z",
+      "image": "https://codeberg.org/Codeberg/org/pulls/1254/summary-card",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T01:06:56.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+      "link": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+      "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Ca…",
+      "publishedAt": "2026-07-23T00:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/lego-donkey-kong-5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T00:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "publishedAt": "2026-07-22T23:47:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?resize=1200,674",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T23:47:54.000Z"
     },
     {
       "source": "VentureBeat",
@@ -22,17 +77,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T22:12:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fretboard Memorisation with Modular Arithmetic",
-      "link": "https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/",
-      "summary": "Article URL: https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/\nComments URL: https://news.ycombinator.com/item?id=49014143\nPoints: 4\n# Comments: 0",
-      "publishedAt": "2026-07-22T22:09:41.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T22:09:41.000Z"
     },
     {
       "source": "Engadget",
@@ -89,7 +133,7 @@
       "source": "Hacker News",
       "title": "Medici family mystery may be solved after more than 400 years",
       "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 35\n# Comments: 4",
+      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 84\n# Comments: 20",
       "publishedAt": "2026-07-22T21:55:34.000Z",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/medicisplit.jpg?c=16x9&q=w_800,c_fill",
       "sourceCount": 1,
@@ -100,12 +144,23 @@
       "source": "Hacker News",
       "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
       "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\nComments URL: https://news.ycombinator.com/item?id=49013995\nPoints: 18\n# Comments: 3",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\nComments URL: https://news.ycombinator.com/item?id=49013995\nPoints: 36\n# Comments: 9",
       "publishedAt": "2026-07-22T21:54:30.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T21:54:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "link": "https://claytondorge.com/patterns-list",
+      "summary": "Article URL: https://claytondorge.com/patterns-list\nComments URL: https://news.ycombinator.com/item?id=49013924\nPoints: 31\n# Comments: 3",
+      "publishedAt": "2026-07-22T21:48:44.000Z",
+      "image": "http://static1.squarespace.com/static/52121500e4b0a807b65308ff/t/6377d4d465ddb14380cb9425/1668797656906/unsplash-image-D_4R9CcYZOk.jpg?format=1500w",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-22T21:48:44.000Z"
     },
     {
       "source": "Wired",
@@ -122,7 +177,7 @@
       "source": "Hacker News",
       "title": "Malleable Computing, Emacs, and You",
       "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "summary": "Article URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\nComments URL: https://news.ycombinator.com/item?id=49013538\nPoints: 42\n# Comments: 5",
+      "summary": "Article URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\nComments URL: https://news.ycombinator.com/item?id=49013538\nPoints: 73\n# Comments: 20",
       "publishedAt": "2026-07-22T21:15:26.000Z",
       "image": "http://yummymelon.com/devnull/images/opengraph-default.jpg",
       "sourceCount": 1,
@@ -130,15 +185,15 @@
       "latestActivity": "2026-07-22T21:15:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Safari Technology Preview 248 Released",
-      "link": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-      "summary": "Article URL: https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/\nComments URL: https://news.ycombinator.com/item?id=49013356\nPoints: 51\n# Comments: 11",
-      "publishedAt": "2026-07-22T21:00:26.000Z",
-      "image": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
+      "source": "Ars Technica",
+      "title": "Sales were up at Tesla but so were costs and spending",
+      "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+      "summary": "Q2 2026 was profitable, but barely.",
+      "publishedAt": "2026-07-22T21:15:19.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-22T21:00:26.000Z"
+      "latestActivity": "2026-07-22T21:15:19.000Z"
     },
     {
       "source": "Wired",
@@ -207,17 +262,6 @@
       "latestActivity": "2026-07-22T20:36:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "summary": "Article URL: https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/\nComments URL: https://news.ycombinator.com/item?id=49013036\nPoints: 199\n# Comments: 43",
-      "publishedAt": "2026-07-22T20:33:44.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T20:33:44.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Tesla’s revenues are bouncing back, but profits are still weak",
       "link": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
@@ -238,17 +282,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T20:17:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "summary": "Article URL: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/\nComments URL: https://news.ycombinator.com/item?id=49012777\nPoints: 31\n# Comments: 0",
-      "publishedAt": "2026-07-22T20:16:01.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T20:16:01.000Z"
     },
     {
       "source": "TechCrunch",
@@ -429,17 +462,6 @@
       "latestActivity": "2026-07-22T18:18:12.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Science Corporation’s vision-restoring chip wins EU approval",
-      "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
-      "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
-      "publishedAt": "2026-07-22T18:18:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/prima-implant-glasses-2026.DDQ1RrzC_HBfx0.webp?resize=1150,1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T18:18:02.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Dyson V10 Konical Review (2026): Affordable and Solid",
       "link": "https://www.wired.com/review/dyson-v10-konical-2026/",
@@ -495,17 +517,6 @@
       "latestActivity": "2026-07-22T15:47:10.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Preorders for Samsung’s new Z Fold and Flip 8 come with up to $350 in gift cards",
-      "link": "https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date",
-      "summary": "Samsung's newest foldables are here. At Galaxy Unpacked, the company announced the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. All three devices will be available…",
-      "publishedAt": "2026-07-22T15:42:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Samsung-Galaxy-Flip8-Fold8-and-Fold8-Ultra-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T15:42:22.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
       "link": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
@@ -526,17 +537,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-22T14:17:08.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
-      "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
-      "summary": "Samsung's new foldables are slimmer, faster, and more expensive.",
-      "publishedAt": "2026-07-22T13:58:24.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/1.Samsung-Galaxy-Z-Fold8-Ultra-Fold8-and-Flip8-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-22T13:58:24.000Z"
     },
     {
       "source": "Wired",
