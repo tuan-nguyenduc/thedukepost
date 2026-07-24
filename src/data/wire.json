@@ -1,16 +1,27 @@
 {
-  "syncedAt": "2026-07-24T02:51:31.139Z",
+  "syncedAt": "2026-07-24T06:28:22.333Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
-      "link": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
-      "summary": "Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607\nComments URL: https://news.ycombinator.com/item?id=490…",
-      "publishedAt": "2026-07-24T02:06:31.000Z",
-      "image": null,
+      "source": "Engadget",
+      "title": "Google is expanding access to its Gemini Spark agentic AI assistant",
+      "link": "https://www.engadget.com/2222303/google-expanding-access-gemini-spark/",
+      "summary": "Gemini Spark is now available to more users.",
+      "publishedAt": "2026-07-24T06:00:44.000Z",
+      "image": "https://www.engadget.com/img/gallery/google-is-expanding-access-to-its-gemini-spark-agentic-ai-assistant/l-intro-1784872745.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-24T02:06:31.000Z"
+      "latestActivity": "2026-07-24T06:00:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "For most US drivers, EVs offer emissions benefits and cost savings",
+      "link": "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512",
+      "summary": "Article URL: https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512\nComments URL: https://news.ycombinator.com/item?id=49031561\nPoints: 8…",
+      "publishedAt": "2026-07-24T05:35:30.000Z",
+      "image": "https://news.mit.edu/sites/default/files/images/202605/MIT-EV-Savings-01.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T05:35:30.000Z"
     },
     {
       "source": "TechCrunch",
@@ -22,6 +33,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-24T01:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: A factory simulator game built on Spreadsheets",
+      "link": "https://www.logisheets.com/?craft=factory-simulator",
+      "summary": "I would say this is the real factory simulator game haha\nComments URL: https://news.ycombinator.com/item?id=49030100\nPoints: 12\n# Comments: 0",
+      "publishedAt": "2026-07-24T00:59:34.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T00:59:34.000Z"
     },
     {
       "source": "TechCrunch",
@@ -60,23 +82,12 @@
       "source": "Hacker News",
       "title": "The Visual 6502",
       "link": "http://visual6502.org/JSSim/index.html",
-      "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 61\n# Comments: 15",
+      "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 80\n# Comments: 20",
       "publishedAt": "2026-07-23T23:36:42.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T23:36:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "link": "https://arxiv.org/abs/2507.09369",
-      "summary": "Article URL: https://arxiv.org/abs/2507.09369\nComments URL: https://news.ycombinator.com/item?id=49029133\nPoints: 57\n# Comments: 46",
-      "publishedAt": "2026-07-23T22:51:13.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T22:51:13.000Z"
     },
     {
       "source": "TechCrunch",
@@ -104,7 +115,7 @@
       "source": "Hacker News",
       "title": "98.css",
       "link": "https://jdan.github.io/98.css/#status-bar",
-      "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 268\n# Comments: 58",
+      "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 401\n# Comments: 91",
       "publishedAt": "2026-07-23T22:30:29.000Z",
       "image": "https://github.com/jdan/98.css/raw/main/docs/window.png?raw=true",
       "sourceCount": 1,
@@ -143,6 +154,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T21:00:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "summary": "Article URL: https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public\nComments URL: https://news.ycombinator.com/item?id=490278…",
+      "publishedAt": "2026-07-23T20:52:19.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T20:52:19.000Z"
     },
     {
       "source": "Ars Technica",
@@ -243,7 +265,7 @@
       "source": "Hacker News",
       "title": "Mourning Dan Williams",
       "link": "https://lwn.net/Articles/1084545/",
-      "summary": "Article URL: https://lwn.net/Articles/1084545/\nComments URL: https://news.ycombinator.com/item?id=49027052\nPoints: 24\n# Comments: 0",
+      "summary": "Article URL: https://lwn.net/Articles/1084545/\nComments URL: https://news.ycombinator.com/item?id=49027052\nPoints: 57\n# Comments: 1",
       "publishedAt": "2026-07-23T19:46:28.000Z",
       "image": null,
       "sourceCount": 1,
@@ -356,15 +378,8 @@
       "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice m…",
       "publishedAt": "2026-07-23T19:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Claude's voice mode just got smarter",
-          "link": "https://www.engadget.com/2221938/claude-voice-mode-just-got-smarter/",
-          "publishedAt": "2026-07-23T19:00:00.000Z"
-        }
-      ],
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-07-23T19:00:00.000Z"
     },
     {
@@ -382,7 +397,7 @@
       "source": "Hacker News",
       "title": "Building on ATProto",
       "link": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 133\n# Comments: 62",
+      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 146\n# Comments: 69",
       "publishedAt": "2026-07-23T18:23:50.000Z",
       "image": null,
       "sourceCount": 1,
@@ -399,17 +414,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T18:18:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A solid-state “atomic channel” for separating rare earth elements",
-      "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-      "summary": "Article URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements\nComments URL: https://news.ycombinator.com/item?id=49025831\nPoints: 74\n# Comments…",
-      "publishedAt": "2026-07-23T18:13:03.000Z",
-      "image": "https://pme.uchicago.edu/sites/default/files/2026-07/Chong_Liu_057.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T18:13:03.000Z"
     },
     {
       "source": "Ars Technica",
