@@ -1,6 +1,83 @@
 {
-  "syncedAt": "2026-07-23T22:58:27.434Z",
+  "syncedAt": "2026-07-24T02:51:31.139Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
+      "link": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+      "summary": "Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607\nComments URL: https://news.ycombinator.com/item?id=490…",
+      "publishedAt": "2026-07-24T02:06:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T02:06:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their…",
+      "publishedAt": "2026-07-24T01:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T01:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meet the judges who will crown Australia’s next breakout startup",
+      "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+      "publishedAt": "2026-07-24T00:05:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/stripe-x-battlefield_eventImage-site-crop.jpg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T00:05:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "An FDA Panel Just Endorsed These Unproven Peptides",
+      "link": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+      "summary": "Outside experts—some with a vested interest in peptides—recommended adding a number of the amino acids to the FDA’s bulks list, including the “Wolverine stack” touted by Joe Rogan…",
+      "publishedAt": "2026-07-23T23:45:12.000Z",
+      "image": "https://media.wired.com/photos/6a60f44261702616274b2c3e/191:100/w_1280,c_limit/FDA%20Peptide.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T23:45:12.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
+      "link": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+      "summary": "Microsoft AI released two new in-house models into public preview on Wednesday — MAI-Image-2.5-Pro, its highest-fidelity image generator to date, and MAI-Voice-2-Flash, a speech mo…",
+      "publishedAt": "2026-07-23T23:37:05.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/21LP7BYkYtNcUVP0RAuTq2/d6a298425c240d52da4e211885164c27/Nuneybits_Vector_art_of_Microsoft_logo_rerouting_AI_traffic_fro_0889d4d3-b42c-4858-a9dc-f77546ce9c6c.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T23:37:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 61\n# Comments: 15",
+      "publishedAt": "2026-07-23T23:36:42.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T23:36:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+      "link": "https://arxiv.org/abs/2507.09369",
+      "summary": "Article URL: https://arxiv.org/abs/2507.09369\nComments URL: https://news.ycombinator.com/item?id=49029133\nPoints: 57\n# Comments: 46",
+      "publishedAt": "2026-07-23T22:51:13.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T22:51:13.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
@@ -24,6 +101,17 @@
       "latestActivity": "2026-07-23T22:39:08.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 268\n# Comments: 58",
+      "publishedAt": "2026-07-23T22:30:29.000Z",
+      "image": "https://github.com/jdan/98.css/raw/main/docs/window.png?raw=true",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T22:30:29.000Z"
+    },
+    {
       "source": "VentureBeat",
       "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop ",
       "link": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
@@ -35,15 +123,15 @@
       "latestActivity": "2026-07-23T21:17:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
-      "link": "https://news.ycombinator.com/item?id=49028037",
-      "summary": "I’ve been a NameCheap customer for 13 years. I’ve also helped out an old college club paying for a .com they use (that is registered to me under my name, address, and phone number)…",
-      "publishedAt": "2026-07-23T21:05:29.000Z",
-      "image": null,
+      "source": "The Verge",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plu…",
+      "publishedAt": "2026-07-23T21:15:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-23T21:05:29.000Z"
+      "latestActivity": "2026-07-23T21:15:06.000Z"
     },
     {
       "source": "Engadget",
@@ -55,17 +143,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T21:00:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
-      "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "summary": "Article URL: https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public\nComments URL: https://news.ycombinator.com/item?id=490278…",
-      "publishedAt": "2026-07-23T20:52:19.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T20:52:19.000Z"
     },
     {
       "source": "Ars Technica",
@@ -106,6 +183,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T20:37:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
+      "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+      "summary": "Echo Show's 21 attached to the adjustable stand, which is sold separately (and also discounted). | Image: Amazon\t\n\nSplit between buying a smart calendar, a kitchen TV, a smart home…",
+      "publishedAt": "2026-07-23T20:36:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Echo-Show-21-with-Amazon-Premium-Adjustable-Stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T20:36:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -150,6 +238,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T20:06:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mourning Dan Williams",
+      "link": "https://lwn.net/Articles/1084545/",
+      "summary": "Article URL: https://lwn.net/Articles/1084545/\nComments URL: https://news.ycombinator.com/item?id=49027052\nPoints: 24\n# Comments: 0",
+      "publishedAt": "2026-07-23T19:46:28.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-23T19:46:28.000Z"
     },
     {
       "source": "The Verge",
@@ -251,20 +350,14 @@
       "latestActivity": "2026-07-23T19:02:53.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "source": "The Verge",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice m…",
       "publishedAt": "2026-07-23T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
-      "sourceCount": 3,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
       "related": [
-        {
-          "source": "The Verge",
-          "title": "Claude’s voice mode is now available for Opus and Sonnet",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-          "publishedAt": "2026-07-23T19:00:00.000Z"
-        },
         {
           "source": "Engadget",
           "title": "Claude's voice mode just got smarter",
@@ -286,21 +379,10 @@
       "latestActivity": "2026-07-23T18:45:52.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catc…",
-      "publishedAt": "2026-07-23T18:38:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T18:38:34.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Building on ATProto",
       "link": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 106\n# Comments: 46",
+      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 133\n# Comments: 62",
       "publishedAt": "2026-07-23T18:23:50.000Z",
       "image": null,
       "sourceCount": 1,
@@ -322,23 +404,12 @@
       "source": "Hacker News",
       "title": "A solid-state “atomic channel” for separating rare earth elements",
       "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-      "summary": "Article URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements\nComments URL: https://news.ycombinator.com/item?id=49025831\nPoints: 56\n# Comments…",
+      "summary": "Article URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements\nComments URL: https://news.ycombinator.com/item?id=49025831\nPoints: 74\n# Comments…",
       "publishedAt": "2026-07-23T18:13:03.000Z",
       "image": "https://pme.uchicago.edu/sites/default/files/2026-07/Chong_Liu_057.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T18:13:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Geekbench 7",
-      "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
-      "summary": "Article URL: https://www.geekbench.com/blog/2026/07/geekbench-7/\nComments URL: https://news.ycombinator.com/item?id=49025812\nPoints: 40\n# Comments: 31",
-      "publishedAt": "2026-07-23T18:11:46.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T18:11:46.000Z"
     },
     {
       "source": "Ars Technica",
@@ -429,34 +500,12 @@
       "latestActivity": "2026-07-23T17:03:09.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "link": "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that…",
-      "publishedAt": "2026-07-23T17:02:34.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T17:02:34.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
       "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
       "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned mult…",
       "publishedAt": "2026-07-23T17:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Windows-CPU-Dark.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During…",
-      "publishedAt": "2026-07-23T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T17:00:00.000Z"
@@ -484,17 +533,6 @@
       "latestActivity": "2026-07-23T16:58:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "What happened to TheNumbers.com",
-      "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "summary": "Article URL: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all\nComments URL: https://news.ycombinator.com/item?id=49024691\nPoints: 237\n# Comments…",
-      "publishedAt": "2026-07-23T16:53:33.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!6bjM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e89262a-a687-40ab-8c52-f9190202cec9_1200x720.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T16:53:33.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
       "link": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
@@ -511,28 +549,6 @@
         }
       ],
       "latestActivity": "2026-07-23T16:51:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The arguments against open source AI are bad",
-      "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/\nComments URL: https://news.ycombinator.com/item?id=49024643\nPoints: 162\n# Comments: 117",
-      "publishedAt": "2026-07-23T16:49:57.000Z",
-      "image": "https://tombedor.dev/img/social-card.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T16:49:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
-      "link": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
-      "summary": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With…",
-      "publishedAt": "2026-07-23T16:39:32.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/prime-video-games-tab.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T16:39:32.000Z"
     },
     {
       "source": "Ars Technica",
@@ -612,23 +628,12 @@
       "latestActivity": "2026-07-23T11:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "America’s Hot Hybrid Summer",
-      "link": "https://www.wired.com/story/america-hot-hybrid-summer/",
-      "summary": "Gas prices are up, and US car dealerships are full of hybrids. Customers are going for it.",
-      "publishedAt": "2026-07-23T10:45:00.000Z",
-      "image": "https://media.wired.com/photos/6a60aa0df31d278efe123ebd/191:100/w_1280,c_limit/2026_Toyota-RAV4-HEV-Limited_0001H.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T10:45:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The power line that could reshape New York’s grid is hitting snags",
       "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
       "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that…",
       "publishedAt": "2026-07-23T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/NKT_CHPE-6_2.jpg?resize=1200,600",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/route.png?w=840",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T09:00:00.000Z"
