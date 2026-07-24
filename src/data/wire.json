@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-07-24T19:28:02.010Z",
+  "syncedAt": "2026-07-24T21:06:39.218Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Paramount agrees to delay Warner Bros. merger into 2027",
+      "link": "https://www.engadget.com/2222897/paramount-agrees-to-delay-warner-bros-merger-into-2027/",
+      "summary": "The extended pause will give time to hear cases for blocking the deal from states and the WGA.",
+      "publishedAt": "2026-07-24T20:50:28.000Z",
+      "image": "https://www.engadget.com/img/gallery/paramount-agrees-to-delay-warner-bros-merger-into-2027/l-intro-1784926165.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T20:50:28.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Waymo reportedly mulling a breakup with Uber",
+      "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+      "summary": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
+      "publishedAt": "2026-07-24T20:43:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/waymo-back-getty.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T20:43:35.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
+      "link": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
+      "summary": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
+      "publishedAt": "2026-07-24T20:42:11.000Z",
+      "image": "https://media.wired.com/photos/6a5956e5204d70a89778c8b1/191:100/w_1280,c_limit/Made-In-China-China-Vape-Makers-Have-New-Way-Around-Flavor-Bans-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T20:42:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+      "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+      "summary": "The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.",
+      "publishedAt": "2026-07-24T19:56:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/rivian-volkswagen-charger-getty.jpg?resize=1200,799",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T19:56:23.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
+      "link": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
+      "summary": "Enterprises deployed AI agents ahead of the controls needed to manage them — and they did it knowingly. That is the central finding across the five parallel surveys VentureBeat Res…",
+      "publishedAt": "2026-07-24T19:34:29.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1u0FLsMdYSkijWN8fnF7M4/860ed6aa6bada2f76f6311ecb1cd29bc/Gemini_Generated_Image_g5fa0gg5fa0gg5fa.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-24T19:34:29.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Meta just created a moderation nightmare for its smart glasses",
@@ -56,7 +111,7 @@
       "source": "Hacker News",
       "title": "Postgres LISTEN/NOTIFY actually scales",
       "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability\nComments URL: https://news.ycombinator.com/item?id=49040296\nPoints: 8\n# Comments: 0",
+      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability\nComments URL: https://news.ycombinator.com/item?id=49040296\nPoints: 90\n# Comments: 16",
       "publishedAt": "2026-07-24T19:05:53.000Z",
       "image": "https://cdn.prod.website-files.com/672411cbf038560468c9e68f/6a62e3a5eb32f7dd71332477_Scaling-Postgres-Listen-Notify.jpg",
       "sourceCount": 1,
@@ -151,7 +206,7 @@
       "source": "Hacker News",
       "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
       "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
-      "summary": "Article URL: https://blog.cloudflare.com/bgp-origin-attribute/\nComments URL: https://news.ycombinator.com/item?id=49039490\nPoints: 11\n# Comments: 0",
+      "summary": "Article URL: https://blog.cloudflare.com/bgp-origin-attribute/\nComments URL: https://news.ycombinator.com/item?id=49039490\nPoints: 20\n# Comments: 5",
       "publishedAt": "2026-07-24T18:07:08.000Z",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KYAG27J7320R6RF5C4SGSTK1.png",
       "sourceCount": 1,
@@ -160,9 +215,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "I got into YC by hacking it",
+      "title": "I got into YC Startup School by hacking it",
       "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "summary": "Article URL: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html\nComments URL: https://news.ycombinator.com/item?id=49039448\nPoints: 53\n# Comments: 20",
+      "summary": "Article URL: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html\nComments URL: https://news.ycombinator.com/item?id=49039448\nPoints: 73\n# Comments: 40",
       "publishedAt": "2026-07-24T18:03:22.000Z",
       "image": "https://obaid.wtf/assets/yc-post-og.png",
       "sourceCount": 1,
@@ -184,7 +239,7 @@
       "source": "Hacker News",
       "title": "Gsxui – Shadcn-style components for Go",
       "link": "https://ui.gsxhq.dev/",
-      "summary": "Article URL: https://ui.gsxhq.dev/\nComments URL: https://news.ycombinator.com/item?id=49039395\nPoints: 12\n# Comments: 0",
+      "summary": "Article URL: https://ui.gsxhq.dev/\nComments URL: https://news.ycombinator.com/item?id=49039395\nPoints: 37\n# Comments: 2",
       "publishedAt": "2026-07-24T17:59:08.000Z",
       "image": null,
       "sourceCount": 1,
@@ -283,7 +338,7 @@
       "source": "Hacker News",
       "title": "The small, real, original web",
       "link": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
-      "summary": "Article URL: https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/\nComments URL: https://news.ycombinator.com/item?id=49038977\nPoints: 11\n# Comments: 0",
+      "summary": "Article URL: https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/\nComments URL: https://news.ycombinator.com/item?id=49038977\nPoints: 31\n# Comments: 9",
       "publishedAt": "2026-07-24T17:28:59.000Z",
       "image": "https://spacetimetech.wordpress.com/wp-content/uploads/2026/07/internet-sign.jpg",
       "sourceCount": 1,
@@ -305,7 +360,7 @@
       "source": "Hacker News",
       "title": "DuckPGQ – A DuckDB community extension for graph workloads",
       "link": "https://duckpgq.org/",
-      "summary": "Article URL: https://duckpgq.org/\nComments URL: https://news.ycombinator.com/item?id=49038481\nPoints: 24\n# Comments: 3",
+      "summary": "Article URL: https://duckpgq.org/\nComments URL: https://news.ycombinator.com/item?id=49038481\nPoints: 31\n# Comments: 6",
       "publishedAt": "2026-07-24T17:00:23.000Z",
       "image": null,
       "sourceCount": 1,
@@ -316,7 +371,7 @@
       "source": "Hacker News",
       "title": "Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "https://www.anthropic.com/claude-opus-5-system-card\nComments URL: https://news.ycombinator.com/item?id=49038433\nPoints: 731\n# Comments: 413",
+      "summary": "https://www.anthropic.com/claude-opus-5-system-card\nComments URL: https://news.ycombinator.com/item?id=49038433\nPoints: 948\n# Comments: 518",
       "publishedAt": "2026-07-24T16:57:41.000Z",
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
       "sourceCount": 2,
@@ -371,17 +426,6 @@
       "latestActivity": "2026-07-24T16:54:58.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
-      "link": "https://openjdk.org/jeps/541",
-      "summary": "Article URL: https://openjdk.org/jeps/541\nComments URL: https://news.ycombinator.com/item?id=49038352\nPoints: 84\n# Comments: 78",
-      "publishedAt": "2026-07-24T16:52:33.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T16:52:33.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Avatar: Seven Havens finally has a trailer and a release date of October 9",
       "link": "https://www.engadget.com/2222631/avatar-seven-havens-trailer-release-date/",
@@ -393,37 +437,15 @@
       "latestActivity": "2026-07-24T16:51:14.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-      "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Mea…",
-      "publishedAt": "2026-07-24T16:50:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "source": "Hacker News",
+      "title": "Don't Take the Black Pill [video]",
+      "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4\nComments URL: https://news.ycombinator.com/item?id=49038298\nPoints: 67\n# Comments: 32",
+      "publishedAt": "2026-07-24T16:48:57.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-24T16:50:08.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Your phone may not be as waterproof as you think — here's why IP68 can be misleading",
-      "link": "https://www.engadget.com/2222493/phone-ip68-rating-misleading-heres-why/",
-      "summary": "Don't just jump straight into a pool with your phone, you savage.",
-      "publishedAt": "2026-07-24T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/your-phone-may-not-be-as-waterproof-as-you-think-heres-why-ip68-can-be-misleading/l-intro-1784225800.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T16:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-      "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-      "summary": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-      "publishedAt": "2026-07-24T16:11:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/Worldcoin-Project-Co-founders-Alex-Blania-L-and-Sam-Altman-R.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T16:11:56.000Z"
+      "latestActivity": "2026-07-24T16:48:57.000Z"
     },
     {
       "source": "Ars Technica",
@@ -536,17 +558,6 @@
       "latestActivity": "2026-07-24T10:30:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Some Kids Will Never Think AI Is Cool",
-      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "publishedAt": "2026-07-24T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a54d4fa2f80ee666004c193/191:100/w_1280,c_limit/071326_9-Reasons-Kids-Hate-AI-01.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T10:00:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
       "link": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
@@ -600,17 +611,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-23T17:06:07.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "link": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed a…",
-      "publishedAt": "2026-07-23T17:03:51.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-23T17:03:51.000Z"
     },
     {
       "source": "MIT Technology Review",
