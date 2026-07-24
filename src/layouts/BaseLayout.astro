@@ -11,6 +11,7 @@ interface Props {
   type?: 'website' | 'article';
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   additionalFeed?: { href: string; title: string };
+  noindex?: boolean;
 }
 
 const {
@@ -20,6 +21,7 @@ const {
   type = 'website',
   jsonLd,
   additionalFeed,
+  noindex = false,
 } = Astro.props;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 const ogImageUrl = image ? new URL(image, Astro.site) : undefined;
@@ -31,7 +33,7 @@ const isNewsletterActive = pathname === '/newsletter' || pathname.startsWith('/n
 const isSearchActive = pathname === '/search';
 const isSubscribeActive = pathname === '/subscribe';
 const isAboutActive = pathname === '/about';
-const isCategoriesActive = pathname.startsWith('/articles/category/') || pathname.startsWith('/tags') || pathname.startsWith('/authors') || pathname === '/archive';
+const isCategoriesActive = pathname.startsWith('/articles/category/') || pathname.startsWith('/tags') || pathname.startsWith('/authors') || pathname === '/archive' || pathname === '/reading-list';
 
 const siteJsonLd = [
   {
@@ -72,6 +74,7 @@ const siteJsonLd = [
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="manifest" href="/site.webmanifest" />
   <link rel="canonical" href={canonicalUrl} />
+  {noindex && <meta name="robots" content="noindex, follow" />}
   <link rel="alternate" type="application/rss+xml" title="The Duke Post" href="/rss.xml" />
   {additionalFeed && <link rel="alternate" type="application/rss+xml" title={additionalFeed.title} href={additionalFeed.href} />}
   <title>{title}</title>
@@ -114,6 +117,7 @@ const siteJsonLd = [
             <a href="/tags" aria-current={pathname.startsWith('/tags') ? 'page' : undefined}>Tags</a>
             <a href="/authors" aria-current={pathname.startsWith('/authors') ? 'page' : undefined}>Authors</a>
             <a href="/archive" aria-current={pathname === '/archive' ? 'page' : undefined}>Archive</a>
+            <a href="/reading-list" aria-current={pathname === '/reading-list' ? 'page' : undefined}>Reading List</a>
           </div>
         </details>
         <a href="/wire" aria-current={isWireActive ? 'page' : undefined}>Wire</a>
@@ -159,6 +163,70 @@ const siteJsonLd = [
         }
       });
     });
+
+    // Reading list: a localStorage-backed save/bookmark list, kept minimal
+    // (slug/title/href/etc, no full article body) so any page can render a
+    // save toggle without re-fetching content collection data client-side.
+    // Delegated at the document level so it works for buttons that don't
+    // exist yet at parse time (e.g. cards rendered client-side elsewhere).
+    (function () {
+      var STORAGE_KEY = 'reading-list';
+
+      function readList() {
+        try {
+          var raw = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+          return Array.isArray(raw) ? raw : [];
+        } catch (e) {
+          return [];
+        }
+      }
+
+      function setSaveState(btn, saved) {
+        btn.classList.toggle('is-saved', saved);
+        btn.setAttribute('aria-pressed', saved ? 'true' : 'false');
+        var label = saved ? 'Remove from reading list' : 'Save to reading list';
+        btn.setAttribute('aria-label', label);
+        btn.setAttribute('title', label);
+      }
+
+      document.addEventListener('DOMContentLoaded', function () {
+        var saved = {};
+        readList().forEach(function (item) { saved[item.slug] = true; });
+        document.querySelectorAll('[data-save-toggle]').forEach(function (btn) {
+          setSaveState(btn, !!saved[btn.dataset.saveSlug]);
+        });
+      });
+
+      document.addEventListener('click', function (event) {
+        var btn = event.target.closest('[data-save-toggle]');
+        if (!btn) return;
+        var slug = btn.dataset.saveSlug;
+        var list = readList();
+        var existingIndex = list.findIndex(function (item) { return item.slug === slug; });
+        var nowSaved;
+        if (existingIndex >= 0) {
+          list.splice(existingIndex, 1);
+          nowSaved = false;
+        } else {
+          list.push({
+            slug: slug,
+            title: btn.dataset.saveTitle || '',
+            href: btn.dataset.saveHref || '',
+            description: btn.dataset.saveDescription || '',
+            image: btn.dataset.saveImage || '',
+            category: btn.dataset.saveCategory || '',
+            pubDate: btn.dataset.savePubDate || '',
+            savedAt: Date.now(),
+          });
+          nowSaved = true;
+        }
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
+        document.querySelectorAll('[data-save-toggle][data-save-slug="' + slug + '"]').forEach(function (el) {
+          setSaveState(el, nowSaved);
+        });
+        document.dispatchEvent(new CustomEvent('readinglist:change'));
+      });
+    })();
   </script>
 </body>
 </html>

@@ -115,6 +115,23 @@ const breadcrumbItems = [
         <button type="button" id="print-article" class="share__button share__button--print" title="Print article" aria-label="Print article">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><path d="M6 14h12v8H6z"/></svg>
         </button>
+        <button
+          type="button"
+          class="share__button share__button--save"
+          data-save-toggle
+          data-save-slug={article.slug}
+          data-save-title={article.data.title}
+          data-save-href={`/articles/${article.slug}`}
+          data-save-description={article.data.description}
+          data-save-image={article.data.image ?? ''}
+          data-save-category={article.data.category}
+          data-save-pub-date={article.data.pubDate.toISOString()}
+          aria-pressed="false"
+          title="Save to reading list"
+          aria-label="Save to reading list"
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+        </button>
       </div>
     </div>
 
@@ -326,10 +343,18 @@ const breadcrumbItems = [
   .share__button--linkedin:hover { background: #0A66C2; border-color: #0A66C2; color: white; }
   .share__button--email:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
   .share__button--copy,
-  .share__button--print { cursor: pointer; }
+  .share__button--print,
+  .share__button--save { cursor: pointer; }
   .share__button--copy:hover,
-  .share__button--print:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  .share__button--print:hover,
+  .share__button--save:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
   .share__button--copied { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+  .share__button--save.is-saved {
+    background: var(--signal);
+    border-color: var(--signal);
+    color: var(--ink-fixed);
+  }
+  .share__button--save.is-saved svg { fill: currentColor; }
 
   .related { padding: 56px 24px 80px; max-width: 740px; }
   .related h2 { font-size: 24px; margin-bottom: 28px; }

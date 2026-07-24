@@ -1,0 +1,212 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Reading List — The Duke Post"
+  description="Articles you've saved to read later. Saved on this device only."
+  noindex
+>
+  <section class="wrap page">
+    <h1>Reading List</h1>
+    <p class="intro">Articles you've saved with the bookmark button. Stored only in this browser — clearing your browser data clears this list too.</p>
+
+    <ul id="reading-list-items" class="list" hidden></ul>
+    <div id="reading-list-empty" class="empty-state sticker" hidden>
+      <p class="empty-state__title">Nothing saved yet</p>
+      <p class="empty-state__hint">Open an article and use the bookmark button in the share row to save it here. Or browse <a href="/articles">all articles</a>.</p>
+    </div>
+
+    <button type="button" id="reading-list-clear" class="clear-btn" hidden>Clear reading list</button>
+  </section>
+</BaseLayout>
+
+<script>
+  interface SavedArticle {
+    slug: string;
+    title: string;
+    href: string;
+    description: string;
+    image: string;
+    category: string;
+    pubDate: string;
+    savedAt: number;
+  }
+
+  const STORAGE_KEY = 'reading-list';
+
+  function readList(): SavedArticle[] {
+    try {
+      const raw = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+      return Array.isArray(raw) ? raw : [];
+    } catch {
+      return [];
+    }
+  }
+
+  function formatDate(iso: string): string {
+    const date = new Date(iso);
+    if (Number.isNaN(date.getTime())) return '';
+    return date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+  }
+
+  const itemsEl = document.getElementById('reading-list-items') as HTMLUListElement;
+  const emptyEl = document.getElementById('reading-list-empty') as HTMLDivElement;
+  const clearBtn = document.getElementById('reading-list-clear') as HTMLButtonElement;
+
+  function renderCard(item: SavedArticle): HTMLLIElement {
+    const li = document.createElement('li');
+    const card = document.createElement('div');
+    card.className = 'sticker card';
+
+    if (item.image) {
+      const img = document.createElement('img');
+      img.className = 'card__image';
+      img.src = item.image;
+      img.alt = '';
+      img.loading = 'lazy';
+      card.appendChild(img);
+    }
+
+    const body = document.createElement('div');
+    body.className = 'card__body';
+
+    const link = document.createElement('a');
+    link.href = item.href;
+    const h2 = document.createElement('h2');
+    h2.textContent = item.title;
+    link.appendChild(h2);
+    body.appendChild(link);
+
+    if (item.description) {
+      const p = document.createElement('p');
+      p.textContent = item.description;
+      body.appendChild(p);
+    }
+
+    const meta = document.createElement('span');
+    meta.className = 'byline';
+    meta.textContent = formatDate(item.pubDate);
+    body.appendChild(meta);
+
+    card.appendChild(body);
+
+    const removeBtn = document.createElement('button');
+    removeBtn.type = 'button';
+    removeBtn.className = 'remove-btn';
+    removeBtn.setAttribute('data-save-toggle', '');
+    removeBtn.dataset.saveSlug = item.slug;
+    removeBtn.dataset.saveTitle = item.title;
+    removeBtn.dataset.saveHref = item.href;
+    removeBtn.dataset.saveDescription = item.description;
+    removeBtn.dataset.saveImage = item.image;
+    removeBtn.dataset.saveCategory = item.category;
+    removeBtn.dataset.savePubDate = item.pubDate;
+    removeBtn.setAttribute('aria-label', 'Remove from reading list');
+    removeBtn.textContent = 'Remove';
+    card.appendChild(removeBtn);
+
+    li.appendChild(card);
+    return li;
+  }
+
+  function render() {
+    const list = readList().sort((a, b) => b.savedAt - a.savedAt);
+
+    itemsEl.innerHTML = '';
+    if (list.length === 0) {
+      itemsEl.hidden = true;
+      emptyEl.hidden = false;
+      clearBtn.hidden = true;
+      return;
+    }
+    emptyEl.hidden = true;
+    itemsEl.hidden = false;
+    clearBtn.hidden = false;
+    list.forEach((item) => itemsEl.appendChild(renderCard(item)));
+  }
+
+  clearBtn.addEventListener('click', () => {
+    if (!confirm('Clear your entire reading list?')) return;
+    localStorage.removeItem(STORAGE_KEY);
+    document.dispatchEvent(new CustomEvent('readinglist:change'));
+  });
+
+  document.addEventListener('readinglist:change', render);
+  document.addEventListener('DOMContentLoaded', render);
+</script>
+
+<style>
+  .page { padding: 48px 24px 80px; }
+  h1 { font-size: 36px; margin-bottom: 14px; }
+  .intro { color: var(--slate); margin-bottom: 36px; max-width: 620px; }
+
+  .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
+  .list li { margin: 0; min-width: 0; }
+  .card { padding: 24px; display: flex; gap: 20px; align-items: flex-start; min-width: 0; position: relative; }
+  .card__image {
+    width: 140px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid var(--ink);
+    flex-shrink: 0;
+  }
+  .card__body { flex: 1; min-width: 0; }
+  .card__body h2 { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
+  .card__body a { color: inherit; }
+  .card__body p { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
+  .byline { font-family: var(--font-mono); font-size: 13px; color: var(--slate); }
+
+  .remove-btn {
+    align-self: flex-start;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--slate);
+    background: none;
+    border: 2px solid var(--paper-line);
+    border-radius: 999px;
+    padding: 6px 14px;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  .remove-btn:hover {
+    background: var(--signal);
+    border-color: var(--signal);
+    color: var(--ink-fixed);
+  }
+
+  .empty-state {
+    padding: 32px;
+    max-width: 480px;
+  }
+  .empty-state__title { font-size: 18px; font-weight: 600; margin: 0 0 8px; }
+  .empty-state__hint { color: var(--slate); margin: 0; }
+  .empty-state__hint a { color: var(--accent); border-bottom: 2px solid var(--accent-soft); }
+
+  .clear-btn {
+    margin-top: 32px;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--slate);
+    background: none;
+    border: 2px solid var(--paper-line);
+    border-radius: 999px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  .clear-btn:hover {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--paper);
+  }
+
+  @media (max-width: 560px) {
+    .card { flex-direction: column; }
+    .card__image { width: 100%; height: 160px; }
+  }
+</style>
