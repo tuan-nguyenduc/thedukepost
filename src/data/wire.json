@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-07-25T20:55:30.987Z",
+  "syncedAt": "2026-07-25T22:57:33.278Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Kimi K3 built a Windows XP in browser",
+      "link": "https://windows-xp.kimi.site/",
+      "summary": "Article URL: https://windows-xp.kimi.site/\nComments URL: https://news.ycombinator.com/item?id=49052074\nPoints: 5\n# Comments: 5",
+      "publishedAt": "2026-07-25T22:03:22.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T22:03:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Digital Intelligence: Why Humanity Created What It Does Not Understand",
+      "link": "https://singularityforge.space/2026/07/26/illusion-of-control/",
+      "summary": "Article URL: https://singularityforge.space/2026/07/26/illusion-of-control/\nComments URL: https://news.ycombinator.com/item?id=49052025\nPoints: 3\n# Comments: 2",
+      "publishedAt": "2026-07-25T21:58:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T21:58:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "summary": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy\nComments URL: https://news.ycombinator.com/item?id=49051947\nPoints: 47\n# Comments: 5",
+      "publishedAt": "2026-07-25T21:48:22.000Z",
+      "image": "https://spectrum.ieee.org/media-library/a-sodium-ion-prismatic-cell-battery-pack.jpg?id=67517723&width=1200&height=600&coordinates=0%2C16%2C0%2C234",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T21:48:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Who does Anubis actually stop?",
+      "link": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+      "summary": "Article URL: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop\nComments URL: https://news.ycombinator.com/item?id=49051505\nPoints: 20\n# Comments: 19",
+      "publishedAt": "2026-07-25T20:59:24.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T20:59:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Multicast TV Distribution on My Home Network",
+      "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
+      "summary": "Article URL: https://www.apalrd.net/posts/2026/isp_mcast/\nComments URL: https://news.ycombinator.com/item?id=49051463\nPoints: 14\n# Comments: 2",
+      "publishedAt": "2026-07-25T20:55:12.000Z",
+      "image": "https://www.apalrd.net/img/favicon/orange.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T20:55:12.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Warner Bros. is suing Amazon for poaching employees",
@@ -20,6 +75,39 @@
       "latestActivity": "2026-07-25T20:55:11.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "publishedAt": "2026-07-25T20:52:30.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T20:52:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fly.io CEO Kurt Mackey is stepping down",
+      "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "summary": "Article URL: https://fly.io/blog/kurt-scott-money-sprites/\nComments URL: https://news.ycombinator.com/item?id=49051369\nPoints: 99\n# Comments: 47",
+      "publishedAt": "2026-07-25T20:43:11.000Z",
+      "image": "https://fly.io/blog/kurt-scott-money-sprites/assets/swirl-cover.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T20:43:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\nComments URL: https://news.ycombinator.com/item?id=49051361\nPoints: 82\n# Co…",
+      "publishedAt": "2026-07-25T20:42:35.000Z",
+      "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a639c6b2e881afef80764c6_og_the-new-rules-of-context-engineering-for-claude-5-generation-models.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T20:42:35.000Z"
+    },
+    {
       "source": "TechCrunch",
       "title": "The hacker who humiliated spyware makers and was never caught",
       "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
@@ -32,14 +120,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-      "link": "https://github.com/lucid-fabrics/proxmox-bluetooth",
-      "summary": "Article URL: https://github.com/lucid-fabrics/proxmox-bluetooth\nComments URL: https://news.ycombinator.com/item?id=49050824\nPoints: 20\n# Comments: 5",
-      "publishedAt": "2026-07-25T19:41:07.000Z",
-      "image": "https://opengraph.githubassets.com/7678ad7ac86da7463b7747d870653c00b77dc72b70db48651736cffde2405e75/lucid-fabrics/proxmox-bluetooth",
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "link": "https://news.ycombinator.com/item?id=49051130",
+      "summary": "I like writing Markdown, but do not like writing it inside a plain textarea.\nI wanted something I could use anywhere by dropping in a single web component:\n```\n\n```\nThat became Wri…",
+      "publishedAt": "2026-07-25T20:18:54.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-25T19:41:07.000Z"
+      "latestActivity": "2026-07-25T20:18:54.000Z"
     },
     {
       "source": "Engadget",
@@ -53,17 +141,6 @@
       "latestActivity": "2026-07-25T19:36:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "summary": "Article URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/\nComments URL: https://news.ycombinator.com/item?id=49050735\nPo…",
-      "publishedAt": "2026-07-25T19:30:24.000Z",
-      "image": "https://ammoniaenergy.org/wp-content/uploads/2026/07/uminn-morris.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T19:30:24.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
       "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
@@ -73,17 +150,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T19:23:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The growing vigilante movement to knock out Flock surveillance cameras",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras\nComments URL: https://news.ycombinator.com/item?id=49050538\nPoints: 63\n# Comm…",
-      "publishedAt": "2026-07-25T19:02:17.000Z",
-      "image": "https://i.guim.co.uk/img/media/a0e891a7ff70313f89b236d20509fdb2404a049b/0_495_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ce6eb2b1ce8c618bf027c75fec00f7c",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T19:02:17.000Z"
     },
     {
       "source": "Engadget",
@@ -97,17 +163,6 @@
       "latestActivity": "2026-07-25T18:19:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Tile's security is so bad it's a feature for stalkers",
-      "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-      "summary": "Article URL: https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/\nComments URL: https://news.ycombinator.com/item?id=49050152\nPoints: 79\n# Comm…",
-      "publishedAt": "2026-07-25T18:18:42.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T18:18:42.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Google basically confirms the Pixel 11 is getting a price hike",
       "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
@@ -119,17 +174,6 @@
       "latestActivity": "2026-07-25T18:13:36.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Memory Safety Absolutists",
-      "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-      "summary": "Article URL: https://itsallaboutthebit.com/memory-safety-absolutists/\nComments URL: https://news.ycombinator.com/item?id=49050058\nPoints: 11\n# Comments: 0",
-      "publishedAt": "2026-07-25T18:08:52.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T18:08:52.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
       "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
@@ -139,17 +183,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T17:47:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "link": "https://brolly.sh/forecast/RWFP2qW8",
-      "summary": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wan…",
-      "publishedAt": "2026-07-25T17:34:34.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T17:34:34.000Z"
     },
     {
       "source": "Engadget",
@@ -185,17 +218,6 @@
       "latestActivity": "2026-07-25T16:46:46.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Rauno's Field Notes #2",
-      "link": "https://rauno.me/notes/2",
-      "summary": "Article URL: https://rauno.me/notes/2\nComments URL: https://news.ycombinator.com/item?id=49049066\nPoints: 17\n# Comments: 1",
-      "publishedAt": "2026-07-25T16:39:55.000Z",
-      "image": "https://rauno.me/static/og-notes2.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T16:39:55.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Yes, airplane mode makes your phone charge faster — but it's not worth it",
       "link": "https://www.engadget.com/2219824/airplane-mode-phone-charge-speed-explained/",
@@ -216,17 +238,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bringing PyTorch Monarch to AMD GPUs",
-      "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "summary": "Article URL: https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/\nComments URL: https://news.ycombinator.com/item?id=490486…",
-      "publishedAt": "2026-07-25T15:55:27.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T15:55:27.000Z"
     },
     {
       "source": "Engadget",
@@ -513,17 +524,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-24T21:05:51.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Roku raises streaming stick prices by up to 60 percent",
-      "link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-      "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
-      "publishedAt": "2026-07-24T19:41:06.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RSS4K-PDP-feature_lifestyle-4.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T19:41:06.000Z"
     },
     {
       "source": "VentureBeat",
