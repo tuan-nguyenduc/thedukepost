@@ -1,6 +1,39 @@
 {
-  "syncedAt": "2026-07-25T02:51:04.338Z",
+  "syncedAt": "2026-07-25T06:20:01.401Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+      "summary": "Article URL: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities\nComments URL: https://news.ycombinator.com/item?id=49044…",
+      "publishedAt": "2026-07-25T04:20:21.000Z",
+      "image": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/07/23/image1.png?itok=QQ6h6QCy",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T04:20:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "summary": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc\nComments URL: https://news.ycombinator.com/item?id=49044074\nPoints: 161\n# Comments: 52",
+      "publishedAt": "2026-07-25T02:54:36.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T02:54:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "summary": "Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize\nComments URL: https://news.ycombinator.com/item?id=49043724\nPoints: 41\n# Comments: 11",
+      "publishedAt": "2026-07-25T01:44:12.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-25T01:44:12.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -49,9 +82,9 @@
       "source": "Engadget",
       "title": "SpaceX's 13th Starship flight test launches with Starlink's next-gen satellites",
       "link": "https://www.engadget.com/2222979/spacex-13th-starship-flight-test-launches-with-starlink-s-next-gen-satellites/",
-      "summary": "Starship is carrying 20 V3 Starlink satellites as payload for its 13th test flight.",
+      "summary": "Starship was carrying 20 V3 Starlink satellites as payload for its 13th test flight.",
       "publishedAt": "2026-07-24T22:54:01.000Z",
-      "image": "https://www.engadget.com/img/gallery/spacexs-13th-starship-flight-test-launches-with-starlinks-next-gen-satellites/l-intro-1784933575.jpg",
+      "image": "https://www.engadget.com/img/gallery/spacex-13th-starship-flight-test-launches-with-starlink-s-next-gen-satellites/l-intro-1784957743.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-24T22:54:01.000Z"
@@ -167,17 +200,6 @@
       "latestActivity": "2026-07-24T21:05:51.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
-      "link": "https://github.com/apresta/max-studio-tools",
-      "summary": "Article URL: https://github.com/apresta/max-studio-tools\nComments URL: https://news.ycombinator.com/item?id=49041546\nPoints: 23\n# Comments: 0",
-      "publishedAt": "2026-07-24T21:03:10.000Z",
-      "image": "https://opengraph.githubassets.com/3bc3e5944e4e9a0e95ad96b071309e0337189a06c71a072f387e731cae2d40a8/apresta/max-studio-tools",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T21:03:10.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Paramount agrees to delay Warner Bros. merger into 2027",
       "link": "https://www.engadget.com/2222897/paramount-agrees-to-delay-warner-bros-merger-into-2027/",
@@ -225,7 +247,7 @@
       "source": "Hacker News",
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
       "link": "https://artificialanalysis.ai/models",
-      "summary": "Article URL: https://artificialanalysis.ai/models\nComments URL: https://news.ycombinator.com/item?id=49040741\nPoints: 157\n# Comments: 103",
+      "summary": "Article URL: https://artificialanalysis.ai/models\nComments URL: https://news.ycombinator.com/item?id=49040741\nPoints: 224\n# Comments: 132",
       "publishedAt": "2026-07-24T19:45:10.000Z",
       "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
       "sourceCount": 1,
@@ -316,7 +338,7 @@
       "source": "Hacker News",
       "title": "Postgres LISTEN/NOTIFY actually scales",
       "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability\nComments URL: https://news.ycombinator.com/item?id=49040296\nPoints: 215\n# Comments: 38",
+      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability\nComments URL: https://news.ycombinator.com/item?id=49040296\nPoints: 268\n# Comments: 48",
       "publishedAt": "2026-07-24T19:05:53.000Z",
       "image": "https://cdn.prod.website-files.com/672411cbf038560468c9e68f/6a62e3a5eb32f7dd71332477_Scaling-Postgres-Listen-Notify.jpg",
       "sourceCount": 1,
@@ -408,17 +430,6 @@
       "latestActivity": "2026-07-24T18:02:21.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Gsxui – Shadcn-style components for Go",
-      "link": "https://ui.gsxhq.dev/",
-      "summary": "Article URL: https://ui.gsxhq.dev/\nComments URL: https://news.ycombinator.com/item?id=49039395\nPoints: 56\n# Comments: 8",
-      "publishedAt": "2026-07-24T17:59:08.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T17:59:08.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Boox teases the incredibly tiny Picco ereader",
       "link": "https://www.engadget.com/2222691/boox-teases-incredibly-tiny-picco-ereader/",
@@ -466,7 +477,7 @@
       "source": "Hacker News",
       "title": "Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "https://www.anthropic.com/claude-opus-5-system-card\nComments URL: https://news.ycombinator.com/item?id=49038433\nPoints: 1334\n# Comments: 721",
+      "summary": "https://www.anthropic.com/claude-opus-5-system-card\nComments URL: https://news.ycombinator.com/item?id=49038433\nPoints: 1445\n# Comments: 792",
       "publishedAt": "2026-07-24T16:57:41.000Z",
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
       "sourceCount": 2,
@@ -484,23 +495,12 @@
       "source": "Hacker News",
       "title": "Don't Take the Black Pill [video]",
       "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "summary": "Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4\nComments URL: https://news.ycombinator.com/item?id=49038298\nPoints: 133\n# Comments: 95",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4\nComments URL: https://news.ycombinator.com/item?id=49038298\nPoints: 156\n# Comments: 133",
       "publishedAt": "2026-07-24T16:48:57.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-24T16:48:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker\nComments URL: https://news.ycombinator.com/item?id=49038060\nPoints: 433\n# Comments: 243",
-      "publishedAt": "2026-07-24T16:33:31.000Z",
-      "image": "https://i.guim.co.uk/img/media/e3c91fad3c0af25a6cbbd44c6b091bdfdfdd270d/952_0_4448_3558/master/4448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=d8a12eef6083a120c19a454c8d40fcfd",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T16:33:31.000Z"
     },
     {
       "source": "Wired",
