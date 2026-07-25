@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsletterForm from '../../components/NewsletterForm.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import archive from '../../data/digest-archive.json';
+import { breadcrumbJsonLd } from '../../lib/breadcrumbs';
 
 export async function getStaticPaths() {
   return archive.issues.map((issue) => ({
@@ -12,13 +14,20 @@ export async function getStaticPaths() {
 
 const { issue } = Astro.props;
 const dateLabel = new Date(issue.sentAt).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+
+const breadcrumbItems = [
+  { label: 'Home', href: '/' },
+  { label: 'Newsletter Archive', href: '/newsletter' },
+  { label: issue.subject, href: `/newsletter/${issue.slug}` },
+];
 ---
 <BaseLayout
   title={`${issue.subject} — The Duke Post`}
   description={`The Wire digest for ${dateLabel} — ${issue.stories.length} top tech ${issue.stories.length === 1 ? 'story' : 'stories'}.`}
+  jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
 >
   <article class="wrap issue">
-    <a href="/newsletter" class="eyebrow">Newsletter Archive</a>
+    <Breadcrumbs items={breadcrumbItems} />
     <h1>{issue.subject}</h1>
     <p class="byline">Sent {dateLabel}</p>
 
