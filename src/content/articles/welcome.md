@@ -6,7 +6,7 @@ pubDate: 2026-06-20
 author: "The Duke Post"
 category: "general"
 tags: ["meta", "about"]
-featured: true
+featured: false
 ---
 
 This is the first post on The Duke Post — a tech publication built on a simple idea: original writing where it matters, and an honest, fast-moving feed of what everyone else is reporting, clearly labeled as such.
