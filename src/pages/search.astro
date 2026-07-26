@@ -28,7 +28,7 @@ import { categoryHref, categoryLabel } from '../lib/categories';
   import Fuse from 'fuse.js';
 
   interface SearchItem {
-    type: 'article' | 'wire';
+    type: 'article' | 'wire' | 'newsletter';
     link: string;
     title: string;
     description: string;
@@ -103,7 +103,9 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     status.textContent = `${items.length} result${items.length === 1 ? '' : 's'}`;
     resultsList.innerHTML = items.map((item, i) => {
       const isWire = item.type === 'wire';
-      const eyebrow = escapeHtml(isWire ? `Wire · ${item.category}` : categoryLabel(item.category));
+      const eyebrow = escapeHtml(
+        isWire ? `Wire · ${item.category}` : item.type === 'newsletter' ? 'Newsletter' : categoryLabel(item.category)
+      );
       const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
       return `
       <li class="result-item" role="option" data-index="${i}">

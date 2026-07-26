@@ -19,7 +19,7 @@
   import Fuse from 'fuse.js';
 
   interface SearchItem {
-    type: 'article' | 'wire';
+    type: 'article' | 'wire' | 'newsletter';
     link: string;
     title: string;
     description: string;
@@ -90,7 +90,9 @@
     status.textContent = `${items.length} result${items.length === 1 ? '' : 's'}`;
     resultsEl.innerHTML = items.map((item, i) => {
       const isWire = item.type === 'wire';
-      const eyebrow = escapeHtml(isWire ? `Wire · ${item.category}` : categoryLabel(item.category));
+      const eyebrow = escapeHtml(
+        isWire ? `Wire · ${item.category}` : item.type === 'newsletter' ? 'Newsletter' : categoryLabel(item.category)
+      );
       const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
       return `
         <li role="option" class="search-palette__item" data-index="${i}">
