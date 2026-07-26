@@ -1,33 +1,44 @@
 {
-  "syncedAt": "2026-07-26T06:38:37.957Z",
+  "syncedAt": "2026-07-26T10:02:45.331Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "link": "https://astral.sh/blog/ruff-v0.16.0",
+      "summary": "Article URL: https://astral.sh/blog/ruff-v0.16.0\nComments URL: https://news.ycombinator.com/item?id=49056112\nPoints: 17\n# Comments: 1",
+      "publishedAt": "2026-07-26T09:01:39.000Z",
+      "image": "https://astral.sh/static/PNG/Ruff_v_0_16_0.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T09:01:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices\nComments URL: https://news.ycombinator.com/item?id=49055169\nP…",
+      "publishedAt": "2026-07-26T05:57:22.000Z",
+      "image": "https://discuss.grapheneos.org/opengraph.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T05:57:22.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
       "link": "https://github.com/mulfyx/w4me-station",
-      "summary": "Article URL: https://github.com/mulfyx/w4me-station\nComments URL: https://news.ycombinator.com/item?id=49054697\nPoints: 12\n# Comments: 2",
+      "summary": "Article URL: https://github.com/mulfyx/w4me-station\nComments URL: https://news.ycombinator.com/item?id=49054697\nPoints: 18\n# Comments: 3",
       "publishedAt": "2026-07-26T04:19:59.000Z",
-      "image": "https://opengraph.githubassets.com/15fc7501a4cd66ae5490234170e5147f405eef22b4f29be2435bec34303e2004/mulfyx/w4me-station",
+      "image": "https://opengraph.githubassets.com/8d010fc8f1663c15d53e0d79a0af922f784581f165b7ccd2da998612cd59fc0a/mulfyx/w4me-station",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T04:19:59.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Humans haven't stopped evolving",
-      "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
-      "summary": "Article URL: https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure\nComments URL: https://news.ycombinator.com/item?id=49054307\nPoints: 54\n# Comm…",
-      "publishedAt": "2026-07-26T03:09:46.000Z",
-      "image": "https://www.harvardmagazine.com/sites/default/files/styles/16_9_1920x1080/public/2026-06/hm_art_ja26_page_09_image_0001.webp?h=d3abd34e&itok=AEmzavcj",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T03:09:46.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "JetZero",
       "link": "https://www.jetzero.aero",
-      "summary": "Article URL: https://www.jetzero.aero\nComments URL: https://news.ycombinator.com/item?id=49054224\nPoints: 154\n# Comments: 104",
+      "summary": "Article URL: https://www.jetzero.aero\nComments URL: https://news.ycombinator.com/item?id=49054224\nPoints: 199\n# Comments: 158",
       "publishedAt": "2026-07-26T02:55:50.000Z",
       "image": null,
       "sourceCount": 1,
@@ -38,7 +49,7 @@
       "source": "Hacker News",
       "title": "An ESP32 based plane radar for my desk",
       "link": "https://blog.ktz.me/esp32-plane-radar/",
-      "summary": "Article URL: https://blog.ktz.me/esp32-plane-radar/\nComments URL: https://news.ycombinator.com/item?id=49054107\nPoints: 90\n# Comments: 15",
+      "summary": "Article URL: https://blog.ktz.me/esp32-plane-radar/\nComments URL: https://news.ycombinator.com/item?id=49054107\nPoints: 149\n# Comments: 27",
       "publishedAt": "2026-07-26T02:35:43.000Z",
       "image": "https://pub-430e0c9ecb66464fa6999cd23a749d13.r2.dev/content/images/2026/07/esp32-plane-radar/img-3936.webp",
       "sourceCount": 1,
@@ -60,7 +71,7 @@
       "source": "Hacker News",
       "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
       "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-      "summary": "Article URL: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/\nComments URL: https://news.ycombinator.com/item?id=49053708\nPoints: 38\n# Comments: 9",
+      "summary": "Article URL: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/\nComments URL: https://news.ycombinator.com/item?id=49053708\nPoints: 68\n# Comments: 19",
       "publishedAt": "2026-07-26T01:35:03.000Z",
       "image": "https://www.seti.org/media/hk4lcjsh/figure-4.jpg",
       "sourceCount": 1,
@@ -80,25 +91,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Systems and Delays",
-      "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-      "summary": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html\nComments URL: https://news.ycombinator.com/item?id=49053382\nPoints: 52\n# Comments: 13",
-      "publishedAt": "2026-07-26T00:37:30.000Z",
+      "title": "Git rebase -I is not that scary",
+      "link": "https://cachebag.sh/journal/interactive-rebasing/",
+      "summary": "Article URL: https://cachebag.sh/journal/interactive-rebasing/\nComments URL: https://news.ycombinator.com/item?id=49053385\nPoints: 67\n# Comments: 75",
+      "publishedAt": "2026-07-26T00:37:54.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-26T00:37:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-      "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "summary": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2\nComments URL: https://news.ycombinator.com/item?id=49053375\nPoints: 81\n# Comments: 6",
-      "publishedAt": "2026-07-26T00:36:30.000Z",
-      "image": "https://huggingface.co/owensong/Inflect-Micro-v2/assets/inflect-v2-repository-hero.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T00:36:30.000Z"
+      "latestActivity": "2026-07-26T00:37:54.000Z"
     },
     {
       "source": "The Verge",
