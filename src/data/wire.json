@@ -1,6 +1,57 @@
 {
-  "syncedAt": "2026-07-26T19:15:25.947Z",
+  "syncedAt": "2026-07-26T21:02:05.319Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Nanoleaf's monitor stand is an all-in-one setup that brightens up your desk space",
+      "link": "https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/",
+      "summary": "The Smart LED Monitor Stand is currently available for $169.99.",
+      "publishedAt": "2026-07-26T20:15:08.000Z",
+      "image": "https://www.engadget.com/img/gallery/nanoleafs-monitor-stand-is-an-all-in-one-setup-that-brightens-up-your-desk-space/l-intro-1785092772.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T20:15:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What does GitHub's security team even do?",
+      "link": "https://orchidfiles.com/github-security-team/",
+      "summary": "Article URL: https://orchidfiles.com/github-security-team/\nComments URL: https://news.ycombinator.com/item?id=49061769\nPoints: 46\n# Comments: 9",
+      "publishedAt": "2026-07-26T19:51:05.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T19:51:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "publishedAt": "2026-07-26T19:40:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T19:40:57.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
+      "link": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
+      "summary": "The Apple team behind the upcoming smart glasses is reportedly exploring several tweaks related to user privacy.",
+      "publishedAt": "2026-07-26T17:43:38.000Z",
+      "image": "https://www.engadget.com/img/gallery/apples-smart-glasses-delay-reportedly-stems-in-part-from-major-privacy-concerns/l-intro-1785087373.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Apple is banking on privacy to set its smart glasses apart",
+          "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+          "publishedAt": "2026-07-26T19:36:38.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-26T19:36:38.000Z"
+    },
     {
       "source": "The Verge",
       "title": "The US is charging an American citizen for wiping his phone at the border",
@@ -14,20 +65,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: The Occult Gatsby",
-      "link": "https://occultgatsby.work",
-      "summary": "The Occult Great Gatsby\nThe Great Gatsby Annotated for Esoteric Content:\nThe Fourth Way, Alchemy, Tarot, and Kabbalah\nAuthor is my father, Jon Woodson.  I'm the web guy who wanted…",
-      "publishedAt": "2026-07-26T18:38:11.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T18:38:11.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "The Strongest El Niño Ever",
       "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "summary": "Article URL: https://www.theclimatebrink.com/p/the-strongest-el-nino-ever\nComments URL: https://news.ycombinator.com/item?id=49060978\nPoints: 38\n# Comments: 11",
+      "summary": "Article URL: https://www.theclimatebrink.com/p/the-strongest-el-nino-ever\nComments URL: https://news.ycombinator.com/item?id=49060978\nPoints: 151\n# Comments: 83",
       "publishedAt": "2026-07-26T18:35:36.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!KuFt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58159098-201a-4e2c-9756-fb2da105b0a7_6000x4000.png",
       "sourceCount": 1,
@@ -38,12 +78,23 @@
       "source": "Hacker News",
       "title": "How to Block Some of the Bots",
       "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-      "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/\nComments URL: https://news.ycombinator.com/item?id=49060945\nPoints: 4\n# Comments: 2",
+      "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/\nComments URL: https://news.ycombinator.com/item?id=49060945\nPoints: 42\n# Comments: 25",
       "publishedAt": "2026-07-26T18:32:46.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T18:32:46.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to get YouTube Music's best audio quality",
+      "link": "https://www.engadget.com/2221561/how-to-get-youtube-music-best-audio-quality/",
+      "summary": "If you don't mind using more data, make these changes to step up your listening experience in the YouTube Music app.",
+      "publishedAt": "2026-07-26T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-youtube-musics-best-audio-quality/l-intro-1784808709.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T18:30:00.000Z"
     },
     {
       "source": "Engadget",
@@ -58,9 +109,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Decker",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "link": "https://beyondloom.com/decker/",
-      "summary": "Article URL: https://beyondloom.com/decker/\nComments URL: https://news.ycombinator.com/item?id=49060856\nPoints: 8\n# Comments: 2",
+      "summary": "Article URL: https://beyondloom.com/decker/\nComments URL: https://news.ycombinator.com/item?id=49060856\nPoints: 84\n# Comments: 17",
       "publishedAt": "2026-07-26T18:23:06.000Z",
       "image": null,
       "sourceCount": 1,
@@ -69,20 +120,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Google Cache used to have a copy of this page at",
-      "link": "https://www.hornet.org/wikipedia-notes.txt",
-      "summary": "Article URL: https://www.hornet.org/wikipedia-notes.txt\nComments URL: https://news.ycombinator.com/item?id=49060802\nPoints: 6\n# Comments: 2",
-      "publishedAt": "2026-07-26T18:18:57.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T18:18:57.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Introduction to Data-Oriented Design [pdf]",
       "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf\nComments URL: https://news.ycombinator.com/item?id=49060724\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf\nComments URL: https://news.ycombinator.com/item?id=49060724\nPoints: 35\n# Comments: 9",
       "publishedAt": "2026-07-26T18:11:16.000Z",
       "image": null,
       "sourceCount": 1,
@@ -91,25 +131,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "summary": "Article URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time\nComments URL: https://news.ycombinator.com/item?id=49060495\nPoi…",
-      "publishedAt": "2026-07-26T17:49:44.000Z",
-      "image": "https://s.france24.com/media/display/28a20512-8901-11f1-af78-005056bfb2b6/w:1280/p:16x9/dafe7dea5fec7f3a48c4717459bcd02a6f29ce60.jpg",
+      "title": "It's not empowering to hand off the details",
+      "link": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+      "summary": "Article URL: https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/\nComments URL: https://news.ycombinator.com/item?id=49060592\nPoints: 16\n# Comments: 2",
+      "publishedAt": "2026-07-26T17:58:02.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-26T17:49:44.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
-      "link": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
-      "summary": "The Apple team behind the upcoming smart glasses is reportedly exploring several tweaks related to user privacy.",
-      "publishedAt": "2026-07-26T17:43:38.000Z",
-      "image": "https://www.engadget.com/img/gallery/apples-smart-glasses-delay-reportedly-stems-in-part-from-major-privacy-concerns/l-intro-1785087373.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T17:43:38.000Z"
+      "latestActivity": "2026-07-26T17:58:02.000Z"
     },
     {
       "source": "Engadget",
@@ -126,7 +155,7 @@
       "source": "Hacker News",
       "title": "How to Write English Prose",
       "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-      "summary": "Article URL: https://thelampmagazine.com/blog/how-to-write-english-prose\nComments URL: https://news.ycombinator.com/item?id=49060295\nPoints: 14\n# Comments: 3",
+      "summary": "Article URL: https://thelampmagazine.com/blog/how-to-write-english-prose\nComments URL: https://news.ycombinator.com/item?id=49060295\nPoints: 32\n# Comments: 11",
       "publishedAt": "2026-07-26T17:29:35.000Z",
       "image": "https://lamp-magazine.transforms.svdcdn.com/production/uploads/Screen-Shot-2023-01-09-at-9.36.19-AM-3.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1674770758&s=a90c20ea42dcec9d6ed38bd249158258",
       "sourceCount": 1,
@@ -143,6 +172,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T17:03:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Using ThinkPad T480 as a mobile phone",
+      "link": "https://grego.site/blog/thinkphone",
+      "summary": "Article URL: https://grego.site/blog/thinkphone\nComments URL: https://news.ycombinator.com/item?id=49059977\nPoints: 58\n# Comments: 17",
+      "publishedAt": "2026-07-26T16:56:06.000Z",
+      "image": "https://grego.site/img/blog/thinkphone.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T16:56:06.000Z"
     },
     {
       "source": "Engadget",
@@ -231,28 +271,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T14:51:33.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Your Apple Watch calorie tracker is an educated guess, not a fact",
-      "link": "https://www.engadget.com/2222496/apple-watch-heres-why-calorie-tracker-not-a-fact/",
-      "summary": "Accurately counting calories requires more data than a smartwatch can easily gather.",
-      "publishedAt": "2026-07-26T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact/l-intro-1784301861.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T14:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The reason why the MacBook Air doesn't need a fan",
-      "link": "https://www.engadget.com/2218722/macbook-air-missing-fan-reason-why/",
-      "summary": "Apple Silicon delivers enough performance without overheating.",
-      "publishedAt": "2026-07-26T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-reason-why-the-macbook-air-doesnt-need-a-fan/l-intro-1784056065.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T13:30:00.000Z"
     },
     {
       "source": "The Verge",
@@ -409,17 +427,6 @@
       "latestActivity": "2026-07-25T17:47:22.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-      "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
-      "summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
-      "publishedAt": "2026-07-25T16:46:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Kalshi.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T16:46:46.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Synth historian Oli Freke will spend big on a good bicycle",
       "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
@@ -429,17 +436,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T15:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Teenage Engineering’s unique music machines are 30 percent off",
-      "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-      "summary": "Teenage Engineering’s OP-XY has a huge number of functions. | Photo by Terrence O’Brien / The Verge\t\n\nWith elements from synthesizers, loopers, and effects pedals, Teenage Engineer…",
-      "publishedAt": "2026-07-25T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T15:00:00.000Z"
     },
     {
       "source": "Wired",
