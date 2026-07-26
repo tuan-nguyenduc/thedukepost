@@ -1,11 +1,84 @@
 {
-  "syncedAt": "2026-07-26T13:27:57.378Z",
+  "syncedAt": "2026-07-26T15:07:43.581Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+      "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+      "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get…",
+      "publishedAt": "2026-07-26T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/assets_2026_06_1780857686_1b.HCE_Standard_Edition_No_Logo_3840x2180.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
+      "link": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+      "summary": "Ryan Gosling on stage at Comic-Con | Image: Marvel Studios\t\n\nWhile perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The hig…",
+      "publishedAt": "2026-07-26T14:51:33.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/HOH7bVYboAAjHWn.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T14:51:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The hacker who humiliated spyware makers and was never caught",
+      "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+      "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher…",
+      "publishedAt": "2026-07-25T20:24:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/anonymous-hacktivist-mask.jpg?resize=1200,800",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "The hacker who humiliated spyware makers and was never caught",
+          "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+          "publishedAt": "2026-07-26T14:30:28.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-26T14:30:28.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Your Apple Watch calorie tracker is an educated guess, not a fact",
+      "link": "https://www.engadget.com/2222496/apple-watch-heres-why-calorie-tracker-not-a-fact/",
+      "summary": "Accurately counting calories requires more data than a smartwatch can easily gather.",
+      "publishedAt": "2026-07-26T14:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact/l-intro-1784301861.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T14:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The reason why the MacBook Air doesn't need a fan",
+      "link": "https://www.engadget.com/2218722/macbook-air-missing-fan-reason-why/",
+      "summary": "Apple Silicon delivers enough performance without overheating.",
+      "publishedAt": "2026-07-26T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-reason-why-the-macbook-air-doesnt-need-a-fan/l-intro-1784056065.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T13:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: What are the most promising RL fields for a new master student?",
+      "link": "https://news.ycombinator.com/item?id=49057972",
+      "summary": "i am an incoming msc student thinking about a research direction in reinforcement learning. which rl subfields do you think have the most potential right now? i am particularly int…",
+      "publishedAt": "2026-07-26T13:22:59.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T13:22:59.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
       "link": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "summary": "Article URL: https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c\nComments URL: https://news.ycombinator.com/item?id=49057574\nPoints: 26…",
+      "summary": "Article URL: https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c\nComments URL: https://news.ycombinator.com/item?id=49057574\nPoints: 142…",
       "publishedAt": "2026-07-26T12:43:21.000Z",
       "image": null,
       "sourceCount": 1,
@@ -16,7 +89,7 @@
       "source": "Hacker News",
       "title": "Go Analysis Framework: modular static analysis by go team",
       "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "summary": "Article URL: https://pkg.go.dev/golang.org/x/tools/go/analysis\nComments URL: https://news.ycombinator.com/item?id=49057398\nPoints: 15\n# Comments: 1",
+      "summary": "Article URL: https://pkg.go.dev/golang.org/x/tools/go/analysis\nComments URL: https://news.ycombinator.com/item?id=49057398\nPoints: 68\n# Comments: 6",
       "publishedAt": "2026-07-26T12:21:26.000Z",
       "image": null,
       "sourceCount": 1,
@@ -27,7 +100,7 @@
       "source": "Hacker News",
       "title": "Third Drone Shot Down in Three Days in Romanian Territory",
       "link": "https://english.mapn.ro/",
-      "summary": "Article URL: https://english.mapn.ro/\nComments URL: https://news.ycombinator.com/item?id=49057248\nPoints: 90\n# Comments: 47",
+      "summary": "Article URL: https://english.mapn.ro/\nComments URL: https://news.ycombinator.com/item?id=49057248\nPoints: 147\n# Comments: 142",
       "publishedAt": "2026-07-26T12:00:42.000Z",
       "image": "https://www.mapn.ro/images/ministerul_apararii_nationale_coroana.jpg",
       "sourceCount": 1,
@@ -113,31 +186,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-      "link": "https://comuniq.xyz/post?t=1439",
-      "summary": "Article URL: https://comuniq.xyz/post?t=1439\nComments URL: https://news.ycombinator.com/item?id=49056424\nPoints: 42\n# Comments: 33",
-      "publishedAt": "2026-07-26T09:58:11.000Z",
-      "image": "https://comuniq.xyz/assets/img/icon.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T09:58:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Systemd Linger",
-      "link": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-      "summary": "Article URL: https://etbe.coker.com.au/2026/07/24/systemd-linger/\nComments URL: https://news.ycombinator.com/item?id=49056351\nPoints: 29\n# Comments: 16",
-      "publishedAt": "2026-07-26T09:43:13.000Z",
-      "image": "https://s0.wp.com/i/blank.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T09:43:13.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Elevated Errors for Opus 5",
       "link": "https://status.claude.com/incidents/zftg3gqkmv18",
-      "summary": "Article URL: https://status.claude.com/incidents/zftg3gqkmv18\nComments URL: https://news.ycombinator.com/item?id=49056194\nPoints: 54\n# Comments: 49",
+      "summary": "Article URL: https://status.claude.com/incidents/zftg3gqkmv18\nComments URL: https://news.ycombinator.com/item?id=49056194\nPoints: 62\n# Comments: 56",
       "publishedAt": "2026-07-26T09:18:34.000Z",
       "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "sourceCount": 1,
@@ -148,7 +199,7 @@
       "source": "Hacker News",
       "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
       "link": "https://astral.sh/blog/ruff-v0.16.0",
-      "summary": "Article URL: https://astral.sh/blog/ruff-v0.16.0\nComments URL: https://news.ycombinator.com/item?id=49056112\nPoints: 168\n# Comments: 94",
+      "summary": "Article URL: https://astral.sh/blog/ruff-v0.16.0\nComments URL: https://news.ycombinator.com/item?id=49056112\nPoints: 217\n# Comments: 125",
       "publishedAt": "2026-07-26T09:01:39.000Z",
       "image": "https://astral.sh/static/PNG/Ruff_v_0_16_0.png",
       "sourceCount": 1,
@@ -205,17 +256,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T20:52:30.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The hacker who humiliated spyware makers and was never caught",
-      "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-      "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher…",
-      "publishedAt": "2026-07-25T20:24:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/anonymous-hacktivist-mask.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T20:24:14.000Z"
     },
     {
       "source": "Engadget",
@@ -339,17 +379,6 @@
       "latestActivity": "2026-07-25T15:44:41.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How to get more storage on your Android without using a microSD Card",
-      "link": "https://www.engadget.com/2218717/how-to-increase-android-storage-no-microsd-slot/",
-      "summary": "Cloud storage isn't your only option.",
-      "publishedAt": "2026-07-25T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-more-storage-on-your-android-without-using-a-microsd-card/l-intro-1784314353.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T15:30:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Synth historian Oli Freke will spend big on a good bicycle",
       "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
@@ -372,17 +401,6 @@
       "latestActivity": "2026-07-25T15:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The downsides of switching from Android to iPhone",
-      "link": "https://www.engadget.com/2222494/downsides-switching-from-android-to-iphone/",
-      "summary": "Here are a few things to know if you're leaving Android for iPhone.",
-      "publishedAt": "2026-07-25T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-downsides-of-switching-from-android-to-iphone/l-intro-1784558947.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T14:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
       "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
@@ -403,28 +421,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "What Surrounds Us will make you think a lot about circles",
-      "link": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
-      "summary": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient movi…",
-      "publishedAt": "2026-07-25T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_765cecb6ce4a937c4f17d94cc6729212ecb56fa8.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Folding and flipping phones are getting seriously good",
-      "link": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the…",
-      "publishedAt": "2026-07-25T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-137.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T12:00:00.000Z"
     },
     {
       "source": "Wired",
