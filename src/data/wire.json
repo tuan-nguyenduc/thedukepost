@@ -1,6 +1,85 @@
 {
-  "syncedAt": "2026-07-26T21:02:05.319Z",
+  "syncedAt": "2026-07-26T23:02:07.184Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Teaching Kids Forth – Anna Liberty",
+      "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 14\n# Comments: 4",
+      "publishedAt": "2026-07-26T21:39:17.000Z",
+      "image": "/avatar.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T21:39:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+      "link": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+      "summary": "Thankfully the movie is bonkers enough to live up to the artwork. | Image: Vinegar Syndrome\t\n\nThere's something about a movie like The Room, Troll 2, or Fateful Findings that I fin…",
+      "publishedAt": "2026-07-26T21:24:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Champagne-and-Bullets.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T21:24:07.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
+      "link": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
+      "summary": "The Apple team behind the upcoming smart glasses is reportedly exploring several tweaks related to user privacy.",
+      "publishedAt": "2026-07-26T17:43:38.000Z",
+      "image": "https://www.engadget.com/img/gallery/apples-smart-glasses-delay-reportedly-stems-in-part-from-major-privacy-concerns/l-intro-1785087373.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Apple is banking on privacy to set its smart glasses apart",
+          "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+          "publishedAt": "2026-07-26T19:36:38.000Z"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+          "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+          "publishedAt": "2026-07-26T21:06:44.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-26T21:06:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We have proof automation now",
+      "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html\nComments URL: https://news.ycombinator.com/item?id=49062291\nPoints: 22\n# Comments: 1",
+      "publishedAt": "2026-07-26T20:53:26.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T20:53:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "link": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "summary": "Article URL: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/\nComments URL: https://news.ycombinator.com/item?id=49062259\nPoints: 14\n# Comments: 3",
+      "publishedAt": "2026-07-26T20:49:43.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T20:49:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+      "summary": "Article URL: https://spectrum.ieee.org/space-debris-atmosphere-burn-up\nComments URL: https://news.ycombinator.com/item?id=49062120\nPoints: 24\n# Comments: 3",
+      "publishedAt": "2026-07-26T20:31:57.000Z",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67521175&width=1200&height=600&coordinates=0%2C156%2C0%2C94",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T20:31:57.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Nanoleaf's monitor stand is an all-in-one setup that brightens up your desk space",
@@ -14,14 +93,36 @@
     },
     {
       "source": "Hacker News",
-      "title": "What does GitHub's security team even do?",
-      "link": "https://orchidfiles.com/github-security-team/",
-      "summary": "Article URL: https://orchidfiles.com/github-security-team/\nComments URL: https://news.ycombinator.com/item?id=49061769\nPoints: 46\n# Comments: 9",
-      "publishedAt": "2026-07-26T19:51:05.000Z",
-      "image": null,
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "summary": "Article URL: https://github.com/AARomanov1985/Audio-Cassette-Simulation\nComments URL: https://news.ycombinator.com/item?id=49061887\nPoints: 31\n# Comments: 17",
+      "publishedAt": "2026-07-26T20:02:15.000Z",
+      "image": "https://opengraph.githubassets.com/908aea519a8152a40316b9468631f99634b50d1c1e0f002b31dbd42b9ff6d360/AARomanov1985/Audio-Cassette-Simulation",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-26T19:51:05.000Z"
+      "latestActivity": "2026-07-26T20:02:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Infinite Jigsaw Game",
+      "link": "https://infinitejigsaw.com",
+      "summary": "Had the idea forever, finally got it working.\nComments URL: https://news.ycombinator.com/item?id=49061879\nPoints: 16\n# Comments: 14",
+      "publishedAt": "2026-07-26T20:01:27.000Z",
+      "image": "https://infinitejigsaw.com/og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T20:01:27.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+      "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+      "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
+      "publishedAt": "2026-07-26T19:48:43.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/neuromancer-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T19:48:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -35,24 +136,6 @@
       "latestActivity": "2026-07-26T19:40:57.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
-      "link": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
-      "summary": "The Apple team behind the upcoming smart glasses is reportedly exploring several tweaks related to user privacy.",
-      "publishedAt": "2026-07-26T17:43:38.000Z",
-      "image": "https://www.engadget.com/img/gallery/apples-smart-glasses-delay-reportedly-stems-in-part-from-major-privacy-concerns/l-intro-1785087373.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Apple is banking on privacy to set its smart glasses apart",
-          "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-          "publishedAt": "2026-07-26T19:36:38.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-26T19:36:38.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The US is charging an American citizen for wiping his phone at the border",
       "link": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
@@ -62,28 +145,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T18:45:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Strongest El Niño Ever",
-      "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "summary": "Article URL: https://www.theclimatebrink.com/p/the-strongest-el-nino-ever\nComments URL: https://news.ycombinator.com/item?id=49060978\nPoints: 151\n# Comments: 83",
-      "publishedAt": "2026-07-26T18:35:36.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!KuFt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58159098-201a-4e2c-9756-fb2da105b0a7_6000x4000.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T18:35:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to Block Some of the Bots",
-      "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-      "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/\nComments URL: https://news.ycombinator.com/item?id=49060945\nPoints: 42\n# Comments: 25",
-      "publishedAt": "2026-07-26T18:32:46.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T18:32:46.000Z"
     },
     {
       "source": "Engadget",
@@ -111,7 +172,7 @@
       "source": "Hacker News",
       "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "link": "https://beyondloom.com/decker/",
-      "summary": "Article URL: https://beyondloom.com/decker/\nComments URL: https://news.ycombinator.com/item?id=49060856\nPoints: 84\n# Comments: 17",
+      "summary": "Article URL: https://beyondloom.com/decker/\nComments URL: https://news.ycombinator.com/item?id=49060856\nPoints: 166\n# Comments: 37",
       "publishedAt": "2026-07-26T18:23:06.000Z",
       "image": null,
       "sourceCount": 1,
@@ -122,23 +183,12 @@
       "source": "Hacker News",
       "title": "Introduction to Data-Oriented Design [pdf]",
       "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf\nComments URL: https://news.ycombinator.com/item?id=49060724\nPoints: 35\n# Comments: 9",
+      "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf\nComments URL: https://news.ycombinator.com/item?id=49060724\nPoints: 79\n# Comments: 18",
       "publishedAt": "2026-07-26T18:11:16.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T18:11:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "It's not empowering to hand off the details",
-      "link": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "summary": "Article URL: https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/\nComments URL: https://news.ycombinator.com/item?id=49060592\nPoints: 16\n# Comments: 2",
-      "publishedAt": "2026-07-26T17:58:02.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T17:58:02.000Z"
     },
     {
       "source": "Engadget",
@@ -152,17 +202,6 @@
       "latestActivity": "2026-07-26T17:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "How to Write English Prose",
-      "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-      "summary": "Article URL: https://thelampmagazine.com/blog/how-to-write-english-prose\nComments URL: https://news.ycombinator.com/item?id=49060295\nPoints: 32\n# Comments: 11",
-      "publishedAt": "2026-07-26T17:29:35.000Z",
-      "image": "https://lamp-magazine.transforms.svdcdn.com/production/uploads/Screen-Shot-2023-01-09-at-9.36.19-AM-3.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1674770758&s=a90c20ea42dcec9d6ed38bd249158258",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T17:29:35.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Inside one London founder house rewriting the founder-house rules ",
       "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
@@ -172,17 +211,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T17:03:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Using ThinkPad T480 as a mobile phone",
-      "link": "https://grego.site/blog/thinkphone",
-      "summary": "Article URL: https://grego.site/blog/thinkphone\nComments URL: https://news.ycombinator.com/item?id=49059977\nPoints: 58\n# Comments: 17",
-      "publishedAt": "2026-07-26T16:56:06.000Z",
-      "image": "https://grego.site/img/blog/thinkphone.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T16:56:06.000Z"
     },
     {
       "source": "Engadget",
@@ -394,17 +422,6 @@
       "latestActivity": "2026-07-25T20:24:14.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-      "publishedAt": "2026-07-25T19:23:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/TBC16.jpg?resize=1200,857",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T19:23:32.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Google basically confirms the Pixel 11 is getting a price hike",
       "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
@@ -425,17 +442,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T17:47:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Synth historian Oli Freke will spend big on a good bicycle",
-      "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-      "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the We…",
-      "publishedAt": "2026-07-25T15:15:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Oli-Freke-photo.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T15:15:00.000Z"
     },
     {
       "source": "Wired",
@@ -513,17 +519,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-24T21:25:15.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-      "publishedAt": "2026-07-24T21:05:51.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T21:05:51.000Z"
     },
     {
       "source": "VentureBeat",
