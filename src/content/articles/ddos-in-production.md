@@ -1,6 +1,7 @@
 ---
 title: "The Front Door Won't Close: What a DDoS Attack Actually Does to Production"
 description: "DDoS isn't about traffic volume — it's about bottlenecks, capacity, and how well you can tell attackers apart from real users at 3am."
+image: "/images/ddos-network-cables-cover.jpg"
 pubDate: 2026-07-26
 author: "The Duke Post"
 category: "security"
@@ -29,6 +30,11 @@ DoS and DDoS share a goal — deny service to legitimate traffic — but they do
 A DoS attack comes from one source, or a small handful. You can often block it with a firewall rule and move on with your night. A DDoS attack is deliberately distributed across thousands of sources — botnets, compromised IoT devices, open proxies — specifically so that IP blocking doesn't work. Block one range and traffic keeps arriving from ten thousand others.
 
 That's the whole reason DDoS is harder: it forces you to defend at a layer above "block the bad IP," which usually means edge infrastructure you don't fully control yourself — a CDN, an Anycast network, a scrubbing provider — working together with defenses you *do* control inside your own stack.
+
+<figure>
+  <img src="/images/ddos-botnet-diagram.png" alt="Diagram showing an attacker issuing commands to a controller, which directs a large network of compromised 'zombie' machines to flood a single victim server with traffic." loading="lazy" />
+  <figcaption>Every arrow into the victim comes from a different machine — none of them the attacker's own. Diagram: Nasanbuyn / <a href="https://commons.wikimedia.org/wiki/File:Ddos-attack-ex.png" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>.</figcaption>
+</figure>
 
 ## Three attacks wearing the same name
 
