@@ -46,6 +46,11 @@ That's the whole reason DDoS is harder: it forces you to defend at a layer above
 
 **Application-layer** is the one that should worry you most, because it's the one that looks like your own users. An HTTP flood against a normal-looking endpoint, credential-stuffing traffic dressed up as login attempts, a scraper hammering your search bar — all indistinguishable from real demand until you look at what it's actually doing to your backend. A `/search` endpoint with no cache and no rate limit doesn't need a botnet to fall over; a few thousand requests a second that all miss cache and hit the database will do it.
 
+<figure>
+  <img src="/images/ddos-osi-layers-diagram.svg" alt="The seven-layer OSI model, from Physical at the bottom through Data Link, Network, Transport, Session, Presentation, up to Application at the top." loading="lazy" />
+  <figcaption>Volumetric attacks hit the lower layers (Physical/Network) before packets even reach your load balancer. Protocol attacks target Transport-layer state (SYN backlogs, connection tables). Application-layer attacks skip straight to the top — layer 7 — which is exactly why they look like ordinary traffic. Diagram: Offnfopt / <a href="https://commons.wikimedia.org/wiki/File:OSI_Model_v1.svg" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>, public domain.</figcaption>
+</figure>
+
 That third category is why "just add more servers" stopped being an answer years ago. You can autoscale in front of an application-layer attack all night — and the attacker gets exactly what they wanted anyway: your cloud bill climbing while real users still time out, because the bottleneck was never compute in the first place.
 
 ## Where it actually lands
@@ -63,6 +68,11 @@ That last one is the sneaky part. Two teams can each believe their service is re
 ## Reading the signs before they read you
 
 The pattern is usually recognizable, if you're looking at the right slice of data: RPS spiking on a narrow set of endpoints rather than uniformly across the site, p95 latency climbing with no corresponding deploy, 5xx and timeout rates rising, CPU and packet loss climbing together, and load balancer connection counts moving in a way that doesn't match your normal traffic shape.
+
+<figure>
+  <img src="/images/ddos-monitoring-dashboard.jpg" alt="Close-up of a monitoring dashboard showing multiple metric tiles with line graphs, including click-through rate and quality score panels." loading="lazy" />
+  <figcaption>A single spiking tile means nothing on its own — it's the breakdown by endpoint and status code, side by side, that turns a metrics wall into a diagnosis. Photo: Stephen Dawson / <a href="https://unsplash.com/photos/turned-on-monitoring-screen-qwtCeJ5cLYs" target="_blank" rel="noopener noreferrer">Unsplash</a>.</figcaption>
+</figure>
 
 The catch is that none of this is visible if your dashboard only shows total RPS. A flood against one endpoint can hide comfortably inside an aggregate number that still looks unremarkable. The fix is cheap: **break down traffic by endpoint and status code by default**, and by region or ASN when you can, so an anomaly on one path doesn't get averaged away into "traffic's a little high today."
 
