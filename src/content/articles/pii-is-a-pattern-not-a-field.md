@@ -1,6 +1,6 @@
 ---
 title: "The Data Had No Name on It. It Still Mapped a Secret Military Base."
-description: "A 2018 fitness-app heatmap outed military bases without a single name field attached — what that means for where PII actually hides in your stack, and which of redaction, masking, tokenization, or encryption actually fixes it."
+description: "A 2018 fitness-app heatmap outed military bases without a single name field attached — where PII actually hides in your stack, and which of redaction, masking, tokenization, or encryption actually stops it."
 image: "/images/pii-heatmap-lights-cover.jpg"
 pubDate: 2026-07-27
 author: "The Duke Post"
@@ -10,17 +10,17 @@ featured: false
 draft: false
 ---
 
-In November 2017, Strava — the GPS fitness-tracking app millions of runners and cyclists use to log their routes — published something it called the Global Heatmap: every public activity ever recorded on the platform, layered into one glowing image of the planet. A billion activities. Three trillion GPS points. Ten terabytes of input data, rendered down to brightness — the more people moved through a place, the brighter it glowed.
+In November 2017, Strava — the fitness app millions of runners and cyclists use to track their routes — published something called the Global Heatmap. It took every public activity ever recorded on the app and laid them all on one glowing map of the planet: a billion activities, three trillion GPS points, ten terabytes of data. The more people moved through a place, the brighter it glowed. Marketing loved it. It looked like the whole planet was breathing.
 
-Two months later, Nathan Ruser, a 20-year-old international-security student at Australian National University, was scrolling over Syria. Most of the desert was dark — nobody logs a jog there. Except for a few unmistakable clusters of glowing lines, laid out in the exact geometry of a running loop, sitting in the middle of nowhere. The same pattern showed up around U.S. and coalition bases in Afghanistan, Australia's secretive Pine Gap facility, and a Chinese military outpost on Woody Island — perimeters and patrol paths, traced by people out for a run wearing a watch that talked to satellites.
+Two months later, Nathan Ruser — a 20-year-old student in Australia — was scrolling over Syria on the map, presumably procrastinating on an assignment like every other 20-year-old on the internet. Most of the desert was dark, since nobody there logs a run on Strava. But a few spots glowed in the unmistakable shape of a running loop, sitting in the middle of nowhere. The same shape showed up around U.S. bases in Afghanistan, around Australia's secret Pine Gap facility, and over a Chinese military outpost on Woody Island. Soldiers out for a run, wearing a watch that talked to satellites, had traced the outline of their own base — for free, for the whole world, in HD.
 
-None of that data had a name attached to it. Strava's heatmap was, technically, anonymized and aggregated — exactly the transformation most privacy programs treat as the finish line. It still worked as a targeting map.
+None of that data had a name on it. Strava's heatmap was anonymized and aggregated — the exact status most privacy programs treat as "job done." Somewhere, someone in a windowless office had a genuinely terrible Monday.
 
 ## PII isn't a field. It's a pattern.
 
-Most PII programs are built around a list: email, phone, full name, home address, national ID. Scan for those fields, redact or restrict them, ship it. That list is necessary — but it encodes an assumption that got Strava in trouble: that identifiability lives in the field, not in what the fields add up to.
+Most PII programs work off a list: email, phone, full name, home address, national ID. Find those fields, redact or restrict them, ship it. It's the compliance equivalent of locking the front door and leaving every window open — technically secure, if nobody looks sideways. That list matters, but it hides an assumption, and that assumption is exactly what got Strava in trouble: identity doesn't live in one field. It lives in what several fields add up to.
 
-A GPS ping isn't PII. A timestamp isn't PII. A device ID with no name behind it isn't PII. Strava's heatmap had none of the fields on anyone's checklist — just the same anonymous ping, repeated at the same hour every day, in a location where the only plausible explanation was "someone stationed at this base." Privacy researchers call this a quasi-identifier: harmless alone, de-anonymizing in combination. It's also why there's no universal PII field list — the same `city` or `device_id` column is noise in a million-user dataset and a full identification in a hundred-user one, depending on what else it sits next to.
+A GPS ping isn't PII. A timestamp isn't PII. A device ID with no name behind it isn't PII. Strava's heatmap had none of the fields on anyone's checklist. What it had was the same anonymous ping, at the same hour, every day, in a spot where the only explanation was "someone stationed at this base." Privacy researchers have a word for this: a quasi-identifier — harmless by itself, but enough to identify someone once combined with a couple more. It's also why no single list of PII fields works for every system. The same `city` or `device_id` column is just noise in a dataset of a million users, and a full identification in a dataset of a hundred — it depends on what else sits next to it, a caveat that never quite makes it onto the compliance slide.
 
 <figure>
   <img src="/images/pii-fitness-tracker.jpg" alt="Close-up of a person checking a rugged GPS sports watch mid-workout, showing workout duration, distance, and heart rate." loading="lazy" />
@@ -29,17 +29,17 @@ A GPS ping isn't PII. A timestamp isn't PII. A device ID with no name behind it 
 
 ## Where PII actually hides — and why the combination is the real risk
 
-Picture a smaller version of the same mistake: a support engineer debugging a failed checkout pulls up the raw request log, and sitting next to the stack trace is a customer's email, phone number, and shipping address — captured because "log everything so we can debug it later" is the default almost every framework ships with. It's still PII, still in plaintext, and just as exposed if that log line reaches a third-party error tracker or a contractor on an unrelated ticket.
+Picture a smaller version of the same mistake. A support engineer is debugging a failed checkout, pulls up the raw request log, and right next to the stack trace sits a customer's email, phone number, and shipping address. Nobody chose to log those on purpose — somebody just set `log.level = debug` back in 2019, and nobody's been brave enough to touch it since. It's still PII, still sitting there in plain text, and just as exposed if that log line ends up in a third-party error tracker or in front of a contractor working an unrelated ticket.
 
 PII collects in the same handful of places, over and over:
 
 - **Application, access, and audit logs** — anything captured from a raw request or response body.
 - **Distributed traces** — span attributes like `user_id`, client IP, and session tokens, sometimes whole headers or payloads if capture isn't scoped.
 - **The primary database, object storage, and the data warehouse** they feed.
-- **Message queues and event streams**, fanning the same payload out to every subscriber.
-- **Support tooling** — tickets, ad-hoc CSV exports, one-off dumps generated to answer a single question and then forgotten.
+- **Message queues and event streams**, which send the same data out to every service that's listening.
+- **Support tooling** — tickets, spreadsheet exports, one-off data dumps built to answer a single question and then forgotten.
 
-Logs and tracing are the riskiest of the five: a payload gets replicated the moment it's captured — to a log aggregator, an APM tool, a backup, a data lake — and each hop has its own access list nobody audited together. The same quasi-identifier trap applies here too: a span carries no name field, just a `user_id`, an IP, and a timestamp, none of which trips a redaction rule built for "email." Joined across enough spans, it reconstructs one person's routine as precisely as the heatmap did at global scale.
+Logs and tracing are the riskiest of the five. The moment data is captured, it gets copied — to a log aggregator, a monitoring tool, a backup, a data lake — and each copy has its own list of who can see it, a list nobody checked against the others. The same quasi-identifier trap shows up here too. A trace span has no name field, just a `user_id`, an IP address, and a timestamp — none of which trips a rule built to catch "email." Joined across enough spans, that's enough to reconstruct one person's routine — just like the heatmap did for an army base, except this time it's Dave from accounting, and somehow that isn't any more comforting.
 
 <figure>
   <img src="/images/pii-combination-diagram.svg" alt="Diagram showing three individually harmless fields — a GPS ping, a timestamp, and a device ID — converging into a combined pattern labeled 'same route, every day, same empty desert = one identifiable person'." loading="lazy" />
@@ -48,36 +48,36 @@ Logs and tracing are the riskiest of the five: a payload gets replicated the mom
 
 ## Four tools, four different jobs
 
-Once you know where PII sits, the fixes come down to four techniques that get used interchangeably and shouldn't be:
+Once you know where PII sits, there are four different tools for dealing with it, and people use the names interchangeably in meetings — which is how you end up with a Jira ticket titled "encrypt the PII" that doesn't actually fix the thing it's supposed to fix:
 
 - **Redaction** removes the field entirely before it's written — the log line never contains the phone number at all.
-- **Masking** keeps a truncated, non-reversible fragment for debugging — the last three digits of a phone number, say, enough to confirm "right customer" without exposing the whole thing.
-- **Tokenization** swaps the value for a token mappable back to it only inside a separate, access-controlled system — for joining datasets without either one holding the raw PII.
-- **Encryption** protects data at rest and in transit, but doesn't substitute for the other three in a logging pipeline — anyone with normal log access still sees plaintext once it's decrypted for display. It answers "can someone read this if they steal the disk," not "can someone read this by accident."
+- **Masking** keeps a short, non-reversible piece of the data for debugging — say, the last three digits of a phone number, enough to confirm "this is the right customer" without a support agent reading the whole thing out loud over the phone.
+- **Tokenization** replaces the value with a token. Only a separate, locked-down system can map that token back to the real value — useful when you need to join two datasets on a customer without either one holding the raw PII.
+- **Encryption** protects data sitting on disk or moving over the network, but it doesn't replace the other three inside a logging pipeline — anyone with normal log access still sees the data in plain text once it's decrypted for display. Encryption is the lock on the safe. It says nothing about who already has a key.
 
-Logs and tracing should default to redaction or masking, since that data exists to be read by a human in real time. Databases can lean more on encryption plus access control, since reads there are structured and permissioned.
+Logs and tracing should default to redaction or masking, because that data exists to be read by a person in real time. Databases can lean more on encryption and access control, because reads there go through structured, permissioned queries instead of a person scrolling a raw feed at 2am, squinting.
 
 ## PII and secrets aren't the same risk
 
-PII conversations tend to fold in secrets — API keys, passwords, tokens — but the two need different defenses. A leaked API key is a capability someone can use immediately; the fix is rotation. A leaked PII record isn't a capability, it's an exposure; the fix is minimizing what you collect and controlling who can query it, because there's no rotating a person's home address. Strava's leak makes the distinction obvious: nothing about it was a credential leak, nobody logged in as anyone — the damage was a pattern of behavior becoming visible to people it was never meant to be visible to.
+PII often gets lumped in with secrets — API keys, passwords, tokens — but they need different defenses. A leaked API key hands someone a capability they can use right away; the fix is to rotate it, quickly. A leaked PII record isn't a capability, it's an exposure; the fix is collecting less of it and controlling who can see it, because you can't rotate someone's home address no matter how good your incident runbook is. Strava's leak makes the difference clear. Nothing about it was a credential leak — nobody logged in as anyone. The damage was that a pattern of someone's daily life became visible to people who were never meant to see it.
 
 ## Why it actually leaks
 
-The same causes show up in nearly every PII incident: raw bodies logged without redaction, debug logging left on in production long after the incident that justified it, tracing capturing full headers and payloads instead of an allowlist, exports shipped unmasked because the pipeline predates the policy, logs kept indefinitely with no retention owner. Different failures, same shape: a safe default that quietly went unsafe, or a control that existed but depended on someone remembering to use it.
+The same causes show up in nearly every PII incident. Someone logs the raw request body "just for now." Debug logging stays on in production long after the reason for turning it on is forgotten. Tracing is set to capture everything instead of an approved list of fields, because scoping it felt like a problem for later. Exports go out unmasked because the pipeline was built before the policy was. Logs get kept forever because a retention policy is the kind of thing that lives on next quarter's roadmap and never quite makes it. Different failures. Same shape: a safe default that quietly went unsafe, or a control that only worked if someone remembered to use it — and someone, eventually, doesn't.
 
 <figure>
   <img src="/images/pii-dashboard-data.jpg" alt="Close-up of an analytics dashboard on a monitor, showing a users-in-last-30-minutes counter and a top-countries breakdown with user counts by country." loading="lazy" />
   <figcaption>A "top countries" panel like this looks like harmless aggregate telemetry — right up until it's small enough, or specific enough in combination with other panels, to point at one person's location and habits instead of a crowd's.</figcaption>
 </figure>
 
-The fixes that actually hold up are the ones that don't route through anyone's memory:
+The fixes that actually hold up are the ones that don't depend on anyone's memory:
 
-- **Classify by joinability, not just by field name** — a device ID next to a coarse location and a timestamp is a different risk than any one of those alone, so treat the combination as the unit of classification.
-- **Redact or mask at write time**, inside the collector, not at query time in a dashboard — by the time an engineer decides a trace "looks fine," it's already been written and replicated.
-- **Make the safe behavior the default**, not an opt-in a developer has to remember to enable on a new service — a control nobody enables by default only protects the people who already understood the risk without it.
+- **Classify by what can be joined, not just by field name** — a device ID next to a rough location and a timestamp is a bigger risk than any one of those alone, so treat the combination, not the single column, as the thing you classify.
+- **Redact or mask when the data is written**, inside the collector — not later, when someone's looking at a dashboard. By the time an engineer decides a trace "looks fine," it's already been written and copied elsewhere.
+- **Make the safe behavior the default**, not something a developer has to remember to turn on for each new service. A setting nobody turns on by default only protects the people who already understood the risk in the first place.
 
 ## The part Strava never fixed
 
-After the story broke, Strava's actual response was to make the opt-out easier to find — moving it onto the first page of privacy settings within weeks. What it didn't do was change the default: the heatmap [remained opt-out, not opt-in](https://www.engadget.com/2018-03-01-strava-simplified-opt-out-heat-map.html). Years later, [a 2023 study out of NC State](https://privacy-datahub.csc.ncsu.edu/publication/childs-conpro-2023) showed researchers could still de-anonymize individual users from the public heatmap, using essentially the same combination trick Nathan Ruser spotted by eye in 2018.
+After the story broke, Strava's actual fix was to make the opt-out easier to find — it moved the setting onto the first page of privacy settings within weeks, and the problem was declared solved. What it didn't do was change the default. The heatmap [stayed opt-out, not opt-in](https://www.engadget.com/2018-03-01-strava-simplified-opt-out-heat-map.html). Years later, [a 2023 study out of NC State](https://privacy-datahub.csc.ncsu.edu/publication/childs-conpro-2023) found researchers could still identify individual users from the public heatmap, using close to the same trick Nathan Ruser spotted just by scrolling, back in 2018.
 
-That's the actual lesson, and it isn't really about a fitness app. It's that a fix depending on someone remembering to opt out, or remembering to add one more field to a redaction list, is a fix that has already failed once — because the leak that gets you is never the field you knew to check for. It's the one that looked like nothing, right up until it lined up with two other fields that also looked like nothing.
+None of this is really about a fitness app. A fix that depends on someone remembering to opt out, or remembering to add one more field to a redaction list, is a fix that has already failed once. The leak that actually gets you is never the field you knew to check for. It's the one that looked like nothing — right up until it lined up with two other fields that also looked like nothing.
