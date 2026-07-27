@@ -1,6 +1,112 @@
 {
-  "syncedAt": "2026-07-27T21:13:34.137Z",
+  "syncedAt": "2026-07-27T23:04:44.451Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
+      "link": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/",
+      "summary": "Extreme fire conditions on the ground have created unprecedented conditions in the atmosphere.",
+      "publishedAt": "2026-07-27T22:57:20.000Z",
+      "image": "https://media.wired.com/photos/6a67dc3d4180a96e737b7769/191:100/w_1280,c_limit/France-Records-Its-First-Ever-Pyrocumulonimbus-Cloud-Science-2286803963.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T22:57:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "X Money is launching in the US starting today",
+      "link": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and pee…",
+      "publishedAt": "2026-07-27T22:10:18.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/x-money-visa-card.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T22:10:18.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "summary": "When the first step goes wrong, bad results follow.",
+      "publishedAt": "2026-07-27T20:22:03.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "A missing underscore sent innocent man to prison for 18 months",
+          "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+          "publishedAt": "2026-07-27T22:10:15.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-27T22:10:15.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "X Money begins limited US rollout",
+      "link": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout/",
+      "summary": "Only Premium and Premium X subscribers get the privilege of banking with Elon for now.",
+      "publishedAt": "2026-07-27T22:04:17.000Z",
+      "image": "https://www.engadget.com/img/gallery/x-money-begins-limited-us-rollout/l-intro-1785189644.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T22:04:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "Article URL: https://www.anthropic.com/news/position-open-weights-models\nComments URL: https://news.ycombinator.com/item?id=49076057\nPoints: 176\n# Comments: 157",
+      "publishedAt": "2026-07-27T22:03:49.000Z",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T22:03:49.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "publishedAt": "2026-07-27T21:56:14.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T21:56:14.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+      "link": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
+      "publishedAt": "2026-07-27T21:40:27.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink-router-1152x648-1785186848.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T21:40:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
+      "link": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+      "summary": "The Razer Huntsman V3 Pro features doubleshot PBT keycaps.\t\n\nGaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature ha…",
+      "publishedAt": "2026-07-27T21:29:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T21:29:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says…",
+      "publishedAt": "2026-07-27T21:17:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T21:17:11.000Z"
+    },
     {
       "source": "Wired",
       "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
@@ -11,6 +117,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T21:06:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
+      "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+      "summary": "Article URL: https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest\nComments URL: https://news.ycombinator.com/item?id=49075386\nPoints: 19\n# Comments: 9",
+      "publishedAt": "2026-07-27T20:53:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/VRG_Illo_STK001_B_Sala_Hacker.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T20:53:29.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+      "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+      "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
+      "publishedAt": "2026-07-27T20:42:13.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T20:42:13.000Z"
     },
     {
       "source": "TechCrunch",
@@ -47,11 +175,29 @@
     },
     {
       "source": "Engadget",
-      "title": "Spotify is experiencing another major outage",
+      "title": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
+      "link": "https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/",
+      "summary": "Apple's latest software updates are primarily focused on security fixes.",
+      "publishedAt": "2026-07-27T20:07:47.000Z",
+      "image": "https://www.engadget.com/img/gallery/ios-26-6-macos-26-6-and-the-rest-are-out-addressing-security-fixes/l-intro-1785182814.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+          "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+          "publishedAt": "2026-07-27T20:32:45.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-27T20:32:45.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Spotify experienced another major outage",
       "link": "https://www.engadget.com/2224515/spotify-is-experiencing-another-major-outage/",
-      "summary": "A second gremlin is rolling through Spotify this evening.",
+      "summary": "Two gremlins rolled through Spotify today.",
       "publishedAt": "2026-07-27T20:28:35.000Z",
-      "image": "https://www.engadget.com/img/gallery/spotify-has-been-pretty-crappy-all-day/l-intro-1785184099.jpg",
+      "image": "https://www.engadget.com/img/gallery/spotify-is-experiencing-another-major-outage/l-intro-1785190370.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T20:28:35.000Z"
@@ -75,6 +221,28 @@
       "latestActivity": "2026-07-27T20:19:42.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Forth",
+      "link": "https://xkcd.com/3277/",
+      "summary": "Article URL: https://xkcd.com/3277/\nComments URL: https://news.ycombinator.com/item?id=49074991\nPoints: 47\n# Comments: 10",
+      "publishedAt": "2026-07-27T20:15:50.000Z",
+      "image": "https://imgs.xkcd.com/comics/forth_2x.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T20:15:50.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+      "publishedAt": "2026-07-27T20:12:42.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T20:12:42.000Z"
+    },
+    {
       "source": "Wired",
       "title": "Private Claude Chats Exposed in Google and Bing Search Results",
       "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
@@ -84,17 +252,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T20:08:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
-      "link": "https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/",
-      "summary": "Apple's latest software updates are primarily focused on security fixes.",
-      "publishedAt": "2026-07-27T20:07:47.000Z",
-      "image": "https://www.engadget.com/img/gallery/ios-26-6-macos-26-6-and-the-rest-are-out-addressing-security-fixes/l-intro-1785182814.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T20:07:47.000Z"
     },
     {
       "source": "Hacker News",
@@ -117,17 +274,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T19:53:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html\nComments URL: https://news.ycombinator.com/item?id=49074680\nPoin…",
-      "publishedAt": "2026-07-27T19:46:05.000Z",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-27-image-2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T19:46:05.000Z"
     },
     {
       "source": "The Verge",
@@ -184,7 +330,7 @@
       "source": "Hacker News",
       "title": "Self-contained highly-portable Python distributions",
       "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "summary": "Article URL: https://gregoryszorc.com/docs/python-build-standalone/main/\nComments URL: https://news.ycombinator.com/item?id=49073942\nPoints: 52\n# Comments: 11",
+      "summary": "Article URL: https://gregoryszorc.com/docs/python-build-standalone/main/\nComments URL: https://news.ycombinator.com/item?id=49073942\nPoints: 85\n# Comments: 20",
       "publishedAt": "2026-07-27T18:43:31.000Z",
       "image": null,
       "sourceCount": 1,
@@ -192,21 +338,10 @@
       "latestActivity": "2026-07-27T18:43:31.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
-      "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-      "summary": "NASA has not made substantial investments in thermal protection research for decades.",
-      "publishedAt": "2026-07-27T18:34:40.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks-1152x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T18:34:40.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "The Artist Who Colored Ghibli",
       "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
-      "summary": "Article URL: https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli\nComments URL: https://news.ycombinator.com/item?id=49073785\nPoints: 51\n# Comments: 1",
+      "summary": "Article URL: https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli\nComments URL: https://news.ycombinator.com/item?id=49073785\nPoints: 94\n# Comments: 8",
       "publishedAt": "2026-07-27T18:32:09.000Z",
       "image": null,
       "sourceCount": 1,
@@ -239,23 +374,12 @@
       "source": "Hacker News",
       "title": "Bytecode-to-Source Mapping",
       "link": "https://tidefield.dev/bytecode-to-source-mapping/",
-      "summary": "Article URL: https://tidefield.dev/bytecode-to-source-mapping/\nComments URL: https://news.ycombinator.com/item?id=49073665\nPoints: 19\n# Comments: 1",
+      "summary": "Article URL: https://tidefield.dev/bytecode-to-source-mapping/\nComments URL: https://news.ycombinator.com/item?id=49073665\nPoints: 29\n# Comments: 1",
       "publishedAt": "2026-07-27T18:25:21.000Z",
       "image": "https://tidefield.dev/images/bytecode-vm-source-lines.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T18:25:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "summary": "Article URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/\nComments URL: https://news.ycombinator.com/item?id=49073513\nPoi…",
-      "publishedAt": "2026-07-27T18:15:35.000Z",
-      "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T18:15:35.000Z"
     },
     {
       "source": "TechCrunch",
@@ -269,21 +393,14 @@
       "latestActivity": "2026-07-27T18:08:29.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contai…",
-      "publishedAt": "2026-07-27T17:28:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "MIT Technology Review",
-          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
-          "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-          "publishedAt": "2026-07-27T18:00:00.000Z"
-        }
-      ],
+      "source": "MIT Technology Review",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how…",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-07-27T18:00:00.000Z"
     },
     {
@@ -331,17 +448,6 @@
       "latestActivity": "2026-07-27T17:12:36.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
-      "link": "https://up.codes/careers?utm_source=HN",
-      "summary": "Article URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=49072523\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-07-27T17:02:41.000Z",
-      "image": "https://up.codes/img/upcodes-og-twitter-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T17:02:41.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "YouTube Premium will include Peacock starting next year",
       "link": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
@@ -358,28 +464,6 @@
         }
       ],
       "latestActivity": "2026-07-27T17:00:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-      "link": "https://usefeyn.com/blog/feynobg/",
-      "summary": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data.\nToday, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we're op…",
-      "publishedAt": "2026-07-27T16:59:08.000Z",
-      "image": "https://usefeyn.com/blog/feynobg/feynobg-cover.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T16:59:08.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
-      "publishedAt": "2026-07-27T16:58:46.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T16:58:46.000Z"
     },
     {
       "source": "The Verge",
@@ -404,28 +488,6 @@
       "latestActivity": "2026-07-27T16:30:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Best wireless headphones for 2026",
-      "link": "https://www.engadget.com/2224141/best-headphones-wireless-bluetooth-120543205/",
-      "summary": "Here's a list of the best wireless headphones you can buy right now, as reviewed by Engadget editors.",
-      "publishedAt": "2026-07-27T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/best-wireless-headphones-for-2026/l-intro-1785168647.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T16:30:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
-      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-      "summary": "The government says destroying his own data during an airport interrogation was illegal.",
-      "publishedAt": "2026-07-27T15:58:34.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T15:58:34.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
       "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
@@ -448,17 +510,6 @@
       "latestActivity": "2026-07-27T15:33:56.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-      "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "summary": "Framework's latest modular laptop trades one set of problems for another.",
-      "publishedAt": "2026-07-27T15:02:45.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T15:02:45.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
       "link": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
@@ -470,28 +521,6 @@
       "latestActivity": "2026-07-27T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Tariffs didn’t bring manufacturing jobs back to the US",
-      "link": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
-      "summary": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world.\nWe last…",
-      "publishedAt": "2026-07-27T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_20260727_SmithAltana.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-      "link": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-      "summary": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch…",
-      "publishedAt": "2026-07-27T14:56:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T14:56:38.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How lasers could help provide fuel for nuclear reactors",
       "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
@@ -501,17 +530,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T14:24:42.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "What public health professionals can learn from anti-vaccine storytelling",
-      "link": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
-      "summary": "Sometimes, compelling stories beat medical evidence.",
-      "publishedAt": "2026-07-27T14:01:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/vaccinator-1000x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T14:01:56.000Z"
     },
     {
       "source": "VentureBeat",
@@ -591,17 +609,6 @@
       "latestActivity": "2026-07-27T11:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-      "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-      "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
-      "publishedAt": "2026-07-27T10:50:37.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1024x1572.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T10:50:37.000Z"
-    },
-    {
       "source": "Wired",
       "title": "3 Best Smart Ring Models: Oura, RingConn, and Samsung (2026)",
       "link": "https://www.wired.com/gallery/best-smart-rings/",
@@ -611,17 +618,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T10:35:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "This Is Donald Trump’s AI Brain Trust",
-      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
-      "publishedAt": "2026-07-27T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a63ddfc7b2f84e64f1f3fcf/191:100/w_1280,c_limit/Donald-Trump-AI-Brain-Trust-Politics.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T10:00:00.000Z"
     },
     {
       "source": "VentureBeat",
