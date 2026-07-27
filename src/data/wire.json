@@ -1,6 +1,28 @@
 {
-  "syncedAt": "2026-07-27T03:25:49.297Z",
+  "syncedAt": "2026-07-27T07:35:20.554Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Kimi-K3 Releases on HuggingFace 6/27",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3\nComments URL: https://news.ycombinator.com/item?id=49065752\nPoints: 20\n# Comments: 3",
+      "publishedAt": "2026-07-27T06:18:10.000Z",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T06:18:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "EU Fines Google $1.02B for Favoring Its Own Services",
+      "link": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
+      "summary": "Article URL: https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb\nComments URL: https://news.ycombinator.com/item?id=49065498\nPoints: 29\n# Com…",
+      "publishedAt": "2026-07-27T05:31:33.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T05:31:33.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Are brain waves the next unlock for physical AI?",
@@ -16,7 +38,7 @@
       "source": "Hacker News",
       "title": "PGSimCity - How PostgreSQL Works",
       "link": "https://nikolays.github.io/PGSimCity/",
-      "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 195\n# Comments: 27",
+      "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 483\n# Comments: 49",
       "publishedAt": "2026-07-27T00:19:04.000Z",
       "image": "https://nikolays.github.io/PGSimCity/og.png",
       "sourceCount": 1,
@@ -25,22 +47,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-      "link": "https://portzero.net/",
-      "summary": "Hi HN,\nRecently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking…",
-      "publishedAt": "2026-07-27T00:03:48.000Z",
-      "image": "https://portzero.net/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T00:03:48.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Fonts In Use – Find out where a font is used",
       "link": "https://fontsinuse.com/",
-      "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 29\n# Comments: 1",
+      "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 50\n# Comments: 3",
       "publishedAt": "2026-07-26T23:45:09.000Z",
-      "image": "https://cards.fontsinuse.com/cardshot?s=twitter&t=gallery&url=https://fontsinuse.com/&k=fea3b3b2f54abc640c7705b62dd465bd&v=4bb90bfb",
+      "image": "https://cards.fontsinuse.com/cardshot?s=twitter&t=gallery&url=https://fontsinuse.com/&k=fea3b3b2f54abc640c7705b62dd465bd&v=9519c380",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T23:45:09.000Z"
@@ -49,9 +60,9 @@
       "source": "Hacker News",
       "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
       "link": "https://github.com/vercel-labs/scriptc",
-      "summary": "Article URL: https://github.com/vercel-labs/scriptc\nComments URL: https://news.ycombinator.com/item?id=49063175\nPoints: 39\n# Comments: 16",
+      "summary": "Article URL: https://github.com/vercel-labs/scriptc\nComments URL: https://news.ycombinator.com/item?id=49063175\nPoints: 128\n# Comments: 53",
       "publishedAt": "2026-07-26T22:46:10.000Z",
-      "image": "https://opengraph.githubassets.com/c9d8a3d9218fa867a92cdf0c18ec283a0563c97bc4384c012bfe5f2da49b39b4/vercel-labs/scriptc",
+      "image": "https://opengraph.githubassets.com/5dbfb866075950d50e5cfcb1e25295d8ccb20aeb007272c411755cd98c4273ce/vercel-labs/scriptc",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T22:46:10.000Z"
@@ -71,7 +82,7 @@
       "source": "Hacker News",
       "title": "Teaching Kids Forth",
       "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 64\n# Comments: 20",
+      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 77\n# Comments: 22",
       "publishedAt": "2026-07-26T21:39:17.000Z",
       "image": "/avatar.png",
       "sourceCount": 1,
@@ -117,23 +128,12 @@
       "source": "Hacker News",
       "title": "We have proof automation now",
       "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html\nComments URL: https://news.ycombinator.com/item?id=49062291\nPoints: 98\n# Comments: 14",
+      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html\nComments URL: https://news.ycombinator.com/item?id=49062291\nPoints: 152\n# Comments: 35",
       "publishedAt": "2026-07-26T20:53:26.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T20:53:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-      "summary": "Article URL: https://spectrum.ieee.org/space-debris-atmosphere-burn-up\nComments URL: https://news.ycombinator.com/item?id=49062120\nPoints: 50\n# Comments: 26",
-      "publishedAt": "2026-07-26T20:31:57.000Z",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67521175&width=1200&height=600&coordinates=0%2C156%2C0%2C94",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T20:31:57.000Z"
     },
     {
       "source": "Engadget",
