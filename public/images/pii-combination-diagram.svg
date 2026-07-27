@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" font-family="Inter, -apple-system, sans-serif">
+  <rect width="900" height="500" fill="#FFFBF2"/>
+
+  <!-- three "harmless alone" fields -->
+  <g>
+    <rect x="40" y="52" width="270" height="86" rx="4" fill="#FFFBF2" stroke="#14110F" stroke-width="2.5"/>
+    <text x="60" y="88" font-family="'JetBrains Mono', monospace" font-size="19" fill="#14110F">gps_ping: 34.02,-6.83</text>
+    <text x="60" y="114" font-size="14" fill="#6B6358">not a name. not PII alone.</text>
+  </g>
+  <g>
+    <rect x="40" y="207" width="270" height="86" rx="4" fill="#FFFBF2" stroke="#14110F" stroke-width="2.5"/>
+    <text x="60" y="243" font-family="'JetBrains Mono', monospace" font-size="19" fill="#14110F">timestamp: 06:14 daily</text>
+    <text x="60" y="269" font-size="14" fill="#6B6358">not a name. not PII alone.</text>
+  </g>
+  <g>
+    <rect x="40" y="362" width="270" height="86" rx="4" fill="#FFFBF2" stroke="#14110F" stroke-width="2.5"/>
+    <text x="60" y="398" font-family="'JetBrains Mono', monospace" font-size="19" fill="#14110F">device_id: a91f-22c...</text>
+    <text x="60" y="424" font-size="14" fill="#6B6358">not a name. not PII alone.</text>
+  </g>
+
+  <!-- converging arrows -->
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#14110F"/>
+    </marker>
+  </defs>
+  <path d="M312 95 C 400 95, 400 250, 478 248" fill="none" stroke="#14110F" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <path d="M312 250 L 478 250" fill="none" stroke="#14110F" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <path d="M312 405 C 400 405, 400 252, 478 251" fill="none" stroke="#14110F" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- result -->
+  <rect x="500" y="120" width="360" height="260" rx="6" fill="#FFC2DC" stroke="#FF2D78" stroke-width="3"/>
+  <circle cx="680" cy="196" r="30" fill="#FFFBF2" stroke="#14110F" stroke-width="2.5"/>
+  <path d="M622 296 C 622 246, 738 246, 738 296 L 738 300 L 622 300 Z" fill="#FFFBF2" stroke="#14110F" stroke-width="2.5"/>
+  <text x="680" y="335" font-size="17" fill="#14110F" text-anchor="middle" font-weight="600">same route, every day,</text>
+  <text x="680" y="358" font-size="17" fill="#14110F" text-anchor="middle" font-weight="600">same empty desert</text>
+  <text x="680" y="392" font-size="16" fill="#14110F" text-anchor="middle" font-family="'JetBrains Mono', monospace">= one identifiable person</text>
+</svg>
