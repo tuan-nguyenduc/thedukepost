@@ -1,11 +1,77 @@
 {
-  "syncedAt": "2026-07-26T23:02:07.184Z",
+  "syncedAt": "2026-07-27T03:25:49.297Z",
   "items": [
     {
+      "source": "TechCrunch",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "publishedAt": "2026-07-27T00:19:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T00:19:14.000Z"
+    },
+    {
       "source": "Hacker News",
-      "title": "Teaching Kids Forth – Anna Liberty",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "link": "https://nikolays.github.io/PGSimCity/",
+      "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 195\n# Comments: 27",
+      "publishedAt": "2026-07-27T00:19:04.000Z",
+      "image": "https://nikolays.github.io/PGSimCity/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T00:19:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+      "link": "https://portzero.net/",
+      "summary": "Hi HN,\nRecently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking…",
+      "publishedAt": "2026-07-27T00:03:48.000Z",
+      "image": "https://portzero.net/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T00:03:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fonts In Use – Find out where a font is used",
+      "link": "https://fontsinuse.com/",
+      "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 29\n# Comments: 1",
+      "publishedAt": "2026-07-26T23:45:09.000Z",
+      "image": "https://cards.fontsinuse.com/cardshot?s=twitter&t=gallery&url=https://fontsinuse.com/&k=fea3b3b2f54abc640c7705b62dd465bd&v=4bb90bfb",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T23:45:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "link": "https://github.com/vercel-labs/scriptc",
+      "summary": "Article URL: https://github.com/vercel-labs/scriptc\nComments URL: https://news.ycombinator.com/item?id=49063175\nPoints: 39\n# Comments: 16",
+      "publishedAt": "2026-07-26T22:46:10.000Z",
+      "image": "https://opengraph.githubassets.com/c9d8a3d9218fa867a92cdf0c18ec283a0563c97bc4384c012bfe5f2da49b39b4/vercel-labs/scriptc",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T22:46:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "summary": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html\nComments URL: https://news.ycombinator.com/item?id=49063022\nPoints:…",
+      "publishedAt": "2026-07-26T22:21:41.000Z",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-26-image-4.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-26T22:21:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Teaching Kids Forth",
       "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 14\n# Comments: 4",
+      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 64\n# Comments: 20",
       "publishedAt": "2026-07-26T21:39:17.000Z",
       "image": "/avatar.png",
       "sourceCount": 1,
@@ -51,7 +117,7 @@
       "source": "Hacker News",
       "title": "We have proof automation now",
       "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html\nComments URL: https://news.ycombinator.com/item?id=49062291\nPoints: 22\n# Comments: 1",
+      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html\nComments URL: https://news.ycombinator.com/item?id=49062291\nPoints: 98\n# Comments: 14",
       "publishedAt": "2026-07-26T20:53:26.000Z",
       "image": null,
       "sourceCount": 1,
@@ -60,20 +126,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Multiway Turing Machines (2021 pre-ai)",
-      "link": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
-      "summary": "Article URL: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/\nComments URL: https://news.ycombinator.com/item?id=49062259\nPoints: 14\n# Comments: 3",
-      "publishedAt": "2026-07-26T20:49:43.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T20:49:43.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
       "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-      "summary": "Article URL: https://spectrum.ieee.org/space-debris-atmosphere-burn-up\nComments URL: https://news.ycombinator.com/item?id=49062120\nPoints: 24\n# Comments: 3",
+      "summary": "Article URL: https://spectrum.ieee.org/space-debris-atmosphere-burn-up\nComments URL: https://news.ycombinator.com/item?id=49062120\nPoints: 50\n# Comments: 26",
       "publishedAt": "2026-07-26T20:31:57.000Z",
       "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67521175&width=1200&height=600&coordinates=0%2C156%2C0%2C94",
       "sourceCount": 1,
@@ -90,28 +145,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T20:15:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-      "summary": "Article URL: https://github.com/AARomanov1985/Audio-Cassette-Simulation\nComments URL: https://news.ycombinator.com/item?id=49061887\nPoints: 31\n# Comments: 17",
-      "publishedAt": "2026-07-26T20:02:15.000Z",
-      "image": "https://opengraph.githubassets.com/908aea519a8152a40316b9468631f99634b50d1c1e0f002b31dbd42b9ff6d360/AARomanov1985/Audio-Cassette-Simulation",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T20:02:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Infinite Jigsaw Game",
-      "link": "https://infinitejigsaw.com",
-      "summary": "Had the idea forever, finally got it working.\nComments URL: https://news.ycombinator.com/item?id=49061879\nPoints: 16\n# Comments: 14",
-      "publishedAt": "2026-07-26T20:01:27.000Z",
-      "image": "https://infinitejigsaw.com/og.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T20:01:27.000Z"
     },
     {
       "source": "Ars Technica",
@@ -167,28 +200,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T18:25:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "link": "https://beyondloom.com/decker/",
-      "summary": "Article URL: https://beyondloom.com/decker/\nComments URL: https://news.ycombinator.com/item?id=49060856\nPoints: 166\n# Comments: 37",
-      "publishedAt": "2026-07-26T18:23:06.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T18:23:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "link": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf\nComments URL: https://news.ycombinator.com/item?id=49060724\nPoints: 79\n# Comments: 18",
-      "publishedAt": "2026-07-26T18:11:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T18:11:16.000Z"
     },
     {
       "source": "Engadget",
@@ -409,17 +420,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T20:52:30.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The hacker who humiliated spyware makers and was never caught",
-      "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-      "summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher…",
-      "publishedAt": "2026-07-25T20:24:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/anonymous-hacktivist-mask.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T20:24:14.000Z"
     },
     {
       "source": "The Verge",
