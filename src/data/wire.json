@@ -1,27 +1,225 @@
 {
-  "syncedAt": "2026-07-27T07:35:20.554Z",
+  "syncedAt": "2026-07-27T11:26:49.678Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Kimi-K3 Releases on HuggingFace 6/27",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3\nComments URL: https://news.ycombinator.com/item?id=49065752\nPoints: 20\n# Comments: 3",
-      "publishedAt": "2026-07-27T06:18:10.000Z",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.png",
+      "source": "Wired",
+      "title": "The 10 Best WIRED-Tested Handheld Vacuums of 2026",
+      "link": "https://www.wired.com/gallery/the-best-handheld-vacuum/",
+      "summary": "Lightweight, powerful, and generally inexpensive, the handheld vacuum is the perfect household helper.",
+      "publishedAt": "2026-07-27T11:03:00.000Z",
+      "image": "https://media.wired.com/photos/6a65803612757d944a5401b6/191:100/w_1280,c_limit/The-Best-Handheld-Vacuums.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-27T06:18:10.000Z"
+      "latestActivity": "2026-07-27T11:03:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall",
+      "link": "https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/",
+      "summary": "Ads on Instagram, TikTok, and YouTube are painting prescription stimulants in a negative light while promoting supplements for ADHD that lack evidence.",
+      "publishedAt": "2026-07-27T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a5ea46e42ae086a2ed03d6d/191:100/w_1280,c_limit/Anto-Stimulant-Influencers-Pushing-Natural-Alts-to-Adderrall-Culture-2241953245.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T11:00:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "EU Fines Google $1.02B for Favoring Its Own Services",
-      "link": "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb",
-      "summary": "Article URL: https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb\nComments URL: https://news.ycombinator.com/item?id=49065498\nPoints: 29\n# Com…",
-      "publishedAt": "2026-07-27T05:31:33.000Z",
+      "title": "The Birth of the American 12-string Guitar",
+      "link": "https://www.harpguitars.net/history/grunewald/12-string.htm",
+      "summary": "Article URL: https://www.harpguitars.net/history/grunewald/12-string.htm\nComments URL: https://news.ycombinator.com/item?id=49067690\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-07-27T10:52:21.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-27T05:31:33.000Z"
+      "latestActivity": "2026-07-27T10:52:21.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
+      "publishedAt": "2026-07-27T10:50:37.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1024x1572.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T10:50:37.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "NVIDIA launches 'Open Secure AI Alliance' initiative to improve cyber defense",
+      "link": "https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/",
+      "summary": "NVIDIA has gathered together some of the biggest tech companies in the world to form the Open Secure AI Alliance with the aim to improve cybersecurity.",
+      "publishedAt": "2026-07-27T10:39:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/l-intro-1785148929.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T10:39:52.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "3 Best Smart Ring Models: Oura, RingConn, and Samsung (2026)",
+      "link": "https://www.wired.com/gallery/best-smart-rings/",
+      "summary": "A svelte smart ring can track important activity, sleep, and health metrics. Plus, unlike most smartwatches, it doesn’t need to be charged every day.",
+      "publishedAt": "2026-07-27T10:35:00.000Z",
+      "image": "https://media.wired.com/photos/6a0cb118e28d6d0653346e6f/191:100/w_1280,c_limit/Update%20Best%20Smart%20Rings%20top%20art%20052026%20SOURCE%20Oura-RingConn-Samsung.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T10:35:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Libsm64: Mario 64 as a library for use in external game engines",
+      "link": "https://github.com/libsm64/libsm64",
+      "summary": "Article URL: https://github.com/libsm64/libsm64\nComments URL: https://news.ycombinator.com/item?id=49067352\nPoints: 12\n# Comments: 2",
+      "publishedAt": "2026-07-27T10:04:48.000Z",
+      "image": "https://opengraph.githubassets.com/fbf706b662c433de660aa0a6168683e652c89e0a74899e145071f4f62f73117e/libsm64/libsm64",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T10:04:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and…",
+      "publishedAt": "2026-07-27T10:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/ETN.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+      "publishedAt": "2026-07-27T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a63ddfc7b2f84e64f1f3fcf/191:100/w_1280,c_limit/Donald-Trump-AI-Brain-Trust-Politics.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Laptops for College Students (2026): MacBooks and Beyond",
+      "link": "https://www.wired.com/story/best-college-laptops/",
+      "summary": "Laptops for college should be portable, offer long battery life, and be well priced. Based on testing hundreds of laptops, these are my top picks.",
+      "publishedAt": "2026-07-27T09:31:00.000Z",
+      "image": "https://media.wired.com/photos/6a2884080d6aa02c6a8ce0e6/191:100/w_1280,c_limit/The-Best-Laptops-for-College-Students.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T09:31:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Measles Is Becoming So Common That Treatments May Soon Be Needed",
+      "link": "https://www.wired.com/story/measles-treatments-soon-needed/",
+      "summary": "As the US sees its highest number of measles cases in decades and vaccination rates fall, researchers are developing drugs to help those who contract the virus or who are particula…",
+      "publishedAt": "2026-07-27T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a63dd7cddc341504eea4d96/191:100/w_1280,c_limit/science_Measles_Treatment_iv.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T09:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Shay Locomotives",
+      "link": "https://www.shaylocomotives.com/",
+      "summary": "Article URL: https://www.shaylocomotives.com/\nComments URL: https://news.ycombinator.com/item?id=49067043\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-07-27T09:23:29.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T09:23:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chinese chipmaker shares surge 470%",
+      "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c9q9w3x9qn2o\nComments URL: https://news.ycombinator.com/item?id=49066962\nPoints: 56\n# Comments: 34",
+      "publishedAt": "2026-07-27T09:11:59.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0377/live/bb1db120-896a-11f1-a3ae-0dbbd1718109.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T09:11:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "VLC for Unity now supported on Linux",
+      "link": "https://code.videolan.org/videolan/vlc-unity",
+      "summary": "Article URL: https://code.videolan.org/videolan/vlc-unity\nComments URL: https://news.ycombinator.com/item?id=49066928\nPoints: 14\n# Comments: 1",
+      "publishedAt": "2026-07-27T09:06:34.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T09:06:34.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls",
+      "link": "https://www.wired.com/review/soundcore-nebula-p1i-projector/",
+      "summary": "I tested the Soundcore Nebula P1i, an affordable projector, to see if it could overcome the typical drawbacks that most budget projectors suffer from.",
+      "publishedAt": "2026-07-27T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a65834cbece72777ab1febb/191:100/w_1280,c_limit/Review--Soundcore-Nebula-P1i-Projector.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "It’s Becoming Clear Why Black Holes Never Run Out of Fuel",
+      "link": "https://www.wired.com/story/its-becoming-clear-why-black-holes-never-run-out-of-fuel/",
+      "summary": "Black holes eject powerful energy jets that blow away the surrounding gas to great distances. So how can they continue to grow?",
+      "publishedAt": "2026-07-27T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a637ae174cc689fbd632463/191:100/w_1280,c_limit/ngc4696_optical.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "AppleCare One insurance for multiple devices finally expands outside the US",
+      "link": "https://www.engadget.com/2223761/applecare-one-insurance-for-multiple-devices-finally-expands-outside-the-us/",
+      "summary": "AppleCare insurance for multiple devices including iPhones, Watches and MacBooks, is finally expanding outside the US.",
+      "publishedAt": "2026-07-27T08:50:22.000Z",
+      "image": "https://www.engadget.com/img/gallery/applecare-one-insurance-for-multiple-devices-finally-expands-outside-the-us/l-intro-1785141859.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T08:50:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Unix spell ran in 64 kB of RAM",
+      "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+      "summary": "Article URL: https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram\nComments URL: https://news.ycombinator.com/item?id=49066750\nPoints: 39\n# Comments: 3",
+      "publishedAt": "2026-07-27T08:43:11.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!AmKd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce523ed3-b3aa-4cf3-b06a-4d67e70d838a_800x529.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T08:43:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Modern email can be built from borrowed parts",
+      "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+      "summary": "Article URL: https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/\nComments URL: https://news.ycombinator.com/item?id=49066639\nPoints: 5\n# Comments: 2",
+      "publishedAt": "2026-07-27T08:27:21.000Z",
+      "image": "https://img.andros.dev/6A_ACb4GAjMHuPelfFnMUuM8KS4=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/kristina-tripkovic-8Zs5H6CnYJo-unsplash.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T08:27:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Elevated errors on Claude Opus 5",
+      "link": "https://status.claude.com/incidents/lhqp09kxq7pb",
+      "summary": "Article URL: https://status.claude.com/incidents/lhqp09kxq7pb\nComments URL: https://news.ycombinator.com/item?id=49066591\nPoints: 7\n# Comments: 2",
+      "publishedAt": "2026-07-27T08:20:06.000Z",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T08:20:06.000Z"
     },
     {
       "source": "TechCrunch",
@@ -33,61 +231,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T00:19:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "PGSimCity - How PostgreSQL Works",
-      "link": "https://nikolays.github.io/PGSimCity/",
-      "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 483\n# Comments: 49",
-      "publishedAt": "2026-07-27T00:19:04.000Z",
-      "image": "https://nikolays.github.io/PGSimCity/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T00:19:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fonts In Use – Find out where a font is used",
-      "link": "https://fontsinuse.com/",
-      "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 50\n# Comments: 3",
-      "publishedAt": "2026-07-26T23:45:09.000Z",
-      "image": "https://cards.fontsinuse.com/cardshot?s=twitter&t=gallery&url=https://fontsinuse.com/&k=fea3b3b2f54abc640c7705b62dd465bd&v=9519c380",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T23:45:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "link": "https://github.com/vercel-labs/scriptc",
-      "summary": "Article URL: https://github.com/vercel-labs/scriptc\nComments URL: https://news.ycombinator.com/item?id=49063175\nPoints: 128\n# Comments: 53",
-      "publishedAt": "2026-07-26T22:46:10.000Z",
-      "image": "https://opengraph.githubassets.com/5dbfb866075950d50e5cfcb1e25295d8ccb20aeb007272c411755cd98c4273ce/vercel-labs/scriptc",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T22:46:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "summary": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html\nComments URL: https://news.ycombinator.com/item?id=49063022\nPoints:…",
-      "publishedAt": "2026-07-26T22:21:41.000Z",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-26-image-4.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T22:21:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Teaching Kids Forth",
-      "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 77\n# Comments: 22",
-      "publishedAt": "2026-07-26T21:39:17.000Z",
-      "image": "/avatar.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T21:39:17.000Z"
     },
     {
       "source": "The Verge",
@@ -123,17 +266,6 @@
         }
       ],
       "latestActivity": "2026-07-26T21:06:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "We have proof automation now",
-      "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html\nComments URL: https://news.ycombinator.com/item?id=49062291\nPoints: 152\n# Comments: 35",
-      "publishedAt": "2026-07-26T20:53:26.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T20:53:26.000Z"
     },
     {
       "source": "Engadget",
@@ -246,17 +378,6 @@
       "latestActivity": "2026-07-26T16:33:13.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Why do phones still use battery when powered off?",
-      "link": "https://www.engadget.com/2219830/phone-battery-powered-off-explained/",
-      "summary": "Your battery is continually losing charge.",
-      "publishedAt": "2026-07-26T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-do-phones-still-use-battery-when-powered-off/l-intro-1784045720.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T16:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "TechCrunch Mobility: Uber bets on its former CEO",
       "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
@@ -279,17 +400,6 @@
       "latestActivity": "2026-07-26T15:33:27.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Android Auto has a developer menu you can access in seconds",
-      "link": "https://www.engadget.com/2218723/android-auto-hidden-menu/",
-      "summary": "If you want to tweak your Android Auto settings, the software has a developer menu you can check out.",
-      "publishedAt": "2026-07-26T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/android-auto-has-a-developer-menu-you-can-access-in-seconds/l-intro-1784129513.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T15:30:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
       "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
@@ -304,7 +414,7 @@
       "source": "The Verge",
       "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
       "link": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
-      "summary": "Ryan Gosling on stage at Comic-Con | Image: Marvel Studios\t\n\nWhile perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The hig…",
+      "summary": "Ryan Gosling on stage at Comic-Con. | Image: Marvel Studios\t\n\nWhile perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The hi…",
       "publishedAt": "2026-07-26T14:51:33.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/HOH7bVYboAAjHWn.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -323,72 +433,6 @@
       "latestActivity": "2026-07-26T12:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-      "link": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-      "summary": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-      "publishedAt": "2026-07-26T11:09:00.000Z",
-      "image": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T11:09:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "All the Ways You Can Make Reading on Your Phone Easier",
-      "link": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
-      "summary": "Tired of eye strain? These tips will help optimize your smartphone for marathon reading sessions.",
-      "publishedAt": "2026-07-26T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a61fb92daf20c069b1b8580/191:100/w_1280,c_limit/GettyImages-2197384352.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
-      "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
-      "summary": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
-      "publishedAt": "2026-07-26T10:45:00.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T10:45:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Motorola Phones, From Razr to Moto G (2026)",
-      "link": "https://www.wired.com/story/best-motorola-phones/",
-      "summary": "Motorola phones may seem old-school, but their reasonable prices, colorful designs, and simple software make them good, wallet-friendly Android smartphones.",
-      "publishedAt": "2026-07-26T10:34:00.000Z",
-      "image": "https://media.wired.com/photos/6a65704ee4686706ae9bc6ec/191:100/w_1280,c_limit/Motorola-Razr-2026-Family-SOURCE-Julian-Chokkattu.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T10:34:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Subscription-Free Home Security Cameras I’ve Tried",
-      "link": "https://www.wired.com/story/best-subscription-free-security-cameras/",
-      "summary": "You don’t have to upload your video to the cloud or pay a monthly fee to secure your home. These security cameras record locally.",
-      "publishedAt": "2026-07-26T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/69bdf2c78ace5dcf79dc467f/191:100/w_1280,c_limit/Best-Subscription-Free-Home-Security-Cameras.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
-      "link": "https://www.wired.com/gallery/best-gopro-hero-camera/",
-      "summary": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try.",
-      "publishedAt": "2026-07-26T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/68a91d240ff15a77d5c4a427/191:100/w_1280,c_limit/Which%20GoPro%20Hero%20Camera%20Should%20You%20Buy_.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-26T10:00:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
       "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -398,17 +442,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-26T01:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-      "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-      "publishedAt": "2026-07-25T20:55:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/warner-bros.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T20:55:11.000Z"
     },
     {
       "source": "Ars Technica",
@@ -425,7 +458,7 @@
       "source": "The Verge",
       "title": "Google basically confirms the Pixel 11 is getting a price hike",
       "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Cons…",
+      "summary": "Google's vice president of devices and services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Cons…",
       "publishedAt": "2026-07-25T18:13:36.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -444,17 +477,6 @@
       "latestActivity": "2026-07-25T17:47:22.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
-      "link": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
-      "summary": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
-      "publishedAt": "2026-07-25T11:06:00.000Z",
-      "image": "https://media.wired.com/photos/6a63d9e79c06320a6eaf7c7b/191:100/w_1280,c_limit/Cricut-Explore-5-vs.-Siser-Romeo--Choosing-the-Right-Smart-Cutting-Machine.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T11:06:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "With help from data, art museums are reframing the visitor experience",
       "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
@@ -464,17 +486,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-25T11:00:32.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
-      "link": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
-      "summary": "These e-readers are more useful in their old age than you might think.",
-      "publishedAt": "2026-07-25T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a54f054a11255754862914b/191:100/w_1280,c_limit/OldKindle.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-25T11:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -508,17 +519,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-24T21:56:02.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "summary": "\"Here’s a more natural, flowing version of that section...\"",
-      "publishedAt": "2026-07-24T21:25:15.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T21:25:15.000Z"
     },
     {
       "source": "VentureBeat",
