@@ -346,10 +346,22 @@ const pageTitle = page.currentPage === 1
   .chip--active { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
 
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
-  .list li { position: relative; margin: 0; min-width: 0; }
-  .card__eyebrow { position: absolute; top: 14px; left: 14px; z-index: 2; }
-  .card { display: flex; gap: 20px; align-items: flex-start; min-width: 0; padding: 24px; }
-  .card__image {
+
+  /*
+   * The rules below are wrapped in :global() because they style cards and
+   * pager controls that get rebuilt client-side (buildCard()/renderFiltered()
+   * in the script above) when a category filter or search query is active.
+   * Astro's scoped-style mechanism stamps a data-astro-cid attribute onto
+   * template-rendered elements and appends it to these selectors at build
+   * time, but document.createElement() nodes never receive that attribute —
+   * so without :global() this CSS would silently only apply to the
+   * server-rendered (unfiltered) view, leaving filtered/search results
+   * unstyled.
+   */
+  :global(.list li) { position: relative; margin: 0; min-width: 0; }
+  :global(.card__eyebrow) { position: absolute; top: 14px; left: 14px; z-index: 2; }
+  :global(.card) { display: flex; gap: 20px; align-items: flex-start; min-width: 0; padding: 24px; }
+  :global(.card__image) {
     width: 140px;
     height: 100px;
     object-fit: cover;
@@ -357,37 +369,37 @@ const pageTitle = page.currentPage === 1
     border: 2px solid var(--ink);
     flex-shrink: 0;
   }
-  .card__body { flex: 1; min-width: 0; }
-  .list h2 { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
-  .list p { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
+  :global(.card__body) { flex: 1; min-width: 0; }
+  :global(.list h2) { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
+  :global(.list p) { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
   .empty { color: var(--slate); font-size: 17px; }
 
-  .pager {
+  :global(.pager) {
     margin-top: 48px;
     font-family: var(--font-mono);
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 0.03em;
   }
-  .pager__row {
+  :global(.pager__row) {
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
-  .pager__link {
+  :global(.pager__link) {
     padding: 10px 18px;
     border: 2px solid var(--ink);
     border-radius: 999px;
     transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
   }
-  .pager__link:hover {
+  :global(.pager__link:hover) {
     background: var(--ink);
     color: var(--paper);
     transform: rotate(-1deg);
   }
-  .pager__status { color: var(--slate); }
-  button.pager__link,
-  button.pager__num {
+  :global(.pager__status) { color: var(--slate); }
+  :global(button.pager__link),
+  :global(button.pager__num) {
     font: inherit;
     text-transform: inherit;
     letter-spacing: inherit;
@@ -397,14 +409,14 @@ const pageTitle = page.currentPage === 1
     appearance: none;
   }
 
-  .pager__numbers {
+  :global(.pager__numbers) {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 8px;
     margin-top: 20px;
   }
-  .pager__num {
+  :global(.pager__num) {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -414,22 +426,22 @@ const pageTitle = page.currentPage === 1
     border-radius: 50%;
     transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
   }
-  a.pager__num:hover,
-  button.pager__num:hover {
+  :global(a.pager__num:hover),
+  :global(button.pager__num:hover) {
     background: var(--ink);
     color: var(--paper);
     transform: rotate(-8deg);
   }
-  .pager__num--active {
+  :global(.pager__num--active) {
     background: var(--signal);
     border-color: var(--signal);
     color: var(--ink-fixed);
   }
 
   @media (max-width: 560px) {
-    .card { flex-direction: column; }
-    .card__image { width: 100%; height: 160px; }
-    .pager__row { font-size: 12px; }
-    .pager__link { padding: 8px 12px; }
+    :global(.card) { flex-direction: column; }
+    :global(.card__image) { width: 100%; height: 160px; }
+    :global(.pager__row) { font-size: 12px; }
+    :global(.pager__link) { padding: 8px 12px; }
   }
 </style>
