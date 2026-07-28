@@ -4,6 +4,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES, categoryLabel, categoryHref, type Category } from '../../../lib/categories';
 import { breadcrumbJsonLd } from '../../../lib/breadcrumbs';
+import { calculateReadingTime, formatReadingTime } from '../../../lib/readingTime';
 
 export async function getStaticPaths() {
   return CATEGORIES.map((category) => ({ params: { category } }));
@@ -38,7 +39,7 @@ const breadcrumbItems = [
               <div class="card__body">
                 <h2>{a.data.title}</h2>
                 <p>{a.data.description}</p>
-                <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+                <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · {formatReadingTime(calculateReadingTime(a.body))}</span>
               </div>
             </a>
           </li>
