@@ -1,6 +1,158 @@
 {
-  "syncedAt": "2026-07-28T06:29:12.449Z",
+  "syncedAt": "2026-07-28T10:38:03.821Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop f…",
+      "publishedAt": "2026-07-28T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a629130d1a4f0b18c5d7b7e/191:100/w_1280,c_limit/Big-Interview-UV-Solo-AG-Sulzberger-Business-1189291051.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T10:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+      "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "summary": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+      "publishedAt": "2026-07-28T08:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Freenow-by-Lyft-x-Baidu-Apollo-Go.jpg?resize=1200,900",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Lyft and Baidu start testing robotaxis in London",
+          "link": "https://www.engadget.com/2224882/lyft-and-baidu-start-testing-robotaxis-in-london/",
+          "publishedAt": "2026-07-28T10:04:49.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-28T10:04:49.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "publishedAt": "2026-07-28T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a63fc68cbf9442761b08e12/191:100/w_1280,c_limit/How-Nonprofits-Preparing-for-Flood-of-Philanthropy-After-Anthropic-OpenAI-Go-Public-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What Even Are Microservices?",
+      "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+      "summary": "Article URL: https://var0.xyz/posts/what-even-are-microservices.html\nComments URL: https://news.ycombinator.com/item?id=49081594\nPoints: 13\n# Comments: 24",
+      "publishedAt": "2026-07-28T09:52:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T09:52:31.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
+      "link": "https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/",
+      "summary": "Apple's latest software updates are primarily focused on security fixes.",
+      "publishedAt": "2026-07-27T20:07:47.000Z",
+      "image": "https://www.engadget.com/img/gallery/ios-26-6-macos-26-6-and-the-rest-are-out-addressing-security-fixes/l-intro-1785182814.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+          "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+          "publishedAt": "2026-07-27T20:32:45.000Z"
+        },
+        {
+          "source": "Hacker News",
+          "title": "About the security content of macOS Tahoe 26.6",
+          "link": "https://support.apple.com/en-us/128067",
+          "publishedAt": "2026-07-28T09:45:43.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-28T09:45:43.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Dyson V16 Piston Animal Submarine Review: Powerful but Pricey",
+      "link": "https://www.wired.com/review/dyson-v16-piston-animal-submarine/",
+      "summary": "Dyson’s new stick vacuum can vacuum and mop in a single cordless device—if you’re willing to really splurge.",
+      "publishedAt": "2026-07-28T09:31:00.000Z",
+      "image": "https://media.wired.com/photos/6a67cdb1173a7fcd3f13de82/191:100/w_1280,c_limit/Review--Dyson-V16-Piston-Animal-Submarine.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T09:31:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "7-OH Users Are Stockpiling and Doing Reddit Detoxes to Prep for Ban",
+      "link": "https://www.wired.com/story/7-oh-users-brace-for-dea-ban/",
+      "summary": "The opioid-like compound, which is found in kratom, can cause brutal withdrawal symptoms and will soon be a controlled substance. Some users tell WIRED it has relieved their pain a…",
+      "publishedAt": "2026-07-28T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a67de3ed6ad2c4cf6749764/191:100/w_1280,c_limit/7-OH-Users-Stockpiling-and-Doing-Reddit-Detoxes-to-Prep-for-Ban-Culture.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T09:30:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
+      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s…",
+      "publishedAt": "2026-07-28T09:18:57.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T09:18:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Hugging Face is being used to easily undress women and children",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "summary": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images\t\n\nHugging Face…",
+      "publishedAt": "2026-07-28T09:07:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T09:07:14.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "ChatGPT is now refusing requests to write in famous authors' styles",
+      "link": "https://www.engadget.com/2224867/chatgpt-refusing-to-write-in-famous-authors-styles/",
+      "summary": "ChatGPT has been refusing to imitate the writing of famous authors, both living and dead.",
+      "publishedAt": "2026-07-28T09:05:25.000Z",
+      "image": "https://www.engadget.com/img/gallery/chatgpt-is-now-refusing-requests-to-write-in-famous-authors-styles/l-intro-1785229454.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T09:05:25.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "An Extreme Solar Storm May Be Even More Devastating Than Previously Imagined",
+      "link": "https://www.wired.com/story/an-extreme-solar-storm-may-be-even-more-devastating-than-previously-imagined/",
+      "summary": "Scientists have long assumed that there’s an upper limit to the intensity of the solar winds that reach Earth. New research suggests there’s not—and the implications are alarming.",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a67d143ebdb87bfb99d53b6/191:100/w_1280,c_limit/tormentasolar.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "7.1 Earthquake in Japan",
+      "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "summary": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en\nComments URL: https://news.ycombinator.com/item?id=49080664\nPoints: 223\n# Comme…",
+      "publishedAt": "2026-07-28T07:44:24.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T07:44:24.000Z"
+    },
     {
       "source": "Wired",
       "title": "Hugging Face Has a Deepfake Nudes Problem",
@@ -16,7 +168,7 @@
       "source": "Hacker News",
       "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
       "link": "https://arsastronomica.com/",
-      "summary": "Article URL: https://arsastronomica.com/\nComments URL: https://news.ycombinator.com/item?id=49079727\nPoints: 15\n# Comments: 0",
+      "summary": "Article URL: https://arsastronomica.com/\nComments URL: https://news.ycombinator.com/item?id=49079727\nPoints: 64\n# Comments: 10",
       "publishedAt": "2026-07-28T05:25:34.000Z",
       "image": "https://arsastronomica.com/logo-with-name.png",
       "sourceCount": 1,
@@ -46,65 +198,10 @@
       "latestActivity": "2026-07-28T05:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "AirDoctor Coupon Codes: 40% Off | July 2026",
-      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "publishedAt": "2026-07-28T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Google Workspace Promo Codes: 14% Off for July",
-      "link": "https://www.wired.com/story/google-workspace-promo-code/",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "publishedAt": "2026-07-28T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/191:100/w_1280,c_limit/WIRED-Coupons-R2_7.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Birdfy Discount Codes: 15% Off Sitewide",
-      "link": "https://www.wired.com/story/birdfy-discount-code/",
-      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
-      "publishedAt": "2026-07-28T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/191:100/w_1280,c_limit/WIRED-Coupons-R2_4.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Priceline Promo Codes & Coupons: 10% Off July",
-      "link": "https://www.wired.com/story/priceline-promo-code/",
-      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "publishedAt": "2026-07-28T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Booking.com Promo Codes: 20% Off | July 2026",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "publishedAt": "2026-07-28T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/191:100/w_1280,c_limit/WIRED-Coupons-8.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T05:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Neutrino-1 8B",
       "link": "https://www.fermionresearch.com/models/neutrino-8b/",
-      "summary": "Article URL: https://www.fermionresearch.com/models/neutrino-8b/\nComments URL: https://news.ycombinator.com/item?id=49079490\nPoints: 29\n# Comments: 4",
+      "summary": "Article URL: https://www.fermionresearch.com/models/neutrino-8b/\nComments URL: https://news.ycombinator.com/item?id=49079490\nPoints: 84\n# Comments: 26",
       "publishedAt": "2026-07-28T04:49:54.000Z",
       "image": "https://fermionresearch.com/images/og/neutrino-8b.jpg",
       "sourceCount": 1,
@@ -115,7 +212,7 @@
       "source": "Hacker News",
       "title": "PyTorch: A Reference Language",
       "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-      "summary": "Article URL: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/\nComments URL: https://news.ycombinator.com/item?id=49079454\nPoints: 12\n# Comments: 0",
+      "summary": "Article URL: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/\nComments URL: https://news.ycombinator.com/item?id=49079454\nPoints: 32\n# Comments: 3",
       "publishedAt": "2026-07-28T04:46:00.000Z",
       "image": null,
       "sourceCount": 1,
@@ -135,42 +232,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: A 6M-token movable window on a single 46GB GPU",
-      "link": "https://arxiv.org/abs/2607.23806",
-      "summary": "Article URL: https://arxiv.org/abs/2607.23806\nComments URL: https://news.ycombinator.com/item?id=49079247\nPoints: 4\n# Comments: 1",
-      "publishedAt": "2026-07-28T04:11:45.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T04:11:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why do we think we understand the world more than we actually do?",
-      "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
-      "summary": "Article URL: https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth\nComments URL: https://news.ycombinator.com/item?id=49079175\nPoints: 33\n# Comments: 24",
-      "publishedAt": "2026-07-28T04:00:41.000Z",
-      "image": "https://images.prismic.io/thedecisionlab/aDCUCSdWJ-7kSgJP_image3.png?auto=format,compress",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T04:00:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The age of token efficiency, the age of libraries",
-      "link": "https://golemui.com/blog/the-age-of-token-efficiency/",
-      "summary": "Article URL: https://golemui.com/blog/the-age-of-token-efficiency/\nComments URL: https://news.ycombinator.com/item?id=49079146\nPoints: 14\n# Comments: 0",
-      "publishedAt": "2026-07-28T03:56:08.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T03:56:08.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Using an open model feels surprisingly good",
       "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "summary": "Article URL: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/\nComments URL: https://news.ycombinator.com/item?id=49078583\nPoints: 207\n# Comments: 66",
+      "summary": "Article URL: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/\nComments URL: https://news.ycombinator.com/item?id=49078583\nPoints: 283\n# Comments: 107",
       "publishedAt": "2026-07-28T02:37:14.000Z",
       "image": null,
       "sourceCount": 1,
@@ -179,14 +243,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
-      "link": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
-      "summary": "Article URL: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man\nComments URL: https://news.ycombinator.com/item?id=49078575\nPoints: 34\n# Comments: 10",
-      "publishedAt": "2026-07-28T02:35:28.000Z",
-      "image": "https://www.lrb.co.uk/storage/social_image/images/1/2/1/4/31104121-1-eng-GB/db43a83754bf-The-Odyssey-Damon-Zendaya.jpg",
+      "title": "EYG: A Programming Language for Humans",
+      "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "summary": "Article URL: https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/\nComments URL: https://news.ycombinator.com/item?id=49078463\nPoints: 69\n# Comments: 39",
+      "publishedAt": "2026-07-28T02:21:37.000Z",
+      "image": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/humans.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-28T02:35:28.000Z"
+      "latestActivity": "2026-07-28T02:21:37.000Z"
     },
     {
       "source": "VentureBeat",
@@ -198,6 +262,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T02:08:51.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "2027 Mercedes-Benz C-Class Electric first drive: A long-range triumph with a few cabin quirks",
+      "link": "https://www.engadget.com/2220206/2027-mercedes-benz-c-class-electric-first-drive/",
+      "summary": "With plenty of range and stellar ride quality, the new C-Class is a brilliant EV with a dashboard that's a little too in your face.",
+      "publishedAt": "2026-07-28T01:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/2027-mercedes-benz-c-class-electric-first-drive-a-long-range-triumph-with-a-few-cabin-quirks/l-intro-1784664942.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T01:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -308,24 +383,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T20:40:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
-      "link": "https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/",
-      "summary": "Apple's latest software updates are primarily focused on security fixes.",
-      "publishedAt": "2026-07-27T20:07:47.000Z",
-      "image": "https://www.engadget.com/img/gallery/ios-26-6-macos-26-6-and-the-rest-are-out-addressing-security-fixes/l-intro-1785182814.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
-          "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-          "publishedAt": "2026-07-27T20:32:45.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-27T20:32:45.000Z"
     },
     {
       "source": "Engadget",
@@ -452,17 +509,6 @@
       "latestActivity": "2026-07-27T18:30:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
-      "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
-      "summary": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the co…",
-      "publishedAt": "2026-07-27T18:28:15.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T18:28:15.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
@@ -496,35 +542,6 @@
       "latestActivity": "2026-07-27T17:25:30.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Amazon wants to deploy 5,105 satellites for its direct-to-mobile service",
-      "link": "https://www.engadget.com/2224233/amazon-wants-to-deploy-5105-satellites-for-its-direct-to-mobile-service/",
-      "summary": "Amazon's Leo subsidiary has launched more than 390 satellites so far and plans to launch thousands more.",
-      "publishedAt": "2026-07-27T17:12:36.000Z",
-      "image": "https://www.engadget.com/img/gallery/amazon-wants-to-deploy-5105-satellites-for-its-direct-to-mobile-service/l-intro-1785171960.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T17:12:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "YouTube Premium will include Peacock starting next year",
-      "link": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
-      "summary": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subsc…",
-      "publishedAt": "2026-07-27T16:18:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/YouTubePeacock_0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "YouTube Premium will soon include Peacock at no extra cost",
-          "link": "https://www.engadget.com/2224217/youtube-premium-will-soon-include-peacock-at-no-extra-cost/",
-          "publishedAt": "2026-07-27T17:00:10.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-27T17:00:10.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Why China is giving away its best AI models",
       "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
@@ -536,15 +553,15 @@
       "latestActivity": "2026-07-27T16:51:50.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Is your iPhone stuck in SOS mode? Here's how to fix it",
-      "link": "https://www.engadget.com/2219835/iphone-stuck-in-sos-mode-how-to-fix/",
-      "summary": "Have you tried turning it off and on again?",
-      "publishedAt": "2026-07-27T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/is-your-iphone-stuck-in-sos-mode-heres-how-to-fix-it/l-intro-1784320057.jpg",
+      "source": "The Verge",
+      "title": "YouTube Premium will include Peacock starting next year",
+      "link": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
+      "summary": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subsc…",
+      "publishedAt": "2026-07-27T16:18:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/YouTubePeacock_0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-27T16:30:00.000Z"
+      "latestActivity": "2026-07-27T16:18:52.000Z"
     },
     {
       "source": "The Verge",
@@ -556,17 +573,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T15:40:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
-      "link": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
-      "summary": "Framework’s Laptop 13 Pro looks great in black but costs lots of green. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nFramework laptops always come with compromises in exchange fo…",
-      "publishedAt": "2026-07-27T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268670_Framework_Laptop_13_Pro_laptop_review_ADiBenedetto_0038.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T15:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -666,17 +672,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-24T17:03:55.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted…",
-      "publishedAt": "2026-07-24T12:10:00.000Z",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4b8.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T12:10:00.000Z"
     }
   ]
 }
