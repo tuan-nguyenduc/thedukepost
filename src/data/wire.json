@@ -1,6 +1,83 @@
 {
-  "syncedAt": "2026-07-27T23:04:44.451Z",
+  "syncedAt": "2026-07-28T02:43:15.892Z",
   "items": [
+    {
+      "source": "VentureBeat",
+      "title": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
+      "link": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
+      "summary": "Chinese AI startup Moonshot AI, creators of the increasingly famous \"Kimi K\" family of powerful, open AI models, today released the full weights for its largest and most performant…",
+      "publishedAt": "2026-07-28T02:08:51.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3bv8dFrzK0Gh1sBRr990bF/f58512999fdf0f135f0fd43f19c9f200/ChatGPT_Image_Jul_27__2026__09_49_17_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T02:08:51.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "publishedAt": "2026-07-28T00:13:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T00:13:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "link": "https://arxiv.org/abs/2607.05283",
+      "summary": "Article URL: https://arxiv.org/abs/2607.05283\nComments URL: https://news.ycombinator.com/item?id=49077209\nPoints: 19\n# Comments: 7",
+      "publishedAt": "2026-07-27T23:46:15.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T23:46:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Trylle – The Next-Gen Git Platform for Modern Teams",
+      "link": "https://trylle.com/home",
+      "summary": "Article URL: https://trylle.com/home\nComments URL: https://news.ycombinator.com/item?id=49076978\nPoints: 8\n# Comments: 2",
+      "publishedAt": "2026-07-27T23:26:15.000Z",
+      "image": "https://trylle.com/OG.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T23:26:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "summary": "Article URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-s…",
+      "publishedAt": "2026-07-27T23:19:19.000Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/06/astronauts-returning-from-six-month-miss.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T23:19:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "DConf 2026 in London",
+      "link": "https://dconf.org/2026/index.html",
+      "summary": "Article URL: https://dconf.org/2026/index.html\nComments URL: https://news.ycombinator.com/item?id=49076840\nPoints: 48\n# Comments: 22",
+      "publishedAt": "2026-07-27T23:14:19.000Z",
+      "image": "https://dconf.org/2026/images/logo-og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T23:14:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "C/C++ projects packaged for Zig",
+      "link": "https://github.com/allyourcodebase",
+      "summary": "Article URL: https://github.com/allyourcodebase\nComments URL: https://news.ycombinator.com/item?id=49076791\nPoints: 32\n# Comments: 22",
+      "publishedAt": "2026-07-27T23:09:50.000Z",
+      "image": "https://avatars.githubusercontent.com/u/146390816?s=280&v=4",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T23:09:50.000Z"
+    },
     {
       "source": "Wired",
       "title": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
@@ -11,6 +88,39 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T22:57:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "link": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "summary": "Article URL: https://telnyx.com/release-notes/kimi-k3-telnyx-inference\nComments URL: https://news.ycombinator.com/item?id=49076505\nPoints: 22\n# Comments: 5",
+      "publishedAt": "2026-07-27T22:46:28.000Z",
+      "image": "https://dotcom-payload-assets-prod.s3.us-east-1.amazonaws.com/cms-media/58db2ca1-0d1d-40c8-9ef5-a79897cb9ce9-a2f51d62.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T22:46:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md\nComments URL: https://news.ycombinator…",
+      "publishedAt": "2026-07-27T22:37:52.000Z",
+      "image": "https://opengraph.githubassets.com/3eb9b5369d44e0e9dc85ab05c31a90d11ff45aa6fc62217f113b4db7f70eb6ea/humanlayer/advanced-context-engineering-for-coding-agents",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T22:37:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+      "link": "https://hardroad.xyz/",
+      "summary": "Article URL: https://hardroad.xyz/\nComments URL: https://news.ycombinator.com/item?id=49076382\nPoints: 34\n# Comments: 12",
+      "publishedAt": "2026-07-27T22:36:55.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T22:36:55.000Z"
     },
     {
       "source": "The Verge",
@@ -24,24 +134,6 @@
       "latestActivity": "2026-07-27T22:10:18.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "summary": "When the first step goes wrong, bad results follow.",
-      "publishedAt": "2026-07-27T20:22:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "A missing underscore sent innocent man to prison for 18 months",
-          "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-          "publishedAt": "2026-07-27T22:10:15.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-27T22:10:15.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "X Money begins limited US rollout",
       "link": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout/",
@@ -51,17 +143,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T22:04:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Our position on open-weights models",
-      "link": "https://www.anthropic.com/news/position-open-weights-models",
-      "summary": "Article URL: https://www.anthropic.com/news/position-open-weights-models\nComments URL: https://news.ycombinator.com/item?id=49076057\nPoints: 176\n# Comments: 157",
-      "publishedAt": "2026-07-27T22:03:49.000Z",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T22:03:49.000Z"
     },
     {
       "source": "Ars Technica",
@@ -117,17 +198,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T21:06:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware",
-      "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
-      "summary": "Article URL: https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest\nComments URL: https://news.ycombinator.com/item?id=49075386\nPoints: 19\n# Comments: 9",
-      "publishedAt": "2026-07-27T20:53:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/VRG_Illo_STK001_B_Sala_Hacker.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T20:53:29.000Z"
     },
     {
       "source": "Ars Technica",
@@ -203,6 +273,17 @@
       "latestActivity": "2026-07-27T20:28:35.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "summary": "When the first step goes wrong, bad results follow.",
+      "publishedAt": "2026-07-27T20:22:03.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-27T20:22:03.000Z"
+    },
+    {
       "source": "VentureBeat",
       "title": "Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search",
       "link": "https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search",
@@ -219,17 +300,6 @@
         }
       ],
       "latestActivity": "2026-07-27T20:19:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Forth",
-      "link": "https://xkcd.com/3277/",
-      "summary": "Article URL: https://xkcd.com/3277/\nComments URL: https://news.ycombinator.com/item?id=49074991\nPoints: 47\n# Comments: 10",
-      "publishedAt": "2026-07-27T20:15:50.000Z",
-      "image": "https://imgs.xkcd.com/comics/forth_2x.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T20:15:50.000Z"
     },
     {
       "source": "Ars Technica",
@@ -254,21 +324,10 @@
       "latestActivity": "2026-07-27T20:08:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "link": "https://www.rise-reforming.com",
-      "summary": "Hi HN! This is George, Lucas, and Jona from Rise Reforming\n(https://www.rise-reforming.com/). We’re developing a process to convert gas produced at landfills, farms, and wastewater…",
-      "publishedAt": "2026-07-27T19:58:22.000Z",
-      "image": "https://static.wixstatic.com/media/4e3194_f51bf439cad241aeb0d95b6e4e3b095d~mv2.png/v1/fit/w_2500,h_1330,al_c/4e3194_f51bf439cad241aeb0d95b6e4e3b095d~mv2.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T19:58:22.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Xbox’s huge outage even blocked games on disc",
       "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
-      "summary": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too.\nXb…",
+      "summary": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too.\nXbo…",
       "publishedAt": "2026-07-27T19:53:50.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK048_XBOX_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -327,28 +386,6 @@
       "latestActivity": "2026-07-27T18:48:41.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Self-contained highly-portable Python distributions",
-      "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "summary": "Article URL: https://gregoryszorc.com/docs/python-build-standalone/main/\nComments URL: https://news.ycombinator.com/item?id=49073942\nPoints: 85\n# Comments: 20",
-      "publishedAt": "2026-07-27T18:43:31.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T18:43:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Artist Who Colored Ghibli",
-      "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
-      "summary": "Article URL: https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli\nComments URL: https://news.ycombinator.com/item?id=49073785\nPoints: 94\n# Comments: 8",
-      "publishedAt": "2026-07-27T18:32:09.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T18:32:09.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Google Pixel 11 launch event: Everything we expect as price increase rumors grow",
       "link": "https://www.engadget.com/2222968/google-pixel-11-launch-event-price-increase-rumors/",
@@ -371,17 +408,6 @@
       "latestActivity": "2026-07-27T18:28:15.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Bytecode-to-Source Mapping",
-      "link": "https://tidefield.dev/bytecode-to-source-mapping/",
-      "summary": "Article URL: https://tidefield.dev/bytecode-to-source-mapping/\nComments URL: https://news.ycombinator.com/item?id=49073665\nPoints: 29\n# Comments: 1",
-      "publishedAt": "2026-07-27T18:25:21.000Z",
-      "image": "https://tidefield.dev/images/bytecode-vm-source-lines.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T18:25:21.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
       "link": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
@@ -402,17 +428,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T18:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Antares raises $470M to build nuclear reactors for the US military",
-      "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-      "summary": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
-      "publishedAt": "2026-07-27T17:49:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Antares_Factory-Floor_1.jpg?resize=1200,502",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T17:49:28.000Z"
     },
     {
       "source": "Engadget",
@@ -651,17 +666,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-24T17:03:55.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-      "link": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
-      "summary": "Anthropic released Claude Opus 5 on Friday, a model the company says delivers nearly all the intelligence of its top-of-the-line Claude Fable 5 at half the cost — a launch that sig…",
-      "publishedAt": "2026-07-24T17:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1Yq5FNKJmmxeMO98fIwpRM/d8ae9af717a5770950856aff8f2ec3e6/Opus-5-Hero.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-24T17:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
