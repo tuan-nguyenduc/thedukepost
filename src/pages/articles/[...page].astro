@@ -185,6 +185,11 @@ const pageTitle = page.currentPage === 1
       filteredList.replaceChildren(...pageItems.map(buildCard));
       if (emptyMsg) emptyMsg.hidden = items.length !== 0;
 
+      if (totalPages <= 1) {
+        filteredPager.replaceChildren();
+        return;
+      }
+
       const row = document.createElement('div');
       row.className = 'pager__row';
 
