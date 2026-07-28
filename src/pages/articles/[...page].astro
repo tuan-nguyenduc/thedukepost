@@ -186,9 +186,11 @@ const pageTitle = page.currentPage === 1
       if (emptyMsg) emptyMsg.hidden = items.length !== 0;
 
       if (totalPages <= 1) {
+        filteredPager.hidden = true;
         filteredPager.replaceChildren();
         return;
       }
+      filteredPager.hidden = false;
 
       const row = document.createElement('div');
       row.className = 'pager__row';
