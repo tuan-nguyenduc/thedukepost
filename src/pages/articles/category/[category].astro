@@ -42,6 +42,7 @@ const breadcrumbItems = [
                 <span class="byline">{a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · {formatReadingTime(calculateReadingTime(a.body))}</span>
               </div>
             </a>
+            <a href={categoryHref(a.data.category)} class="eyebrow card__eyebrow">{categoryLabel(a.data.category)}</a>
           </li>
         ))}
       </ul>
@@ -55,9 +56,10 @@ const breadcrumbItems = [
   .page { padding: 48px 24px 80px; }
   h1 { font-size: 36px; margin-bottom: 36px; }
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
-  .list li { margin: 0; min-width: 0; }
+  .list li { position: relative; margin: 0; min-width: 0; }
   .list .card { padding: 24px; }
   .card { display: flex; gap: 20px; align-items: flex-start; min-width: 0; }
+  .card__eyebrow { position: absolute; top: 14px; left: 14px; z-index: 2; }
   .card__image {
     width: 140px;
     height: 100px;
