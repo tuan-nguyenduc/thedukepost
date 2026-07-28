@@ -1,22 +1,304 @@
 {
-  "syncedAt": "2026-07-28T14:12:28.679Z",
+  "syncedAt": "2026-07-28T17:37:10.751Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Why a $154B CEO just endorsed stripping most Americans of voting rights",
-      "link": "https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/",
-      "summary": "Article URL: https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/\nComments URL: https://news.ycombinator.com/item?id=49084031\nPoints: 12\n# Com…",
-      "publishedAt": "2026-07-28T14:00:37.000Z",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2277835408-e1785166045434.jpg?resize=1200,600",
+      "source": "TechCrunch",
+      "title": "Saudi prince buys 5% stake in Lucid Motors",
+      "link": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
+      "summary": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
+      "publishedAt": "2026-07-28T17:33:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?resize=1200,675",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-28T14:00:37.000Z"
+      "latestActivity": "2026-07-28T17:33:51.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What is the 60-60 rule for AirPods?",
+      "link": "https://www.engadget.com/2220918/airpods-60-60-rule/",
+      "summary": "60-60 is a good rule of thumb for protecting your hearing.",
+      "publishedAt": "2026-07-28T17:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-60-60-rule-for-airpods/l-intro-1784303355.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T17:30:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests",
+      "link": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
+      "summary": "Software engineers at General Motors' (GM's) autonomous driving division spend only 15% of their time writing code, according to Rashed Haq, GM's VP of autonomous vehicles, in a re…",
+      "publishedAt": "2026-07-28T17:29:58.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/61ct0spjuuIr2nxU8HJWE/80b1bd660d5a6c4931148114daa75b11/2026-VB-Transform-Hotel-Nia-0273.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T17:29:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "summary": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses\nComments URL: https://news.ycombinator.com/item?id=49087091\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-28T17:22:16.000Z",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=sky",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T17:22:16.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature",
+      "link": "https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature",
+      "summary": "Runway spent weeks trying to engineer its way out of a stubborn bug: AI-generated avatars would drift off-center during real-time video generation. The fix wasn't a back-end patch…",
+      "publishedAt": "2026-07-28T17:20:10.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/42llyg2hpoCxRC1uLTzzin/c1f16cc9f24634cf8d7e0c4089782c30/2026-VB-Transform-Hotel-Nia-0274.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T17:20:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scientific computing in the age of agentic AI",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai/",
+      "summary": "Article URL: https://openai.com/index/scientific-computing-agentic-ai/\nComments URL: https://news.ycombinator.com/item?id=49086987\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-07-28T17:13:15.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T17:13:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "link": "https://sbcl.org/all-news.html?2.6.7",
+      "summary": "Article URL: https://sbcl.org/all-news.html?2.6.7\nComments URL: https://news.ycombinator.com/item?id=49086971\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-07-28T17:11:54.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T17:11:54.000Z"
     },
     {
       "source": "TechCrunch",
-      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "title": "WhatsApp now lets you make calls using its web app",
+      "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+      "summary": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
+      "publishedAt": "2026-07-28T14:53:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/754202281_1346011513730216_8932365858242166801_n.jpeg?resize=1200,675",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "WhatsApp now supports encrypted calls on the web",
+          "link": "https://www.engadget.com/2225240/whatsapp-now-supports-encrypted-calls-on-the-web/",
+          "publishedAt": "2026-07-28T17:07:48.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-28T17:07:48.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Samsung Galaxy Z Fold 8 review: Wider really is better",
+      "link": "https://www.engadget.com/2225231/samsung-galaxy-z-fold-8-review/",
+      "summary": "For people who want the power of a phone that transforms into a miniature tablet, the Galaxy Z Fold 8 offers a better way to watch shows and movies.",
+      "publishedAt": "2026-07-28T17:04:24.000Z",
+      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-z-fold-8-review-the-new-design-is-a-big-win/l-intro-1785254767.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T17:04:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Substack writers, you need a website",
+      "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "summary": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/\nComments URL: https://news.ycombinator.com/item?id=49086788\nPoints: 9\n# Comments: 2",
+      "publishedAt": "2026-07-28T16:58:31.000Z",
+      "image": "https://i0.wp.com/elizabethtai.com/wp-content/uploads/2026/06/pexels-photo-16622632.jpeg?fit=1200%2C795&#038;ssl=1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T16:58:31.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's why you shouldn't throw away your old iPhone",
+      "link": "https://www.engadget.com/2220916/old-iphone-heres-why-you-shouldnt-throw-it-away/",
+      "summary": "If you've got an older iPhone hanging out in the junk drawer, grab it out and bring it back to life with these tips.",
+      "publishedAt": "2026-07-28T16:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-why-you-shouldnt-throw-away-your-old-iphone/l-intro-1784553394.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T16:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
+      "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
+      "summary": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
+      "publishedAt": "2026-07-28T16:16:25.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T16:16:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Xenharmlib (music theory library) adds support for Just Intonation",
+      "link": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html",
+      "summary": "Article URL: https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html\nComments URL: https://news.ycombinator.com/item?id=49086059\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-07-28T16:10:37.000Z",
+      "image": "https://xenharmlib.readthedocs.io/en/latest/_static/images/sidebar-logo.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T16:10:37.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Trump administration is exempting data centers from pollution laws intended to prevent acid rain",
+      "link": "https://www.engadget.com/2225156/trump-administration-is-exempting-data-centers-from-pollution-laws-intended-to-prevent-acid-rain/",
+      "summary": "Don't worry, the Trump administration won't let a little acid rain get in the way of more data centers.",
+      "publishedAt": "2026-07-28T16:04:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-trump-administration-is-exempting-data-centers-from-pollution-laws-intended-to-prevent-acid-rain/l-intro-1785254536.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T16:04:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "You Could Have Come Up with Kimi Delta Attention",
+      "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "summary": "Article URL: https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention\nComments URL: https://news.ycombinator.com/item?id=49085909\nPoints: 120\n# Comments: 29",
+      "publishedAt": "2026-07-28T16:02:07.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T16:02:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "HBO Max is putting on vertical shorts",
+      "link": "https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts",
+      "summary": "Warner Bros. Discovery is bringing a vertical video feed to HBO Max to help you find something new to watch. Streaming platforms like Netflix, Disney Plus, and Peacock already offe…",
+      "publishedAt": "2026-07-28T15:59:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK055_HBOMAX_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T15:59:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Do I Profile eBPF Code?",
+      "link": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+      "summary": "Article URL: https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/\nComments URL: https://news.ycombinator.com/item?id=49085811\nPoints: 51\n# Comments: 3",
+      "publishedAt": "2026-07-28T15:55:44.000Z",
+      "image": "https://naveensrinivasan.com/flamegraph-ebpf-perf.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T15:55:44.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Xbox explains what caused this week's 'unacceptable' major outage",
+      "link": "https://www.engadget.com/2225136/xbox-explains-what-caused-this-weeks-unaceeptable-major-outage/",
+      "summary": "An Xbox executive said yesterday's outage was due to \"a licensing service that sits outside of Xbox.\"",
+      "publishedAt": "2026-07-28T15:55:20.000Z",
+      "image": "https://www.engadget.com/img/gallery/xbox-explains-what-caused-this-weeks-unacceptable-major-outage/l-intro-1785254014.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T15:55:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: XY – Fast, composable, GPU-accelerated Python charting library",
+      "link": "https://github.com/reflex-dev/xy",
+      "summary": "Article URL: https://github.com/reflex-dev/xy\nComments URL: https://news.ycombinator.com/item?id=49085798\nPoints: 40\n# Comments: 15",
+      "publishedAt": "2026-07-28T15:54:55.000Z",
+      "image": "https://opengraph.githubassets.com/160b47ceecfb79b647d23cc78d3199d89a12311cd86be1334dc088d4f35c6267/reflex-dev/xy",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T15:54:55.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "4GB graphics cards are back",
+      "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+      "summary": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 w…",
+      "publishedAt": "2026-07-28T15:52:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T15:52:04.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+      "publishedAt": "2026-07-28T15:42:26.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-173791238.jpg?resize=1200,797",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T15:42:26.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Swimming headphones: What makes them so different from regular headphones?",
+      "link": "https://www.engadget.com/2220914/swimming-headphones-what-makes-different-from-regular/",
+      "summary": "Why can't I just wear my AirPods in the pool?",
+      "publishedAt": "2026-07-28T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/swimming-headphones-what-makes-them-so-different-from-regular-headphones/l-intro-1784223225.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T15:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+      "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
+      "publishedAt": "2026-07-28T15:10:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T15:10:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elon Musk’s X Money app is rolling out in the US",
+      "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+      "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
+      "publishedAt": "2026-07-28T14:57:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.24.40-AM.png?resize=1200,607",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T14:57:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s reported ‘HomePad’ may launch as early as October",
+      "link": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
+      "summary": "For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides \"HomePod with a…",
+      "publishedAt": "2026-07-28T14:39:42.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22025415/dseifert_201107_4281_0004.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T14:39:42.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What's the difference between Amazon's Echo Dot and Echo Dot Max?",
+      "link": "https://www.engadget.com/2222509/echo-dot-max-vs-echo-dot-differences-between-amazon-devices/",
+      "summary": "Better bass and a much newer processor are the main differences between the old Echo Dot and the newer Echo Dot Max.",
+      "publishedAt": "2026-07-28T14:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-amazons-echo-dot-and-echo-dot-max/l-intro-1784561499.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-28T14:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21…",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21…",
       "publishedAt": "2026-07-28T14:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fish-Audio-CoFounders.jpeg?resize=1200,675",
       "sourceCount": 1,
@@ -41,14 +323,8 @@
       "summary": "This image shows which Apple devices are included in its new leasing program. | Image: Apple\t\n\nApple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to m…",
       "publishedAt": "2026-07-28T12:23:50.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Apple-Upgrade-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 3,
+      "sourceCount": 2,
       "related": [
-        {
-          "source": "Engadget",
-          "title": "Apple Upgrade is a subscription program for the company's devices",
-          "link": "https://www.engadget.com/2224951/apple-upgrade-program-announced-klarna/",
-          "publishedAt": "2026-07-28T12:44:16.000Z"
-        },
         {
           "source": "TechCrunch",
           "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
@@ -70,125 +346,15 @@
       "latestActivity": "2026-07-28T13:32:23.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Your old Google Pixel smartphone could be repurposed in a data center",
-      "link": "https://www.engadget.com/2220912/google-pixel-old-smartphone-data-center/",
-      "summary": "Keeping phones out of landfills and doing useful things is a good thing.",
-      "publishedAt": "2026-07-28T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/your-old-google-pixel-smartphone-could-be-repurposed-in-a-data-center/l-intro-1784216400.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Motorola launches Indigenous Collections app for language and cultural preservation",
-      "link": "https://www.engadget.com/2224690/motorola-launches-indigenous-collections-app-for-language-and-cultural-preservation/",
-      "summary": "The free Android app shares knowledge from members of the Rainy Lake Ojibwe community.",
-      "publishedAt": "2026-07-28T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/motorola-launches-indigenous-collections-app-for-language-and-cultural-preservation/l-intro-1785192562.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
       "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company…",
       "publishedAt": "2026-07-28T13:19:17.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T13:19:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: tale.fyi, we deserve a home for fiction",
-      "link": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-      "summary": "for decades, i have been concerned that the internet was being built around non-fiction, so i built something to show how we could celebrate great fiction on the web.\ni started wit…",
-      "publishedAt": "2026-07-28T13:16:52.000Z",
-      "image": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link/opengraph-image",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:16:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
-      "link": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
-      "summary": "Article URL: https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/\nComments URL: https://news.ycombinator.com/item?id=49083364\nPoints: 15\n# Comments:…",
-      "publishedAt": "2026-07-28T13:15:19.000Z",
-      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/391-skyteam-phung-quang-minh-_-shutterstock.jpg?w=1600&h=900&fit=crop",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:15:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-      "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
-      "summary": "Article URL: https://github.com/ctrlb-hq/ctrlb-decompose\nComments URL: https://news.ycombinator.com/item?id=49083336\nPoints: 26\n# Comments: 3",
-      "publishedAt": "2026-07-28T13:13:35.000Z",
-      "image": "https://opengraph.githubassets.com/31af316c4de1ca88796bb76a50f1c3447e4626c82650f1a7244b593e068cf5ae/ctrlb-hq/ctrlb-decompose",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:13:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Many \"serious\" mathematicians are aghast",
-      "link": "https://twitter.com/lemire/status/2082091243597697071",
-      "summary": "Article URL: https://twitter.com/lemire/status/2082091243597697071\nComments URL: https://news.ycombinator.com/item?id=49083330\nPoints: 12\n# Comments: 2",
-      "publishedAt": "2026-07-28T13:13:02.000Z",
-      "image": "https://pbs.twimg.com/profile_images/2070145724390535168/x9MGWOxQ_200x200.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:13:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "summary": "Article URL: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/\nComments URL: https://news.ycombinator.com/item?id=49083314…",
-      "publishedAt": "2026-07-28T13:12:01.000Z",
-      "image": "https://www.lji.org/wp-content/uploads/2026/07/HIV_Virus_-_5412.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:12:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "link": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified again…",
-      "publishedAt": "2026-07-28T13:07:14.000Z",
-      "image": "https://opengraph.githubassets.com/29d9319e2929bc792d246fe3dbda8b581ed2587f9c2ae39be459a62ff6f8797c/schildep/verified-3d-mesh-intersection",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:07:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What AI developers could learn from Charles Bukowski?",
-      "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski\nComments URL: https://news.ycombinator.com/item?id=49083132\nPoints: 16\n# Comments: 16",
-      "publishedAt": "2026-07-28T13:00:12.000Z",
-      "image": "https://galjot.si/_blog/img/2026/ai-developers-bukowski-social.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:00:12.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Granola launches an Apple Watch app",
-      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
-      "summary": "Granola debutes an Apple Watch app for in-person notetaking",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/@CHARLIEMCKAY-@charliemckay-DSCF6525-1.jpeg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T13:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -268,17 +434,6 @@
       "latestActivity": "2026-07-28T12:04:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technol…",
-      "publishedAt": "2026-07-28T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T12:00:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "MCP just got its biggest update ever — here’s what changes for AI agents",
       "link": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
@@ -312,17 +467,6 @@
       "latestActivity": "2026-07-28T11:33:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Hugging Face reportedly plagued with AI models generating adult deepfakes",
-      "link": "https://www.engadget.com/2224899/hugging-face-reportedly-plagued-with-deepfakes/",
-      "summary": "Researchers investigating Hugging Face found the majority of its models would generate non-consensual deepfakes.",
-      "publishedAt": "2026-07-28T11:22:27.000Z",
-      "image": "https://www.engadget.com/img/gallery/hugging-face-reportedly-plagued-with-ai-models-generating-adult-deepfakes/l-intro-1785237563.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T11:22:27.000Z"
-    },
-    {
       "source": "Wired",
       "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
       "link": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
@@ -343,24 +487,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T10:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
-      "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
-      "summary": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
-      "publishedAt": "2026-07-28T08:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Freenow-by-Lyft-x-Baidu-Apollo-Go.jpg?resize=1200,900",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Lyft and Baidu start testing robotaxis in London",
-          "link": "https://www.engadget.com/2224882/lyft-and-baidu-start-testing-robotaxis-in-london/",
-          "publishedAt": "2026-07-28T10:04:49.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-28T10:04:49.000Z"
     },
     {
       "source": "Wired",
@@ -396,28 +522,6 @@
       "latestActivity": "2026-07-28T09:18:57.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Hugging Face is being used to easily undress women and children",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "summary": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge | Photos from Getty Images\t\n\nHugging Face…",
-      "publishedAt": "2026-07-28T09:07:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T09:07:14.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "ChatGPT is now refusing requests to write in famous authors' styles",
-      "link": "https://www.engadget.com/2224867/chatgpt-refusing-to-write-in-famous-authors-styles/",
-      "summary": "ChatGPT has been refusing to imitate the writing of famous authors, both living and dead.",
-      "publishedAt": "2026-07-28T09:05:25.000Z",
-      "image": "https://www.engadget.com/img/gallery/chatgpt-is-now-refusing-requests-to-write-in-famous-authors-styles/l-intro-1785229454.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T09:05:25.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Fiduciary AI: Agents need to prove trustworthiness, not just ability",
       "link": "https://venturebeat.com/security/fiduciary-ai-agents-need-to-prove-trustworthiness-not-just-ability",
@@ -429,17 +533,6 @@
       "latestActivity": "2026-07-28T07:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "publishedAt": "2026-07-28T04:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T04:30:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
       "link": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
@@ -449,50 +542,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T02:08:51.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "2027 Mercedes-Benz C-Class Electric first drive: A long-range triumph with a few cabin quirks",
-      "link": "https://www.engadget.com/2220206/2027-mercedes-benz-c-class-electric-first-drive/",
-      "summary": "With plenty of range and stellar ride quality, the new C-Class is a brilliant EV with a dashboard that's a little too in your face.",
-      "publishedAt": "2026-07-28T01:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/2027-mercedes-benz-c-class-electric-first-drive-a-long-range-triumph-with-a-few-cabin-quirks/l-intro-1784664942.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T01:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "publishedAt": "2026-07-28T00:13:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T00:13:33.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "X Money is launching in the US starting today",
-      "link": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
-      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and pee…",
-      "publishedAt": "2026-07-27T22:10:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/x-money-visa-card.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T22:10:18.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "X Money begins limited US rollout",
-      "link": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout/",
-      "summary": "Only Premium and Premium X subscribers get the privilege of banking with Elon for now.",
-      "publishedAt": "2026-07-27T22:04:17.000Z",
-      "image": "https://www.engadget.com/img/gallery/x-money-begins-limited-us-rollout/l-intro-1785189644.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T22:04:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -515,17 +564,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T21:40:27.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says…",
-      "publishedAt": "2026-07-27T21:17:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T21:17:11.000Z"
     },
     {
       "source": "Ars Technica",
@@ -572,17 +610,6 @@
       "latestActivity": "2026-07-27T20:12:42.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-      "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-      "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
-      "publishedAt": "2026-07-27T19:18:02.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/texas-flag-1152x648-1785178684.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T19:18:02.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
       "link": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
@@ -603,28 +630,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-27T18:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "AI cites the deep pages but sends humans to the homepage — most sites are built backward",
-      "link": "https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward",
-      "summary": "If your business depends on people clicking through to web pages, the last two years have been brutal. Pew Research Center tracked the browsing behavior of 900 U.S. adults and foun…",
-      "publishedAt": "2026-07-27T17:25:30.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5sp8upVV4XULj5XRyhMCU9/b85a95ba5cf224fdd1ebb074bafb5f97/Gemini_Generated_Image_6rjvpt6rjvpt6rjv.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T17:25:30.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search",
-      "link": "https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search",
-      "summary": "Over the weekend, Reddit user -void1 posted an alarming discovery on the r/ClaudeAI subreddit: some conversations that users of Anthropic's Claude AI chatbot had made \"shareable\" v…",
-      "publishedAt": "2026-07-27T15:02:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6MB0Wkpx3vZli7BOCInwGg/1d191633c5a6ccd2b1e4a983662a8186/b225e08c-b329-43d1-9ddd-553cedd372ae.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-27T15:02:00.000Z"
     },
     {
       "source": "MIT Technology Review",
