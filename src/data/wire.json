@@ -1,6 +1,129 @@
 {
-  "syncedAt": "2026-07-28T23:02:12.274Z",
+  "syncedAt": "2026-07-29T02:50:22.591Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "link": "https://learnvector.ai/",
+      "summary": "Article URL: https://learnvector.ai/\nComments URL: https://news.ycombinator.com/item?id=49092499\nPoints: 20\n# Comments: 10",
+      "publishedAt": "2026-07-29T01:49:19.000Z",
+      "image": "https://learnvector.ai/assets/social-card.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T01:49:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+      "link": "https://andreadimatteo.com/md-to-html-compiler.html",
+      "summary": "Hi HN,\nI'm new to Rust and, after half of `The Rust Programming Language` I decided to delve into a project I would actually use: a markdown to html compiler that actually serves m…",
+      "publishedAt": "2026-07-29T01:04:30.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T01:04:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Multiple Mouse Cursors in Wayland",
+      "link": "https://blinry.org/multi-seat-wayland/",
+      "summary": "Article URL: https://blinry.org/multi-seat-wayland/\nComments URL: https://news.ycombinator.com/item?id=49092112\nPoints: 15\n# Comments: 1",
+      "publishedAt": "2026-07-29T00:59:37.000Z",
+      "image": "https://blinry.org/multi-seat-wayland/thumbnail.jpg-thumbnail.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T00:59:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+      "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+      "summary": "Article URL: https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf\nComments URL: https://news.ycombinator.com/item?id=49091994\nPoints: 7\n# Comments: 2",
+      "publishedAt": "2026-07-29T00:44:26.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T00:44:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "summary": "Article URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html\nComments URL: https://news.ycombinator.com/item?id=49091895\nPoints: 11\n# Comments: 0",
+      "publishedAt": "2026-07-29T00:32:08.000Z",
+      "image": "https://pvrlabs.xyz/articles/img/statlite-monitoring-og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T00:32:08.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how…",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "publishedAt": "2026-07-28T21:36:39.000Z"
+        },
+        {
+          "source": "Wired",
+          "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+          "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+          "publishedAt": "2026-07-29T00:15:30.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-29T00:15:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Difference Between a Button and a Link",
+      "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+      "summary": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/\nComments URL: https://news.ycombinator.com/item?id=49091738\nPoints: 35\n# Comments: 15",
+      "publishedAt": "2026-07-29T00:12:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T00:12:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "link": "https://www.hubble.md/",
+      "summary": "Article URL: https://www.hubble.md/\nComments URL: https://news.ycombinator.com/item?id=49091730\nPoints: 41\n# Comments: 7",
+      "publishedAt": "2026-07-29T00:11:23.000Z",
+      "image": "https://hubble.md/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T00:11:23.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "publishedAt": "2026-07-29T00:09:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T00:09:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+      "link": "https://studio.academa.ai/",
+      "summary": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.\nWe reimplemented Manim with the same Python API, but the implemen…",
+      "publishedAt": "2026-07-29T00:07:43.000Z",
+      "image": "https://studio.academa.ai/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-29T00:07:43.000Z"
+    },
     {
       "source": "The Verge",
       "title": "The US is banning foreign robots",
@@ -8,9 +131,27 @@
       "summary": "The Chinese robot maker, Unitree, will likely be impacted by the ban. | Bloomberg via Getty Images\t\n\nThe US government is targeting China with a new import ban on \"advanced robotic…",
       "publishedAt": "2026-07-28T22:37:53.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2281892623.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "The US is banning foreign-made humanoid robots and power inverters",
+          "link": "https://www.engadget.com/2225693/the-us-is-banning-foreign-made-humanoid-robots-and-power-inverters/",
+          "publishedAt": "2026-07-29T00:02:16.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-29T00:02:16.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
+      "link": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
+      "summary": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authorities arrested, charged, and conv…",
+      "publishedAt": "2026-07-28T23:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a693a2924032f0976e6aad9/191:100/w_1280,c_limit/Typo-Landed-Innocent-Gamer-in-Prison-Security.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-28T22:37:53.000Z"
+      "latestActivity": "2026-07-28T23:30:00.000Z"
     },
     {
       "source": "Engadget",
@@ -18,32 +159,10 @@
       "link": "https://www.engadget.com/2225652/ebay-and-its-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/",
       "summary": "Ina and David Steiner will receive compensation after a 2019 campaign to silence their critiques of the company.",
       "publishedAt": "2026-07-28T22:31:41.000Z",
-      "image": "https://www.engadget.com/img/gallery/ebay-and-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/l-intro-1785277818.jpg",
+      "image": "https://www.engadget.com/img/gallery/ebay-and-its-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/l-intro-1785281172.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T22:31:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
-      "link": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-      "summary": "Article URL: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn\nComments URL: https://news.ycombinator.com/item?id=49090867\nPoints: 8…",
-      "publishedAt": "2026-07-28T22:31:14.000Z",
-      "image": "https://scripps.ucsd.edu/sites/default/files/styles/800px/public/2026-07/istock-177540653-800x500.jpg?itok=7zkOfvBW",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T22:31:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Offer rates for tech jobs fell from 51% to 39% since 2015",
-      "link": "https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years",
-      "summary": "Article URL: https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years\nComments URL: https://news.ycombinator.com/item?id=49090794\nPoints: 25\n# Comments: 3",
-      "publishedAt": "2026-07-28T22:24:06.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T22:24:06.000Z"
     },
     {
       "source": "Engadget",
@@ -66,17 +185,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T22:10:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "link": "https://github.com/twalichiewicz/HNewhere",
-      "summary": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and…",
-      "publishedAt": "2026-07-28T22:09:06.000Z",
-      "image": "https://opengraph.githubassets.com/088591afbaba9e236e88d94063d8b2d95e2298ca7983b1769f5cd8625e4dab84/twalichiewicz/HNewhere",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T22:09:06.000Z"
     },
     {
       "source": "Ars Technica",
@@ -112,35 +220,6 @@
       "latestActivity": "2026-07-28T21:48:50.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how…",
-      "publishedAt": "2026-07-27T18:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-          "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-          "publishedAt": "2026-07-28T21:36:39.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-28T21:36:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Running Kimi K3 on a M1 Max",
-      "link": "https://github.com/gavamedia/deltafin",
-      "summary": "Article URL: https://github.com/gavamedia/deltafin\nComments URL: https://news.ycombinator.com/item?id=49090233\nPoints: 54\n# Comments: 36",
-      "publishedAt": "2026-07-28T21:35:19.000Z",
-      "image": "https://opengraph.githubassets.com/a2475c9287c07a6ebe37c4824e33ff65075ee522e2fbed106ae9caec0cec875e/gavamedia/deltafin",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T21:35:19.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Bot-detection startup Spur nabs $200M from Insight",
       "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
@@ -150,17 +229,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T21:29:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "link": "https://github.com/anthropics/cryptography-research-demo",
-      "summary": "Article URL: https://github.com/anthropics/cryptography-research-demo\nComments URL: https://news.ycombinator.com/item?id=49090083\nPoints: 31\n# Comments: 2",
-      "publishedAt": "2026-07-28T21:22:48.000Z",
-      "image": "https://opengraph.githubassets.com/75a0b892df600534eba05e0a488b6a4c8f23d16dff9a339dc9c452f033423522/anthropics/cryptography-research-demo",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T21:22:48.000Z"
     },
     {
       "source": "Engadget",
@@ -177,7 +245,7 @@
       "source": "The Verge",
       "title": "The union drive at the Wikimedia Foundation is expanding",
       "link": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
-      "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intentions to form a union. Now, US-based employees at the Wikimedia Foundation are joinin…",
+      "summary": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intention to form a union. Now, US-based employees at the Wikimedia Foundation are joining…",
       "publishedAt": "2026-07-28T21:11:11.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -205,28 +273,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T21:02:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Half-Life ported to Mac OS 9",
-      "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "summary": "Article URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/\nComments URL: https://news.ycombinator.com/item?id=49089814\nPoints: 61\n# Comments: 22",
-      "publishedAt": "2026-07-28T20:58:39.000Z",
-      "image": "https://mac-classic.com",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T20:58:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI just open-sourced Codex Security",
-      "link": "https://github.com/openai/codex-security",
-      "summary": "Article URL: https://github.com/openai/codex-security\nComments URL: https://news.ycombinator.com/item?id=49089755\nPoints: 216\n# Comments: 44",
-      "publishedAt": "2026-07-28T20:52:55.000Z",
-      "image": "https://opengraph.githubassets.com/d64f4cbcb93d218b37bc7ce591f9021ac7f35159bf47b43af9ba19363b94c7b7/openai/codex-security",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T20:52:55.000Z"
     },
     {
       "source": "Ars Technica",
@@ -260,17 +306,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T20:43:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Toolcraft",
-      "link": "https://toolcraft.sh",
-      "summary": "Article URL: https://toolcraft.sh\nComments URL: https://news.ycombinator.com/item?id=49089600\nPoints: 20\n# Comments: 2",
-      "publishedAt": "2026-07-28T20:37:29.000Z",
-      "image": "https://toolcraft.sh/social-previews/og-toolcraft-v2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T20:37:29.000Z"
     },
     {
       "source": "Ars Technica",
@@ -318,7 +353,7 @@
     },
     {
       "source": "The Verge",
-      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporti…",
       "publishedAt": "2026-07-28T19:46:43.000Z",
@@ -406,7 +441,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
       "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
       "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
       "publishedAt": "2026-07-28T19:07:31.000Z",
@@ -469,28 +504,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T18:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood mark…",
-      "publishedAt": "2026-07-28T18:16:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T18:16:39.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The HBO Max app now has shorts, because why not",
-      "link": "https://www.engadget.com/2225282/the-hbo-max-app-now-has-shorts-because-why-not/",
-      "summary": "The HBO Max app now has shorts, because everything needs to have shorts.",
-      "publishedAt": "2026-07-28T17:45:36.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-hbo-max-app-now-has-shorts-because-why-not/l-intro-1785260645.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T17:45:36.000Z"
     },
     {
       "source": "VentureBeat",
@@ -590,28 +603,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-28T11:33:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
-      "link": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
-      "summary": "Beeeep. Beeeep. Beeeeeeeeeeeeeeeep.",
-      "publishedAt": "2026-07-28T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a633f9337c1de99d55a84c8/191:100/w_1280,c_limit/MicrowaveBeep.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop f…",
-      "publishedAt": "2026-07-28T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a629130d1a4f0b18c5d7b7e/191:100/w_1280,c_limit/Big-Interview-UV-Solo-AG-Sulzberger-Business-1189291051.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-28T10:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
