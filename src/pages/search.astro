@@ -210,26 +210,32 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     flex-direction: column;
     gap: 20px;
   }
-  .result-card {
+  /*
+   * :global() below because results-list's <li> children are injected via
+   * innerHTML at runtime (see the <script> above) — Astro only stamps its
+   * data-astro-cid scoping attribute onto elements it compiles at build
+   * time, so a scoped selector would never match these nodes.
+   */
+  :global(.result-card) {
     display: block;
     padding: 22px 24px;
   }
-  .result-meta {
+  :global(.result-meta) {
     display: flex;
     align-items: center;
     gap: 12px;
     margin-bottom: 10px;
   }
-  .result-title {
+  :global(.result-title) {
     font-size: 22px;
     margin-bottom: 8px;
   }
-  .result-desc {
+  :global(.result-desc) {
     color: var(--slate);
     font-size: 15px;
     margin: 0;
   }
-  .result-item--active .result-card {
+  :global(.result-item--active .result-card) {
     background: var(--accent-soft);
     border-color: var(--accent);
   }
