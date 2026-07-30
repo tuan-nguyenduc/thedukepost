@@ -141,9 +141,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   .intro { color: var(--slate); margin-bottom: 36px; max-width: 620px; }
 
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
-  .list li { margin: 0; min-width: 0; }
-  .card { padding: 24px; display: flex; gap: 20px; align-items: flex-start; min-width: 0; position: relative; }
-  .card__image {
+
+  /*
+   * :global() below because every <li> in this list is built client-side by
+   * renderCard() (see the <script> above), reading from localStorage — this
+   * page has no server-rendered card markup at all. Astro only stamps its
+   * data-astro-cid scoping attribute onto elements it compiles at build
+   * time, so a scoped selector would never match these nodes.
+   */
+  :global(.list li) { margin: 0; min-width: 0; }
+  :global(.card) { padding: 24px; display: flex; gap: 20px; align-items: flex-start; min-width: 0; position: relative; }
+  :global(.card__image) {
     width: 140px;
     height: 100px;
     object-fit: cover;
@@ -151,13 +159,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     border: 2px solid var(--ink);
     flex-shrink: 0;
   }
-  .card__body { flex: 1; min-width: 0; }
-  .card__body h2 { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
-  .card__body a { color: inherit; }
-  .card__body p { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
-  .byline { font-family: var(--font-mono); font-size: 13px; color: var(--slate); }
+  :global(.card__body) { flex: 1; min-width: 0; }
+  :global(.card__body h2) { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
+  :global(.card__body a) { color: inherit; }
+  :global(.card__body p) { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
+  :global(.byline) { font-family: var(--font-mono); font-size: 13px; color: var(--slate); }
 
-  .remove-btn {
+  :global(.remove-btn) {
     align-self: flex-start;
     font-family: var(--font-mono);
     font-size: 12px;
@@ -171,7 +179,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     cursor: pointer;
     transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
   }
-  .remove-btn:hover {
+  :global(.remove-btn:hover) {
     background: var(--signal);
     border-color: var(--signal);
     color: var(--ink-fixed);
