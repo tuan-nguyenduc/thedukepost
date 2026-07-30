@@ -1,27 +1,415 @@
 {
-  "syncedAt": "2026-07-30T14:07:59.766Z",
+  "syncedAt": "2026-07-30T17:37:23.806Z",
   "items": [
     {
-      "source": "TechCrunch",
-      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come ",
-      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-      "publishedAt": "2026-07-30T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/54889342155_4479997650_4k.jpg?resize=1200,800",
+      "source": "The Verge",
+      "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
+      "link": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
+      "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapp…",
+      "publishedAt": "2026-07-30T17:20:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/nasa-curiosity-sea-of-polygons.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-30T14:00:00.000Z"
+      "latestActivity": "2026-07-30T17:20:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can \"control entire huma…",
+      "publishedAt": "2026-07-30T17:18:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:18:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "summary": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\nComments URL: https://news.ycombinator.com/item?id=49112867\nPoints: 8\n# Comments: 0",
+      "publishedAt": "2026-07-30T17:15:51.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:15:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "ABC demands FCC drop its ‘punitive’ early license renewal of its stations",
+      "link": "https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition",
+      "summary": "ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort…",
+      "publishedAt": "2026-07-30T17:08:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP211_BRENDAN_CARR_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:08:14.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
+      "link": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
+      "summary": "The temporary exemption from federal safety standards will let Amazon’s Zoox launch a real, paid robotaxi service in Las Vegas.",
+      "publishedAt": "2026-07-30T17:06:13.000Z",
+      "image": "https://media.wired.com/photos/6a6b6dfa2b183a271524a823/191:100/w_1280,c_limit/GettyImages-2264121440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:06:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\nComments URL: https://news.ycombinator.com/item?id=49112744\nPoints: 21\n# Comments…",
+      "publishedAt": "2026-07-30T17:04:53.000Z",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/07/h96-amazon.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:04:53.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "LinkedIn is testing a 'seems like AI slop' reporting tool",
+      "link": "https://www.engadget.com/2227188/linkedin-testing-seems-like-ai-slop-reporting-tool/",
+      "summary": "The company is also removing some of its own AI-writing features.",
+      "publishedAt": "2026-07-30T17:02:54.000Z",
+      "image": "https://www.engadget.com/img/gallery/linkedin-is-testing-a-seems-like-ai-slop-reporting-tool/l-intro-1785430425.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:02:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rise Reforming (YC S26) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer\nComments URL: https://news.ycombinator.com/item?id=49112683\nPoints:…",
+      "publishedAt": "2026-07-30T17:00:21.000Z",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/d19eaed1900424e4b00ecac917fbb57e96c6c2b6.png?1783445232",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:00:21.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google is working on Chrome updates that don’t require restarts",
+      "link": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
+      "summary": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI,…",
+      "publishedAt": "2026-07-30T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK114_Google_Chrome_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+      "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+      "publishedAt": "2026-07-30T17:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a6a4f534df40be776de37d7/191:100/w_1280,c_limit/Security_Chrome%20Needs%20Twice-a-Week%20Patching%20Thanks%20to%20AI%20Bug%20Hunting_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+      "link": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+      "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Sub…",
+      "publishedAt": "2026-07-30T16:57:39.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/6608d2c0-7707-4156-82ca-a44b58a90bd1_1440x800.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:57:39.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.",
+      "link": "https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying",
+      "summary": "Every time a Mastercard gets tapped, the network has less than a tenth of a second to judge how likely the purchase is to be fraudulent. It made that call across 175 billion transa…",
+      "publishedAt": "2026-07-30T16:57:14.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/30UH4P8mgfH5YlUrcpSR3Q/c7c8f1f4a0d1dafe74eeb22c393bb265/mastercard_hero.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:57:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Olinia Turns Mexico's EV Ambition into Reality",
+      "link": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
+      "summary": "Article URL: https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle\nComments URL: https://news.ycombinator.com/item?id=49112368\nPoints: 7\n# Comments: 1",
+      "publishedAt": "2026-07-30T16:36:47.000Z",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67541519&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:36:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Toot.community Is Shutting Down",
+      "link": "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2",
+      "summary": "Article URL: https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2\nComments URL: https://news.ycombinator.com/item?id=49112327\nPoints: 11\n# Comments: 5",
+      "publishedAt": "2026-07-30T16:33:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:33:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artifi…",
+      "publishedAt": "2026-07-30T16:33:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:33:32.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Expensive phone cases: When and why it's worth paying more",
+      "link": "https://www.engadget.com/2222921/expensive-phone-case-when-why-pay-more/",
+      "summary": "Phone cases vary dramatically when it comes to pricing, but it's not always as simple as \"you get what you pay for.\"",
+      "publishedAt": "2026-07-30T16:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/expensive-phone-cases-when-and-why-its-worth-paying-more/l-intro-1784564401.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:30:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
+      "link": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
+      "summary": "Less than a year after emerging from stealth to tackle non-human identity security, Israeli cybersecurity startup Hush Security believes the enterprise AI security conversation has…",
+      "publishedAt": "2026-07-30T16:29:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3sDPjECpYanyeD3xvMDSuZ/bbb8b59a604585a04f166cb64d1bae22/ChatGPT_Image_Jul_30__2026__12_13_02_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:29:00.000Z"
     },
     {
       "source": "TechCrunch",
-      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
-      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-      "summary": "The U.S. federal consumer watchdog said Hims & Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with a…",
-      "publishedAt": "2026-07-30T13:30:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/08/NYSE-hims-hers-shot1.jpg?resize=1200,674",
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "publishedAt": "2026-07-30T16:09:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-30T13:30:52.000Z"
+      "latestActivity": "2026-07-30T16:09:42.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Google says it has fixed a Pixel battery drain issue, but some users disagree",
+      "link": "https://www.engadget.com/2227094/google-says-it-has-fixed-a-pixel-battery-drain-issue-but-some-users-disagree/",
+      "summary": "Google said a July update resolves the problem on recent devices, with Pixel 9a and 8a getting a fix in September.",
+      "publishedAt": "2026-07-30T16:02:59.000Z",
+      "image": "https://www.engadget.com/img/gallery/google-says-it-has-fixed-a-pixel-battery-drain-issue-but-some-users-disagree/l-intro-1785427299.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:02:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla made its 10 millionth EV",
+      "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+      "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
+      "publishedAt": "2026-07-30T16:00:25.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2159532501.jpg?resize=1200,801",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:00:25.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The New Friend AI Pendant Can Now Talk Back to You",
+      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+      "publishedAt": "2026-07-30T16:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a6a649d6a06c49f95fa2cca/191:100/w_1280,c_limit/CAR.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T16:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Quantum computers outperform classical ones, with results you can trust",
+      "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+      "summary": "Three approaches to the issue of quantum results that can't be verified classically.",
+      "publishedAt": "2026-07-30T15:59:37.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-1152x648.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:59:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP",
+      "link": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy",
+      "summary": "Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the…",
+      "publishedAt": "2026-07-30T15:48:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asus-rog-astral-rtx-5080-oc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:48:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+      "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+      "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
+      "publishedAt": "2026-07-30T15:45:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2184776204.jpeg?resize=1200,857",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:45:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the wa…",
+      "publishedAt": "2026-07-30T15:41:16.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:41:16.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Google Voice paid subscriptions offer more than just a phone number",
+      "link": "https://www.engadget.com/2222920/google-voice-paid-subscriptions-more-than-just-phone-number/",
+      "summary": "The free version may be enough for you, but let's dive into the upgraded features to be sure.",
+      "publishedAt": "2026-07-30T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/google-voice-paid-subscriptions-offer-more-than-just-a-phone-number/l-intro-1784732990.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Netflix pays $500 million to share 'The Walking Dead' streaming rights with AMC+",
+      "link": "https://www.engadget.com/2226910/netflix-pays-500-million-to-share-the-walking-dead-streaming-rights-with-amc-plus/",
+      "summary": "Netflix has ponied up a half billion dollars to extend its streaming rights to The Walking Dead and the show's six spinoffs.",
+      "publishedAt": "2026-07-30T13:22:14.000Z",
+      "image": "https://www.engadget.com/img/gallery/netflix-pays-500-million-to-share-the-walking-dead-streaming-rights-with-amc/l-intro-1785417571.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+          "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+          "publishedAt": "2026-07-30T15:27:08.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-30T15:27:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "summary": "Article URL: https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/\nComments URL: https://news.ycombinator.com/item?id=49111305\nPoints…",
+      "publishedAt": "2026-07-30T15:22:46.000Z",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/E989-storage-ring-magnet-at-Fermilab-cr-Reidar-Hahn-Fermilab-Social.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:22:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "publishedAt": "2026-07-30T15:19:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:19:15.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "summary": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
+      "publishedAt": "2026-07-30T15:17:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/CFS-cryostat-base-installation.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:17:39.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+      "publishedAt": "2026-07-30T15:04:22.000Z",
+      "image": "https://media.wired.com/photos/6a6a8a2bd6b54781fab7d961/191:100/w_1280,c_limit/Google-Trying-to-Bring-AI-Into-Physical-World-Business.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "publishedAt": "2026-07-30T15:15:48.000Z"
+        }
+      ],
+      "latestActivity": "2026-07-30T15:15:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Economic Benefit of Refactoring",
+      "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "summary": "Article URL: https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html\nComments URL: https://news.ycombinator.com/item?id=49111176\nPoints: 80\n# Comments:…",
+      "publishedAt": "2026-07-30T15:10:27.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:10:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
+      "link": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
+      "summary": "Hopefully, nobody is giving coffee to that dog. | ﻿Image: Xiaomi\t\n\nThe SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range…",
+      "publishedAt": "2026-07-30T15:05:09.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:05:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "publishedAt": "2026-07-30T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2200018679.jpg?resize=1200,633",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Razer Huntsman V3 HE Review: Jumping on the Bandwagon",
+      "link": "https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/",
+      "summary": "Razer has finally caved and made its first Hall Effect gaming keyboard. I dug into its switches, features, and gaming performance to see if it was worth the wait.",
+      "publishedAt": "2026-07-30T15:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a6a8d29a5684dc1974da760/191:100/w_1280,c_limit/Huntsman-V3-Hall-Effect-Keyboard-source-Henri.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T15:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+      "publishedAt": "2026-07-30T14:53:07.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T14:53:07.000Z"
     },
     {
       "source": "Engadget",
@@ -35,28 +423,6 @@
       "latestActivity": "2026-07-30T13:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
-      "link": "https://prized.dev",
-      "summary": "Hi HN, we're Marinos and Hudson, founders of Prized (https://prized.dev)! Prized lets non-engineer employees describe the internal tool they need and get a full-stack app, wired to…",
-      "publishedAt": "2026-07-30T13:29:03.000Z",
-      "image": "https://prized.dev/home/opengraph-image-eyav3z?0b910e42a33267fe",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T13:29:03.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Netflix pays $500 million to share 'The Walking Dead' streaming rights with AMC+",
-      "link": "https://www.engadget.com/2226910/netflix-pays-500-million-to-share-the-walking-dead-streaming-rights-with-amc-plus/",
-      "summary": "Netflix has ponied up a half billion dollars to extend its streaming rights to The Walking Dead and the show's six spinoffs.",
-      "publishedAt": "2026-07-30T13:22:14.000Z",
-      "image": "https://www.engadget.com/img/gallery/netflix-pays-500-million-to-share-the-walking-dead-streaming-rights-with-amc/l-intro-1785417571.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T13:22:14.000Z"
-    },
-    {
       "source": "Wired",
       "title": "DOGE Veterans Are Landing Big Jobs at Prediction Markets",
       "link": "https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/",
@@ -68,74 +434,12 @@
       "latestActivity": "2026-07-30T13:20:16.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-      "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-      "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-b…",
-      "publishedAt": "2026-07-30T13:09:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-austin-getty.jpg?resize=1200,788",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T13:09:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "RFC 8890 – The Internet is for End Users (2020)",
-      "link": "https://mnot.net/blog/2020/for_the_users",
-      "summary": "Article URL: https://mnot.net/blog/2020/for_the_users\nComments URL: https://news.ycombinator.com/item?id=49109474\nPoints: 21\n# Comments: 4",
-      "publishedAt": "2026-07-30T13:07:53.000Z",
-      "image": "https://mnot.net/personal/mn-round-256.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T13:07:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "link": "https://remysharp.com/links/2026-07-23-35890312",
-      "summary": "Article URL: https://remysharp.com/links/2026-07-23-35890312\nComments URL: https://news.ycombinator.com/item?id=49109440\nPoints: 112\n# Comments: 43",
-      "publishedAt": "2026-07-30T13:03:27.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T13:03:27.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Spotify adds a running mode to its app",
-      "link": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
-      "summary": "Running Mode will be available to Premium users on iOS in select countries",
+      "source": "Engadget",
+      "title": "Lego Pokémon Smart Play hands-on: A better way to build, train and battle",
+      "link": "https://www.engadget.com/2226876/lego-pokmon-smart-play-hands-on/",
+      "summary": "With its latest Smart Play sets, Lego managed put its own spin on one of the world's most popular franchises.",
       "publishedAt": "2026-07-30T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Spotify Running Mode helps match tunes to tempo",
-          "link": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
-          "publishedAt": "2026-07-30T13:00:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-30T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
-      "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-      "summary": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
-      "publishedAt": "2026-07-30T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/8e3fc3e6-ee92-464e-b17a-75ef982e6207.webp?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "publishedAt": "2026-07-30T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+      "image": "https://www.engadget.com/img/gallery/lego-pokmon-smart-play-hands-on-a-better-way-to-build-train-and-battle/l-intro-1785355986.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T13:00:00.000Z"
@@ -152,17 +456,6 @@
       "latestActivity": "2026-07-30T13:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Lego Pokémon Smart Play hands-on: A better way to build, train and battle",
-      "link": "https://www.engadget.com/2226876/lego-pokmon-smart-play-hands-on/",
-      "summary": "With its latest Smart Play sets, Lego managed put its own spin on one of the world's most popular franchises.",
-      "publishedAt": "2026-07-30T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/lego-pokmon-smart-play-hands-on-a-better-way-to-build-train-and-battle/l-intro-1785355986.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T13:00:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
       "link": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
@@ -172,94 +465,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
-      "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "summary": "Article URL: https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a\nComments URL: https://news.ycombinator.com/item?id=49109193\nPoints: 18\n# Comments: 7",
-      "publishedAt": "2026-07-30T12:38:51.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!mjvP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56d57314-dd6d-41df-9287-286251a8dbde_1143x704.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T12:38:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenJDK Interim Policy on Generative AI",
-      "link": "https://openjdk.org/legal/ai",
-      "summary": "Article URL: https://openjdk.org/legal/ai\nComments URL: https://news.ycombinator.com/item?id=49109165\nPoints: 41\n# Comments: 40",
-      "publishedAt": "2026-07-30T12:36:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T12:36:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Amazon’s short story collections are one of the best reasons to own a Kindle",
-      "link": "https://www.theverge.com/tech/972612/amazons-kindle-short-stories",
-      "summary": "Over the last few years, I've gradually shifted away from ebooks. It's been part of a general return to physical media, an attempt to create a deeper sense of ownership over the ar…",
-      "publishedAt": "2026-07-30T12:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25679990/247326_Amazon_Kindle_2024_AKrales_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T12:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Maingear introduces a new lineup of hidden-cable 'Zero' pre-built PCs",
-      "link": "https://www.engadget.com/2225859/maingear-introduces-new-lineup-of-hidden-cable-zero-pre-built-pcs/",
-      "summary": "If you're looking for a high-performance PC with that clean 'zero-cable' look, Maingear's new pre-built lineup that may suit you.",
-      "publishedAt": "2026-07-30T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/maingear-introduces-a-new-lineup-of-hidden-cable-zero-pre-built-pcs/l-intro-1785322207.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T12:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Nano Banana image generation comes to Google Earth",
-      "link": "https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/",
-      "summary": "Google Earth users can \"visualize the past\" via AI-created pictures.",
-      "publishedAt": "2026-07-30T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/nano-banana-image-generation-comes-to-google-earth/l-intro-1785351587.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T12:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why Don't People Use Formal Methods?",
-      "link": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
-      "summary": "Article URL: https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/\nComments URL: https://news.ycombinator.com/item?id=49109026\nPoints: 22\n# Comments: 12",
-      "publishedAt": "2026-07-30T12:21:34.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T12:21:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "How Old Is Ann?",
-      "link": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
-      "summary": "Article URL: https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/\nComments URL: https://news.ycombinator.com/item?id=49108971\nPoints: 18\n# Comments: 9",
-      "publishedAt": "2026-07-30T12:14:23.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T12:14:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What it means for an API to be RESTful",
-      "link": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
-      "summary": "Article URL: https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/\nComments URL: https://news.ycombinator.com/item?id=49108966\nPoints: 15\n# Comments: 15",
-      "publishedAt": "2026-07-30T12:13:46.000Z",
-      "image": "https://img.andros.dev/PpoZj44VINNfPQW-KtxiN0m8Bcc=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/OpenAI_Playground_2025-07-23_at_10.19.17.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T12:13:46.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -284,24 +489,6 @@
       "latestActivity": "2026-07-30T12:01:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera",
-      "link": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
-      "summary": "Like other recent DJI products, the Pocket 4P won’t launch in the US.\t\n\nDJI's Osmo Pocket 4P is a pretty simple proposition: an Osmo Pocket 4 with a second camera lens slapped insi…",
-      "publishedAt": "2026-07-30T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/dji-osmo-pocket-4p-06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "DJI Osmo Pocket 4P review: The best gimbal camera money can't buy",
-          "link": "https://www.engadget.com/2226364/dji-osmo-pocket-4p-review/",
-          "publishedAt": "2026-07-30T12:00:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-30T12:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "7 Best Shower Filters of 2026 Are WIRED-Tested and -Approved",
       "link": "https://www.wired.com/gallery/best-shower-water-filters/",
@@ -311,72 +498,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T11:33:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The spacecraft NASA sent to rescue the falling Swift observatory is in trouble",
-      "link": "https://www.engadget.com/2226863/nasa-swift-rescue-link-probe-in-trouble/",
-      "summary": "NASA sent a spacecraft called LINK to rescue a falling telescope, but it's now unclear if it can accomplish its mission.",
-      "publishedAt": "2026-07-30T11:31:06.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-spacecraft-nasa-sent-to-rescue-the-falling-swift-observatory-is-in-trouble/l-intro-1785410972.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T11:31:06.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "4 Best Budget Smartwatch Models for Less Than $250 (2026)",
-      "link": "https://www.wired.com/story/best-budget-smartwatch/",
-      "summary": "From fitness tracking to notifications, the best budget smartwatch can do a lot without costing a fortune.",
-      "publishedAt": "2026-07-30T11:01:00.000Z",
-      "image": "https://media.wired.com/photos/6a6a60e141202f6513ad3827/191:100/w_1280,c_limit/The-Best-Budget-Smartwatch-for-Saving-Money-Without-Sacrificing-Features.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T11:01:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "‘Spider-Man: Brand New Day’ Is a Superhero Movie for Yearners",
-      "link": "https://www.wired.com/story/spider-man-brand-new-day-is-a-superhero-movie-for-yearners/",
-      "summary": "Peter Parker’s isolation lands especially hard in the age of AI, a loneliness crisis, and endless scrolling.",
-      "publishedAt": "2026-07-30T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a6a2b3e4a743f1551e94dee/191:100/w_1280,c_limit/Spider-Man-Brand-New-Day-Culture-MCDSPMA_SP110.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Don’t Get Too Attached to Jimothy",
-      "link": "https://www.wired.com/story/dont-get-too-attached-to-jimothy/",
-      "summary": "Urban wildlife biologists say the stumpy raccoon seems to have adapted well to his environment and spinal condition—but his internet fame presents a new threat.",
-      "publishedAt": "2026-07-30T10:45:00.000Z",
-      "image": "https://media.wired.com/photos/6a69454b8979604d57f1d48c/191:100/w_1280,c_limit/Dont-Get-Attached-to-Jimothy-Culture%20(0-00-00-00).jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T10:45:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "SwitchBot makes a better fan",
-      "link": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
-      "summary": "SwitchBot Battery Circulator Fan 2 Pro is smart, powerful, and portable. | Image: SwitchBot\t\n\nI was already a big fan of SwitchBot's big circulator fan I recently reviewed, and now…",
-      "publishedAt": "2026-07-30T10:30:55.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T10:30:55.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
-      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companie…",
-      "publishedAt": "2026-07-30T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a6a949c602a98f3436cc897/191:100/w_1280,c_limit/Security_OpenAI%20Could%20Have%20Stopped%20Its%20Models%E2%80%99%20Hacking%20Spree_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T10:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -390,15 +511,15 @@
       "latestActivity": "2026-07-30T10:15:19.000Z"
     },
     {
-      "source": "Wired",
-      "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
-      "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-      "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
-      "publishedAt": "2026-07-30T10:15:00.000Z",
-      "image": "https://media.wired.com/photos/6a55499d3c32337c08be385d/191:100/w_1280,c_limit/How-LinkedIn-Is-Keeping-Compute-Capacity-Flat-Business-83077321.jpg",
+      "source": "VentureBeat",
+      "title": "NTT DATA AIVista and Snowflake: Identity alone won’t secure enterprise AI agents",
+      "link": "https://venturebeat.com/security/ntt-data-aivista-and-snowflake-identity-alone-wont-secure-enterprise-ai-agents",
+      "summary": "Presented by NTT DATA AIVista\n\nVentureBeat’s June research found that 69% of enterprises are still running AI agents that share credentials, a practice associated with higher rates…",
+      "publishedAt": "2026-07-30T07:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7Mr0ZepliBHFObtN0KIyfM/1934484c70aa2f41be0cc72847be19d7/2026-VB-Transform-Hotel-Nia-0616-X5.jpg?w=300&q=30",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-07-30T10:15:00.000Z"
+      "latestActivity": "2026-07-30T07:00:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -412,46 +533,6 @@
       "latestActivity": "2026-07-30T07:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "publishedAt": "2026-07-30T00:21:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T00:21:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf.\nOn Wednesday's Q2 2026 earnings call, CE…",
-      "publishedAt": "2026-07-29T21:48:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-          "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-          "publishedAt": "2026-07-29T23:00:11.000Z"
-        }
-      ],
-      "latestActivity": "2026-07-29T23:00:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the…",
-      "publishedAt": "2026-07-29T22:17:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T22:17:38.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
       "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
@@ -461,28 +542,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-29T22:07:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Qualcomm is raising phone chip prices starting September 1st",
-      "link": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
-      "summary": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday tha…",
-      "publishedAt": "2026-07-29T21:41:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T21:41:56.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave…",
-      "publishedAt": "2026-07-29T21:06:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T21:06:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -571,61 +630,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-29T17:58:44.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-      "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
-      "publishedAt": "2026-07-29T17:58:24.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255893185-2-1152x648-1785343633.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T17:58:24.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Yet more qubit tech: New quantum dot options, diamond vacancies ",
-      "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-      "summary": "Companies are making sure we have a surplus of options for building qubits.",
-      "publishedAt": "2026-07-29T17:37:47.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-3-1152x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T17:37:47.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
-      "link": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
-      "summary": "Nimble, a New York City-based tech startup VentureBeat previously covered for its efforts to re-invent web search for enterprises by using multiple AI agents to improve accuracy an…",
-      "publishedAt": "2026-07-29T17:32:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/LMGG5SRd4dH0XCVfsK7CW/9dcdae7394442bed7a247b99ce4bd63a/ChatGPT_Image_Jul_29__2026__12_16_53_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T17:32:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Target SVP says its real AI moat isn't the models — it's everything built around them",
-      "link": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
-      "summary": "Target SVP Siobhán Mc Feeney says the AI models her company runs aren't what gives Target its edge — everything built around them is.\n\"There's a lot in it. That to us is the moat,\"…",
-      "publishedAt": "2026-07-29T16:23:49.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5L3FFjrGS3YHz6AgPQ5PDn/b755c04a837f340688d3ae5d5cab8362/2026-VB-Transform-Hotel-Nia-0063.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T16:23:49.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
-      "link": "https://venturebeat.com/infrastructure/bright-machines-says-its-new-hybrid-robot-cell-could-help-solve-a-major-ai-infrastructure-bottleneck",
-      "summary": "Bright Machines wants to solve one of the least glamorous but most consequential problems in the AI buildout: what happens to quality data when a human being has to touch the produ…",
-      "publishedAt": "2026-07-29T13:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4BW1UfhS8AZ8zwwIO8c9bk/474a625015630699d6e2647a64f56cf0/Nuneybits_Vector_art_of_two_robotic_arms_pausing_as_a_technicia_b299b721-f12d-4e35-9fc7-ac2996d1f1a7.webp?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T13:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
