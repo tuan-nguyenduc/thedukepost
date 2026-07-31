@@ -1,6 +1,7 @@
 import { getCollection } from 'astro:content';
 import wireData from '../data/wire.json';
 import digestArchive from '../data/digest-archive.json';
+import { calculateReadingTime, formatReadingTime } from '../lib/readingTime';
 
 export async function GET() {
   const articles = (await getCollection('articles', ({ data }) => !data.draft))
@@ -11,6 +12,7 @@ export async function GET() {
       description: a.data.description,
       category: a.data.category,
       pubDate: a.data.pubDate.toISOString().slice(0, 10),
+      readingTime: formatReadingTime(calculateReadingTime(a.body)),
     }));
 
   const wire = wireData.items.map((item) => ({

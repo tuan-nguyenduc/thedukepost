@@ -25,6 +25,7 @@
     description: string;
     category: string;
     pubDate: string;
+    readingTime?: string;
   }
 
   const dialog = document.getElementById('search-palette') as HTMLDialogElement;
@@ -90,9 +91,8 @@
     status.textContent = `${items.length} result${items.length === 1 ? '' : 's'}`;
     resultsEl.innerHTML = items.map((item, i) => {
       const isWire = item.type === 'wire';
-      const eyebrow = escapeHtml(
-        isWire ? `Wire · ${item.category}` : item.type === 'newsletter' ? 'Newsletter' : categoryLabel(item.category)
-      );
+      const baseEyebrow = isWire ? `Wire · ${item.category}` : item.type === 'newsletter' ? 'Newsletter' : categoryLabel(item.category);
+      const eyebrow = escapeHtml(item.readingTime ? `${baseEyebrow} · ${item.readingTime}` : baseEyebrow);
       const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
       return `
         <li role="option" class="search-palette__item" data-index="${i}">

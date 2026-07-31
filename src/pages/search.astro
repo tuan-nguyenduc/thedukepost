@@ -34,6 +34,7 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     description: string;
     category: string;
     pubDate: string;
+    readingTime?: string;
   }
 
   const input = document.getElementById('search-input') as HTMLInputElement;
@@ -107,12 +108,13 @@ import { categoryHref, categoryLabel } from '../lib/categories';
         isWire ? `Wire · ${item.category}` : item.type === 'newsletter' ? 'Newsletter' : categoryLabel(item.category)
       );
       const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
+      const byline = item.readingTime ? `${item.pubDate} · ${item.readingTime}` : item.pubDate;
       return `
       <li class="result-item" role="option" data-index="${i}">
         <a href="${escapeHtml(item.link)}" class="result-card sticker"${linkAttrs}>
           <span class="result-meta">
             <span class="eyebrow">${eyebrow}</span>
-            <span class="byline">${escapeHtml(item.pubDate)}</span>
+            <span class="byline">${escapeHtml(byline)}</span>
           </span>
           <h2 class="result-title">${escapeHtml(item.title)}</h2>
           <p class="result-desc">${escapeHtml(item.description)}</p>
