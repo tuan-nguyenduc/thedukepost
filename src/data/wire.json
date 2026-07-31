@@ -1,16 +1,137 @@
 {
-  "syncedAt": "2026-07-30T23:10:21.838Z",
+  "syncedAt": "2026-07-31T03:16:07.838Z",
   "items": [
+    {
+      "source": "VentureBeat",
+      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+      "link": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+      "summary": "Days after OpenAI disclosed that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Face, OpenAI's top U.S. riv…",
+      "publishedAt": "2026-07-31T01:45:07.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/YbMldiuNLKbUKEJTmkq0I/3e4df5c2a5c019b6b9790ce71c9dcd6e/ChatGPT_Image_Jul_30__2026__09_12_49_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-31T01:45:07.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "publishedAt": "2026-07-31T01:24:26.000Z",
+      "image": "https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/191:100/w_1280,c_limit/Business_Claude-Escape.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-31T01:24:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "publishedAt": "2026-07-31T01:06:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-31T01:06:54.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
+      "link": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
+      "summary": "Just two weeks after Thinking Machines released Inkling, its first open source AI language model, the well-funded startup led by former OpenAI chief technology officer Mira Murati…",
+      "publishedAt": "2026-07-31T00:14:22.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7gMtExpXjcD7vdSrlrD5Af/f6e41d5d0d1248046f97c767e5d7aee4/ChatGPT_Image_Jul_30__2026__07_32_19_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-31T00:14:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Religion of Speed",
+      "link": "https://graybeard.ing/the-religion-of-speed/",
+      "summary": "Article URL: https://graybeard.ing/the-religion-of-speed/\nComments URL: https://news.ycombinator.com/item?id=49117284\nPoints: 17\n# Comments: 5",
+      "publishedAt": "2026-07-30T23:43:22.000Z",
+      "image": "/static/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T23:43:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+      "publishedAt": "2026-07-30T23:28:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-products-mac-iphone-watch.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T23:28:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "publishedAt": "2026-07-30T23:25:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?resize=1200,855",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T23:25:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The AI Aesthetic",
+      "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/\nComments URL: https://news.ycombinator.com/item?id=49117099\nPoints: 154\n# Comments: 73",
+      "publishedAt": "2026-07-30T23:22:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T23:22:16.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
+      "link": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
+      "summary": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may…",
+      "publishedAt": "2026-07-30T23:17:46.000Z",
+      "image": "https://media.wired.com/photos/6a6bd3709585cd0b1c9cc267/191:100/w_1280,c_limit/The-FCC-Is-Coming-for-Robot-Vacuums.-How-Soon-Will-It-Be-a-Problem-.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T23:17:46.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Reddit's CEO sure seems frustrated with Google's AI overviews",
+      "link": "https://www.engadget.com/2227553/reddit-s-ceo-sure-seems-frustrated-with-google-s-ai-overviews/",
+      "summary": "Amid rumors of Google breakup, Huffman says \"people don't want a summary of reddit, they want reddit.\"",
+      "publishedAt": "2026-07-30T23:09:07.000Z",
+      "image": "https://www.engadget.com/img/gallery/reddits-ceo-sure-seems-frustrated-with-googles-ai-overviews/l-intro-1785452768.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T23:09:07.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
       "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
       "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
       "publishedAt": "2026-07-30T23:08:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/reddit-in-brief.jpg?resize=1200,675",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T23:08:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\nComments URL: https://news.ycombinator.com/item?id=49116922\nPoints: 111\n# Comments: 91",
+      "publishedAt": "2026-07-30T23:00:51.000Z",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-30T23:00:51.000Z"
     },
     {
       "source": "Engadget",
@@ -49,7 +170,7 @@
       "source": "Hacker News",
       "title": "I flagged two research papers for fake authors and both were accepted as orals",
       "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "summary": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/\nComments URL: https://news.ycombinator.com/item?id=49116721\nPoints: 13\n# Comments: 0",
+      "summary": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/\nComments URL: https://news.ycombinator.com/item?id=49116721\nPoints: 106\n# Comments: 40",
       "publishedAt": "2026-07-30T22:33:11.000Z",
       "image": null,
       "sourceCount": 1,
@@ -93,7 +214,7 @@
       "source": "Hacker News",
       "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
       "link": "https://rune.build/blog/rune-1-1-release",
-      "summary": "Article URL: https://rune.build/blog/rune-1-1-release\nComments URL: https://news.ycombinator.com/item?id=49116272\nPoints: 15\n# Comments: 4",
+      "summary": "Article URL: https://rune.build/blog/rune-1-1-release\nComments URL: https://news.ycombinator.com/item?id=49116272\nPoints: 53\n# Comments: 18",
       "publishedAt": "2026-07-30T21:47:31.000Z",
       "image": "https://rune.build/images/og4.png",
       "sourceCount": 1,
@@ -211,23 +332,12 @@
       "latestActivity": "2026-07-30T20:12:25.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "publishedAt": "2026-07-30T19:44:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/Friend.jpg?w=523",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T19:44:16.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
       "link": "https://github.com/AminBlg/SimpleEnglish",
-      "summary": "Article URL: https://github.com/AminBlg/SimpleEnglish\nComments URL: https://news.ycombinator.com/item?id=49114639\nPoints: 100\n# Comments: 37",
+      "summary": "Article URL: https://github.com/AminBlg/SimpleEnglish\nComments URL: https://news.ycombinator.com/item?id=49114639\nPoints: 227\n# Comments: 84",
       "publishedAt": "2026-07-30T19:34:27.000Z",
-      "image": "https://opengraph.githubassets.com/f88faec54805dd18ed56c430e2f71e086817b4d319cdbe1ec1d8b727a4721aa8/AminBlg/SimpleEnglish",
+      "image": "https://opengraph.githubassets.com/7c728369ae655fda4a14442e18bb19cc9bb741fb7a97fa0bc05cd0389573d793/AminBlg/SimpleEnglish",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T19:34:27.000Z"
@@ -242,17 +352,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to…",
-      "publishedAt": "2026-07-30T18:57:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T18:57:58.000Z"
     },
     {
       "source": "The Verge",
@@ -288,28 +387,6 @@
       "latestActivity": "2026-07-30T18:40:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Making Postgres queues scale",
-      "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-      "summary": "Article URL: https://www.dbos.dev/blog/making-postgres-queues-scale\nComments URL: https://news.ycombinator.com/item?id=49113913\nPoints: 94\n# Comments: 21",
-      "publishedAt": "2026-07-30T18:39:32.000Z",
-      "image": "https://cdn.prod.website-files.com/672411cbf038560468c9e68f/6a1e552a2351abeae742f544_Use-Postgres-for-Queueing-at-Scale.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T18:39:32.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-      "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-      "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
-      "publishedAt": "2026-07-30T18:38:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/06/Joby-Aviation-Production-Prototype.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T18:38:12.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Should you avoid TP-Link routers? Here's what to know",
       "link": "https://www.engadget.com/2222997/should-you-stay-away-from-tp-link-routers-what-to-know/",
@@ -332,28 +409,6 @@
       "latestActivity": "2026-07-30T18:20:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "summary": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 1…",
-      "publishedAt": "2026-07-30T18:13:06.000Z",
-      "image": "https://cdn.prod.website-files.com/67c5c67a4c758597bd28fafd/6a69e158f9fd4e8b99da4607_OG%20Card-selection.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T18:13:06.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Leaked Pixel 11 Pro Fold photos also include mysterious new camera bar feature",
-      "link": "https://www.engadget.com/2227282/leaked-google-pixel-11-pro-fold-photos-new-camera-bar-feature/",
-      "summary": "Google's next foldable doesn't look all that different, save for the camera bar.",
-      "publishedAt": "2026-07-30T18:07:17.000Z",
-      "image": "https://www.engadget.com/img/gallery/leaked-pixel-11-pro-fold-photos-also-include-mysterious-new-camera-bar-feature/l-intro-1785434686.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T18:07:17.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
       "link": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
@@ -363,17 +418,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T18:01:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "CodePen 2.0",
-      "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-      "summary": "Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/\nComments URL: https://news.ycombinator.com/item?id=49113338\nPoints: 106\n# Comments: 27",
-      "publishedAt": "2026-07-30T17:52:51.000Z",
-      "image": "https://jetpack.com/redirect/?source=sigenerate&#038;query=t%3DeyJpbWciOiJodHRwczpcL1wvY2hyaXNjb3lpZXIubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI2XC8wN1wvU2NyZWVuc2hvdC0yMDI2LTA3LTMwLWF0LTEwLjUwLjE2LUFNLTEwMjR4NzMzLnBuZyIsInR4dCI6ImhlY2sgb2YgYSBtaWxlc3RvbmUiLCJ0ZW1wbGF0ZSI6ImZ1bGxzY3JlZW4iLCJmb250IjoiaGstZ3JvdGVzayIsImJsb2dfaWQiOjc0MDc0MjQ4fQ.P6Hbp7rquqmLWIsA_oxNfRdjG4Q-3_hwgX2HJieuB_wMQ",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T17:52:51.000Z"
     },
     {
       "source": "Wired",
@@ -464,17 +508,6 @@
       "latestActivity": "2026-07-30T16:29:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The New Friend AI Pendant Can Now Talk Back to You",
-      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
-      "publishedAt": "2026-07-30T16:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a6a649d6a06c49f95fa2cca/191:100/w_1280,c_limit/CAR.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T16:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Quantum computers outperform classical ones, with results you can trust",
       "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
@@ -484,17 +517,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T15:59:37.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
-      "publishedAt": "2026-07-30T15:04:22.000Z",
-      "image": "https://media.wired.com/photos/6a6a8a2bd6b54781fab7d961/191:100/w_1280,c_limit/Google-Trying-to-Bring-AI-Into-Physical-World-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T15:04:22.000Z"
     },
     {
       "source": "Ars Technica",
@@ -542,17 +564,6 @@
     },
     {
       "source": "VentureBeat",
-      "title": "NTT DATA AIVista and Snowflake: Identity alone won’t secure enterprise AI agents",
-      "link": "https://venturebeat.com/security/ntt-data-aivista-and-snowflake-identity-alone-wont-secure-enterprise-ai-agents",
-      "summary": "Presented by NTT DATA AIVista\n\nVentureBeat’s June research found that 69% of enterprises are still running AI agents that share credentials, a practice associated with higher rates…",
-      "publishedAt": "2026-07-30T07:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7Mr0ZepliBHFObtN0KIyfM/1934484c70aa2f41be0cc72847be19d7/2026-VB-Transform-Hotel-Nia-0616-X5.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T07:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
       "title": "Companies are finally seeing AI ROI — and now they know how much more value it can deliver",
       "link": "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
       "summary": "Presented by SAP\n\nEnterprise AI has moved from experiment to execution, and that shift is beginning to show real returns. The SAP Value of AI Report 2026, produced with Oxford Econ…",
@@ -583,17 +594,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-29T20:57:35.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "At Waymo, an AI project isn't ready until its evals are — not when the model performs well",
-      "link": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well",
-      "summary": "Few companies face higher stakes when deploying AI than Waymo, the self-driving car company under Alphabet that spun out of Google. Its models do not merely generate text or automa…",
-      "publishedAt": "2026-07-29T20:40:15.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5QjhQNrDDK6m9sdiOOTFUW/f1d7121244a639530f9fbeba15cb49d5/2026-VB-Transform-Hotel-Nia-0351.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T20:40:15.000Z"
     },
     {
       "source": "Ars Technica",
