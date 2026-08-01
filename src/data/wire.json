@@ -1,6 +1,127 @@
 {
-  "syncedAt": "2026-08-01T06:31:47.543Z",
+  "syncedAt": "2026-08-01T10:01:42.806Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Alienware 15 Gaming Laptop Review: Hedging Its Bets",
+      "link": "https://www.wired.com/review/alienware-15-gaming-laptop/",
+      "summary": "There are both cheaper and more powerful entry-level gaming laptops out there, but the Alienware 15 walks that tightrope between price and quality.",
+      "publishedAt": "2026-08-01T09:31:00.000Z",
+      "image": "https://media.wired.com/photos/6a6d42512800a81073f2596e/191:100/w_1280,c_limit/Review--Alienware-15-Gaming-Laptop.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T09:31:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "publishedAt": "2026-08-01T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a6d14b8b61d0975176f3aa8/191:100/w_1280,c_limit/Security_The%20OpenAI%20and%20Anthropic%20Hacking%20Sprees%20May%20Have%20Legal%20Consequences_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T09:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Astronomers Have Detected an Exomoon for the First Time",
+      "link": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
+      "summary": "A discovery in a solar system 73 light-years from Earth is challenging definitions and “blurring the lines between stars, planets, and moons.”",
+      "publishedAt": "2026-08-01T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a6be31e5abc2a8fa7b821ac/191:100/w_1280,c_limit/eso2610a.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Simon Willison on DeepSeek-V4-Flash-0731",
+      "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/\nComments URL: https://news.ycombinator.com/item?id=49132468\nPoints: 11\n# Comments: 4",
+      "publishedAt": "2026-08-01T08:49:50.000Z",
+      "image": "https://static.simonwillison.net/static/2026/deepseek-flash-chart.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T08:49:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "RamenHaus",
+      "link": "https://ramen.haus/",
+      "summary": "Article URL: https://ramen.haus/\nComments URL: https://news.ycombinator.com/item?id=49132460\nPoints: 63\n# Comments: 18",
+      "publishedAt": "2026-08-01T08:48:58.000Z",
+      "image": "https://ramen.haus/wp-content/uploads/kaunta-seki-social/bowl-674-d04272065680.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T08:48:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to Do Great Work",
+      "link": "https://paulgraham.com/greatwork.html",
+      "summary": "Article URL: https://paulgraham.com/greatwork.html\nComments URL: https://news.ycombinator.com/item?id=49132289\nPoints: 9\n# Comments: 1",
+      "publishedAt": "2026-08-01T08:19:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T08:19:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI doesn't generate working products, that's still your job",
+      "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/\nComments URL: https://news.ycombinator.com/item?id=49132130\nPoints: 42\n# Comments: 19",
+      "publishedAt": "2026-08-01T07:52:10.000Z",
+      "image": "https://weeraman.com/images/the-prototype-isnt-the-product/the-prototype-isnt-the-product.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T07:52:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Solid Queue 1.6.0 now supports fiber workers",
+      "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+      "summary": "Article URL: https://github.com/rails/solid_queue/releases/tag/v1.6.0\nComments URL: https://news.ycombinator.com/item?id=49132083\nPoints: 13\n# Comments: 0",
+      "publishedAt": "2026-08-01T07:42:08.000Z",
+      "image": "https://opengraph.githubassets.com/a76c8f15f77d023fba1cb46bbf1d97ecb78b623081adc1ccdbcdcae101eea58b/rails/solid_queue/releases/tag/v1.6.0",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T07:42:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "link": "https://openai.com/index/ten-advances-in-mathematics/",
+      "summary": "Article URL: https://openai.com/index/ten-advances-in-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49132058\nPoints: 93\n# Comments: 77",
+      "publishedAt": "2026-08-01T07:37:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T07:37:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI's work on Git for large repositories",
+      "link": "https://openai-git-upstream.openai.chatgpt.site/",
+      "summary": "Article URL: https://openai-git-upstream.openai.chatgpt.site/\nComments URL: https://news.ycombinator.com/item?id=49131737\nPoints: 9\n# Comments: 1",
+      "publishedAt": "2026-08-01T06:41:12.000Z",
+      "image": "https://openai-git-upstream.openai.chatgpt.site/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T06:41:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "summary": "Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/\nComments URL: https://news.ycombinator.com/item?id=49131367\nPoints: 90\n# Comments: 83",
+      "publishedAt": "2026-08-01T05:38:16.000Z",
+      "image": "https://nascompares.com/wp-content/uploads/2026/07/nas-enshitification-why-NAS-is-getting-worse-2026-nascompares.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T05:38:16.000Z"
+    },
     {
       "source": "Wired",
       "title": "Paramount+ Coupon Codes and Deals for August 2026",
@@ -52,39 +173,6 @@
       "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
       "publishedAt": "2026-08-01T05:00:00.000Z",
       "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "30% Off Canon Promo Codes | August 2026",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August.",
-      "publishedAt": "2026-08-01T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Chewy Promo Codes: $20 Off August 2026",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.",
-      "publishedAt": "2026-08-01T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Dell Coupon Codes: 20% Off for August 2026",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "publishedAt": "2026-08-01T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/191:100/w_1280,c_limit/WIRED-Coupons-16.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-01T05:00:00.000Z"
