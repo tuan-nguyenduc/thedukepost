@@ -1,6 +1,28 @@
 {
-  "syncedAt": "2026-07-31T23:03:31.365Z",
+  "syncedAt": "2026-08-01T03:14:24.733Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "How to Exist",
+      "link": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "summary": "Article URL: https://www.raptitude.com/2026/07/how-to-exist/\nComments URL: https://news.ycombinator.com/item?id=49129990\nPoints: 42\n# Comments: 13",
+      "publishedAt": "2026-08-01T00:25:00.000Z",
+      "image": "https://www.raptitude.com/wp-content/uploads/2026/07/coffeeexist.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T00:25:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
+      "link": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
+      "summary": "The impact will kick up a plume of debris so high, it’ll likely be visible through some telescopes. Astronomers will be watching.",
+      "publishedAt": "2026-07-31T23:38:56.000Z",
+      "image": "https://media.wired.com/photos/6a6ce4d0afbe242a6bbbf131/191:100/w_1280,c_limit/GettyImages-2287699812.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-31T23:38:56.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -49,7 +71,7 @@
       "source": "TechCrunch",
       "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
       "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
       "publishedAt": "2026-07-31T22:00:08.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?resize=1200,800",
       "sourceCount": 1,
@@ -71,12 +93,23 @@
       "source": "Ars Technica",
       "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
       "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-      "summary": "The term \"Milwaukee Should Syndrome\" was coined in 1981, based on cases in four women.",
+      "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
       "publishedAt": "2026-07-31T21:51:52.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/nejmicm2601847_f1-640x366.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-31T21:51:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+      "link": "https://code.intellios.ai/cwbrowser/",
+      "summary": "Article URL: https://code.intellios.ai/cwbrowser/\nComments URL: https://news.ycombinator.com/item?id=49128826\nPoints: 45\n# Comments: 19",
+      "publishedAt": "2026-07-31T21:39:52.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-07-31T21:39:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -148,7 +181,7 @@
       "source": "Hacker News",
       "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
       "link": "https://arxiv.org/abs/2607.28233",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28233\nComments URL: https://news.ycombinator.com/item?id=49128323\nPoints: 18\n# Comments: 10",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28233\nComments URL: https://news.ycombinator.com/item?id=49128323\nPoints: 42\n# Comments: 17",
       "publishedAt": "2026-07-31T20:44:29.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
@@ -167,17 +200,6 @@
       "latestActivity": "2026-07-31T20:39:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: How to build and self-host a code review agent",
-      "link": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
-      "summary": "Hey HN,\nI've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, H…",
-      "publishedAt": "2026-07-31T20:27:28.000Z",
-      "image": "https://trytilde.ai/api/media/file/how%20to%20build%20a%20code%20review%20agent%20OG-1200x630.png?prefix=payload-media",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-31T20:27:28.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
       "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
@@ -192,7 +214,7 @@
       "source": "Hacker News",
       "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
       "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "summary": "https://github.com/jwlaboratory/bite-the-bullet\nComments URL: https://news.ycombinator.com/item?id=49127874\nPoints: 15\n# Comments: 1",
+      "summary": "https://github.com/jwlaboratory/bite-the-bullet\nComments URL: https://news.ycombinator.com/item?id=49127874\nPoints: 33\n# Comments: 3",
       "publishedAt": "2026-07-31T19:55:41.000Z",
       "image": null,
       "sourceCount": 1,
@@ -302,7 +324,7 @@
       "source": "Hacker News",
       "title": "Tailscale didn't stop the Hugging Face intrusion",
       "link": "https://tailscale.com/blog/hugging-face-intrusion",
-      "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion\nComments URL: https://news.ycombinator.com/item?id=49127306\nPoints: 319\n# Comments: 127",
+      "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion\nComments URL: https://news.ycombinator.com/item?id=49127306\nPoints: 478\n# Comments: 188",
       "publishedAt": "2026-07-31T19:03:45.000Z",
       "image": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af",
       "sourceCount": 1,
@@ -324,9 +346,9 @@
       "source": "Hacker News",
       "title": "Golang proposal: container/: generic collection types",
       "link": "https://github.com/golang/go/issues/80590",
-      "summary": "Article URL: https://github.com/golang/go/issues/80590\nComments URL: https://news.ycombinator.com/item?id=49127031\nPoints: 97\n# Comments: 53",
+      "summary": "Article URL: https://github.com/golang/go/issues/80590\nComments URL: https://news.ycombinator.com/item?id=49127031\nPoints: 129\n# Comments: 78",
       "publishedAt": "2026-07-31T18:39:47.000Z",
-      "image": "https://opengraph.githubassets.com/e683c85581a19cfa8f583d333e6b87eea9243bdc1aed936309da1b2fe13604ad/golang/go/issues/80590",
+      "image": "https://opengraph.githubassets.com/f7ff29710358cbe41d0bbf1c9a5672f108c377c914ab855eb35aa7605c73b2ff/golang/go/issues/80590",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-31T18:39:47.000Z"
@@ -346,7 +368,7 @@
       "source": "Hacker News",
       "title": "Using the railway network as a flatbed scanner [video]",
       "link": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "summary": "Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner\nComments URL: https://news.ycombinator.com/item?id=49126919\nPoints: 39\n# Comments: 2…",
+      "summary": "Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner\nComments URL: https://news.ycombinator.com/item?id=49126919\nPoints: 56\n# Comments: 2…",
       "publishedAt": "2026-07-31T18:30:44.000Z",
       "image": "https://static.media.ccc.de/media/events/emf/2026/7401-a5fdc3db-2879-551b-80b1-fd11f5a1ae73_preview.jpg",
       "sourceCount": 1,
@@ -363,17 +385,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-31T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Termixer (TUI DJ Mixer)",
-      "link": "https://github.com/l00sed/termixer",
-      "summary": "Article URL: https://github.com/l00sed/termixer\nComments URL: https://news.ycombinator.com/item?id=49126883\nPoints: 42\n# Comments: 31",
-      "publishedAt": "2026-07-31T18:28:08.000Z",
-      "image": "https://opengraph.githubassets.com/dc55eff2760e8cde24b6b577cbacdadf323edaf0f90870302a9736d25ab2d63d/l00sed/termixer",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-31T18:28:08.000Z"
     },
     {
       "source": "The Verge",
@@ -550,17 +561,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-31T12:01:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "6 Best Phones With Headphone Jacks (2026), Tested and Reviewed",
-      "link": "https://www.wired.com/gallery/best-headphone-jack-phones/",
-      "summary": "Headphone jacks are endangered, but they’re not gone. Here are our favorite smartphones that still let you plug and play.",
-      "publishedAt": "2026-07-31T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6823e30edca726f818b163e9/191:100/w_1280,c_limit/The-Best-Phones-With-an-Actual-Headphone-Jack_052025_Lede.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-31T11:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
