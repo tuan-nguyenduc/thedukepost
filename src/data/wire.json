@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-08-01T20:55:59.222Z",
+  "syncedAt": "2026-08-01T22:57:06.999Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "From MIT: AI financial advice is surprisingly good",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\nComments URL: https://news.ycombinator.com/it…",
+      "publishedAt": "2026-08-01T22:25:12.000Z",
+      "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&itok=Zfv-5Ys6",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T22:25:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to…",
+      "publishedAt": "2026-08-01T21:31:24.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T21:31:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "summary": "How one founder house is betting work-life balance can beat burnout .",
+      "publishedAt": "2026-08-01T21:14:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/LIFT-tour-1.jpg?resize=1200,909",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T21:14:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Seedance 2.5",
+      "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5\nComments URL: https://news.ycombinator.com/item?id=49138302\nPoints:…",
+      "publishedAt": "2026-08-01T20:45:12.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T20:45:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Diátaxis",
+      "link": "https://diataxis.fr/",
+      "summary": "Article URL: https://diataxis.fr/\nComments URL: https://news.ycombinator.com/item?id=49138188\nPoints: 85\n# Comments: 10",
+      "publishedAt": "2026-08-01T20:33:27.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T20:33:27.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Judge refuses xAI's request to stop a Minnesota law banning 'nudify' apps",
@@ -20,6 +75,17 @@
       "latestActivity": "2026-08-01T20:26:04.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "The Silicon Valley Founder Meat Grinder",
+      "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+      "summary": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/\nComments URL: https://news.ycombinator.com/item?id=49138045\nPoints: 168\n# Comments: 101",
+      "publishedAt": "2026-08-01T20:20:58.000Z",
+      "image": "https://zaksa.zip/images/share.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T20:20:58.000Z"
+    },
+    {
       "source": "The Verge",
       "title": "Angela Nissel faces down grief with a laugh",
       "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
@@ -29,17 +95,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-01T20:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-      "link": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-      "summary": "Article URL: https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose\nComments URL: https://news.ycombinator.com/item?id=49137904\nPoints: 11\n# Comments: 4",
-      "publishedAt": "2026-08-01T20:07:39.000Z",
-      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f337127b-b7da-4c04-ba43-86e2dc9d771e/Cookware_card_1200_630.png?t=1784049693",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T20:07:39.000Z"
     },
     {
       "source": "TechCrunch",
@@ -56,7 +111,7 @@
       "source": "Hacker News",
       "title": "But can your calculator run Linux?",
       "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html\nComments URL: https://news.ycombinator.com/item?id=49137713\nPoints: 14\n# Comments: 0",
+      "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html\nComments URL: https://news.ycombinator.com/item?id=49137713\nPoints: 41\n# Comments: 4",
       "publishedAt": "2026-08-01T19:44:48.000Z",
       "image": null,
       "sourceCount": 1,
@@ -65,53 +120,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Google News is just Forrest Gump's shrimp boat now",
-      "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-      "summary": "Article URL: https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now\nComments URL: https://news.ycombinator.com/item?id=49137681\nPoints: 136\n# Comments: 80",
-      "publishedAt": "2026-08-01T19:39:43.000Z",
-      "image": "https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3491244/BUNwHH9o9AR3FIEUbLdtNnOiMno/large_forrest-gump-shrimp-boat-jenny.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T19:39:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Get ready to flee, Americans in ten countries warned",
-      "link": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
-      "summary": "Article URL: https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html\nComments URL: https://news.ycombinator.com/item?id=49137503\nPo…",
-      "publishedAt": "2026-08-01T19:18:46.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T19:18:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Cockpit for you Claude Code agents in Rust",
-      "link": "https://episko.dev/",
-      "summary": "Hi everyone!\nHope you had a great day so far, and maybe its about to get just a little bit better (thanks Winter ;)\nSo I had way to many terminal windows flying about when using Cl…",
-      "publishedAt": "2026-08-01T19:09:15.000Z",
-      "image": "https://episko.dev/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T19:09:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
-      "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
-      "summary": "Article URL: https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf\nComments URL: https://news.ycombinator.com/item?id=49137320\nPoints: 8\n# Comments: 1",
-      "publishedAt": "2026-08-01T18:59:35.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T18:59:35.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "CISA Alert: Water Sector PLC Targeting",
       "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-      "summary": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/\nComments URL: https://news.ycombinator.com/item?id=49137228\nPoints: 12\n# Comments: 0",
+      "summary": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/\nComments URL: https://news.ycombinator.com/item?id=49137228\nPoints: 36\n# Comments: 20",
       "publishedAt": "2026-08-01T18:50:17.000Z",
       "image": "https://censys.com/wp-content/uploads/ChatGPT-Image-Jul-30-2026-05_55_24-PM.png",
       "sourceCount": 1,
@@ -133,7 +144,7 @@
       "source": "Hacker News",
       "title": "Postmortem for Kernel Soundness Bug #14576",
       "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "summary": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/\nComments URL: https://news.ycombinator.com/item?id=49137060\nPoints: 69\n# Comments…",
+      "summary": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/\nComments URL: https://news.ycombinator.com/item?id=49137060\nPoints: 94\n# Comments…",
       "publishedAt": "2026-08-01T18:32:20.000Z",
       "image": null,
       "sourceCount": 1,
@@ -150,6 +161,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-01T18:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "link": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+      "summary": "Article URL: https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets\nComments URL: https://news.ycombinator.com/item?id=49136955\nPoints: 26\n# Commen…",
+      "publishedAt": "2026-08-01T18:21:41.000Z",
+      "image": "https://framerusercontent.com/images/QzYGhNgh0IQIDoXeiClgcslk6c.svg?width=1200&height=630",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-01T18:21:41.000Z"
     },
     {
       "source": "Ars Technica",
@@ -328,17 +350,6 @@
       "latestActivity": "2026-08-01T14:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "What’s the best handheld mini fan?",
-      "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
-      "publishedAt": "2026-08-01T13:36:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/mini-fans-review.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T13:36:54.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "You could be taking way better photos on your phone",
       "link": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
@@ -370,17 +381,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-01T12:30:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The OG reading app just got a big update",
-      "link": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old e…",
-      "publishedAt": "2026-08-01T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-138.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T12:00:00.000Z"
     },
     {
       "source": "Wired",
