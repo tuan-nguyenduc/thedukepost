@@ -1,16 +1,93 @@
 {
-  "syncedAt": "2026-08-01T22:57:06.999Z",
+  "syncedAt": "2026-08-02T03:14:23.654Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "From MIT: AI financial advice is surprisingly good",
-      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\nComments URL: https://news.ycombinator.com/it…",
-      "publishedAt": "2026-08-01T22:25:12.000Z",
-      "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&itok=Zfv-5Ys6",
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "link": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "summary": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/\nComments URL: https://news.ycombinator.com/item?id=49140487\nPoints: 5\n# Comments:…",
+      "publishedAt": "2026-08-02T02:26:52.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-01T22:25:12.000Z"
+      "latestActivity": "2026-08-02T02:26:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "link": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox\nComments URL: https://news.ycombinator.com/item?id=49140396\nPoints: 22\n# Comments: 3",
+      "publishedAt": "2026-08-02T02:07:09.000Z",
+      "image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1273630842/ba5b1ec0-8a28-46a3-8cf1-5c6983b3c336?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T031413Z&X-Amz-Expires=300&X-Amz-Signature=27da652b3819d9dcdfaabfa6cb62b3ad78511fa6487e91fdb943954cc859fe6d&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY0MDc1MywibmJmIjoxNzg1NjQwNDUzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.GQ6sCCS7Lwr1NnfUMqptoKDTWnNeeUPsZ0QzaK4XRt8",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T02:07:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Go 1.27 Interactive Tour",
+      "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "summary": "Article URL: https://victoriametrics.com/blog/go-1-27/index.html\nComments URL: https://news.ycombinator.com/item?id=49140218\nPoints: 50\n# Comments: 8",
+      "publishedAt": "2026-08-02T01:35:51.000Z",
+      "image": "https://victoriametrics.com/blog/go-1-27/preview.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T01:35:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "summary": "Article URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/\nComments URL: https://news.ycombinator.com/item?id=49140213\nPoints: 17\n# Comments: 1",
+      "publishedAt": "2026-08-02T01:35:11.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T01:35:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "link": "https://zenodo.org/records/21753002",
+      "summary": "Article URL: https://zenodo.org/records/21753002\nComments URL: https://news.ycombinator.com/item?id=49140080\nPoints: 7\n# Comments: 2",
+      "publishedAt": "2026-08-02T01:01:45.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T01:01:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Walsh: Multi-agent research pipeline with risk manager that can veto trades",
+      "link": "https://github.com/ats4321/walsh",
+      "summary": "Article URL: https://github.com/ats4321/walsh\nComments URL: https://news.ycombinator.com/item?id=49139865\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-08-02T00:13:52.000Z",
+      "image": "https://opengraph.githubassets.com/8647218c6d9f4879784db9259e2ab5c0b9e1fe4e2aebc540637bb8cf2cc39f84/ats4321/walsh",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T00:13:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "link": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+      "summary": "Article URL: https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/\nComments URL: https://news.ycombinator.com/item?id=49139826\nPoints:…",
+      "publishedAt": "2026-08-02T00:06:25.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T00:06:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
+      "link": "https://wwnorton.com/books/9781324051299",
+      "summary": "Article URL: https://wwnorton.com/books/9781324051299\nComments URL: https://news.ycombinator.com/item?id=49139796\nPoints: 8\n# Comments: 2",
+      "publishedAt": "2026-08-02T00:01:46.000Z",
+      "image": "https://cdn2.wwnorton.com/wwnproducts/TRADE/9/9/9781324051299/9781324051299_300.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T00:01:46.000Z"
     },
     {
       "source": "The Verge",
@@ -35,28 +112,6 @@
       "latestActivity": "2026-08-01T21:14:48.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Seedance 2.5",
-      "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5\nComments URL: https://news.ycombinator.com/item?id=49138302\nPoints:…",
-      "publishedAt": "2026-08-01T20:45:12.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T20:45:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Diátaxis",
-      "link": "https://diataxis.fr/",
-      "summary": "Article URL: https://diataxis.fr/\nComments URL: https://news.ycombinator.com/item?id=49138188\nPoints: 85\n# Comments: 10",
-      "publishedAt": "2026-08-01T20:33:27.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T20:33:27.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Judge refuses xAI's request to stop a Minnesota law banning 'nudify' apps",
       "link": "https://www.engadget.com/2228460/judge-refuses-xai-request-to-stop-minnesota-law-banning-nudify-apps/",
@@ -73,17 +128,6 @@
         }
       ],
       "latestActivity": "2026-08-01T20:26:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Silicon Valley Founder Meat Grinder",
-      "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-      "summary": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/\nComments URL: https://news.ycombinator.com/item?id=49138045\nPoints: 168\n# Comments: 101",
-      "publishedAt": "2026-08-01T20:20:58.000Z",
-      "image": "https://zaksa.zip/images/share.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T20:20:58.000Z"
     },
     {
       "source": "The Verge",
@@ -108,28 +152,6 @@
       "latestActivity": "2026-08-01T19:45:45.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "But can your calculator run Linux?",
-      "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html\nComments URL: https://news.ycombinator.com/item?id=49137713\nPoints: 41\n# Comments: 4",
-      "publishedAt": "2026-08-01T19:44:48.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T19:44:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "CISA Alert: Water Sector PLC Targeting",
-      "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-      "summary": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/\nComments URL: https://news.ycombinator.com/item?id=49137228\nPoints: 36\n# Comments: 20",
-      "publishedAt": "2026-08-01T18:50:17.000Z",
-      "image": "https://censys.com/wp-content/uploads/ChatGPT-Image-Jul-30-2026-05_55_24-PM.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T18:50:17.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Should you still buy your next smartphone — or subscribe to it instead?",
       "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
@@ -141,17 +163,6 @@
       "latestActivity": "2026-08-01T18:47:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "summary": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/\nComments URL: https://news.ycombinator.com/item?id=49137060\nPoints: 94\n# Comments…",
-      "publishedAt": "2026-08-01T18:32:20.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T18:32:20.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "What Is USB Tethering And How Do You Enable It For Mobile Hotspot?",
       "link": "https://www.engadget.com/2225903/what-is-usb-tethering-how-enable-for-mobile-hotspot/",
@@ -161,17 +172,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-01T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-      "link": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-      "summary": "Article URL: https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets\nComments URL: https://news.ycombinator.com/item?id=49136955\nPoints: 26\n# Commen…",
-      "publishedAt": "2026-08-01T18:21:41.000Z",
-      "image": "https://framerusercontent.com/images/QzYGhNgh0IQIDoXeiClgcslk6c.svg?width=1200&height=630",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T18:21:41.000Z"
     },
     {
       "source": "Ars Technica",
