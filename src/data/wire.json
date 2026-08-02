@@ -1,6 +1,39 @@
 {
-  "syncedAt": "2026-08-02T20:57:57.219Z",
+  "syncedAt": "2026-08-02T22:58:11.521Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+      "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+      "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/\nComments URL: https://news.ycombinator.com/item…",
+      "publishedAt": "2026-08-02T22:16:34.000Z",
+      "image": "https://media.nbcsandiego.com/2026/07/drop-website-1.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T22:16:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+      "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+      "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Ha…",
+      "publishedAt": "2026-08-02T21:53:15.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/rachika-nayar.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T21:53:15.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The global memory shortage hits the MacBook Air",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "publishedAt": "2026-08-02T21:33:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/macbook-air-2024-update.png?resize=1200,618",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T21:33:59.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Sam Altman and AI’s decel debate",
@@ -14,25 +47,80 @@
     },
     {
       "source": "Hacker News",
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "link": "https://frogs.vaguespac.es/",
-      "summary": "Article URL: https://frogs.vaguespac.es/\nComments URL: https://news.ycombinator.com/item?id=49147622\nPoints: 22\n# Comments: 11",
-      "publishedAt": "2026-08-02T19:42:08.000Z",
-      "image": "https://frogs.vaguespac.es/og.png",
+      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+      "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+      "summary": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/\nComments URL: https://news.ycombinator.com/item?id=49148128\nPoints: 75\n# Comments…",
+      "publishedAt": "2026-08-02T20:44:24.000Z",
+      "image": "https://linuxiac.com/wp-content/uploads/2026/08/eu-digital-identity.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-02T19:42:08.000Z"
+      "latestActivity": "2026-08-02T20:44:24.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "EU rules on AI models become enforceable. What's going to change?",
-      "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change\nComments URL: https://news.ycombinator.com/item?id=4914760…",
-      "publishedAt": "2026-08-02T19:40:19.000Z",
-      "image": "https://images.euronews.com/articles/stories/09/85/74/44/1200x675_cmsv2_b29bb7fe-1f9b-589f-875a-c78ca851d748-9857444.jpg",
+      "title": "Show HN: Make your Framework 12 sound like a creaky door",
+      "link": "https://github.com/ArcaEge/creakwork12",
+      "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (htt…",
+      "publishedAt": "2026-08-02T20:33:01.000Z",
+      "image": "https://opengraph.githubassets.com/7e93a299a5ff5a2d55d67330e147692facce13e1602faa4fa9e96ca71ff7cbf1/ArcaEge/creakwork12",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-02T19:40:19.000Z"
+      "latestActivity": "2026-08-02T20:33:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+      "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+      "summary": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/\nComments URL: https://news.ycombinator.com/item?id=49147978\nPoints: 21\n# Comments: 5",
+      "publishedAt": "2026-08-02T20:26:47.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T20:26:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Let the machines in",
+      "link": "https://blog.semenzin.com/let-the-machines-in/",
+      "summary": "Article URL: https://blog.semenzin.com/let-the-machines-in/\nComments URL: https://news.ycombinator.com/item?id=49147890\nPoints: 20\n# Comments: 7",
+      "publishedAt": "2026-08-02T20:17:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T20:17:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Adding Go's Defer to the TypeScript Compiler",
+      "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+      "summary": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler\nComments URL: https://news.ycombinator.com/item?id=49147853\nPoints: 13\n# Comments: 4",
+      "publishedAt": "2026-08-02T20:12:39.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T20:12:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "link": "https://github.com/paoloanzn/microcodex",
+      "summary": "Article URL: https://github.com/paoloanzn/microcodex\nComments URL: https://news.ycombinator.com/item?id=49147842\nPoints: 11\n# Comments: 3",
+      "publishedAt": "2026-08-02T20:11:35.000Z",
+      "image": "https://opengraph.githubassets.com/74735240eb0212fd0fcfc5388c5d8fefed3e062c873f76fb5b92a1b955ffbeb4/paoloanzn/microcodex",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T20:11:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "TinyNES Review – A Super Niche NES Console",
+      "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+      "summary": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/\nComments URL: https://news.ycombinator.com/item?id=49147760\nPoints: 15\n# Comments: 0",
+      "publishedAt": "2026-08-02T20:01:37.000Z",
+      "image": "https://blog.lon.tv/wp-content/uploads/2023/02/tinynes.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T20:01:37.000Z"
     },
     {
       "source": "The Verge",
@@ -44,39 +132,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-02T19:36:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "German carmakers flood jobs market with managers after wielding axe",
-      "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
-      "summary": "Article URL: https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597\nComments URL: https://news.ycombinator.com/item?id=49147478\nPoints: 25\n# Comments: 13",
-      "publishedAt": "2026-08-02T19:24:18.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T19:24:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
-      "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
-      "summary": "Article URL: https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/\nComments URL: https://news.ycombinator.com/item?id=49147450\nPoints: 35…",
-      "publishedAt": "2026-08-02T19:20:50.000Z",
-      "image": "https://cleantechnica.com/wp-content/uploads/2026/08/Europe-EV-Sales-Report-June.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T19:20:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-      "summary": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2\nComments URL: https://news.ycombinator.com/item?id=49147435\nPoints: 51\n# Comments: 10",
-      "publishedAt": "2026-08-02T19:19:24.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T19:19:24.000Z"
     },
     {
       "source": "Engadget",
@@ -112,17 +167,6 @@
       "latestActivity": "2026-08-02T18:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-      "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-      "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\nComments URL: https://news.ycombinator.com/item?id=49146605\nPoints: 2…",
-      "publishedAt": "2026-08-02T17:45:51.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T17:45:51.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Here's where you want to be to see the 2026 solar eclipse",
       "link": "https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/",
@@ -132,17 +176,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-02T17:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-      "link": "https://github.com/graham33/nixos-dgx-spark",
-      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for…",
-      "publishedAt": "2026-08-02T17:05:54.000Z",
-      "image": "https://opengraph.githubassets.com/e80e5990b6abcefda097ce899948f22736ff0a49172605a3444a325a8406822f/graham33/nixos-dgx-spark",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T17:05:54.000Z"
     },
     {
       "source": "TechCrunch",
@@ -165,17 +198,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-02T16:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "link": "https://github.com/wie-project/kakehashi",
-      "summary": "Article URL: https://github.com/wie-project/kakehashi\nComments URL: https://news.ycombinator.com/item?id=49145937\nPoints: 112\n# Comments: 28",
-      "publishedAt": "2026-08-02T16:26:40.000Z",
-      "image": "https://opengraph.githubassets.com/2c35b842bdd7d6bf21a5d9cd947ee18b405ee95d348a25b074ba90c7833cfb61/wie-project/kakehashi",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T16:26:40.000Z"
     },
     {
       "source": "The Verge",
@@ -409,17 +431,6 @@
       "latestActivity": "2026-08-01T20:26:04.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Angela Nissel faces down grief with a laugh",
-      "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-      "summary": "Angela Nissel smiles through the pain. | Image: Angela Nissel\t\n\nAngela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emot…",
-      "publishedAt": "2026-08-01T20:15:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Angela-Nissel_Author-Headshot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T20:15:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
       "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
@@ -429,17 +440,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-01T19:45:45.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-      "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
-      "publishedAt": "2026-08-01T18:47:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/apple-store-iphone-17.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T18:47:27.000Z"
     },
     {
       "source": "Engadget",
