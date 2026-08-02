@@ -1,6 +1,105 @@
 {
-  "syncedAt": "2026-08-02T17:02:24.134Z",
+  "syncedAt": "2026-08-02T19:14:17.950Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Xbox consoles are now much more expensive in the EU and UK",
+      "link": "https://www.engadget.com/2228621/xbox-consoles-prices-now-more-expensive-eu-uk/",
+      "summary": "The entry-level price for an Xbox now starts at 499.99€/£429.99.",
+      "publishedAt": "2026-08-02T19:04:51.000Z",
+      "image": "https://www.engadget.com/img/gallery/xbox-consoles-are-now-much-more-expensive-in-the-eu-and-uk/l-intro-1785697082.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T19:04:51.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
+      "link": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+      "summary": "If you have built anything with retrieval-augmented generation (RAG) in the last two years, you have lived its central frustration: You chop your documents into chunks, embed them,…",
+      "publishedAt": "2026-08-02T19:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1rpZMHeHr7IpMu9cqSzhdV/1c782495f70f8718047ff5ce0e6f1e3c/u7277289442_A_modern_interpretation_of_cybersecurity._Sleek.__5f8b2e68-6dd7-4e68-b47f-83af6a37b067_0.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T19:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft raises Xbox prices by up to 43%",
+      "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "summary": "Article URL: https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros\nComments URL: https://news.ycombinator.com/item?id=49147209\nPoints: 12\n# Comments: 2",
+      "publishedAt": "2026-08-02T18:52:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T18:52:22.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How long can you expect a PlayStation 5 to last?",
+      "link": "https://www.engadget.com/2226178/how-long-expect-playstation-5-last-lifespan-support/",
+      "summary": "And will Sony continue to support the PS5 once the PS6 is released?",
+      "publishedAt": "2026-08-02T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-long-can-you-expect-a-playstation-5-to-last/l-intro-1785154905.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T18:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+      "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+      "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\nComments URL: https://news.ycombinator.com/item?id=49146605\nPoints: 1…",
+      "publishedAt": "2026-08-02T17:45:51.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T17:45:51.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's where you want to be to see the 2026 solar eclipse",
+      "link": "https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/",
+      "summary": "If you want the best view of the 2026 solar eclipse, you'll need to travel to Spain or Iceland.",
+      "publishedAt": "2026-08-02T17:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-where-you-want-to-be-to-see-the-2026-solar-eclipse/l-intro-1785248566.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T17:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "link": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for…",
+      "publishedAt": "2026-08-02T17:05:54.000Z",
+      "image": "https://opengraph.githubassets.com/d15bf24ccbaa797bafe9937722b9b426d1607d890b3b88fc5501044dd828e935/graham33/nixos-dgx-spark",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T17:05:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "publishedAt": "2026-08-02T17:05:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/09/tcdisrupt_sf17_balajisrinivasan-3679.jpg?resize=1200,766",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T17:05:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pushes to arch AUR are suspendended right now.",
+      "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+      "summary": "Article URL: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/\nComments URL: https://news.ycombinator.com/item?id=…",
+      "publishedAt": "2026-08-02T17:03:02.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T17:03:02.000Z"
+    },
     {
       "source": "Engadget",
       "title": "How to sideload Android APKs on your Chromebook",
@@ -11,6 +110,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-02T16:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "link": "https://github.com/wie-project/kakehashi",
+      "summary": "Article URL: https://github.com/wie-project/kakehashi\nComments URL: https://news.ycombinator.com/item?id=49145937\nPoints: 74\n# Comments: 25",
+      "publishedAt": "2026-08-02T16:26:40.000Z",
+      "image": "https://opengraph.githubassets.com/42dc198b4a0c36316660d36955f228f5fc32ceaf14cc36bce1ce3539077ff8c9/wie-project/kakehashi",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T16:26:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "Article URL: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/\nComments URL: https://news.ycombinator.com/item?id=49145883\nPoints: 39\n# Comments: 6",
+      "publishedAt": "2026-08-02T16:19:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T16:19:17.000Z"
     },
     {
       "source": "The Verge",
@@ -38,7 +159,7 @@
       "source": "Hacker News",
       "title": "How the words we teach English language learners changed",
       "link": "https://pudding.cool/2026/07/essential-words/",
-      "summary": "Article URL: https://pudding.cool/2026/07/essential-words/\nComments URL: https://news.ycombinator.com/item?id=49145590\nPoints: 57\n# Comments: 17",
+      "summary": "Article URL: https://pudding.cool/2026/07/essential-words/\nComments URL: https://news.ycombinator.com/item?id=49145590\nPoints: 131\n# Comments: 75",
       "publishedAt": "2026-08-02T15:41:08.000Z",
       "image": "https://pudding.cool/2026/07/essential-words/assets/social-facebook.jpg",
       "sourceCount": 1,
@@ -82,7 +203,7 @@
       "source": "Hacker News",
       "title": "A Rant About “Technology” (2005)",
       "link": "https://www.ursulakleguin.com/a-rant-about-technology",
-      "summary": "Article URL: https://www.ursulakleguin.com/a-rant-about-technology\nComments URL: https://news.ycombinator.com/item?id=49145201\nPoints: 89\n# Comments: 46",
+      "summary": "Article URL: https://www.ursulakleguin.com/a-rant-about-technology\nComments URL: https://news.ycombinator.com/item?id=49145201\nPoints: 119\n# Comments: 66",
       "publishedAt": "2026-08-02T14:51:18.000Z",
       "image": "http://static1.squarespace.com/static/5cad42ef90f904e520359371/t/61c1853628a5544251cbdc88/1640072502771/image-asset.jpeg?format=1500w",
       "sourceCount": 1,
@@ -134,39 +255,6 @@
       "latestActivity": "2026-08-02T13:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Twenty Years of RISC OS Open",
-      "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "summary": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open\nComments URL: https://news.ycombinator.com/item?id=49143967\nPoints: 92\n# Comments: 15",
-      "publishedAt": "2026-08-02T12:36:07.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T12:36:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "F*: A general-purpose proof-oriented programming language",
-      "link": "https://fstar-lang.org/",
-      "summary": "Article URL: https://fstar-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49143925\nPoints: 77\n# Comments: 30",
-      "publishedAt": "2026-08-02T12:31:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T12:31:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-      "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager\nComments URL: https://news.ycombinator.com/item?id=49143683\nPoints:…",
-      "publishedAt": "2026-08-02T12:01:00.000Z",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/876e548b9ee8e5740c35f5d6ddf2ce32d924edc7.png?1604424519",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T12:01:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Foldables are sort of boring now — and that’s great news for Apple",
       "link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
@@ -176,17 +264,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-02T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "link": "https://meshdiff.com/",
-      "summary": "Article URL: https://meshdiff.com/\nComments URL: https://news.ycombinator.com/item?id=49143479\nPoints: 128\n# Comments: 13",
-      "publishedAt": "2026-08-02T11:34:41.000Z",
-      "image": "https://meshdiff.com/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T11:34:41.000Z"
     },
     {
       "source": "Wired",
@@ -200,17 +277,6 @@
       "latestActivity": "2026-08-02T11:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: Fuse – statically typed functional programming language",
-      "link": "https://fuselang.org",
-      "summary": "Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the G…",
-      "publishedAt": "2026-08-02T11:23:56.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T11:23:56.000Z"
-    },
-    {
       "source": "Wired",
       "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
       "link": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
@@ -220,17 +286,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-02T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "US Treasury undertakes historic intervention in yen market",
-      "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-      "summary": "Article URL: https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8\nComments URL: https://news.ycombinator.com/item?id=49143188\nPoints: 152\n# Comments: 95",
-      "publishedAt": "2026-08-02T10:46:28.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T10:46:28.000Z"
     },
     {
       "source": "Wired",
@@ -398,28 +453,6 @@
       "latestActivity": "2026-08-01T18:20:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Meta, TikTok, Snap and Google face wrongful death lawsuit from four US families",
-      "link": "https://www.engadget.com/2228490/meta-tiktok-snap-google-wrongful-death-lawsuit-us/",
-      "summary": "The Social Media Victims Law Center accused the companies of creating addictive and dangerous platforms.",
-      "publishedAt": "2026-08-01T18:14:29.000Z",
-      "image": "https://www.engadget.com/img/gallery/meta-tiktok-snap-and-google-face-wrongful-death-lawsuit-from-four-us-families/l-intro-1785607361.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T18:14:29.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to create and delete stickers on your iPhone",
-      "link": "https://www.engadget.com/2225199/how-to-create-delete-stickers-on-iphone/",
-      "summary": "iPhone stickers are a clever way to make conversations more personal and fun, but a good sticker library requires creating new and deleting old, overused ones.",
-      "publishedAt": "2026-08-01T17:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-create-and-delete-stickers-on-your-iphone/l-intro-1785255825.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T17:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
@@ -429,28 +462,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-01T17:07:34.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Ayaneo reveals its Game Boy Advance remake called the Konkr Pocket Advance",
-      "link": "https://www.engadget.com/2228464/ayaneo-game-boy-advance-remake-konkr-pocket-advance/",
-      "summary": "The horizontal handheld will be released in navy and orange colorways.",
-      "publishedAt": "2026-08-01T16:40:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/ayaneo-reveals-its-game-boy-advance-remake-called-the-konkr-pocket-advance/l-intro-1785600976.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T16:40:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "publishedAt": "2026-08-01T15:58:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T15:58:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -627,17 +638,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-30T16:57:14.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
-      "link": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
-      "summary": "Less than a year after emerging from stealth to tackle non-human identity security, Israeli cybersecurity startup Hush Security believes the enterprise AI security conversation has…",
-      "publishedAt": "2026-07-30T16:29:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3sDPjECpYanyeD3xvMDSuZ/bbb8b59a604585a04f166cb64d1bae22/ChatGPT_Image_Jul_30__2026__12_13_02_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T16:29:00.000Z"
     },
     {
       "source": "MIT Technology Review",
