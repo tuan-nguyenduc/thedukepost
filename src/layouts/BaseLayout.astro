@@ -149,12 +149,17 @@ const siteJsonLd = [
   <Analytics />
 
   <script is:inline>
-    document.getElementById('theme-toggle').addEventListener('click', function () {
-      var root = document.documentElement;
-      var next = root.dataset.theme === 'dark' ? 'light' : 'dark';
-      root.dataset.theme = next;
-      localStorage.setItem('theme', next);
-    });
+    (function () {
+      var themeToggle = document.getElementById('theme-toggle');
+      themeToggle.setAttribute('aria-pressed', document.documentElement.dataset.theme === 'dark' ? 'true' : 'false');
+      themeToggle.addEventListener('click', function () {
+        var root = document.documentElement;
+        var next = root.dataset.theme === 'dark' ? 'light' : 'dark';
+        root.dataset.theme = next;
+        localStorage.setItem('theme', next);
+        themeToggle.setAttribute('aria-pressed', next === 'dark' ? 'true' : 'false');
+      });
+    })();
 
     document.addEventListener('click', function (event) {
       document.querySelectorAll('.nav-dropdown[open]').forEach(function (details) {
