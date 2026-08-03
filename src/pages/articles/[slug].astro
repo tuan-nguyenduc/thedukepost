@@ -198,8 +198,13 @@ const breadcrumbItems = [
 
       const headings = Array.from(document.querySelectorAll('.content h2[id], .content h3[id]'));
       const setActive = (id: string) => {
-        tocLinks.forEach((link) => link.parentElement?.classList.remove('toc__item--active'));
-        linkByHeadingId.get(id)?.parentElement?.classList.add('toc__item--active');
+        tocLinks.forEach((link) => {
+          link.parentElement?.classList.remove('toc__item--active');
+          link.removeAttribute('aria-current');
+        });
+        const activeLink = linkByHeadingId.get(id);
+        activeLink?.parentElement?.classList.add('toc__item--active');
+        activeLink?.setAttribute('aria-current', 'location');
       };
 
       let activeId: string | null = null;
