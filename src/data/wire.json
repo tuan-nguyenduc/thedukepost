@@ -1,93 +1,214 @@
 {
-  "syncedAt": "2026-08-03T07:30:46.684Z",
+  "syncedAt": "2026-08-03T11:27:27.201Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-      "summary": "Article URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md\nComments URL: https://news.ycombinator.com/item?id=49152023\nPoints: 18\n# Comments: 3",
-      "publishedAt": "2026-08-03T06:42:00.000Z",
-      "image": "https://opengraph.githubassets.com/9950e5fc4f5fe934f0b1880fe661da72814079bb9a604aed8ba19a16eafec282/rust-lang/rust-project-goals",
+      "source": "Wired",
+      "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+      "link": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+      "summary": "We’ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware’s latest display brings the price down to a shocking $350, though it comes with some important compr…",
+      "publishedAt": "2026-08-03T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-03T06:42:00.000Z"
+      "latestActivity": "2026-08-03T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "People Are Ghosting Long-Term Partners. Some Don’t Regret It",
+      "link": "https://www.wired.com/story/people-are-ghosting-long-term-partners-some-dont-regret-it/",
+      "summary": "The communication-free form of breaking up has become ubiquitous. “I no longer had to bear her energy,” a man who ghosted his partner of four years tells WIRED.",
+      "publishedAt": "2026-08-03T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a6a92958d680985ebc8f082/191:100/w_1280,c_limit/Chief-Breakup-Officer-and-Ghosting-Epidemic-Culture.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Audio Players for Kids: Yoto, Toniebox, and More",
+      "link": "https://www.wired.com/story/the-best-kids-audio-players-for-screen-free-story-time/",
+      "summary": "Whether you want an audio player that’ll grow with your kid or one that your toddler can operate independently, I have a recommendation for you.",
+      "publishedAt": "2026-08-03T10:31:00.000Z",
+      "image": "https://media.wired.com/photos/6a6e84342e7fab7da14cabe7/191:100/w_1280,c_limit/The-Best-Kids%E2%80%99-Audio-Players-for-Screen-Free-Story-Time.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T10:31:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Delicate Art of Making a 1907 House Smarter",
+      "link": "https://www.wired.com/story/smart-tech-for-a-vintage-home/",
+      "summary": "I tested modern locks, lights, climate controls, and more in a historic home that I very much wanted to keep historic.",
+      "publishedAt": "2026-08-03T10:09:00.000Z",
+      "image": "https://media.wired.com/photos/6a6d92996e3835e5a7842d63/191:100/w_1280,c_limit/I%E2%80%99m-Turning-My-1907-House-Into-a-Smart-Home%E2%80%94Without-Ruining-It.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T10:09:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/June-Headshots-7740.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a6cda249489ec53630e72b8/191:100/w_1280,c_limit/Business_AI%20Is%20Taking%20Over%20at%20the%20Drive-Thru_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "summary": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI crimin…",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a6ced459baed1318e005118/191:100/w_1280,c_limit/073126-SECURITY-ice-data-collection.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T10:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "MacBook Air laptops are reportedly in short supply due to Ramaggedon",
+      "link": "https://www.engadget.com/2228802/macbook-airs-reportedly-in-short-supply-due-to-ramaggedon/",
+      "summary": "Not only did MacBook Air prices recently go up, but you couldn't get one today even if you wanted to.",
+      "publishedAt": "2026-08-03T09:43:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/macbook-air-laptops-are-in-short-supply-due-to-ramaggedon/l-intro-1785750088.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T09:43:32.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Don't be a meat proxy",
-      "link": "https://gruhn.me/blog/2026-08-03/",
-      "summary": "Article URL: https://gruhn.me/blog/2026-08-03/\nComments URL: https://news.ycombinator.com/item?id=49151933\nPoints: 150\n# Comments: 59",
-      "publishedAt": "2026-08-03T06:28:01.000Z",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\nComments URL: https://news.ycombinator.com/item?id=49153374\nPoints: 75\n# Co…",
+      "publishedAt": "2026-08-03T09:32:07.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-03T06:28:01.000Z"
+      "latestActivity": "2026-08-03T09:32:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "More German than many Germans",
-      "link": "https://mertbulan.com/more-german-than-many-germans/",
-      "summary": "Article URL: https://mertbulan.com/more-german-than-many-germans/\nComments URL: https://news.ycombinator.com/item?id=49151734\nPoints: 77\n# Comments: 7",
-      "publishedAt": "2026-08-03T06:00:14.000Z",
-      "image": "https://cdn.synaps.media/mertbulan/content/images/size/w1200/2026/08/IMG_8938.webp",
+      "source": "Wired",
+      "title": "Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value",
+      "link": "https://www.wired.com/review/nothing-ear-3a/",
+      "summary": "The $100 earbuds look and sound better than earbuds nearly twice the price—as long as you can stomach just average noise canceling.",
+      "publishedAt": "2026-08-03T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a6d88139a06755f54d3f1d0/191:100/w_1280,c_limit/Review--Nothing-Ear-(3a)-Wireless-Earbuds.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-03T06:00:14.000Z"
+      "latestActivity": "2026-08-03T09:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "link": "https://arxiv.org/abs/2607.28271",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271\nComments URL: https://news.ycombinator.com/item?id=49150773\nPoints: 37\n# Comments: 29",
-      "publishedAt": "2026-08-03T03:06:12.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "source": "Wired",
+      "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+      "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+      "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+      "publishedAt": "2026-08-03T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a6d228f8941dde9238000d5/191:100/w_1280,c_limit/Business_He%20Went%20Viral%20for%20Posting%20About%20Flock%20Cameras.%20Then%20Someone%20Destroyed%20Them_v1.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-03T03:06:12.000Z"
+      "latestActivity": "2026-08-03T09:30:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "link": "https://qwen.ai/blog?id=qwen3.8",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 442\n# Comments: 187",
-      "publishedAt": "2026-08-03T02:16:09.000Z",
-      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T02:16:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-      "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
-      "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc9851.html\nComments URL: https://news.ycombinator.com/item?id=49150181\nPoints: 31\n# Comments: 7",
-      "publishedAt": "2026-08-03T01:23:26.000Z",
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "link": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+      "summary": "Article URL: https://senderledger.com/articles/what-dmarc-actually-protects-you-from\nComments URL: https://news.ycombinator.com/item?id=49153361\nPoints: 20\n# Comments: 5",
+      "publishedAt": "2026-08-03T09:29:46.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-03T01:23:26.000Z"
+      "latestActivity": "2026-08-03T09:29:46.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "link": "https://sf.isopolis.city/",
-      "summary": "Article URL: https://sf.isopolis.city/\nComments URL: https://news.ycombinator.com/item?id=49149966\nPoints: 188\n# Comments: 42",
-      "publishedAt": "2026-08-03T00:46:38.000Z",
-      "image": "https://sf.isopolis.city/og.jpg",
+      "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+      "link": "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks",
+      "summary": "Article URL: https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks\nComments URL: https://news.ycombinator.com/item?id=49153…",
+      "publishedAt": "2026-08-03T09:25:15.000Z",
+      "image": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Fujitsu-offices-J-News-photo-adobe.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-03T00:46:38.000Z"
+      "latestActivity": "2026-08-03T09:25:15.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "link": "https://github.com/johnsonjh/cpm386",
-      "summary": "Article URL: https://github.com/johnsonjh/cpm386\nComments URL: https://news.ycombinator.com/item?id=49149898\nPoints: 62\n# Comments: 23",
-      "publishedAt": "2026-08-03T00:38:10.000Z",
-      "image": "https://opengraph.githubassets.com/a8b101596f9af78dd2f42eb8880dba6bdb5ec26635a7c79e5d8070930ee2b67d/johnsonjh/cpm386",
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "link": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "summary": "Article URL: https://github.com/mohamed--abdel-maksoud/pisiguard\nComments URL: https://news.ycombinator.com/item?id=49153029\nPoints: 7\n# Comments: 7",
+      "publishedAt": "2026-08-03T08:54:00.000Z",
+      "image": "https://opengraph.githubassets.com/9ccf081716fcc916be4308c77998a0743904c065ca3156ee43d821495aeee5f0/mohamed--abdel-maksoud/pisiguard",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-03T00:38:10.000Z"
+      "latestActivity": "2026-08-03T08:54:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The true power of regular expressions (2012)",
+      "link": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+      "summary": "Article URL: https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html\nComments URL: https://news.ycombinator.com/item?id=49152973\nPoints: 12\n# Comments: 5",
+      "publishedAt": "2026-08-03T08:47:23.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T08:47:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+      "summary": "Article URL: https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration\nComments URL: https://news.ycombinator.com/item?id=49152871\nPoints: 14\n# Comments: 7",
+      "publishedAt": "2026-08-03T08:34:24.000Z",
+      "image": "https://arcbox.dev/og/blog/unifi-pppoe-half-bridge-acceleration.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T08:34:24.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. W…",
+      "publishedAt": "2026-08-03T08:30:05.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T08:30:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bonsai: Janestreet's UI Library",
+      "link": "https://github.com/janestreet/bonsai",
+      "summary": "Article URL: https://github.com/janestreet/bonsai\nComments URL: https://news.ycombinator.com/item?id=49152842\nPoints: 61\n# Comments: 17",
+      "publishedAt": "2026-08-03T08:29:57.000Z",
+      "image": "https://opengraph.githubassets.com/b0eadb895fc37d191a460907fbd2a53d1529fe96e96eed54ed29fcb922ff6195/janestreet/bonsai",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T08:29:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Octane – React's programming model, compiled",
+      "link": "https://octanejs.dev",
+      "summary": "Article URL: https://octanejs.dev\nComments URL: https://news.ycombinator.com/item?id=49152640\nPoints: 28\n# Comments: 11",
+      "publishedAt": "2026-08-03T08:04:04.000Z",
+      "image": "https://octanejs.dev/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T08:04:04.000Z"
     },
     {
       "source": "The Verge",
@@ -310,94 +431,6 @@
       "latestActivity": "2026-08-02T12:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "8 Best Password Managers (2026), Tested and Reviewed",
-      "link": "https://www.wired.com/story/best-password-managers/",
-      "summary": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
-      "publishedAt": "2026-08-02T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/690270685216e0070a31d8d0/191:100/w_1280,c_limit/The%20Best%20Password%20Managers%20to%20Secure%20Your%20Digital%20Life.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T11:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
-      "link": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
-      "summary": "From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists new data to explore—and theories to build out.",
-      "publishedAt": "2026-08-02T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a6cc52fffa01fba7c8c302e/191:100/w_1280,c_limit/JWSTUpdate-crKristinaArmitage-Default.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
-      "link": "https://www.wired.com/story/best-car-vacuums/",
-      "summary": "These portable vacuums make quick work of snack crumbs, tracked-in dirt, pet hair, and the mysterious debris beneath your seats.",
-      "publishedAt": "2026-08-02T10:35:00.000Z",
-      "image": "https://media.wired.com/photos/6a6e7b80a2f4e3877bf23528/191:100/w_1280,c_limit/How-to-Shop-for-a-Car-Vacuum-(and-the-Best-Car-Vacuums-Worth-Buying).jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T10:35:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "There Are 2 Eclipses This August. Here’s How to See Them",
-      "link": "https://www.wired.com/story/two-eclipses-august-how-to-see-them/",
-      "summary": "Everything you need to know about the solar eclipse and lunar eclipse that will occur in August 2026.",
-      "publishedAt": "2026-08-02T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a6cc802e820d2debdfeee44/191:100/w_1280,c_limit/eclipsesolar.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Kids’ Backpacks for the 2026 School Year",
-      "link": "https://www.wired.com/gallery/best-kids-backpacks-2026/",
-      "summary": "Your kid’s little lunch hauler takes a brutal beating every day. These are the backbacks our own kids have tried and loved.",
-      "publishedAt": "2026-08-02T10:01:00.000Z",
-      "image": "https://media.wired.com/photos/6a6e8e6b40e7cbcad60ecbd7/191:100/w_1280,c_limit/The-Best-Kids%E2%80%99-Backpacks,-Tested-by-Actual-Kids.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T10:01:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "publishedAt": "2026-08-02T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a6cafc65913ec07bfc317fe/191:100/w_1280,c_limit/073126_Europeans%20Are%20About%20to%20See%20How%20Entrenched%20AI%20Is%20in%20Their%20Daily%20Lives.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-      "link": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
-      "summary": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder.",
-      "publishedAt": "2026-08-02T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a6d1675ffa01fba7c8c3164/191:100/w_1280,c_limit/GettyImages-2162375654.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
-      "link": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/",
-      "summary": "AboFlah talks about his new goals, streaming for charity, and when it’s time to log off.",
-      "publishedAt": "2026-08-02T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a6cc5c02bba9f4c44a51585/191:100/w_1280,c_limit/Reality-Aboflah_lead.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T09:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Pixel 11 specs and price leak with no surprises",
       "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
@@ -429,28 +462,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-01T20:26:04.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "publishedAt": "2026-08-01T19:45:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T19:45:45.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What Is USB Tethering And How Do You Enable It For Mobile Hotspot?",
-      "link": "https://www.engadget.com/2225903/what-is-usb-tethering-how-enable-for-mobile-hotspot/",
-      "summary": "There are times when a physical connection will perform better than a Wi-Fi hotspot. Here's when you want to use USB tethering, and how.",
-      "publishedAt": "2026-08-01T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-is-usb-tethering-and-how-do-you-enable-it-for-mobile-hotspot/l-intro-1785327565.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T18:30:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -682,17 +693,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-29T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The AI Hype Index: Unsexy AI",
-      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury.…",
-      "publishedAt": "2026-07-29T08:42:57.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/JUL26-thumb.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-29T08:42:57.000Z"
     }
   ]
 }
