@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-08-03T19:40:45.911Z",
+  "syncedAt": "2026-08-03T21:05:29.390Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "publishedAt": "2026-08-03T20:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/SuperBlocks-founder-Brad-Menezes.jpg?resize=1200,811",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T20:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases",
+      "link": "https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/",
+      "summary": "The risk of more debris hitting the moon is on the rise as the space race heats up.",
+      "publishedAt": "2026-08-03T19:58:23.000Z",
+      "image": "https://media.wired.com/photos/6a70e5445f8a4fdf9264c1a2/191:100/w_1280,c_limit/GettyImages-2040205852-cropped.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T19:58:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "DDoS against Norwegian government IT infrastructure – status",
+      "link": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+      "summary": "Article URL: https://status.digdir.no/incidents/d7hvqmf2yr3l\nComments URL: https://news.ycombinator.com/item?id=49160631\nPoints: 56\n# Comments: 21",
+      "publishedAt": "2026-08-03T19:56:27.000Z",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T19:56:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should pr…",
+      "publishedAt": "2026-08-03T19:45:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/sam-altman-dario-amodei-split-screen.jpeg?w=1021",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T19:45:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Dunning-Kruger effect is probably not real",
+      "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+      "summary": "Article URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real\nComments URL: https://news.ycombinator.com/item?id=49160437\nPoints: 43\n# Co…",
+      "publishedAt": "2026-08-03T19:39:34.000Z",
+      "image": "https://www.mcgill.ca/oss/files/oss/styles/wysiwyg_large/public/light-bulb-1042480_1920_1.jpeg?itok=nDOISjZp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T19:39:34.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
@@ -60,7 +115,7 @@
       "source": "Hacker News",
       "title": "ZX Spectrum System Tour: Sound",
       "link": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/\nComments URL: https://news.ycombinator.com/item?id=49159676\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/\nComments URL: https://news.ycombinator.com/item?id=49159676\nPoints: 10\n# Comments: 0",
       "publishedAt": "2026-08-03T18:32:06.000Z",
       "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
       "sourceCount": 1,
@@ -120,7 +175,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+      "title": "WhatsApp says it is fixing an issue that disabled several accounts",
       "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
       "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
       "publishedAt": "2026-08-03T17:46:01.000Z",
@@ -155,7 +210,7 @@
       "source": "Hacker News",
       "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
       "link": "https://blog.cloudflare.com/billable-usage-api/",
-      "summary": "Article URL: https://blog.cloudflare.com/billable-usage-api/\nComments URL: https://news.ycombinator.com/item?id=49158714\nPoints: 21\n# Comments: 3",
+      "summary": "Article URL: https://blog.cloudflare.com/billable-usage-api/\nComments URL: https://news.ycombinator.com/item?id=49158714\nPoints: 28\n# Comments: 5",
       "publishedAt": "2026-08-03T17:18:06.000Z",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ1X2763NKK9QVFHTZV93TYV.png",
       "sourceCount": 1,
@@ -185,21 +240,10 @@
       "latestActivity": "2026-08-03T17:17:20.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-      "link": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
-      "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
-      "publishedAt": "2026-08-03T17:16:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?resize=1200,514",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T17:16:43.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Smaller, faster, safer: running Kimi and GLM at scale",
       "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "summary": "Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/\nComments URL: https://news.ycombinator.com/item?id=49158581\nPoints: 33\n# Comments: 4",
+      "summary": "Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/\nComments URL: https://news.ycombinator.com/item?id=49158581\nPoints: 70\n# Comments: 17",
       "publishedAt": "2026-08-03T17:08:46.000Z",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ1Q04GM9SA4QGPGPKWJQSJ6.png",
       "sourceCount": 1,
@@ -221,7 +265,7 @@
       "source": "Hacker News",
       "title": "Use Task Runners for Common Coding Tasks",
       "link": "https://hamvocke.com/blog/task-runners/",
-      "summary": "Article URL: https://hamvocke.com/blog/task-runners/\nComments URL: https://news.ycombinator.com/item?id=49158287\nPoints: 26\n# Comments: 5",
+      "summary": "Article URL: https://hamvocke.com/blog/task-runners/\nComments URL: https://news.ycombinator.com/item?id=49158287\nPoints: 43\n# Comments: 15",
       "publishedAt": "2026-08-03T16:51:51.000Z",
       "image": "https://hamvocke.com/img/default-preview.jpg",
       "sourceCount": 1,
@@ -229,37 +273,15 @@
       "latestActivity": "2026-08-03T16:51:51.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Base Power raises another $1B to save the grid using backyard batteries",
-      "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
-      "summary": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
-      "publishedAt": "2026-08-03T16:46:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/68acb5c1066ca5f4d74bb99b_battery-p-3200.jpeg?resize=1200,901",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T16:46:57.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "SearXNG in Rust",
       "link": "https://github.com/MikeLuu99/searxng-rust",
-      "summary": "Article URL: https://github.com/MikeLuu99/searxng-rust\nComments URL: https://news.ycombinator.com/item?id=49158141\nPoints: 29\n# Comments: 10",
+      "summary": "Article URL: https://github.com/MikeLuu99/searxng-rust\nComments URL: https://news.ycombinator.com/item?id=49158141\nPoints: 40\n# Comments: 18",
       "publishedAt": "2026-08-03T16:41:40.000Z",
-      "image": "https://opengraph.githubassets.com/48b0172a64be4fb7c2da7d814b2c81fa8fd4bebb6052c90cfd2d84b85b9bf26d/MikeLuu99/searxng-rust",
+      "image": "https://opengraph.githubassets.com/e4a5417d787abcd692bbea82d4b27dd67d9f43feb59d9ea88006ab4ce097ff33/MikeLuu99/searxng-rust",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-03T16:41:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "link": "https://hoplite.sh",
-      "summary": "Hi HN, we’re Bence and Ryan, founders of Hoplite (https://hoplite.sh). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA…",
-      "publishedAt": "2026-08-03T16:32:06.000Z",
-      "image": "https://hoplite.sh/opengraph.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T16:32:06.000Z"
     },
     {
       "source": "Engadget",
@@ -271,17 +293,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-03T16:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "link": "https://openai.com/index/ten-advances-in-mathematics/",
-      "summary": "Article URL: https://openai.com/index/ten-advances-in-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49157930\nPoints: 195\n# Comments: 472",
-      "publishedAt": "2026-08-03T16:27:12.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T16:27:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -491,17 +502,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-03T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value",
-      "link": "https://www.wired.com/review/nothing-ear-3a/",
-      "summary": "The $100 earbuds look and sound better than earbuds nearly twice the price—as long as you can stomach just average noise canceling.",
-      "publishedAt": "2026-08-03T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a6d88139a06755f54d3f1d0/191:100/w_1280,c_limit/Review--Nothing-Ear-(3a)-Wireless-Earbuds.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T09:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
