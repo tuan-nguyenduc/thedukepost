@@ -1,16 +1,93 @@
 {
-  "syncedAt": "2026-08-02T22:58:11.521Z",
+  "syncedAt": "2026-08-03T03:16:29.785Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-      "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-      "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/\nComments URL: https://news.ycombinator.com/item…",
-      "publishedAt": "2026-08-02T22:16:34.000Z",
-      "image": "https://media.nbcsandiego.com/2026/07/drop-website-1.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "link": "https://qwen.ai/blog?id=qwen3.8",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 16\n# Comments: 0",
+      "publishedAt": "2026-08-03T02:16:09.000Z",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-02T22:16:34.000Z"
+      "latestActivity": "2026-08-03T02:16:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+      "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
+      "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc9851.html\nComments URL: https://news.ycombinator.com/item?id=49150181\nPoints: 17\n# Comments: 4",
+      "publishedAt": "2026-08-03T01:23:26.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T01:23:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "link": "https://sf.isopolis.city/",
+      "summary": "Article URL: https://sf.isopolis.city/\nComments URL: https://news.ycombinator.com/item?id=49149966\nPoints: 55\n# Comments: 16",
+      "publishedAt": "2026-08-03T00:46:38.000Z",
+      "image": "https://sf.isopolis.city/og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T00:46:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "link": "https://github.com/johnsonjh/cpm386",
+      "summary": "Article URL: https://github.com/johnsonjh/cpm386\nComments URL: https://news.ycombinator.com/item?id=49149898\nPoints: 37\n# Comments: 9",
+      "publishedAt": "2026-08-03T00:38:10.000Z",
+      "image": "https://opengraph.githubassets.com/4296c1e4f88a8524fd4a0f8f65a23e6930dafafa92848b634c5bef2c0848991a/johnsonjh/cpm386",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T00:38:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: ssh ssh.place",
+      "link": "https://ssh.place",
+      "summary": "Article URL: https://ssh.place\nComments URL: https://news.ycombinator.com/item?id=49149805\nPoints: 34\n# Comments: 20",
+      "publishedAt": "2026-08-03T00:23:21.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T00:23:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "summary": "Article URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/\nComments URL: https://news.ycombinator.com/item?id=49149746\nPoints: 4…",
+      "publishedAt": "2026-08-03T00:12:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T00:12:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "link": "https://github.com/pg83/shitty",
+      "summary": "Article URL: https://github.com/pg83/shitty\nComments URL: https://news.ycombinator.com/item?id=49149326\nPoints: 92\n# Comments: 92",
+      "publishedAt": "2026-08-02T23:05:41.000Z",
+      "image": "https://opengraph.githubassets.com/4f271221b5bc5f20a4bd5849865995996ea9fb05b5946f3bf8f1796ff9b58027/pg83/shitty",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T23:05:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Computational Theory of Mind (2015)",
+      "link": "https://plato.stanford.edu/entries/computational-mind/",
+      "summary": "Article URL: https://plato.stanford.edu/entries/computational-mind/\nComments URL: https://news.ycombinator.com/item?id=49149125\nPoints: 37\n# Comments: 13",
+      "publishedAt": "2026-08-02T22:35:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-02T22:35:35.000Z"
     },
     {
       "source": "The Verge",
@@ -44,83 +121,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-02T20:54:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
-      "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-      "summary": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/\nComments URL: https://news.ycombinator.com/item?id=49148128\nPoints: 75\n# Comments…",
-      "publishedAt": "2026-08-02T20:44:24.000Z",
-      "image": "https://linuxiac.com/wp-content/uploads/2026/08/eu-digital-identity.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T20:44:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Make your Framework 12 sound like a creaky door",
-      "link": "https://github.com/ArcaEge/creakwork12",
-      "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (htt…",
-      "publishedAt": "2026-08-02T20:33:01.000Z",
-      "image": "https://opengraph.githubassets.com/7e93a299a5ff5a2d55d67330e147692facce13e1602faa4fa9e96ca71ff7cbf1/ArcaEge/creakwork12",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T20:33:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Sharing an X11 Server Across Hosts with FamilyWild",
-      "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-      "summary": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/\nComments URL: https://news.ycombinator.com/item?id=49147978\nPoints: 21\n# Comments: 5",
-      "publishedAt": "2026-08-02T20:26:47.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T20:26:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Let the machines in",
-      "link": "https://blog.semenzin.com/let-the-machines-in/",
-      "summary": "Article URL: https://blog.semenzin.com/let-the-machines-in/\nComments URL: https://news.ycombinator.com/item?id=49147890\nPoints: 20\n# Comments: 7",
-      "publishedAt": "2026-08-02T20:17:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T20:17:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Adding Go's Defer to the TypeScript Compiler",
-      "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-      "summary": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler\nComments URL: https://news.ycombinator.com/item?id=49147853\nPoints: 13\n# Comments: 4",
-      "publishedAt": "2026-08-02T20:12:39.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T20:12:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-      "link": "https://github.com/paoloanzn/microcodex",
-      "summary": "Article URL: https://github.com/paoloanzn/microcodex\nComments URL: https://news.ycombinator.com/item?id=49147842\nPoints: 11\n# Comments: 3",
-      "publishedAt": "2026-08-02T20:11:35.000Z",
-      "image": "https://opengraph.githubassets.com/74735240eb0212fd0fcfc5388c5d8fefed3e062c873f76fb5b92a1b955ffbeb4/paoloanzn/microcodex",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T20:11:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "TinyNES Review – A Super Niche NES Console",
-      "link": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
-      "summary": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/\nComments URL: https://news.ycombinator.com/item?id=49147760\nPoints: 15\n# Comments: 0",
-      "publishedAt": "2026-08-02T20:01:37.000Z",
-      "image": "https://blog.lon.tv/wp-content/uploads/2023/02/tinynes.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-02T20:01:37.000Z"
     },
     {
       "source": "The Verge",
