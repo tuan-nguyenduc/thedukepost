@@ -104,6 +104,8 @@ for (const article of articles) {
   .jump a:hover { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); transform: rotate(-1deg); }
   .jump__count { color: var(--slate); }
   .jump a:hover .jump__count { color: inherit; opacity: 0.75; }
+  .jump a[aria-current] { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+  .jump a[aria-current] .jump__count { color: inherit; opacity: 0.75; }
 
   .year { margin-bottom: 48px; scroll-margin-top: 24px; }
   .year__heading {
