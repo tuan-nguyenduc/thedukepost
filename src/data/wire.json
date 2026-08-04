@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-08-03T23:03:27.937Z",
+  "syncedAt": "2026-08-04T02:45:36.376Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+      "link": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+      "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it laun…",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BoR-Screenshot-66.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-04T00:00:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+      "link": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+      "summary": "Chinese e-commerce and cloud giant Alibaba's famed Qwen team of AI researchers last night unveiled Qwen3.8-Max, a new flagship 2.4-trillion-parameter mixture-of-experts (MoE) multi…",
+      "publishedAt": "2026-08-03T23:50:58.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/TEZ90oDEVagcCeMlphUJp/c305312054f50210a953952ab93385b1/ChatGPT_Image_Aug_3__2026__07_32_45_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T23:50:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\nComments URL: https://news.ycombinator.com/item?id=49162653\nPoints: 38\n# Comments: 15",
+      "publishedAt": "2026-08-03T23:24:53.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T23:24:53.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T23:19:50.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Asana's AI agents share memory across your company — but not your secrets",
+      "link": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+      "summary": "Enterprise teams building AI agents keep hitting the same wall: a chatbot that can answer a prompt but can't remember what the last five people asked it, and can't tell you whether…",
+      "publishedAt": "2026-08-03T23:14:48.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6PmfOp6EwY7Zj1BPox1IE0/6cea9b2543e1ec0cf46c873ef17e9ee6/2026-VB-Transform-Hotel-Nia-0490.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T23:14:48.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Amazon is developing a Warhammer 40,000 animated show",
@@ -24,6 +79,17 @@
       "latestActivity": "2026-08-03T22:27:46.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "publishedAt": "2026-08-03T22:11:39.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-5.14.23-PM-1152x648.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-03T22:11:39.000Z"
+    },
+    {
       "source": "TechCrunch",
       "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
       "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
@@ -38,7 +104,7 @@
       "source": "Hacker News",
       "title": "Windows XP 2002 for the Itanium: Unbridled rage",
       "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 11\n# Comments:…",
+      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 63\n# Comments:…",
       "publishedAt": "2026-08-03T22:04:49.000Z",
       "image": null,
       "sourceCount": 1,
@@ -47,9 +113,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
+      "title": "ZX Spectrum System Tour: Text Mode",
       "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/\nComments URL: https://news.ycombinator.com/item?id=49161801\nPoints: 7\n# Comments: 0",
+      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/\nComments URL: https://news.ycombinator.com/item?id=49161801\nPoints: 23\n# Comments:…",
       "publishedAt": "2026-08-03T21:39:12.000Z",
       "image": "https://bumbershootsoft.wordpress.com/wp-content/uploads/2026/05/zx_mechanic_title.png",
       "sourceCount": 1,
@@ -71,7 +137,7 @@
       "source": "Hacker News",
       "title": "LLMs reward expertise",
       "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/\nComments URL: https://news.ycombinator.com/item?id=49161518\nPoints: 219\n# Comments: 89",
+      "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/\nComments URL: https://news.ycombinator.com/item?id=49161518\nPoints: 483\n# Comments: 210",
       "publishedAt": "2026-08-03T21:13:53.000Z",
       "image": "https://www.seangoedecke.com/og-image.jpg",
       "sourceCount": 1,
@@ -123,17 +189,6 @@
       "latestActivity": "2026-08-03T19:58:23.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "DDoS against Norwegian government IT infrastructure – status",
-      "link": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-      "summary": "Article URL: https://status.digdir.no/incidents/d7hvqmf2yr3l\nComments URL: https://news.ycombinator.com/item?id=49160631\nPoints: 76\n# Comments: 53",
-      "publishedAt": "2026-08-03T19:56:27.000Z",
-      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T19:56:27.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
       "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
@@ -148,7 +203,7 @@
       "source": "Hacker News",
       "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
       "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-      "summary": "Article URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real\nComments URL: https://news.ycombinator.com/item?id=49160437\nPoints: 95\n# Co…",
+      "summary": "Article URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real\nComments URL: https://news.ycombinator.com/item?id=49160437\nPoints: 127\n# C…",
       "publishedAt": "2026-08-03T19:39:34.000Z",
       "image": "https://www.mcgill.ca/oss/files/oss/styles/wysiwyg_large/public/light-bulb-1042480_1920_1.jpeg?itok=nDOISjZp",
       "sourceCount": 1,
@@ -203,9 +258,9 @@
       "source": "Hacker News",
       "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
       "link": "https://github.com/SwagSoftware/KisakCOD",
-      "summary": "Article URL: https://github.com/SwagSoftware/KisakCOD\nComments URL: https://news.ycombinator.com/item?id=49159970\nPoints: 23\n# Comments: 2",
+      "summary": "Article URL: https://github.com/SwagSoftware/KisakCOD\nComments URL: https://news.ycombinator.com/item?id=49159970\nPoints: 44\n# Comments: 3",
       "publishedAt": "2026-08-03T18:58:00.000Z",
-      "image": "https://opengraph.githubassets.com/b60ef268e41b589205cb31a6391addc936c52bd3c3bd4bd1be81e780acd8f95c/SwagSoftware/KisakCOD",
+      "image": "https://opengraph.githubassets.com/72e7d4a7e9d88c8aec6b132cbc4a7d6404f95d2b462c8f86aa88aff837b6793a/SwagSoftware/KisakCOD",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-03T18:58:00.000Z"
@@ -247,7 +302,7 @@
       "source": "Hacker News",
       "title": "ZX Spectrum System Tour: Sound",
       "link": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/\nComments URL: https://news.ycombinator.com/item?id=49159676\nPoints: 27\n# Comments: 5",
+      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/\nComments URL: https://news.ycombinator.com/item?id=49159676\nPoints: 33\n# Comments: 8",
       "publishedAt": "2026-08-03T18:32:06.000Z",
       "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
       "sourceCount": 1,
@@ -264,17 +319,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-03T18:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Outernet turns your saved posts into real-world adventures",
-      "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
-      "summary": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then n…",
-      "publishedAt": "2026-08-03T18:00:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/e040cfc9-13f1-4d78-9063-effd0d99975a.jpeg?resize=1200,948",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T18:00:24.000Z"
     },
     {
       "source": "Engadget",
@@ -331,7 +375,7 @@
       "source": "Hacker News",
       "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
       "link": "https://blog.cloudflare.com/billable-usage-api/",
-      "summary": "Article URL: https://blog.cloudflare.com/billable-usage-api/\nComments URL: https://news.ycombinator.com/item?id=49158714\nPoints: 36\n# Comments: 6",
+      "summary": "Article URL: https://blog.cloudflare.com/billable-usage-api/\nComments URL: https://news.ycombinator.com/item?id=49158714\nPoints: 46\n# Comments: 8",
       "publishedAt": "2026-08-03T17:18:06.000Z",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ1X2763NKK9QVFHTZV93TYV.png",
       "sourceCount": 1,
@@ -425,17 +469,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-03T14:41:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-      "link": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
-      "summary": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand…",
-      "publishedAt": "2026-08-03T14:26:47.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T14:26:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -570,17 +603,6 @@
       "latestActivity": "2026-08-02T19:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-      "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-      "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-      "publishedAt": "2026-08-01T18:20:11.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept-1152x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-01T18:20:11.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
       "link": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
@@ -634,28 +656,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-07-31T01:45:07.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
-      "link": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
-      "summary": "Just two weeks after Thinking Machines released Inkling, its first open source AI language model, the well-funded startup led by former OpenAI chief technology officer Mira Murati…",
-      "publishedAt": "2026-07-31T00:14:22.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7gMtExpXjcD7vdSrlrD5Af/f6e41d5d0d1248046f97c767e5d7aee4/ChatGPT_Image_Jul_30__2026__07_32_19_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-31T00:14:22.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
-      "link": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
-      "summary": "To quote an ancient Jedi Master \"Begun, the AI price wars have!\"\nOpenAI is sharply reducing the prices of two models in its GPT-5.6 frontier series, cutting GPT-5.6 Luna, the small…",
-      "publishedAt": "2026-07-30T21:48:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2fGdveK7V6JapEiEv85EpL/16b6cb580fce352e2d10fc0bcc5f0b21/ChatGPT_Image_Jul_30__2026__05_09_51_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-07-30T21:48:00.000Z"
     },
     {
       "source": "MIT Technology Review",
