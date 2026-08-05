@@ -1,6 +1,137 @@
 {
-  "syncedAt": "2026-08-05T21:12:39.693Z",
+  "syncedAt": "2026-08-05T23:02:15.901Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+      "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing…",
+      "publishedAt": "2026-08-05T22:55:43.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TCD26-Savings_400.png?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T22:55:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nikita Bier Steps Down as Head of Product at X",
+      "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
+      "summary": "Article URL: https://twitter.com/nikitabier/status/2085105586966827343/\nComments URL: https://news.ycombinator.com/item?id=49189113\nPoints: 31\n# Comments: 36",
+      "publishedAt": "2026-08-05T21:15:40.000Z",
+      "image": "https://jf.x.com/images/media-preview/2085105586966827343",
+      "sourceCount": 4,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Nikita Bier steps down as X’s head of product",
+          "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+          "publishedAt": "2026-08-05T21:30:50.000Z"
+        },
+        {
+          "source": "The Verge",
+          "title": "X product chief Nikita Bier is leaving after one year",
+          "link": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+          "publishedAt": "2026-08-05T22:19:55.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "X's head of product is leaving the company one year after joining",
+          "link": "https://www.engadget.com/2231302/x-head-of-product-nikita-bier-leaving-the-company-one-year-after-joining/",
+          "publishedAt": "2026-08-05T22:48:54.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-05T22:48:54.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon",
+      "link": "https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/",
+      "summary": "Although no one captured a direct image of the impact, scientists have detected signals confirming the rocket hit the lunar surface. Orbiters could provide the first images of the…",
+      "publishedAt": "2026-08-05T22:40:53.000Z",
+      "image": "https://media.wired.com/photos/6a73b0888fb20107407a0dd3/191:100/w_1280,c_limit/535418491",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T22:40:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Muse Code and Muse Spark 1.2",
+      "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\nComments URL: https://news.ycombinator.com/item?id=49187575\nPoints: 124\n# Comments: 71",
+      "publishedAt": "2026-08-05T19:15:52.000Z",
+      "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=27275013325511244&version=1785879996",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "VentureBeat",
+          "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
+          "link": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+          "publishedAt": "2026-08-05T21:00:10.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "Meta introduces Muse Code, its take on a coding agent",
+          "link": "https://www.engadget.com/2231285/meta-introduces-muse-code-its-take-on-a-coding-agent/",
+          "publishedAt": "2026-08-05T21:57:52.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-05T21:57:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+      "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/\nComments URL: https://news.ycombinator.com/item?id=49189287\nPoints: 49\n# Comments: 12",
+      "publishedAt": "2026-08-05T21:29:23.000Z",
+      "image": "https://randsinrepose.com/wp-content/uploads/2026/08/bladerunner.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T21:29:23.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+      "publishedAt": "2026-08-05T21:26:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T21:26:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
+      "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "summary": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\nComments URL: https://news.ycombinator.com/item?id=49189234\nPoints: 37\n# Comments: 3",
+      "publishedAt": "2026-08-05T21:24:45.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!o1nY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bf7fee6-a173-429e-87e9-7c1fba499e5a_1895x1493.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T21:24:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "publishedAt": "2026-08-05T21:21:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T21:21:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "link": "https://www.primeintellect.ai/blog/prime-agent",
+      "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent\nComments URL: https://news.ycombinator.com/item?id=49189075\nPoints: 45\n# Comments: 3",
+      "publishedAt": "2026-08-05T21:11:57.000Z",
+      "image": "https://primeintellect.ai/blog/prime-agent/cover.png?v=prime-agent",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T21:11:57.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
@@ -13,22 +144,15 @@
       "latestActivity": "2026-08-05T21:05:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Muse Code and Muse Spark 1.2",
-      "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\nComments URL: https://news.ycombinator.com/item?id=49187575\nPoints: 82\n# Comments: 48",
-      "publishedAt": "2026-08-05T19:15:52.000Z",
-      "image": "https://research.meta.ai/social-preview/introducing-muse-code-and-muse-spark-1-2",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "VentureBeat",
-          "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
-          "link": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
-          "publishedAt": "2026-08-05T21:00:10.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-05T21:00:10.000Z"
+      "source": "Ars Technica",
+      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+      "link": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+      "publishedAt": "2026-08-05T21:03:18.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T21:03:18.000Z"
     },
     {
       "source": "Engadget",
@@ -36,7 +160,7 @@
       "link": "https://www.engadget.com/2231236/engadget-indie-pitch-vile-exhumed-physical-edition/",
       "summary": "\"Play an interactive video nasty.\"",
       "publishedAt": "2026-08-05T21:00:09.000Z",
-      "image": "https://www.engadget.com/img/gallery/engadget-indie-pitch-vile-exhumed-physical-edition/l-intro-1785963933.jpg",
+      "image": "https://www.engadget.com/img/gallery/engadget-indie-pitch-vile-exhumed-physical-edition/l-intro-1785965013.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T21:00:09.000Z"
@@ -65,8 +189,8 @@
     },
     {
       "source": "TechCrunch",
-      "title": "How Lightspeed found their newest hire… via Instagram DM",
-      "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/",
+      "title": "How Lightspeed found its newest hire … via Instagram DM",
+      "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
       "summary": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
       "publishedAt": "2026-08-05T20:48:56.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jpeg.jpg?resize=1200,861",
@@ -84,6 +208,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T20:48:54.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "publishedAt": "2026-08-05T20:47:11.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T20:47:11.000Z"
     },
     {
       "source": "Wired",
@@ -108,15 +243,15 @@
       "latestActivity": "2026-08-05T20:11:29.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "publishedAt": "2026-08-05T20:05:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?resize=1200,868",
+      "source": "Ars Technica",
+      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
+      "publishedAt": "2026-08-05T20:01:32.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-05T20:05:00.000Z"
+      "latestActivity": "2026-08-05T20:01:32.000Z"
     },
     {
       "source": "Ars Technica",
@@ -133,7 +268,7 @@
       "source": "Hacker News",
       "title": "I'm switching my phone from Android to Linux",
       "link": "https://runarcn.no/android-to-linux/",
-      "summary": "Article URL: https://runarcn.no/android-to-linux/\nComments URL: https://news.ycombinator.com/item?id=49188022\nPoints: 26\n# Comments: 10",
+      "summary": "Article URL: https://runarcn.no/android-to-linux/\nComments URL: https://news.ycombinator.com/item?id=49188022\nPoints: 131\n# Comments: 93",
       "publishedAt": "2026-08-05T19:50:13.000Z",
       "image": "/static/og-image.png",
       "sourceCount": 1,
@@ -198,24 +333,6 @@
       "latestActivity": "2026-08-05T19:35:22.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
-      "publishedAt": "2026-08-05T16:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a731599a89f1c896d22f70e/191:100/w_1280,c_limit/Discovery%20Loop%20-%20Founders%202.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-          "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-          "publishedAt": "2026-08-05T19:30:19.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-05T19:30:19.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
       "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
@@ -239,7 +356,7 @@
     },
     {
       "source": "Ars Technica",
-      "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
       "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
       "summary": "Google's AI brain drain continues.",
       "publishedAt": "2026-08-05T19:05:58.000Z",
@@ -263,45 +380,12 @@
       "source": "Hacker News",
       "title": "Sula: A Gemini protocol server written in Scryer Prolog",
       "link": "https://sagredo.dev/projects/sula/",
-      "summary": "Article URL: https://sagredo.dev/projects/sula/\nComments URL: https://news.ycombinator.com/item?id=49187259\nPoints: 20\n# Comments: 1",
+      "summary": "Article URL: https://sagredo.dev/projects/sula/\nComments URL: https://news.ycombinator.com/item?id=49187259\nPoints: 32\n# Comments: 1",
       "publishedAt": "2026-08-05T18:52:58.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T18:52:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Zed DeltaDB",
-      "link": "https://zed.dev/deltadb",
-      "summary": "Article URL: https://zed.dev/deltadb\nComments URL: https://news.ycombinator.com/item?id=49187256\nPoints: 170\n# Comments: 68",
-      "publishedAt": "2026-08-05T18:52:54.000Z",
-      "image": "https://zed.dev/api/og?title=DeltaDB",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T18:52:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What happens if you put work into the second dimension?",
-      "link": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
-      "summary": "Article URL: https://norbertkozsir.com/posts/work-in-the-second-dimension/\nComments URL: https://news.ycombinator.com/item?id=49187084\nPoints: 20\n# Comments: 13",
-      "publishedAt": "2026-08-05T18:39:31.000Z",
-      "image": "https://norbertkozsir.com/assets/img/work-in-the-second-dimension/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T18:39:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "link": "https://blog.fogus.me/llm/born-against.html",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html\nComments URL: https://news.ycombinator.com/item?id=49187061\nPoints: 93\n# Comments: 99",
-      "publishedAt": "2026-08-05T18:37:49.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T18:37:49.000Z"
     },
     {
       "source": "Wired",
@@ -337,39 +421,6 @@
       "latestActivity": "2026-08-05T18:27:15.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency\nComments URL: https://news.ycombinator.com/item?id=49186762\nPoints: 119\n# Comment…",
-      "publishedAt": "2026-08-05T18:18:56.000Z",
-      "image": "https://cdn.neonapi.io/public/images/pages/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency/cover.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T18:18:56.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Weeks into explosive diarrhea outbreak, sluggish CDC plans response team",
-      "link": "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
-      "summary": "Reports of cases began in June, and the national tally is now nearing 23,000.",
-      "publishedAt": "2026-08-05T18:11:11.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2278289810-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T18:11:11.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
-      "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
-      "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirem…",
-      "publishedAt": "2026-08-05T18:00:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T18:00:40.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
       "link": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know",
@@ -379,17 +430,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T18:00:02.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Lucid Motors just delayed its affordable EV. Now what?",
-      "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
-      "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Ub…",
-      "publishedAt": "2026-08-05T17:57:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/lucid-dream-drive-2.jpg?resize=1200,822",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T17:57:45.000Z"
     },
     {
       "source": "The Verge",
@@ -414,17 +454,6 @@
       "latestActivity": "2026-08-05T17:34:48.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Corsair just introduced new gaming keyboards with a control dial and a mouse with great battery life",
-      "link": "https://www.engadget.com/2231021/corsair-just-introduced-new-gaming-keyboards-with-a-control-dial/",
-      "summary": "Corsair's latest accessories have some handy features and don't cost too much.",
-      "publishedAt": "2026-08-05T17:26:58.000Z",
-      "image": "https://www.engadget.com/img/gallery/corsair-just-introduced-new-gaming-keyboards-with-a-control-dial-and-a-mouse-with-great-battery-life/l-intro-1785950535.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T17:26:58.000Z"
-    },
-    {
       "source": "Wired",
       "title": "DHS Is Hiring Bounty Hunters to Find and Photograph Deported People’s Homes Abroad",
       "link": "https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/",
@@ -434,28 +463,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T17:24:01.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-      "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
-      "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
-      "publishedAt": "2026-08-05T17:12:39.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1232471426-1152x648-1758659091.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T17:12:39.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "EVgo starts building Tesla Superchargers under license",
-      "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
-      "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
-      "publishedAt": "2026-08-05T17:00:38.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/evgo-tesla-partnership-1920x1080.jpg-1152x648.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T17:00:38.000Z"
     },
     {
       "source": "The Verge",
@@ -502,17 +509,6 @@
       "latestActivity": "2026-08-05T16:35:56.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The world's smallest USB drive has more storage than an iPhone 17",
-      "link": "https://www.engadget.com/2226447/worlds-smallest-usb-drive-more-storage-than-iphone-17/",
-      "summary": "At a time when storage space commands a premium price, SanDisk's Extreme Fit drive is worth a look.",
-      "publishedAt": "2026-08-05T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-worlds-smallest-usb-drive-has-more-storage-than-an-iphone-17/l-intro-1785340878.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T16:30:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "The Shai-Hulud npm worm didn't fake its security check — it earned a legitimate one",
       "link": "https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one",
@@ -544,17 +540,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T15:42:43.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Rogue AI agents created fake online identities in another hacking attempt",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously u…",
-      "publishedAt": "2026-08-05T15:14:57.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T15:14:57.000Z"
     },
     {
       "source": "MIT Technology Review",
