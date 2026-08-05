@@ -33,7 +33,7 @@ const isNewsletterActive = pathname === '/newsletter' || pathname.startsWith('/n
 const isSearchActive = pathname === '/search';
 const isSubscribeActive = pathname === '/subscribe';
 const isAboutActive = pathname === '/about';
-const isCategoriesActive = pathname.startsWith('/articles/category/') || pathname.startsWith('/tags') || pathname.startsWith('/authors') || pathname === '/archive' || pathname === '/reading-list';
+const isCategoriesActive = pathname === '/articles/category' || pathname.startsWith('/articles/category/') || pathname.startsWith('/tags') || pathname.startsWith('/authors') || pathname === '/archive' || pathname === '/reading-list';
 
 const siteJsonLd = [
   {
@@ -111,6 +111,7 @@ const siteJsonLd = [
         <details class="nav-dropdown" data-active={isCategoriesActive ? 'true' : undefined}>
           <summary aria-current={isCategoriesActive ? 'true' : undefined}>Categories</summary>
           <div class="nav-dropdown__panel">
+            <a href="/articles/category" aria-current={pathname === '/articles/category' ? 'page' : undefined}>All Categories</a>
             {CATEGORIES.map((category) => (
               <a href={categoryHref(category)} aria-current={pathname === categoryHref(category) ? 'page' : undefined}>{categoryLabel(category)}</a>
             ))}
