@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-08-05T23:02:15.901Z",
+  "syncedAt": "2026-08-06T02:46:02.866Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "LLMs won't break symmetric crypto",
+      "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "summary": "Article URL: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto\nComments URL: https://news.ycombinator.com/item?id=49191365\nPoints: 22\n# Comments: 14",
+      "publishedAt": "2026-08-06T01:39:06.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!UXVg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8a4fb4a-8a41-4520-8f34-8634442a2612_2300x1272.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-06T01:39:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated sin…",
+      "publishedAt": "2026-08-06T00:25:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-06T00:25:10.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nos…",
+      "publishedAt": "2026-08-06T00:15:04.000Z",
+      "image": "https://media.wired.com/photos/6a73a2815ac7830744b43e7a/191:100/w_1280,c_limit/080526-openai-agent-hacking.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-06T00:15:04.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
+      "link": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+      "summary": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in a shocking number of systems a…",
+      "publishedAt": "2026-08-05T23:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a7248f35fe571c2f9c68116/191:100/w_1280,c_limit/Security_A%20Look%20Inside%20North%20Korean%20Hackers%E2%80%99%20Servers%20Reveals%20Hundreds%20of%20Breached%20Companies_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T23:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+      "publishedAt": "2026-08-05T23:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a7212f79008189a91ab1d18/191:100/w_1280,c_limit/Security_OpenAI%E2%80%99s%20Browser%20Could%20Be%20Hijacked%20to%20Send%20WhatsApp%20Spam_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T23:30:00.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
@@ -13,20 +68,14 @@
       "latestActivity": "2026-08-05T22:55:43.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Nikita Bier Steps Down as Head of Product at X",
-      "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
-      "summary": "Article URL: https://twitter.com/nikitabier/status/2085105586966827343/\nComments URL: https://news.ycombinator.com/item?id=49189113\nPoints: 31\n# Comments: 36",
-      "publishedAt": "2026-08-05T21:15:40.000Z",
-      "image": "https://jf.x.com/images/media-preview/2085105586966827343",
-      "sourceCount": 4,
+      "source": "TechCrunch",
+      "title": "Nikita Bier steps down as X’s head of product",
+      "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "publishedAt": "2026-08-05T21:30:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+      "sourceCount": 3,
       "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Nikita Bier steps down as X’s head of product",
-          "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
-          "publishedAt": "2026-08-05T21:30:50.000Z"
-        },
         {
           "source": "The Verge",
           "title": "X product chief Nikita Bier is leaving after one year",
@@ -54,10 +103,21 @@
       "latestActivity": "2026-08-05T22:40:53.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+      "publishedAt": "2026-08-05T22:35:20.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T22:35:20.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "Muse Code and Muse Spark 1.2",
       "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\nComments URL: https://news.ycombinator.com/item?id=49187575\nPoints: 124\n# Comments: 71",
+      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\nComments URL: https://news.ycombinator.com/item?id=49187575\nPoints: 187\n# Comments: 112",
       "publishedAt": "2026-08-05T19:15:52.000Z",
       "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=27275013325511244&version=1785879996",
       "sourceCount": 3,
@@ -79,9 +139,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+      "title": "The title cards in Blade Runner are amazing",
       "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/\nComments URL: https://news.ycombinator.com/item?id=49189287\nPoints: 49\n# Comments: 12",
+      "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/\nComments URL: https://news.ycombinator.com/item?id=49189287\nPoints: 162\n# Comments: 72",
       "publishedAt": "2026-08-05T21:29:23.000Z",
       "image": "https://randsinrepose.com/wp-content/uploads/2026/08/bladerunner.png",
       "sourceCount": 1,
@@ -92,7 +152,7 @@
       "source": "TechCrunch",
       "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
       "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
       "publishedAt": "2026-08-05T21:26:40.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
       "sourceCount": 1,
@@ -101,9 +161,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
       "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "summary": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\nComments URL: https://news.ycombinator.com/item?id=49189234\nPoints: 37\n# Comments: 3",
+      "summary": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\nComments URL: https://news.ycombinator.com/item?id=49189234\nPoints: 92\n# Comments: 13",
       "publishedAt": "2026-08-05T21:24:45.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!o1nY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bf7fee6-a173-429e-87e9-7c1fba499e5a_1895x1493.png",
       "sourceCount": 1,
@@ -123,9 +183,20 @@
     },
     {
       "source": "Hacker News",
+      "title": "I'll be stepping back from leading product for X",
+      "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
+      "summary": "https://xcancel.com/nikitabier/status/2085105586966827343/\nComments URL: https://news.ycombinator.com/item?id=49189113\nPoints: 72\n# Comments: 103",
+      "publishedAt": "2026-08-05T21:15:40.000Z",
+      "image": "https://jf.x.com/images/media-preview/2085105586966827343",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-05T21:15:40.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Prime Agent: A self-improving RLM agent",
       "link": "https://www.primeintellect.ai/blog/prime-agent",
-      "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent\nComments URL: https://news.ycombinator.com/item?id=49189075\nPoints: 45\n# Comments: 3",
+      "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent\nComments URL: https://news.ycombinator.com/item?id=49189075\nPoints: 111\n# Comments: 19",
       "publishedAt": "2026-08-05T21:11:57.000Z",
       "image": "https://primeintellect.ai/blog/prime-agent/cover.png?v=prime-agent",
       "sourceCount": 1,
@@ -268,36 +339,12 @@
       "source": "Hacker News",
       "title": "I'm switching my phone from Android to Linux",
       "link": "https://runarcn.no/android-to-linux/",
-      "summary": "Article URL: https://runarcn.no/android-to-linux/\nComments URL: https://news.ycombinator.com/item?id=49188022\nPoints: 131\n# Comments: 93",
+      "summary": "Article URL: https://runarcn.no/android-to-linux/\nComments URL: https://news.ycombinator.com/item?id=49188022\nPoints: 222\n# Comments: 184",
       "publishedAt": "2026-08-05T19:50:13.000Z",
       "image": "/static/og-image.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T19:50:13.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
-      "publishedAt": "2026-08-05T16:26:36.000Z",
-      "image": "https://media.wired.com/photos/6a6d058753afe1590265744d/191:100/w_1280,c_limit/073126-meta-nudify-ads-children.jpg",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Meta apps displayed ads that contained AI-generated CSAM",
-          "link": "https://www.engadget.com/2231100/meta-apps-displayed-ads-that-contained-ai-generated-csam/",
-          "publishedAt": "2026-08-05T18:41:08.000Z"
-        },
-        {
-          "source": "Hacker News",
-          "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-          "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-          "publishedAt": "2026-08-05T19:47:26.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-05T19:47:26.000Z"
     },
     {
       "source": "Wired",
@@ -378,25 +425,25 @@
     },
     {
       "source": "Hacker News",
-      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-      "link": "https://sagredo.dev/projects/sula/",
-      "summary": "Article URL: https://sagredo.dev/projects/sula/\nComments URL: https://news.ycombinator.com/item?id=49187259\nPoints: 32\n# Comments: 1",
-      "publishedAt": "2026-08-05T18:52:58.000Z",
-      "image": null,
+      "title": "Zed DeltaDB",
+      "link": "https://zed.dev/deltadb",
+      "summary": "Article URL: https://zed.dev/deltadb\nComments URL: https://news.ycombinator.com/item?id=49187256\nPoints: 322\n# Comments: 164",
+      "publishedAt": "2026-08-05T18:52:54.000Z",
+      "image": "https://zed.dev/api/og?title=DeltaDB",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-05T18:52:58.000Z"
+      "latestActivity": "2026-08-05T18:52:54.000Z"
     },
     {
-      "source": "Wired",
-      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
-      "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
-      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-      "publishedAt": "2026-08-05T18:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a72158094df13865615789b/191:100/w_1280,c_limit/AI-Lab-How-Future-AI-Agents-Might-Actually-Escape-Our-Control-Business.jpg",
+      "source": "Engadget",
+      "title": "Meta apps displayed ads that contained AI-generated CSAM",
+      "link": "https://www.engadget.com/2231100/meta-apps-displayed-ads-that-contained-ai-generated-csam/",
+      "summary": "Researchers identified more than 50 ads on Meta properties that violated the company's policies on child sexual abuse material.",
+      "publishedAt": "2026-08-05T18:41:08.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-apps-displayed-ads-that-contained-ai-generated-csam/l-intro-1785955165.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-05T18:30:00.000Z"
+      "latestActivity": "2026-08-05T18:41:08.000Z"
     },
     {
       "source": "Engadget",
@@ -408,17 +455,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T18:30:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
-      "link": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
-      "summary": "It's as much about grounded characters and well-timed emotional beats as CGI-filled action extravaganzas.",
-      "publishedAt": "2026-08-05T18:27:15.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spidey2-1152x637.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T18:27:15.000Z"
     },
     {
       "source": "VentureBeat",
@@ -452,17 +488,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T17:34:48.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "DHS Is Hiring Bounty Hunters to Find and Photograph Deported People’s Homes Abroad",
-      "link": "https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/",
-      "summary": "Homeland Security told immigrants that leaving the US would wipe out fines it claims they owe. Now it wants private investigators to find them in their home countries and collect.",
-      "publishedAt": "2026-08-05T17:24:01.000Z",
-      "image": "https://media.wired.com/photos/6a72748a3cdcb14c0b52a581/191:100/w_1280,c_limit/CBP-Hiring-Bounty-Hunters-to-Photograph-Deportees-Homes-in-Mexico-Security.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T17:24:01.000Z"
     },
     {
       "source": "The Verge",
@@ -518,17 +543,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T16:12:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Reddit is introducing a new moderator: AI",
-      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "summary": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manag…",
-      "publishedAt": "2026-08-05T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T16:00:00.000Z"
     },
     {
       "source": "VentureBeat",
