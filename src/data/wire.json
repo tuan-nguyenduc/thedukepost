@@ -1,6 +1,57 @@
 {
-  "syncedAt": "2026-08-07T00:04:36.600Z",
+  "syncedAt": "2026-08-07T04:27:44.016Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Lines of code. 1,596 BTC gone",
+      "link": "https://onekey.so/anzen/coldcard-entropy-failure/",
+      "summary": "Article URL: https://onekey.so/anzen/coldcard-entropy-failure/\nComments URL: https://news.ycombinator.com/item?id=49205595\nPoints: 5\n# Comments: 3",
+      "publishedAt": "2026-08-07T03:25:37.000Z",
+      "image": "https://asset.onekey.so/portal/134aeb7f999fd399e3c9748687fd0d94f4529957/og/og-onekey-coldcard-entropy.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T03:25:37.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+      "publishedAt": "2026-08-07T01:16:55.000Z",
+      "image": "https://media.wired.com/photos/6a749a84077eac6832213fdf/191:100/w_1280,c_limit/BadKimi.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T01:16:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+      "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352…",
+      "publishedAt": "2026-08-07T00:06:28.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T00:06:28.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+      "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+      "summary": "Security researchers tracked and eavesdropped on a WIRED reporter using vulnerabilities in a pink plastic smartwatch. It’s just one piece of a deeply insecure supply chain of GPS-e…",
+      "publishedAt": "2026-08-06T21:35:00.000Z",
+      "image": "https://media.wired.com/photos/6a749b5af36b5a790db748af/191:100/w_1280,c_limit/Security_Dozens%20of%20GPS%20Devices%20for%20Kids%20and%20Cars%20Are%20Vulnerable%20to%20Spying%20and%20Sabotage_v1.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+          "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+          "publishedAt": "2026-08-06T23:30:03.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-06T23:30:03.000Z"
+    },
     {
       "source": "VentureBeat",
       "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
@@ -42,6 +93,17 @@
       "latestActivity": "2026-08-06T22:40:33.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+      "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+      "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
+      "publishedAt": "2026-08-06T22:20:50.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-06T22:20:50.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "Ro Khanna calls for the right to oppose data centers to be protected",
       "link": "https://www.engadget.com/2232120/ro-khanna-calls-for-the-right-to-oppose-data-centers-to-be-protected/",
@@ -75,15 +137,26 @@
       "latestActivity": "2026-08-06T22:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-      "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-      "summary": "Security researchers tracked and eavesdropped on a WIRED reporter using vulnerabilities in a pink plastic smartwatch. It’s just one piece of a deeply insecure supply chain of GPS-e…",
-      "publishedAt": "2026-08-06T21:35:00.000Z",
-      "image": "https://media.wired.com/photos/6a749b5af36b5a790db748af/191:100/w_1280,c_limit/Security_Dozens%20of%20GPS%20Devices%20for%20Kids%20and%20Cars%20Are%20Vulnerable%20to%20Spying%20and%20Sabotage_v1.jpg",
+      "source": "Hacker News",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 110\n# Comments: 19",
+      "publishedAt": "2026-08-06T21:52:16.000Z",
+      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Nepal-Flag.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-06T21:35:00.000Z"
+      "latestActivity": "2026-08-06T21:52:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "link": "https://www.aleksagordic.com/blog/vllm",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm\nComments URL: https://news.ycombinator.com/item?id=49202852\nPoints: 76\n# Comments: 4",
+      "publishedAt": "2026-08-06T21:30:21.000Z",
+      "image": "https://www.aleksagordic.com/blog/vllm/engine_constructor.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-06T21:30:21.000Z"
     },
     {
       "source": "TechCrunch",
@@ -106,6 +179,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-06T21:20:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm\nComments URL: https://news.ycombinator.com/item?id=49202716\nPoints: 71\n# Comments: 13",
+      "publishedAt": "2026-08-06T21:18:32.000Z",
+      "image": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-06T21:18:32.000Z"
     },
     {
       "source": "The Verge",
@@ -141,6 +225,35 @@
       "latestActivity": "2026-08-06T20:29:51.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "summary": "https://ir.amd.com/news-events/press-releases/detail/1296/am...\nhttps://chatjimmy.ai/\nComments URL: https://news.ycombinator.com/item?id=49201970\nPoints: 464\n# Comments: 361",
+      "publishedAt": "2026-08-06T20:23:11.000Z",
+      "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-06T20:23:11.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Quake celebrates its 30th anniversary with a new free episode",
+      "link": "https://www.engadget.com/2232022/quake-30th-anniversary-new-free-episode/",
+      "summary": "The Dawn of the Machine expansion was made by MachineGames in collaboration with id Software.",
+      "publishedAt": "2026-08-06T20:05:13.000Z",
+      "image": "https://www.engadget.com/img/gallery/quake-celebrates-its-30th-anniversary-with-a-new-free-episode/l-intro-1786046645.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Quake – 30th Anniversary Update",
+          "link": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+          "publishedAt": "2026-08-06T20:21:19.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-06T20:21:19.000Z"
+    },
+    {
       "source": "Ars Technica",
       "title": "Suno hopes to go legit with watermarks for AI-generated music",
       "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
@@ -150,17 +263,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-06T20:17:36.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Quake celebrates its 30th anniversary with a new free episode",
-      "link": "https://www.engadget.com/2232022/quake-30th-anniversary-new-free-episode/",
-      "summary": "The Dawn of the Machine expansion was made by MachineGames in collaboration with id Software.",
-      "publishedAt": "2026-08-06T20:05:13.000Z",
-      "image": "https://www.engadget.com/img/gallery/quake-celebrates-its-30th-anniversary-with-a-new-free-episode/l-intro-1786046645.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-06T20:05:13.000Z"
     },
     {
       "source": "Ars Technica",
@@ -394,17 +496,6 @@
       "latestActivity": "2026-08-06T16:41:25.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
-      "link": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
-      "summary": "Change will let \"Trump-aligned billionaires\" buy more stations, advocacy group says.",
-      "publishedAt": "2026-08-06T16:40:58.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-06T16:40:58.000Z"
-    },
-    {
       "source": "Wired",
       "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
       "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
@@ -469,17 +560,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-06T12:02:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Meteor Showers, Eclipses, and More Are on the August 2026 Astronomical Calendar",
-      "link": "https://www.wired.com/story/perseid-meteor-shower-eclipses-august-2026-astronomical-calendar/",
-      "summary": "Here’s when some of this year’s most anticipated astronomical events will happen and the best way to observe them.",
-      "publishedAt": "2026-08-06T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a738571e41d2a85b28a6aab/191:100/w_1280,c_limit/2107995410",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-06T12:00:00.000Z"
     },
     {
       "source": "VentureBeat",
