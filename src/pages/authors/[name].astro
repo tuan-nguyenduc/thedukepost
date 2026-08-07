@@ -37,6 +37,7 @@ const breadcrumbItems = [
   title={`${authorName} — The Duke Post`}
   description={`Articles by ${authorName} on The Duke Post.`}
   jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
+  additionalFeed={{ href: `/authors/${Astro.params.name}.xml`, title: `${authorName} — The Duke Post` }}
 >
   <section class="wrap page">
     <Breadcrumbs items={breadcrumbItems} />
