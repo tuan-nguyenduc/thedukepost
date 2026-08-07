@@ -1,6 +1,83 @@
 {
-  "syncedAt": "2026-08-07T20:43:08.126Z",
+  "syncedAt": "2026-08-07T22:38:24.445Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the…",
+      "publishedAt": "2026-08-07T22:05:08.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T22:05:08.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "link": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "summary": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing t…",
+      "publishedAt": "2026-08-07T21:45:39.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5XSt4gOHH2WQdbifIoXK6w/00bfc6d7266a45109f92821ac8555cec/Multi-agent_cooperation.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T21:45:39.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "publishedAt": "2026-08-07T21:30:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T21:30:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "publishedAt": "2026-08-07T21:20:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Wacom-Movinkpad.webp?w=564",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T21:20:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments UR…",
+      "publishedAt": "2026-08-07T21:19:57.000Z",
+      "image": "https://image.theregister.com/5285090.jpg?imageId=5285090&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T21:19:57.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+      "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+      "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+      "publishedAt": "2026-08-07T21:09:00.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T21:09:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "publishedAt": "2026-08-07T21:00:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/poland-cyber-internet-1232657831.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T21:00:08.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
@@ -11,6 +88,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T20:01:51.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+      "publishedAt": "2026-08-07T19:49:27.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T19:49:27.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+      "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+      "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+      "publishedAt": "2026-08-07T19:00:17.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/The-scientists-and-the-equipments-for-the-mission-Credit-F-Claudel-1152x648.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T19:00:17.000Z"
     },
     {
       "source": "The Verge",
@@ -27,7 +126,7 @@
       "source": "Hacker News",
       "title": "App Store Rejection of the Week: Dark Hours",
       "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "summary": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\nComments URL: https://news.ycombinator.com/item?id=49214863\nPoints: 109\n# Comments: 32",
+      "summary": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\nComments URL: https://news.ycombinator.com/item?id=49214863\nPoints: 204\n# Comments: 98",
       "publishedAt": "2026-08-07T18:59:08.000Z",
       "image": "https://daringfireball.net/graphics/df-wide-card.png",
       "sourceCount": 1,
@@ -47,11 +146,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "Psychological Warfare in Reverse Engineering",
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
       "link": "https://github.com/xoreaxeaxeax/repsych",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 10\n# Comments: 1",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 33\n# Comments: 2",
       "publishedAt": "2026-08-07T18:51:45.000Z",
-      "image": "https://opengraph.githubassets.com/d35d1f0af7b050967f307cfebee1be77e3fe35500c505284c643389945300c67/xoreaxeaxeax/REpsych",
+      "image": "https://opengraph.githubassets.com/dc9355909500711dfb200fdab63fd784b1ef3d6e51b5b12c81b6bd500ef0f927/xoreaxeaxeax/REpsych",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:51:45.000Z"
@@ -60,7 +159,7 @@
       "source": "Hacker News",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "link": "https://ancientlibrary.net/",
-      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 39\n# Comments: 14",
+      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 95\n# Comments: 30",
       "publishedAt": "2026-08-07T18:51:14.000Z",
       "image": "https://ancientlibrary.net/wp-content/uploads/ancientlibrary/og-default.png",
       "sourceCount": 1,
@@ -104,7 +203,7 @@
       "source": "Hacker News",
       "title": "Databricks drove down AI coding spend 70%",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 93\n# Comments: 47",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 135\n# Comments: 125",
       "publishedAt": "2026-08-07T18:25:17.000Z",
       "image": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
       "sourceCount": 1,
@@ -170,9 +269,9 @@
       "source": "Hacker News",
       "title": "Assembly Hall of Shame",
       "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=49214098\nPoints: 113\n# Comments: 27",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=49214098\nPoints: 181\n# Comments: 41",
       "publishedAt": "2026-08-07T18:01:30.000Z",
-      "image": "https://opengraph.githubassets.com/f6ab6bafa99491ffde36cb00ae5ca95c849ac66ec4c4261a15810f6399f792c3/xoreaxeaxeax/asm-hall-of-shame",
+      "image": "https://opengraph.githubassets.com/cc31f6590be47617ecaac66aab2d8bd37fe05c9dc95654d2d95b4e770aa3fafd/xoreaxeaxeax/asm-hall-of-shame",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:01:30.000Z"
@@ -192,23 +291,12 @@
       "source": "Hacker News",
       "title": "DeepSeek V4 Flash 0731",
       "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 233\n# Comments: 148",
+      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 339\n# Comments: 208",
       "publishedAt": "2026-08-07T17:56:20.000Z",
       "image": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T17:56:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
-      "link": "https://theclaudyssey.com/",
-      "summary": "Article URL: https://theclaudyssey.com/\nComments URL: https://news.ycombinator.com/item?id=49213985\nPoints: 20\n# Comments: 18",
-      "publishedAt": "2026-08-07T17:55:14.000Z",
-      "image": "cover.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T17:55:14.000Z"
     },
     {
       "source": "The Verge",
@@ -332,17 +420,6 @@
       "latestActivity": "2026-08-07T16:48:21.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Googl…",
-      "publishedAt": "2026-08-07T16:45:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T16:45:14.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
       "link": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
@@ -368,7 +445,7 @@
       "source": "TechCrunch",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common…",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browse…",
       "publishedAt": "2026-08-07T16:16:09.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
       "sourceCount": 1,
@@ -420,17 +497,6 @@
       "latestActivity": "2026-08-07T15:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Report: White House drafting executive order linking vaccines and autism",
-      "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
-      "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
-      "publishedAt": "2026-08-07T14:41:34.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T14:41:34.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
@@ -440,28 +506,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T14:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-      "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-      "publishedAt": "2026-08-07T14:28:31.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T14:28:31.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "publishedAt": "2026-08-07T14:22:49.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T14:22:49.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -486,17 +530,6 @@
       "latestActivity": "2026-08-07T14:13:57.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
-      "publishedAt": "2026-08-07T14:07:31.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T14:07:31.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
       "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
@@ -517,28 +550,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T13:56:51.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
-      "publishedAt": "2026-08-07T13:49:37.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T13:49:37.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "summary": "TikTok owner training a model with 10 trillion parameters.",
-      "publishedAt": "2026-08-07T13:29:22.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T13:29:22.000Z"
     },
     {
       "source": "Wired",
@@ -627,17 +638,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-06T07:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
-      "link": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
-      "summary": "Meta today released Muse Code, a terminal-based AI coding agent now in beta, alongside Muse Spark 1.2, a coding-focused update to its Muse Spark family of frontier models — a one-t…",
-      "publishedAt": "2026-08-05T21:00:10.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6O04LNAC5tze3POrf1sJIb/f662aa9a3b5329ec7d56034dc95a8fdf/ChatGPT_Image_Aug_5__2026__04_43_41_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T21:00:10.000Z"
     },
     {
       "source": "MIT Technology Review",
