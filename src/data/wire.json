@@ -1,6 +1,138 @@
 {
-  "syncedAt": "2026-08-08T10:36:12.832Z",
+  "syncedAt": "2026-08-08T12:52:57.412Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "link": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+      "summary": "Article URL: https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference\nComments URL: https://news.ycombinator.com/item?id=49221089\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-08-08T12:16:03.000Z",
+      "image": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T12:16:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "summary": "Cute name, especially if it were a wookiee. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nFinding a good laptop under $500 was hard enough before RAMageddon. They nearly always ha…",
+      "publishedAt": "2026-08-08T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268691_Chuwi_UniBook_laptop_review_ADiBenedetto_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "My favorite feel-good show is back",
+      "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old…",
+      "publishedAt": "2026-08-08T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Installer-139.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T12:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+      "link": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+      "summary": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It’s pretty small.",
+      "publishedAt": "2026-08-08T12:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a7651c98a575c891a2cf22e/191:100/w_1280,c_limit/HPBHQIZbAAA0Y1q.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T12:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+      "link": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+      "summary": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
+      "publishedAt": "2026-08-08T11:34:00.000Z",
+      "image": "https://media.wired.com/photos/6a757061b127f3f26cdccecc/191:100/w_1280,c_limit/My-Favorite-Budget-Laptop-Is-50-Percent-Off-Its-Retail-Price.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T11:34:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+      "publishedAt": "2026-08-08T11:30:48.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PIA26379-Sol-1295-Navcam-NLF_1295_0781909732_909RZS_N0603852NCAM02295_0A0195J01-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T11:30:48.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Big Walk, retro electronic repairs and other new indie games worth checking out",
+      "link": "https://www.engadget.com/2232571/big-walk-retro-electronic-repairs-and-other-new-indie-games-worth-checking-out/",
+      "summary": "We're looking forward to Big Walk, ReStory: Chill Electronics Repairs, Pigeon: A Love Story and several others this week.",
+      "publishedAt": "2026-08-08T11:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/big-walk-retro-electronic-repairs-and-other-new-indie-games-worth-checking-out/l-intro-1786122249.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T11:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "publishedAt": "2026-08-08T11:05:50.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T11:05:50.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+      "link": "https://www.wired.com/story/best-gaming-laptops/",
+      "summary": "You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
+      "publishedAt": "2026-08-08T11:01:00.000Z",
+      "image": "https://media.wired.com/photos/69e668fcab15b90f6c64db2c/191:100/w_1280,c_limit/The-Best-Gaming-Laptops.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T11:01:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/\nComments URL: https://news.ycombinator.com/item?id=49220609\nPoints: 49\n# Comments: 69",
+      "publishedAt": "2026-08-08T10:57:44.000Z",
+      "image": "https://img.youtube.com/vi/87DyyMV0kCY/maxresdefault.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T10:57:44.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
+      "link": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
+      "summary": "Xteink’s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.",
+      "publishedAt": "2026-08-08T10:36:00.000Z",
+      "image": "https://media.wired.com/photos/6a7697d0de0a40f999466696/191:100/w_1280,c_limit/Review--Xteink-X4-Pro-E-Reader.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T10:36:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "X is replacing revenue sharing with a new original content rewards program",
+      "link": "https://www.engadget.com/2232981/x-replacing-revenue-sharing-with-original-content-rewards-program/",
+      "summary": "X is retiring its old rewards-sharing program after September 7.",
+      "publishedAt": "2026-08-08T10:31:34.000Z",
+      "image": "https://www.engadget.com/img/gallery/x-is-replacing-revenue-sharing-with-a-new-original-content-rewards-program/l-intro-1786184989.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T10:31:34.000Z"
+    },
     {
       "source": "Wired",
       "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
@@ -16,7 +148,7 @@
       "source": "Hacker News",
       "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
       "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html\nComments URL: https://news.ycombinator.com/item?id=49220390\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html\nComments URL: https://news.ycombinator.com/item?id=49220390\nPoints: 17\n# Comments: 30",
       "publishedAt": "2026-08-08T10:16:01.000Z",
       "image": null,
       "sourceCount": 1,
@@ -27,23 +159,12 @@
       "source": "Hacker News",
       "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
       "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html\nComments URL: https://news.ycombinator.com/item?id=49220350\nPoints: 9\n# Comments: 1",
+      "summary": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html\nComments URL: https://news.ycombinator.com/item?id=49220350\nPoints: 111\n# Comments:…",
       "publishedAt": "2026-08-08T10:07:06.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T10:07:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide\nComments URL: https://news.ycombinator.c…",
-      "publishedAt": "2026-08-08T10:04:25.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T10:04:25.000Z"
     },
     {
       "source": "Wired",
@@ -97,45 +218,23 @@
       "latestActivity": "2026-08-08T09:31:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Spokane Shows What the New Era of Wildfires Looks Like",
-      "link": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
-      "summary": "With rising temperatures and drier conditions, fires are more likely to explode. And with more people living next to forests, the results can be catastrophic.",
-      "publishedAt": "2026-08-08T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a764d20398e814473bb62d8/191:100/w_1280,c_limit/GettyImages-2288271543.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T09:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "WhatsApp Gets a Handy @all Feature for Group Chats",
-      "link": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
-      "summary": "A new software update builds on WhatsApp’s group chat chops by adding anonymous polls and introducing an easier way to start a smaller private chat away from the larger group.",
-      "publishedAt": "2026-08-08T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7514f3c44a52857403c1d1/191:100/w_1280,c_limit/English_WhatsApp_better-polls-and-@all.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T09:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
-      "link": "https://www.wired.com/story/best-solar-generators/",
-      "summary": "If you want to capture the sun’s power with solar panels, these are the best solar generators I’ve tested.",
-      "publishedAt": "2026-08-08T09:00:00.000Z",
+      "source": "Hacker News",
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "summary": "Article URL: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\nComments URL: https://news.ycombinator.com/item?id=49220126\nPoints: 42…",
+      "publishedAt": "2026-08-08T09:18:50.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-08T09:00:00.000Z"
+      "latestActivity": "2026-08-08T09:18:50.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Hardware backdoors in some x86 CPUs",
       "link": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 101\n# Comments: 28",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 171\n# Comments: 54",
       "publishedAt": "2026-08-08T07:04:51.000Z",
-      "image": "https://opengraph.githubassets.com/e570274526f4ccc83f8e9092d1551490e045ec25aec43daee00ffb759969e932/xoreaxeaxeax/rosenbridge",
+      "image": "https://opengraph.githubassets.com/43826bf9cc71979cf6a25681411cb4df54b4b13e32faed4ed166302441c1f1bb/xoreaxeaxeax/rosenbridge",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T07:04:51.000Z"
@@ -163,17 +262,6 @@
       "latestActivity": "2026-08-08T01:49:11.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The Nixpkgs core team has disbanded",
-      "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 305\n# Comments: 148",
-      "publishedAt": "2026-08-08T01:12:45.000Z",
-      "image": "https://discourse.nixos.org/uploads/default/original/3X/a/5/a5e0d7873e3d34aecf874c577c91a1c06490f436.svg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T01:12:45.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -183,17 +271,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T22:48:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "link": "https://genesisopenmodels.anl.gov/",
-      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 236\n# Comments: 84",
-      "publishedAt": "2026-08-07T22:24:27.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T22:24:27.000Z"
     },
     {
       "source": "The Verge",
@@ -306,17 +383,6 @@
       "latestActivity": "2026-08-07T18:59:46.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
-      "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
-      "summary": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach…",
-      "publishedAt": "2026-08-07T18:54:04.000Z",
-      "image": "https://media.wired.com/photos/6a73a1931940912fe3731ad5/191:100/w_1280,c_limit/Made-In-China-Christopher-Nolan-Interview-That-Broke-Chinese-Internet-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T18:54:04.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
@@ -416,17 +482,6 @@
       "latestActivity": "2026-08-07T18:00:02.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Disney Plus tries a new AI-powered search",
-      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "summary": "Disney’s AI tools for Disney Plus and ESPN.\t\n\nDisney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to c…",
-      "publishedAt": "2026-08-07T17:53:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-docs-image-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T17:53:44.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
       "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
@@ -436,50 +491,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T17:51:05.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-      "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-      "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier thi…",
-      "publishedAt": "2026-08-07T17:43:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T17:43:34.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "publishedAt": "2026-08-07T17:36:22.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T17:36:22.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Korean lunar orbiter snaps first pics of the SpaceX Falcon 9 crash site on the moon",
-      "link": "https://www.engadget.com/2232601/korean-lunar-orbiter-snaps-first-pics-of-the-spacex-falcon-9-crash-site-on-the-moon/",
-      "summary": "NASA believes the crater left by the rocket is around 60 feet wide.",
-      "publishedAt": "2026-08-07T17:29:08.000Z",
-      "image": "https://www.engadget.com/img/gallery/korean-lunar-orbiter-snaps-first-pics-of-the-spacex-falcon-9-crash-site-on-the-moon/l-intro-1786123420.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T17:29:08.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "How snails engineer their slime",
-      "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
-      "summary": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
-      "publishedAt": "2026-08-07T17:25:20.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/snailslime-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T17:25:20.000Z"
     },
     {
       "source": "VentureBeat",
@@ -502,17 +513,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T16:30:29.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "AI is changing cybersecurity in quick and terrifying ways",
-      "link": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way/",
-      "summary": "Hackers employing AI in their tactics are finding ways to exploit vulnerabilities that didn't even exist before.",
-      "publishedAt": "2026-08-07T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/ai-is-changing-cybersecurity-in-quick-and-terrifying-ways/l-intro-1785782521.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T16:30:00.000Z"
     },
     {
       "source": "TechCrunch",
