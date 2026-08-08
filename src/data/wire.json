@@ -1,6 +1,17 @@
 {
-  "syncedAt": "2026-08-08T18:40:20.661Z",
+  "syncedAt": "2026-08-08T20:32:39.508Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "publishedAt": "2026-08-08T19:41:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T19:41:13.000Z"
+    },
     {
       "source": "Engadget",
       "title": "How to connect your retro GameCube to a modern TV",
@@ -16,7 +27,7 @@
       "source": "Hacker News",
       "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
       "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\nComments URL: https://news.ycombinator.com/item?id=49224294\nPoints: 8\n# Comments: 0",
+      "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\nComments URL: https://news.ycombinator.com/item?id=49224294\nPoints: 245\n# Comments: 114",
       "publishedAt": "2026-08-08T18:09:31.000Z",
       "image": "https://mezha.net/eng/kd_image_generate/ca117584_denmark_requires_oral/3348978.jpg?ver=2.0.15",
       "sourceCount": 1,
@@ -35,6 +46,17 @@
       "latestActivity": "2026-08-08T17:53:34.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/\nComments URL: https://news.ycombinator.com/item?id=49224020\nPoints: 18\n# Comments: 3",
+      "publishedAt": "2026-08-08T17:42:40.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T17:42:40.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "How to get the best battery life from your retro handheld game console",
       "link": "https://www.engadget.com/2230359/retro-handheld-game-console-how-to-best-battery-life/",
@@ -47,11 +69,22 @@
     },
     {
       "source": "Hacker News",
+      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+      "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+      "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country\nComments URL: https://news.ycombinator.com/item?id=49223845\nPoints: 101…",
+      "publishedAt": "2026-08-08T17:27:52.000Z",
+      "image": "https://images.newrepublic.com/8f7acb5e8746b79f60cadd801a4b9b90be7df0e6.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T17:27:52.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "LinkedIn Feed Blocker",
       "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
-      "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker\nComments URL: https://news.ycombinator.com/item?id=49223475\nPoints: 44\n# Comments: 33",
+      "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker\nComments URL: https://news.ycombinator.com/item?id=49223475\nPoints: 111\n# Comments: 67",
       "publishedAt": "2026-08-08T16:49:07.000Z",
-      "image": "https://opengraph.githubassets.com/3a3edb9d1af783d77fbcd788f4d82770a708a2c7a73ae270a7038d09eeed983f/andrewpollack/linkedin-feed-blocker",
+      "image": "https://opengraph.githubassets.com/7fe24bf2c7eacbc3b40ee67025bed6dead02858d3d03e26219db455edf601785/andrewpollack/linkedin-feed-blocker",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T16:49:07.000Z"
@@ -82,7 +115,7 @@
       "source": "Hacker News",
       "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
       "link": "https://toonk.io/index.html",
-      "summary": "Article URL: https://toonk.io/index.html\nComments URL: https://news.ycombinator.com/item?id=49223105\nPoints: 7\n# Comments: 1",
+      "summary": "Article URL: https://toonk.io/index.html\nComments URL: https://news.ycombinator.com/item?id=49223105\nPoints: 21\n# Comments: 7",
       "publishedAt": "2026-08-08T16:07:00.000Z",
       "image": "http://toonk.io/content/images/2020/10/og-img-toonkio.png",
       "sourceCount": 1,
@@ -93,7 +126,7 @@
       "source": "Hacker News",
       "title": "Fastmail offers EU data region",
       "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\nComments URL: https://news.ycombinator.com/item?id=49223082\nPoints: 101\n# Comments: 48",
+      "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\nComments URL: https://news.ycombinator.com/item?id=49223082\nPoints: 199\n# Comments: 95",
       "publishedAt": "2026-08-08T16:04:51.000Z",
       "image": "https://www.fastmail.com/assets/images/data-center-hero-3jPa_k89iw-1200.png",
       "sourceCount": 1,
@@ -104,7 +137,7 @@
       "source": "Hacker News",
       "title": "Can Intel finally beat ARM on performance per Watt?",
       "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-      "summary": "Article URL: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/\nComments URL: https://news.ycombinator.com/item?id=49223079\nPoints: 11\n# Comments: 1",
+      "summary": "Article URL: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/\nComments URL: https://news.ycombinator.com/item?id=49223079\nPoints: 79\n# Comments: 22",
       "publishedAt": "2026-08-08T16:04:36.000Z",
       "image": "https://hackaday.com/wp-content/uploads/2026/08/XPS-v-Neo-Jeff-feat.jpg",
       "sourceCount": 1,
@@ -132,6 +165,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T15:47:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Message your other Claude Code sessions",
+      "link": "https://code.claude.com/docs/en/cross-session-messaging",
+      "summary": "Article URL: https://code.claude.com/docs/en/cross-session-messaging\nComments URL: https://news.ycombinator.com/item?id=49222824\nPoints: 11\n# Comments: 4",
+      "publishedAt": "2026-08-08T15:34:49.000Z",
+      "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DAgents%2Band%2Bparallel%2Bwork%26appearance%3Dsystem%26title%3DMessage%2Byour%2Bother%2BClaude%2BCode%2Bsessions%26description%3DLet%2BClaude%2Blist%2Band%2Bmessage%2Byour%2Bother%2BClaude%2BCode%2Bsessions%2Bon%2Bone%2Bmachine%252C%2Band%2Breply%2Bto%2Byour%2Bsessions%2Bon%2Bother%2Bmachines%2Bor%2Bon%2Bthe%2Bweb%2Bthrough%2BRemote%2BControl.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&w=1200&q=100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T15:34:49.000Z"
     },
     {
       "source": "Engadget",
@@ -167,17 +211,6 @@
       "latestActivity": "2026-08-08T15:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "\"Code was never the hard part\" is an insult to all programmers",
-      "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "summary": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers\nComments URL: https://news.ycombinator.com/item?id=49222189\nPoints: 73\n# Comments:…",
-      "publishedAt": "2026-08-08T14:32:33.000Z",
-      "image": "https://cdn.writeas.net/img/w-sq-light.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T14:32:33.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Your phone's USB-C port does a lot more than just charge - Here's what else it can do",
       "link": "https://www.engadget.com/2229985/phone-usb-c-port-what-else-it-can-do-not-charging/",
@@ -209,28 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T14:03:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
-      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779\nComments URL: https://news.ycombinator.com/item?id=49221864\nPoints: 108\n# Comments: 70",
-      "publishedAt": "2026-08-08T13:55:42.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T13:55:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Triton: DirectX 11 Driver for QEMU",
-      "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-      "summary": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/\nComments URL: https://news.ycombinator.com/item?id=49221711\nPoints: 66\n# Comments: 7",
-      "publishedAt": "2026-08-08T13:33:06.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T13:33:06.000Z"
     },
     {
       "source": "Engadget",
@@ -550,17 +561,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T16:30:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browse…",
-      "publishedAt": "2026-08-07T16:16:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T16:16:09.000Z"
     },
     {
       "source": "MIT Technology Review",
