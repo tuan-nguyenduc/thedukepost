@@ -1,11 +1,33 @@
 {
-  "syncedAt": "2026-08-08T06:57:16.129Z",
+  "syncedAt": "2026-08-08T08:44:36.017Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 49\n# Comments: 8",
+      "publishedAt": "2026-08-08T07:04:51.000Z",
+      "image": "https://opengraph.githubassets.com/97b76761ee62a22489601f83e1c0b941ac982dc2f1edc60eaca9e7ae005984a6/xoreaxeaxeax/rosenbridge",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T07:04:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+      "summary": "The Nitecore NB10000 Gen 4 power bank is a great option for endurance athletes and backpackers. | Photo by Thomas Ricker / The Verge\t\n\nThere's two things you should know about me,…",
+      "publishedAt": "2026-08-08T07:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T07:00:00.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Mythos social engineering AISI INC-2026-07-28-01",
       "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-      "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3\nComments URL: https://news.ycombinator.com/item?id=49218707\nPoints: 44\n# Commen…",
+      "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3\nComments URL: https://news.ycombinator.com/item?id=49218707\nPoints: 57\n# Commen…",
       "publishedAt": "2026-08-08T03:41:56.000Z",
       "image": "https://web.archive.org/web/20260731053721im_/https://opengraph.githubassets.com/c4cfaaf58841bcfc90a77f07078889128ca99f4f54e0597c9207f09fe0e27534/ancaferro/myNetwork/pull/3",
       "sourceCount": 1,
@@ -14,7 +36,7 @@
     },
     {
       "source": "Hacker News",
-      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
       "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
       "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.yc…",
       "publishedAt": "2026-08-08T01:49:11.000Z",
@@ -27,7 +49,7 @@
       "source": "Hacker News",
       "title": "The Nixpkgs core team has disbanded",
       "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 255\n# Comments: 114",
+      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 282\n# Comments: 133",
       "publishedAt": "2026-08-08T01:12:45.000Z",
       "image": "https://discourse.nixos.org/uploads/default/original/3X/a/5/a5e0d7873e3d34aecf874c577c91a1c06490f436.svg",
       "sourceCount": 1,
@@ -49,7 +71,7 @@
       "source": "Hacker News",
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "link": "https://genesisopenmodels.anl.gov/",
-      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 192\n# Comments: 64",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 217\n# Comments: 73",
       "publishedAt": "2026-08-07T22:24:27.000Z",
       "image": null,
       "sourceCount": 1,
@@ -203,9 +225,9 @@
       "source": "Hacker News",
       "title": "Psychological Warfare in Reverse Engineering (2015)",
       "link": "https://github.com/xoreaxeaxeax/repsych",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 62\n# Comments: 3",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 69\n# Comments: 4",
       "publishedAt": "2026-08-07T18:51:45.000Z",
-      "image": "https://opengraph.githubassets.com/8f1edcd59eabd6abfcfc647db79a3beb45a743e08cbc4b447a9b5ffd5926bf4a/xoreaxeaxeax/REpsych",
+      "image": "https://opengraph.githubassets.com/042fcf9483a619660138f1b215ef48f81a24ba312dca55175436460df46f8d47/xoreaxeaxeax/REpsych",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:51:45.000Z"
@@ -214,7 +236,7 @@
       "source": "Hacker News",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "link": "https://ancientlibrary.net/",
-      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 183\n# Comments: 58",
+      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 202\n# Comments: 62",
       "publishedAt": "2026-08-07T18:51:14.000Z",
       "image": "https://ancientlibrary.net/wp-content/uploads/ancientlibrary/og-default.png",
       "sourceCount": 1,
@@ -253,17 +275,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Managing AI Coding Costs at Scale",
-      "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 213\n# Comments: 194",
-      "publishedAt": "2026-08-07T18:25:17.000Z",
-      "image": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T18:25:17.000Z"
     },
     {
       "source": "Engadget",
@@ -407,17 +418,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T17:05:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-      "link": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-      "summary": "“One ring to rule them all” | Image: Warner Bros.\t\n\nLooking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99,…",
-      "publishedAt": "2026-08-07T16:58:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9605339/fellowshipofthering.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T16:58:18.000Z"
     },
     {
       "source": "Wired",
