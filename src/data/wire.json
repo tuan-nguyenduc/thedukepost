@@ -1,16 +1,115 @@
 {
-  "syncedAt": "2026-08-08T12:52:57.412Z",
+  "syncedAt": "2026-08-08T14:34:02.760Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "link": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-      "summary": "Article URL: https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference\nComments URL: https://news.ycombinator.com/item?id=49221089\nPoints: 7\n# Comments: 0",
-      "publishedAt": "2026-08-08T12:16:03.000Z",
-      "image": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg",
+      "source": "Wired",
+      "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+      "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+      "summary": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
+      "publishedAt": "2026-08-08T14:30:29.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-08T12:16:03.000Z"
+      "latestActivity": "2026-08-08T14:30:29.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Your phone's USB-C port does a lot more than just charge - Here's what else it can do",
+      "link": "https://www.engadget.com/2229985/phone-usb-c-port-what-else-it-can-do-not-charging/",
+      "summary": "A USB-C port presents a lot of options for data transfer and connecting to accessories. Let's talk about some of the most useful ways to employ your USB-C port.",
+      "publishedAt": "2026-08-08T14:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/your-phones-usb-c-port-does-a-lot-more-than-just-charge-heres-what-else-it-can-do/l-intro-1785851122.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T14:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Mario Kart 64 in VR is not for the queasy",
+      "link": "https://www.engadget.com/2232798/mario-kart-64-in-vr-is-not-for-the-queasy/",
+      "summary": "There are worse ways to kill time than Mario Kart 64 in VR -just don't eat beforehand.",
+      "publishedAt": "2026-08-08T14:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/mario-kart-64-in-vr-is-not-for-the-queasy/l-intro-1786132045.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T14:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+      "link": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+      "summary": "A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “distortions,” it would also bar questions about race and sexual o…",
+      "publishedAt": "2026-08-08T14:03:58.000Z",
+      "image": "https://media.wired.com/photos/6a7630b55d2ebc1c5247b509/191:100/w_1280,c_limit/GettyImages-157580450-edited.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T14:03:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779\nComments URL: https://news.ycombinator.com/item?id=49221864\nPoints: 9\n# Comments: 0",
+      "publishedAt": "2026-08-08T13:55:42.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T13:55:42.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Apple Watch heart rate feature you probably didn't realize existed",
+      "link": "https://www.engadget.com/2229979/apple-watch-heart-rate-app-feature-didnt-realize-existed/",
+      "summary": "Apple has a not-so-obvious heart rate feature that's worth checking out. Here's what it does and how to use it.",
+      "publishedAt": "2026-08-08T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-apple-watch-heart-rate-feature-you-probably-didnt-realize-existed/l-intro-1785855914.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T13:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Voyager 1 FDS Computer Emulator",
+      "link": "https://zaneham.github.io/voyager-fds-emulator/",
+      "summary": "Article URL: https://zaneham.github.io/voyager-fds-emulator/\nComments URL: https://news.ycombinator.com/item?id=49221679\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-08-08T13:28:38.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T13:28:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A domain can now say it is for sale, in DNS",
+      "link": "https://specification.website/spec/foundations/for-sale-dns/",
+      "summary": "Article URL: https://specification.website/spec/foundations/for-sale-dns/\nComments URL: https://news.ycombinator.com/item?id=49221668\nPoints: 19\n# Comments: 3",
+      "publishedAt": "2026-08-08T13:26:51.000Z",
+      "image": "https://specification.website/og/spec/foundations/for-sale-dns.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T13:26:51.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Supernatural's head of fitness on rebooting the VR exercise app after leaving Meta",
+      "link": "https://www.engadget.com/2232716/supernatural-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/",
+      "summary": "We chatted with Supernatural's Head of Fitness about the company's plans for its VR exercise app.",
+      "publishedAt": "2026-08-08T13:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/supernaturals-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/l-intro-1786128253.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "link": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "summary": "Article URL: https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/\nComments URL: https://news.ycombinator.com/item?id=49221220\nPoints: 8\n# Comments: 0",
+      "publishedAt": "2026-08-08T12:31:11.000Z",
+      "image": "https://assets.buttondown.email/images/4b50f07a-a564-4d8c-bb2e-09e73d3624ec.png?w=960&fit=max",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T12:31:11.000Z"
     },
     {
       "source": "The Verge",
@@ -104,7 +203,7 @@
       "source": "Hacker News",
       "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/\nComments URL: https://news.ycombinator.com/item?id=49220609\nPoints: 49\n# Comments: 69",
+      "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/\nComments URL: https://news.ycombinator.com/item?id=49220609\nPoints: 100\n# Comments: 118",
       "publishedAt": "2026-08-08T10:57:44.000Z",
       "image": "https://img.youtube.com/vi/87DyyMV0kCY/maxresdefault.jpg",
       "sourceCount": 1,
@@ -146,20 +245,20 @@
     },
     {
       "source": "Hacker News",
-      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-      "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html\nComments URL: https://news.ycombinator.com/item?id=49220390\nPoints: 17\n# Comments: 30",
-      "publishedAt": "2026-08-08T10:16:01.000Z",
-      "image": null,
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+      "summary": "Article URL: https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3\nComments URL: https://news.ycombinator.com/item?id=49220392\nPoints: 45\n# Comments: 2…",
+      "publishedAt": "2026-08-08T10:16:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-08T10:16:01.000Z"
+      "latestActivity": "2026-08-08T10:16:07.000Z"
     },
     {
       "source": "Hacker News",
       "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
       "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html\nComments URL: https://news.ycombinator.com/item?id=49220350\nPoints: 111\n# Comments:…",
+      "summary": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html\nComments URL: https://news.ycombinator.com/item?id=49220350\nPoints: 159\n# Comments:…",
       "publishedAt": "2026-08-08T10:07:06.000Z",
       "image": null,
       "sourceCount": 1,
@@ -173,17 +272,6 @@
       "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
       "publishedAt": "2026-08-08T10:00:00.000Z",
       "image": "https://media.wired.com/photos/6a75b644a7eaec3ecd711279/191:100/w_1280,c_limit/GoolgeNoAI.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
-      "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
-      "summary": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending them corporate secret…",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a761055f890ad2594b07002/191:100/w_1280,c_limit/Security_Companies%20Are%20Leaking%20Sensitive%20Data%20Due%20to%20Dumb%20Email%20Flaws_v1.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T10:00:00.000Z"
@@ -207,39 +295,6 @@
       "latestActivity": "2026-08-08T09:58:41.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
-      "link": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
-      "summary": "Hairmax’s LaserBand 82 ComfortFlex took only 90 seconds per treatment, and it produced visible results along my widening part.",
-      "publishedAt": "2026-08-08T09:31:00.000Z",
-      "image": "https://media.wired.com/photos/6a7699d523a3ccec78db5ea6/191:100/w_1280,c_limit/Review--Hairmax-LaserBand-82-ComfortFlex.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T09:31:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "summary": "Article URL: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/\nComments URL: https://news.ycombinator.com/item?id=49220126\nPoints: 42…",
-      "publishedAt": "2026-08-08T09:18:50.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T09:18:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hardware backdoors in some x86 CPUs",
-      "link": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge\nComments URL: https://news.ycombinator.com/item?id=49219508\nPoints: 171\n# Comments: 54",
-      "publishedAt": "2026-08-08T07:04:51.000Z",
-      "image": "https://opengraph.githubassets.com/43826bf9cc71979cf6a25681411cb4df54b4b13e32faed4ed166302441c1f1bb/xoreaxeaxeax/rosenbridge",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T07:04:51.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Nitecore’s latest power bank is the lightest and most compact yet",
       "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
@@ -249,17 +304,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T07:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.yc…",
-      "publishedAt": "2026-08-08T01:49:11.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/THvP2fXPd8rkVuYiU2LB97-2000-80.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T01:49:11.000Z"
     },
     {
       "source": "TechCrunch",
@@ -414,50 +458,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Sony might be rebooting its 2020 flagship headphones",
-      "link": "https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/",
-      "summary": "Sony might turn back the clock and revive an older model to save potential buyers some cash.",
-      "publishedAt": "2026-08-07T18:24:20.000Z",
-      "image": "https://www.engadget.com/img/gallery/sony-might-be-rebooting-its-2020-flagship-headphones/l-intro-1786126971.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T18:24:20.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Static Hour challenges you to be the arbiter of truth and fear",
-      "link": "https://www.engadget.com/2232681/static-hour-challenges-you-to-be-the-arbiter-of-truth-and-fear/",
-      "summary": "If only being a nighttime news editor was this thrilling all the time.",
-      "publishedAt": "2026-08-07T18:19:54.000Z",
-      "image": "https://www.engadget.com/img/gallery/static-hour-challenges-you-to-be-the-arbiter-of-truth-and-fear/l-intro-1786126719.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T18:19:54.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "We thought we wouldn't write about Overwatch characters anymore but D.Mon looks too sick not to",
-      "link": "https://www.engadget.com/2232670/we-thought-we-wouldnt-write-about-overwatch-characters-anymore-but-dmon-looks-too-sick-not-to/",
-      "summary": "The new Overwatch hero is part-D.Va, part-Reinhardt and 100 percent cool as heck.",
-      "publishedAt": "2026-08-07T18:11:38.000Z",
-      "image": "https://www.engadget.com/img/gallery/we-thought-we-wouldnt-write-about-overwatch-characters-anymore-but-d-mon-looks-too-sick-not-to/l-intro-1786126222.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T18:11:38.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
-      "link": "https://www.engadget.com/2232653/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/",
-      "summary": "This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.",
-      "publishedAt": "2026-08-07T18:04:19.000Z",
-      "image": "https://www.engadget.com/img/gallery/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/l-intro-1786125677.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T18:04:19.000Z"
     },
     {
       "source": "The Verge",
