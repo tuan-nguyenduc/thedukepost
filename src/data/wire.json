@@ -1,6 +1,39 @@
 {
-  "syncedAt": "2026-08-07T22:38:24.445Z",
+  "syncedAt": "2026-08-08T01:48:15.213Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals\nComments URL: https://news.ycombinator.com/i…",
+      "publishedAt": "2026-08-08T00:03:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T00:03:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr…",
+      "publishedAt": "2026-08-07T22:48:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T22:48:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "link": "https://genesisopenmodels.anl.gov/",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 81\n# Comments: 38",
+      "publishedAt": "2026-08-07T22:24:27.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T22:24:27.000Z"
+    },
     {
       "source": "The Verge",
       "title": "The gaming site sponsored by Walmart lays off its editorial staff",
@@ -11,6 +44,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T22:05:08.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+      "publishedAt": "2026-08-07T21:48:21.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T21:48:21.000Z"
     },
     {
       "source": "VentureBeat",
@@ -36,9 +80,9 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
       "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
       "publishedAt": "2026-08-07T21:20:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Wacom-Movinkpad.webp?w=564",
       "sourceCount": 1,
@@ -123,17 +167,6 @@
       "latestActivity": "2026-08-07T18:59:46.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "App Store Rejection of the Week: Dark Hours",
-      "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "summary": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\nComments URL: https://news.ycombinator.com/item?id=49214863\nPoints: 204\n# Comments: 98",
-      "publishedAt": "2026-08-07T18:59:08.000Z",
-      "image": "https://daringfireball.net/graphics/df-wide-card.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T18:59:08.000Z"
-    },
-    {
       "source": "Wired",
       "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
       "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
@@ -148,9 +181,9 @@
       "source": "Hacker News",
       "title": "Psychological Warfare in Reverse Engineering (2015)",
       "link": "https://github.com/xoreaxeaxeax/repsych",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 33\n# Comments: 2",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 50\n# Comments: 2",
       "publishedAt": "2026-08-07T18:51:45.000Z",
-      "image": "https://opengraph.githubassets.com/dc9355909500711dfb200fdab63fd784b1ef3d6e51b5b12c81b6bd500ef0f927/xoreaxeaxeax/REpsych",
+      "image": "https://opengraph.githubassets.com/65f57024ee3e5f6cd55ee871fb995e116eb3caec6dcce442dc1ba696a6d2b702/xoreaxeaxeax/REpsych",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:51:45.000Z"
@@ -159,7 +192,7 @@
       "source": "Hacker News",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "link": "https://ancientlibrary.net/",
-      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 95\n# Comments: 30",
+      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 146\n# Comments: 49",
       "publishedAt": "2026-08-07T18:51:14.000Z",
       "image": "https://ancientlibrary.net/wp-content/uploads/ancientlibrary/og-default.png",
       "sourceCount": 1,
@@ -201,9 +234,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Databricks drove down AI coding spend 70%",
+      "title": "Managing AI Coding Costs at Scale",
       "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 135\n# Comments: 125",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 167\n# Comments: 172",
       "publishedAt": "2026-08-07T18:25:17.000Z",
       "image": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
       "sourceCount": 1,
@@ -269,9 +302,9 @@
       "source": "Hacker News",
       "title": "Assembly Hall of Shame",
       "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=49214098\nPoints: 181\n# Comments: 41",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=49214098\nPoints: 248\n# Comments: 57",
       "publishedAt": "2026-08-07T18:01:30.000Z",
-      "image": "https://opengraph.githubassets.com/cc31f6590be47617ecaac66aab2d8bd37fe05c9dc95654d2d95b4e770aa3fafd/xoreaxeaxeax/asm-hall-of-shame",
+      "image": "https://opengraph.githubassets.com/2005f64e01bab3c9368690f16d25d411af725f4f900e61dba89028295f53bdcb/xoreaxeaxeax/asm-hall-of-shame",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:01:30.000Z"
@@ -291,7 +324,7 @@
       "source": "Hacker News",
       "title": "DeepSeek V4 Flash 0731",
       "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 339\n# Comments: 208",
+      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 464\n# Comments: 272",
       "publishedAt": "2026-08-07T17:56:20.000Z",
       "image": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2",
       "sourceCount": 1,
@@ -332,17 +365,6 @@
       "latestActivity": "2026-08-07T17:43:34.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\nComments URL: https://news.ycomb…",
-      "publishedAt": "2026-08-07T17:36:30.000Z",
-      "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T17:36:30.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
       "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
@@ -374,17 +396,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T17:25:20.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Volkswagen plans to win America back with a pickup, report says",
-      "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
-      "summary": "There's no evidence the truck will be a cheap EV truck, but what if it were?",
-      "publishedAt": "2026-08-07T17:13:31.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-997828604-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T17:13:31.000Z"
     },
     {
       "source": "VentureBeat",
@@ -495,17 +506,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-      "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of…",
-      "publishedAt": "2026-08-07T14:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/55345024456_564e50f500_k.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T14:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
