@@ -1,11 +1,11 @@
 {
-  "syncedAt": "2026-08-08T04:59:05.560Z",
+  "syncedAt": "2026-08-08T06:57:16.129Z",
   "items": [
     {
       "source": "Hacker News",
       "title": "Mythos social engineering AISI INC-2026-07-28-01",
       "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-      "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3\nComments URL: https://news.ycombinator.com/item?id=49218707\nPoints: 27\n# Commen…",
+      "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3\nComments URL: https://news.ycombinator.com/item?id=49218707\nPoints: 44\n# Commen…",
       "publishedAt": "2026-08-08T03:41:56.000Z",
       "image": "https://web.archive.org/web/20260731053721im_/https://opengraph.githubassets.com/c4cfaaf58841bcfc90a77f07078889128ca99f4f54e0597c9207f09fe0e27534/ancaferro/myNetwork/pull/3",
       "sourceCount": 1,
@@ -27,23 +27,12 @@
       "source": "Hacker News",
       "title": "The Nixpkgs core team has disbanded",
       "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 187\n# Comments: 84",
+      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 255\n# Comments: 114",
       "publishedAt": "2026-08-08T01:12:45.000Z",
       "image": "https://discourse.nixos.org/uploads/default/original/3X/a/5/a5e0d7873e3d34aecf874c577c91a1c06490f436.svg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T01:12:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Modern C++ Build Tools for Module Feature",
-      "link": "https://github.com/mcpp-community/mcpp",
-      "summary": "Anyone like C++'s module features? Feel free to try MCPP and talk with me.\nComments URL: https://news.ycombinator.com/item?id=49217761\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-08-08T00:30:52.000Z",
-      "image": "https://opengraph.githubassets.com/04dd1c2c07d5868693e7f0e8cf651e6b6c31dbca56c44dc8688316b35aa67b59/mcpp-community/mcpp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T00:30:52.000Z"
     },
     {
       "source": "TechCrunch",
@@ -58,20 +47,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Working on Economics with Fable 5",
-      "link": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-      "summary": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/\nComments URL: https://news.ycombinator.com/item?id=49217001\nPoints: 6\n# Comments: 0",
-      "publishedAt": "2026-08-07T22:29:57.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T22:29:57.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "link": "https://genesisopenmodels.anl.gov/",
-      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 166\n# Comments: 58",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 192\n# Comments: 64",
       "publishedAt": "2026-08-07T22:24:27.000Z",
       "image": null,
       "sourceCount": 1,
@@ -225,12 +203,23 @@
       "source": "Hacker News",
       "title": "Psychological Warfare in Reverse Engineering (2015)",
       "link": "https://github.com/xoreaxeaxeax/repsych",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 59\n# Comments: 2",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 62\n# Comments: 3",
       "publishedAt": "2026-08-07T18:51:45.000Z",
-      "image": "https://opengraph.githubassets.com/e9c0b221bfbd331460293466b9d33fe8226609598f07a27d2d422eb0073eb43d/xoreaxeaxeax/REpsych",
+      "image": "https://opengraph.githubassets.com/8f1edcd59eabd6abfcfc647db79a3beb45a743e08cbc4b447a9b5ffd5926bf4a/xoreaxeaxeax/REpsych",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:51:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "link": "https://ancientlibrary.net/",
+      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 183\n# Comments: 58",
+      "publishedAt": "2026-08-07T18:51:14.000Z",
+      "image": "https://ancientlibrary.net/wp-content/uploads/ancientlibrary/og-default.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T18:51:14.000Z"
     },
     {
       "source": "The Verge",
@@ -264,6 +253,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-07T18:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Managing AI Coding Costs at Scale",
+      "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 213\n# Comments: 194",
+      "publishedAt": "2026-08-07T18:25:17.000Z",
+      "image": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-07T18:25:17.000Z"
     },
     {
       "source": "Engadget",
