@@ -1,6 +1,28 @@
 {
-  "syncedAt": "2026-08-09T03:45:27.311Z",
+  "syncedAt": "2026-08-09T05:07:46.642Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "\"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
+      "link": "https://longbets.org/601/",
+      "summary": "Article URL: https://longbets.org/601/\nComments URL: https://news.ycombinator.com/item?id=49228458\nPoints: 5\n# Comments: 1",
+      "publishedAt": "2026-08-09T04:30:26.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T04:30:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+      "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+      "summary": "Article URL: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week\nComments URL: https://news.ycombinator.com/item?id=49228166\nPoints: 52\n# Comments: 4",
+      "publishedAt": "2026-08-09T03:26:00.000Z",
+      "image": "https://daringfireball.net/graphics/df-wide-card.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T03:26:00.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -16,7 +38,7 @@
       "source": "Hacker News",
       "title": "The phone book that led us to Assad's spy chief in hiding",
       "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gyrzn8p94o\nComments URL: https://news.ycombinator.com/item?id=49227686\nPoints: 24\n# Comments: 5",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gyrzn8p94o\nComments URL: https://news.ycombinator.com/item?id=49227686\nPoints: 34\n# Comments: 18",
       "publishedAt": "2026-08-09T01:55:53.000Z",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png",
       "sourceCount": 1,
@@ -25,9 +47,20 @@
     },
     {
       "source": "Hacker News",
+      "title": "Incentives Are for Losers",
+      "link": "https://www.experimental-history.com/p/incentives-are-for-losers",
+      "summary": "Article URL: https://www.experimental-history.com/p/incentives-are-for-losers\nComments URL: https://news.ycombinator.com/item?id=49227652\nPoints: 15\n# Comments: 3",
+      "publishedAt": "2026-08-09T01:49:48.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!5i4W!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bc18a36-e4db-4865-9b44-3e3cb2129236_1456x990.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T01:49:48.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "TheoremDB · A public workspace for machine mathematics",
       "link": "https://theoremdb.org/",
-      "summary": "Article URL: https://theoremdb.org/\nComments URL: https://news.ycombinator.com/item?id=49227505\nPoints: 7\n# Comments: 0",
+      "summary": "Article URL: https://theoremdb.org/\nComments URL: https://news.ycombinator.com/item?id=49227505\nPoints: 12\n# Comments: 0",
       "publishedAt": "2026-08-09T01:23:36.000Z",
       "image": "https://theoremdb.org/og.png?v=20260801-theoremdb-site",
       "sourceCount": 1,
@@ -36,58 +69,25 @@
     },
     {
       "source": "Hacker News",
+      "title": "Melatonin impairs morning cognition in healthy young adults",
+      "link": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+      "summary": "Article URL: https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621\nComments URL: https://news.ycombinator.com/item?id=49227365\nPoints: 13\n# Comments: 1",
+      "publishedAt": "2026-08-09T00:59:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T00:59:58.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "link": "https://os8088.com/",
-      "summary": "Article URL: https://os8088.com/\nComments URL: https://news.ycombinator.com/item?id=49226923\nPoints: 79\n# Comments: 28",
+      "summary": "Article URL: https://os8088.com/\nComments URL: https://news.ycombinator.com/item?id=49226923\nPoints: 97\n# Comments: 38",
       "publishedAt": "2026-08-08T23:37:27.000Z",
       "image": "https://os8088.com/img/og.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T23:37:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dithered QR Codes",
-      "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "summary": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/\nComments URL: https://news.ycombinator.com/item?id=49226742\nPoints: 56\n# Comments: 11",
-      "publishedAt": "2026-08-08T23:05:24.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T23:05:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "My server is a phone now",
-      "link": "https://seg6.space/posts/phone-server/",
-      "summary": "Article URL: https://seg6.space/posts/phone-server/\nComments URL: https://news.ycombinator.com/item?id=49226636\nPoints: 155\n# Comments: 62",
-      "publishedAt": "2026-08-08T22:49:23.000Z",
-      "image": "https://seg6.space/img/phone-server/system-dashboard.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T22:49:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Should you stop cracking your knuckles?",
-      "link": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles\nComments URL: https://news.ycombinator.com/item?id=49226563\nPoints: 21\n# Comments: 20",
-      "publishedAt": "2026-08-08T22:36:25.000Z",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0p37czn.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T22:36:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-      "link": "https://shopify.engineering/scaling-inventory-reservations",
-      "summary": "Article URL: https://shopify.engineering/scaling-inventory-reservations\nComments URL: https://news.ycombinator.com/item?id=49226536\nPoints: 76\n# Comments: 37",
-      "publishedAt": "2026-08-08T22:32:50.000Z",
-      "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/d5a289aad251536cebddff8378b429f0.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T22:32:50.000Z"
     },
     {
       "source": "TechCrunch",
