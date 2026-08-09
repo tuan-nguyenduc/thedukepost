@@ -62,6 +62,23 @@ for (const article of articles) {
                       </time>
                       <a href={`/articles/${a.slug}`} class="entry__title">{a.data.title}</a>
                       <a href={categoryHref(a.data.category)} class="entry__category">{categoryLabel(a.data.category)}</a>
+                      <button
+                        type="button"
+                        class="entry__save"
+                        data-save-toggle
+                        data-save-slug={a.slug}
+                        data-save-title={a.data.title}
+                        data-save-href={`/articles/${a.slug}`}
+                        data-save-description={a.data.description}
+                        data-save-image={a.data.image ?? ''}
+                        data-save-category={a.data.category}
+                        data-save-pub-date={a.data.pubDate.toISOString()}
+                        aria-pressed="false"
+                        title="Save to reading list"
+                        aria-label="Save to reading list"
+                      >
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+                      </button>
                     </li>
                   ))}
                 </ul>
@@ -193,6 +210,25 @@ for (const article of articles) {
     flex-shrink: 0;
   }
   .entry__category:hover { color: var(--ink); }
+
+  .entry__save {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    border: 2px solid var(--paper-line);
+    background: transparent;
+    color: var(--slate);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  .entry__save svg { width: 12px; height: 12px; }
+  .entry__save:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  .entry__save.is-saved { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+  .entry__save.is-saved svg { fill: currentColor; }
 
   @media (max-width: 560px) {
     .entry { flex-wrap: wrap; }

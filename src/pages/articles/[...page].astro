@@ -31,6 +31,7 @@ const clientItems = allArticles.map((a) => ({
   categoryLabel: categoryLabel(a.data.category),
   categoryHref: categoryHref(a.data.category),
   byline: `${a.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · ${formatReadingTime(calculateReadingTime(a.body))}`,
+  pubDate: a.data.pubDate.toISOString(),
 }));
 
 const pageTitle = page.currentPage === 1
@@ -70,6 +71,23 @@ const pageTitle = page.currentPage === 1
                   </div>
                 </a>
                 <a href={categoryHref(a.data.category)} class="eyebrow card__eyebrow">{categoryLabel(a.data.category)}</a>
+                <button
+                  type="button"
+                  class="card__save"
+                  data-save-toggle
+                  data-save-slug={a.slug}
+                  data-save-title={a.data.title}
+                  data-save-href={`/articles/${a.slug}`}
+                  data-save-description={a.data.description}
+                  data-save-image={a.data.image ?? ''}
+                  data-save-category={a.data.category}
+                  data-save-pub-date={a.data.pubDate.toISOString()}
+                  aria-pressed="false"
+                  title="Save to reading list"
+                  aria-label="Save to reading list"
+                >
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+                </button>
               </li>
             ))}
           </ul>
@@ -121,6 +139,15 @@ const pageTitle = page.currentPage === 1
     let currentSearch = '';
     let currentPage = 1;
 
+    function isSaved(slug) {
+      try {
+        const list = JSON.parse(localStorage.getItem('reading-list') || '[]');
+        return Array.isArray(list) && list.some((item) => item.slug === slug);
+      } catch (e) {
+        return false;
+      }
+    }
+
     function normalizeText(text) {
       return text.toLowerCase().trim();
     }
@@ -171,6 +198,26 @@ const pageTitle = page.currentPage === 1
       eyebrow.className = 'eyebrow card__eyebrow';
       eyebrow.textContent = item.categoryLabel;
       li.appendChild(eyebrow);
+
+      const saveBtn = document.createElement('button');
+      saveBtn.type = 'button';
+      saveBtn.className = 'card__save';
+      saveBtn.setAttribute('data-save-toggle', '');
+      saveBtn.dataset.saveSlug = item.slug;
+      saveBtn.dataset.saveTitle = item.title;
+      saveBtn.dataset.saveHref = `/articles/${item.slug}`;
+      saveBtn.dataset.saveDescription = item.description;
+      saveBtn.dataset.saveImage = item.image || '';
+      saveBtn.dataset.saveCategory = item.category;
+      saveBtn.dataset.savePubDate = item.pubDate;
+      const saved = isSaved(item.slug);
+      saveBtn.classList.toggle('is-saved', saved);
+      saveBtn.setAttribute('aria-pressed', saved ? 'true' : 'false');
+      const saveLabel = saved ? 'Remove from reading list' : 'Save to reading list';
+      saveBtn.setAttribute('aria-label', saveLabel);
+      saveBtn.setAttribute('title', saveLabel);
+      saveBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>';
+      li.appendChild(saveBtn);
 
       return li;
     }
@@ -373,6 +420,28 @@ const pageTitle = page.currentPage === 1
   :global(.list h2) { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
   :global(.list p) { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
   .empty { color: var(--slate); font-size: 17px; }
+
+  :global(.card__save) {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 2;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid var(--ink);
+    background: var(--paper);
+    color: var(--ink);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  :global(.card__save svg) { width: 16px; height: 16px; }
+  :global(.card__save:hover) { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  :global(.card__save.is-saved) { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+  :global(.card__save.is-saved svg) { fill: currentColor; }
 
   :global(.pager) {
     margin-top: 48px;

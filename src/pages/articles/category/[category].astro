@@ -44,6 +44,23 @@ const breadcrumbItems = [
               </div>
             </a>
             <a href={categoryHref(a.data.category)} class="eyebrow card__eyebrow">{categoryLabel(a.data.category)}</a>
+            <button
+              type="button"
+              class="card__save"
+              data-save-toggle
+              data-save-slug={a.slug}
+              data-save-title={a.data.title}
+              data-save-href={`/articles/${a.slug}`}
+              data-save-description={a.data.description}
+              data-save-image={a.data.image ?? ''}
+              data-save-category={a.data.category}
+              data-save-pub-date={a.data.pubDate.toISOString()}
+              aria-pressed="false"
+              title="Save to reading list"
+              aria-label="Save to reading list"
+            >
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+            </button>
           </li>
         ))}
       </ul>
@@ -73,6 +90,28 @@ const breadcrumbItems = [
   .list h2 { font-size: 24px; margin: 0 0 8px; overflow-wrap: anywhere; }
   .list p { color: var(--slate); margin: 0 0 8px; overflow-wrap: anywhere; }
   .empty { color: var(--slate); font-size: 17px; }
+
+  .card__save {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 2;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid var(--ink);
+    background: var(--paper);
+    color: var(--ink);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  .card__save svg { width: 16px; height: 16px; }
+  .card__save:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  .card__save.is-saved { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+  .card__save.is-saved svg { fill: currentColor; }
 
   @media (max-width: 560px) {
     .card { flex-direction: column; }

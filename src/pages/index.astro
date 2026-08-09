@@ -59,6 +59,23 @@ const moreCards = [
           <span class="byline">{featured.data.author} · {featured.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
         </a>
         <a href={categoryHref(featured.data.category)} class="eyebrow hero__eyebrow">{categoryLabel(featured.data.category)}</a>
+        <button
+          type="button"
+          class="card__save hero__save"
+          data-save-toggle
+          data-save-slug={featured.slug}
+          data-save-title={featured.data.title}
+          data-save-href={`/articles/${featured.slug}`}
+          data-save-description={featured.data.description}
+          data-save-image={featured.data.image ?? ''}
+          data-save-category={featured.data.category}
+          data-save-pub-date={featured.data.pubDate.toISOString()}
+          aria-pressed="false"
+          title="Save to reading list"
+          aria-label="Save to reading list"
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+        </button>
       </div>
     </section>
   )}
@@ -95,6 +112,23 @@ const moreCards = [
                 <span class="more-card__meta">{formatReadingTime(calculateReadingTime(card.article.body))}</span>
               </a>
               <a href={categoryHref(card.article.data.category)} class="eyebrow more-card__eyebrow">{categoryLabel(card.article.data.category)}</a>
+              <button
+                type="button"
+                class="card__save more-card__save"
+                data-save-toggle
+                data-save-slug={card.article.slug}
+                data-save-title={card.article.data.title}
+                data-save-href={`/articles/${card.article.slug}`}
+                data-save-description={card.article.data.description}
+                data-save-image={card.article.data.image ?? ''}
+                data-save-category={card.article.data.category}
+                data-save-pub-date={card.article.data.pubDate.toISOString()}
+                aria-pressed="false"
+                title="Save to reading list"
+                aria-label="Save to reading list"
+              >
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+              </button>
             </div>
           ) : (
             <a href={card.item.link} target="_blank" rel="noopener noreferrer" class="more-card more-card--wire sticker">
@@ -148,6 +182,26 @@ const moreCards = [
   .hero { padding: 48px 24px; }
   .hero__card { position: relative; }
   .hero__eyebrow { position: absolute; top: 28px; left: 28px; z-index: 2; }
+
+  .card__save {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid var(--ink);
+    background: var(--paper);
+    color: var(--ink);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  .card__save svg { width: 16px; height: 16px; }
+  .card__save:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  .card__save.is-saved { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+  .card__save.is-saved svg { fill: currentColor; }
+  .hero__save { position: absolute; top: 28px; right: 28px; z-index: 2; }
+  .more-card__save { position: absolute; top: 14px; right: 14px; z-index: 2; }
   .hero__link { display: block; padding: 40px 36px; }
   .hero__image {
     width: 100%;

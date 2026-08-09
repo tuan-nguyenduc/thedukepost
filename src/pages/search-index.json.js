@@ -7,9 +7,11 @@ export async function GET() {
   const articles = (await getCollection('articles', ({ data }) => !data.draft))
     .map((a) => ({
       type: 'article',
+      slug: a.slug,
       link: `/articles/${a.slug}`,
       title: a.data.title,
       description: a.data.description,
+      image: a.data.image ?? '',
       category: a.data.category,
       pubDate: a.data.pubDate.toISOString().slice(0, 10),
       readingTime: formatReadingTime(calculateReadingTime(a.body)),

@@ -29,9 +29,11 @@ import { categoryHref, categoryLabel } from '../lib/categories';
 
   interface SearchItem {
     type: 'article' | 'wire' | 'newsletter';
+    slug?: string;
     link: string;
     title: string;
     description: string;
+    image?: string;
     category: string;
     pubDate: string;
     readingTime?: string;
@@ -50,6 +52,15 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     return str.replace(/[&<>"']/g, (c) => ({
       '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
     }[c] as string));
+  }
+
+  function isSaved(slug: string): boolean {
+    try {
+      const list = JSON.parse(localStorage.getItem('reading-list') || '[]');
+      return Array.isArray(list) && list.some((item) => item.slug === slug);
+    } catch {
+      return false;
+    }
   }
 
   async function init() {
@@ -104,11 +115,33 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     status.textContent = `${items.length} result${items.length === 1 ? '' : 's'}`;
     resultsList.innerHTML = items.map((item, i) => {
       const isWire = item.type === 'wire';
+      const isArticle = item.type === 'article';
       const eyebrow = escapeHtml(
         isWire ? `Wire · ${item.category}` : item.type === 'newsletter' ? 'Newsletter' : categoryLabel(item.category)
       );
       const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
       const byline = item.readingTime ? `${item.pubDate} · ${item.readingTime}` : item.pubDate;
+      const saved = isArticle && isSaved(item.slug || '');
+      const saveLabel = saved ? 'Remove from reading list' : 'Save to reading list';
+      const saveBtn = isArticle ? `
+        <button
+          type="button"
+          class="result-save${saved ? ' is-saved' : ''}"
+          data-save-toggle
+          data-save-slug="${escapeHtml(item.slug || '')}"
+          data-save-title="${escapeHtml(item.title)}"
+          data-save-href="${escapeHtml(item.link)}"
+          data-save-description="${escapeHtml(item.description)}"
+          data-save-image="${escapeHtml(item.image || '')}"
+          data-save-category="${escapeHtml(item.category)}"
+          data-save-pub-date="${escapeHtml(item.pubDate)}"
+          aria-pressed="${saved ? 'true' : 'false'}"
+          title="${saveLabel}"
+          aria-label="${saveLabel}"
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+        </button>
+      ` : '';
       return `
       <li class="result-item" role="option" data-index="${i}">
         <a href="${escapeHtml(item.link)}" class="result-card sticker"${linkAttrs}>
@@ -119,6 +152,7 @@ import { categoryHref, categoryLabel } from '../lib/categories';
           <h2 class="result-title">${escapeHtml(item.title)}</h2>
           <p class="result-desc">${escapeHtml(item.description)}</p>
         </a>
+        ${saveBtn}
       </li>
     `;
     }).join('');
@@ -218,10 +252,32 @@ import { categoryHref, categoryLabel } from '../lib/categories';
    * data-astro-cid scoping attribute onto elements it compiles at build
    * time, so a scoped selector would never match these nodes.
    */
+  :global(.result-item) { position: relative; }
   :global(.result-card) {
     display: block;
-    padding: 22px 24px;
+    padding: 22px 60px 22px 24px;
   }
+  :global(.result-save) {
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    z-index: 2;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid var(--ink);
+    background: var(--paper);
+    color: var(--ink);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  :global(.result-save svg) { width: 16px; height: 16px; }
+  :global(.result-save:hover) { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  :global(.result-save.is-saved) { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+  :global(.result-save.is-saved svg) { fill: currentColor; }
   :global(.result-meta) {
     display: flex;
     align-items: center;
