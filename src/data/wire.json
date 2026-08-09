@@ -1,22 +1,44 @@
 {
-  "syncedAt": "2026-08-09T01:54:30.390Z",
+  "syncedAt": "2026-08-09T03:45:27.311Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "The AI Apocalypse Is Here",
-      "link": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-      "summary": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/\nComments URL: https://news.ycombinator.com/item?id=49227521\nPoints: 6\n# Comments: 0",
-      "publishedAt": "2026-08-09T01:28:36.000Z",
-      "image": "https://storage.ghost.io/c/65/af/65afbdb5-30bf-4286-acc4-9535069adb42/content/images/size/w1200/2026/07/IMG_3716--2-.jpg",
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/\nComments URL: https://news.ycombinator.com/item?id=49…",
+      "publishedAt": "2026-08-09T02:01:38.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-09T01:28:36.000Z"
+      "latestActivity": "2026-08-09T02:01:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gyrzn8p94o\nComments URL: https://news.ycombinator.com/item?id=49227686\nPoints: 24\n# Comments: 5",
+      "publishedAt": "2026-08-09T01:55:53.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T01:55:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "TheoremDB · A public workspace for machine mathematics",
+      "link": "https://theoremdb.org/",
+      "summary": "Article URL: https://theoremdb.org/\nComments URL: https://news.ycombinator.com/item?id=49227505\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-08-09T01:23:36.000Z",
+      "image": "https://theoremdb.org/og.png?v=20260801-theoremdb-site",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T01:23:36.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "link": "https://os8088.com/",
-      "summary": "Article URL: https://os8088.com/\nComments URL: https://news.ycombinator.com/item?id=49226923\nPoints: 29\n# Comments: 8",
+      "summary": "Article URL: https://os8088.com/\nComments URL: https://news.ycombinator.com/item?id=49226923\nPoints: 79\n# Comments: 28",
       "publishedAt": "2026-08-08T23:37:27.000Z",
       "image": "https://os8088.com/img/og.png",
       "sourceCount": 1,
@@ -27,7 +49,7 @@
       "source": "Hacker News",
       "title": "Dithered QR Codes",
       "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "summary": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/\nComments URL: https://news.ycombinator.com/item?id=49226742\nPoints: 20\n# Comments: 3",
+      "summary": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/\nComments URL: https://news.ycombinator.com/item?id=49226742\nPoints: 56\n# Comments: 11",
       "publishedAt": "2026-08-08T23:05:24.000Z",
       "image": null,
       "sourceCount": 1,
@@ -38,7 +60,7 @@
       "source": "Hacker News",
       "title": "My server is a phone now",
       "link": "https://seg6.space/posts/phone-server/",
-      "summary": "Article URL: https://seg6.space/posts/phone-server/\nComments URL: https://news.ycombinator.com/item?id=49226636\nPoints: 90\n# Comments: 42",
+      "summary": "Article URL: https://seg6.space/posts/phone-server/\nComments URL: https://news.ycombinator.com/item?id=49226636\nPoints: 155\n# Comments: 62",
       "publishedAt": "2026-08-08T22:49:23.000Z",
       "image": "https://seg6.space/img/phone-server/system-dashboard.png",
       "sourceCount": 1,
@@ -49,7 +71,7 @@
       "source": "Hacker News",
       "title": "Should you stop cracking your knuckles?",
       "link": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles\nComments URL: https://news.ycombinator.com/item?id=49226563\nPoints: 9\n# Comments: 2",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles\nComments URL: https://news.ycombinator.com/item?id=49226563\nPoints: 21\n# Comments: 20",
       "publishedAt": "2026-08-08T22:36:25.000Z",
       "image": "https://ychef.files.bbci.co.uk/624x351/p0p37czn.jpg",
       "sourceCount": 1,
@@ -60,7 +82,7 @@
       "source": "Hacker News",
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "link": "https://shopify.engineering/scaling-inventory-reservations",
-      "summary": "Article URL: https://shopify.engineering/scaling-inventory-reservations\nComments URL: https://news.ycombinator.com/item?id=49226536\nPoints: 41\n# Comments: 7",
+      "summary": "Article URL: https://shopify.engineering/scaling-inventory-reservations\nComments URL: https://news.ycombinator.com/item?id=49226536\nPoints: 76\n# Comments: 37",
       "publishedAt": "2026-08-08T22:32:50.000Z",
       "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/d5a289aad251536cebddff8378b429f0.png",
       "sourceCount": 1,
@@ -95,28 +117,6 @@
         }
       ],
       "latestActivity": "2026-08-08T21:15:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-      "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-      "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/\nComments URL: https://news.ycombina…",
-      "publishedAt": "2026-08-08T21:07:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T21:07:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
-      "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-      "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf\nComments URL: https://news.ycombinator.com/item?id=492256…",
-      "publishedAt": "2026-08-08T20:37:24.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T20:37:24.000Z"
     },
     {
       "source": "TechCrunch",
