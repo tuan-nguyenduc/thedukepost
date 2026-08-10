@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
 import { tagSlug } from '../../lib/tags';
+import { breadcrumbJsonLd } from '../../lib/breadcrumbs';
 
 const articles = await getCollection('articles', ({ data }) => !data.draft);
 
@@ -21,13 +23,19 @@ for (const article of articles) {
 const tags = Array.from(tagCounts.entries())
   .map(([slug, { label, count }]) => ({ slug, label, count }))
   .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
+const breadcrumbItems = [
+  { label: 'Home', href: '/' },
+  { label: 'Tags', href: '/tags' },
+];
 ---
 <BaseLayout
   title="Tags — The Duke Post"
   description="Browse The Duke Post's original articles by tag."
+  jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
 >
   <section class="wrap page">
-    <p class="back"><a href="/articles">← All articles</a></p>
+    <Breadcrumbs items={breadcrumbItems} />
     <h1>Tags</h1>
     {tags.length > 0 ? (
       <div class="tag-cloud">
@@ -45,9 +53,6 @@ const tags = Array.from(tagCounts.entries())
 
 <style>
   .page { padding: 48px 24px 80px; }
-  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
-  .back a { color: var(--slate); }
-  .back a:hover { color: var(--ink); }
   h1 { font-size: 36px; margin-bottom: 36px; }
   .tag-cloud { display: flex; flex-wrap: wrap; gap: 12px; }
   .tag-chip {

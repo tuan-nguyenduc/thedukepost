@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES, categoryLabel, categoryHref } from '../../../lib/categories';
+import { breadcrumbJsonLd } from '../../../lib/breadcrumbs';
 
 const articles = await getCollection('articles', ({ data }) => !data.draft);
 
@@ -15,13 +17,20 @@ const categories = CATEGORIES.map((category) => ({
   label: categoryLabel(category),
   count: categoryCounts.get(category) ?? 0,
 }));
+
+const breadcrumbItems = [
+  { label: 'Home', href: '/' },
+  { label: 'Articles', href: '/articles' },
+  { label: 'Categories', href: '/articles/category' },
+];
 ---
 <BaseLayout
   title="Categories — The Duke Post"
   description="Browse The Duke Post's original articles by category."
+  jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
 >
   <section class="wrap page">
-    <p class="back"><a href="/articles">← All articles</a></p>
+    <Breadcrumbs items={breadcrumbItems} />
     <h1>Categories</h1>
     <div class="category-cloud">
       {categories.map((category) => (
@@ -35,9 +44,6 @@ const categories = CATEGORIES.map((category) => ({
 
 <style>
   .page { padding: 48px 24px 80px; }
-  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
-  .back a { color: var(--slate); }
-  .back a:hover { color: var(--ink); }
   h1 { font-size: 36px; margin-bottom: 36px; }
   .category-cloud { display: flex; flex-wrap: wrap; gap: 12px; }
   .category-chip {

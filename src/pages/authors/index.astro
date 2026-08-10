@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
 import { authorSlug, authorHref } from '../../lib/authors';
+import { breadcrumbJsonLd } from '../../lib/breadcrumbs';
 
 const articles = await getCollection('articles', ({ data }) => !data.draft);
 
@@ -17,13 +19,19 @@ for (const article of articles) {
 }
 
 const authors = Array.from(authorCounts.values()).sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+
+const breadcrumbItems = [
+  { label: 'Home', href: '/' },
+  { label: 'Authors', href: '/authors' },
+];
 ---
 <BaseLayout
   title="Authors — The Duke Post"
   description="Browse The Duke Post's original articles by author."
+  jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
 >
   <section class="wrap page">
-    <p class="back"><a href="/articles">← All articles</a></p>
+    <Breadcrumbs items={breadcrumbItems} />
     <h1>Authors</h1>
     {authors.length > 0 ? (
       <div class="author-cloud">
@@ -41,9 +49,6 @@ const authors = Array.from(authorCounts.values()).sort((a, b) => b.count - a.cou
 
 <style>
   .page { padding: 48px 24px 80px; }
-  .back { font-family: var(--font-mono); font-size: 13px; margin-bottom: 18px; }
-  .back a { color: var(--slate); }
-  .back a:hover { color: var(--ink); }
   h1 { font-size: 36px; margin-bottom: 36px; }
   .author-cloud { display: flex; flex-wrap: wrap; gap: 12px; }
   .author-chip {
