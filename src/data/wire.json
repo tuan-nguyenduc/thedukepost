@@ -1,6 +1,72 @@
 {
-  "syncedAt": "2026-08-10T19:00:20.958Z",
+  "syncedAt": "2026-08-10T20:44:47.991Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "NYC Mayor Mamdani announces support for the Delivery Protection Act",
+      "link": "https://www.engadget.com/2234009/nyc-mayor-mamdani-announces-support-for-delivery-protection-act/",
+      "summary": "Amazon is unsurprisingly fighting measure to stop use of contractors for last-mile delivery in NYC.",
+      "publishedAt": "2026-08-10T20:10:24.000Z",
+      "image": "https://www.engadget.com/img/gallery/nyc-mayor-mamdani-announces-support-for-delivery-protection-act/l-intro-1786392539.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T20:10:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "publishedAt": "2026-08-10T20:04:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claw-weight.png?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T20:04:24.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San…",
+      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/pacademicAI1a.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T20:00:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
+      "link": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
+      "summary": "Amazon Web Services is threading its AI-powered security infrastructure directly into the coding environments built by two of its fiercest rivals — and in doing so, it is making a…",
+      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/SAOvzFCJxyQFsjBGFCsXx/c67bfe956f9794e39ca73523992245a1/Nuneybits_Vector_art_of_exploding_software_flaws_collapsing_int_98286e9a-3e7b-462e-bde7-1d600cce5a2d.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T20:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Bluesky now lets you hide reposts from that annoying person you follow",
+      "link": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
+      "summary": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person w…",
+      "publishedAt": "2026-08-10T19:26:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bafkreig2hq7svgwj4bppizprcv5t3dlg4zbu3a6pvbebftlavbocibuud4.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T19:26:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
+      "link": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
+      "summary": "Games look gorgeous on its 7.9-inch screen. | Photo: Brandt Ranj / The Verge\t\n\nThe cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 p…",
+      "publishedAt": "2026-08-10T19:14:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Nintendo-Switch-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T19:14:27.000Z"
+    },
     {
       "source": "The Verge",
       "title": "YouTube is making it harder to earn money on YouTube",
@@ -83,9 +149,20 @@
     },
     {
       "source": "Hacker News",
+      "title": "Rust SIMD on the GPU",
+      "link": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "summary": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/\nComments URL: https://news.ycombinator.com/item?id=49247477\nPoints: 46\n# Comments: 24",
+      "publishedAt": "2026-08-10T18:12:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T18:12:49.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Security Vulnerability in Pioneer Rekordbox",
       "link": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
-      "summary": "Article URL: https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/\nComments URL: https://news.ycombinator.com/item?id=49247461\nPoints: 3\n# C…",
+      "summary": "Article URL: https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/\nComments URL: https://news.ycombinator.com/item?id=49247461\nPoints: 11\n#…",
       "publishedAt": "2026-08-10T18:11:52.000Z",
       "image": "https://alphatheta.com/wp-content/uploads/2023/08/AlphaTheta-brand-logo-ogp-1200x630-1.jpg",
       "sourceCount": 1,
@@ -102,17 +179,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T18:00:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Learning more about Claude's mathematical capabilities",
-      "link": "https://www.anthropic.com/research/riemann-zeta",
-      "summary": "Article URL: https://www.anthropic.com/research/riemann-zeta\nComments URL: https://news.ycombinator.com/item?id=49247070\nPoints: 58\n# Comments: 20",
-      "publishedAt": "2026-08-10T17:41:13.000Z",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/ca772f1b34e5b58e38694538f017d63f5dd196d9-1200x630.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T17:41:13.000Z"
     },
     {
       "source": "The Verge",
@@ -215,22 +281,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "Why Addresses Have Numbers",
-      "link": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html",
-      "summary": "Article URL: https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html\nComments URL: https://news.ycombinator.com/item?id=49245646\nPoints: 16\n# Comments: 36",
-      "publishedAt": "2026-08-10T16:12:54.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T16:12:54.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Exploiting System Management Mode with a very long interrupt",
       "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii\nComments URL: https://news.ycombinator.com/item?id=49245491\nPoints: 62\n# Comments: 14",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii\nComments URL: https://news.ycombinator.com/item?id=49245491\nPoints: 88\n# Comments: 29",
       "publishedAt": "2026-08-10T16:03:14.000Z",
-      "image": "https://opengraph.githubassets.com/138a5c877e0b452e515507436c8a39e04ea2678e8ccc378b797794fbcf80181d/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "image": "https://opengraph.githubassets.com/b20635e952b4a2817608db690f9af3421d57702efb4f4c5d8537f38bdb22c483/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T16:03:14.000Z"
@@ -250,9 +305,9 @@
       "source": "Hacker News",
       "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
       "link": "https://github.com/AntigmaLabs/ante",
-      "summary": "Article URL: https://github.com/AntigmaLabs/ante\nComments URL: https://news.ycombinator.com/item?id=49245437\nPoints: 78\n# Comments: 50",
+      "summary": "Article URL: https://github.com/AntigmaLabs/ante\nComments URL: https://news.ycombinator.com/item?id=49245437\nPoints: 103\n# Comments: 65",
       "publishedAt": "2026-08-10T15:59:23.000Z",
-      "image": "https://opengraph.githubassets.com/4343f8cafa637dcb5de3b38563a463ca77e17c5462c20959e793e5b2dd50127d/AntigmaLabs/ante",
+      "image": "https://opengraph.githubassets.com/b05639801ec652754c6b69e8d69bf24feb22e8314a2fd827bd3fa466b30bd583/AntigmaLabs/ante",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T15:59:23.000Z"
@@ -261,7 +316,7 @@
       "source": "Hacker News",
       "title": "Back to the Future of Handwriting Recognition (2016)",
       "link": "https://jackschaedler.github.io/handwriting-recognition/",
-      "summary": "Article URL: https://jackschaedler.github.io/handwriting-recognition/\nComments URL: https://news.ycombinator.com/item?id=49245421\nPoints: 21\n# Comments: 6",
+      "summary": "Article URL: https://jackschaedler.github.io/handwriting-recognition/\nComments URL: https://news.ycombinator.com/item?id=49245421\nPoints: 24\n# Comments: 6",
       "publishedAt": "2026-08-10T15:58:32.000Z",
       "image": null,
       "sourceCount": 1,
@@ -272,12 +327,23 @@
       "source": "Hacker News",
       "title": "The Tragedy of the Cognitive Commons",
       "link": "https://arxiv.org/abs/2607.29380",
-      "summary": "Article URL: https://arxiv.org/abs/2607.29380\nComments URL: https://news.ycombinator.com/item?id=49245359\nPoints: 41\n# Comments: 19",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29380\nComments URL: https://news.ycombinator.com/item?id=49245359\nPoints: 63\n# Comments: 41",
       "publishedAt": "2026-08-10T15:55:15.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T15:55:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+      "link": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
+      "summary": "Article URL: https://www.neurology.org/doi/10.1212/WN9.0000000000000152\nComments URL: https://news.ycombinator.com/item?id=49245348\nPoints: 68\n# Comments: 53",
+      "publishedAt": "2026-08-10T15:54:47.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T15:54:47.000Z"
     },
     {
       "source": "Engadget",
@@ -390,17 +456,6 @@
       "latestActivity": "2026-08-10T14:47:52.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "What are the differences between Bluetooth, Wi-Fi and 2.4G wireless devices?",
-      "link": "https://www.engadget.com/2230983/differences-between-bluetooth-wifi-2-4g-wireless-explained/",
-      "summary": "Wireless connectivity comes in many different flavors, here's how they differ.",
-      "publishedAt": "2026-08-10T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-are-the-differences-between-bluetooth-wi-fi-and-2-4g-wireless-devices/l-intro-1785414021.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T14:30:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "  Token-maxxing is dead. Agentic memory is what comes next.",
       "link": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next",
@@ -434,17 +489,6 @@
       "latestActivity": "2026-08-10T14:25:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-      "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
-      "summary": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
-      "publishedAt": "2026-08-10T14:20:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/shipping-2288991285.jpg?resize=1200,878",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T14:20:19.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "What happens to Bose when headphones become AI?",
       "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
@@ -454,28 +498,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Boeing is selling its air taxi startups to Archer Aviation",
-      "link": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-      "summary": "Boeing is selling three of its electric vertical takeoff and landing (eVTOL) subsidiaries to Archer Aviation, in addition to taking an undisclosed stake in the San Jose-based compa…",
-      "publishedAt": "2026-08-10T13:51:46.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Gen6_ApronSunset_3840x2160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T13:51:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-      "link": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-      "summary": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shippin…",
-      "publishedAt": "2026-08-10T12:48:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T12:48:12.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -621,17 +643,6 @@
       "latestActivity": "2026-08-07T17:05:52.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
-      "link": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-      "summary": "A VB Pulse survey this June found that 57% of enterprises had traced a confidently wrong agent answer back to missing or inconsistent context — the latest sign of how central conte…",
-      "publishedAt": "2026-08-07T16:30:29.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4KaZ8XJq6sjpxb51A5q7VT/2061c33e7cc4c52501ffd2c127c824e7/team-memory-smk1.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-07T16:30:29.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
       "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
@@ -674,17 +685,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T14:56:29.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can…",
-      "publishedAt": "2026-08-05T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/vitalist_master.jpg?w=840",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-05T12:10:00.000Z"
     }
   ]
 }
