@@ -1,6 +1,39 @@
 {
-  "syncedAt": "2026-08-10T07:45:48.182Z",
+  "syncedAt": "2026-08-10T09:25:17.920Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "OpenAI slows down Astra development due to cybersecurity concerns",
+      "link": "https://www.engadget.com/2233237/openai-slows-down-astra-development-due-to-cybersecurity-concerns/",
+      "summary": "Meta slowed down development of its Astra model as it couldn't 'rule out critical cyber capabilities.'",
+      "publishedAt": "2026-08-10T09:19:11.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-slows-down-astra-development-due-to-cybersecurity-concerns/l-intro-1786353354.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T09:19:11.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI for science needs reasoning, not just data",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been disco…",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in…",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/269798_futureLLMs.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T09:00:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "The FCC wants to ban drones with LiDAR that it previously approved",
@@ -16,7 +49,7 @@
       "source": "Hacker News",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "link": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=49239751\nPoints: 85\n# Comments: 46",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=49239751\nPoints: 177\n# Comments: 117",
       "publishedAt": "2026-08-10T06:02:38.000Z",
       "image": "https://www.docker.com/app/uploads/2024/02/docker-default-meta-image-1110x583.png",
       "sourceCount": 1,
@@ -78,9 +111,9 @@
       "source": "Hacker News",
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "link": "https://github.com/shinyquagsire23/Klepton",
-      "summary": "Article URL: https://github.com/shinyquagsire23/Klepton\nComments URL: https://news.ycombinator.com/item?id=49238818\nPoints: 48\n# Comments: 5",
+      "summary": "Article URL: https://github.com/shinyquagsire23/Klepton\nComments URL: https://news.ycombinator.com/item?id=49238818\nPoints: 68\n# Comments: 8",
       "publishedAt": "2026-08-10T03:12:48.000Z",
-      "image": "https://opengraph.githubassets.com/f0d8c23b6b59814777d7312411468f1160ece5babf2942dd7d4aecbd56d01c2e/shinyquagsire23/Klepton",
+      "image": "https://opengraph.githubassets.com/c5a898ece33296d37bb7135114cbec7460adc60622c2b13d95b6ba25b4f2fae8/shinyquagsire23/Klepton",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T03:12:48.000Z"
@@ -89,7 +122,7 @@
       "source": "Hacker News",
       "title": "Turn satellite imagery into a paper globe you fold yourself",
       "link": "https://foldingglobes.com/",
-      "summary": "Article URL: https://foldingglobes.com/\nComments URL: https://news.ycombinator.com/item?id=49238735\nPoints: 40\n# Comments: 10",
+      "summary": "Article URL: https://foldingglobes.com/\nComments URL: https://news.ycombinator.com/item?id=49238735\nPoints: 57\n# Comments: 19",
       "publishedAt": "2026-08-10T02:57:38.000Z",
       "image": null,
       "sourceCount": 1,
@@ -100,7 +133,7 @@
       "source": "Hacker News",
       "title": "What Happened to HackerOne?",
       "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "summary": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/\nComments URL: https://news.ycombinator.com/item?id=49238561\nPoints: 175\n# Comments: 67",
+      "summary": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/\nComments URL: https://news.ycombinator.com/item?id=49238561\nPoints: 213\n# Comments: 92",
       "publishedAt": "2026-08-10T02:23:17.000Z",
       "image": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/featured.jpg",
       "sourceCount": 1,
@@ -111,7 +144,7 @@
       "source": "Hacker News",
       "title": "How We Pushed CDC into Postgres",
       "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\nComments URL: https://news.ycombinator.com/item?id=49238050\nPoints: 80\n# Com…",
+      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\nComments URL: https://news.ycombinator.com/item?id=49238050\nPoints: 88\n# Com…",
       "publishedAt": "2026-08-10T01:01:34.000Z",
       "image": "https://www.snowflake.com/content/dam/snowflake-site/engineering-blog/featured-images/sf-eng-blog-ML-2.png",
       "sourceCount": 1,
@@ -128,17 +161,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-09T20:35:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "No Dogs in Space is a music history podcast for true obsessives",
-      "link": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
-      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on exp…",
-      "publishedAt": "2026-08-09T20:28:31.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NDIS_LOGO.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T20:28:31.000Z"
     },
     {
       "source": "Engadget",
@@ -163,17 +185,6 @@
       "latestActivity": "2026-08-09T17:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
-      "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-      "summary": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images\t\n\nEarlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near F…",
-      "publishedAt": "2026-08-09T17:20:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2190858037.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T17:20:30.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "How to use ChatGPT's new, more natural Voice Mode for conversations",
       "link": "https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/",
@@ -194,17 +205,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-09T16:05:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
-      "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-      "summary": "Head Coach Kyle Shanahan of the San Francisco 49ers | Image: Michael Zagaris / San Francisco 49ers / Getty Images\t\n\nFour weeks ago, San Francisco 49ers coach Kyle Shanahan was invo…",
-      "publishedAt": "2026-08-09T15:56:49.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275684974.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T15:56:49.000Z"
     },
     {
       "source": "Engadget",
@@ -282,28 +282,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-09T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Dropbox is a PC builder’s best friend",
-      "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
-      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was los…",
-      "publishedAt": "2026-08-09T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "AI detectors are creating a new era of distrust",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepb…",
-      "publishedAt": "2026-08-09T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T12:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -403,50 +381,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T21:24:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-      "summary": "X wants to make money on previously used handles. | Image: The Verge\t\n\nX is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions…",
-      "publishedAt": "2026-08-08T21:15:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T21:15:12.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to connect your retro GameCube to a modern TV",
-      "link": "https://www.engadget.com/2231069/how-to-connect-your-retro-gamecube-to-a-modern-tv/",
-      "summary": "A single adapter could be all you need.",
-      "publishedAt": "2026-08-08T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-connect-your-retro-gamecube-to-a-modern-tv/l-intro-1785953866.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T18:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the U…",
-      "publishedAt": "2026-08-08T17:53:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T17:53:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Buc-ee’s dodges John Oliver to sue another small business",
-      "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-      "summary": "Buc-ee’s mega-convenience store and 120-pump gas station in Mount Crawford, Virginia. | Image: Chip Somodevilla / Getty Images\t\n\nBuc-ee's became something of a viral sensation duri…",
-      "publishedAt": "2026-08-08T15:47:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2222931981.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-08T15:47:30.000Z"
     },
     {
       "source": "Ars Technica",
@@ -667,28 +601,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-05T08:06:40.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: US robot restrictions and ICE’s DNA grab",
-      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robo…",
-      "publishedAt": "2026-08-04T12:14:00.000Z",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f491.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-04T12:14:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe…",
-      "publishedAt": "2026-08-03T18:43:30.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-03T18:43:30.000Z"
     }
   ]
 }
