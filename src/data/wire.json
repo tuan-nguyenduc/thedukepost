@@ -1,6 +1,149 @@
 {
-  "syncedAt": "2026-08-10T09:25:17.920Z",
+  "syncedAt": "2026-08-10T11:10:47.595Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether yo…",
+      "publishedAt": "2026-08-10T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Space mirrors could ruin astronomy — and your eyes",
+      "link": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
+      "summary": "Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the E…",
+      "publishedAt": "2026-08-10T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-115103.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk",
+      "link": "https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/",
+      "summary": "The approach is like a Costco for heat pumps, and it’s helping make installations more accessible as heat waves worsen.",
+      "publishedAt": "2026-08-10T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a7655fee85ba359de1ff2c1/191:100/w_1280,c_limit/Science_How%20Heat%20Pump%20Group-Buys%20Are%20Bringing%20Down%20the%20Cost%20of%20Heating%20and%20Cooling_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best E-Readers of 2026: Kobo, Kindle, Boox",
+      "link": "https://www.wired.com/gallery/best-ereaders/",
+      "summary": "Looking to read more? These handy ebook readers are here to help.",
+      "publishedAt": "2026-08-10T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a77957d13dfaa7f9ac1930c/191:100/w_1280,c_limit/The-Best-E-Readers-for-Every-Kind-of-Reader.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "link": "https://twitter.com/finkd/status/2086754845218726027",
+      "summary": "Article URL: https://twitter.com/finkd/status/2086754845218726027\nComments URL: https://news.ycombinator.com/item?id=49242038\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-08-10T10:55:03.000Z",
+      "image": "https://pbs.twimg.com/profile_images/77846223/profile_200x200.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T10:55:03.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How to Choose a Camera (2026): Sensors, Megapixels, Terms",
+      "link": "https://www.wired.com/story/how-to-choose-a-camera/",
+      "summary": "Shopping for a camera can be confusing. Here’s how to sift through the acronyms, sensor options, and extra features to find the best one for you.",
+      "publishedAt": "2026-08-10T10:33:00.000Z",
+      "image": "https://media.wired.com/photos/6a7797d9407c0a41b1ffd3d7/191:100/w_1280,c_limit/How-to-Choose-the-Right-Camera--A-Step-by-Step-Guide.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T10:33:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Rise of the 1 am Job Interview",
+      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+      "publishedAt": "2026-08-10T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a74e739068d1e092430bb0d/191:100/w_1280,c_limit/Rise-of-1AM-Interview-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T10:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\nComments URL: https://news.ycombinator.com/item?id=49241679\nPoints: 80\n# Comments: 18",
+      "publishedAt": "2026-08-10T10:10:02.000Z",
+      "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&version=1786289182",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T10:10:02.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Wireless Earbuds We’d Buy Right Now (2026): Apple, Sony, Bose, and More",
+      "link": "https://www.wired.com/story/best-wireless-earbuds/",
+      "summary": "We tested over a hundred wireless earbuds—these models from Apple, Bose, Beats, and Samsung stood out from the rest.",
+      "publishedAt": "2026-08-10T10:04:00.000Z",
+      "image": "https://media.wired.com/photos/6a7793b927d2e7da5ad584ec/191:100/w_1280,c_limit/The-Best-Wireless-Earbuds-We%E2%80%99ve-Tested-After-Hundreds-of-Hours-of-Listening.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T10:04:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Why Each Octopus Arm Has a Mind of Its Own",
+      "link": "https://www.wired.com/story/octopus-arms-distributed-intelligence-nine-brains/",
+      "summary": "Two-thirds of an octopus’s neurons are in its arms—each operating independently—including the one it uses to have sex.",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a7786527a4971962ec8627a/191:100/w_1280,c_limit/WIRED-OctopusBrain-HoiChan-SiteImage.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "One Email, Three Identities: SPF, DKIM and DMARC Explained",
+      "link": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
+      "summary": "Article URL: https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc\nComments URL: https://news.ycombinator.com/item?id=49241578\nPoints: 5\n# Comments: 1",
+      "publishedAt": "2026-08-10T09:55:53.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T09:55:53.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Future Apple Watches may include more screen sizes or even a model with no display",
+      "link": "https://www.engadget.com/2233258/future-apple-watches-may-includes-more-screen-sizes-or-even-a-model-with-no-display/",
+      "summary": "Apple's next Watch won't change much, but future models may see significant updates.",
+      "publishedAt": "2026-08-10T09:52:02.000Z",
+      "image": "https://www.engadget.com/img/gallery/future-apple-watches-may-include-more-screen-sizes-or-even-a-model-with-no-display/l-intro-1786355337.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T09:52:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+      "link": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+      "summary": "Article URL: https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant\nComments URL: https://news.ycombinator.com/item?id=49241303\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-08-10T09:22:25.000Z",
+      "image": "https://strangepleasures.gallerycdn.vsassets.io/extensions/strangepleasures/implant/0.1.0/1786321439510/Microsoft.VisualStudio.Services.Icons.Default",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-10T09:22:25.000Z"
+    },
     {
       "source": "Engadget",
       "title": "OpenAI slows down Astra development due to cybersecurity concerns",
@@ -49,7 +192,7 @@
       "source": "Hacker News",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "link": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=49239751\nPoints: 177\n# Comments: 117",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=49239751\nPoints: 251\n# Comments: 152",
       "publishedAt": "2026-08-10T06:02:38.000Z",
       "image": "https://www.docker.com/app/uploads/2024/02/docker-default-meta-image-1110x583.png",
       "sourceCount": 1,
@@ -66,17 +209,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T06:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai\nComments URL: https://news.ycombinator.com/item?id=49239226\nPoi…",
-      "publishedAt": "2026-08-10T04:35:24.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T04:35:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -111,45 +243,12 @@
       "source": "Hacker News",
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "link": "https://github.com/shinyquagsire23/Klepton",
-      "summary": "Article URL: https://github.com/shinyquagsire23/Klepton\nComments URL: https://news.ycombinator.com/item?id=49238818\nPoints: 68\n# Comments: 8",
+      "summary": "Article URL: https://github.com/shinyquagsire23/Klepton\nComments URL: https://news.ycombinator.com/item?id=49238818\nPoints: 94\n# Comments: 8",
       "publishedAt": "2026-08-10T03:12:48.000Z",
-      "image": "https://opengraph.githubassets.com/c5a898ece33296d37bb7135114cbec7460adc60622c2b13d95b6ba25b4f2fae8/shinyquagsire23/Klepton",
+      "image": "https://opengraph.githubassets.com/5f872247174cb5d45270ebdf64e0d41b752a2f20a22b7c22f0fb3f590db55a31/shinyquagsire23/Klepton",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T03:12:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "link": "https://foldingglobes.com/",
-      "summary": "Article URL: https://foldingglobes.com/\nComments URL: https://news.ycombinator.com/item?id=49238735\nPoints: 57\n# Comments: 19",
-      "publishedAt": "2026-08-10T02:57:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T02:57:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What Happened to HackerOne?",
-      "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "summary": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/\nComments URL: https://news.ycombinator.com/item?id=49238561\nPoints: 213\n# Comments: 92",
-      "publishedAt": "2026-08-10T02:23:17.000Z",
-      "image": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/featured.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T02:23:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "How We Pushed CDC into Postgres",
-      "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\nComments URL: https://news.ycombinator.com/item?id=49238050\nPoints: 88\n# Com…",
-      "publishedAt": "2026-08-10T01:01:34.000Z",
-      "image": "https://www.snowflake.com/content/dam/snowflake-site/engineering-blog/featured-images/sf-eng-blog-ML-2.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T01:01:34.000Z"
     },
     {
       "source": "TechCrunch",
@@ -161,6 +260,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-09T20:35:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "link": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season 3, which focused on experim…",
+      "publishedAt": "2026-08-09T20:28:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NDIS_LOGO.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T20:28:31.000Z"
     },
     {
       "source": "Engadget",
@@ -185,6 +295,17 @@
       "latestActivity": "2026-08-09T17:30:00.000Z"
     },
     {
+      "source": "The Verge",
+      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "summary": "Mark Zuckerberg's yacht \"The Launchpad.\" | Image: Sylvain Lefevre / Getty Images\t\n\nEarlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near…",
+      "publishedAt": "2026-08-09T17:20:30.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2190858037.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T17:20:30.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "How to use ChatGPT's new, more natural Voice Mode for conversations",
       "link": "https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/",
@@ -205,6 +326,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-09T16:05:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+      "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "summary": "Head Coach Kyle Shanahan of the San Francisco 49ers. | Image: Michael Zagaris / San Francisco 49ers / Getty Images\t\n\nFour weeks ago, San Francisco 49ers coach Kyle Shanahan was inv…",
+      "publishedAt": "2026-08-09T15:56:49.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275684974.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T15:56:49.000Z"
     },
     {
       "source": "Engadget",
@@ -262,17 +394,6 @@
       "latestActivity": "2026-08-09T14:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The pros and cons of the switch to digital games",
-      "link": "https://www.engadget.com/2230761/switch-to-digital-games-pros-cons/",
-      "summary": "More gaming companies are moving toward stopping production of game discs and cartridges. Is it a bad thing?",
-      "publishedAt": "2026-08-09T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-the-switch-to-digital-games/l-intro-1785939189.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T13:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "This former notorious red-light district is now one of the world’s top AI hubs",
       "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
@@ -282,6 +403,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-09T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Dropbox is a PC builder’s best friend",
+      "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was los…",
+      "publishedAt": "2026-08-09T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "AI detectors are creating a new era of distrust",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepb…",
+      "publishedAt": "2026-08-09T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-09T12:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -295,17 +438,6 @@
       "latestActivity": "2026-08-09T11:30:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
-      "link": "https://www.wired.com/story/best-compression-boots/",
-      "summary": "Whether you’re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.",
-      "publishedAt": "2026-08-09T11:04:00.000Z",
-      "image": "https://media.wired.com/photos/6a7774047a4971962ec860c9/191:100/w_1280,c_limit/The-Best-Compression-Boots-Could-Be-the-Missing-Piece-in-Your-Fitness-Routine.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T11:04:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
       "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
@@ -317,61 +449,6 @@
       "latestActivity": "2026-08-09T11:00:14.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-      "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
-      "publishedAt": "2026-08-09T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video",
-      "link": "https://www.wired.com/review/tcl-note-a1-nxtpaper-tablet/",
-      "summary": "TCL’s hybrid tablet-digital notebook tries to be the best of both worlds, and it mostly succeeds.",
-      "publishedAt": "2026-08-09T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7777951b168fc0244a387c/191:100/w_1280,c_limit/Review--TCL-Note-A1-Nxtpaper.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The 12 Best Anime to Watch if You Think You Hate Anime",
-      "link": "https://www.wired.com/story/the-12-best-anime-to-watch-if-you-think-you-hate-anime/",
-      "summary": "Japan’s strongest media export makes a solid case for your attention span. Here’s what to watch.",
-      "publishedAt": "2026-08-09T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a75fbf89dcba9871de6abed/191:100/w_1280,c_limit/GettyImages-521855016.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
-      "link": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
-      "summary": "Not every great pair of headphones belongs in the gym. These do, thanks to their secure fit, durable design, and impeccable sound.",
-      "publishedAt": "2026-08-09T09:37:00.000Z",
-      "image": "https://media.wired.com/photos/6a7774ae9524e31475152b8b/191:100/w_1280,c_limit/The-Best-Workout-Headphones-and-Earbuds-for-Your-Sweatiest-Training-Sessions.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T09:37:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
-      "publishedAt": "2026-08-09T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a72492d52a9268da4f15181/191:100/w_1280,c_limit/AI-Barons-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-09T09:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
@@ -381,6 +458,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-08T21:24:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "summary": "X wants to make money on previously used handles. | Image: The Verge\t\n\nX is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions…",
+      "publishedAt": "2026-08-08T21:15:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-08T21:15:12.000Z"
     },
     {
       "source": "Ars Technica",
