@@ -1,22 +1,55 @@
 {
-  "syncedAt": "2026-08-11T01:54:44.641Z",
+  "syncedAt": "2026-08-11T03:47:12.269Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't",
-      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html\nComments URL: https://news.ycombinator.com/item?…",
-      "publishedAt": "2026-08-11T00:59:50.000Z",
+      "title": "US President hid in catering cart for secret flight in Turkey amid Iran threat",
+      "link": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return\nComments URL: https://news.ycombinator.com/item?id=49252912\nPoints: 27\n# Comments: 12",
+      "publishedAt": "2026-08-11T03:08:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/1689d23cc9c76b118263c1cdf1b005a6d7d5e279/624_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16f3d5448e9856e6a97b83c74fbac2fc",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T03:08:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hyperspace",
+      "link": "https://hypercritical.co/hyperspace/",
+      "summary": "Article URL: https://hypercritical.co/hyperspace/\nComments URL: https://news.ycombinator.com/item?id=49252493\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-08-11T02:04:35.000Z",
+      "image": "https://hypercritical.co/hyperspace/images/hyperspace-icon-1024-lossy.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T02:04:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Recycle – Floppydisks",
+      "link": "https://www.floppydisk.com/recycle",
+      "summary": "Article URL: https://www.floppydisk.com/recycle\nComments URL: https://news.ycombinator.com/item?id=49252462\nPoints: 20\n# Comments: 3",
+      "publishedAt": "2026-08-11T02:01:01.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-11T00:59:50.000Z"
+      "latestActivity": "2026-08-11T02:01:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+      "link": "https://github.com/antirez/h3.c",
+      "summary": "Article URL: https://github.com/antirez/h3.c\nComments URL: https://news.ycombinator.com/item?id=49252179\nPoints: 73\n# Comments: 6",
+      "publishedAt": "2026-08-11T01:22:09.000Z",
+      "image": "https://opengraph.githubassets.com/7b1facde9a8e98f3998627946051f3d09aa66f9b0212adb6c01e597b752aaaf2/antirez/h3.c",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T01:22:09.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Chicken Scheme 6.0",
       "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS\nComments URL: https://news.ycombinator.com/item?id=49251702\nPoints: 24\n# Comments: 4",
+      "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS\nComments URL: https://news.ycombinator.com/item?id=49251702\nPoints: 87\n# Comments: 9",
       "publishedAt": "2026-08-11T00:24:15.000Z",
       "image": null,
       "sourceCount": 1,
@@ -60,7 +93,7 @@
       "source": "Hacker News",
       "title": "The UK's War on Anonymity Has Come to America",
       "link": "https://www.effort.news/uk-lobby",
-      "summary": "Article URL: https://www.effort.news/uk-lobby\nComments URL: https://news.ycombinator.com/item?id=49251411\nPoints: 143\n# Comments: 82",
+      "summary": "Article URL: https://www.effort.news/uk-lobby\nComments URL: https://news.ycombinator.com/item?id=49251411\nPoints: 350\n# Comments: 223",
       "publishedAt": "2026-08-10T23:45:50.000Z",
       "image": "https://www.effort.news/images/article-graphics/uk-lobby/reset-bipartite-graph-cover.png",
       "sourceCount": 1,
@@ -82,7 +115,7 @@
       "source": "Hacker News",
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "link": "https://everycube.alen.is/",
-      "summary": "Article URL: https://everycube.alen.is/\nComments URL: https://news.ycombinator.com/item?id=49251179\nPoints: 46\n# Comments: 8",
+      "summary": "Article URL: https://everycube.alen.is/\nComments URL: https://news.ycombinator.com/item?id=49251179\nPoints: 103\n# Comments: 25",
       "publishedAt": "2026-08-10T23:16:25.000Z",
       "image": "https://everycube.alen.is/opengraph-image?e65a545ab414fc11",
       "sourceCount": 1,
@@ -93,7 +126,7 @@
       "source": "Hacker News",
       "title": "World Train Map – 1247 train routes around the world",
       "link": "https://worldtrainmap.com/",
-      "summary": "Article URL: https://worldtrainmap.com/\nComments URL: https://news.ycombinator.com/item?id=49250894\nPoints: 29\n# Comments: 7",
+      "summary": "Article URL: https://worldtrainmap.com/\nComments URL: https://news.ycombinator.com/item?id=49250894\nPoints: 64\n# Comments: 22",
       "publishedAt": "2026-08-10T22:42:14.000Z",
       "image": "https://worldtrainmap.com/og.jpg?v=4",
       "sourceCount": 1,
@@ -209,28 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T20:53:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Confessions of a Long-Distance Sailor",
-      "link": "https://arachnoid.com/lutusp/sailbook.html",
-      "summary": "Article URL: https://arachnoid.com/lutusp/sailbook.html\nComments URL: https://news.ycombinator.com/item?id=49249555\nPoints: 62\n# Comments: 12",
-      "publishedAt": "2026-08-10T20:52:55.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T20:52:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stop Killing Games: It's time to sue Sony, join us",
-      "link": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
-      "summary": "Article URL: https://www.massaschadeconsument.nl/collectieve-acties/playstation/\nComments URL: https://news.ycombinator.com/item?id=49249481\nPoints: 159\n# Comments: 69",
-      "publishedAt": "2026-08-10T20:47:13.000Z",
-      "image": "/img/og-image-play.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T20:47:13.000Z"
     },
     {
       "source": "Ars Technica",
@@ -370,17 +381,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Rust SIMD on the GPU",
-      "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "summary": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/\nComments URL: https://news.ycombinator.com/item?id=49247477\nPoints: 119\n# Comments: 61",
-      "publishedAt": "2026-08-10T18:12:49.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T18:12:49.000Z"
     },
     {
       "source": "The Verge",
