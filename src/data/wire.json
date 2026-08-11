@@ -1,6 +1,83 @@
 {
-  "syncedAt": "2026-08-11T08:59:55.573Z",
+  "syncedAt": "2026-08-11T10:52:06.540Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Elon Musk, Sam Altman, and the Misreading of Science Fiction",
+      "link": "https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/",
+      "summary": "Beyond Elon Musk’s interpretation of The Odyssey, Silicon Valley leaders have often misunderstood classic books like Foundation and The Hitchhiker’s Guide to the Galaxy. It’s evide…",
+      "publishedAt": "2026-08-11T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a79da0bdf07565eeae29714/191:100/w_1280,c_limit/Book%20Excerpt%20Elon%20Musk,%20Sam%20Altman,%20and%20the%20Misreading%20of%20Science%20Fiction_v3.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T10:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/191:100/w_1280,c_limit/IN-LINE_LILAC.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food",
+      "link": "https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/",
+      "summary": "Startups and Big Ag are using Crispr gene editing to create crops that taste better and grow on a hotter planet. But will they find a market?",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a75bce7b453ac64d9534f56/191:100/w_1280,c_limit/Tom%20Adams%20in%20Greenhouse%20with%20Blackberry.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T10:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "OpenAI gives Daybreak partners access to a more powerful cybersecurity model",
+      "link": "https://www.engadget.com/2234335/openai-daybreak-model-less-likely-to-refuse-higher-risk-tasks/",
+      "summary": "OpenAI's Daybreak program now has two tiers, with the higher one giving partners access to a more advanced cybersecurity model.",
+      "publishedAt": "2026-08-11T09:40:15.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-gives-daybreak-partners-access-to-a-more-powerful-cybersecurity-model/l-intro-1786441153.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T09:40:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "London Underground begins scanning passengers' faces",
+      "link": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+      "summary": "Article URL: https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/\nComments URL: https://news.ycombinator.…",
+      "publishedAt": "2026-08-11T09:40:02.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T09:40:02.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
+      "link": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+      "summary": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+      "publishedAt": "2026-08-11T09:31:00.000Z",
+      "image": "https://media.wired.com/photos/6a236c81923e8b4d30970aa7/191:100/w_1280,c_limit/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T09:31:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+      "publishedAt": "2026-08-11T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a74f6a1ee5313e488f90591/191:100/w_1280,c_limit/esquizofrenia.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T09:00:00.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "France to ban unsolicited telemarketing calls",
@@ -14,11 +91,22 @@
     },
     {
       "source": "Hacker News",
+      "title": "The Water Footprint of AI",
+      "link": "https://doi.org/10.1016/j.watres.2026.125866",
+      "summary": "Article URL: https://doi.org/10.1016/j.watres.2026.125866\nComments URL: https://news.ycombinator.com/item?id=49254351\nPoints: 20\n# Comments: 13",
+      "publishedAt": "2026-08-11T07:00:57.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T07:00:57.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
       "link": "https://github.com/activeing123/mcptoon",
-      "summary": "Article URL: https://github.com/activeing123/mcptoon\nComments URL: https://news.ycombinator.com/item?id=49253721\nPoints: 40\n# Comments: 27",
+      "summary": "Article URL: https://github.com/activeing123/mcptoon\nComments URL: https://news.ycombinator.com/item?id=49253721\nPoints: 48\n# Comments: 37",
       "publishedAt": "2026-08-11T05:26:58.000Z",
-      "image": "https://opengraph.githubassets.com/c1542c5de958eda23de7e84a1431b17af3608514b1539ad139e0a51266a9463a/activeing123/mcptoon",
+      "image": "https://opengraph.githubassets.com/a22e7946dd06013a14dee65283466259fbada2058f1c55a96665a575522d17f0/activeing123/mcptoon",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T05:26:58.000Z"
@@ -57,65 +145,10 @@
       "latestActivity": "2026-08-11T05:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Valvoline Coupons and Promo Codes for August 2026",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "summary": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "publishedAt": "2026-08-11T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/191:100/w_1280,c_limit/WIRED-Coupons-R2_4.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "LG Promo Codes and Coupons for August 2026",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "publishedAt": "2026-08-11T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/191:100/w_1280,c_limit/WIRED-Coupons-R2_17.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Mattress Firm Coupons: Save up to $700 |",
-      "link": "https://www.wired.com/story/mattress-firm-coupon/",
-      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-      "publishedAt": "2026-08-11T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/191:100/w_1280,c_limit/WIRED-Coupons-R2_3.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Buy Discount Codes: Up to 60% Off",
-      "link": "https://www.wired.com/story/best-buy-discount-code/",
-      "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
-      "publishedAt": "2026-08-11T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/191:100/w_1280,c_limit/WIRED-Coupons-R2_16.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Peacock Promo Codes: 40% Off August 2026",
-      "link": "https://www.wired.com/story/peacock-promo-code/",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "publishedAt": "2026-08-11T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T05:00:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Recycle – Floppydisks",
       "link": "https://www.floppydisk.com/recycle",
-      "summary": "Article URL: https://www.floppydisk.com/recycle\nComments URL: https://news.ycombinator.com/item?id=49252462\nPoints: 58\n# Comments: 25",
+      "summary": "Article URL: https://www.floppydisk.com/recycle\nComments URL: https://news.ycombinator.com/item?id=49252462\nPoints: 63\n# Comments: 28",
       "publishedAt": "2026-08-11T02:01:01.000Z",
       "image": null,
       "sourceCount": 1,
@@ -126,9 +159,9 @@
       "source": "Hacker News",
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "link": "https://github.com/antirez/h3.c",
-      "summary": "Article URL: https://github.com/antirez/h3.c\nComments URL: https://news.ycombinator.com/item?id=49252179\nPoints: 244\n# Comments: 38",
+      "summary": "Article URL: https://github.com/antirez/h3.c\nComments URL: https://news.ycombinator.com/item?id=49252179\nPoints: 288\n# Comments: 60",
       "publishedAt": "2026-08-11T01:22:09.000Z",
-      "image": "https://opengraph.githubassets.com/9b47f232242919584edd8073fa3ad5887908fe37abf241533dd37c1ddc396b37/antirez/h3.c",
+      "image": "https://opengraph.githubassets.com/265db4ad4c26ff009b8b2e46121c5577f9d92705a536f708a052cf0b14e656c5/antirez/h3.c",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T01:22:09.000Z"
@@ -137,7 +170,7 @@
       "source": "Hacker News",
       "title": "Chicken Scheme 6.0",
       "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS\nComments URL: https://news.ycombinator.com/item?id=49251702\nPoints: 182\n# Comments: 18",
+      "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS\nComments URL: https://news.ycombinator.com/item?id=49251702\nPoints: 197\n# Comments: 24",
       "publishedAt": "2026-08-11T00:24:15.000Z",
       "image": null,
       "sourceCount": 1,
@@ -181,7 +214,7 @@
       "source": "Hacker News",
       "title": "The UK's war on anonymity has come to America",
       "link": "https://www.effort.news/uk-lobby",
-      "summary": "Article URL: https://www.effort.news/uk-lobby\nComments URL: https://news.ycombinator.com/item?id=49251411\nPoints: 480\n# Comments: 356",
+      "summary": "Article URL: https://www.effort.news/uk-lobby\nComments URL: https://news.ycombinator.com/item?id=49251411\nPoints: 508\n# Comments: 451",
       "publishedAt": "2026-08-10T23:45:50.000Z",
       "image": "https://www.effort.news/images/article-graphics/uk-lobby/reset-bipartite-graph-cover.png",
       "sourceCount": 1,
@@ -198,28 +231,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T23:16:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "link": "https://everycube.alen.is/",
-      "summary": "Article URL: https://everycube.alen.is/\nComments URL: https://news.ycombinator.com/item?id=49251179\nPoints: 182\n# Comments: 57",
-      "publishedAt": "2026-08-10T23:16:25.000Z",
-      "image": "https://everycube.alen.is/opengraph-image?e65a545ab414fc11",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T23:16:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "link": "https://thewalrus.ca/google-search-is-dying/",
-      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/\nComments URL: https://news.ycombinator.com/item?id=49250836\nPoints: 243\n# Comments: 225",
-      "publishedAt": "2026-08-10T22:36:30.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T22:36:30.000Z"
     },
     {
       "source": "TechCrunch",
@@ -546,17 +557,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T16:18:14.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here's how to pair your Roku remote",
-      "link": "https://www.engadget.com/2230985/how-to-pair-roku-remote/",
-      "summary": "If you've reset your Roku remote or got a new one and need to manually pair it, these are the steps to take.",
-      "publishedAt": "2026-08-10T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-how-to-pair-your-roku-remote/l-intro-1785353818.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T15:30:00.000Z"
     },
     {
       "source": "The Verge",
