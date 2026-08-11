@@ -37,6 +37,7 @@ const breadcrumbItems = [
 <BaseLayout
   title={`#${label} — The Duke Post`}
   description={`Articles tagged "${label}" on The Duke Post.`}
+  image={`/og/tags/${tag}.png`}
   jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
   additionalFeed={{ href: `/tags/${tag}.xml`, title: `#${label} — The Duke Post` }}
 >

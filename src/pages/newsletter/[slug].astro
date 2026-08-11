@@ -24,6 +24,7 @@ const breadcrumbItems = [
 <BaseLayout
   title={`${issue.subject} — The Duke Post`}
   description={`The Wire digest for ${dateLabel} — ${issue.stories.length} top tech ${issue.stories.length === 1 ? 'story' : 'stories'}.`}
+  image={`/og/newsletter/${issue.slug}.png`}
   jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
 >
   <article class="wrap issue">
