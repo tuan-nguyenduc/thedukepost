@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-08-11T19:04:45.686Z",
+  "syncedAt": "2026-08-11T20:48:52.462Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+      "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
+      "publishedAt": "2026-08-11T20:27:16.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T20:27:16.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Is It Safe to Eat Lettuce Yet?",
+      "link": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
+      "summary": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
+      "publishedAt": "2026-08-11T20:26:01.000Z",
+      "image": "https://media.wired.com/photos/6a7b0862e8bb799c3501eef8/191:100/w_1280,c_limit/Lettuce-.gif",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T20:26:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "summary": "The divesture comes comes as the two once-tight companies have started to diverge on the business side.",
+      "publishedAt": "2026-08-11T20:02:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/Serve-Uber-Eats.jpg?resize=1200,801",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T20:02:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The brain may be about to have its Ozempic moment",
+      "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+      "summary": "Article URL: https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment\nComments URL: https://news.ycombinator.com/item?id=49263658\nP…",
+      "publishedAt": "2026-08-11T20:01:27.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T20:01:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Compression Is Prediction",
+      "link": "https://ngrok.com/blog/compression-is-prediction",
+      "summary": "Article URL: https://ngrok.com/blog/compression-is-prediction\nComments URL: https://news.ycombinator.com/item?id=49263497\nPoints: 34\n# Comments: 15",
+      "publishedAt": "2026-08-11T19:49:44.000Z",
+      "image": "https://ngrok.com/blog-assets/images/2026-08-11-compression-is-prediction/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T19:49:44.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Google’s Gemini app surges to one billion users",
@@ -8,20 +63,128 @@
       "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
       "publishedAt": "2026-08-11T18:49:12.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "ChatGPT and Gemini both just passed 1 billion users",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "publishedAt": "2026-08-11T19:41:42.000Z"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+          "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+          "publishedAt": "2026-08-11T19:48:12.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-11T19:48:12.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+      "publishedAt": "2026-08-11T17:46:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
+          "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+          "publishedAt": "2026-08-11T19:45:41.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-11T19:45:41.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "publishedAt": "2026-08-11T19:38:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/teenagers-smartphones.jpg?resize=1200,800",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-11T18:49:12.000Z"
+      "latestActivity": "2026-08-11T19:38:23.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "The Tradeoffs Facing Japan's Economy",
-      "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-      "summary": "Article URL: https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/\nComments URL: https://news.ycombinator.com/item?id=49262761\nPoints: 7\n# Comments: 0",
-      "publishedAt": "2026-08-11T18:47:54.000Z",
-      "image": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/images/japan_ukiyo-e.jpg",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "summary": "Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/\nComments URL: https://news.ycombinator.com/item?id=49263340\nPoints: 69\n# Comments: 20",
+      "publishedAt": "2026-08-11T19:35:52.000Z",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-11T18:47:54.000Z"
+      "latestActivity": "2026-08-11T19:35:52.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How and When to View the Perseid Meteor Shower (August 2026)",
+      "link": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/",
+      "summary": "The Perseids will peak between August 12 and 13. Here’s what time—and where—you can get the best view, and why 2026 will be an exceptional year.",
+      "publishedAt": "2026-08-11T19:15:40.000Z",
+      "image": "https://media.wired.com/photos/6a7b439b4b64dd9eb2b325a6/191:100/w_1280,c_limit/GettyImages-1021078572.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T19:15:40.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "publishedAt": "2026-08-11T19:15:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T19:15:35.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "A flight tracking service is suing Kalshi for using its data without authorization",
+      "link": "https://www.engadget.com/2234903/a-flight-tracking-service-is-suing-kalshi-for-using-its-data-without-authorization/",
+      "summary": "A flight tracking service is suing Kalshi for using its data without authorization.",
+      "publishedAt": "2026-08-11T19:11:09.000Z",
+      "image": "https://www.engadget.com/img/gallery/a-flight-tracking-service-is-suing-kalshi-for-using-its-data-without-authorization/l-intro-1786475419.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T19:11:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Threads has a VR app now",
+      "link": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+      "summary": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month…",
+      "publishedAt": "2026-08-11T19:10:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/499619485_1363901821956630_4656091347422593965_n.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T19:10:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The whole of PyTorch on one page",
+      "link": "https://tensor.khalilli.ai/blog/part-0-the-map/",
+      "summary": "Article URL: https://tensor.khalilli.ai/blog/part-0-the-map/\nComments URL: https://news.ycombinator.com/item?id=49262961\nPoints: 28\n# Comments: 5",
+      "publishedAt": "2026-08-11T19:05:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T19:05:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Making holograms with a pen plotter",
+      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "summary": "Article URL: https://blog.jordan.matelsky.com/Penplotter-holography/\nComments URL: https://news.ycombinator.com/item?id=49262811\nPoints: 39\n# Comments: 5",
+      "publishedAt": "2026-08-11T18:51:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:51:35.000Z"
     },
     {
       "source": "Wired",
@@ -64,6 +227,17 @@
       "latestActivity": "2026-08-11T18:35:16.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Used EV buying guide: The $30,000 edition",
+      "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+      "summary": "Depending on the model, you might have hundreds to choose from—or just one.",
+      "publishedAt": "2026-08-11T18:31:53.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/electric-piggy-bank-30k-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:31:53.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "Can a MacBook run multiple external monitors? It depends",
       "link": "https://www.engadget.com/2234172/can-macbook-run-multiple-external-monitors/",
@@ -87,9 +261,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "How We Used To Get Jobs: A Newspaper Classifieds Story",
+      "title": "How we used to get jobs: A newspaper classifieds story",
       "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "summary": "Article URL: https://ironicsans.ghost.io/how-we-used-to-get-jobs/\nComments URL: https://news.ycombinator.com/item?id=49262211\nPoints: 19\n# Comments: 3",
+      "summary": "Article URL: https://ironicsans.ghost.io/how-we-used-to-get-jobs/\nComments URL: https://news.ycombinator.com/item?id=49262211\nPoints: 57\n# Comments: 34",
       "publishedAt": "2026-08-11T18:09:56.000Z",
       "image": "https://storage.ghost.io/c/99/08/9908ec0b-b3d5-476b-bc3c-632c5b087809/content/images/size/w1200/2026/08/absolutvision-bSlHKWxxXak-unsplash.jpg",
       "sourceCount": 1,
@@ -100,7 +274,7 @@
       "source": "Ars Technica",
       "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
       "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
-      "summary": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
+      "summary": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
       "publishedAt": "2026-08-11T18:00:14.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2287552371-1024x648.jpg",
       "sourceCount": 1,
@@ -133,23 +307,12 @@
       "source": "Hacker News",
       "title": "OpenSSH 10.5/10.5p1",
       "link": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.5\nComments URL: https://news.ycombinator.com/item?id=49261895\nPoints: 32\n# Comments: 10",
+      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.5\nComments URL: https://news.ycombinator.com/item?id=49261895\nPoints: 69\n# Comments: 24",
       "publishedAt": "2026-08-11T17:49:37.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T17:49:37.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-      "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
-      "publishedAt": "2026-08-11T17:46:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T17:46:14.000Z"
     },
     {
       "source": "TechCrunch",
@@ -240,28 +403,6 @@
       "latestActivity": "2026-08-11T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\nComments URL: https://news.ycombinator.com/item?id=49261133\nPoints:…",
-      "publishedAt": "2026-08-11T16:57:09.000Z",
-      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Go_Logo_-_Blue.2e16d0ba.fill-1200x600.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T16:57:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mojo 1.0 Is Here",
-      "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "summary": "Article URL: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here\nComments URL: https://news.ycombinator.com/item?id=49261128\nPoints: 43\n# Comments: 13",
-      "publishedAt": "2026-08-11T16:56:46.000Z",
-      "image": "https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6a7b1bf1bd5b664c84aac08f_Blog-26.5-sm.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T16:56:46.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "How to fix stick drift on PS5 and Xbox controllers",
       "link": "https://www.engadget.com/2230995/how-to-fix-stick-drift-ps5-xbox-controllers/",
@@ -282,17 +423,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T16:26:38.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more prog…",
-      "publishedAt": "2026-08-11T16:25:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T16:25:20.000Z"
     },
     {
       "source": "The Verge",
@@ -317,39 +447,6 @@
       "latestActivity": "2026-08-11T16:07:34.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Joby Aviation builds out defense business with $500M acquisition",
-      "link": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
-      "summary": "Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.",
-      "publishedAt": "2026-08-11T16:06:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/joby-flight-2.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T16:06:08.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Supermassive Games will lay off up to 75 workers",
-      "link": "https://www.engadget.com/2234632/supermassive-games-will-lay-off-up-to-75-employees/",
-      "summary": "The maker of Until Dawn and Directive 8020 says it's cutting jobs to ensure it remains sustainable.",
-      "publishedAt": "2026-08-11T16:02:33.000Z",
-      "image": "https://www.engadget.com/img/gallery/supermassive-games-will-lay-off-up-to-75-workers/l-intro-1786464069.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T16:02:33.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
-      "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
-      "summary": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
-      "publishedAt": "2026-08-11T15:40:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/delta-wi-fi-sign-plane.jpg?resize=1200,679",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:40:46.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
       "link": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
@@ -359,17 +456,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T15:28:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-      "link": "https://github.com/TheRealYT/git-knife",
-      "summary": "Article URL: https://github.com/TheRealYT/git-knife\nComments URL: https://news.ycombinator.com/item?id=49259611\nPoints: 77\n# Comments: 61",
-      "publishedAt": "2026-08-11T15:09:34.000Z",
-      "image": "https://opengraph.githubassets.com/79927eca2e411deebabcb2dc435c7122d0ad31ee241d1e2de3b06fdce64785a1/TheRealYT/git-knife",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:09:34.000Z"
     },
     {
       "source": "Wired",
@@ -394,39 +480,6 @@
       "latestActivity": "2026-08-11T15:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md\nComments URL: https://news.ycombinator.com/item?id=49259339\nPoints: 223\n# Comments: 32",
-      "publishedAt": "2026-08-11T14:50:33.000Z",
-      "image": "https://opengraph.githubassets.com/60393e0fecdeb346473b5ccf940ae3cb1daad1db49a4f0fb76d6705c150e7a3a/trycua/cua",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T14:50:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
-      "link": "https://www.trykeet.com/",
-      "summary": "Hi HN! We’re Zack and Tommy the Co-Founders of Keet (https://trykeet.com). We are building a mobile app that generates courses on any topic, with short videos for explanation and g…",
-      "publishedAt": "2026-08-11T14:48:37.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T14:48:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say th…",
-      "publishedAt": "2026-08-11T14:45:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T14:45:44.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.",
       "link": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
@@ -447,17 +500,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T13:45:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and ins…",
-      "publishedAt": "2026-08-11T13:27:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T13:27:20.000Z"
     },
     {
       "source": "Ars Technica",
@@ -526,17 +568,6 @@
       "latestActivity": "2026-08-11T11:31:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-      "summary": "Why passkey apps treat Windows differently than other operating systems.",
-      "publishedAt": "2026-08-11T11:30:08.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T11:30:08.000Z"
-    },
-    {
       "source": "Wired",
       "title": "6 Best Dehumidifiers to Fight Mold and Muggy Summers (2026)",
       "link": "https://www.wired.com/gallery/best-dehumidifier/",
@@ -559,28 +590,6 @@
       "latestActivity": "2026-08-11T11:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Elon Musk, Sam Altman, and the Misreading of Science Fiction",
-      "link": "https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/",
-      "summary": "Beyond Elon Musk’s interpretation of The Odyssey, Silicon Valley leaders have often misunderstood classic books like Foundation and The Hitchhiker’s Guide to the Galaxy. It’s evide…",
-      "publishedAt": "2026-08-11T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a79da0bdf07565eeae29714/191:100/w_1280,c_limit/Book%20Excerpt%20Elon%20Musk,%20Sam%20Altman,%20and%20the%20Misreading%20of%20Science%20Fiction_v3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "AI Is Dead. Organoids Are Alive",
-      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/191:100/w_1280,c_limit/IN-LINE_LILAC.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T10:00:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
       "link": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
@@ -590,28 +599,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T23:53:23.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-      "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-      "summary": "Our discussion takes place live on August 11 at 2:30 pm ET.",
-      "publishedAt": "2026-08-10T22:23:43.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T22:23:43.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
-      "publishedAt": "2026-08-10T22:13:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T22:13:03.000Z"
     },
     {
       "source": "MIT Technology Review",
