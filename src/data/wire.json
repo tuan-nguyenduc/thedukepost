@@ -1,16 +1,265 @@
 {
-  "syncedAt": "2026-08-11T16:58:56.287Z",
+  "syncedAt": "2026-08-11T19:04:45.686Z",
   "items": [
     {
-      "source": "MIT Technology Review",
-      "title": "Humans aren’t electronics",
-      "link": "https://www.technologyreview.com/2026/08/11/1141238/humans-arent-electronics/",
-      "summary": "The following essay, originally titled “Guaranteeing Agency in the Age of Neural Prosthetics,” was selected as one of three finalists in MIT’s 2026 Envisioning the Future of Comput…",
-      "publishedAt": "2026-08-11T16:40:53.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Strahinja-Janjusevic_2025_044.jpg?w=777",
+      "source": "TechCrunch",
+      "title": "Google’s Gemini app surges to one billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "publishedAt": "2026-08-11T18:49:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-11T16:40:53.000Z"
+      "latestActivity": "2026-08-11T18:49:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Tradeoffs Facing Japan's Economy",
+      "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/\nComments URL: https://news.ycombinator.com/item?id=49262761\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-08-11T18:47:54.000Z",
+      "image": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/images/japan_ukiyo-e.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:47:54.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+      "publishedAt": "2026-08-11T12:37:12.000Z",
+      "image": "https://media.wired.com/photos/6a7a45ba595802741eff3e7c/191:100/w_1280,c_limit/Security_Zoom%20Screensharing%20Bug_v1.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Zoom screen-sharing bug let people fully take over other devices on a call",
+          "link": "https://www.engadget.com/2234871/zoom-screen-sharing-bug-let-people-fully-take-over-other-devices-on-a-call/",
+          "publishedAt": "2026-08-11T18:44:18.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-11T18:44:18.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Abbott partners with Google Health for AI-powered glucose monitoring",
+      "link": "https://www.engadget.com/2234851/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/",
+      "summary": "Abbott partners with Google Health for AI-powered glucose monitoring.",
+      "publishedAt": "2026-08-11T18:35:34.000Z",
+      "image": "https://www.engadget.com/img/gallery/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/l-intro-1786473283.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:35:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s free streaming service now lets you pick shows and movies to watch",
+      "link": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
+      "summary": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, y…",
+      "publishedAt": "2026-08-11T18:35:16.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-tv-freeplay-vod.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:35:16.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Can a MacBook run multiple external monitors? It depends",
+      "link": "https://www.engadget.com/2234172/can-macbook-run-multiple-external-monitors/",
+      "summary": "Most current models support at least two.",
+      "publishedAt": "2026-08-11T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/can-a-macbook-run-multiple-external-monitors-it-depends/l-intro-1786403964.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Authors face backlash for participation in 2022 Google AI study ",
+      "link": "https://www.engadget.com/2234838/authors-face-backlash-for-participation-in-2022-google-ai-study/",
+      "summary": "Thirteen authors joined a little-known Google AI study in 2022. Now they're facing backlash.",
+      "publishedAt": "2026-08-11T18:24:38.000Z",
+      "image": "https://www.engadget.com/img/gallery/authors-face-backlash-for-participation-in-2022-google-ai-study/l-intro-1786472489.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:24:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How We Used To Get Jobs: A Newspaper Classifieds Story",
+      "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "summary": "Article URL: https://ironicsans.ghost.io/how-we-used-to-get-jobs/\nComments URL: https://news.ycombinator.com/item?id=49262211\nPoints: 19\n# Comments: 3",
+      "publishedAt": "2026-08-11T18:09:56.000Z",
+      "image": "https://storage.ghost.io/c/99/08/9908ec0b-b3d5-476b-bc3c-632c5b087809/content/images/size/w1200/2026/08/absolutvision-bSlHKWxxXak-unsplash.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:09:56.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
+      "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+      "summary": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
+      "publishedAt": "2026-08-11T18:00:14.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2287552371-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T18:00:14.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.  That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring a…",
+      "publishedAt": "2026-08-11T17:58:57.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_RightWingBenz.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:58:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to…",
+      "publishedAt": "2026-08-11T17:50:01.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:50:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenSSH 10.5/10.5p1",
+      "link": "https://www.openssh.org/releasenotes.html#10.5",
+      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.5\nComments URL: https://news.ycombinator.com/item?id=49261895\nPoints: 32\n# Comments: 10",
+      "publishedAt": "2026-08-11T17:49:37.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:49:37.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+      "publishedAt": "2026-08-11T17:46:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:46:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+      "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+      "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
+      "publishedAt": "2026-08-11T17:41:49.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1066714342.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:41:49.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different va…",
+      "publishedAt": "2026-08-11T17:41:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:41:34.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "publishedAt": "2026-08-11T17:41:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:41:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
+      "link": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
+      "summary": "The Google Pixel Buds 2a in hazel. | Image: The Verge\t\n\nLooking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently di…",
+      "publishedAt": "2026-08-11T17:31:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Buds-2a-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:31:06.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How the iPhone has changed in the last five years",
+      "link": "https://www.engadget.com/2230998/how-iphone-changed-last-five-years/",
+      "summary": "Modern iPhones reflect years of gradual evolution, blending new capabilities with familiar elements that keep users adapting along the way.",
+      "publishedAt": "2026-08-11T17:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-the-iphone-has-changed-in-the-last-five-years/l-intro-1785427841.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Disney+ will be the new global streaming home of Formula E racing",
+      "link": "https://www.engadget.com/2234742/disney-will-be-the-new-global-streaming-home-of-formula-e-racing/",
+      "summary": "Disney+ will be the new global streaming home of Formula E racing.",
+      "publishedAt": "2026-08-11T17:17:11.000Z",
+      "image": "https://www.engadget.com/img/gallery/disney-will-be-the-new-global-streaming-home-of-formula-e-racing/l-intro-1786468582.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:17:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
+      "link": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
+      "summary": "The Pixel 11 Pro has a flashy new light on the back. | Image: Google\t\n\nLast year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallo…",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colo…",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\nComments URL: https://news.ycombinator.com/item?id=49261133\nPoints:…",
+      "publishedAt": "2026-08-11T16:57:09.000Z",
+      "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Go_Logo_-_Blue.2e16d0ba.fill-1200x600.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T16:57:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mojo 1.0 Is Here",
+      "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "summary": "Article URL: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here\nComments URL: https://news.ycombinator.com/item?id=49261128\nPoints: 43\n# Comments: 13",
+      "publishedAt": "2026-08-11T16:56:46.000Z",
+      "image": "https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6a7b1bf1bd5b664c84aac08f_Blog-26.5-sm.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T16:56:46.000Z"
     },
     {
       "source": "Engadget",
@@ -24,6 +273,17 @@
       "latestActivity": "2026-08-11T16:30:00.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Tracking extreme heat by the hour makes climate change seem even worse",
+      "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+      "summary": "Hot hours of summer could triple in the coming decades.",
+      "publishedAt": "2026-08-11T16:26:38.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1410976365-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T16:26:38.000Z"
+    },
+    {
       "source": "TechCrunch",
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
@@ -33,6 +293,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T16:25:20.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for…",
+      "publishedAt": "2026-08-11T16:19:15.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T16:19:15.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "A Google insider spills the tea on how the company forsook its founding ideals",
+      "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
+      "summary": "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident.",
+      "publishedAt": "2026-08-11T16:07:34.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/GettyImages-1207206237-scaled-1152x648-1785956683.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T16:07:34.000Z"
     },
     {
       "source": "TechCrunch",
@@ -57,28 +339,6 @@
       "latestActivity": "2026-08-11T16:02:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'",
-      "link": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
-      "summary": "Article URL: https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4\nComments URL: https://news.ycombinator.com/item?id=49260250\nPoints: 31\n# Com…",
-      "publishedAt": "2026-08-11T15:54:35.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:54:35.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "England and Wales ban Meta Glasses from courtrooms",
-      "link": "https://www.engadget.com/2234606/england-and-wales-ban-meta-glasses-from-courtrooms/",
-      "summary": "Cameras are typically banned in courtrooms, and Meta Glasses are no exception in England and Wales.",
-      "publishedAt": "2026-08-11T15:43:55.000Z",
-      "image": "https://www.engadget.com/img/gallery/england-and-wales-ban-meta-glasses-from-courtrooms/l-intro-1786462925.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:43:55.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
       "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
@@ -88,39 +348,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T15:40:46.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
-      "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
-      "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
-      "publishedAt": "2026-08-11T15:33:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-Arcade-Puzzle-Block-Blast-plus_inline.jpg.large_2x.jpg?resize=856,1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:33:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026 ",
-      "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-      "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-      "publishedAt": "2026-08-11T15:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/RJ-Scaringe-Disrupt-Stage-2026.png?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Can you wear your headphones while driving? It depends on the state",
-      "link": "https://www.engadget.com/2230991/can-you-wear-headphones-while-driving-car-it-depends/",
-      "summary": "State laws around driving with headphones vary, so make sure you know what's legal.",
-      "publishedAt": "2026-08-11T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/can-you-wear-your-headphones-while-driving-it-depends-on-the-state/l-intro-1785342350.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:30:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -134,37 +361,15 @@
       "latestActivity": "2026-08-11T15:28:43.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
-      "link": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
-      "summary": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
-      "publishedAt": "2026-08-11T15:23:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flightaware-sues-kalshi.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:23:58.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
       "link": "https://github.com/TheRealYT/git-knife",
-      "summary": "Article URL: https://github.com/TheRealYT/git-knife\nComments URL: https://news.ycombinator.com/item?id=49259611\nPoints: 54\n# Comments: 31",
+      "summary": "Article URL: https://github.com/TheRealYT/git-knife\nComments URL: https://news.ycombinator.com/item?id=49259611\nPoints: 77\n# Comments: 61",
       "publishedAt": "2026-08-11T15:09:34.000Z",
-      "image": "https://opengraph.githubassets.com/64ca3758809c156ad918b7dfe7233a56764bfcd3047fc588e220741409fffc9d/TheRealYT/git-knife",
+      "image": "https://opengraph.githubassets.com/79927eca2e411deebabcb2dc435c7122d0ad31ee241d1e2de3b06fdce64785a1/TheRealYT/git-knife",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T15:09:34.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
-      "link": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
-      "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel syst…",
-      "publishedAt": "2026-08-11T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/UNITY-3-kyoto-fusioneering.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T15:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -192,9 +397,9 @@
       "source": "Hacker News",
       "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
       "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md\nComments URL: https://news.ycombinator.com/item?id=49259339\nPoints: 102\n# Comments: 20",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md\nComments URL: https://news.ycombinator.com/item?id=49259339\nPoints: 223\n# Comments: 32",
       "publishedAt": "2026-08-11T14:50:33.000Z",
-      "image": "https://opengraph.githubassets.com/9217f763479cfbaa4757abbc4e80191cd83e9a6e6120725af8b2785afd4b7c8e/trycua/cua",
+      "image": "https://opengraph.githubassets.com/60393e0fecdeb346473b5ccf940ae3cb1daad1db49a4f0fb76d6705c150e7a3a/trycua/cua",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T14:50:33.000Z"
@@ -211,70 +416,15 @@
       "latestActivity": "2026-08-11T14:48:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
-      "link": "https://www.propublica.org/article/foia-requests-responses",
-      "summary": "Article URL: https://www.propublica.org/article/foia-requests-responses\nComments URL: https://news.ycombinator.com/item?id=49259043\nPoints: 38\n# Comments: 6",
-      "publishedAt": "2026-08-11T14:32:21.000Z",
-      "image": "https://www.propublica.org/wp-content/uploads/2026/07/OPM-FOIA.jpg?w=1800",
+      "source": "The Verge",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say th…",
+      "publishedAt": "2026-08-11T14:45:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-11T14:32:21.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to connect Bluetooth headphones to your PS5",
-      "link": "https://www.engadget.com/2230993/how-to-connect-bluetooth-headphones-to-ps5/",
-      "summary": "The PS5 may not support Bluetooth audio directly, but there are workarounds.",
-      "publishedAt": "2026-08-11T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-connect-bluetooth-headphones-to-your-ps5/l-intro-1785162788.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T14:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Samsung says a hearing aid feature is coming to Galaxy Buds later this year",
-      "link": "https://www.engadget.com/2234489/samsung-says-a-hearing-aid-feature-is-coming-to-galaxy-buds-later-this-year/",
-      "summary": "The FDA approved Samsung's Galaxy Buds hearing aid feature, which will soon be available alongside a hearing test.",
-      "publishedAt": "2026-08-11T14:21:10.000Z",
-      "image": "https://www.engadget.com/img/gallery/samsung-says-a-hearing-aid-feature-is-coming-to-galaxy-buds-later-this-year/l-intro-1786458015.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T14:21:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Manus will return to operating as an independent company",
-      "link": "https://manus.im/blog/a-note-to-our-users",
-      "summary": "Article URL: https://manus.im/blog/a-note-to-our-users\nComments URL: https://news.ycombinator.com/item?id=49258764\nPoints: 44\n# Comments: 15",
-      "publishedAt": "2026-08-11T14:14:53.000Z",
-      "image": "https://files.manuscdn.com/assets/dashboard/materials/2026/08/06/6fff945a50397f337dd4c74478366d843e1e75cde81c866875c119792265bc15.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T14:14:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
-      "link": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-      "summary": "Article URL: https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave\nComments URL: https://news.ycombinator.com/item?id=49258581\nPoints: 67\n# Comments: 58",
-      "publishedAt": "2026-08-11T14:03:18.000Z",
-      "image": "https://assets.bizclikmedia.net/1200/e8c61fb615f15dbfa62e70e827a0b105:df20956d2a1cd9bdb647e65ac005c721/screenshot-2026-08-11-104141.png.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T14:03:18.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Bumble ditches its rule that kept men from making the first move",
-      "link": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
-      "summary": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.",
-      "publishedAt": "2026-08-11T13:59:26.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Bumble-menmessagefirst.png?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T13:59:26.000Z"
+      "latestActivity": "2026-08-11T14:45:44.000Z"
     },
     {
       "source": "VentureBeat",
@@ -299,26 +449,15 @@
       "latestActivity": "2026-08-11T13:45:02.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
-      "link": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
-      "summary": "Article URL: https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harr…",
-      "publishedAt": "2026-08-11T13:42:27.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hw8fJCX4zjtKqR4nRidyYd-1920-80.png",
+      "source": "The Verge",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and ins…",
+      "publishedAt": "2026-08-11T13:27:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-11T13:42:27.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Garmin Cirqa versus Fitbit Air: How these two fitness trackers compare",
-      "link": "https://www.engadget.com/2230989/garmin-cirqa-vs-fitbit-air-how-fitness-trackers-compare/",
-      "summary": "Is Garmin's new option worth $100 more than the Fitbit Air?",
-      "publishedAt": "2026-08-11T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/garmin-cirqa-versus-fitbit-air-how-these-two-fitness-trackers-compare/l-intro-1785416082.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T13:30:00.000Z"
+      "latestActivity": "2026-08-11T13:27:20.000Z"
     },
     {
       "source": "Ars Technica",
@@ -330,17 +469,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T13:15:24.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Motorola Moto Watch (2026) review: Looks can be deceiving",
-      "link": "https://www.engadget.com/2234418/motorola-moto-watch-2026-review/",
-      "summary": "Motorola's Moto Watch looks like a capable and affordable timepiece, but looks are deceiving.",
-      "publishedAt": "2026-08-11T13:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/motorola-moto-watch-2026-review-looks-can-be-deceiving/l-intro-1786452445.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T13:15:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -374,17 +502,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T13:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-      "publishedAt": "2026-08-11T12:37:12.000Z",
-      "image": "https://media.wired.com/photos/6a7a45ba595802741eff3e7c/191:100/w_1280,c_limit/Security_Zoom%20Screensharing%20Bug_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T12:37:12.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -495,39 +612,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T22:13:03.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-      "link": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-      "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
-      "publishedAt": "2026-08-10T21:42:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T21:42:56.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
-      "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-      "summary": "A reminder of the perils of digital ownership.",
-      "publishedAt": "2026-08-10T21:26:38.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T21:26:38.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
-      "publishedAt": "2026-08-10T20:45:52.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T20:45:52.000Z"
     },
     {
       "source": "MIT Technology Review",
