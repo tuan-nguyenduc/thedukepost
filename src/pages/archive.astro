@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { categoryHref, categoryLabel } from '../lib/categories';
+import { itemListJsonLd } from '../lib/itemList';
 
 const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -37,6 +38,11 @@ for (const article of articles) {
 <BaseLayout
   title="Archive — The Duke Post"
   description="Browse every original article from The Duke Post by year and month."
+  jsonLd={itemListJsonLd(
+    articles.map((a) => ({ label: a.data.title, href: `/articles/${a.slug}` })),
+    Astro.site,
+    { name: 'Archive — The Duke Post', description: 'Every original article from The Duke Post by year and month.' }
+  )}
 >
   <section class="wrap page">
     <p class="back"><a href="/articles">← All articles</a></p>

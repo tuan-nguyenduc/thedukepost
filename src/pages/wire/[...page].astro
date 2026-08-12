@@ -3,6 +3,7 @@ import type { GetStaticPaths } from 'astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import wireData from '../../data/wire.json';
 import { faviconUrl } from '../../lib/favicon';
+import { itemListJsonLd } from '../../lib/itemList';
 
 // wire.json is committed by an automated sync job; default the clustering
 // fields so a stale or hand-resolved-conflict copy without them can't crash
@@ -40,19 +41,6 @@ const clientItems = wireItems.map(({ source, title, link, summary, image, source
   related,
 }));
 
-const itemListJsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'ItemList',
-  name: 'The Wire — The Duke Post',
-  description: 'Curated tech headlines from across the industry, refreshed regularly.',
-  itemListElement: page.data.map((item, index) => ({
-    '@type': 'ListItem',
-    position: page.start + index + 1,
-    url: item.link,
-    name: item.title,
-  })),
-};
-
 const pageTitle = page.currentPage === 1
   ? 'The Wire — The Duke Post'
   : `The Wire — Page ${page.currentPage} — The Duke Post`;
@@ -61,8 +49,16 @@ const pageTitle = page.currentPage === 1
   title={pageTitle}
   description="Every major tech outlet, one feed. The Wire pulls headlines from across the industry and refreshes regularly, so you see the trends without visiting each site."
   additionalFeed={{ href: '/wire.xml', title: 'The Wire — The Duke Post' }}
+  jsonLd={itemListJsonLd(
+    page.data.map((item) => ({ label: item.title, href: item.link })),
+    Astro.site,
+    {
+      name: 'The Wire — The Duke Post',
+      description: 'Curated tech headlines from across the industry, refreshed regularly.',
+      startPosition: page.start + 1,
+    }
+  )}
 >
-  <script type="application/ld+json" set:html={JSON.stringify(itemListJsonLd)} />
   <section class="wrap page">
     <h1>⚡ The Wire</h1>
     <p class="intro">A running feed of headlines from other publishers. We link out — we don't republish. <a href="/wire.xml">RSS</a> <span class="byline">Last synced {syncedAt.toISOString().replace('T', ' ').slice(0, 16)} UTC</span></p>

@@ -4,6 +4,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
 import { authorSlug, authorHref } from '../../lib/authors';
 import { breadcrumbJsonLd } from '../../lib/breadcrumbs';
+import { itemListJsonLd } from '../../lib/itemList';
 
 const articles = await getCollection('articles', ({ data }) => !data.draft);
 
@@ -28,7 +29,14 @@ const breadcrumbItems = [
 <BaseLayout
   title="Authors — The Duke Post"
   description="Browse The Duke Post's original articles by author."
-  jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
+  jsonLd={[
+    breadcrumbJsonLd(breadcrumbItems, Astro.site),
+    itemListJsonLd(
+      authors.map((author) => ({ label: author.name, href: authorHref(author.name) })),
+      Astro.site,
+      { name: 'Authors — The Duke Post', description: "Browse The Duke Post's original articles by author." }
+    ),
+  ]}
 >
   <section class="wrap page">
     <Breadcrumbs items={breadcrumbItems} />

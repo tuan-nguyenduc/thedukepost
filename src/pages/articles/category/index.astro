@@ -4,6 +4,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES, categoryLabel, categoryHref } from '../../../lib/categories';
 import { breadcrumbJsonLd } from '../../../lib/breadcrumbs';
+import { itemListJsonLd } from '../../../lib/itemList';
 
 const articles = await getCollection('articles', ({ data }) => !data.draft);
 
@@ -27,7 +28,14 @@ const breadcrumbItems = [
 <BaseLayout
   title="Categories — The Duke Post"
   description="Browse The Duke Post's original articles by category."
-  jsonLd={breadcrumbJsonLd(breadcrumbItems, Astro.site)}
+  jsonLd={[
+    breadcrumbJsonLd(breadcrumbItems, Astro.site),
+    itemListJsonLd(
+      categories.map((category) => ({ label: category.label, href: categoryHref(category.slug) })),
+      Astro.site,
+      { name: 'Categories — The Duke Post', description: "Browse The Duke Post's original articles by category." }
+    ),
+  ]}
 >
   <section class="wrap page">
     <Breadcrumbs items={breadcrumbItems} />

@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
 import { calculateReadingTime, formatReadingTime } from '../../lib/readingTime';
+import { itemListJsonLd } from '../../lib/itemList';
 
 // Astro evaluates getStaticPaths in isolation, so PAGE_SIZE can't be shared
 // via closure — it's duplicated as a literal here and again below.
@@ -41,6 +42,15 @@ const pageTitle = page.currentPage === 1
 <BaseLayout
   title={pageTitle}
   description="Original tech analysis and reporting from The Duke Post — the context behind the trends, not just another headline."
+  jsonLd={itemListJsonLd(
+    page.data.map((a) => ({ label: a.data.title, href: `/articles/${a.slug}` })),
+    Astro.site,
+    {
+      name: 'Articles — The Duke Post',
+      description: 'Original tech analysis and reporting from The Duke Post.',
+      startPosition: page.start + 1,
+    }
+  )}
 >
   <section class="wrap page">
     <h1>Articles</h1>
