@@ -1,6 +1,94 @@
 {
-  "syncedAt": "2026-08-12T07:27:57.005Z",
+  "syncedAt": "2026-08-12T09:13:41.611Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "A Candidate Named ‘Count Binface’ Is the Most Normal Part of This Pivotal UK Election",
+      "link": "https://www.wired.com/story/a-candidate-named-count-binface-is-the-most-normal-part-of-this-pivotal-uk-election/",
+      "summary": "Clacton's parliamentary race has it all: Nigel Farage, a man dressed as a trash can, a Union Jack bikini, white nationalist conspiracy theories, and 34 candidates on the ballot.",
+      "publishedAt": "2026-08-12T09:01:14.000Z",
+      "image": "https://media.wired.com/photos/6a79a50f41c2687d2f60b4b0/191:100/w_1280,c_limit/Count-Binface-Nigel-Farage-Clacton.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T09:01:14.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Google is now sending out emails with discount codes for the Pixel 11",
+      "link": "https://www.engadget.com/2235193/google-sending-out-emails-discount-codes-pixel-11/",
+      "summary": "You may want to keep a close eye on your Gmail inbox if you're looking to get a Pixel 11.",
+      "publishedAt": "2026-08-12T08:23:46.000Z",
+      "image": "https://www.engadget.com/img/gallery/google-sending-out-emails-discount-codes-pixel-11/l-intro-1786523226.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T08:23:46.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
+      "link": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
+      "summary": "Across 170 enterprises, AI infrastructure has moved decisively into production — two-thirds now run AI workloads live and three in 10 run them at scale — while the ability to accou…",
+      "publishedAt": "2026-08-12T07:30:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T07:30:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
+      "link": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+      "summary": "Across 116 enterprises, agents are in production and so are the incidents: A majority have already had a confirmed agent security event or a near-miss. Two-thirds of enterprises en…",
+      "publishedAt": "2026-08-12T07:30:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T07:30:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+      "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+      "summary": "Across 108 enterprises, trust in automated agent evaluation rose sharply in July — and the failure rate it is supposed to predict did not move at all. The share of organizations th…",
+      "publishedAt": "2026-08-12T07:30:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T07:30:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
+      "link": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
+      "summary": "Across 101 enterprises, the context feeding AI agents is failing often and repeatedly. Sixty-eight percent have traced a confident but wrong agent answer to missing or inconsistent…",
+      "publishedAt": "2026-08-12T07:30:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T07:30:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "summary": "Across 107 enterprises, agentic orchestration is not a choice of a single platform.\nThe typical enterprise runs three orchestration platforms at once, and selects them for flexibil…",
+      "publishedAt": "2026-08-12T07:30:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T07:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LinkedIn CringeBot 3000",
+      "link": "https://www.cringebot3000.com/",
+      "summary": "Article URL: https://www.cringebot3000.com/\nComments URL: https://news.ycombinator.com/item?id=49268564\nPoints: 112\n# Comments: 33",
+      "publishedAt": "2026-08-12T06:30:49.000Z",
+      "image": "https://www.cringebot3000.com/centered_cringebot_face.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T06:30:49.000Z"
+    },
     {
       "source": "The Verge",
       "title": "An FCC filing points to new Sonos headphones coming soon",
@@ -18,39 +106,6 @@
         }
       ],
       "latestActivity": "2026-08-12T05:53:41.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "OnePlus Promo Codes: 30% Off August 2026",
-      "link": "https://www.wired.com/story/oneplus-promo-code/",
-      "summary": "Save 30% with a OnePlus coupon in August 2026, plus save up to 10% on earbuds, phones, and more.",
-      "publishedAt": "2026-08-12T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Chegg Coupon Codes August 2026: Save on Study, Textbooks, & More",
-      "link": "https://www.wired.com/story/chegg-coupon-code/",
-      "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
-      "publishedAt": "2026-08-12T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Paramount+ Coupon Codes and Deals for August 2026",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "publishedAt": "2026-08-12T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/191:100/w_1280,c_limit/WIRED-Coupons-R2_14.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T05:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -87,6 +142,17 @@
     },
     {
       "source": "Wired",
+      "title": "Chegg Coupon Codes August 2026: Save on Study, Textbooks, & More",
+      "link": "https://www.wired.com/story/chegg-coupon-code/",
+      "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+      "publishedAt": "2026-08-12T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
       "title": "Zoro Coupon Codes: 55% Off August",
       "link": "https://www.wired.com/story/zoro-promo-code/",
       "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month.",
@@ -108,10 +174,21 @@
       "latestActivity": "2026-08-12T05:00:00.000Z"
     },
     {
+      "source": "Wired",
+      "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This August 2026",
+      "link": "https://www.wired.com/story/vimeo-promo-code/",
+      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+      "publishedAt": "2026-08-12T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/191:100/w_1280,c_limit/WIRED-Coupons-R2_14.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T05:00:00.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "llama.cpp",
       "link": "https://llama.app",
-      "summary": "Article URL: https://llama.app\nComments URL: https://news.ycombinator.com/item?id=49267928\nPoints: 127\n# Comments: 59",
+      "summary": "Article URL: https://llama.app\nComments URL: https://news.ycombinator.com/item?id=49267928\nPoints: 191\n# Comments: 79",
       "publishedAt": "2026-08-12T04:51:59.000Z",
       "image": "/og-image-llama-cpp.png",
       "sourceCount": 1,
@@ -122,7 +199,7 @@
       "source": "Hacker News",
       "title": "Dropbox is an obvious PE Target?",
       "link": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
-      "summary": "Article URL: https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/\nComments URL: https://news.ycombinator.com/item?id=49267818\nPoints: 36\n# Comments: 43",
+      "summary": "Article URL: https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/\nComments URL: https://news.ycombinator.com/item?id=49267818\nPoints: 53\n# Comments: 85",
       "publishedAt": "2026-08-12T04:30:34.000Z",
       "image": null,
       "sourceCount": 1,
@@ -142,20 +219,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
-      "link": "https://github.com/sgkdev/bad_garbage",
-      "summary": "Article URL: https://github.com/sgkdev/bad_garbage\nComments URL: https://news.ycombinator.com/item?id=49267550\nPoints: 10\n# Comments: 0",
-      "publishedAt": "2026-08-12T03:31:42.000Z",
-      "image": "https://opengraph.githubassets.com/848b35fd3a0c4b394d48fc50381bbaea969d784aabfc165c5667fd39df8ada7a/sgkdev/bad_garbage",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T03:31:42.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
       "link": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
-      "summary": "Article URL: https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/\nComments URL: https://news.ycombinator.com/item?id=49267527\nPoints: 16\n# Comments: 2",
+      "summary": "Article URL: https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/\nComments URL: https://news.ycombinator.com/item?id=49267527\nPoints: 37\n# Comments: 14",
       "publishedAt": "2026-08-12T03:27:31.000Z",
       "image": "https://cdn.dronexl.co/wp-content/uploads/2026/08/avidrone-katana-helicopter-drone-darpa-lift-challenge.webp",
       "sourceCount": 1,
@@ -166,7 +232,7 @@
       "source": "Hacker News",
       "title": "The Human Is the Loop",
       "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-      "summary": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/\nComments URL: https://news.ycombinator.com/item?id=49267108\nPoints: 70\n# Comments: 27",
+      "summary": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/\nComments URL: https://news.ycombinator.com/item?id=49267108\nPoints: 95\n# Comments: 39",
       "publishedAt": "2026-08-12T02:15:01.000Z",
       "image": null,
       "sourceCount": 1,
@@ -232,23 +298,12 @@
       "source": "Hacker News",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nComments URL: https://news.ycombinator.com/item?id=49265051\nPoints: 198\n# Comments: 58",
+      "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nComments URL: https://news.ycombinator.com/item?id=49265051\nPoints: 219\n# Comments: 66",
       "publishedAt": "2026-08-11T21:56:18.000Z",
       "image": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T21:56:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-      "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "summary": "Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026\nComments URL: https://news.ycombinator.com/item?id=49265031\nPoints: 55\n# Comments: 4",
-      "publishedAt": "2026-08-11T21:54:25.000Z",
-      "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fpg_clickhouse_jul2026_banner_8a6e1ca8ab.png&w=1200&h=630&q=75",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T21:54:25.000Z"
     },
     {
       "source": "TechCrunch",
@@ -337,6 +392,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T20:02:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Compression is prediction",
+      "link": "https://ngrok.com/blog/compression-is-prediction",
+      "summary": "Article URL: https://ngrok.com/blog/compression-is-prediction\nComments URL: https://news.ycombinator.com/item?id=49263497\nPoints: 510\n# Comments: 211",
+      "publishedAt": "2026-08-11T19:49:44.000Z",
+      "image": "https://ngrok.com/blog-assets/images/2026-08-11-compression-is-prediction/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T19:49:44.000Z"
     },
     {
       "source": "Ars Technica",
@@ -533,17 +599,6 @@
       "latestActivity": "2026-08-11T17:31:06.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How the iPhone has changed in the last five years",
-      "link": "https://www.engadget.com/2230998/how-iphone-changed-last-five-years/",
-      "summary": "Modern iPhones reflect years of gradual evolution, blending new capabilities with familiar elements that keep users adapting along the way.",
-      "publishedAt": "2026-08-11T17:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-the-iphone-has-changed-in-the-last-five-years/l-intro-1785427841.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T17:30:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
       "link": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
@@ -555,50 +610,6 @@
       "latestActivity": "2026-08-11T15:00:00.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.",
-      "link": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
-      "summary": "Mistral AI wants to turn European AI sovereignty from a talking point into a product — one with a service-level agreement attached.\nThe French artificial intelligence company annou…",
-      "publishedAt": "2026-08-11T13:59:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/701bwkaYcrVQtk0chAZnj6/263d22188301ff4aea415122ba7b50c1/Nuneybits_Vector_art_of_tricolor_ASCII_art_France_on_black_CRT__fa9c0345-40cc-4aa9-9e74-13c8d7d9ffc7.webp?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T13:59:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights",
-      "link": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
-      "summary": "LTX, the open world model company spun out of Lightricks, today released LTX-2.5, the newest version of its open-weights video and \"world\" model and it arrives natively integrated…",
-      "publishedAt": "2026-08-11T13:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/W3t8pOZ5akOZxRtoey9OE/a8fd8f9856ffbbd478a4108f7312c5e7/ChatGPT_Image_Aug_10__2026__10_06_12_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T13:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
-      "link": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
-      "summary": "Enterprises running always-on AI agents keep hitting the same tradeoff. Send every task to a frontier model and the bill climbs fast. Build custom routing logic to send easy tasks…",
-      "publishedAt": "2026-08-11T13:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6qbSNxUnm1pPACzx2jzAAQ/18b1af901de9038b19d1069310092946/lightning-nemotron-smk1.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T13:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
-      "link": "https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt",
-      "summary": "Presented by Salesforce\n\nInterested buyers don't generate revenue. Live customers do. That's the lesson I keep drawing from watching hundreds of ISV partnerships navigate the agent…",
-      "publishedAt": "2026-08-11T13:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5E1nBeQY6cEONX6MsUYste/80a5c3946c1855b768c3bb213c527722/Digital_head_trajectory.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T13:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
       "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
@@ -608,17 +619,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T12:10:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
-      "link": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
-      "summary": "Earlier today, OpenAI launched GPT-5.6-Cyber, a specialized model designed to perform advanced vulnerability research and exploit development for approved defenders — including cat…",
-      "publishedAt": "2026-08-10T23:53:23.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1vFvZadzVgpBpKJvEUCDS9/e9b912eb53c0fda59b01e8676b3613b3/ChatGPT_Image_Aug_10__2026__07_36_04_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T23:53:23.000Z"
     },
     {
       "source": "MIT Technology Review",
