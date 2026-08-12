@@ -1,6 +1,68 @@
 {
-  "syncedAt": "2026-08-11T22:45:01.419Z",
+  "syncedAt": "2026-08-12T02:07:38.735Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Gen Z has rediscovered the joy of going to the movies",
+      "link": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+      "summary": "Article URL: https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies\nComments URL: https://news.ycombinator.com/item?id=49266879\nPoints:…",
+      "publishedAt": "2026-08-12T01:39:56.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T01:39:56.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "publishedAt": "2026-08-12T00:08:40.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+          "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+          "publishedAt": "2026-08-12T00:58:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-12T00:58:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare…",
+      "publishedAt": "2026-08-12T00:39:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T00:39:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "summary": "Article URL: https://www.cftc.gov/PressRoom/PressReleases/9281-26\nComments URL: https://news.ycombinator.com/item?id=49266277\nPoints: 105\n# Comments: 79",
+      "publishedAt": "2026-08-12T00:17:59.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T00:17:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "summary": "Article URL: https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/\nComments URL: https://news.ycombinator.com/item?id=49265879\nPoints: 74\n# C…",
+      "publishedAt": "2026-08-11T23:26:17.000Z",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/2c3b1f38-9648-4daf-9f50-fd630d3b3a21/thumbnail/1200x630/d2ce9c81e57a883803e3d5377231db87/gettyimages-2257297641.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T23:26:17.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
@@ -13,15 +75,37 @@
       "latestActivity": "2026-08-11T22:36:35.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "link": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+      "summary": "It took just hours for the leading pharma group to reject the recommendations.",
+      "publishedAt": "2026-08-11T22:31:45.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T22:31:45.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nComments URL: https://news.ycombinator.com/item?id=49265051\nPoints: 11\n# Comments: 2",
+      "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nComments URL: https://news.ycombinator.com/item?id=49265051\nPoints: 120\n# Comments: 40",
       "publishedAt": "2026-08-11T21:56:18.000Z",
       "image": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T21:56:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "summary": "Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026\nComments URL: https://news.ycombinator.com/item?id=49265031\nPoints: 34\n# Comments: 2",
+      "publishedAt": "2026-08-11T21:54:25.000Z",
+      "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fpg_clickhouse_jul2026_banner_8a6e1ca8ab.png&w=1200&h=630&q=75",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-11T21:54:25.000Z"
     },
     {
       "source": "TechCrunch",
@@ -49,7 +133,7 @@
       "source": "Hacker News",
       "title": "Suzanne: AI tool for designing and manufacturing physical products",
       "link": "https://www.suzanne3d.com/",
-      "summary": "Article URL: https://www.suzanne3d.com/\nComments URL: https://news.ycombinator.com/item?id=49264755\nPoints: 8\n# Comments: 6",
+      "summary": "Article URL: https://www.suzanne3d.com/\nComments URL: https://news.ycombinator.com/item?id=49264755\nPoints: 39\n# Comments: 28",
       "publishedAt": "2026-08-11T21:28:26.000Z",
       "image": "https://suzanne3d.com/favicon.png",
       "sourceCount": 1,
@@ -82,7 +166,7 @@
       "source": "Hacker News",
       "title": "Emergent Introspective Awareness in Large Language Models",
       "link": "https://arxiv.org/abs/2601.01828",
-      "summary": "Article URL: https://arxiv.org/abs/2601.01828\nComments URL: https://news.ycombinator.com/item?id=49264583\nPoints: 9\n# Comments: 2",
+      "summary": "Article URL: https://arxiv.org/abs/2601.01828\nComments URL: https://news.ycombinator.com/item?id=49264583\nPoints: 26\n# Comments: 10",
       "publishedAt": "2026-08-11T21:14:10.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
@@ -123,17 +207,6 @@
       "latestActivity": "2026-08-11T20:59:52.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The 19th-Century Family Fortunes Funding Degrowth",
-      "link": "https://www.effort.news/p4ne",
-      "summary": "Article URL: https://www.effort.news/p4ne\nComments URL: https://news.ycombinator.com/item?id=49264352\nPoints: 12\n# Comments: 5",
-      "publishedAt": "2026-08-11T20:56:00.000Z",
-      "image": "https://www.effort.news/images/article-graphics/p4ne/p4ne-founders-cover.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T20:56:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
       "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
@@ -165,28 +238,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T20:02:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The brain may be about to have its Ozempic moment",
-      "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "summary": "Article URL: https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment\nComments URL: https://news.ycombinator.com/item?id=49263658\nP…",
-      "publishedAt": "2026-08-11T20:01:27.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T20:01:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Compression is prediction",
-      "link": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "Article URL: https://ngrok.com/blog/compression-is-prediction\nComments URL: https://news.ycombinator.com/item?id=49263497\nPoints: 158\n# Comments: 66",
-      "publishedAt": "2026-08-11T19:49:44.000Z",
-      "image": "https://ngrok.com/blog-assets/images/2026-08-11-compression-is-prediction/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T19:49:44.000Z"
     },
     {
       "source": "Ars Technica",
@@ -227,17 +278,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T19:38:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "summary": "Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/\nComments URL: https://news.ycombinator.com/item?id=49263340\nPoints: 133\n# Comments: 62",
-      "publishedAt": "2026-08-11T19:35:52.000Z",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T19:35:52.000Z"
     },
     {
       "source": "Wired",
@@ -282,17 +322,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T19:10:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Making holograms with a pen plotter",
-      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "Article URL: https://blog.jordan.matelsky.com/Penplotter-holography/\nComments URL: https://news.ycombinator.com/item?id=49262811\nPoints: 82\n# Comments: 8",
-      "publishedAt": "2026-08-11T18:51:35.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T18:51:35.000Z"
     },
     {
       "source": "Wired",
@@ -454,39 +483,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-11T17:17:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
-      "link": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
-      "summary": "The Pixel 11 Pro has a flashy new light on the back. | Image: Google\t\n\nLast year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallo…",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T17:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Tracking extreme heat by the hour makes climate change seem even worse",
-      "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
-      "summary": "Hot hours of summer could triple in the coming decades.",
-      "publishedAt": "2026-08-11T16:26:38.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1410976365-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T16:26:38.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "A Google insider spills the tea on how the company forsook its founding ideals",
-      "link": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-      "summary": "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident.",
-      "publishedAt": "2026-08-11T16:07:34.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/GettyImages-1207206237-scaled-1152x648-1785956683.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-11T16:07:34.000Z"
     },
     {
       "source": "Wired",
