@@ -1,6 +1,90 @@
 {
-  "syncedAt": "2026-08-12T19:04:20.700Z",
+  "syncedAt": "2026-08-12T20:50:41.906Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "German nonprofit files criminal complaint over Meta smart glasses privacy",
+      "link": "https://www.engadget.com/2235857/german-nonprofit-files-criminal-complaint-over-meta-smart-glasses-privacy/",
+      "summary": "Worrying about Google Glassholes almost feels quaint in comparison.",
+      "publishedAt": "2026-08-12T20:43:06.000Z",
+      "image": "https://www.engadget.com/img/gallery/german-nonprofit-files-criminal-complaint-over-meta-smart-glasses-privacy/l-intro-1786567094.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T20:43:06.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
+      "link": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/",
+      "summary": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
+      "publishedAt": "2026-08-12T20:14:30.000Z",
+      "image": "https://media.wired.com/photos/6a7cb24ff364ac5424573890/191:100/w_1280,c_limit/Tired-of-Diarrhea-Lettuce--Grow-Your-Own-Greens-for-20-Percent-Off.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T20:14:30.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Twitch streamers can now refuse to let Amazon train its genAI models on their content",
+      "link": "https://www.engadget.com/2235647/twitch-streamers-can-now-refuse-to-let-amazon-train-its-gen-ai-models-on-their-content/",
+      "summary": "There's now an opt-out toggle for something that should have been opt-in to begin with.",
+      "publishedAt": "2026-08-12T17:46:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/twitch-streamers-can-now-refuse-to-let-amazon-train-its-genai-models-on-their-content/l-intro-1786556726.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+          "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+          "publishedAt": "2026-08-12T20:10:40.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-12T20:10:40.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "FlightAware dropped its lawsuit against Kalshi after just one day",
+      "link": "https://www.engadget.com/2235769/flightaware-dropped-its-lawsuit-against-kalshi-after-just-one-day/",
+      "summary": "FlightAware's case against Kalshi has been voluntarily dismissed \"without prejudice against all defendants.\"",
+      "publishedAt": "2026-08-12T19:33:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/flightaware-dropped-its-lawsuit-against-kalshi-after-just-one-day/l-intro-1786563079.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T19:33:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+      "link": "https://cynative.com/blog/agent-trust-boundaries/",
+      "summary": "Article URL: https://cynative.com/blog/agent-trust-boundaries/\nComments URL: https://news.ycombinator.com/item?id=49277437\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-08-12T19:29:34.000Z",
+      "image": "https://cynative.com/assets/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T19:29:34.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
+      "link": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/",
+      "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
+      "publishedAt": "2026-08-12T19:05:29.000Z",
+      "image": "https://media.wired.com/photos/6a7b91ac24d089e773714711/191:100/w_1280,c_limit/Gender-War-Over-Obsession-Has-Come-for-Theme-Parks-Culture-MCDOBSE_UC013.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T19:05:29.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Scientists just created female clones of male mice",
+      "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cell…",
+      "publishedAt": "2026-08-12T18:59:48.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Cloned-mice.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T18:59:48.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Pixel Buds Pro 2 and 2a are getting some upgrades, including deeper Gemini integration",
@@ -71,7 +155,7 @@
       "source": "Hacker News",
       "title": "Zed: Delta",
       "link": "https://zed.dev/blog/introducing-delta",
-      "summary": "Article URL: https://zed.dev/blog/introducing-delta\nComments URL: https://news.ycombinator.com/item?id=49276574\nPoints: 67\n# Comments: 9",
+      "summary": "Article URL: https://zed.dev/blog/introducing-delta\nComments URL: https://news.ycombinator.com/item?id=49276574\nPoints: 175\n# Comments: 68",
       "publishedAt": "2026-08-12T18:19:59.000Z",
       "image": "https://images.zed.dev/blog/introducing-delta/thumbnail.webp",
       "sourceCount": 1,
@@ -91,9 +175,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Your Key to Success Isn't More Luck or Hard Work",
+      "title": "People who grew up with high economic connectedness earn more",
       "link": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
-      "summary": "Article URL: https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/\nComments URL: https://news.ycombinator.com/item?id=49276534\nPoints: 7\n# Comments: 6",
+      "summary": "Article URL: https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/\nComments URL: https://news.ycombinator.com/item?id=49276534\nPoints: 55\n# Comments: 49",
       "publishedAt": "2026-08-12T18:17:03.000Z",
       "image": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/og.png",
       "sourceCount": 1,
@@ -104,41 +188,12 @@
       "source": "TechCrunch",
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advan…",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China a…",
       "publishedAt": "2026-08-12T17:51:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-12T17:51:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-      "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-      "summary": "The Pixel 11 Pro in matte obsidian. | Photo: David Imel / The Verge\t\n\nLooking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially…",
-      "publishedAt": "2026-08-12T17:47:54.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Matte-Black-on-Stands.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T17:47:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictur…",
-      "publishedAt": "2026-08-12T17:29:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Twitch streamers can now refuse to let Amazon train its genAI models on their content",
-          "link": "https://www.engadget.com/2235647/twitch-streamers-can-now-refuse-to-let-amazon-train-its-gen-ai-models-on-their-content/",
-          "publishedAt": "2026-08-12T17:46:29.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-12T17:46:29.000Z"
     },
     {
       "source": "Engadget",
@@ -164,9 +219,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
       "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\nComments URL: https://news.ycombinator.com/item?id=49275385\nPoints: 172\n# Comments: 142",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\nComments URL: https://news.ycombinator.com/item?id=49275385\nPoints: 215\n# Comments: 203",
       "publishedAt": "2026-08-12T16:54:25.000Z",
       "image": "https://cdn.sanity.io/images/6vfeftx9/articles/c65c69aedff721b918591059a76f55147f87d9ef-716x668.png?w=1200&auto=format",
       "sourceCount": 2,
@@ -214,17 +269,6 @@
       "latestActivity": "2026-08-12T17:00:21.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-      "link": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-      "summary": "The Pixel 11 Pro. | Photo: David Imel / The Verge\t\n\nGoogle just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. T…",
-      "publishedAt": "2026-08-12T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-green-back.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T17:00:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "I'm more excited about smartphone colors than any actual new features in 2026",
       "link": "https://www.engadget.com/2235525/why-excited-about-smartphone-colors-in-2026/",
@@ -234,17 +278,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
-      "link": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-      "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These…",
-      "publishedAt": "2026-08-12T16:58:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2287296637.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T16:58:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -305,7 +338,7 @@
       "source": "Hacker News",
       "title": "Glaciers on the Climate Dashboard",
       "link": "https://climate.metoffice.cloud/glaciers.html",
-      "summary": "Article URL: https://climate.metoffice.cloud/glaciers.html\nComments URL: https://news.ycombinator.com/item?id=49275132\nPoints: 60\n# Comments: 5",
+      "summary": "Article URL: https://climate.metoffice.cloud/glaciers.html\nComments URL: https://news.ycombinator.com/item?id=49275132\nPoints: 79\n# Comments: 11",
       "publishedAt": "2026-08-12T16:38:25.000Z",
       "image": null,
       "sourceCount": 1,
@@ -324,48 +357,15 @@
       "latestActivity": "2026-08-12T16:33:43.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "HDMI splitter vs. HDMI switch: How are they different?",
-      "link": "https://www.engadget.com/2231585/hdmi-splitter-vs-switch-how-different/",
-      "summary": "If you've got a jumble of HDMI cables behind your entertainment center, one of these devices might help.",
-      "publishedAt": "2026-08-12T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/hdmi-splitter-vs-hdmi-switch-how-are-they-different/l-intro-1786025963.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T16:30:00.000Z"
-    },
-    {
       "source": "Hacker News",
-      "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
-      "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-      "summary": "Article URL: https://www.githubstatus.com/incidents/76t89hbfb09h\nComments URL: https://news.ycombinator.com/item?id=49274894\nPoints: 46\n# Comments: 9",
-      "publishedAt": "2026-08-12T16:22:27.000Z",
-      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T16:22:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "We just raised $400M in Series C",
+      "title": "Lovable raises $400M Series C",
       "link": "https://lovable.dev/blog/series-c",
-      "summary": "Article URL: https://lovable.dev/blog/series-c\nComments URL: https://news.ycombinator.com/item?id=49274858\nPoints: 39\n# Comments: 24",
+      "summary": "Article URL: https://lovable.dev/blog/series-c\nComments URL: https://news.ycombinator.com/item?id=49274858\nPoints: 59\n# Comments: 40",
       "publishedAt": "2026-08-12T16:20:34.000Z",
       "image": "https://assets.lovable.dev/content/news/covers/series-c.webp",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-12T16:20:34.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tesla wants to build a $10B solar factory in Texas",
-      "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-      "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
-      "publishedAt": "2026-08-12T16:18:31.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-142036357.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T16:18:31.000Z"
     },
     {
       "source": "The Verge",
@@ -390,17 +390,6 @@
       "latestActivity": "2026-08-12T15:52:07.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The pros and cons of using a digital wallet",
-      "link": "https://www.engadget.com/2231530/digital-wallet-biggest-disadvantages/",
-      "summary": "If you're not yet using the digital wallet -- Apple Wallet or Google Wallet -- on your phone, there are some good reasons to start.",
-      "publishedAt": "2026-08-12T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-digital-wallet/l-intro-1786023624.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T15:30:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Booksellers suspect AI firms are buying and then destroying rare books",
       "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
@@ -423,6 +412,17 @@
       "latestActivity": "2026-08-12T14:30:00.000Z"
     },
     {
+      "source": "The Verge",
+      "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
+      "link": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
+      "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news; we were able…",
+      "publishedAt": "2026-08-12T14:15:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-back-of-phone-in-hand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T14:15:00.000Z"
+    },
+    {
       "source": "Wired",
       "title": "Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies",
       "link": "https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/",
@@ -434,14 +434,20 @@
       "latestActivity": "2026-08-12T14:07:59.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date",
-      "link": "https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
-      "summary": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag.",
+      "source": "The Verge",
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin…",
       "publishedAt": "2026-08-12T14:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7b4d94497594c1a2fa47c9/191:100/w_1280,c_limit/Top%20Art%20of%20Pixel%2011%20Family%20SOURCE%20Julian%20Chokkattu.jpg",
-      "sourceCount": 2,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 3,
       "related": [
+        {
+          "source": "Wired",
+          "title": "Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date",
+          "link": "https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
+          "publishedAt": "2026-08-12T14:00:00.000Z"
+        },
         {
           "source": "Ars Technica",
           "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
@@ -450,6 +456,28 @@
         }
       ],
       "latestActivity": "2026-08-12T14:00:51.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "link": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+      "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones ar…",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Canyon-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google is making the Pixel cameras better by making them worse",
+      "link": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+      "summary": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, s…",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Pixel-Glow-Macro-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-12T14:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -527,28 +555,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-12T12:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "How to Select the Office Chair That’s Right For You",
-      "link": "https://www.wired.com/story/how-to-choose-the-right-office-chair/",
-      "summary": "Not all office chairs are right for all people. I asked an ergonomist how to select the right office chair for your budget, height, and physique.",
-      "publishedAt": "2026-08-12T11:32:00.000Z",
-      "image": "https://media.wired.com/photos/6a7bb40e24d089e77371476e/191:100/w_1280,c_limit/How-to-Select-the-Right-Office-Chair-for-Your-Height-and-Shape.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T11:32:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas",
-      "link": "https://www.wired.com/review/ego-1300-electric-lawn-mower/",
-      "summary": "Ego’s newest, biggest, self-propelled mower handles larger yards in less time with impressive performance and battery life.",
-      "publishedAt": "2026-08-12T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7bbeb9ac63b8cf9f1dffdc/191:100/w_1280,c_limit/Review--Ego-1300-Electric-Lawn-Mower.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T11:00:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -670,17 +676,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-10T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "AI for science needs reasoning, not just data",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been disco…",
-      "publishedAt": "2026-08-10T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-10T09:00:00.000Z"
     }
   ]
 }
