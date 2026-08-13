@@ -1,13 +1,192 @@
 {
-  "syncedAt": "2026-08-13T16:57:40.190Z",
+  "syncedAt": "2026-08-13T19:05:21.851Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "US government to allow private companies to carry out cyberattacks on its behalf",
+      "link": "https://www.engadget.com/2236521/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/",
+      "summary": "US government to allow private companies to carry out cyberattacks on its behalf.",
+      "publishedAt": "2026-08-13T18:52:06.000Z",
+      "image": "https://www.engadget.com/img/gallery/us-government-to-allow-private-companies-to-carry-out-cyberattacks-on-its-behalf/l-intro-1786646964.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T18:52:06.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Best Spotify Alternatives to Ease Your Conscience",
+      "link": "https://www.engadget.com/2234678/best-spotify-alternatives-2026/",
+      "summary": "There are loads of options for getting new music into your ears if you're fed up with Spotify.",
+      "publishedAt": "2026-08-13T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-best-spotify-alternatives-to-ease-your-conscience/l-intro-1786405619.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T18:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agen…",
+      "publishedAt": "2026-08-13T18:28:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T18:28:14.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building a practical path to post-quantum cryptography",
+      "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptog…",
+      "publishedAt": "2026-08-13T18:11:42.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T18:11:42.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "link": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "summary": "Elon Musk's company SpaceXAI, formerly known as xAI, has released Grok 4.6, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pri…",
+      "publishedAt": "2026-08-12T17:26:58.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1J59SGXBNdsrIt3Kw0ldLc/a141fa05285801695f63cba9b60fc522/a26da258-6757-46f3-857c-c143d56f830a.jpg?w=300&q=30",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Accelerating GPT-5.6 Sol Ultrafast",
+          "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+          "publishedAt": "2026-08-13T18:10:02.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-13T18:10:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 3.7 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...\nComments URL: https://news.ycombinator.com/item?id=49289112\nPoints: 274\n# Comments: 183",
+      "publishedAt": "2026-08-13T17:23:22.000Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "VentureBeat",
+          "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+          "link": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+          "publishedAt": "2026-08-13T18:02:54.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-13T18:02:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "link": "https://0.mk/blog/link-rot",
+      "summary": "Article URL: https://0.mk/blog/link-rot\nComments URL: https://news.ycombinator.com/item?id=49289532\nPoints: 34\n# Comments: 11",
+      "publishedAt": "2026-08-13T17:49:18.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:49:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Choose Boring Technology (2015)",
+      "link": "https://mcfunley.com/choose-boring-technology",
+      "summary": "Article URL: https://mcfunley.com/choose-boring-technology\nComments URL: https://news.ycombinator.com/item?id=49289512\nPoints: 75\n# Comments: 39",
+      "publishedAt": "2026-08-13T17:48:13.000Z",
+      "image": "https://mcfunley.com/assets/images/mountains-square.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:48:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "link": "https://donkeybas.com/",
+      "summary": "Article URL: https://donkeybas.com/\nComments URL: https://news.ycombinator.com/item?id=49289465\nPoints: 48\n# Comments: 17",
+      "publishedAt": "2026-08-13T17:45:50.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:45:50.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Flock tries to make its cameras harder for cops to misuse",
+      "link": "https://www.engadget.com/2236415/flock-tries-to-make-its-cameras-harder-for-cops-to-misuse/",
+      "summary": "Flock tries to make its cameras harder for cops to misuse.",
+      "publishedAt": "2026-08-13T17:25:34.000Z",
+      "image": "https://www.engadget.com/img/gallery/flock-tries-to-make-its-cameras-harder-for-cops-to-misuse/l-intro-1786641877.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:25:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "JDK 27 G1/Parallel/Serial GC Changes",
+      "link": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+      "summary": "Article URL: https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html\nComments URL: https://news.ycombinator.com/item?id=49289101\nPoints: 15\n# Comments: 3",
+      "publishedAt": "2026-08-13T17:22:39.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:22:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tocharian Online",
+      "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
+      "summary": "Article URL: https://lrc.la.utexas.edu/eieol/tokol/0\nComments URL: https://news.ycombinator.com/item?id=49289026\nPoints: 27\n# Comments: 1",
+      "publishedAt": "2026-08-13T17:15:46.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:15:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "publishedAt": "2026-08-13T17:07:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:07:13.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Use this space to roast the new Instagram logo",
+      "link": "https://www.engadget.com/2236398/use-this-space-to-roast-the-new-instagram-logo/",
+      "summary": "Use this space to roast the new Instagram logo.",
+      "publishedAt": "2026-08-13T17:06:30.000Z",
+      "image": "https://www.engadget.com/img/gallery/use-this-space-to-roast-the-new-instagram-logo/l-intro-1786641117.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:06:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mistral OCR 4.1",
+      "link": "https://docs.mistral.ai/models/ocr-4-1",
+      "summary": "Article URL: https://docs.mistral.ai/models/ocr-4-1\nComments URL: https://news.ycombinator.com/item?id=49288889\nPoints: 109\n# Comments: 28",
+      "publishedAt": "2026-08-13T17:05:12.000Z",
+      "image": "https://docs.mistral.ai//api/og?title=OCR+4.1&description=Our+latest+OCR+service+powering+our+Document+AI+stack%2C+with+native+paragraph-level+bounding+box+extraction%2C+structural+block+labels%2C+and+block-level+confidence+scores.&eyebraw=v4.1&image=&type=model&v=4243b0a37a826352a18b2b06ebf09a2d2e90b402&modelIcon=ocr",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T17:05:12.000Z"
+    },
     {
       "source": "VentureBeat",
       "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
       "link": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
       "summary": "DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.\nThe Chinese AI lab on Thursday launched the official version of D…",
       "publishedAt": "2026-08-13T16:47:55.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5Gr135IChMrxqhtAQfbaVs/bca5a76814f385bf115af0016062cca5/ChatGPT_Image_Aug_13__2026__12_41_53_PM.png?w=300&q=30",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6hFdhAgllY0UvaVpl6BmLa/d6e4fff99189904b4a8a9f037e1fbb83/43530361-2311-45E8-BCF9-8DF972A298D8.png?w=300&q=30",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T16:47:55.000Z"
@@ -64,17 +243,6 @@
       "latestActivity": "2026-08-13T16:10:06.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Samsung is using Claude to verify chip designs. It's not going smoothly",
-      "link": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/",
-      "summary": "Article URL: https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/\nComments URL: https://news.ycombinator.com/item?id=49288051\nPoin…",
-      "publishedAt": "2026-08-13T16:05:58.000Z",
-      "image": "https://cdn.neowin.com/news/images/uploaded/2026/07/1785399594_depositphotos_353833006_l_story.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T16:05:58.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
       "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
@@ -119,21 +287,14 @@
       "latestActivity": "2026-08-13T15:57:12.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "publishedAt": "2026-08-13T14:34:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Apple is reportedly turning to publishers for help with Siri AI",
-          "link": "https://www.engadget.com/2236317/apple-is-reportedly-turning-to-publishers-for-help-with-siri-ai/",
-          "publishedAt": "2026-08-13T15:53:53.000Z"
-        }
-      ],
+      "source": "Engadget",
+      "title": "Apple is reportedly turning to publishers for help with Siri AI",
+      "link": "https://www.engadget.com/2236317/apple-is-reportedly-turning-to-publishers-for-help-with-siri-ai/",
+      "summary": "Apple appears to be trying to secure access to new content and other information for Siri AI.",
+      "publishedAt": "2026-08-13T15:53:53.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-turning-to-publishers-for-help-with-siri-ai/l-intro-1786636345.jpg",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-08-13T15:53:53.000Z"
     },
     {
@@ -186,7 +347,7 @@
       "link": "https://www.engadget.com/2233858/most-popular-gamecube-emulator-dolphin-not-only-one/",
       "summary": "Everyone thinks of Dolphin for GameCube emulation, but what if there was another option? This newcomer emulator could be your next party night choice.",
       "publishedAt": "2026-08-13T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-most-popular-gamecube-emulator-is-no-longer-the-only-one/l-intro-1786384099.jpg",
+      "image": "https://www.engadget.com/img/gallery/most-popular-gamecube-emulator-dolphin-not-only-one/l-intro-1786642604.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T15:30:00.000Z"
@@ -203,17 +364,6 @@
       "latestActivity": "2026-08-13T15:08:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Text AI watermarks will always be trivial to remove",
-      "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/\nComments URL: https://news.ycombinator.com/item?id=49287153\nPoints: 36\n# Comments: 24",
-      "publishedAt": "2026-08-13T15:07:10.000Z",
-      "image": "https://www.seangoedecke.com/og-image.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T15:07:10.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "This is Instagram&#8217;s new logo",
       "link": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
@@ -223,17 +373,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T15:00:38.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The largest battery-electric plane ever made has flown for the first time",
-      "link": "https://www.engadget.com/2236248/the-largest-battery-electric-plane-ever-made-has-flown-for-the-first-time/",
-      "summary": "Heart Aerospace's X1 all-electric demonstrator flew for 27 minutes on just $5 of electricity.",
-      "publishedAt": "2026-08-13T15:00:34.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-largest-battery-electric-plane-ever-made-has-flown-for-the-first-time/l-intro-1786633145.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T15:00:34.000Z"
     },
     {
       "source": "TechCrunch",
@@ -256,83 +395,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "I requested a copy of my data from McDonald’s loyalty program",
-      "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-      "summary": "Article URL: https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/\nComments URL: https://news.ycombinator.com/item?id=49286662\nPoints: 76\n#…",
-      "publishedAt": "2026-08-13T14:37:51.000Z",
-      "image": "https://media.wired.com/photos/6a7c4829584e7326ee786a01/191:100/w_1280,c_limit/McDData.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T14:37:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "link": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "summary": "Article URL: https://oxide.computer/blog/kubernetes-on-oxide\nComments URL: https://news.ycombinator.com/item?id=49286485\nPoints: 61\n# Comments: 15",
-      "publishedAt": "2026-08-13T14:26:41.000Z",
-      "image": "https://oxide-computer-rceaiok2a-oxidecomputer.vercel.app/img/meta/og-blog.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T14:26:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Graduate student proves a quantum uncertainty principle for fractals",
-      "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-      "summary": "Article URL: https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/\nComments URL: https://news.ycombinator.com/item?id=49286424\nPoints:…",
-      "publishedAt": "2026-08-13T14:22:54.000Z",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Fractal-Uncertainty-cr-Ada-Zejun-Shen-social.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T14:22:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "link": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-      "summary": "Article URL: https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood\nComments URL: https://news.ycombinator.com/item?id=49286357\nPoints: 37\n# Comments: 14",
-      "publishedAt": "2026-08-13T14:18:34.000Z",
-      "image": "https://cdn.prod.website-files.com/680495205e33f0a1b96c7a98/6a7319dce7da1c3c4d7e6e71_image%20(9).png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T14:18:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Spaghettifying DRAM",
-      "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts\nComments URL: https://news.ycombinator.com/item?id=49286341\nPoints: 201\n# Comments: 53",
-      "publishedAt": "2026-08-13T14:17:13.000Z",
-      "image": "https://opengraph.githubassets.com/17185ecd4eeab04ef998326b7322acab9bb592aa2d7dd0401d0fa62ed4deb056/xoreaxeaxeax/skitter-creek-bath-salts",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T14:17:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Heart aerospace completes first flight of largest electric aircraft",
-      "link": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "summary": "Article URL: https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft\nComments URL: https://news.ycombinator.com/item?id=…",
-      "publishedAt": "2026-08-13T14:11:51.000Z",
-      "image": "https://www.heartaerospace.com/api/media/file/20260812-3837%20(1).jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T14:11:51.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "In a first, US will allow some private firms to carry out cyberattacks",
-      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-      "summary": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-      "publishedAt": "2026-08-13T14:09:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1050765184.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T14:09:05.000Z"
     },
     {
       "source": "Ars Technica",
@@ -401,28 +463,6 @@
       "latestActivity": "2026-08-13T13:30:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "DJI Mic Mini 2S review: The best tiny mic now offers a pro experience",
-      "link": "https://www.engadget.com/2235721/dji-mic-mini-2s-review/",
-      "summary": "DJI's Mic Mini 2S offers high-quality audio and ease of use, and it's now better for pros due to the new internal 32-bit float recording.",
-      "publishedAt": "2026-08-13T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/dji-mic-mini-2s-review/l-intro-1786634502.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T13:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How To Convert Or Upscale A Photo",
-      "link": "https://www.engadget.com/2232151/how-to-convert-upscale-photo/",
-      "summary": "Get familiar with easy methods to elevate your photos and make them look crisp, clean, and visually appealing without diving into complicated software.",
-      "publishedAt": "2026-08-13T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-convert-upscale-photo/l-intro-1786058059.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T13:30:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
       "link": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
@@ -432,17 +472,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Surprise, surprise: CBP officers are misusing surveillance tech",
-      "link": "https://www.engadget.com/2236104/cbp-officers-are-misusing-surveillance-tech/",
-      "summary": "Officers allegedly abused databases that can draw from sources like license plate readers and facial recognition.",
-      "publishedAt": "2026-08-13T12:14:57.000Z",
-      "image": "https://www.engadget.com/img/gallery/surprise-surprise-cbp-officers-are-misusing-surveillance-tech/l-intro-1786623150.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T12:14:57.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -621,17 +650,6 @@
       "latestActivity": "2026-08-12T18:44:50.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
-      "link": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
-      "summary": "Elon Musk's company SpaceXAI, formerly known as xAI, has released Grok 4.6, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pri…",
-      "publishedAt": "2026-08-12T17:26:58.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1J59SGXBNdsrIt3Kw0ldLc/a141fa05285801695f63cba9b60fc522/a26da258-6757-46f3-857c-c143d56f830a.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T17:26:58.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Scaling AI agents with trustworthy data",
       "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
@@ -663,28 +681,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-12T11:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking s…",
-      "publishedAt": "2026-08-12T09:08:40.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/martincic-2026-35-35-intro-essay.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T09:08:40.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
-      "link": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
-      "summary": "Across 101 enterprises, the context feeding AI agents is failing often and repeatedly. Sixty-eight percent have traced a confident but wrong agent answer to missing or inconsistent…",
-      "publishedAt": "2026-08-12T07:30:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T07:30:00.000Z"
     }
   ]
 }
