@@ -1,6 +1,244 @@
 {
-  "syncedAt": "2026-08-14T14:53:45.779Z",
+  "syncedAt": "2026-08-14T16:55:56.841Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in…",
+      "publishedAt": "2026-08-14T16:39:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T16:39:32.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Your car's dash cam might be illegal in some states — Here's how to check",
+      "link": "https://www.engadget.com/2234237/how-to-check-car-dash-cam-legal-usa/",
+      "summary": "Dash cam laws vary from one state to the next. Check the laws of states you'll be driving through.",
+      "publishedAt": "2026-08-14T16:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/your-cars-dash-cam-might-be-illegal-in-some-states-heres-how-to-check/l-intro-1785169823.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T16:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+      "publishedAt": "2026-08-14T16:21:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/person-remembering-reminder-GettyImages-1420814839.jpg?resize=1200,801",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T16:21:04.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "publishedAt": "2026-08-14T16:13:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T16:13:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "summary": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/\nComments URL: https://news.ycombinator.com/item?id=49300759\nPoints: 9\n# Comments: 0",
+      "publishedAt": "2026-08-14T16:12:52.000Z",
+      "image": "https://rustdesk.com/_astro/unattended-remote-access-wayland-og.BOcMxzVY_212cpk.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T16:12:52.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ars Live recap: How can we stop publishers from killing their own games?",
+      "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+      "summary": "The Stop Killing Games movement faces an uphill battle.",
+      "publishedAt": "2026-08-14T16:11:37.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/3408519540_a597fef749_k-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T16:11:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "France blocks social media ban because it would require adults to prove age",
+      "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "summary": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49300…",
+      "publishedAt": "2026-08-14T16:06:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T16:06:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+      "link": "https://rayforcedb.com/",
+      "summary": "Article URL: https://rayforcedb.com/\nComments URL: https://news.ycombinator.com/item?id=49300615\nPoints: 8\n# Comments: 0",
+      "publishedAt": "2026-08-14T16:02:20.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T16:02:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
+      "link": "https://mib-viewer.com/",
+      "summary": "Article URL: https://mib-viewer.com/\nComments URL: https://news.ycombinator.com/item?id=49300419\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-08-14T15:49:33.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:49:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "\"Solving a largely imaginary user goal\"",
+      "link": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
+      "summary": "Article URL: https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/\nComments URL: https://news.ycombinator.com/item?id=49300411\nPoints: 18\n# Comments: 17",
+      "publishedAt": "2026-08-14T15:48:59.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:48:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "France's top court strikes down social media ban for children under 15",
+      "link": "https://www.engadget.com/2237141/frances-top-court-strikes-down-social-media-ban-for-children-under-15/",
+      "summary": "President Macron has asked the government to rewrite France's proposed social media ban for children.",
+      "publishedAt": "2026-08-14T15:48:38.000Z",
+      "image": "https://www.engadget.com/img/gallery/frances-top-court-strikes-down-social-media-ban-for-children-under-15/l-intro-1786722364.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:48:38.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "summary": "Third-party app stores are about to become more visible in Google Play.",
+      "publishedAt": "2026-08-14T15:46:40.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:46:40.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays…",
+      "publishedAt": "2026-08-14T15:43:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:43:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\nComments URL: https://news.ycombinator.com/item?id=49300314\nPoints:…",
+      "publishedAt": "2026-08-14T15:43:10.000Z",
+      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260729-1718",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:43:10.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Get the best battery life for your MacBook by changing these settings",
+      "link": "https://www.engadget.com/2235787/best-battery-life-for-macbook-settings/",
+      "summary": "Laptop batteries don't last forever, but there are some things that you can do today that may affect the lifespan of your MacBook's battery.",
+      "publishedAt": "2026-08-14T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/get-the-best-battery-life-for-your-macbook-by-changing-these-settings/l-intro-1786563357.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "link": "https://github.com/NanoNets/Graft",
+      "summary": "Article URL: https://github.com/NanoNets/Graft\nComments URL: https://news.ycombinator.com/item?id=49299985\nPoints: 17\n# Comments: 10",
+      "publishedAt": "2026-08-14T15:22:02.000Z",
+      "image": "https://opengraph.githubassets.com/f68db3fb1d2b8b4f955c29b4aad157643d1b337bf01acae72b291bb157e5b247/NanoNets/Graft",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:22:02.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "link": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+      "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+      "publishedAt": "2026-08-14T15:18:22.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/xfilesTOP-ALT-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:18:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introducing Toast 1",
+      "link": "https://www.mixedbread.com/blog/toast-1",
+      "summary": "Article URL: https://www.mixedbread.com/blog/toast-1\nComments URL: https://news.ycombinator.com/item?id=49299746\nPoints: 61\n# Comments: 17",
+      "publishedAt": "2026-08-14T15:07:57.000Z",
+      "image": "https://www.mixedbread.com/images/blog/toast-1/intro-toast-1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:07:57.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+      "link": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+      "summary": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
+      "publishedAt": "2026-08-14T15:03:16.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:03:16.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "publishedAt": "2026-08-14T15:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a7e0548f5b7635ce53f5f77/191:100/w_1280,c_limit/Backchannel-Tim-Orielly-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T15:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple proposes taking a 5-to-15 percent cut from external App Store payments",
+      "link": "https://www.engadget.com/2236861/apple-proposal-5-to-15-percent-cut-external-app-store-payments/",
+      "summary": "Apple and Google still aren't done facing Epic Games in court.",
+      "publishedAt": "2026-08-14T08:24:21.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-proposes-taking-a-5-to-15-percent-cut-from-external-app-store-payments/l-intro-1786695766.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+          "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+          "publishedAt": "2026-08-14T14:54:48.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-14T14:54:48.000Z"
+    },
     {
       "source": "The Verge",
       "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
@@ -24,15 +262,15 @@
       "latestActivity": "2026-08-14T14:50:11.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
-      "link": "https://e360.yale.edu/digest/australia-home-batteries",
-      "summary": "Article URL: https://e360.yale.edu/digest/australia-home-batteries\nComments URL: https://news.ycombinator.com/item?id=49298910\nPoints: 43\n# Comments: 11",
-      "publishedAt": "2026-08-14T14:07:52.000Z",
-      "image": "https://yale-threesixty.transforms.svdcdn.com/production/Home-Battery_NSWECA.jpg?w=1200&q=60&auto=format&fit=max&dm=1786711355&s=786f9b9062891e45a0bd1b54e7ef1a57",
+      "source": "Ars Technica",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "publishedAt": "2026-08-14T14:27:14.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-14T14:07:52.000Z"
+      "latestActivity": "2026-08-14T14:27:14.000Z"
     },
     {
       "source": "TechCrunch",
@@ -57,28 +295,6 @@
       "latestActivity": "2026-08-14T13:29:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "link": "https://hashagent.pages.dev/",
-      "summary": "Article URL: https://hashagent.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=49298088\nPoints: 8\n# Comments: 0",
-      "publishedAt": "2026-08-14T12:57:02.000Z",
-      "image": "https://hashagent.pages.dev/og-card-v2.png?v=20260809",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T12:57:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
-      "link": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-      "summary": "Article URL: https://goonhost.rocks/blog/implementing-ipv8-internet-draft\nComments URL: https://news.ycombinator.com/item?id=49297996\nPoints: 7\n# Comments: 1",
-      "publishedAt": "2026-08-14T12:45:37.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T12:45:37.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
       "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
@@ -88,17 +304,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T12:17:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The TEMU-Fication of Software, Digital Goods and Services",
-      "link": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
-      "summary": "Article URL: https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/\nComments URL: https://news.ycombinator.com/item?id=49297637\nPoints: 21\n# Comments: 5",
-      "publishedAt": "2026-08-14T12:00:51.000Z",
-      "image": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/images/cover.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T12:00:51.000Z"
     },
     {
       "source": "The Verge",
@@ -121,17 +326,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "WhatCable: Know what your USB-C cable can do",
-      "link": "https://www.whatcable.uk/",
-      "summary": "Article URL: https://www.whatcable.uk/\nComments URL: https://news.ycombinator.com/item?id=49297469\nPoints: 16\n# Comments: 7",
-      "publishedAt": "2026-08-14T11:41:34.000Z",
-      "image": "https://www.whatcable.uk/screenshot.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T11:41:34.000Z"
     },
     {
       "source": "Wired",
@@ -233,17 +427,6 @@
       "latestActivity": "2026-08-14T10:44:30.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Ntfy – open-source Push to Mobile",
-      "link": "https://ntfy.sh/",
-      "summary": "Article URL: https://ntfy.sh/\nComments URL: https://news.ycombinator.com/item?id=49296902\nPoints: 16\n# Comments: 1",
-      "publishedAt": "2026-08-14T10:35:43.000Z",
-      "image": "/static/img/ntfy.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T10:35:43.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
       "link": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
@@ -277,39 +460,6 @@
       "latestActivity": "2026-08-14T10:15:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Why does Opus 5 feel worse to work with?",
-      "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "summary": "Article URL: https://mun-logadan.github.io/why-does-opus-5-feel-worse/\nComments URL: https://news.ycombinator.com/item?id=49296740\nPoints: 306\n# Comments: 290",
-      "publishedAt": "2026-08-14T10:12:48.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T10:12:48.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "5 Weird Tricks for Having a Brain",
-      "link": "https://www.wired.com/galaxy-brain/",
-      "summary": "From the multibrained octopus to the bitty brain organoid, we’re all just inference engines making flawed bets on the future. Here are the five insights your brain will need to sur…",
-      "publishedAt": "2026-08-14T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7db75b5d9da054fb08fe0c/191:100/w_1280,c_limit/WIRED-Galaxy-Brain-Site-Image.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "DeepSeek peak/off-peak pricing update",
-      "link": "https://api-docs.deepseek.com/news/news260813/",
-      "summary": "Article URL: https://api-docs.deepseek.com/news/news260813/\nComments URL: https://news.ycombinator.com/item?id=49296627\nPoints: 145\n# Comments: 77",
-      "publishedAt": "2026-08-14T09:55:33.000Z",
-      "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T09:55:33.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
@@ -326,7 +476,7 @@
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambit…",
       "publishedAt": "2026-08-14T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5999.jpg?w=840",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T09:00:00.000Z"
@@ -363,17 +513,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T08:40:13.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple proposes taking a 5-to-15 percent cut from external App Store payments",
-      "link": "https://www.engadget.com/2236861/apple-proposal-5-to-15-percent-cut-external-app-store-payments/",
-      "summary": "Apple and Google still aren't done facing Epic Games in court.",
-      "publishedAt": "2026-08-14T08:24:21.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-proposes-taking-a-5-to-15-percent-cut-from-external-app-store-payments/l-intro-1786695766.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T08:24:21.000Z"
     },
     {
       "source": "Ars Technica",
@@ -416,17 +555,6 @@
       "latestActivity": "2026-08-14T05:27:46.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-      "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
-      "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links t…",
-      "publishedAt": "2026-08-13T23:13:24.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK468_APPLE_ANTITRUST_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T23:13:24.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Mico, Microsoft's weird lil' AI guy, has been demoted",
       "link": "https://www.engadget.com/2236741/mico-microsofts-weird-lil-ai-guy-has-been-demoted/",
@@ -436,101 +564,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T22:51:31.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "US wait times for cancer surgeries are getting longer and longer",
-      "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
-      "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
-      "publishedAt": "2026-08-13T22:17:29.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T22:17:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-      "publishedAt": "2026-08-13T22:12:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2202517874.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T22:12:40.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Cloud storage is great until your vendor goes out of business",
-      "link": "https://www.engadget.com/2236717/cloud-storage-great-until-vendor-goes-out-of-business-nine-pbs/",
-      "summary": "A St. Louis PBS station is suing a data center provider to rescue a 70-year archive.",
-      "publishedAt": "2026-08-13T22:04:16.000Z",
-      "image": "https://www.engadget.com/img/gallery/cloud-storage-is-great-until-your-vendor-goes-out-of-business/l-intro-1786658416.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T22:04:16.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to ex…",
-      "publishedAt": "2026-08-13T22:02:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T22:02:04.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-      "publishedAt": "2026-08-13T21:50:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T21:50:11.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Netflix shuts down Oxenfree studio Night School weeks after praising its 'really solid numbers'",
-      "link": "https://www.engadget.com/2236683/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/",
-      "summary": "Execs praised Night School's latest game, Unhinged, before pulling the rug.",
-      "publishedAt": "2026-08-13T21:24:22.000Z",
-      "image": "https://www.engadget.com/img/gallery/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/l-intro-1786656103.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T21:24:22.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-      "link": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-      "summary": "Writer, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuil…",
-      "publishedAt": "2026-08-13T13:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6Zxh3IXctblxveNWHWZSCq/a0b7dbc4fc6a943d1191a203a4451255/Nuneybits_Vector_art_of_a_typewriter_printing_cheaper_faster_go_9a122ae4-9f67-48ad-adfe-0bf7d102809e.webp?w=300&q=30",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-          "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-          "publishedAt": "2026-08-13T21:13:24.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-13T21:13:24.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "X is testing a tool that will let users see if their posts have been 'shadowbanned'",
-      "link": "https://www.engadget.com/2236672/x-is-testing-a-tool-that-will-let-users-see-if-their-posts-have-been-shadowbanned/",
-      "summary": "The feature is rolling out as the company open-sources more of its ranking algorithm.",
-      "publishedAt": "2026-08-13T21:10:21.000Z",
-      "image": "https://www.engadget.com/img/gallery/x-is-testing-a-tool-that-will-let-users-see-if-their-posts-have-been-shadowbanned/l-intro-1786665169.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T21:10:21.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -555,39 +588,6 @@
       "latestActivity": "2026-08-13T20:14:20.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-      "publishedAt": "2026-08-13T19:38:58.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T19:38:58.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-      "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-      "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
-      "publishedAt": "2026-08-13T19:12:15.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T19:12:15.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-      "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
-      "publishedAt": "2026-08-13T18:31:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T18:31:56.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Building a practical path to post-quantum cryptography",
       "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
@@ -597,17 +597,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T18:11:42.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-      "summary": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
-      "publishedAt": "2026-08-13T18:10:14.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T18:10:14.000Z"
     },
     {
       "source": "VentureBeat",
@@ -652,6 +641,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T13:41:10.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "link": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+      "summary": "Writer, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuil…",
+      "publishedAt": "2026-08-13T13:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6Zxh3IXctblxveNWHWZSCq/a0b7dbc4fc6a943d1191a203a4451255/Nuneybits_Vector_art_of_a_typewriter_printing_cheaper_faster_go_9a122ae4-9f67-48ad-adfe-0bf7d102809e.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-13T13:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
