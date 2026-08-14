@@ -1,6 +1,156 @@
 {
-  "syncedAt": "2026-08-14T18:57:34.775Z",
+  "syncedAt": "2026-08-14T20:33:36.001Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Every exterior shot in The Taking of Pelham 123",
+      "link": "https://iafisher.com/2026/07/pelham-123",
+      "summary": "Article URL: https://iafisher.com/2026/07/pelham-123\nComments URL: https://news.ycombinator.com/item?id=49303957\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-08-14T20:10:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T20:10:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jason Arday: Former Cambridge university professor found dead",
+      "link": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c1j1ye6n30no\nComments URL: https://news.ycombinator.com/item?id=49303774\nPoints: 15\n# Comments: 1",
+      "publishedAt": "2026-08-14T19:51:49.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:51:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "link": "https://arxiv.org/abs/2608.11158",
+      "summary": "Article URL: https://arxiv.org/abs/2608.11158\nComments URL: https://news.ycombinator.com/item?id=49303652\nPoints: 5\n# Comments: 1",
+      "publishedAt": "2026-08-14T19:41:42.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:41:42.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "summary": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "publishedAt": "2026-08-14T19:33:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2184416821.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:33:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "link": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "summary": "Article URL: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf\nComments URL: https://news.ycombinator.com/item?…",
+      "publishedAt": "2026-08-14T19:32:15.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:32:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "link": "https://www.aletheionagi.com",
+      "summary": "Article URL: https://www.aletheionagi.com\nComments URL: https://news.ycombinator.com/item?id=49303499\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-08-14T19:28:17.000Z",
+      "image": "https://www.aletheionagi.com/opengraph-image?cefbb72a8f4ee2cc",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:28:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Samsung has new Galaxy headphones in the works",
+      "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+      "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly re…",
+      "publishedAt": "2026-08-14T19:18:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:18:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Claude's text watermarking works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-text-watermark\nComments URL: https://news.ycombinator.com/item?id=49303350\nPoints: 33\n# Comments: 34",
+      "publishedAt": "2026-08-14T19:15:51.000Z",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=heather",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:15:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Open WireGuard Endpoints",
+      "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+      "summary": "Article URL: https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html\nComments URL: https://news.ycombinator.com/item?id=49303237\nPoints: 11\n# Co…",
+      "publishedAt": "2026-08-14T19:05:46.000Z",
+      "image": "https://proxylity.com/images/now-available-open-wireguard-endpoints-and-async-lambda-hero.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:05:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "publishedAt": "2026-08-14T16:13:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Google will now allow users to remove visible watermarks from AI content",
+          "link": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
+          "publishedAt": "2026-08-14T19:04:42.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-14T19:04:42.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
+      "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of…",
+      "publishedAt": "2026-08-14T19:04:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-treatment-facility-monitoring-equipment.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:04:32.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+      "publishedAt": "2026-08-14T18:58:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Pocket-app.png?resize=1200,795",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T18:58:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "link": "https://github.com/lajosdeme/mole",
+      "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.\nAnd if you want to ru…",
+      "publishedAt": "2026-08-14T18:52:48.000Z",
+      "image": "https://opengraph.githubassets.com/30ec4587e9f5f11e310dbd1ca98e3eeefd3dcd16f4e9878d0b7699d5e2108ab5/lajosdeme/mole",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T18:52:48.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Google must make it easier to install alternative app stores, judge orders",
@@ -123,17 +273,6 @@
       "latestActivity": "2026-08-14T17:03:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "link": "https://arxiv.org/abs/2608.12700",
-      "summary": "Article URL: https://arxiv.org/abs/2608.12700\nComments URL: https://news.ycombinator.com/item?id=49301417\nPoints: 8\n# Comments: 0",
-      "publishedAt": "2026-08-14T16:57:14.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T16:57:14.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Mark Zuckerberg has an Instagzam",
       "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
@@ -143,39 +282,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T16:54:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Discrete Fourier Transform by Hand",
-      "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
-      "summary": "Article URL: https://www.byhand.ai/p/28-discrete-fourier-transform\nComments URL: https://news.ycombinator.com/item?id=49301342\nPoints: 15\n# Comments: 1",
-      "publishedAt": "2026-08-14T16:52:46.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!3E30!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c6831fe-f9e1-4953-8349-23cd8bf7b794_810x1080.gif",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T16:52:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo\nComments URL: https://news.ycombinator.com/item?id=49301260\nPoints: 193\n# Comments: 104",
-      "publishedAt": "2026-08-14T16:45:49.000Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ee7b/live/00590490-9714-11f1-a7ab-8b30adf0800a.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T16:45:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "link": "https://luacad.ad-si.com",
-      "summary": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (`a + b`, `a - b`, `a * b`).\nIt ships with a CLI and a desktop app, including a pre…",
-      "publishedAt": "2026-08-14T16:43:22.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T16:43:22.000Z"
     },
     {
       "source": "The Verge",
@@ -222,39 +328,6 @@
       "latestActivity": "2026-08-14T16:21:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Maximizing the value of your Claude Code sessions",
-      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\nComments URL: https://news.ycombinator.com/item?id=49300800\nPoints: 48\n# Comments: 23",
-      "publishedAt": "2026-08-14T16:15:21.000Z",
-      "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a7f1f51730ca89a4d571062_og_maximizing-the-value-of-your-claude-code-sessions.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T16:15:21.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "publishedAt": "2026-08-14T16:13:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T16:13:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/\nComments URL: https://news.ycombinator.com/item?id=49300759\nPoints: 91\n# Comments: 33",
-      "publishedAt": "2026-08-14T16:12:52.000Z",
-      "image": "https://rustdesk.com/_astro/unattended-remote-access-wayland-og.BOcMxzVY_212cpk.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T16:12:52.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Ars Live recap: How can we stop publishers from killing their own games?",
       "link": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
@@ -272,27 +345,9 @@
       "summary": "President Macron has asked the government to rewrite France's proposed social media ban for children.",
       "publishedAt": "2026-08-14T15:48:38.000Z",
       "image": "https://www.engadget.com/img/gallery/frances-top-court-strikes-down-social-media-ban-for-children-under-15/l-intro-1786722364.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "France's top court blocks social media ban for under-15s",
-          "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-          "publishedAt": "2026-08-14T16:06:49.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-14T16:06:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-      "link": "https://rayforcedb.com/",
-      "summary": "Article URL: https://rayforcedb.com/\nComments URL: https://news.ycombinator.com/item?id=49300615\nPoints: 24\n# Comments: 14",
-      "publishedAt": "2026-08-14T16:02:20.000Z",
-      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-14T16:02:20.000Z"
+      "latestActivity": "2026-08-14T15:48:38.000Z"
     },
     {
       "source": "Ars Technica",
@@ -379,28 +434,6 @@
       "latestActivity": "2026-08-14T14:50:11.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "publishedAt": "2026-08-14T14:05:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T14:05:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "US courts will start publishing how often the government uses spyware",
-      "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
-      "summary": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
-      "publishedAt": "2026-08-14T13:29:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/spyware-phone-leak.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T13:29:04.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
       "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
@@ -410,17 +443,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T12:17:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "CMF&#8217;s clip earbuds hit the balance between cheap and good",
-      "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
-      "summary": "The Clip Pro are the first clip-style earbuds from CMF, Nothing’s budget sub-brand.\t\n\nClip earbuds are an exercise in compromise. It's an inherent aspect of their design - and phys…",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268665_Nothing_CMF_Clip_Pro_earbuds_AKrales_0144.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T12:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -476,17 +498,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T10:45:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-      "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
-      "publishedAt": "2026-08-14T10:44:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Verne-Uber-Pony-Partnership.jpg?resize=1200,713",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T10:44:30.000Z"
     },
     {
       "source": "Wired",
@@ -553,17 +564,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T09:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Trump slaps a 100 percent tariff on heavy and 'sensitive' drones",
-      "link": "https://www.engadget.com/2236830/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/",
-      "summary": "President Trump has imposed tariffs up to 100 percent on drones that are \"particularly sensitive\" for national security.",
-      "publishedAt": "2026-08-14T06:12:39.000Z",
-      "image": "https://www.engadget.com/img/gallery/trump-slaps-100-percent-tariff-on-heavy-and-sensitive-drones/l-intro-1786694278.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T06:12:39.000Z"
     },
     {
       "source": "MIT Technology Review",
