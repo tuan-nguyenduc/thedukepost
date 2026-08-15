@@ -1,6 +1,72 @@
 {
-  "syncedAt": "2026-08-15T18:32:31.175Z",
+  "syncedAt": "2026-08-15T20:25:00.167Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Apple Watch battery replacement: How much does it cost and is it worth it?",
+      "link": "https://www.engadget.com/2237226/apple-watch-battery-replacement-how-much-cost-worth-it/",
+      "summary": "Replacing the battery on your Apple Watch can extend its life, but you'll have to determine whether it's worthwhile for your model.",
+      "publishedAt": "2026-08-15T20:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-watch-battery-replacement-how-much-does-it-cost-and-is-it-worth-it/l-intro-1786723362.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T20:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "So How Is AI Drug Discovery Doing, Really?",
+      "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "summary": "Article URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really\nComments URL: https://news.ycombinator.com/item?id=49313367\nPoints: 30\n# Comments: 15",
+      "publishedAt": "2026-08-15T19:12:53.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T19:12:53.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+      "link": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "summary": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it's tedious, time-consuming, and doesn't produce results vi…",
+      "publishedAt": "2026-08-15T19:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5i7p6do1zSmoo71Z58g81z/271b2f52cede8bfb4b801d4dafdc70d9/u7277289442_A_teacher_is_sitting_at_a_desk._View_from_behind._0f474f7c-90c2-4350-85cd-0f23e41636c4_0.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T19:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T18:58:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "First human trials of designer protein therapies stun US neuroscientists",
+      "link": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
+      "summary": "Article URL: https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08\nComments URL: https://news.ycombinator.com/item?id=493130…",
+      "publishedAt": "2026-08-15T18:37:09.000Z",
+      "image": "https://s7d1.scene7.com/is/image/CENODS/DREADD-human-trials---576245:Widescreen?$responsive$&qlt&#61;90,0&resMode&#61;sharp2&fmt&#61;webp&op_sharpen&#61;1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T18:37:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\nComments URL: https://news.ycombinator.com/item?id=49313047\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-08-15T18:33:25.000Z",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/d0214f983941c846a524d64275a8171d8efcaf29.png?1773178052",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T18:33:25.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Why are RAM prices so high right now?",
@@ -16,12 +82,23 @@
       "source": "Hacker News",
       "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
       "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\nComments URL: https://news.ycombinator.com/item?id=49312845\nPoints: 12\n# Comments: 5",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\nComments URL: https://news.ycombinator.com/item?id=49312845\nPoints: 221\n# Comments: 188",
       "publishedAt": "2026-08-15T18:13:02.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T18:13:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Thunderbird's Desktop Calendar Visual Redesign",
+      "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+      "summary": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/\nComments URL: https://news.ycombinator.com/item?id=49312823\nPoints: 27\n# Comments: 6",
+      "publishedAt": "2026-08-15T18:09:42.000Z",
+      "image": "https://blog.thunderbird.net/files/2026/08/blog-banner-generic.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T18:09:42.000Z"
     },
     {
       "source": "Engadget",
@@ -47,14 +124,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
-      "link": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
-      "summary": "Article URL: https://www.treasurydirect.gov/savings-bonds/idme-one-month/\nComments URL: https://news.ycombinator.com/item?id=49312465\nPoints: 16\n# Comments: 13",
-      "publishedAt": "2026-08-15T17:30:02.000Z",
-      "image": null,
+      "title": "BriskDB",
+      "link": "https://github.com/schapman1974/briskdb",
+      "summary": "Article URL: https://github.com/schapman1974/briskdb\nComments URL: https://news.ycombinator.com/item?id=49312707\nPoints: 13\n# Comments: 4",
+      "publishedAt": "2026-08-15T17:56:57.000Z",
+      "image": "https://opengraph.githubassets.com/b29b9e544fdcb080dc7d8561a4e5a33a98e930a20d91bbb92f6886efc3bf2521/schapman1974/briskdb",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-15T17:30:02.000Z"
+      "latestActivity": "2026-08-15T17:56:57.000Z"
     },
     {
       "source": "Engadget",
@@ -66,17 +143,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T17:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-      "link": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4gxy0wqqd9o\nComments URL: https://news.ycombinator.com/item?id=49312413\nPoints: 31\n# Comments: 11",
-      "publishedAt": "2026-08-15T17:21:26.000Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T17:21:26.000Z"
     },
     {
       "source": "The Verge",
@@ -93,7 +159,7 @@
       "source": "Hacker News",
       "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
       "link": "https://www.core77.com/posts/144869",
-      "summary": "Article URL: https://www.core77.com/posts/144869\nComments URL: https://news.ycombinator.com/item?id=49312165\nPoints: 31\n# Comments: 13",
+      "summary": "Article URL: https://www.core77.com/posts/144869\nComments URL: https://news.ycombinator.com/item?id=49312165\nPoints: 61\n# Comments: 33",
       "publishedAt": "2026-08-15T16:53:47.000Z",
       "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1843167_lead_400_144869_.jpg",
       "sourceCount": 1,
@@ -104,7 +170,7 @@
       "source": "Hacker News",
       "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
       "link": "https://www.nature.com/articles/d41586-026-02448-x",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x\nComments URL: https://news.ycombinator.com/item?id=49312008\nPoints: 73\n# Comments: 21",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x\nComments URL: https://news.ycombinator.com/item?id=49312008\nPoints: 114\n# Comments: 42",
       "publishedAt": "2026-08-15T16:38:34.000Z",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02448-x/d41586-026-02448-x_53083048.jpg",
       "sourceCount": 1,
@@ -143,17 +209,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T16:10:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
-      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432\nComments URL: https://news.ycombinator.com/item?id=49311651\nPoints: 126\n# Comments: 72",
-      "publishedAt": "2026-08-15T15:58:53.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T15:58:53.000Z"
     },
     {
       "source": "Ars Technica",
@@ -200,17 +255,6 @@
       "latestActivity": "2026-08-15T14:58:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "A Spectre Is Haunting Unicode",
-      "link": "https://www.dampfkraft.com/ghost-characters.html",
-      "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html\nComments URL: https://news.ycombinator.com/item?id=49310926\nPoints: 49\n# Comments: 8",
-      "publishedAt": "2026-08-15T14:34:04.000Z",
-      "image": "https://dampfkraft.com/by-id/a824aa10/img/ghostcanvas.l.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T14:34:04.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "What's the USB trident symbol for? How to know what kind of port you have",
       "link": "https://www.engadget.com/2234239/what-usb-trident-symbol-for-how-to-know-port-type/",
@@ -220,17 +264,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Printytron – Type it. 3D Print it",
-      "link": "https://printytron.com",
-      "summary": "Article URL: https://printytron.com\nComments URL: https://news.ycombinator.com/item?id=49310829\nPoints: 9\n# Comments: 0",
-      "publishedAt": "2026-08-15T14:22:20.000Z",
-      "image": "https://printytron.com/og/home.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T14:22:20.000Z"
     },
     {
       "source": "The Verge",
@@ -264,17 +297,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T14:03:14.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What happens when a hybrid battery dies and what to do about it",
-      "link": "https://www.engadget.com/2234238/what-happens-when-hybrid-battery-dies/",
-      "summary": "Don't wait to have your car checked out if its traction battery is having problems.",
-      "publishedAt": "2026-08-15T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-happens-when-a-hybrid-battery-dies-and-what-to-do-about-it/l-intro-1786037757.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T13:30:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -344,22 +366,22 @@
     },
     {
       "source": "Wired",
-      "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-      "link": "https://www.wired.com/story/best-apple-watch-accessories/",
-      "summary": "These are the Apple Watch accessories I recommend adding to your setup.",
+      "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+      "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+      "summary": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
       "publishedAt": "2026-08-15T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a7f6ff26bd52faf6a82c1a6/191:100/w_1280,c_limit/The-Best-Apple-Watch-Accessories-I%E2%80%99d-Recommend-to-Any-Owner.jpg",
+      "image": "https://media.wired.com/photos/6a7db74dacd30154034861b1/191:100/w_1280,c_limit/GettyImages-1834553817.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T10:30:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-      "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
-      "summary": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
+      "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+      "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+      "summary": "These are the Apple Watch accessories I recommend adding to your setup.",
       "publishedAt": "2026-08-15T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a7db74dacd30154034861b1/191:100/w_1280,c_limit/GettyImages-1834553817.jpg",
+      "image": "https://media.wired.com/photos/6a7f6ff26bd52faf6a82c1a6/191:100/w_1280,c_limit/The-Best-Apple-Watch-Accessories-I%E2%80%99d-Recommend-to-Any-Owner.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T10:30:00.000Z"
@@ -462,17 +484,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T19:04:32.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
-      "publishedAt": "2026-08-14T18:58:15.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Pocket-app.png?resize=1200,795",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T18:58:15.000Z"
     },
     {
       "source": "Ars Technica",
@@ -682,17 +693,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T12:10:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-      "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-      "summary": "Visa's president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic's Mythos at Visa's own payment network. The model stitched minor weakne…",
-      "publishedAt": "2026-08-12T18:44:50.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5n5rmnYkbIGSFc4nayFtGc/e24edab926693c1f72335107e86c0c2c/hero.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T18:44:50.000Z"
     }
   ]
 }
