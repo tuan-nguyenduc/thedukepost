@@ -1,11 +1,22 @@
 {
-  "syncedAt": "2026-08-15T02:53:32.798Z",
+  "syncedAt": "2026-08-15T04:34:08.558Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "AI Driven Testing",
+      "link": "https://app.deltix.ai",
+      "summary": "Article URL: https://app.deltix.ai\nComments URL: https://news.ycombinator.com/item?id=49307099\nPoints: 8\n# Comments: 3",
+      "publishedAt": "2026-08-15T02:42:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T02:42:14.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive\nComments URL: https://news.ycombinator.com/item?id=49306577\nPoints: 72\n# Comments: 14",
+      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive\nComments URL: https://news.ycombinator.com/item?id=49306577\nPoints: 133\n# Comments: 26",
       "publishedAt": "2026-08-15T01:14:05.000Z",
       "image": null,
       "sourceCount": 1,
@@ -16,7 +27,7 @@
       "source": "Hacker News",
       "title": "The Ploopy A+ Trackball Is Here",
       "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "summary": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499\nComments URL: https://news.ycombinator.com/item?id=49306443\nPoints: 32\n# Comments: 20",
+      "summary": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499\nComments URL: https://news.ycombinator.com/item?id=49306443\nPoints: 54\n# Comments: 30",
       "publishedAt": "2026-08-15T00:55:31.000Z",
       "image": null,
       "sourceCount": 1,
@@ -27,7 +38,7 @@
       "source": "Hacker News",
       "title": "NSA and IETF, Part 9",
       "link": "https://blog.cr.yp.to/20260814-update.html",
-      "summary": "Article URL: https://blog.cr.yp.to/20260814-update.html\nComments URL: https://news.ycombinator.com/item?id=49306432\nPoints: 15\n# Comments: 2",
+      "summary": "Article URL: https://blog.cr.yp.to/20260814-update.html\nComments URL: https://news.ycombinator.com/item?id=49306432\nPoints: 37\n# Comments: 25",
       "publishedAt": "2026-08-15T00:54:01.000Z",
       "image": null,
       "sourceCount": 1,
@@ -38,23 +49,12 @@
       "source": "Hacker News",
       "title": "Simplifying and Refactoring Introductory Calculus",
       "link": "https://arxiv.org/abs/1811.03459",
-      "summary": "Article URL: https://arxiv.org/abs/1811.03459\nComments URL: https://news.ycombinator.com/item?id=49306196\nPoints: 35\n# Comments: 3",
+      "summary": "Article URL: https://arxiv.org/abs/1811.03459\nComments URL: https://news.ycombinator.com/item?id=49306196\nPoints: 56\n# Comments: 14",
       "publishedAt": "2026-08-15T00:15:23.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T00:15:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The case for overhauling American science",
-      "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "summary": "Article URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science\nComments URL: https://news.ycombinator.com/item?id=49305708\nPoints: 50\n# C…",
-      "publishedAt": "2026-08-14T23:11:34.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T23:11:34.000Z"
     },
     {
       "source": "VentureBeat",
@@ -79,17 +79,6 @@
       "latestActivity": "2026-08-14T22:50:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Stop sending me huge PRs; a rant",
-      "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
-      "summary": "Article URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va\nComments URL: https://news.ycombinator.com/item?id=49305558\nPoints: 88\n# Comments: 50",
-      "publishedAt": "2026-08-14T22:48:15.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T22:48:15.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Talks to sell PayPal to Stripe and Advent are heating up",
       "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
@@ -102,20 +91,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "RISC-V: They should have known better",
-      "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "summary": "Article URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV\nComments URL: https://news.ycombinator.com/item?id=49305492\nPoints: 136\n# Comments: 111",
-      "publishedAt": "2026-08-14T22:38:34.000Z",
-      "image": "images/icons/RV.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T22:38:34.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "eigendrum",
       "link": "https://eigendrum.com/#p=circle",
-      "summary": "Article URL: https://eigendrum.com/#p=circle\nComments URL: https://news.ycombinator.com/item?id=49305250\nPoints: 41\n# Comments: 11",
+      "summary": "Article URL: https://eigendrum.com/#p=circle\nComments URL: https://news.ycombinator.com/item?id=49305250\nPoints: 71\n# Comments: 15",
       "publishedAt": "2026-08-14T22:15:12.000Z",
       "image": "https://eigendrum.com/docs/hero.png",
       "sourceCount": 1,
@@ -156,6 +134,17 @@
       "latestActivity": "2026-08-14T20:59:03.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\nComments URL: https://news.ycombinator.com/item?id=49304447\nPoints: 249\n# Comments:…",
+      "publishedAt": "2026-08-14T20:52:44.000Z",
+      "image": "https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/08/thewire.jpg?fit=1200%2C695&#038;ssl=1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T20:52:44.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "Kia's EV3 will start under $31,000 in the US",
       "link": "https://www.engadget.com/2237429/kia-ev3-will-start-under-31-000-in-the-us/",
@@ -176,6 +165,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T20:37:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "link": "https://arxiv.org/abs/2608.11158",
+      "summary": "Article URL: https://arxiv.org/abs/2608.11158\nComments URL: https://news.ycombinator.com/item?id=49303652\nPoints: 42\n# Comments: 8",
+      "publishedAt": "2026-08-14T19:41:42.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T19:41:42.000Z"
     },
     {
       "source": "TechCrunch",
