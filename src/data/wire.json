@@ -1,6 +1,94 @@
 {
-  "syncedAt": "2026-08-14T22:25:43.644Z",
+  "syncedAt": "2026-08-15T01:21:18.202Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+      "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+      "summary": "Article URL: https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697\nComments URL: https://news.ycombinator.com/item?id=49305927\nPoints: 64\n# Comments: 20",
+      "publishedAt": "2026-08-14T23:40:37.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T23:40:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The case for overhauling American science",
+      "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science\nComments URL: https://news.ycombinator.com/item?id=49305708\nPoints: 26\n# C…",
+      "publishedAt": "2026-08-14T23:11:34.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T23:11:34.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
+      "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "summary": "Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains…",
+      "publishedAt": "2026-08-14T22:56:16.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4SSp8seVDFTXUdtXn6Rgyr/dfd61c47834cf5cb947b8f5ecbe249f0/ChatGPT_Image_Aug_14__2026__05_51_59_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T22:56:16.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Waymo receives permission to offer rides in Sacramento and San Diego",
+      "link": "https://www.engadget.com/2237530/waymo-receives-permission-to-offer-rides-in-sacramento-and-san-diego/",
+      "summary": "The company will also be able to expand its fleet across more of the San Francisco Bay Area and Los Angeles.",
+      "publishedAt": "2026-08-14T22:50:04.000Z",
+      "image": "https://www.engadget.com/img/gallery/waymo-receives-permission-to-offer-rides-in-sacramento-and-san-diego/l-intro-1786746703.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T22:50:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Stop sending me huge PRs; a rant",
+      "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+      "summary": "Article URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va\nComments URL: https://news.ycombinator.com/item?id=49305558\nPoints: 47\n# Comments: 27",
+      "publishedAt": "2026-08-14T22:48:15.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T22:48:15.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "publishedAt": "2026-08-14T22:43:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T22:43:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "RISC-V: They should have known better",
+      "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "summary": "Article URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV\nComments URL: https://news.ycombinator.com/item?id=49305492\nPoints: 105\n# Comments: 55",
+      "publishedAt": "2026-08-14T22:38:34.000Z",
+      "image": "images/icons/RV.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T22:38:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "eigendrum",
+      "link": "https://eigendrum.com/#p=circle",
+      "summary": "Article URL: https://eigendrum.com/#p=circle\nComments URL: https://news.ycombinator.com/item?id=49305250\nPoints: 17\n# Comments: 2",
+      "publishedAt": "2026-08-14T22:15:12.000Z",
+      "image": "https://eigendrum.com/docs/hero.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-14T22:15:12.000Z"
+    },
     {
       "source": "Wired",
       "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
@@ -36,25 +124,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Everything is about to \"go dark\"",
+      "title": "Going Dark, and the era of law enforcement hacking",
       "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\nComments URL: https://news.ycombinator.com/item?id=49304447\nPoints: 72\n# Comments:…",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\nComments URL: https://news.ycombinator.com/item?id=49304447\nPoints: 181\n# Comments:…",
       "publishedAt": "2026-08-14T20:52:44.000Z",
       "image": "https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/08/thewire.jpg?fit=1200%2C695&#038;ssl=1",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T20:52:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Study links coffee consumption to metabolic health and sex hormones",
-      "link": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
-      "summary": "Article URL: https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones\nComments URL: https://news.ycombinator.com/item?id=49304368\nPoints: 43\n# C…",
-      "publishedAt": "2026-08-14T20:46:04.000Z",
-      "image": "https://media-cdn.oulu.fi/styles/open_graph/s3/images/kahvi.jpg?itok=PnGIVejN",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T20:46:04.000Z"
     },
     {
       "source": "Engadget",
@@ -82,7 +159,7 @@
       "source": "Hacker News",
       "title": "Every exterior shot in The Taking of Pelham 123",
       "link": "https://iafisher.com/2026/07/pelham-123",
-      "summary": "Article URL: https://iafisher.com/2026/07/pelham-123\nComments URL: https://news.ycombinator.com/item?id=49303957\nPoints: 15\n# Comments: 3",
+      "summary": "Article URL: https://iafisher.com/2026/07/pelham-123\nComments URL: https://news.ycombinator.com/item?id=49303957\nPoints: 29\n# Comments: 6",
       "publishedAt": "2026-08-14T20:10:49.000Z",
       "image": null,
       "sourceCount": 1,
@@ -93,7 +170,7 @@
       "source": "Hacker News",
       "title": "New Lower and Upper Bounds for the Grothendieck Constant",
       "link": "https://arxiv.org/abs/2608.11158",
-      "summary": "Article URL: https://arxiv.org/abs/2608.11158\nComments URL: https://news.ycombinator.com/item?id=49303652\nPoints: 18\n# Comments: 5",
+      "summary": "Article URL: https://arxiv.org/abs/2608.11158\nComments URL: https://news.ycombinator.com/item?id=49303652\nPoints: 34\n# Comments: 6",
       "publishedAt": "2026-08-14T19:41:42.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
@@ -112,17 +189,6 @@
       "latestActivity": "2026-08-14T19:33:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "What You Gain by Building Your Own Game Engine",
-      "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-      "summary": "Article URL: https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html\nComments URL: https://news.ycombinator.com/item?id=49303405\nPoints: 40\n# Comments: 3…",
-      "publishedAt": "2026-08-14T19:20:20.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T19:20:20.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Samsung has new Galaxy headphones in the works",
       "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
@@ -132,17 +198,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T19:18:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Open WireGuard Endpoints",
-      "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
-      "summary": "Article URL: https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html\nComments URL: https://news.ycombinator.com/item?id=49303237\nPoints: 18\n# Co…",
-      "publishedAt": "2026-08-14T19:05:46.000Z",
-      "image": "https://proxylity.com/images/now-available-open-wireguard-endpoints-and-async-lambda-hero.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T19:05:46.000Z"
     },
     {
       "source": "TechCrunch",
@@ -174,17 +229,6 @@
       "latestActivity": "2026-08-14T19:04:32.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "summary": "Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html\nComments URL: https://news.ycombinator.com/item?id…",
-      "publishedAt": "2026-08-14T19:03:20.000Z",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3212428-0-62401400-1786636364-Firefox-foto-mozilla.png?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T19:03:20.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Read-it-later app Pocket shut down — here are the best alternatives",
       "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
@@ -194,17 +238,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T18:58:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "link": "https://github.com/lajosdeme/mole",
-      "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.\nAnd if you want to ru…",
-      "publishedAt": "2026-08-14T18:52:48.000Z",
-      "image": "https://opengraph.githubassets.com/73df333a16123ccab934c185cb8195e4559c6318084c7cefa2521ab646b50259/lajosdeme/mole",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T18:52:48.000Z"
     },
     {
       "source": "Engadget",
@@ -449,17 +482,6 @@
       "latestActivity": "2026-08-14T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-      "summary": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
-      "publishedAt": "2026-08-14T14:54:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T14:54:48.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
       "link": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
@@ -513,17 +535,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T11:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "DeepSeek's AI models are about to cost four times more",
-      "link": "https://www.engadget.com/2236912/deepseek-ai-models-get-four-times-pricier/",
-      "summary": "DeepSeek has announced price hikes for its V4 models.",
-      "publishedAt": "2026-08-14T10:58:24.000Z",
-      "image": "https://www.engadget.com/img/gallery/deepseeks-ai-models-are-about-to-cost-four-times-more/l-intro-1786705027.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T10:58:24.000Z"
     },
     {
       "source": "Wired",
@@ -678,17 +689,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-12T18:44:50.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
-      "link": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
-      "summary": "Elon Musk's company SpaceXAI, formerly known as xAI, has released Grok 4.6, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pri…",
-      "publishedAt": "2026-08-12T17:26:58.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1J59SGXBNdsrIt3Kw0ldLc/a141fa05285801695f63cba9b60fc522/a26da258-6757-46f3-857c-c143d56f830a.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-12T17:26:58.000Z"
     }
   ]
 }
