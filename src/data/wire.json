@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-08-16T18:32:03.959Z",
+  "syncedAt": "2026-08-16T20:24:57.474Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Do you really need an antivirus app on your Android?",
+      "link": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
+      "summary": "You probably don't need antivirus software on your Android phone, but there are some exceptions.",
+      "publishedAt": "2026-08-16T20:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/do-you-really-need-an-antivirus-app-on-your-android/l-intro-1786462373.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T20:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Models Are Getting Dumber on Purpose",
+      "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose\nComments URL: https://news.ycombinator.com/item?id=49322695\nPoints: 93\n# Comments: 45",
+      "publishedAt": "2026-08-16T19:04:26.000Z",
+      "image": "https://w4g1.dev/avatar.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T19:04:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Protobuf has LSP support. You're welcome",
+      "link": "https://buf.build/blog/protobuf-lsp",
+      "summary": "Article URL: https://buf.build/blog/protobuf-lsp\nComments URL: https://news.ycombinator.com/item?id=49322573\nPoints: 28\n# Comments: 4",
+      "publishedAt": "2026-08-16T18:48:27.000Z",
+      "image": "https://buf.build/images/cms/blog/69c3092bd98bec6b03e4d7e5_blog-protobuf-finally-has.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T18:48:27.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's why retro games look better on old CRT TVs",
+      "link": "https://www.engadget.com/2236809/why-retro-games-look-better-old-crt-tv/",
+      "summary": "A Super Nintendo or PlayStation looked better on retro TVs than today's ultra-sharp displays, but why is there such a difference?",
+      "publishedAt": "2026-08-16T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-why-retro-games-look-better-on-old-crt-tvs/l-intro-1786659129.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T18:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "MathCode, Mathematical Coding Agent",
+      "link": "https://math-ai-org.github.io/mathcode/",
+      "summary": "Article URL: https://math-ai-org.github.io/mathcode/\nComments URL: https://news.ycombinator.com/item?id=49322330\nPoints: 25\n# Comments: 8",
+      "publishedAt": "2026-08-16T18:17:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T18:17:10.000Z"
+    },
     {
       "source": "Engadget",
       "title": "You might want to skip Newegg's GPU trade-in program",
@@ -11,6 +66,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T18:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "link": "https://news.ycombinator.com/item?id=49322107",
+      "summary": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics…",
+      "publishedAt": "2026-08-16T17:49:46.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T17:49:46.000Z"
     },
     {
       "source": "The Verge",
@@ -36,20 +102,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260811052857.htm\nComments URL: https://news.ycombinator.com/item?id=49321783\nPoints: 19\n# Comments: 30",
-      "publishedAt": "2026-08-16T17:10:04.000Z",
-      "image": "https://www.sciencedaily.com/images/1920/wifi-imaging-secret-spying.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T17:10:04.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "link": "https://rvembedded.com/blog_post/12/",
-      "summary": "Article URL: https://rvembedded.com/blog_post/12/\nComments URL: https://news.ycombinator.com/item?id=49321717\nPoints: 33\n# Comments: 15",
+      "summary": "Article URL: https://rvembedded.com/blog_post/12/\nComments URL: https://news.ycombinator.com/item?id=49321717\nPoints: 173\n# Comments: 93",
       "publishedAt": "2026-08-16T17:01:07.000Z",
       "image": null,
       "sourceCount": 1,
@@ -82,7 +137,7 @@
       "source": "Hacker News",
       "title": "NIH is ending a key grant for budding clinical researchers",
       "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-      "summary": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers\nComments URL: https://news.ycombinator.com/item?id=49321353\nPoints: 43\n# Comm…",
+      "summary": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers\nComments URL: https://news.ycombinator.com/item?id=49321353\nPoints: 96\n# Comm…",
       "publishedAt": "2026-08-16T16:14:55.000Z",
       "image": null,
       "sourceCount": 1,
@@ -145,28 +200,6 @@
       "latestActivity": "2026-08-16T14:56:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "GPS and the Lost Art of Getting Lost",
-      "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-      "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost\nComments URL: https://news.ycombinator.com/item?id=49320673\nPoints: 35\n# Comments…",
-      "publishedAt": "2026-08-16T14:53:14.000Z",
-      "image": "https://media.newyorker.com/photos/6a738d140ec867995d3634da/16:9/w_1280,c_limit/gps-final-new-new2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T14:53:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The AI Credit Resale Economy",
-      "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers\nComments URL: https://news.ycombinator.com/item?id=49320611\nPoints: 136\n# Comments: 54",
-      "publishedAt": "2026-08-16T14:44:55.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T14:44:55.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Is the MacBook Pro M5 still worth buying after the price hike?",
       "link": "https://www.engadget.com/2234244/is-macbook-pro-m5-still-worth-after-price-hike/",
@@ -176,17 +209,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-      "link": "https://tasklet.ai/careers/head-of-design-engineering",
-      "summary": "Article URL: https://tasklet.ai/careers/head-of-design-engineering\nComments URL: https://news.ycombinator.com/item?id=49319892\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-08-16T13:30:27.000Z",
-      "image": "https://tasklet.ai/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T13:30:27.000Z"
     },
     {
       "source": "Engadget",
@@ -200,17 +222,6 @@
       "latestActivity": "2026-08-16T13:30:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How to set up your emergency contacts and medical ID on your iPhone",
-      "link": "https://www.engadget.com/2236803/how-to-set-up-emergency-contact-medical-id-on-iphone/",
-      "summary": "Take time to enable these features today before you need them; they could help save your life in an emergency.",
-      "publishedAt": "2026-08-16T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-set-up-your-emergency-contacts-and-medical-id-on-your-iphone/l-intro-1786553132.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T13:00:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
       "link": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
@@ -220,17 +231,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Dolby Vision is on Netflix but you'll need these things first",
-      "link": "https://www.engadget.com/2236802/dolby-vision-on-netflix-things-needed-first/",
-      "summary": "It's only available with the top-tier Premium subscription plan, for one.",
-      "publishedAt": "2026-08-16T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/dolby-vision-is-on-netflix-but-youll-need-these-things-first/l-intro-1786128367.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T12:30:00.000Z"
     },
     {
       "source": "The Verge",
