@@ -1,6 +1,28 @@
 {
-  "syncedAt": "2026-08-16T03:02:11.267Z",
+  "syncedAt": "2026-08-16T04:38:04.651Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
+      "link": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
+      "summary": "Article URL: https://koutian.is-a.dev/benchmark-radar/?view=leaderboard\nComments URL: https://news.ycombinator.com/item?id=49316791\nPoints: 5\n# Comments: 4",
+      "publishedAt": "2026-08-16T04:02:38.000Z",
+      "image": "https://ktwu01.github.io/benchmark-radar/assets/og-card.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T04:02:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
+      "link": "https://nntaleb.substack.com/p/have-another-drink",
+      "summary": "Article URL: https://nntaleb.substack.com/p/have-another-drink\nComments URL: https://news.ycombinator.com/item?id=49316611\nPoints: 16\n# Comments: 6",
+      "publishedAt": "2026-08-16T03:23:34.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T03:23:34.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
@@ -14,9 +36,42 @@
     },
     {
       "source": "Hacker News",
+      "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+      "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "summary": "Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen\nComments URL: https://news.ycombinator.com/item?id=49316395\nPoints: 8\n# Comments: 3",
+      "publishedAt": "2026-08-16T02:36:10.000Z",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67598580&width=1200&height=600&coordinates=0%2C414%2C0%2C415",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T02:36:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "link": "https://www.anthropic.com/research/multiagent-systems",
+      "summary": "Article URL: https://www.anthropic.com/research/multiagent-systems\nComments URL: https://news.ycombinator.com/item?id=49316271\nPoints: 13\n# Comments: 3",
+      "publishedAt": "2026-08-16T02:12:53.000Z",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T02:12:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Guiding Ships with Moire Patterns",
+      "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+      "summary": "Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/\nComments URL: https://news.ycombinator.com/item?id=49315995\nPoints: 17\n# Comments: 2",
+      "publishedAt": "2026-08-16T01:26:44.000Z",
+      "image": "https://tinkerings.org/wp-content/uploads/2018/03/cut-pieces-v01.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T01:26:44.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
       "link": "https://www.micdrop.gg/",
-      "summary": "Article URL: https://www.micdrop.gg/\nComments URL: https://news.ycombinator.com/item?id=49315742\nPoints: 17\n# Comments: 10",
+      "summary": "Article URL: https://www.micdrop.gg/\nComments URL: https://news.ycombinator.com/item?id=49315742\nPoints: 30\n# Comments: 15",
       "publishedAt": "2026-08-16T00:46:29.000Z",
       "image": "https://www.micdrop.gg/static/og.png?v=2",
       "sourceCount": 1,
@@ -25,22 +80,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-      "link": "https://waku.sh",
-      "summary": "Article URL: https://waku.sh\nComments URL: https://news.ycombinator.com/item?id=49315709\nPoints: 8\n# Comments: 2",
-      "publishedAt": "2026-08-16T00:38:44.000Z",
-      "image": "https://waku.sh/og-icon.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T00:38:44.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Big Pickle on SWE Atlas – Codebase QnA",
       "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
       "summary": "Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas\nComments URL: https://news.ycombinator.com/item?id=49315563\nPoints: 4\n# Comments: 0",
       "publishedAt": "2026-08-16T00:10:48.000Z",
-      "image": "https://opengraph.githubassets.com/71480c36c3fe3730c3857f2c0ebd5b82dd9641dcc35110445e5f64c96b3e6a4d/PhillipChaffee/big-pickle-swe-atlas",
+      "image": "https://opengraph.githubassets.com/1115cc95e6518e1eacfb2cf19b002cab768339f3723f182e4a33e0710db5c12f/PhillipChaffee/big-pickle-swe-atlas",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T00:10:48.000Z"
@@ -49,56 +93,12 @@
       "source": "Hacker News",
       "title": "Tea5767-Radio-Tuner",
       "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-      "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner\nComments URL: https://news.ycombinator.com/item?id=49315456\nPoints: 24\n# Comments: 0",
+      "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner\nComments URL: https://news.ycombinator.com/item?id=49315456\nPoints: 30\n# Comments: 1",
       "publishedAt": "2026-08-15T23:54:35.000Z",
-      "image": "https://opengraph.githubassets.com/d926f6ca728a36e5ea8d41ea58bba1875692778b3fb072f1b533bfd56c6816c6/turtushig22-blip/tea5767-radio-tuner",
+      "image": "https://opengraph.githubassets.com/c04b046fb1e8be404aac593afa628fce3afbaf5f204ae1270488d5d35e2e656b/turtushig22-blip/tea5767-radio-tuner",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T23:54:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
-      "link": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
-      "summary": "Article URL: https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind\nComments URL: https://news.ycombinator.com/item?id=49315065\nPoi…",
-      "publishedAt": "2026-08-15T22:55:50.000Z",
-      "image": "https://www.colorado.edu/today/sites/default/files/2026-08/Plume_overlay.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T22:55:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "link": "https://arxiv.org/abs/2608.13122",
-      "summary": "Article URL: https://arxiv.org/abs/2608.13122\nComments URL: https://news.ycombinator.com/item?id=49314967\nPoints: 8\n# Comments: 1",
-      "publishedAt": "2026-08-15T22:41:51.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T22:41:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Software Engineering fundamentals matter more",
-      "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "summary": "Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/\nComments URL: https://news.ycombinator.com/item?id=49314902\nPoints: 11\n# Comme…",
-      "publishedAt": "2026-08-15T22:31:09.000Z",
-      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T22:31:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-      "link": "https://sugartrack-beta.vercel.app/",
-      "summary": "Article URL: https://sugartrack-beta.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49314884\nPoints: 25\n# Comments: 6",
-      "publishedAt": "2026-08-15T22:28:14.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T22:28:14.000Z"
     },
     {
       "source": "The Verge",
