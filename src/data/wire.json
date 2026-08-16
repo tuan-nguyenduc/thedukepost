@@ -1,44 +1,99 @@
 {
-  "syncedAt": "2026-08-16T01:26:56.669Z",
+  "syncedAt": "2026-08-16T03:02:11.267Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "ChatGPT lost 22 points of web share in a year",
-      "link": "https://aicharts.grok.me/c/market-share",
-      "summary": "Article URL: https://aicharts.grok.me/c/market-share\nComments URL: https://news.ycombinator.com/item?id=49315630\nPoints: 12\n# Comments: 13",
-      "publishedAt": "2026-08-16T00:22:20.000Z",
-      "image": "https://aicharts.grok.me/og/market-share.png",
+      "source": "The Verge",
+      "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+      "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+      "summary": "The compact Polaroid Go is great for road trips and adventures. | Image: Polaroid\t\n\nSmartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re…",
+      "publishedAt": "2026-08-16T03:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-16T00:22:20.000Z"
+      "latestActivity": "2026-08-16T03:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "link": "https://www.micdrop.gg/",
+      "summary": "Article URL: https://www.micdrop.gg/\nComments URL: https://news.ycombinator.com/item?id=49315742\nPoints: 17\n# Comments: 10",
+      "publishedAt": "2026-08-16T00:46:29.000Z",
+      "image": "https://www.micdrop.gg/static/og.png?v=2",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T00:46:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+      "link": "https://waku.sh",
+      "summary": "Article URL: https://waku.sh\nComments URL: https://news.ycombinator.com/item?id=49315709\nPoints: 8\n# Comments: 2",
+      "publishedAt": "2026-08-16T00:38:44.000Z",
+      "image": "https://waku.sh/og-icon.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T00:38:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Big Pickle on SWE Atlas – Codebase QnA",
+      "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+      "summary": "Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas\nComments URL: https://news.ycombinator.com/item?id=49315563\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-08-16T00:10:48.000Z",
+      "image": "https://opengraph.githubassets.com/71480c36c3fe3730c3857f2c0ebd5b82dd9641dcc35110445e5f64c96b3e6a4d/PhillipChaffee/big-pickle-swe-atlas",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-16T00:10:48.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Tea5767-Radio-Tuner",
       "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-      "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner\nComments URL: https://news.ycombinator.com/item?id=49315456\nPoints: 7\n# Comments: 0",
+      "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner\nComments URL: https://news.ycombinator.com/item?id=49315456\nPoints: 24\n# Comments: 0",
       "publishedAt": "2026-08-15T23:54:35.000Z",
-      "image": "https://opengraph.githubassets.com/539ef69bc378cc8036862a125fb5ee49ed6f1483619a345f9f1e29f2338e4f82/turtushig22-blip/tea5767-radio-tuner",
+      "image": "https://opengraph.githubassets.com/d926f6ca728a36e5ea8d41ea58bba1875692778b3fb072f1b533bfd56c6816c6/turtushig22-blip/tea5767-radio-tuner",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T23:54:35.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Credit card debt rises to $1.26T, nearing all-time record",
-      "link": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
-      "summary": "Article URL: https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/\nComments URL: https://news.ycombinator.com/item?id=49315232\nPoints: 35\n# Comme…",
-      "publishedAt": "2026-08-15T23:22:59.000Z",
-      "image": "https://cdn.abcotvs.com/dip/images/19667293_081226-cc-adobestock-tapping-cc-img.jpg?w=1600",
+      "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
+      "link": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
+      "summary": "Article URL: https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind\nComments URL: https://news.ycombinator.com/item?id=49315065\nPoi…",
+      "publishedAt": "2026-08-15T22:55:50.000Z",
+      "image": "https://www.colorado.edu/today/sites/default/files/2026-08/Plume_overlay.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-15T23:22:59.000Z"
+      "latestActivity": "2026-08-15T22:55:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "link": "https://arxiv.org/abs/2608.13122",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13122\nComments URL: https://news.ycombinator.com/item?id=49314967\nPoints: 8\n# Comments: 1",
+      "publishedAt": "2026-08-15T22:41:51.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T22:41:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Software Engineering fundamentals matter more",
+      "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "summary": "Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/\nComments URL: https://news.ycombinator.com/item?id=49314902\nPoints: 11\n# Comme…",
+      "publishedAt": "2026-08-15T22:31:09.000Z",
+      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-15T22:31:09.000Z"
     },
     {
       "source": "Hacker News",
       "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
       "link": "https://sugartrack-beta.vercel.app/",
-      "summary": "Article URL: https://sugartrack-beta.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49314884\nPoints: 16\n# Comments: 4",
+      "summary": "Article URL: https://sugartrack-beta.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49314884\nPoints: 25\n# Comments: 6",
       "publishedAt": "2026-08-15T22:28:14.000Z",
       "image": null,
       "sourceCount": 1,
@@ -55,50 +110,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T21:56:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
-      "link": "https://xescu.re/keeta-consensus.pdf",
-      "summary": "Article URL: https://xescu.re/keeta-consensus.pdf\nComments URL: https://news.ycombinator.com/item?id=49314642\nPoints: 10\n# Comments: 1",
-      "publishedAt": "2026-08-15T21:49:45.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T21:49:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bede Liu, a digital signal processing pioneer, has died",
-      "link": "https://spectrum.ieee.org/digital-signal-processing",
-      "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing\nComments URL: https://news.ycombinator.com/item?id=49314615\nPoints: 54\n# Comments: 2",
-      "publishedAt": "2026-08-15T21:45:54.000Z",
-      "image": "https://spectrum.ieee.org/media-library/portrait-of-an-elderly-asian-man-softly-smiling-in-a-suit-jacket-and-tie.jpg?id=67609508&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T21:45:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
-      "link": "https://en.wikipedia.org/wiki/Wow!_signal",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal\nComments URL: https://news.ycombinator.com/item?id=49314596\nPoints: 61\n# Comments: 11",
-      "publishedAt": "2026-08-15T21:42:47.000Z",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wow_signal.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T21:42:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tracking down a Zsh history data loss bug",
-      "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-      "summary": "Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/\nComments URL: https://news.ycombinator.com/item?id=49314579\nPoints: 31\n# Comments: 4",
-      "publishedAt": "2026-08-15T21:39:09.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T21:39:09.000Z"
     },
     {
       "source": "Engadget",
@@ -330,17 +341,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T14:10:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-      "link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-      "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment\t\n\nWith Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally read…",
-      "publishedAt": "2026-08-15T14:03:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_tp1_8222-1024x683-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T14:03:14.000Z"
     },
     {
       "source": "TechCrunch",
