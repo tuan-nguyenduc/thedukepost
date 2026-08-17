@@ -1,39 +1,6 @@
 {
-  "syncedAt": "2026-08-17T01:23:25.805Z",
+  "syncedAt": "2026-08-17T03:02:17.448Z",
   "items": [
-    {
-      "source": "Hacker News",
-      "title": "The Life and Death of Direct File [pdf]",
-      "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "summary": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\nComments URL: https://news.ycombinator.com/item?id=49325185\nPoints: 24\n# Comments: 1",
-      "publishedAt": "2026-08-17T00:17:57.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T00:17:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The federal keyword lists that canceled billions in research funding",
-      "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-      "summary": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/\nComments URL: https://news.ycombinator.com/item?i…",
-      "publishedAt": "2026-08-17T00:14:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T00:14:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Webmaster a Manifesto for Everyone",
-      "link": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
-      "summary": "Article URL: https://brennan.day/webmaster-a-manifesto-for-everyone/\nComments URL: https://news.ycombinator.com/item?id=49325092\nPoints: 9\n# Comments: 2",
-      "publishedAt": "2026-08-17T00:04:14.000Z",
-      "image": "https://brennan.day/assets/images/blog/webmaster.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T00:04:14.000Z"
-    },
     {
       "source": "The Verge",
       "title": "OpenAI reportedly disbanded its preparedness team",
@@ -57,32 +24,14 @@
       "latestActivity": "2026-08-16T21:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id…",
-      "publishedAt": "2026-08-16T21:07:10.000Z",
-      "image": null,
+      "source": "TechCrunch",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "publishedAt": "2026-08-16T20:57:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-16T21:07:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\nComments URL: https://news.ycombinator.com/item?id=49…",
-      "publishedAt": "2026-08-16T20:31:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-          "publishedAt": "2026-08-16T20:57:04.000Z"
-        }
-      ],
       "latestActivity": "2026-08-16T20:57:04.000Z"
     },
     {
@@ -95,17 +44,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T20:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "link": "https://ivan-gavran.github.io/0-social-processes-paper",
-      "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper\nComments URL: https://news.ycombinator.com/item?id=49323459\nPoints: 78\n# Comments: 70",
-      "publishedAt": "2026-08-16T20:38:58.000Z",
-      "image": "https://ivan-gavran.github.io/assets/images/forall.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T20:38:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -141,17 +79,6 @@
       "latestActivity": "2026-08-16T20:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
-      "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
-      "summary": "Article URL: https://github.com/aleks-ent/pump-dump-crypto-screener\nComments URL: https://news.ycombinator.com/item?id=49323256\nPoints: 3\n# Comments: 0",
-      "publishedAt": "2026-08-16T20:16:30.000Z",
-      "image": "https://opengraph.githubassets.com/a1d6ba92f33a80be2ea04fb6b34b7dc4772bd1d8cbbfee62634060171a3d930c/aleks-ent/pump-dump-crypto-screener",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T20:16:30.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Do you really need an antivirus app on your Android?",
       "link": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
@@ -161,17 +88,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T20:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Models Are Getting Dumber on Purpose",
-      "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose\nComments URL: https://news.ycombinator.com/item?id=49322695\nPoints: 258\n# Comments: 146",
-      "publishedAt": "2026-08-16T19:04:26.000Z",
-      "image": "https://w4g1.dev/avatar.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T19:04:26.000Z"
     },
     {
       "source": "Engadget",
