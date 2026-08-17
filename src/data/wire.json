@@ -1,23 +1,289 @@
 {
-  "syncedAt": "2026-08-17T14:30:15.298Z",
+  "syncedAt": "2026-08-17T16:29:57.536Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "publishedAt": "2026-08-17T16:15:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-529313685.jpg?resize=1200,1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:15:12.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+      "link": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+      "summary": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likel…",
+      "publishedAt": "2026-08-17T16:11:44.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7HlP9eF4ws6aVTKtLKEI5z/3572d302cdc70c680790f21770fb69ed/missing-piece-smk1.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:11:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+      "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "summary": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/\nComments URL: https://news.ycombinator.com/it…",
+      "publishedAt": "2026-08-17T15:49:57.000Z",
+      "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/2678383b-f910-4164-833a-e287b5fed96e",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:49:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "link": "https://speko.ai/",
+      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public bench…",
+      "publishedAt": "2026-08-17T15:36:18.000Z",
+      "image": "https://speko.ai/opengraph-image?b1c5b7b39189286b",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:36:18.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Uber adds Zipline drones to its Eats delivery network",
       "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
-      "summary": "Uber is also making investing in Zipline as part of the tie-up.",
+      "summary": "Uber is also making investing in Zipline a part of the tie-up.",
       "publishedAt": "2026-08-17T13:18:49.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "related": [
         {
           "source": "The Verge",
           "title": "Uber partners with Zipline on Eats drone deliveries",
           "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
           "publishedAt": "2026-08-17T14:24:35.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "Uber aims for 1 million daily drone deliveries with Zipline partnership",
+          "link": "https://www.engadget.com/2238260/uber-aims-for-1-million-daily-drone-deliveries-with-zipline-partnership/",
+          "publishedAt": "2026-08-17T15:34:27.000Z"
         }
       ],
-      "latestActivity": "2026-08-17T14:24:35.000Z"
+      "latestActivity": "2026-08-17T15:34:27.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Is an iPhone 15 still worth your money in 2026?",
+      "link": "https://www.engadget.com/2235557/iphone-15-still-worth-money-in-2026/",
+      "summary": "Buying an older iPhone is a great way to save money while taking advantage of Apple's long support. But is the iPhone 15 too old to be worth it now?",
+      "publishedAt": "2026-08-17T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/is-an-iphone-15-still-worth-your-money-in-2026/l-intro-1786545446.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "That Apple Screen Sharing bug has now been seen in the wild, so please update macOS",
+      "link": "https://www.engadget.com/2238240/apple-screen-sharing-bug-has-been-seen-in-the-wild-please-update-macos/",
+      "summary": "A bug in macOS screen sharing lets attackers view your screen, open files and do just about anything else they want.",
+      "publishedAt": "2026-08-17T15:25:28.000Z",
+      "image": "https://www.engadget.com/img/gallery/that-apple-screen-sharing-bug-has-now-been-seen-in-the-wild-so-please-update-macos/l-intro-1786980265.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:25:28.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "GitHub has been down for most of the morning",
+      "link": "https://www.engadget.com/2238231/github-has-been-down-for-most-of-the-morning/",
+      "summary": "If you hear lots of grumbling in coffee shops this morning, GitHub's outage may be why.",
+      "publishedAt": "2026-08-17T15:22:27.000Z",
+      "image": "https://www.engadget.com/img/gallery/github-has-been-down-for-most-of-the-morning/l-intro-1786980093.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:22:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "publishedAt": "2026-08-17T15:16:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:16:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
+      "link": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
+      "summary": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's…",
+      "publishedAt": "2026-08-17T15:10:25.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697380/STK071_APPLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:10:25.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+      "link": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
+      "summary": "African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.",
+      "publishedAt": "2026-08-17T15:06:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Terra-Industries-drone.jpg?resize=1200,903",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:06:07.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "This sub-$7,000 sportscar might be just what the future needs",
+      "link": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
+      "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
+      "publishedAt": "2026-08-17T15:01:25.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/32.png-640x360.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T15:01:25.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "WordPress.com targets the next generation of web creators with a free student plan",
+      "link": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
+      "summary": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
+      "publishedAt": "2026-08-17T14:56:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/wp-education_program-announcement_evergreen_blog.png?w=1176",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:56:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "link": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "summary": "Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.\nGartner estimates that the average global…",
+      "publishedAt": "2026-08-17T14:37:08.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/72G8U8t28paAcvIAHfw6SR/c3881db03e27a6f11c5f3424ac06a2e0/ChatGPT_Image_Aug_17__2026__09_54_24_AM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:37:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
+      "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
+      "summary": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternat…",
+      "publishedAt": "2026-08-17T14:35:25.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vergedealsgrifstudio.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:35:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/\nComments URL: https://news.ycombinator…",
+      "publishedAt": "2026-08-17T14:30:09.000Z",
+      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:30:09.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to get the best audio out of your PC",
+      "link": "https://www.engadget.com/2234969/how-to-get-best-audio-from-pc/",
+      "summary": "Just because you're listening to music on your laptop doesn't mean that you have to settle for its subpar speakers.",
+      "publishedAt": "2026-08-17T14:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-the-best-audio-out-of-your-pc/l-intro-1786478925.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:30:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "  How Heidi built production-ready AI for healthcare at global scale",
+      "link": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
+      "summary": "Presented by MongoDB\n\nBuilding AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to the compliance obligations that govern healthcare,…",
+      "publishedAt": "2026-08-17T14:30:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1nCLzQa4Tgn03PPfS2aB0A/e8319b09ef2f6fbaac11c34c12d6eae8/AdobeStock_650145795.jpeg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+      "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
+      "summary": "Article URL: https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu\nComments URL: https://news.ycombinator.com/item?id=49331607\nPoints: 32\n# Comments: 25",
+      "publishedAt": "2026-08-17T14:29:18.000Z",
+      "image": "https://piszczek.pl/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:29:18.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Meet the only known trebuchet casualty in history",
+      "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+      "publishedAt": "2026-08-17T13:41:35.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "The only known trebuchet casualty in history",
+          "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+          "publishedAt": "2026-08-17T14:26:19.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-17T14:26:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+      "link": "https://saggar.marginalutility.dev/",
+      "summary": "Hi HN, like many of you talented folk, I’ve been building more, faster than ever. I built Saggar after my terminal stopped feeling like a tool and started feeling like a tab-manage…",
+      "publishedAt": "2026-08-17T14:25:54.000Z",
+      "image": "https://saggar.marginalutility.dev/opengraph-image?a4837e7da74a8caf",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:25:54.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+      "publishedAt": "2026-08-17T14:22:54.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:22:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to put 170 atoms in an atom",
+      "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+      "summary": "Article URL: https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/\nComments URL: https://news.ycombinator.com/item?id=49331474\nPoints: 40\n# Comments: 4",
+      "publishedAt": "2026-08-17T14:21:25.000Z",
+      "image": "https://signoregalilei.com/wp-content/uploads/2026/08/Rydberg_Polaron_schematic.svg_.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:21:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\nComments URL: https://news.ycombinator.com/item?id=49331423\nPoints: 96\n# Comments: 43",
+      "publishedAt": "2026-08-17T14:18:38.000Z",
+      "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:18:38.000Z"
     },
     {
       "source": "The Verge",
@@ -31,15 +297,15 @@
       "latestActivity": "2026-08-17T14:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Meet the only known trebuchet casualty in history",
-      "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-      "publishedAt": "2026-08-17T13:41:35.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
+      "source": "Engadget",
+      "title": "Meta faces a $1.4 trillion reckoning in latest trial over social media addiction",
+      "link": "https://www.engadget.com/2237547/meta-faces-a-1-4-trillion-reckoning-in-latest-trial-over-social-media-addiction/",
+      "summary": "Dozens of states accuse the company of violating the Children's Online Privacy Protection Act.",
+      "publishedAt": "2026-08-17T14:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-faces-a-1-4-trillion-reckoning-in-latest-trial-over-social-media-addiction/l-intro-1786748024.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-17T13:41:35.000Z"
+      "latestActivity": "2026-08-17T14:00:00.000Z"
     },
     {
       "source": "Engadget",
@@ -84,17 +350,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What actually happens when you let apps track your activity?",
-      "link": "https://www.engadget.com/2236798/what-happens-when-apps-track-activity/",
-      "summary": "What kind of data is being collected by our devices, and how is it being used? Should we \"Ask app not to track\"?",
-      "publishedAt": "2026-08-17T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-actually-happens-when-you-let-apps-track-your-activity/l-intro-1786650122.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T12:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -241,24 +496,6 @@
     },
     {
       "source": "The Verge",
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and…",
-      "publishedAt": "2026-08-16T21:32:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "OpenAI reportedly disbanded its preparedness team as part of a 'streamlining' process",
-          "link": "https://www.engadget.com/2237916/openai-reportedly-disbanded-its-preparedness-team-as-part-of-streamlining-process/",
-          "publishedAt": "2026-08-17T08:45:09.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-17T08:45:09.000Z"
-    },
-    {
-      "source": "The Verge",
       "title": "I’m hooked on Peak Design’s new City bags",
       "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
       "summary": "Integrated BagLev hooks keep Peak Design’s City Line crossbody bag and backpack off the dirty ground. | Photo by Thomas Ricker / The Verge\t\n\nIt's just a hook, sewn into a bag, but…",
@@ -267,28 +504,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T07:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Another woman joins lawsuit accusing Grok of generating CSAM",
-      "link": "https://www.engadget.com/2237875/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/",
-      "summary": "A fourth party is pursuing legal action against xAI, alleging that Grok was used to create CSAM based on her childhood photos.",
-      "publishedAt": "2026-08-17T05:54:41.000Z",
-      "image": "https://www.engadget.com/img/gallery/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/l-intro-1786945799.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T05:54:41.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Turn on these settings to protect your Android phone from theft",
-      "link": "https://www.engadget.com/2236816/turn-on-settings-protect-android-phone-from-theft/",
-      "summary": "Google has added some smart theft-detection features to Android in recent years.",
-      "publishedAt": "2026-08-16T21:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/turn-on-these-settings-to-protect-your-android-phone-from-theft/l-intro-1786454524.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T21:30:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -311,72 +526,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T20:45:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "publishedAt": "2026-08-16T20:32:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T20:32:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
-      "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-      "summary": "In every possible universe? | Image: Backwoodz Studioz\t\n\n\"Breakups are… tough.\"\nIt's the opening lines of an interlude toward the end of DOOMED! Called \"It Happens in Every Univers…",
-      "publishedAt": "2026-08-16T20:31:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T20:31:37.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Is buying a OnePlus phone in 2026 still a good idea?",
-      "link": "https://www.engadget.com/2236810/is-buying-oneplus-phone-still-good-idea-in-2026/",
-      "summary": "If you really want a OnePlus phone, you can still make it work.",
-      "publishedAt": "2026-08-16T20:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/is-buying-a-oneplus-phone-in-2026-still-a-good-idea/l-intro-1786654012.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T20:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Do you really need an antivirus app on your Android?",
-      "link": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
-      "summary": "You probably don't need antivirus software on your Android phone, but there are some exceptions.",
-      "publishedAt": "2026-08-16T20:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/do-you-really-need-an-antivirus-app-on-your-android/l-intro-1786462373.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T20:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "publishedAt": "2026-08-16T16:53:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T16:53:51.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-      "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "publishedAt": "2026-08-16T16:04:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/joby-aviation-GettyImages-2272907562.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T16:04:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -421,17 +570,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T10:00:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "publishedAt": "2026-08-15T21:29:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T21:29:19.000Z"
     },
     {
       "source": "Ars Technica",
@@ -489,28 +627,6 @@
       "latestActivity": "2026-08-14T22:56:16.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
-      "publishedAt": "2026-08-14T18:32:14.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T18:32:14.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-      "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
-      "publishedAt": "2026-08-14T18:00:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T18:00:23.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
       "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
@@ -564,39 +680,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T21:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
-      "link": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
-      "summary": "Every Claude model Anthropic tested turned on its own, and no attacker made them do it. Given three agents, four hours on one server, and conflicting orders none knew the others he…",
-      "publishedAt": "2026-08-13T20:14:20.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/wysFOf7ze5H4BCTXQfy63/7970ccebe5cf3361afbd2f35aefa6065/turfwar_hero.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T20:14:20.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-      "link": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-      "summary": "Google is rolling out Gemini 3.7 Flash, a new version of its workhorse AI model that puts coding, agentic workflows and knowledge work at the center of the upgrade — while temporar…",
-      "publishedAt": "2026-08-13T18:02:54.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2hiXA5MTlT6U93qXfs9J8Q/e9a84e4962a92f6170fb5761a78b3d5f/Gemini_Generated_Image_9mr5qd9mr5qd9mr5.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T18:02:54.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-      "link": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-      "summary": "DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.\nThe Chinese AI lab on Thursday launched the official version of D…",
-      "publishedAt": "2026-08-13T16:47:55.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6hFdhAgllY0UvaVpl6BmLa/d6e4fff99189904b4a8a9f037e1fbb83/43530361-2311-45E8-BCF9-8DF972A298D8.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T16:47:55.000Z"
     }
   ]
 }
