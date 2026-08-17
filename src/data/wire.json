@@ -1,11 +1,84 @@
 {
-  "syncedAt": "2026-08-17T08:45:46.758Z",
+  "syncedAt": "2026-08-17T10:34:09.412Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "El Niño and Saharan Dust Silence Atlantic Hurricane Season",
+      "link": "https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/",
+      "summary": "El Niño coupled with Saharan dust is making this year’s hurricane season a dud. But there’s still potential for dangerous storms.",
+      "publishedAt": "2026-08-17T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a7f7ef99dba743672684c71/191:100/w_1280,c_limit/Science_The%20One-Two%20Punch%20That%20Has%20Atlantic%20Hurricane%20Season%20Down%20for%20the%20Count_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms",
+      "link": "https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/",
+      "summary": "From threats to the safety of poll workers to voters who can’t distinguish between odds and results, prediction markets are already scrambling the political process.",
+      "publishedAt": "2026-08-17T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a7cc625da9d4129dd619236/191:100/w_1280,c_limit/Politics_Officials%20Brace%20for%20Prediction%20Markets%20to%20Sow%20Midterm%20Election%20Chaos_v2.1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T09:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "There’s a New Link Between Gut Health and Alzheimer’s Disease",
+      "link": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/",
+      "summary": "Researchers found that a metabolite produced by gut bacteria can weaken the barrier that protects the brain and promote changes associated with the cognitive disease.",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a7f9a3b6a3123db993a9431/191:100/w_1280,c_limit/981884234",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How much hydrogen awaits us underground?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There he…",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/H2-Site-thumb.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dr…",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T09:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and…",
+      "publishedAt": "2026-08-16T21:32:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "OpenAI reportedly disbanded its preparedness team as part of a 'streamlining' process",
+          "link": "https://www.engadget.com/2237916/openai-reportedly-disbanded-its-preparedness-team-as-part-of-streamlining-process/",
+          "publishedAt": "2026-08-17T08:45:09.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-17T08:45:09.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "HackEurope 2026: A short rant on AI and hackathons",
       "link": "https://duti.dev/blog/2026/spr/",
-      "summary": "Article URL: https://duti.dev/blog/2026/spr/\nComments URL: https://news.ycombinator.com/item?id=49327490\nPoints: 6\n# Comments: 1",
+      "summary": "Article URL: https://duti.dev/blog/2026/spr/\nComments URL: https://news.ycombinator.com/item?id=49327490\nPoints: 40\n# Comments: 32",
       "publishedAt": "2026-08-17T07:28:43.000Z",
       "image": "https://duti.dev/img/avatar.jpeg",
       "sourceCount": 1,
@@ -36,20 +109,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
-      "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
-      "summary": "Article URL: https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted\nComments URL: https://news.ycombinator.com/item?id=49326825\nPoints: 38\n# Comments: 16",
-      "publishedAt": "2026-08-17T05:22:49.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!ciiL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5a893d5-44a1-4d3a-9a8f-3ebb6f5a07b1_1448x1086.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T05:22:49.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Linear algebra done right",
       "link": "https://linear.axler.net/",
-      "summary": "Article URL: https://linear.axler.net/\nComments URL: https://news.ycombinator.com/item?id=49326816\nPoints: 55\n# Comments: 26",
+      "summary": "Article URL: https://linear.axler.net/\nComments URL: https://news.ycombinator.com/item?id=49326816\nPoints: 85\n# Comments: 36",
       "publishedAt": "2026-08-17T05:21:34.000Z",
       "image": null,
       "sourceCount": 1,
@@ -60,7 +122,7 @@
       "source": "Hacker News",
       "title": "GIMP Development Update",
       "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "summary": "Article URL: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/\nComments URL: https://news.ycombinator.com/item?id=49326156\nPoints: 111\n# Comments: 50",
+      "summary": "Article URL: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/\nComments URL: https://news.ycombinator.com/item?id=49326156\nPoints: 178\n# Comments: 124",
       "publishedAt": "2026-08-17T03:08:47.000Z",
       "image": "https://www.gimp.org/images/frontpage/wilber-big.png",
       "sourceCount": 1,
@@ -82,7 +144,7 @@
       "source": "Hacker News",
       "title": "On A.I. regulation and messaging",
       "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762\nComments URL: https://news.ycombinator.com/item?id=49325789\nPoints: 37\n# Comments: 17",
+      "summary": "https://xcancel.com/DarioAmodei/status/2088758816376807762\nComments URL: https://news.ycombinator.com/item?id=49325789\nPoints: 59\n# Comments: 90",
       "publishedAt": "2026-08-17T01:59:56.000Z",
       "image": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_200x200.jpg",
       "sourceCount": 1,
@@ -93,7 +155,7 @@
       "source": "Hacker News",
       "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
       "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "summary": "Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=49325714\nPoints: 77\n# Comments: 10",
+      "summary": "Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=49325714\nPoints: 89\n# Comments: 10",
       "publishedAt": "2026-08-17T01:45:36.000Z",
       "image": null,
       "sourceCount": 1,
@@ -104,23 +166,23 @@
       "source": "Hacker News",
       "title": "Prolly: A content-addressed ordered map built on prolly trees",
       "link": "https://github.com/crabbuild/prolly",
-      "summary": "Article URL: https://github.com/crabbuild/prolly\nComments URL: https://news.ycombinator.com/item?id=49325458\nPoints: 42\n# Comments: 3",
+      "summary": "Article URL: https://github.com/crabbuild/prolly\nComments URL: https://news.ycombinator.com/item?id=49325458\nPoints: 45\n# Comments: 3",
       "publishedAt": "2026-08-17T01:00:45.000Z",
-      "image": "https://opengraph.githubassets.com/c6c63814853911d208b918a286341af55f219da11d490099f61e381009657f8e/crabbuild/prolly",
+      "image": "https://opengraph.githubassets.com/ec255ab0ec70d154a4736d7a438b4ce56246891a5add046cc56a3e7ee26f479f/crabbuild/prolly",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T01:00:45.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and…",
-      "publishedAt": "2026-08-16T21:32:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Hacker News",
+      "title": "Rhombus 1.1 is now available",
+      "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "summary": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\nComments URL: https://news.ycombinator.com/item?id=49325384\nPoints: 87\n# Comments: 28",
+      "publishedAt": "2026-08-17T00:48:21.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-16T21:32:56.000Z"
+      "latestActivity": "2026-08-17T00:48:21.000Z"
     },
     {
       "source": "Engadget",
@@ -168,9 +230,9 @@
     },
     {
       "source": "The Verge",
-      "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+      "title": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
       "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-      "summary": "In every possible universe? | Image: Backwoodz Studioz\t\n\n\"Breakups are… tough.\"\nIt's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Univer…",
+      "summary": "In every possible universe? | Image: Backwoodz Studioz\t\n\n\"Breakups are… tough.\"\nIt's the opening lines of an interlude toward the end of DOOMED! Called \"It Happens in Every Univers…",
       "publishedAt": "2026-08-16T20:31:37.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -223,7 +285,7 @@
     },
     {
       "source": "The Verge",
-      "title": "Amazon is trying to crush class-action suits before they get started",
+      "title": "Amazon is trying to crush class action suits before they get started",
       "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
       "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arb…",
       "publishedAt": "2026-08-16T17:35:02.000Z",
@@ -253,17 +315,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T16:53:51.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to lease an iPhone instead of buying one",
-      "link": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
-      "summary": "The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before.",
-      "publishedAt": "2026-08-16T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-lease-an-iphone-instead-of-buying-one/l-intro-1785270362.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T16:30:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -311,22 +362,22 @@
     },
     {
       "source": "Wired",
-      "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
-      "link": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
-      "summary": "Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.",
+      "title": "Astronomers Discover the Existence of a Black Hole Star",
+      "link": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
+      "summary": "An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spots in the early universe.",
       "publishedAt": "2026-08-16T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7fe9a3cf7e32811238974b/191:100/w_1280,c_limit/Samsung-Galaxy-Z-Fold8-Ultra-(left)-and-Z-Fold8-(right)-SOURCE-Julian-Chokkattu.jpg",
+      "image": "https://media.wired.com/photos/6a7f4c716a3123db993a937f/191:100/w_1280,c_limit/MIT-BlackHoleStar-01-press_0.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T11:00:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "Astronomers Discover the Existence of a Black Hole Star",
-      "link": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
-      "summary": "An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spots in the early universe.",
+      "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
+      "link": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
+      "summary": "Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.",
       "publishedAt": "2026-08-16T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7f4c716a3123db993a937f/191:100/w_1280,c_limit/MIT-BlackHoleStar-01-press_0.jpg",
+      "image": "https://media.wired.com/photos/6a7fe9a3cf7e32811238974b/191:100/w_1280,c_limit/Samsung-Galaxy-Z-Fold8-Ultra-(left)-and-Z-Fold8-(right)-SOURCE-Julian-Chokkattu.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T11:00:00.000Z"
@@ -374,28 +425,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T10:00:59.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Inside the Experimental Traps Scientists Set for Ghostly Neutrinos",
-      "link": "https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/",
-      "summary": "Observatories have been built in mines, deep under the Antarctic ice sheet, and elsewhere in an effort to detect the fleeting particles.",
-      "publishedAt": "2026-08-16T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7f5742e58619d89d48cc8a/191:100/w_1280,c_limit/Super-Kaminokande-cr-Kamioka-Observatory,-ICRR-(Institute-for-Cosmic-Ray-Research),-The-University-of-Tokyo.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
-      "publishedAt": "2026-08-16T09:33:00.000Z",
-      "image": "https://media.wired.com/photos/6a8007d2a5a41ea93847b302/191:100/w_1280,c_limit/I-Tested-the-Best-Cat-Water-Fountains%E2%80%94These-Are-Worth-Buying.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T09:33:00.000Z"
     },
     {
       "source": "The Verge",
@@ -506,17 +535,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T11:09:57.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
-      "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
-      "summary": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
-      "publishedAt": "2026-08-15T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7fd146fe52d9e2e42b1a35/191:100/w_1280,c_limit/Review--Retrospec-Joe-Rev-2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T11:00:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -671,28 +689,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-13T16:47:55.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing ba…",
-      "publishedAt": "2026-08-13T13:41:10.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T13:41:10.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words…",
-      "publishedAt": "2026-08-13T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/AP204983464165-SCtop.jpg?fit=1920,1280",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-13T12:10:00.000Z"
     }
   ]
 }
