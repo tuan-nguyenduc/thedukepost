@@ -1,6 +1,90 @@
 {
-  "syncedAt": "2026-08-17T12:48:32.701Z",
+  "syncedAt": "2026-08-17T14:30:15.298Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Uber adds Zipline drones to its Eats delivery network",
+      "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
+      "summary": "Uber is also making investing in Zipline as part of the tie-up.",
+      "publishedAt": "2026-08-17T13:18:49.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Uber partners with Zipline on Eats drone deliveries",
+          "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
+          "publishedAt": "2026-08-17T14:24:35.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-17T14:24:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "It’s about ethics in journalism, with Ben Smith",
+      "link": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
+      "summary": "Today I’m talking to Ben Smith, the editor-in-chief of Semafor.\nEverywhere you go, people say they don’t trust the media — and yet they’ve never consumed more of it. Audiences have…",
+      "publishedAt": "2026-08-17T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_BenSmith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T14:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Meet the only known trebuchet casualty in history",
+      "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+      "publishedAt": "2026-08-17T13:41:35.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T13:41:35.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What are the two types of Bluetooth and what are they used for?",
+      "link": "https://www.engadget.com/2234840/what-are-two-types-of-bluetooth/",
+      "summary": "You probably use Bluetooth regularly, but different accessories call for different types of Bluetooth.",
+      "publishedAt": "2026-08-17T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-two-types-of-bluetooth-and-what-are-they-used-for/l-intro-1786472325.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T13:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "summary": "Wispr’s total funding is now over $361 million.",
+      "publishedAt": "2026-08-17T13:10:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T13:10:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+      "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
+      "summary": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
+      "publishedAt": "2026-08-17T13:00:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/wrench-attacks-1367232137.jpg?resize=1200,801",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T13:00:19.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "HP Omnibook X  (2026) review: Nailing the basics",
+      "link": "https://www.engadget.com/2236997/hp-omnibook-x-2026-review/",
+      "summary": "The Omnibook X isn't flashy, but it still excels in almost every way.",
+      "publishedAt": "2026-08-17T13:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/hp-omnibook-x-2026-review-nailing-the-basics/l-intro-1786713949.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T13:00:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "What actually happens when you let apps track your activity?",
@@ -44,6 +128,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T11:01:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Satellite operators are in panic mode due to a worsening launch crisis",
+      "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+      "summary": "What happens if the Falcon rockets stop flying?",
+      "publishedAt": "2026-08-17T11:00:26.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T11:00:26.000Z"
     },
     {
       "source": "The Verge",
@@ -262,39 +357,6 @@
       "latestActivity": "2026-08-16T20:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Here's why retro games look better on old CRT TVs",
-      "link": "https://www.engadget.com/2236809/why-retro-games-look-better-old-crt-tv/",
-      "summary": "A Super Nintendo or PlayStation looked better on retro TVs than today's ultra-sharp displays, but why is there such a difference?",
-      "publishedAt": "2026-08-16T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-why-retro-games-look-better-on-old-crt-tvs/l-intro-1786659129.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T18:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "You might want to skip Newegg's GPU trade-in program",
-      "link": "https://www.engadget.com/2236808/might-want-to-skip-newegg-gpu-trade-in-program-reasons/",
-      "summary": "The program makes upgrading your hardware incredibly convenient, but weigh your options.",
-      "publishedAt": "2026-08-16T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/you-might-want-to-skip-neweggs-gpu-trade-in-program/l-intro-1786371309.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Amazon is trying to crush class action suits before they get started",
-      "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-      "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arb…",
-      "publishedAt": "2026-08-16T17:35:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T17:35:02.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -315,17 +377,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T16:04:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
-      "publishedAt": "2026-08-16T14:56:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T14:56:40.000Z"
     },
     {
       "source": "VentureBeat",
@@ -386,7 +437,7 @@
       "source": "Ars Technica",
       "title": "VisionQuest trailer kicks off Disney's D23 fan event",
       "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter.",
       "publishedAt": "2026-08-15T21:21:27.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/visionquest2-1152x648.jpg",
       "sourceCount": 1,
@@ -403,39 +454,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "publishedAt": "2026-08-15T18:58:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T18:58:39.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "publishedAt": "2026-08-15T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T16:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "publishedAt": "2026-08-15T16:10:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/broken-lock.jpg?resize=1200,823",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T16:10:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -491,28 +509,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-14T18:00:23.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "publishedAt": "2026-08-14T17:26:53.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T17:26:53.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-      "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-      "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
-      "publishedAt": "2026-08-14T17:13:14.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/kalshi-app-1152x648-1786725211.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T17:13:14.000Z"
     },
     {
       "source": "MIT Technology Review",
