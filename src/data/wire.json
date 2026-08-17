@@ -1,22 +1,55 @@
 {
-  "syncedAt": "2026-08-17T04:44:12.070Z",
+  "syncedAt": "2026-08-17T06:59:41.324Z",
   "items": [
     {
+      "source": "Engadget",
+      "title": "Another woman joins lawsuit accusing Grok of generating CSAM",
+      "link": "https://www.engadget.com/2237875/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/",
+      "summary": "A fourth party is pursuing legal action against xAI, alleging that Grok was used to create CSAM based on her childhood photos.",
+      "publishedAt": "2026-08-17T05:54:41.000Z",
+      "image": "https://www.engadget.com/img/gallery/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/l-intro-1786945799.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T05:54:41.000Z"
+    },
+    {
       "source": "Hacker News",
-      "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
-      "link": "https://boston.conman.org/2026/08/11.1",
-      "summary": "Article URL: https://boston.conman.org/2026/08/11.1\nComments URL: https://news.ycombinator.com/item?id=49326229\nPoints: 16\n# Comments: 14",
-      "publishedAt": "2026-08-17T03:21:37.000Z",
+      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+      "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+      "summary": "Article URL: https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted\nComments URL: https://news.ycombinator.com/item?id=49326825\nPoints: 18\n# Comments: 3",
+      "publishedAt": "2026-08-17T05:22:49.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!ciiL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5a893d5-44a1-4d3a-9a8f-3ebb6f5a07b1_1448x1086.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T05:22:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linear Algebra Done Right – Sheldon Axler",
+      "link": "https://linear.axler.net/",
+      "summary": "Article URL: https://linear.axler.net/\nComments URL: https://news.ycombinator.com/item?id=49326816\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-08-17T05:21:34.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-17T03:21:37.000Z"
+      "latestActivity": "2026-08-17T05:21:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+      "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+      "summary": "Article URL: https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5\nComments URL: https://news.ycombinator.com/item?id=49326071\nPoints: 9\n# Comments:…",
+      "publishedAt": "2026-08-17T02:55:20.000Z",
+      "image": "https://infoscience.epfl.ch/bitstreams/8fb36d13-2b5c-4e43-b656-8204491e490b/download",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T02:55:20.000Z"
     },
     {
       "source": "Hacker News",
       "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
       "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "summary": "Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=49325714\nPoints: 33\n# Comments: 4",
+      "summary": "Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=49325714\nPoints: 63\n# Comments: 8",
       "publishedAt": "2026-08-17T01:45:36.000Z",
       "image": null,
       "sourceCount": 1,
@@ -27,9 +60,9 @@
       "source": "Hacker News",
       "title": "Prolly: A content-addressed ordered map built on prolly trees",
       "link": "https://github.com/crabbuild/prolly",
-      "summary": "Article URL: https://github.com/crabbuild/prolly\nComments URL: https://news.ycombinator.com/item?id=49325458\nPoints: 13\n# Comments: 0",
+      "summary": "Article URL: https://github.com/crabbuild/prolly\nComments URL: https://news.ycombinator.com/item?id=49325458\nPoints: 26\n# Comments: 0",
       "publishedAt": "2026-08-17T01:00:45.000Z",
-      "image": "https://opengraph.githubassets.com/5704bdf36af2875b9a899bcb8f855161ab8d7e8709cfd16c9ff5a324a693762f/crabbuild/prolly",
+      "image": "https://opengraph.githubassets.com/1fdbe73c149ade9776c9c16730aa38fa64ed0b3dcc05ad100379044f72c22bb1/crabbuild/prolly",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T01:00:45.000Z"
@@ -38,7 +71,7 @@
       "source": "Hacker News",
       "title": "Rhombus 1.1 is now available",
       "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "summary": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\nComments URL: https://news.ycombinator.com/item?id=49325384\nPoints: 38\n# Comments: 13",
+      "summary": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\nComments URL: https://news.ycombinator.com/item?id=49325384\nPoints: 55\n# Comments: 19",
       "publishedAt": "2026-08-17T00:48:21.000Z",
       "image": null,
       "sourceCount": 1,
@@ -47,9 +80,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Applying a photosynthetic process to treat \"dry eye\"",
+      "title": "Applying a photosynthetic process to treat “dry eye”",
       "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-      "summary": "Article URL: https://www.science.org/content/blog-post/taking-tip-plants-eyes\nComments URL: https://news.ycombinator.com/item?id=49325304\nPoints: 14\n# Comments: 0",
+      "summary": "Article URL: https://www.science.org/content/blog-post/taking-tip-plants-eyes\nComments URL: https://news.ycombinator.com/item?id=49325304\nPoints: 36\n# Comments: 4",
       "publishedAt": "2026-08-17T00:35:29.000Z",
       "image": null,
       "sourceCount": 1,
@@ -60,34 +93,12 @@
       "source": "Hacker News",
       "title": "The Life and Death of Direct File [pdf]",
       "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "summary": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\nComments URL: https://news.ycombinator.com/item?id=49325185\nPoints: 126\n# Comments: 50",
+      "summary": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\nComments URL: https://news.ycombinator.com/item?id=49325185\nPoints: 169\n# Comments: 76",
       "publishedAt": "2026-08-17T00:17:57.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T00:17:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The federal keyword lists that canceled billions in research funding",
-      "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-      "summary": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/\nComments URL: https://news.ycombinator.com/item?i…",
-      "publishedAt": "2026-08-17T00:14:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T00:14:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reticulum – Decentralized Mesh Network",
-      "link": "https://reticulum.network/",
-      "summary": "Article URL: https://reticulum.network/\nComments URL: https://news.ycombinator.com/item?id=49325061\nPoints: 43\n# Comments: 11",
-      "publishedAt": "2026-08-16T23:59:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T23:59:10.000Z"
     },
     {
       "source": "The Verge",
@@ -253,17 +264,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-16T16:04:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What is the Retro app for and how do you use it?",
-      "link": "https://www.engadget.com/2234246/retro-app-what-is-it-how-to-use/",
-      "summary": "Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
-      "publishedAt": "2026-08-16T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-is-the-retro-app-for-and-how-do-you-use-it/l-intro-1786385235.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T15:30:00.000Z"
     },
     {
       "source": "The Verge",
