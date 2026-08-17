@@ -3,17 +3,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 <BaseLayout
   title="Reading List — The Duke Post"
-  description="Articles you've saved to read later. Saved on this device only."
+  description="Articles and Wire headlines you've saved to read later. Saved on this device only."
   noindex
 >
   <section class="wrap page">
     <h1>Reading List</h1>
-    <p class="intro">Articles you've saved with the bookmark button. Stored only in this browser — clearing your browser data clears this list too.</p>
+    <p class="intro">Articles and Wire headlines you've saved with the bookmark button. Stored only in this browser — clearing your browser data clears this list too.</p>
 
     <ul id="reading-list-items" class="list" hidden></ul>
     <div id="reading-list-empty" class="empty-state sticker" hidden>
       <p class="empty-state__title">Nothing saved yet</p>
-      <p class="empty-state__hint">Open an article and use the bookmark button in the share row to save it here. Or browse <a href="/articles">all articles</a>.</p>
+      <p class="empty-state__hint">Use the bookmark button on any article or Wire headline to save it here. Or browse <a href="/articles">all articles</a> and <a href="/wire">the Wire</a>.</p>
     </div>
 
     <button type="button" id="reading-list-clear" class="clear-btn" hidden>Clear reading list</button>
@@ -72,6 +72,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     const link = document.createElement('a');
     link.href = item.href;
+    if (/^https?:\/\//.test(item.href)) {
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+    }
     const h2 = document.createElement('h2');
     h2.textContent = item.title;
     link.appendChild(h2);

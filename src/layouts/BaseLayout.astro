@@ -227,7 +227,7 @@ const siteJsonLd = [
           nowSaved = true;
         }
         localStorage.setItem(STORAGE_KEY, JSON.stringify(list));
-        document.querySelectorAll('[data-save-toggle][data-save-slug="' + slug + '"]').forEach(function (el) {
+        document.querySelectorAll('[data-save-toggle][data-save-slug="' + CSS.escape(slug) + '"]').forEach(function (el) {
           setSaveState(el, nowSaved);
         });
         document.dispatchEvent(new CustomEvent('readinglist:change'));

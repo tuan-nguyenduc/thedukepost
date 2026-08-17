@@ -31,7 +31,7 @@ const syncedAt = new Date(wireData.syncedAt);
 const sourceList = Array.from(
   new Set(wireItems.flatMap((item) => [item.source, ...item.related.map((r) => r.source)]))
 ).sort();
-const clientItems = wireItems.map(({ source, title, link, summary, image, sourceCount, related }) => ({
+const clientItems = wireItems.map(({ source, title, link, summary, image, sourceCount, related, publishedAt }) => ({
   source,
   title,
   link,
@@ -39,6 +39,7 @@ const clientItems = wireItems.map(({ source, title, link, summary, image, source
   image,
   sourceCount,
   related,
+  publishedAt,
 }));
 
 const pageTitle = page.currentPage === 1
@@ -96,6 +97,23 @@ const pageTitle = page.currentPage === 1
                 ))}
               </p>
             )}
+            <button
+              type="button"
+              class="card__save"
+              data-save-toggle
+              data-save-slug={item.link}
+              data-save-title={item.title}
+              data-save-href={item.link}
+              data-save-description={item.summary}
+              data-save-image={item.image || ''}
+              data-save-category={item.source}
+              data-save-pub-date={item.publishedAt}
+              aria-pressed="false"
+              title="Save to reading list"
+              aria-label="Save to reading list"
+            >
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+            </button>
           </li>
         ))}
       </ul>
@@ -148,10 +166,19 @@ const pageTitle = page.currentPage === 1
     }
 
     interface WireRelated { source: string; title: string; link: string; publishedAt: string }
-    interface WireItem { source: string; title: string; link: string; summary: string; image: string | null; sourceCount: number; related: WireRelated[] }
+    interface WireItem { source: string; title: string; link: string; summary: string; image: string | null; sourceCount: number; related: WireRelated[]; publishedAt: string }
 
     function itemMatchesSource(item: WireItem, source: string): boolean {
       return item.source === source || item.related.some((r) => r.source === source);
+    }
+
+    function isSaved(slug: string): boolean {
+      try {
+        const list = JSON.parse(localStorage.getItem('reading-list') || '[]');
+        return Array.isArray(list) && list.some((saved: { slug: string }) => saved.slug === slug);
+      } catch {
+        return false;
+      }
     }
 
     function buildCard(item: WireItem) {
@@ -221,6 +248,26 @@ const pageTitle = page.currentPage === 1
         });
         li.appendChild(also);
       }
+
+      const saveBtn = document.createElement('button');
+      saveBtn.type = 'button';
+      saveBtn.className = 'card__save';
+      saveBtn.setAttribute('data-save-toggle', '');
+      saveBtn.dataset.saveSlug = item.link;
+      saveBtn.dataset.saveTitle = item.title;
+      saveBtn.dataset.saveHref = item.link;
+      saveBtn.dataset.saveDescription = item.summary;
+      saveBtn.dataset.saveImage = item.image || '';
+      saveBtn.dataset.saveCategory = item.source;
+      saveBtn.dataset.savePubDate = item.publishedAt;
+      const saved = isSaved(item.link);
+      saveBtn.classList.toggle('is-saved', saved);
+      saveBtn.setAttribute('aria-pressed', saved ? 'true' : 'false');
+      const saveLabel = saved ? 'Remove from reading list' : 'Save to reading list';
+      saveBtn.setAttribute('aria-label', saveLabel);
+      saveBtn.setAttribute('title', saveLabel);
+      saveBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>';
+      li.appendChild(saveBtn);
 
       return li;
     }
@@ -346,7 +393,7 @@ const pageTitle = page.currentPage === 1
   .chip--active { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
 
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
-  .list li { margin: 0; min-width: 0; }
+  .list li { position: relative; margin: 0; min-width: 0; }
   .list .card { padding: 24px; }
   .card { display: flex; gap: 20px; align-items: flex-start; min-width: 0; }
   .card__image {
@@ -380,6 +427,28 @@ const pageTitle = page.currentPage === 1
   }
   .also-covered a { color: var(--slate); border-bottom: 1px solid currentColor; }
   .also-covered a:hover { color: var(--ink); }
+
+  .card__save {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 2;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid var(--ink);
+    background: var(--paper);
+    color: var(--ink);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  .card__save svg { width: 16px; height: 16px; }
+  .card__save:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+  .card__save.is-saved { background: var(--signal); border-color: var(--signal); color: var(--ink-fixed); }
+  .card__save.is-saved svg { fill: currentColor; }
 
   .pager {
     margin-top: 48px;
