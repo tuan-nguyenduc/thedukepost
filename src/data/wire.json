@@ -1,6 +1,255 @@
 {
-  "syncedAt": "2026-08-17T16:29:57.536Z",
+  "syncedAt": "2026-08-17T18:42:34.382Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
+      "link": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
+      "summary": "Sonic Fire Protection raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
+      "publishedAt": "2026-08-17T18:32:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2208003026.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T18:32:27.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Sonos put speaker controls on your iPhone's lock screen (again)",
+      "link": "https://www.engadget.com/2238514/sonos-put-speaker-controls-on-your-iphone-lock-screen-again/",
+      "summary": "Sonos released an app update that takes advantage of Apple's Live Activities system.",
+      "publishedAt": "2026-08-17T18:30:48.000Z",
+      "image": "https://www.engadget.com/img/gallery/sonos-put-speaker-controls-on-your-iphones-lock-screen-again/l-intro-1786991342.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T18:30:48.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why curved TVs failed but curved gaming monitors thrived",
+      "link": "https://www.engadget.com/2237248/why-curved-tvs-failed-gaming-monitors-thrived/",
+      "summary": "Curved TVs walked so curved gaming monitors could run.",
+      "publishedAt": "2026-08-17T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-did-curved-tvs-fail-when-curved-gaming-monitors-thrived/l-intro-1786727389.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T18:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "publishedAt": "2026-08-17T16:38:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+          "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+          "publishedAt": "2026-08-17T18:13:47.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-17T18:13:47.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple is forced to stop favoring its own apps in personal data collection prompts",
+      "link": "https://www.engadget.com/2238496/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts/",
+      "summary": "A German competition authority said that Apple's data collection prompts favors its own apps versus third-party options.",
+      "publishedAt": "2026-08-17T18:12:36.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts/l-intro-1786990259.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T18:12:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "YouTube will now count a view as soon as a video starts playing",
+      "link": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
+      "summary": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
+      "publishedAt": "2026-08-17T18:09:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?resize=1200,631",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T18:09:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+      "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html\nComments URL: https://news.ycombinator.com/item?id=49335…",
+      "publishedAt": "2026-08-17T18:06:30.000Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T18:06:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
+      "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399\nComment…",
+      "publishedAt": "2026-08-17T17:52:37.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tpcMxmS65pozfyjCrFmyWZ-2560-80.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T17:52:37.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why 4K Blu-ray always beats 4K streaming for picture quality",
+      "link": "https://www.engadget.com/2237552/why-4k-blu-ray-better-quality-than-streaming/",
+      "summary": "If you're after the best picture quality, you'll always want to go with a disc.",
+      "publishedAt": "2026-08-17T17:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-4k-blu-ray-always-beats-4k-streaming-for-picture-quality/l-intro-1786636477.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T17:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b\nComments URL: https://news.ycombinator.com/item?id=49334544\nPoints: 44\n# Comments: 16",
+      "publishedAt": "2026-08-17T17:25:17.000Z",
+      "image": "https://artificialanalysis.ai/en/models/qwen3-8-27b/opengraph-image?76c5a1db7097b9e1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T17:25:17.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple is reportedly expanding Apple Wallet IDs to four more states",
+      "link": "https://www.engadget.com/2238436/apple-is-reportedly-expanding-apple-wallet-id-to-four-more-states/",
+      "summary": "North Carolina's DMV has confirmed plans for a mobile ID program that'll eventually support Apple Wallet.",
+      "publishedAt": "2026-08-17T17:22:15.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-expanding-apple-wallet-ids-to-four-more-states/l-intro-1786987176.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T17:22:15.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
+      "link": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
+      "summary": "A retrieval-augmented generation (RAG) system is built to answer strictly from the documents it retrieves. But when engineers optimize these AI pipelines end-to-end, the reader mod…",
+      "publishedAt": "2026-08-17T17:14:46.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3JU47HcWZul3CRNEQLwMus/780888ab62ab547d48a4d3bbfdeeff72/Faulty_AI_pipeline.jpg?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T17:14:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "YouTube is changing how it counts views to give the numbers a boost",
+      "link": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+      "summary": "YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on Augu…",
+      "publishedAt": "2026-08-17T17:13:03.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T17:13:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+      "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are addi…",
+      "publishedAt": "2026-08-17T17:10:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/feedly-news-hero.png?resize=1200,620",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T17:10:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Samsung might be making a new foldable that's even wider than the Galaxy Z Fold 8",
+      "link": "https://www.engadget.com/2238405/samsung-might-be-making-a-new-foldable-that-is-even-wider-than-the-galaxy-z-fold-8/",
+      "summary": "Samsung may have as many as five different foldable phones next year.",
+      "publishedAt": "2026-08-17T16:50:47.000Z",
+      "image": "https://www.engadget.com/img/gallery/samsung-might-be-making-a-new-foldable-thats-even-wider-than-the-galaxy-z-fold-8/l-intro-1786985225.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:50:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Buy Your Friends Batteries",
+      "link": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+      "summary": "Article URL: https://domenkozar.com/2026/08/17/buy-your-friends-batteries/\nComments URL: https://news.ycombinator.com/item?id=49333932\nPoints: 81\n# Comments: 86",
+      "publishedAt": "2026-08-17T16:45:11.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:45:11.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
+      "link": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
+      "summary": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection.\nHere's how they…",
+      "publishedAt": "2026-08-17T16:40:32.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/s_pdp_desktop.c84e4b0b9dd86d1c62db6f65038c90bd.png.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:40:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
+      "link": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+      "summary": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The…",
+      "publishedAt": "2026-08-17T16:38:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sonos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:38:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sun Clock",
+      "link": "https://sunclock.net/",
+      "summary": "Article URL: https://sunclock.net/\nComments URL: https://news.ycombinator.com/item?id=49333824\nPoints: 23\n# Comments: 12",
+      "publishedAt": "2026-08-17T16:37:54.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:37:54.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "ByteDance agrees to reel in its AI models to protect Hollywood IPs",
+      "link": "https://www.engadget.com/2238384/bytedance-agrees-to-reel-in-its-ai-models-to-protect-hollywood-ip/",
+      "summary": "TikTok's parent company signed a memorandum of understanding with The Motion Picture Association.",
+      "publishedAt": "2026-08-17T16:35:30.000Z",
+      "image": "https://www.engadget.com/img/gallery/bytedance-agrees-to-reel-in-its-ai-models-to-protect-hollywood-ips/l-intro-1786984432.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:35:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump’s dumb border wall",
+      "link": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
+      "summary": "A bulldozer plows through land during construction for a section of border wall near Santa Elena Canyon on August 14, 2026 in Big Bend National Park, Texas. | Photo: Brandon Bell v…",
+      "publishedAt": "2026-08-17T16:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2290533079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "If you're ignoring iPhone focus modes, you're missing out on Apple's best productivity tool",
+      "link": "https://www.engadget.com/2237551/iphone-focus-modes-better-productivity/",
+      "summary": "Go beyond Do Not Disturb: control what alerts you get and when instead of being overwhelmed with pings all the time.",
+      "publishedAt": "2026-08-17T16:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/if-youre-ignoring-iphone-focus-modes-youre-missing-out-on-apples-best-productivity-tool/l-intro-1786714731.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-17T16:30:00.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -25,14 +274,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
-      "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "summary": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/\nComments URL: https://news.ycombinator.com/it…",
-      "publishedAt": "2026-08-17T15:49:57.000Z",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/2678383b-f910-4164-833a-e287b5fed96e",
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "summary": "Article URL: https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/\nComments URL: https://news.ycombinator.com/item?id=49333344\nPoints: 18\n# Comme…",
+      "publishedAt": "2026-08-17T16:11:37.000Z",
+      "image": "https://current.org/wp-content/uploads/2026/08/Gavel-iStock-2248362348-e1786652801546.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-17T15:49:57.000Z"
+      "latestActivity": "2026-08-17T16:11:37.000Z"
     },
     {
       "source": "Hacker News",
@@ -46,61 +295,15 @@
       "latestActivity": "2026-08-17T15:36:18.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Uber adds Zipline drones to its Eats delivery network",
-      "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
-      "summary": "Uber is also making investing in Zipline a part of the tie-up.",
-      "publishedAt": "2026-08-17T13:18:49.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Uber partners with Zipline on Eats drone deliveries",
-          "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
-          "publishedAt": "2026-08-17T14:24:35.000Z"
-        },
-        {
-          "source": "Engadget",
-          "title": "Uber aims for 1 million daily drone deliveries with Zipline partnership",
-          "link": "https://www.engadget.com/2238260/uber-aims-for-1-million-daily-drone-deliveries-with-zipline-partnership/",
-          "publishedAt": "2026-08-17T15:34:27.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-17T15:34:27.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Is an iPhone 15 still worth your money in 2026?",
-      "link": "https://www.engadget.com/2235557/iphone-15-still-worth-money-in-2026/",
-      "summary": "Buying an older iPhone is a great way to save money while taking advantage of Apple's long support. But is the iPhone 15 too old to be worth it now?",
-      "publishedAt": "2026-08-17T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/is-an-iphone-15-still-worth-your-money-in-2026/l-intro-1786545446.jpg",
+      "source": "Hacker News",
+      "title": "Anthropic's War on open source AI",
+      "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186\nComments URL: https://news.ycombinator.com/item?id=49332564\nPoints: 88\n# Comments: 32",
+      "publishedAt": "2026-08-17T15:24:34.000Z",
+      "image": "https://pbs.twimg.com/media/HOGlnijXUAA-1oO.jpg:large",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-17T15:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "That Apple Screen Sharing bug has now been seen in the wild, so please update macOS",
-      "link": "https://www.engadget.com/2238240/apple-screen-sharing-bug-has-been-seen-in-the-wild-please-update-macos/",
-      "summary": "A bug in macOS screen sharing lets attackers view your screen, open files and do just about anything else they want.",
-      "publishedAt": "2026-08-17T15:25:28.000Z",
-      "image": "https://www.engadget.com/img/gallery/that-apple-screen-sharing-bug-has-now-been-seen-in-the-wild-so-please-update-macos/l-intro-1786980265.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T15:25:28.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "GitHub has been down for most of the morning",
-      "link": "https://www.engadget.com/2238231/github-has-been-down-for-most-of-the-morning/",
-      "summary": "If you hear lots of grumbling in coffee shops this morning, GitHub's outage may be why.",
-      "publishedAt": "2026-08-17T15:22:27.000Z",
-      "image": "https://www.engadget.com/img/gallery/github-has-been-down-for-most-of-the-morning/l-intro-1786980093.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T15:22:27.000Z"
+      "latestActivity": "2026-08-17T15:24:34.000Z"
     },
     {
       "source": "TechCrunch",
@@ -150,7 +353,7 @@
       "source": "TechCrunch",
       "title": "WordPress.com targets the next generation of web creators with a free student plan",
       "link": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
-      "summary": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
+      "summary": "WordPress.com Education lets teachers offer their students free domains, plug-in support, and professional website-building tools.",
       "publishedAt": "2026-08-17T14:56:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/wp-education_program-announcement_evergreen_blog.png?w=1176",
       "sourceCount": 1,
@@ -180,28 +383,6 @@
       "latestActivity": "2026-08-17T14:35:25.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-      "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
-      "summary": "Article URL: https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/\nComments URL: https://news.ycombinator…",
-      "publishedAt": "2026-08-17T14:30:09.000Z",
-      "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T14:30:09.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to get the best audio out of your PC",
-      "link": "https://www.engadget.com/2234969/how-to-get-best-audio-from-pc/",
-      "summary": "Just because you're listening to music on your laptop doesn't mean that you have to settle for its subpar speakers.",
-      "publishedAt": "2026-08-17T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-the-best-audio-out-of-your-pc/l-intro-1786478925.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T14:30:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "  How Heidi built production-ready AI for healthcare at global scale",
       "link": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
@@ -213,44 +394,15 @@
       "latestActivity": "2026-08-17T14:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
-      "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
-      "summary": "Article URL: https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu\nComments URL: https://news.ycombinator.com/item?id=49331607\nPoints: 32\n# Comments: 25",
-      "publishedAt": "2026-08-17T14:29:18.000Z",
-      "image": "https://piszczek.pl/og-image.png",
+      "source": "The Verge",
+      "title": "Uber partners with Zipline on Eats drone deliveries",
+      "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
+      "summary": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching one million daily drone deliveries by 2029.\nUber also…",
+      "publishedAt": "2026-08-17T14:24:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ulta-image-final-updated.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-17T14:29:18.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Meet the only known trebuchet casualty in history",
-      "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-      "publishedAt": "2026-08-17T13:41:35.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "The only known trebuchet casualty in history",
-          "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-          "publishedAt": "2026-08-17T14:26:19.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-17T14:26:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
-      "link": "https://saggar.marginalutility.dev/",
-      "summary": "Hi HN, like many of you talented folk, I’ve been building more, faster than ever. I built Saggar after my terminal stopped feeling like a tool and started feeling like a tab-manage…",
-      "publishedAt": "2026-08-17T14:25:54.000Z",
-      "image": "https://saggar.marginalutility.dev/opengraph-image?a4837e7da74a8caf",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T14:25:54.000Z"
+      "latestActivity": "2026-08-17T14:24:35.000Z"
     },
     {
       "source": "Ars Technica",
@@ -264,28 +416,6 @@
       "latestActivity": "2026-08-17T14:22:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "How to put 170 atoms in an atom",
-      "link": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-      "summary": "Article URL: https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/\nComments URL: https://news.ycombinator.com/item?id=49331474\nPoints: 40\n# Comments: 4",
-      "publishedAt": "2026-08-17T14:21:25.000Z",
-      "image": "https://signoregalilei.com/wp-content/uploads/2026/08/Rydberg_Polaron_schematic.svg_.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T14:21:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\nComments URL: https://news.ycombinator.com/item?id=49331423\nPoints: 96\n# Comments: 43",
-      "publishedAt": "2026-08-17T14:18:38.000Z",
-      "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T14:18:38.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "It’s about ethics in journalism, with Ben Smith",
       "link": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
@@ -297,59 +427,15 @@
       "latestActivity": "2026-08-17T14:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Meta faces a $1.4 trillion reckoning in latest trial over social media addiction",
-      "link": "https://www.engadget.com/2237547/meta-faces-a-1-4-trillion-reckoning-in-latest-trial-over-social-media-addiction/",
-      "summary": "Dozens of states accuse the company of violating the Children's Online Privacy Protection Act.",
-      "publishedAt": "2026-08-17T14:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/meta-faces-a-1-4-trillion-reckoning-in-latest-trial-over-social-media-addiction/l-intro-1786748024.jpg",
+      "source": "Ars Technica",
+      "title": "Meet the only known trebuchet casualty in history",
+      "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+      "publishedAt": "2026-08-17T13:41:35.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-17T14:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What are the two types of Bluetooth and what are they used for?",
-      "link": "https://www.engadget.com/2234840/what-are-two-types-of-bluetooth/",
-      "summary": "You probably use Bluetooth regularly, but different accessories call for different types of Bluetooth.",
-      "publishedAt": "2026-08-17T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-are-the-two-types-of-bluetooth-and-what-are-they-used-for/l-intro-1786472325.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T13:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "summary": "Wispr’s total funding is now over $361 million.",
-      "publishedAt": "2026-08-17T13:10:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T13:10:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
-      "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
-      "summary": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
-      "publishedAt": "2026-08-17T13:00:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/wrench-attacks-1367232137.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T13:00:19.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "HP Omnibook X  (2026) review: Nailing the basics",
-      "link": "https://www.engadget.com/2236997/hp-omnibook-x-2026-review/",
-      "summary": "The Omnibook X isn't flashy, but it still excels in almost every way.",
-      "publishedAt": "2026-08-17T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/hp-omnibook-x-2026-review-nailing-the-basics/l-intro-1786713949.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T13:00:00.000Z"
+      "latestActivity": "2026-08-17T13:41:35.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -394,39 +480,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T11:00:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "How to take better photos of your pets",
-      "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
-      "summary": "Meet Noodle and Loaf, aka Carb Cats. | Image: The Verge, Getty Images\t\n\nLike the pets of any self-respecting millennial, my cats have their own Instagram account.\nNoodle and Loaf -…",
-      "publishedAt": "2026-08-17T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PHOTOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? H…",
-      "publishedAt": "2026-08-17T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announ…",
-      "publishedAt": "2026-08-17T10:57:13.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T10:57:13.000Z"
     },
     {
       "source": "Wired",
@@ -493,28 +546,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T09:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "I’m hooked on Peak Design’s new City bags",
-      "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
-      "summary": "Integrated BagLev hooks keep Peak Design’s City Line crossbody bag and backpack off the dirty ground. | Photo by Thomas Ricker / The Verge\t\n\nIt's just a hook, sewn into a bag, but…",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3791.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T07:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "publishedAt": "2026-08-16T20:57:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-16T20:57:04.000Z"
     },
     {
       "source": "VentureBeat",
@@ -603,28 +634,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-15T15:46:05.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "So much solar: Digging into the list of every US power plant that went online this year",
-      "link": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
-      "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
-      "publishedAt": "2026-08-15T11:09:57.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-15T11:09:57.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-      "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
-      "summary": "Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains…",
-      "publishedAt": "2026-08-14T22:56:16.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4SSp8seVDFTXUdtXn6Rgyr/dfd61c47834cf5cb947b8f5ecbe249f0/ChatGPT_Image_Aug_14__2026__05_51_59_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-14T22:56:16.000Z"
     },
     {
       "source": "MIT Technology Review",
