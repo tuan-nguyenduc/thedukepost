@@ -1,6 +1,112 @@
 {
-  "syncedAt": "2026-08-18T20:26:38.119Z",
+  "syncedAt": "2026-08-18T22:25:56.728Z",
   "items": [
+    {
+      "source": "VentureBeat",
+      "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
+      "link": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+      "summary": "Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became…",
+      "publishedAt": "2026-08-17T22:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4qCA3ZtFHPDPOHLAARm3GB/9275afdc025cd43d590d423e33077115/Nuneybits_Vector_art_of_giant_mouse_cursor_hovering_above_Curso_165725af-7158-4a5d-9aad-39c1a127829e.webp?w=300&q=30",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+          "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "publishedAt": "2026-08-18T22:14:25.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-18T22:14:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "link": "https://github.com/DenisSergeevitch/desktop-fly",
+      "summary": "Article URL: https://github.com/DenisSergeevitch/desktop-fly\nComments URL: https://news.ycombinator.com/item?id=49353221\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-08-18T21:50:33.000Z",
+      "image": "https://opengraph.githubassets.com/d1509f195b5ccd0eb9a390f4581b1ae3ac8cf69e9f39fbad2adedb062cf5dc6a/DenisSergeevitch/desktop-fly",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T21:50:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Flock impersonates journalist in order to cancel his hotel reservations",
+      "link": "https://xcancel.com/bennjordan/status/2089430236945342508",
+      "summary": "Article URL: https://xcancel.com/bennjordan/status/2089430236945342508\nComments URL: https://news.ycombinator.com/item?id=49353181\nPoints: 24\n# Comments: 9",
+      "publishedAt": "2026-08-18T21:48:12.000Z",
+      "image": "https://pbs.twimg.com/media/HP8jv3XWYAAoDQH.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T21:48:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "summary": "Article URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver\nComments URL: https://news.ycombinator.com/item?id=49352806\nPoints: 57\n# Comments: 31",
+      "publishedAt": "2026-08-18T21:14:21.000Z",
+      "image": "https://cdn.kuber.studio/chat/og-hp-laser-1008a.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T21:14:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Companies promote incompetent employees to management tolimit damage they can do",
+      "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+      "summary": "Article URL: https://lawsofsoftwareengineering.com/laws/dilbert-principle/\nComments URL: https://news.ycombinator.com/item?id=49352794\nPoints: 27\n# Comments: 14",
+      "publishedAt": "2026-08-18T21:13:30.000Z",
+      "image": "https://lawsofsoftwareengineering.com/og/dilbert-principle.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T21:13:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Find Chicago Parking Cops",
+      "link": "https://www.secondcitycitation.com",
+      "summary": "Article URL: https://www.secondcitycitation.com\nComments URL: https://news.ycombinator.com/item?id=49352737\nPoints: 8\n# Comments: 5",
+      "publishedAt": "2026-08-18T21:08:40.000Z",
+      "image": "http://localhost:3000/image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T21:08:40.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "publishedAt": "2026-08-18T20:36:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T20:36:20.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to check your iPhone's battery health and cycle count",
+      "link": "https://www.engadget.com/2238802/how-to-check-your-iphones-battery-health-and-cycle-count/",
+      "summary": "How to check your iPhone's battery health and cycle count.",
+      "publishedAt": "2026-08-18T20:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-check-your-iphones-battery-health-and-cycle-count/l-intro-1786561587.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T20:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "GTA 6 gameplay leaked ahead of its new trailer, and Rockstar is taking down the videos",
+      "link": "https://www.engadget.com/2239548/gta-6-gameplay-leak-august-2026/",
+      "summary": "Two legit-seeming clips and a world map are out there, if you know where to look.",
+      "publishedAt": "2026-08-18T20:29:54.000Z",
+      "image": "https://www.engadget.com/img/gallery/gta-6-gameplay-leaked-ahead-of-its-new-trailer-and-rockstar-is-taking-down-the-videos/l-intro-1787084868.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T20:29:54.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Things I learned about the rumored HomePod display from macOS beta code",
@@ -14,7 +120,7 @@
     },
     {
       "source": "Wired",
-      "title": "Squeeze More Juice Out of a Dead Battery!",
+      "title": "Squeeze More Juice Out of Your Dead Batteries—Using Physics",
       "link": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
       "summary": "How the joule thief circuit “steals” energy from seemingly depleted power cells.",
       "publishedAt": "2026-08-18T20:11:03.000Z",
@@ -82,7 +188,7 @@
       "source": "Hacker News",
       "title": "Norway Should Buy OpenAI",
       "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "summary": "Article URL: https://www.onethousandmeans.com/p/norway-should-buy-openai\nComments URL: https://news.ycombinator.com/item?id=49351330\nPoints: 96\n# Comments: 88",
+      "summary": "Article URL: https://www.onethousandmeans.com/p/norway-should-buy-openai\nComments URL: https://news.ycombinator.com/item?id=49351330\nPoints: 171\n# Comments: 199",
       "publishedAt": "2026-08-18T19:30:29.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg",
       "sourceCount": 1,
@@ -93,7 +199,7 @@
       "source": "Hacker News",
       "title": "Beware Management Consultants",
       "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "summary": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/\nComments URL: https://news.ycombinator.com/item?id=49351324\nPoints: 37\n# Comments: 1…",
+      "summary": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/\nComments URL: https://news.ycombinator.com/item?id=49351324\nPoints: 358\n# Comments:…",
       "publishedAt": "2026-08-18T19:29:51.000Z",
       "image": null,
       "sourceCount": 1,
@@ -120,25 +226,25 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
-      "link": "https://github.com/argus-testing/argus",
-      "summary": "Article URL: https://github.com/argus-testing/argus\nComments URL: https://news.ycombinator.com/item?id=49351020\nPoints: 7\n# Comments: 3",
-      "publishedAt": "2026-08-18T19:10:16.000Z",
-      "image": "https://opengraph.githubassets.com/cbd4a0aee96d141ad6ee04d3aa2c83f605cc447fbb731acdac750ab26129df99/argus-testing/argus",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T19:10:16.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
       "link": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
-      "summary": "Article URL: https://burgeonlab.com/blog/inaugural-hwc-ap-recap/\nComments URL: https://news.ycombinator.com/item?id=49350980\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://burgeonlab.com/blog/inaugural-hwc-ap-recap/\nComments URL: https://news.ycombinator.com/item?id=49350980\nPoints: 8\n# Comments: 0",
       "publishedAt": "2026-08-18T19:07:47.000Z",
       "image": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/og_img_038.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T19:07:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+      "link": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+      "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+      "publishedAt": "2026-08-18T19:01:09.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ship40_2-1152x648-1787078981.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T19:01:09.000Z"
     },
     {
       "source": "Engadget",
@@ -150,17 +256,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T18:56:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-      "link": "https://pantheongpu.com/",
-      "summary": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should?\nA GPU can show normal temperatu…",
-      "publishedAt": "2026-08-18T18:47:51.000Z",
-      "image": "https://pantheongpu.com/assets/logo.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T18:47:51.000Z"
     },
     {
       "source": "Wired",
@@ -190,7 +285,7 @@
       "link": "https://www.engadget.com/2239388/gmail-verification-program-lets-political-campaigns-escape-its-spam-filter/",
       "summary": "Gmail verification program lets political campaigns escape its spam filter.",
       "publishedAt": "2026-08-18T18:33:22.000Z",
-      "image": "https://www.engadget.com/img/gallery/gmail-verification-program-lets-political-campaigns-escape-its-spam-filter/l-intro-1787077946.jpg",
+      "image": "https://www.engadget.com/img/gallery/gmail-verification-program-lets-political-campaigns-escape-its-spam-filter/l-intro-1787087813.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T18:33:22.000Z"
@@ -207,59 +302,15 @@
       "latestActivity": "2026-08-18T18:33:11.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "No charger, no problem: The best ways to charge your phone away from an outlet",
-      "link": "https://www.engadget.com/2237259/best-ways-charge-phone-away-from-outlet-no-charger/",
-      "summary": "You don't need your phone charger to keep your device topped up, as long as you have a USB cable and something to plug it into.",
-      "publishedAt": "2026-08-18T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/no-charger-no-problem-the-best-ways-to-charge-your-phone-away-from-an-outlet/l-intro-1786725923.jpg",
+      "source": "Ars Technica",
+      "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+      "link": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+      "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+      "publishedAt": "2026-08-18T18:11:26.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-18T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "summary": "Article URL: https://openai.com/index/pacing-model-development-cyber-capabilities/\nComments URL: https://news.ycombinator.com/item?id=49350031\nPoints: 23\n# Comments: 4",
-      "publishedAt": "2026-08-18T18:14:59.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T18:14:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "How does IKEA come up with names for its products?",
-      "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "summary": "Article URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html\nComments URL: https://news.ycombinator.com/item?id=49349984\nPo…",
-      "publishedAt": "2026-08-18T18:11:53.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T18:11:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "link": "https://github.com/RyanCodrai/turbovec",
-      "summary": "Article URL: https://github.com/RyanCodrai/turbovec\nComments URL: https://news.ycombinator.com/item?id=49349898\nPoints: 110\n# Comments: 14",
-      "publishedAt": "2026-08-18T18:07:21.000Z",
-      "image": "https://repository-images.githubusercontent.com/1192555574/000b661c-3519-42a5-9609-d5051c50c2f0",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T18:07:21.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Whoop's Advanced Labs health screenings will no longer require a subscription",
-      "link": "https://www.engadget.com/2239336/whoops-advanced-labs-health-screenings-will-no-longer-require-a-subscription/",
-      "summary": "Whoop's Advanced Labs health screenings will no longer require a subscription.",
-      "publishedAt": "2026-08-18T17:55:23.000Z",
-      "image": "https://www.engadget.com/img/gallery/whoops-advanced-labs-health-screenings-will-no-longer-require-a-subscription/l-intro-1787075641.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T17:55:23.000Z"
+      "latestActivity": "2026-08-18T18:11:26.000Z"
     },
     {
       "source": "The Verge",
@@ -368,37 +419,22 @@
       "latestActivity": "2026-08-18T16:26:29.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "publishedAt": "2026-08-18T16:19:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T16:19:10.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Fairphone's latest repairable phone is finally available in the US for $650",
-      "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
-      "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
-      "publishedAt": "2026-08-18T16:05:00.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Fairphone-6-plus-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
+      "source": "Wired",
+      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+      "summary": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+      "publishedAt": "2026-08-18T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a834ef61807e061ff4c4b86/191:100/w_1280,c_limit/Fairphone-Gen-6-Julian-Chokkattu-Gear.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "Fairphone's latest repairable phone is finally available in the US for $650",
+          "link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
+          "publishedAt": "2026-08-18T16:05:00.000Z"
+        }
+      ],
       "latestActivity": "2026-08-18T16:05:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Bluesky says its recent outage was caused by another DDoS attack",
-      "link": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
-      "summary": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
-      "publishedAt": "2026-08-18T15:59:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T15:59:48.000Z"
     },
     {
       "source": "Ars Technica",
@@ -489,17 +525,6 @@
       "latestActivity": "2026-08-18T14:11:39.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "publishedAt": "2026-08-18T13:00:04.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T13:00:04.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Can the Upcoming ‘Expanse’ Game Avoid the Biggest Mistake of ‘Mass Effect’?",
       "link": "https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/",
@@ -544,28 +569,6 @@
       "latestActivity": "2026-08-18T11:08:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-      "link": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-      "summary": "Research shows heat amplifies the dangers of pesticides.",
-      "publishedAt": "2026-08-18T11:07:49.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2219172919-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T11:07:49.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
-      "summary": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
-      "publishedAt": "2026-08-18T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a834c04b090060b28185af1/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Andy-Yen-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T10:30:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "We still don’t know how people are really using AI",
       "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -608,17 +611,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T00:06:53.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
-      "link": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
-      "summary": "Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became…",
-      "publishedAt": "2026-08-17T22:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4qCA3ZtFHPDPOHLAARm3GB/9275afdc025cd43d590d423e33077115/Nuneybits_Vector_art_of_giant_mouse_cursor_hovering_above_Curso_165725af-7158-4a5d-9aad-39c1a127829e.webp?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T22:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
