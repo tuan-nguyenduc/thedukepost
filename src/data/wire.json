@@ -1,38 +1,104 @@
 {
-  "syncedAt": "2026-08-19T01:22:03.446Z",
+  "syncedAt": "2026-08-19T02:59:35.711Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
-      "link": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
-      "summary": "Article URL: https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/\nComments URL: https://news.ycombinator.com/item?id=49354778\nPoints: 3\n# Comm…",
-      "publishedAt": "2026-08-19T00:11:35.000Z",
-      "image": "https://konstantintkachuk.com/images/og-default.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T00:11:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "link": "https://modelmap.cc",
-      "summary": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 24\n# Comments: 1",
-      "publishedAt": "2026-08-18T23:57:36.000Z",
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "summary": "Article URL: https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco\nComments URL: https://news.ycombinator.com/item?id=49355825\nPoints…",
+      "publishedAt": "2026-08-19T02:24:34.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-18T23:57:36.000Z"
+      "latestActivity": "2026-08-19T02:24:34.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+      "link": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+      "summary": "After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source la…",
+      "publishedAt": "2026-08-19T02:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/16anNQpfgOFlIDLBYTmOtA/ab9d2c337e6fc6333fb7f26efb1693cd/ChatGPT_Image_Aug_18__2026__09_59_34_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T02:00:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Solo – a .so loader for static Linux binaries",
-      "link": "https://github.com/pg83/solo",
-      "summary": "Article URL: https://github.com/pg83/solo\nComments URL: https://news.ycombinator.com/item?id=49354613\nPoints: 22\n# Comments: 20",
-      "publishedAt": "2026-08-18T23:51:49.000Z",
-      "image": "https://opengraph.githubassets.com/c0b0e07e5a2b5b4307fc93bcec5acc924031bceef7a1b36ff8569e5e5667162a/pg83/solo",
+      "title": "OpenLogi",
+      "link": "https://openlogi.org/en",
+      "summary": "Article URL: https://openlogi.org/en\nComments URL: https://news.ycombinator.com/item?id=49355606\nPoints: 5\n# Comments: 1",
+      "publishedAt": "2026-08-19T01:58:28.000Z",
+      "image": "https://openlogi.org/social-preview.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-18T23:51:49.000Z"
+      "latestActivity": "2026-08-19T01:58:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Integer",
+      "link": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+      "summary": "Article URL: https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b\nComments URL: https://news.ycombinator.com/item?id=49355368\nPoints: 17\n# Comments: 2",
+      "publishedAt": "2026-08-19T01:23:45.000Z",
+      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T01:23:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
+      "link": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+      "summary": "Article URL: https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/\nComments URL: https://news.ycombinator.com/item?id=49355360\nPoints:…",
+      "publishedAt": "2026-08-19T01:22:45.000Z",
+      "image": "https://s26162.pcdn.co/wp-content/uploads/2026/08/parentheses.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T01:22:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tiny satellite will use the dark side of the Moon as a shield",
+      "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
+      "summary": "Article URL: https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe\nComments URL: https://news.ycomb…",
+      "publishedAt": "2026-08-19T01:06:03.000Z",
+      "image": "https://www.cam.ac.ukCosmoCube CREDIT Surrey Space Technology Ltd.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T01:06:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+      "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "summary": "Article URL: https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf\nComments URL: https://news.ycombinator.com/item?id=49355142\nPoints: 156\n# Comments: 72",
+      "publishedAt": "2026-08-19T00:53:51.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T00:53:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c1l1r1zne1ro\nComments URL: https://news.ycombinator.com/item?id=49355105\nPoints: 37\n# Comments: 14",
+      "publishedAt": "2026-08-19T00:48:23.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T00:48:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cerebras CS-4",
+      "link": "https://www.cerebras.ai/cs4",
+      "summary": "Article URL: https://www.cerebras.ai/cs4\nComments URL: https://news.ycombinator.com/item?id=49354949\nPoints: 89\n# Comments: 61",
+      "publishedAt": "2026-08-19T00:28:18.000Z",
+      "image": "https://cdn.sanity.io/images/e4qjo92p/production/21fa43f6d541115e57887beb1155bddc7541ae71-2400x1260.jpg?w=1200&h=630&fit=max&auto=format",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T00:28:18.000Z"
     },
     {
       "source": "VentureBeat",
@@ -57,17 +123,6 @@
       "latestActivity": "2026-08-18T22:57:32.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The 90-year history of the binoculars bolted to scenic overlooks",
-      "link": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
-      "summary": "Article URL: https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/\nComments URL: https://news.ycombinator.com/item?id=49353854\nPoints: 14…",
-      "publishedAt": "2026-08-18T22:43:06.000Z",
-      "image": "https://www.dpreview.com/wp-content/uploads/2026/08/Our-Products-16x9-Lead-1-e1787080879171.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T22:43:06.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Framework's cheapest laptop just got a major spec bump",
       "link": "https://www.engadget.com/2239631/framework-laptop-12-just-got-a-major-spec-bump/",
@@ -88,17 +143,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T22:32:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Programmable Property-Based Testing",
-      "link": "https://dl.acm.org/doi/10.1145/3828685",
-      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3828685\nComments URL: https://news.ycombinator.com/item?id=49353618\nPoints: 13\n# Comments: 1",
-      "publishedAt": "2026-08-18T22:22:41.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T22:22:41.000Z"
     },
     {
       "source": "Ars Technica",
@@ -128,39 +172,6 @@
         }
       ],
       "latestActivity": "2026-08-18T22:14:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI usage patterns in software teams",
-      "link": "https://linear.app/data",
-      "summary": "Article URL: https://linear.app/data\nComments URL: https://news.ycombinator.com/item?id=49353432\nPoints: 30\n# Comments: 17",
-      "publishedAt": "2026-08-18T22:08:07.000Z",
-      "image": "https://linear.app/static/og/data-v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T22:08:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "link": "https://artificialanalysis.ai/models/glm-5-3",
-      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3\nComments URL: https://news.ycombinator.com/item?id=49353407\nPoints: 69\n# Comments: 32",
-      "publishedAt": "2026-08-18T22:06:10.000Z",
-      "image": "https://artificialanalysis.ai/en/models/glm-5-3/opengraph-image?76c5a1db7097b9e1",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T22:06:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "link": "https://github.com/DenisSergeevitch/desktop-fly",
-      "summary": "Article URL: https://github.com/DenisSergeevitch/desktop-fly\nComments URL: https://news.ycombinator.com/item?id=49353221\nPoints: 127\n# Comments: 30",
-      "publishedAt": "2026-08-18T21:50:33.000Z",
-      "image": "https://opengraph.githubassets.com/4364c54e85ac0d191eda8c3e5c38c571713ef226ececdbfa78b32aceeda3becf/DenisSergeevitch/desktop-fly",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T21:50:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -633,17 +644,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T19:16:09.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
-      "link": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
-      "summary": "A retrieval-augmented generation (RAG) system is built to answer strictly from the documents it retrieves. But when engineers optimize these AI pipelines end-to-end, the reader mod…",
-      "publishedAt": "2026-08-17T17:14:46.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3JU47HcWZul3CRNEQLwMus/780888ab62ab547d48a4d3bbfdeeff72/Faulty_AI_pipeline.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T17:14:46.000Z"
     },
     {
       "source": "MIT Technology Review",
