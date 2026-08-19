@@ -1,6 +1,116 @@
 {
-  "syncedAt": "2026-08-18T22:25:56.728Z",
+  "syncedAt": "2026-08-19T01:22:03.446Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
+      "link": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+      "summary": "Article URL: https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/\nComments URL: https://news.ycombinator.com/item?id=49354778\nPoints: 3\n# Comm…",
+      "publishedAt": "2026-08-19T00:11:35.000Z",
+      "image": "https://konstantintkachuk.com/images/og-default.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T00:11:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "link": "https://modelmap.cc",
+      "summary": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 24\n# Comments: 1",
+      "publishedAt": "2026-08-18T23:57:36.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T23:57:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Solo – a .so loader for static Linux binaries",
+      "link": "https://github.com/pg83/solo",
+      "summary": "Article URL: https://github.com/pg83/solo\nComments URL: https://news.ycombinator.com/item?id=49354613\nPoints: 22\n# Comments: 20",
+      "publishedAt": "2026-08-18T23:51:49.000Z",
+      "image": "https://opengraph.githubassets.com/c0b0e07e5a2b5b4307fc93bcec5acc924031bceef7a1b36ff8569e5e5667162a/pg83/solo",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T23:51:49.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+      "link": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+      "summary": "Block, the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal, is open-sourcing Berd, a desktop applicati…",
+      "publishedAt": "2026-08-18T23:23:22.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T23:23:22.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "ICE agents can't wear Meta glasses while they work, official memo warns",
+      "link": "https://www.engadget.com/2239642/ice-agents-can-t-wear-meta-glasses-while-they-work-official-memo-warns/",
+      "summary": "Smart glasses have become a recurring accessory amid the immigration crackdown.",
+      "publishedAt": "2026-08-18T22:57:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/ice-agents-can-t-wear-meta-glasses-while-they-work-official-memo-warns/l-intro-1787094483.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T22:57:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+      "link": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+      "summary": "Article URL: https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/\nComments URL: https://news.ycombinator.com/item?id=49353854\nPoints: 14…",
+      "publishedAt": "2026-08-18T22:43:06.000Z",
+      "image": "https://www.dpreview.com/wp-content/uploads/2026/08/Our-Products-16x9-Lead-1-e1787080879171.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T22:43:06.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Framework's cheapest laptop just got a major spec bump",
+      "link": "https://www.engadget.com/2239631/framework-laptop-12-just-got-a-major-spec-bump/",
+      "summary": "The Framework Laptop 12 now ships with Intel's Core Series 3 chips and other hardware upgrades.",
+      "publishedAt": "2026-08-18T22:33:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/frameworks-cheapest-laptop-just-got-a-major-spec-bump/l-intro-1787092352.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T22:33:32.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+      "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+      "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
+      "publishedAt": "2026-08-18T22:32:46.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T22:32:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Programmable Property-Based Testing",
+      "link": "https://dl.acm.org/doi/10.1145/3828685",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3828685\nComments URL: https://news.ycombinator.com/item?id=49353618\nPoints: 13\n# Comments: 1",
+      "publishedAt": "2026-08-18T22:22:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T22:22:41.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+      "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
+      "publishedAt": "2026-08-18T22:18:13.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.13.55-PM-1152x648.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T22:18:13.000Z"
+    },
     {
       "source": "VentureBeat",
       "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
@@ -12,7 +122,7 @@
       "related": [
         {
           "source": "TechCrunch",
-          "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
           "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
           "publishedAt": "2026-08-18T22:14:25.000Z"
         }
@@ -21,58 +131,36 @@
     },
     {
       "source": "Hacker News",
+      "title": "AI usage patterns in software teams",
+      "link": "https://linear.app/data",
+      "summary": "Article URL: https://linear.app/data\nComments URL: https://news.ycombinator.com/item?id=49353432\nPoints: 30\n# Comments: 17",
+      "publishedAt": "2026-08-18T22:08:07.000Z",
+      "image": "https://linear.app/static/og/data-v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T22:08:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "link": "https://artificialanalysis.ai/models/glm-5-3",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3\nComments URL: https://news.ycombinator.com/item?id=49353407\nPoints: 69\n# Comments: 32",
+      "publishedAt": "2026-08-18T22:06:10.000Z",
+      "image": "https://artificialanalysis.ai/en/models/glm-5-3/opengraph-image?76c5a1db7097b9e1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-18T22:06:10.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "link": "https://github.com/DenisSergeevitch/desktop-fly",
-      "summary": "Article URL: https://github.com/DenisSergeevitch/desktop-fly\nComments URL: https://news.ycombinator.com/item?id=49353221\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://github.com/DenisSergeevitch/desktop-fly\nComments URL: https://news.ycombinator.com/item?id=49353221\nPoints: 127\n# Comments: 30",
       "publishedAt": "2026-08-18T21:50:33.000Z",
-      "image": "https://opengraph.githubassets.com/d1509f195b5ccd0eb9a390f4581b1ae3ac8cf69e9f39fbad2adedb062cf5dc6a/DenisSergeevitch/desktop-fly",
+      "image": "https://opengraph.githubassets.com/4364c54e85ac0d191eda8c3e5c38c571713ef226ececdbfa78b32aceeda3becf/DenisSergeevitch/desktop-fly",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T21:50:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Flock impersonates journalist in order to cancel his hotel reservations",
-      "link": "https://xcancel.com/bennjordan/status/2089430236945342508",
-      "summary": "Article URL: https://xcancel.com/bennjordan/status/2089430236945342508\nComments URL: https://news.ycombinator.com/item?id=49353181\nPoints: 24\n# Comments: 9",
-      "publishedAt": "2026-08-18T21:48:12.000Z",
-      "image": "https://pbs.twimg.com/media/HP8jv3XWYAAoDQH.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T21:48:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "summary": "Article URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver\nComments URL: https://news.ycombinator.com/item?id=49352806\nPoints: 57\n# Comments: 31",
-      "publishedAt": "2026-08-18T21:14:21.000Z",
-      "image": "https://cdn.kuber.studio/chat/og-hp-laser-1008a.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T21:14:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Companies promote incompetent employees to management tolimit damage they can do",
-      "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-      "summary": "Article URL: https://lawsofsoftwareengineering.com/laws/dilbert-principle/\nComments URL: https://news.ycombinator.com/item?id=49352794\nPoints: 27\n# Comments: 14",
-      "publishedAt": "2026-08-18T21:13:30.000Z",
-      "image": "https://lawsofsoftwareengineering.com/og/dilbert-principle.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T21:13:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Find Chicago Parking Cops",
-      "link": "https://www.secondcitycitation.com",
-      "summary": "Article URL: https://www.secondcitycitation.com\nComments URL: https://news.ycombinator.com/item?id=49352737\nPoints: 8\n# Comments: 5",
-      "publishedAt": "2026-08-18T21:08:40.000Z",
-      "image": "http://localhost:3000/image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T21:08:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -185,28 +273,6 @@
       "latestActivity": "2026-08-18T19:33:35.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Norway Should Buy OpenAI",
-      "link": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "summary": "Article URL: https://www.onethousandmeans.com/p/norway-should-buy-openai\nComments URL: https://news.ycombinator.com/item?id=49351330\nPoints: 171\n# Comments: 199",
-      "publishedAt": "2026-08-18T19:30:29.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T19:30:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Beware Management Consultants",
-      "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "summary": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/\nComments URL: https://news.ycombinator.com/item?id=49351324\nPoints: 358\n# Comments:…",
-      "publishedAt": "2026-08-18T19:29:51.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T19:29:51.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -223,17 +289,6 @@
         }
       ],
       "latestActivity": "2026-08-18T19:28:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
-      "link": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
-      "summary": "Article URL: https://burgeonlab.com/blog/inaugural-hwc-ap-recap/\nComments URL: https://news.ycombinator.com/item?id=49350980\nPoints: 8\n# Comments: 0",
-      "publishedAt": "2026-08-18T19:07:47.000Z",
-      "image": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/og_img_038.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T19:07:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -267,28 +322,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T18:42:17.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "NVIDIA GeForce Now adds Firefox support on Windows",
-      "link": "https://www.engadget.com/2239392/nvidia-geforce-now-adds-firefox-support-on-windows/",
-      "summary": "NVIDIA GeForce Now adds Firefox support on Windows.",
-      "publishedAt": "2026-08-18T18:35:08.000Z",
-      "image": "https://www.engadget.com/img/gallery/nvidia-geforce-now-adds-firefox-support-on-windows/l-intro-1787078071.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T18:35:08.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Gmail verification program lets political campaigns escape its spam filter",
-      "link": "https://www.engadget.com/2239388/gmail-verification-program-lets-political-campaigns-escape-its-spam-filter/",
-      "summary": "Gmail verification program lets political campaigns escape its spam filter.",
-      "publishedAt": "2026-08-18T18:33:22.000Z",
-      "image": "https://www.engadget.com/img/gallery/gmail-verification-program-lets-political-campaigns-escape-its-spam-filter/l-intro-1787087813.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T18:33:22.000Z"
     },
     {
       "source": "Wired",
@@ -459,17 +492,6 @@
       "latestActivity": "2026-08-18T15:50:29.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
-      "link": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
-      "summary": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
-      "publishedAt": "2026-08-18T15:36:47.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Camp-Miasma-via-Mubi-2-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T15:36:47.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
       "link": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
@@ -479,17 +501,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T15:35:16.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "X-rays add new twist to narwhal's spiral tusk",
-      "link": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
-      "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
-      "publishedAt": "2026-08-18T15:00:51.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/narwhalTOP-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T15:00:51.000Z"
     },
     {
       "source": "Wired",
@@ -633,17 +644,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-17T17:14:46.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
-      "link": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
-      "summary": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likel…",
-      "publishedAt": "2026-08-17T16:11:44.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7HlP9eF4ws6aVTKtLKEI5z/3572d302cdc70c680790f21770fb69ed/missing-piece-smk1.jpg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-17T16:11:44.000Z"
     },
     {
       "source": "MIT Technology Review",
