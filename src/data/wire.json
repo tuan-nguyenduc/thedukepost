@@ -1,6 +1,105 @@
 {
-  "syncedAt": "2026-08-19T22:27:13.112Z",
+  "syncedAt": "2026-08-20T01:21:33.667Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+      "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+      "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
+      "publishedAt": "2026-08-20T00:18:48.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T00:18:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+      "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+      "summary": "Article URL: https://fetzu.ch/blog/20260819_claudevsdrobo/\nComments URL: https://news.ycombinator.com/item?id=49368911\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-08-20T00:18:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T00:18:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Universality of Gradient Descent Neural Network Training",
+      "link": "https://arxiv.org/abs/2007.13664",
+      "summary": "Article URL: https://arxiv.org/abs/2007.13664\nComments URL: https://news.ycombinator.com/item?id=49368828\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-08-20T00:05:12.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T00:05:12.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+      "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "summary": "Another day, another new AI agent harness is released.\nOnly this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer…",
+      "publishedAt": "2026-08-19T23:50:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/Zu58wse6Ue2XSH7QjdasT/cab01dedb55805687b566c53a20fd64d/Carl_Franzen_graphic_novel_flat_illustration_in_dominant_purple_b9eee842-b613-4cb0-82b6-f0d39acd0d96.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T23:50:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "summary": "Article URL: https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724\nComments URL: https://news.ycombinator.com/item?id=49368625\nPoints: 82…",
+      "publishedAt": "2026-08-19T23:38:22.000Z",
+      "image": "https://kubrick.htvapps.com/vidthumb/33adb271-6132-426e-b7f7-c08ed8906821/591e2909-d410-40ea-b112-a0418ff20bc6.jpg?crop=0.806xw%3A0.805xh%3B0.194xw%2C0&resize=1200%3A*",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T23:38:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real an…",
+      "publishedAt": "2026-08-19T23:32:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T23:32:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19",
+      "link": "https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/",
+      "summary": "There's nothing else going on that day, right?",
+      "publishedAt": "2026-08-19T23:10:21.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/l-intro-1787181003.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T23:10:21.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
+      "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
+      "summary": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise cas…",
+      "publishedAt": "2026-08-19T23:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/191:100/w_1280,c_limit/politics_elon_texas_election.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T23:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+      "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+      "summary": "It’s a camera. It’s a drone. But HoverAir doesn’t want it to be a drone where the FCC is concerned. | Image: HoverAir\t\n\nHoverAir drones always have intriguing gimmicks. This one fo…",
+      "publishedAt": "2026-08-19T22:35:20.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T22:35:20.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Waymo Ojai vans are now available for all riders in three cities",
@@ -31,6 +130,17 @@
       "latestActivity": "2026-08-19T22:10:46.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+      "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+      "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
+      "publishedAt": "2026-08-19T22:02:38.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-1152x648.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T22:02:38.000Z"
+    },
+    {
       "source": "TechCrunch",
       "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
       "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
@@ -51,6 +161,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-19T21:48:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Feature Request: Support AGENTS.md",
+      "link": "https://github.com/anthropics/claude-code/issues/6235",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 126\n# Comments: 72",
+      "publishedAt": "2026-08-19T21:19:50.000Z",
+      "image": "https://opengraph.githubassets.com/9844dc62aa85dfe8c8cc431b4e9897fa9f54ceca058da0b0dc0291b9ff375bff/anthropics/claude-code/issues/6235",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-19T21:19:50.000Z"
     },
     {
       "source": "The Verge",
@@ -74,7 +195,7 @@
       "source": "Hacker News",
       "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
       "link": "https://os8088.com/spotlight/",
-      "summary": "Article URL: https://os8088.com/spotlight/\nComments URL: https://news.ycombinator.com/item?id=49367256\nPoints: 8\n# Comments: 3",
+      "summary": "Article URL: https://os8088.com/spotlight/\nComments URL: https://news.ycombinator.com/item?id=49367256\nPoints: 38\n# Comments: 25",
       "publishedAt": "2026-08-19T21:11:31.000Z",
       "image": "https://os8088.com/img/og.png",
       "sourceCount": 1,
@@ -85,7 +206,7 @@
       "source": "Hacker News",
       "title": "DFlash 2: Keep Drafting Parallel",
       "link": "https://inco.ai/blog/dflash2/",
-      "summary": "Article URL: https://inco.ai/blog/dflash2/\nComments URL: https://news.ycombinator.com/item?id=49366792\nPoints: 34\n# Comments: 5",
+      "summary": "Article URL: https://inco.ai/blog/dflash2/\nComments URL: https://news.ycombinator.com/item?id=49366792\nPoints: 70\n# Comments: 8",
       "publishedAt": "2026-08-19T20:28:43.000Z",
       "image": "https://inco.ai/og/dflash2.png",
       "sourceCount": 1,
@@ -118,7 +239,7 @@
       "source": "Hacker News",
       "title": "Pressed Penny Machine Map",
       "link": "https://pennypresses.net/home/map.php",
-      "summary": "Article URL: https://pennypresses.net/home/map.php\nComments URL: https://news.ycombinator.com/item?id=49366597\nPoints: 25\n# Comments: 18",
+      "summary": "Article URL: https://pennypresses.net/home/map.php\nComments URL: https://news.ycombinator.com/item?id=49366597\nPoints: 41\n# Comments: 35",
       "publishedAt": "2026-08-19T20:13:47.000Z",
       "image": null,
       "sourceCount": 1,
@@ -162,7 +283,7 @@
       "source": "Hacker News",
       "title": "Xwayland 26.1.0 rc1",
       "link": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-      "summary": "Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html\nComments URL: https://news.ycombinator.com/item?id=49366474\nPoints: 30\n# Comments: 7",
+      "summary": "Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html\nComments URL: https://news.ycombinator.com/item?id=49366474\nPoints: 52\n# Comments: 35",
       "publishedAt": "2026-08-19T20:03:03.000Z",
       "image": null,
       "sourceCount": 1,
@@ -225,28 +346,6 @@
       "latestActivity": "2026-08-19T19:30:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance…",
-      "publishedAt": "2026-08-19T19:11:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T19:11:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "summary": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/\nComments URL: https://news.ycombinator.com/item?id=49365841\nPoints: 74\n# Comments: 21",
-      "publishedAt": "2026-08-19T19:06:16.000Z",
-      "image": "https://sprocketfox.io/xssfox/images/photo_2026-07-01%2013.48.56.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T19:06:16.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Google Gemini is getting a dedicated student hub",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
@@ -280,39 +379,6 @@
       "latestActivity": "2026-08-19T18:41:02.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "summary": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs\nComments URL: https://news.ycombinator.com/item?id=49365443\nPoints: 128\n# Comments: 37",
-      "publishedAt": "2026-08-19T18:36:45.000Z",
-      "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=b1ca68fa&sv=2",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T18:36:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Rules of good social skills (2025)",
-      "link": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
-      "summary": "https://web.archive.org/web/20260515105039/https://liamrosen...\nComments URL: https://news.ycombinator.com/item?id=49365419\nPoints: 56\n# Comments: 21",
-      "publishedAt": "2026-08-19T18:34:45.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T18:34:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Go 1.27",
-      "link": "https://go.dev/blog/go1.27",
-      "summary": "Article URL: https://go.dev/blog/go1.27\nComments URL: https://news.ycombinator.com/item?id=49365405\nPoints: 345\n# Comments: 69",
-      "publishedAt": "2026-08-19T18:33:49.000Z",
-      "image": "https://go.dev/doc/gopher/runningsquare.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T18:33:49.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Study finds a 15 percent increase in traffic deaths after major music streaming releases",
       "link": "https://www.engadget.com/2240233/study-finds-15-percent-increase-traffic-deaths-after-music-streaming-releases/",
@@ -333,17 +399,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-19T18:19:34.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Deus Ex and Dishonored designer Harvey Smith has a new studio making immersive sims",
-      "link": "https://www.engadget.com/2240223/deus-ex-and-dishonored-designer-harvey-smith-has-a-new-studio-making-immersive-sims/",
-      "summary": "New gaming studio Black Pony Immersive has veterans from Arkane, Insomniac and Epic.",
-      "publishedAt": "2026-08-19T18:11:16.000Z",
-      "image": "https://www.engadget.com/img/gallery/deus-ex-and-dishonored-designer-harvey-smith-has-a-new-studio-making-immersive-sims/l-intro-1787163019.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T18:11:16.000Z"
     },
     {
       "source": "The Verge",
@@ -401,17 +456,6 @@
       "latestActivity": "2026-08-19T17:03:11.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Meta AI is getting a Mac app",
-      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedicated to its AI chatbot. In an announcem…",
-      "publishedAt": "2026-08-19T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T17:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
       "link": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
@@ -451,27 +495,9 @@
       "summary": "Google’s new voice typing is pure magic, but subpar gaming performance and a useless rear LED keep these flagships from true greatness.",
       "publishedAt": "2026-08-19T16:00:00.000Z",
       "image": "https://media.wired.com/photos/6a84b66769f773e1f551bc6c/191:100/w_1280,c_limit/Review--Google-Pixel-11-Pro-and-Pixel-11-Pro-XL_HERO.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "Google Pixel 11 series review: Is the magic fading?",
-          "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-          "publishedAt": "2026-08-19T16:11:30.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-19T16:11:30.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Scientists find closest star to the Milky Way's central black hole",
-      "link": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
-      "summary": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
-      "publishedAt": "2026-08-19T15:56:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-2-1152x559.jpeg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-19T15:56:56.000Z"
+      "latestActivity": "2026-08-19T16:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -527,17 +553,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-19T11:08:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport",
-      "link": "https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
-      "summary": "Data and finance professionals are competing in Excel obstacle courses—amassing huge followings and keeping the Microsoft program relevant.",
-      "publishedAt": "2026-08-19T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a7cbffe2af0c97aac0b3217/191:100/w_1280,c_limit/Excel-Power-Users-Are-Running-Obstacle-Courses-Culture.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T11:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -648,17 +663,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T09:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
-      "link": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
-      "summary": "The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google.…",
-      "publishedAt": "2026-08-18T00:06:53.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/tkDPXLkDq0OBJ0W5aG6K0/dab1ffeb46a59b37c545586d457fe87e/ChatGPT_Image_Aug_17__2026__07_53_40_PM.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T00:06:53.000Z"
     },
     {
       "source": "MIT Technology Review",
