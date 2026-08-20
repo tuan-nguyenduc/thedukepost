@@ -1,6 +1,193 @@
 {
-  "syncedAt": "2026-08-20T10:33:13.902Z",
+  "syncedAt": "2026-08-20T12:53:46.570Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "summary": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+      "publishedAt": "2026-08-20T12:43:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-system-1253161473.jpg?w=863",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T12:43:19.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "publishedAt": "2026-08-20T12:11:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T12:11:57.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through…",
+      "publishedAt": "2026-08-20T12:10:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/MIT_Opener_final2.jpg?fit=2128,1196",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T12:10:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "summary": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).\nThe idea is basically GitHub Copilot or Tabnine, except ins…",
+      "publishedAt": "2026-08-20T12:04:38.000Z",
+      "image": "https://simedw.com/2026/08/20/midi-autocomplete/images/rolltab_phone.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T12:04:38.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Roblox vows to make changes after Australian regulator found yet more child safety lapses",
+      "link": "https://www.engadget.com/2240638/roblox-pledges-change-after-australia-finds-yet-more-child-safety-lapses/",
+      "summary": "Australia's safety regulator found Roblox still allows adults to contact children after years of pledging to stop it.",
+      "publishedAt": "2026-08-20T12:03:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/roblox-vows-to-make-changes-after-australian-regulator-found-yet-more-child-safety-lapses/l-intro-1787227165.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T12:03:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+      "summary": "Article URL: https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\nComments URL: https://news.ycombinator.com/item?id=49373423\nPoints: 0\n# Com…",
+      "publishedAt": "2026-08-20T12:00:23.000Z",
+      "image": "https://bookface-images.s3.amazonaws.com/logos/db68adbc7ddaaac6c3e120fcc6e7c88f4975ab09.png?1784306036",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T12:00:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta glasses are a workplace menace",
+      "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+      "summary": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - b…",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268688_Smart_glasses_at_work__CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includ…",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T12:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "LG's new OLED manufacturing tech can make panels bigger and brighter",
+      "link": "https://www.engadget.com/2240635/lg-flipp-oled-manufacturing-bigger-brighter-displays/",
+      "summary": "LG has an unveiled a new OLED manufacturing breakthrough that will allow brighter, sharper and longer-lasting panels of nearly any size.",
+      "publishedAt": "2026-08-20T11:56:46.000Z",
+      "image": "https://www.engadget.com/img/gallery/lgs-new-oled-manufacturing-tech-can-make-panels-bigger-and-brighter/l-intro-1787226928.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T11:56:46.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
+      "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
+      "summary": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of…",
+      "publishedAt": "2026-08-20T11:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_ON-AIR.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T11:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Australia passes law to levy tech giants that fail to pay for local news",
+      "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/\nComments URL: https://news.ycombinator.com/item?id=…",
+      "publishedAt": "2026-08-20T11:23:43.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T11:23:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "summary": "Article URL: https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/\nComments URL: https://news.ycombinator.com/item?id=49372994\nPoi…",
+      "publishedAt": "2026-08-20T11:03:29.000Z",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T11:03:29.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
+      "link": "https://www.wired.com/review/poolease-x1-pool-robot/",
+      "summary": "The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.",
+      "publishedAt": "2026-08-20T11:02:00.000Z",
+      "image": "https://media.wired.com/photos/6a86289d942118095017e61e/191:100/w_1280,c_limit/Review--Poolease-X1-Pool-Robot-.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T11:02:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The piano that taught my cat to play for her supper",
+      "link": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+      "summary": "The artist, in a moment of quiet contemplation. | Photo by Elizabeth Lopatto / The Verge\t\n\nThe pianist sits before her instrument. She carefully extends a front paw, pressing ginge…",
+      "publishedAt": "2026-08-20T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_LLOPATTO_JEEVES.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Audi S6 Sportback E-tron proves that sedans still matter",
+      "link": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+      "summary": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some u…",
+      "publishedAt": "2026-08-20T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/2027AudiS6SportbacketronPeterNelson22.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead",
+      "link": "https://www.wired.com/story/bumble-women-first-rule-change/",
+      "summary": "The app now allows men to make the first move, suggesting its women-first positioning was limiting growth. It joins other dating apps now throwing everything at the wall in a bid t…",
+      "publishedAt": "2026-08-20T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a84b529f8933ad1e94fc497/191:100/w_1280,c_limit/Bumble-Niche-Dating-App-Dead-Culture.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The 3 Best USB Phone Chargers (2026): Anker, DeWalt",
+      "link": "https://www.wired.com/story/best-usb-car-chargers/",
+      "summary": "I put top-rated USB car chargers to the test for fast charging, value, heat, and safety. These are the best I found.",
+      "publishedAt": "2026-08-20T10:33:00.000Z",
+      "image": "https://media.wired.com/photos/6a8641af2578139abea6ce92/191:100/w_1280,c_limit/The-Best-USB-Car-Chargers-for-Road-Trips-and-Fast-Charging.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T10:33:00.000Z"
+    },
     {
       "source": "Wired",
       "title": "A MAGA County’s Top Election Official Wants to Hire Election Denial Superstar Tina Peters",
@@ -11,6 +198,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-20T10:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Risk Engineering",
+      "link": "https://risk-engineering.org/",
+      "summary": "Article URL: https://risk-engineering.org/\nComments URL: https://news.ycombinator.com/item?id=49372661\nPoints: 6\n# Comments: 1",
+      "publishedAt": "2026-08-20T10:18:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T10:18:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "summary": "Article URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html\nComments URL: https://news.ycombinator.com/item?id=49372583\nPoints: 193\n# Comments: 58",
+      "publishedAt": "2026-08-20T10:08:52.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T10:08:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -140,7 +349,7 @@
       "source": "Hacker News",
       "title": "Don't Paste the AI, please",
       "link": "https://dontpastetheai.com/",
-      "summary": "Article URL: https://dontpastetheai.com/\nComments URL: https://news.ycombinator.com/item?id=49371857\nPoints: 272\n# Comments: 149",
+      "summary": "Article URL: https://dontpastetheai.com/\nComments URL: https://news.ycombinator.com/item?id=49371857\nPoints: 610\n# Comments: 291",
       "publishedAt": "2026-08-20T08:20:44.000Z",
       "image": "https://dontpastetheai.com/assets/og-image.png",
       "sourceCount": 1,
@@ -149,14 +358,25 @@
     },
     {
       "source": "Hacker News",
-      "title": "Windows brings out the Rorschach test in everyone",
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
       "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\nComments URL: https://news.ycombinator.com/item?id=49371006\nPoints: 185\n# Comments: 77",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\nComments URL: https://news.ycombinator.com/item?id=49371006\nPoints: 252\n# Comments: 94",
       "publishedAt": "2026-08-20T06:16:40.000Z",
       "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-20T06:16:40.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Chewy Promo Codes: $20 Off August 2026",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.",
+      "publishedAt": "2026-08-20T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-20T05:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -168,61 +388,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-20T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "TurboTax Full Service Coupons This August",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "publishedAt": "2026-08-20T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-20T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Dell Coupon Codes: 20% Off for August 2026",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "publishedAt": "2026-08-20T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/191:100/w_1280,c_limit/WIRED-Coupons-16.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-20T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Booking.com Promo Codes: 20% Off | August 2026",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "publishedAt": "2026-08-20T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/191:100/w_1280,c_limit/WIRED-Coupons-8.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-20T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Nike Promo Codes and Discounts: 30% for August 2026",
-      "link": "https://www.wired.com/story/nike-promo-code/",
-      "summary": "Check out our deals for Nike this August 2026, including 15% off select purchases.",
-      "publishedAt": "2026-08-20T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-20T05:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Turns are Better than Radians (2022)",
-      "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "summary": "Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians\nComments URL: https://news.ycombinator.com/item?id=49369408\nPoints: 215\n# Comments: 101",
-      "publishedAt": "2026-08-20T01:29:12.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!mvXW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F20e598bd-cac0-4b10-8222-b432167c9159_5616x3744.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-20T01:29:12.000Z"
     },
     {
       "source": "VentureBeat",
@@ -331,55 +496,15 @@
       "latestActivity": "2026-08-19T21:48:24.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Feature Request: Support AGENTS.md",
-      "link": "https://github.com/anthropics/claude-code/issues/6235",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 267\n# Comments: 165",
-      "publishedAt": "2026-08-19T21:19:50.000Z",
-      "image": "https://opengraph.githubassets.com/2b692eaea549ff8e36107f3fb11946bb54e915a723be1b9d5e96b18c487eaf90/anthropics/claude-code/issues/6235",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T21:19:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Watch Valve set up the Steam Frame in its own leaked videos",
-      "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-      "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an…",
-      "publishedAt": "2026-08-19T18:16:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Valve Steam Frame videos show how to wear the headset, perfect the fit and sign in",
-          "link": "https://www.engadget.com/2240427/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/",
-          "publishedAt": "2026-08-19T21:14:31.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-19T21:14:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "link": "https://os8088.com/spotlight/",
-      "summary": "Article URL: https://os8088.com/spotlight/\nComments URL: https://news.ycombinator.com/item?id=49367256\nPoints: 93\n# Comments: 45",
-      "publishedAt": "2026-08-19T21:11:31.000Z",
-      "image": "https://os8088.com/img/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T21:11:31.000Z"
-    },
-    {
       "source": "Engadget",
-      "title": "Pokémon and Polaroid are collaborating on three new adorable cameras",
-      "link": "https://www.engadget.com/2240387/pokemon-polaroid-collaboration-cameras-coming-soon/",
-      "summary": "The new cameras are prettier versions of Polaroid Now and Polaroid Go.",
-      "publishedAt": "2026-08-19T20:27:28.000Z",
-      "image": "https://www.engadget.com/img/gallery/pokmon-and-polaroid-are-collaborating-on-three-new-adorable-cameras/l-intro-1787171108.jpg",
+      "title": "Valve Steam Frame videos show how to wear the headset, perfect the fit and sign in",
+      "link": "https://www.engadget.com/2240427/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/",
+      "summary": "Eight leaked Steam Frame videos are informative and kinda silly.",
+      "publishedAt": "2026-08-19T21:14:31.000Z",
+      "image": "https://www.engadget.com/img/gallery/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/l-intro-1787173988.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-19T20:27:28.000Z"
+      "latestActivity": "2026-08-19T21:14:31.000Z"
     },
     {
       "source": "Ars Technica",
@@ -393,17 +518,6 @@
       "latestActivity": "2026-08-19T20:21:59.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-      "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
-      "publishedAt": "2026-08-19T20:12:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T20:12:33.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
       "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
@@ -413,39 +527,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-19T20:04:41.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
-      "link": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
-      "summary": "The actress' firm Kinship Ventures is an investor in the company.",
-      "publishedAt": "2026-08-19T20:04:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2266702439.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T20:04:12.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "A robot could eventually conduct your blood draw at the doctor's office",
-      "link": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
-      "summary": "The FDA has approved a first-of-its-kind automated blood draw device for outpatient settings.",
-      "publishedAt": "2026-08-19T20:02:52.000Z",
-      "image": "https://www.engadget.com/img/gallery/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/l-intro-1787169711.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T20:02:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nielsen is leaning more on wearables to hear what people are watching",
-      "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
-      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners…",
-      "publishedAt": "2026-08-19T19:53:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKB393_NIELSEN_MEDIA_RESEARCH.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T19:53:09.000Z"
     },
     {
       "source": "Ars Technica",
@@ -459,39 +540,6 @@
       "latestActivity": "2026-08-19T19:45:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Pixel 11 Pro Fold feels like the end of an era",
-      "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "summary": "Article URL: https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review\nComments URL: https://news.ycombinator.com/item?id=49366264\nPoints: 68\n# Comments: 167",
-      "publishedAt": "2026-08-19T19:43:48.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T19:43:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "summary": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/\nComments URL: https://news.ycombinator.com/item?id=49365841\nPoints: 210\n# Comments: 53",
-      "publishedAt": "2026-08-19T19:06:16.000Z",
-      "image": "https://sprocketfox.io/xssfox/images/photo_2026-07-01%2013.48.56.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T19:06:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook,…",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T19:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "The floodgates are open after another Chinese company lands a reusable rocket",
       "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
@@ -501,39 +549,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-19T18:41:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "summary": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs\nComments URL: https://news.ycombinator.com/item?id=49365443\nPoints: 274\n# Comments: 99",
-      "publishedAt": "2026-08-19T18:36:45.000Z",
-      "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=b1ca68fa&sv=2",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T18:36:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The wearable future is stuck in weird, experimental, existential limbo",
-      "link": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
-      "summary": "AI on the wrist is one such experimental feature.\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizm…",
-      "publishedAt": "2026-08-19T18:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google_pixel_watch_5_review5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Grab an iPad Air M4 for its lowest price since the June increase",
-      "link": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
-      "summary": "The iPad Air M4 in space gray. | Image: The Verge\t\n\nAlmost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to s…",
-      "publishedAt": "2026-08-19T17:56:15.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ipad-air-m4-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T17:56:15.000Z"
     },
     {
       "source": "Ars Technica",
@@ -666,17 +681,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-18T10:06:43.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The role of the astronaut is in flux",
-      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing…",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/books.weibel-edited.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-18T09:00:00.000Z"
     }
   ]
 }
