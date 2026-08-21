@@ -1,6 +1,28 @@
 {
-  "syncedAt": "2026-08-21T03:05:08.817Z",
+  "syncedAt": "2026-08-21T04:40:37.130Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "link": "https://github.com/openai/codex/issues/37674",
+      "summary": "Article URL: https://github.com/openai/codex/issues/37674\nComments URL: https://news.ycombinator.com/item?id=49383326\nPoints: 25\n# Comments: 4",
+      "publishedAt": "2026-08-21T03:17:43.000Z",
+      "image": "https://opengraph.githubassets.com/b27b65eaa4902295d0953058722f3cfc268ba685c94c29e91e445c8495544eb9/openai/codex/issues/37674",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-21T03:17:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "link": "https://annas-archive.gl/blog/physical-destruction.html",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49383026\nPoints: 144\n# Comments: 92",
+      "publishedAt": "2026-08-21T02:37:47.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-21T02:37:47.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
@@ -16,7 +38,7 @@
       "source": "Hacker News",
       "title": "Artificial Intelligence Policy",
       "link": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-      "summary": "Article URL: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/\nComments URL: https://news.ycombinator.com/item?id=49382614\nPoints: 21…",
+      "summary": "Article URL: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/\nComments URL: https://news.ycombinator.com/item?id=49382614\nPoints: 32…",
       "publishedAt": "2026-08-21T01:37:27.000Z",
       "image": "https://www.law.berkeley.edu/wp-content/uploads/2024/12/websharecard2.jpg",
       "sourceCount": 1,
@@ -27,7 +49,7 @@
       "source": "Hacker News",
       "title": "There's no such thing as a small software team anymore",
       "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\nComments URL: https://news.ycombinator.com/item?id=49382152\nPoints: 29\n# Comments: 46",
+      "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\nComments URL: https://news.ycombinator.com/item?id=49382152\nPoints: 46\n# Comments: 86",
       "publishedAt": "2026-08-21T00:28:37.000Z",
       "image": "https://jacob.gold/images/theres-no-such-thing-as-a-small-software-team.webp",
       "sourceCount": 1,
@@ -44,17 +66,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-21T00:23:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Copyright does not protect AI-generated content in EU",
-      "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678\nComments URL: https://news.ycombinator.com/item?id=49382041\nPoints: 143\n# Comments: 130",
-      "publishedAt": "2026-08-21T00:15:12.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-21T00:15:12.000Z"
     },
     {
       "source": "TechCrunch",
@@ -80,9 +91,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Stealth Model",
+      "title": "Ox Alpha",
       "link": "https://openrouter.ai/stealth/ox-alpha",
-      "summary": "Article URL: https://openrouter.ai/stealth/ox-alpha\nComments URL: https://news.ycombinator.com/item?id=49381896\nPoints: 46\n# Comments: 30",
+      "summary": "https://twitter.com/OpenRouter/status/2090544970923184269, https://xcancel.com/OpenRouter/status/2090544970923184269\nComments URL: https://news.ycombinator.com/item?id=49381896\nPoi…",
       "publishedAt": "2026-08-20T23:56:35.000Z",
       "image": "https://openrouter.ai/stealth/ox-alpha/opengraph-image-1oizug?abd1ffaa6102aa5f",
       "sourceCount": 1,
@@ -121,17 +132,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-20T22:51:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Detecting scraper bots through scroll behaviour",
-      "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-      "summary": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour\nComments URL: https://news.ycombinator.com/item?id=49381311\nPoints: 29\n# Comments: 10",
-      "publishedAt": "2026-08-20T22:47:52.000Z",
-      "image": "https://niki.cat/bl-themes/bludit-blowfish-main/img/spleenftw.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-20T22:47:52.000Z"
     },
     {
       "source": "TechCrunch",
@@ -353,7 +353,7 @@
       "source": "Hacker News",
       "title": "The August 17 outage",
       "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\nComments URL: https://news.ycombinator.com/item?id=49378957\nPoints: 352\n# Comme…",
+      "summary": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\nComments URL: https://news.ycombinator.com/item?id=49378957\nPoints: 396\n# Comme…",
       "publishedAt": "2026-08-20T19:22:24.000Z",
       "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-left.png",
       "sourceCount": 1,
@@ -364,7 +364,7 @@
       "source": "Hacker News",
       "title": "SpacetimeDB: A Short Technical Review",
       "link": "https://strn.cat/posts/spacetime/",
-      "summary": "Article URL: https://strn.cat/posts/spacetime/\nComments URL: https://news.ycombinator.com/item?id=49378933\nPoints: 62\n# Comments: 15",
+      "summary": "Article URL: https://strn.cat/posts/spacetime/\nComments URL: https://news.ycombinator.com/item?id=49378933\nPoints: 67\n# Comments: 15",
       "publishedAt": "2026-08-20T19:19:53.000Z",
       "image": null,
       "sourceCount": 1,
