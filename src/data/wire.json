@@ -1,6 +1,90 @@
 {
-  "syncedAt": "2026-08-22T18:33:32.957Z",
+  "syncedAt": "2026-08-22T20:25:04.327Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+      "publishedAt": "2026-08-22T20:24:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T20:24:20.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
+      "link": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
+      "summary": "Even old Apple devices you haven't touched in years could still get you some credit towards a new phone.",
+      "publishedAt": "2026-08-22T20:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-youd-think/l-intro-1786647748.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T20:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "publishedAt": "2026-08-22T16:30:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "OpenAI calls for California to strengthen its AI safety laws",
+          "link": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
+          "publishedAt": "2026-08-22T19:27:04.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-22T19:27:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "NetBSD and My Life (2005)",
+      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\nComments URL: https://news.ycombinator.com/item?id=49402781\nPoints: 31\n# Comments: 1",
+      "publishedAt": "2026-08-22T19:07:46.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T19:07:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html\nComments URL: https://news.ycombinator.com/item?id=49402741\nPoints: 68\n# Comments: 15",
+      "publishedAt": "2026-08-22T19:04:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T19:04:41.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T19:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Make your logo extra bright on HDR screens",
+      "link": "https://www.soverybright.com/",
+      "summary": "Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them.\nI dug in and found out this is accomplished by adding a gain-map to an exi…",
+      "publishedAt": "2026-08-22T18:43:03.000Z",
+      "image": "https://soverybright.com/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T18:43:03.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Are digital cameras still worth buying in 2026?",
@@ -11,6 +95,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-22T18:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why your local LLM feels dumber than it is",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\nComments URL: https://news.ycombinator.com/item?id=49402232\nPoints: 9\n# Comments: 0",
+      "publishedAt": "2026-08-22T18:14:16.000Z",
+      "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T18:14:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scrap",
+      "link": "https://twitter.com/moxie/status/2091218652133732491",
+      "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491\nComments URL: https://news.ycombinator.com/item?id=49402189\nPoints: 90\n# Comments: 17",
+      "publishedAt": "2026-08-22T18:08:56.000Z",
+      "image": "https://pbs.twimg.com/profile_images/1904271714370158592/N1nB2x1O_200x200.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T18:08:56.000Z"
     },
     {
       "source": "Engadget",
@@ -49,7 +155,7 @@
       "source": "Hacker News",
       "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
       "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
-      "summary": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl\nComments URL: https://news.ycombinator.com/item?id=49401621\nPoints: 38\n# Comments: 23",
+      "summary": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl\nComments URL: https://news.ycombinator.com/item?id=49401621\nPoints: 72\n# Comments: 45",
       "publishedAt": "2026-08-22T17:09:27.000Z",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/sipausa-66517102.jpg?c=16x9&q=w_800,c_fill",
       "sourceCount": 1,
@@ -71,7 +177,7 @@
       "source": "Hacker News",
       "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
       "link": "https://twitter.com/argofowl/status/2091150597374537729",
-      "summary": "Article URL: https://twitter.com/argofowl/status/2091150597374537729\nComments URL: https://news.ycombinator.com/item?id=49401549\nPoints: 51\n# Comments: 45",
+      "summary": "Article URL: https://twitter.com/argofowl/status/2091150597374537729\nComments URL: https://news.ycombinator.com/item?id=49401549\nPoints: 89\n# Comments: 90",
       "publishedAt": "2026-08-22T16:58:49.000Z",
       "image": "https://pbs.twimg.com/profile_images/2046948500206940161/qOR9xYkA_200x200.jpg",
       "sourceCount": 1,
@@ -90,17 +196,6 @@
       "latestActivity": "2026-08-22T16:50:20.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "publishedAt": "2026-08-22T16:30:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T16:30:34.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "You might want to skip using a Bluetooth headset for a better gaming experience",
       "link": "https://www.engadget.com/2240120/bluetooth-headset-skip-for-better-gaming-experience/",
@@ -112,17 +207,6 @@
       "latestActivity": "2026-08-22T16:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Learning about \"The Unix Time-Sharing System\"",
-      "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
-      "summary": "Article URL: https://playtechnique.io/long/the-unix-time-sharing-system.html\nComments URL: https://news.ycombinator.com/item?id=49401122\nPoints: 14\n# Comments: 3",
-      "publishedAt": "2026-08-22T16:11:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T16:11:16.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
@@ -132,17 +216,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-22T16:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Before you buy a used GameCube, check for this common issue",
-      "link": "https://www.engadget.com/2240118/before-you-buy-used-gamecube-check-region-locked/",
-      "summary": "If you buy the wrong GameCube console, you may not get to play all the games you want to play. Here's what to look for.",
-      "publishedAt": "2026-08-22T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/before-you-buy-a-used-gamecube-check-for-this-common-issue/l-intro-1786725329.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T15:30:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -170,34 +243,12 @@
       "source": "Hacker News",
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "link": "https://quantumi.sh/public/labs.html",
-      "summary": "Article URL: https://quantumi.sh/public/labs.html\nComments URL: https://news.ycombinator.com/item?id=49400408\nPoints: 126\n# Comments: 51",
+      "summary": "Article URL: https://quantumi.sh/public/labs.html\nComments URL: https://news.ycombinator.com/item?id=49400408\nPoints: 226\n# Comments: 74",
       "publishedAt": "2026-08-22T14:54:07.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-22T14:54:07.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here's what you'll need to watch Netflix in 4K on Chrome",
-      "link": "https://www.engadget.com/2240115/heres-what-youll-need-to-watch-netflix-in-4k-on-chrome/",
-      "summary": "Here's what you'll need to watch Netflix in 4K on Chrome.",
-      "publishedAt": "2026-08-22T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-what-youll-need-to-watch-netflix-in-4k-on-chrome/l-intro-1786562290.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Friendly Introduction to Racket",
-      "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\nComments URL: https://news.ycombinator.com/item?id=49399898\nPoints: 71\n# Comments: 20",
-      "publishedAt": "2026-08-22T14:08:19.000Z",
-      "image": "/static/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T14:08:19.000Z"
     },
     {
       "source": "TechCrunch",
@@ -222,17 +273,6 @@
       "latestActivity": "2026-08-22T13:41:01.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "New MCP Roadmap",
-      "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\nComments URL: https://news.ycombinator.com/item?id=49399591\nPoints: 128\n# Comments: 95",
-      "publishedAt": "2026-08-22T13:31:34.000Z",
-      "image": "https://blog.modelcontextprotocol.io/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T13:31:34.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
       "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
@@ -253,17 +293,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-22T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy\nComments URL: https://news.ycombinator.com/item?id=49398904\nPoints: 176\n# Comments: 140",
-      "publishedAt": "2026-08-22T12:07:06.000Z",
-      "image": "https://i.guim.co.uk/img/media/5fe3c6e2663c1940dc067dd6bc16c1117ac663b4/955_0_4016_3213/master/4016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d230dbeb5c6c85168c698cf5d9542f3f",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T12:07:06.000Z"
     },
     {
       "source": "The Verge",
@@ -343,17 +372,6 @@
       "latestActivity": "2026-08-22T10:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-      "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "summary": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi\nComments URL: https://news.ycombinator.com/item?id=49398158\nPoints: 89\n# Comments: 43",
-      "publishedAt": "2026-08-22T09:49:57.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T09:49:57.000Z"
-    },
-    {
       "source": "Wired",
       "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
       "link": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
@@ -418,28 +436,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-21T23:10:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restrict…",
-      "publishedAt": "2026-08-21T23:07:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-21T23:07:25.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "publishedAt": "2026-08-21T22:37:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-21T22:37:38.000Z"
     },
     {
       "source": "The Verge",
