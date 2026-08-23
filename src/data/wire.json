@@ -1,11 +1,33 @@
 {
-  "syncedAt": "2026-08-23T06:44:36.798Z",
+  "syncedAt": "2026-08-23T08:32:42.008Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/\nComments URL: https://news.ycombinator.com/item?id=494065…",
+      "publishedAt": "2026-08-23T06:41:51.000Z",
+      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/router.jpg?w=1600&h=900&fit=crop",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T06:41:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "JIT Compiling Code in 5μs",
+      "link": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/\nComments URL: https://news.ycombinator.com/item?id=49406387\nPoints: 41\n# Comments: 4",
+      "publishedAt": "2026-08-23T06:04:51.000Z",
+      "image": "https://malisper.me/wp-content/uploads/2026/08/pgrust-jit-featured-simple-1200x630-1.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T06:04:51.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "The End of an Athlon",
       "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/\nComments URL: https://news.ycombinator.com/item?id=49406333\nPoints: 9\n# Comments: 0",
+      "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/\nComments URL: https://news.ycombinator.com/item?id=49406333\nPoints: 59\n# Comments: 11",
       "publishedAt": "2026-08-23T05:51:01.000Z",
       "image": null,
       "sourceCount": 1,
@@ -14,9 +36,20 @@
     },
     {
       "source": "Hacker News",
+      "title": "Fast and Hard Code",
+      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/\nComments URL: https://news.ycombinator.com/item?id=49406285\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-08-23T05:39:06.000Z",
+      "image": "https://lucumr.pocoo.org/social/2026-08-22-fast-hard-code-social.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T05:39:06.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
       "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html\nComments URL: https://news.ycombinator.com/item?id=49406069\nPoints: 18\n# Comments: 4",
+      "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html\nComments URL: https://news.ycombinator.com/item?id=49406069\nPoints: 37\n# Comments: 1…",
       "publishedAt": "2026-08-23T04:28:18.000Z",
       "image": null,
       "sourceCount": 1,
@@ -25,9 +58,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "The Golden Rule for Becoming a Better Writer",
+      "title": "To become a better writer, read as much as you can",
       "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\nComments URL: https://news.ycombinator.com/item?id=49405870\nPoints: 48\n# Comments: 23",
+      "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\nComments URL: https://news.ycombinator.com/item?id=49405870\nPoints: 101\n# Comments: 57",
       "publishedAt": "2026-08-23T03:32:25.000Z",
       "image": "https://nappertime.com/wp-content/uploads/2026/08/reading-books.png",
       "sourceCount": 1,
@@ -38,7 +71,7 @@
       "source": "Hacker News",
       "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
       "link": "https://martypc.net/",
-      "summary": "Article URL: https://martypc.net/\nComments URL: https://news.ycombinator.com/item?id=49405816\nPoints: 73\n# Comments: 14",
+      "summary": "Article URL: https://martypc.net/\nComments URL: https://news.ycombinator.com/item?id=49405816\nPoints: 101\n# Comments: 25",
       "publishedAt": "2026-08-23T03:13:16.000Z",
       "image": "https://martypc.net/assets/marty_logo_about_twitter.png",
       "sourceCount": 1,
@@ -60,34 +93,12 @@
       "source": "Hacker News",
       "title": "I Dream of Quieter Computing",
       "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-      "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/\nComments URL: https://news.ycombinator.com/item?id=49405682\nPoints: 46\n# Comments: 14",
+      "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/\nComments URL: https://news.ycombinator.com/item?id=49405682\nPoints: 57\n# Comments: 32",
       "publishedAt": "2026-08-23T02:33:22.000Z",
       "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fhenry.codes%2Fopengraph%2Fwriting%2Fi-dream-of-quieter-computing/opengraph",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-23T02:33:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Art and Beauty of Blade Runner (2015)",
-      "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\nComments URL: https://news.ycombinator.com/item?id=49405331\nPoints: 52\n# Comments: 13",
-      "publishedAt": "2026-08-23T00:56:03.000Z",
-      "image": "https://nappertime.com/wp-content/uploads/2014/07/blade-runner-cityscape.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-23T00:56:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "NanoGPT Speedrun Frontier",
-      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun\nComments URL: https://news.ycombinator.com/item?id=49404380\nPoints: 84\n# Comments: 24",
-      "publishedAt": "2026-08-22T22:14:27.000Z",
-      "image": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T22:14:27.000Z"
     },
     {
       "source": "TechCrunch",
@@ -172,17 +183,6 @@
         }
       ],
       "latestActivity": "2026-08-22T19:27:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "NetBSD and my life (2005)",
-      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\nComments URL: https://news.ycombinator.com/item?id=49402781\nPoints: 112\n# Comments: 28",
-      "publishedAt": "2026-08-22T19:07:46.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T19:07:46.000Z"
     },
     {
       "source": "TechCrunch",
