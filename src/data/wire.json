@@ -1,6 +1,28 @@
 {
-  "syncedAt": "2026-08-22T22:24:09.832Z",
+  "syncedAt": "2026-08-23T01:27:58.216Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "US Military newspaper editor voices censorship fears after being fired",
+      "link": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm2g23ng8p4o\nComments URL: https://news.ycombinator.com/item?id=49405110\nPoints: 7\n# Comments: 2",
+      "publishedAt": "2026-08-23T00:19:17.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T00:19:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "NanoGPT Speedrun Frontier",
+      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun\nComments URL: https://news.ycombinator.com/item?id=49404380\nPoints: 43\n# Comments: 9",
+      "publishedAt": "2026-08-22T22:14:27.000Z",
+      "image": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T22:14:27.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -68,17 +90,6 @@
       "latestActivity": "2026-08-22T20:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Fast and Hard Code",
-      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/\nComments URL: https://news.ycombinator.com/item?id=49403228\nPoints: 17\n# Comments: 9",
-      "publishedAt": "2026-08-22T19:56:38.000Z",
-      "image": "https://lucumr.pocoo.org/social/2026-08-22-fast-hard-code-social.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T19:56:38.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "OpenAI says California should strengthen its AI safety bill",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
@@ -98,20 +109,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "English ↔ Claudish Translator",
-      "link": "https://programasweights.com/claudish",
-      "summary": "Article URL: https://programasweights.com/claudish\nComments URL: https://news.ycombinator.com/item?id=49402907\nPoints: 24\n# Comments: 18",
-      "publishedAt": "2026-08-22T19:19:15.000Z",
-      "image": "https://programasweights.com/claudish/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T19:19:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "NetBSD and My Life (2005)",
+      "title": "NetBSD and my life (2005)",
       "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\nComments URL: https://news.ycombinator.com/item?id=49402781\nPoints: 68\n# Comments: 15",
+      "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\nComments URL: https://news.ycombinator.com/item?id=49402781\nPoints: 94\n# Comments: 23",
       "publishedAt": "2026-08-22T19:07:46.000Z",
       "image": null,
       "sourceCount": 1,
@@ -122,7 +122,7 @@
       "source": "Hacker News",
       "title": "hdiutil is deprecated in macOS 27 Golden Gate",
       "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html\nComments URL: https://news.ycombinator.com/item?id=49402741\nPoints: 133\n# Comments: 43",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html\nComments URL: https://news.ycombinator.com/item?id=49402741\nPoints: 159\n# Comments: 63",
       "publishedAt": "2026-08-22T19:04:41.000Z",
       "image": null,
       "sourceCount": 1,
@@ -155,7 +155,7 @@
       "source": "Hacker News",
       "title": "Why your local LLM feels dumber than it is",
       "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\nComments URL: https://news.ycombinator.com/item?id=49402232\nPoints: 89\n# Comments: 27",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\nComments URL: https://news.ycombinator.com/item?id=49402232\nPoints: 174\n# Comments: 5…",
       "publishedAt": "2026-08-22T18:14:16.000Z",
       "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
       "sourceCount": 1,
@@ -164,9 +164,31 @@
     },
     {
       "source": "Hacker News",
-      "title": "Scrap",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "link": "https://marcua.net/minitools/figmimic/",
+      "summary": "Article URL: https://marcua.net/minitools/figmimic/\nComments URL: https://news.ycombinator.com/item?id=49402213\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-08-22T18:11:40.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T18:11:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Thinking in Python by Bruce Eckel",
+      "link": "https://thinkinginpython.com/",
+      "summary": "Article URL: https://thinkinginpython.com/\nComments URL: https://news.ycombinator.com/item?id=49402202\nPoints: 46\n# Comments: 11",
+      "publishedAt": "2026-08-22T18:10:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-22T18:10:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Scrap (2006)",
       "link": "https://twitter.com/moxie/status/2091218652133732491",
-      "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491\nComments URL: https://news.ycombinator.com/item?id=49402189\nPoints: 187\n# Comments: 78",
+      "summary": "https://xcancel.com/moxie/status/2091218652133732491\nComments URL: https://news.ycombinator.com/item?id=49402189\nPoints: 308\n# Comments: 171",
       "publishedAt": "2026-08-22T18:08:56.000Z",
       "image": "https://pbs.twimg.com/profile_images/1904271714370158592/N1nB2x1O_200x200.jpg",
       "sourceCount": 1,
@@ -218,17 +240,6 @@
       "latestActivity": "2026-08-22T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "link": "https://twitter.com/argofowl/status/2091150597374537729",
-      "summary": "Article URL: https://twitter.com/argofowl/status/2091150597374537729\nComments URL: https://news.ycombinator.com/item?id=49401549\nPoints: 133\n# Comments: 131",
-      "publishedAt": "2026-08-22T16:58:49.000Z",
-      "image": "https://pbs.twimg.com/profile_images/2046948500206940161/qOR9xYkA_200x200.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T16:58:49.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
@@ -260,17 +271,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-22T15:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "link": "https://quantumi.sh/public/labs.html",
-      "summary": "Article URL: https://quantumi.sh/public/labs.html\nComments URL: https://news.ycombinator.com/item?id=49400408\nPoints: 269\n# Comments: 87",
-      "publishedAt": "2026-08-22T14:54:07.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T14:54:07.000Z"
     },
     {
       "source": "TechCrunch",
