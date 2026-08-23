@@ -1,6 +1,61 @@
 {
-  "syncedAt": "2026-08-23T16:28:40.213Z",
+  "syncedAt": "2026-08-23T18:32:34.327Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Why are there so many fast charging standards, and what's the difference between them?",
+      "link": "https://www.engadget.com/2241124/fast-charging-differenent-standards-explained/",
+      "summary": "A guide to the confusing world of USB-C fast charging.",
+      "publishedAt": "2026-08-23T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-are-there-so-many-fast-charging-standards-and-whats-the-difference-between-them/l-intro-1787253133.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T18:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Does Analogue 3D really make retro games 4K? Here's what you should know",
+      "link": "https://www.engadget.com/2240184/is-analogue-3d-actually-4k/",
+      "summary": "The Analogue 3D does a great job at upscaling old N64 games, with a few caveats.",
+      "publishedAt": "2026-08-23T18:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/does-analogue-3d-really-make-retro-games-4k-heres-what-you-should-know/l-intro-1787160375.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T18:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+      "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+      "summary": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
+      "publishedAt": "2026-08-23T17:39:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/l-intro-1787505971.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T17:39:26.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Is it safe to use a USB-C laptop charger on your phone?",
+      "link": "https://www.engadget.com/2240179/using-usb-c-laptop-charger-for-phone-safety-tips/",
+      "summary": "If you've ever wondered whether you can just charge your phone with the cable for your laptop, read on and find out how to tell.",
+      "publishedAt": "2026-08-23T17:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/is-it-safe-to-use-a-usb-c-laptop-charger-on-your-phone/l-intro-1787160171.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T17:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Is a liquid-cooled PC worth it?",
+      "link": "https://www.engadget.com/2240150/is-liquid-cooled-pc-worth-it/",
+      "summary": "Air cooling is reliable, while liquid cooling is visually slick. Which one you should use depends on how heavy you game on your system.",
+      "publishedAt": "2026-08-23T16:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/is-a-liquid-cooled-pc-worth-it/l-intro-1786728983.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T16:30:00.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
@@ -167,28 +222,6 @@
       "latestActivity": "2026-08-23T13:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "This affordable fix may be all you need to improve earbud sound quality",
-      "link": "https://www.engadget.com/2240144/earbuds-sound-quality-improve-with-affordable-fix/",
-      "summary": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here's how to upgrade your current pair for a better listening experience.",
-      "publishedAt": "2026-08-23T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/this-affordable-fix-may-be-all-you-need-to-improve-earbud-sound-quality/l-intro-1787061352.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-23T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What to try when an Android app keeps crashing",
-      "link": "https://www.engadget.com/2240143/what-to-try-andoird-app-keeps-crashing/",
-      "summary": "Don't keep restarting your phone. Try these other steps instead.",
-      "publishedAt": "2026-08-23T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-to-try-when-an-android-app-keeps-crashing/l-intro-1786662380.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-23T12:30:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Grand Theft Auto VI exists in its own universe",
       "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
@@ -310,17 +343,6 @@
       "latestActivity": "2026-08-22T21:46:56.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
-      "link": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
-      "summary": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.",
-      "publishedAt": "2026-08-22T21:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5/l-intro-1786657077.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T21:30:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
       "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
@@ -332,17 +354,6 @@
       "latestActivity": "2026-08-22T21:30:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How to limit Instagram from using your data for AI and ads",
-      "link": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
-      "summary": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
-      "publishedAt": "2026-08-22T20:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-limit-instagram-from-using-your-data-for-ai-and-ads/l-intro-1786459133.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T20:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Will the DOJ’s investigation into a16z spook other VCs?",
       "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
@@ -352,17 +363,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-22T20:24:20.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
-      "link": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
-      "summary": "Even old Apple devices you haven't touched in years could still get you some credit towards a new phone.",
-      "publishedAt": "2026-08-22T20:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-youd-think/l-intro-1786647748.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T20:00:00.000Z"
     },
     {
       "source": "TechCrunch",
