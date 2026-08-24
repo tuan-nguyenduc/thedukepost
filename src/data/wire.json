@@ -1,6 +1,17 @@
 {
-  "syncedAt": "2026-08-23T22:24:12.035Z",
+  "syncedAt": "2026-08-24T01:25:46.052Z",
   "items": [
+    {
+      "source": "VentureBeat",
+      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "summary": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the conte…",
+      "publishedAt": "2026-08-23T23:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/ohCjTlo9CnM6jgcDPRDHw/ab6378302d6157417aa0ea0e55325eb1/u7277289442_A_sophisticated_AI_robot_is_routing_data_through__30c6a65e-7919-420c-9853-e10113a180e7_0.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-23T23:00:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "What is a VESA mount and how to know what type your TV has",
@@ -682,17 +693,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-20T09:47:22.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-      "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-      "summary": "Another day, another new AI agent harness is released.\nOnly this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer…",
-      "publishedAt": "2026-08-19T23:50:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/Zu58wse6Ue2XSH7QjdasT/cab01dedb55805687b566c53a20fd64d/Carl_Franzen_graphic_novel_flat_illustration_in_dominant_purple_b9eee842-b613-4cb0-82b6-f0d39acd0d96.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-19T23:50:00.000Z"
     }
   ]
 }
