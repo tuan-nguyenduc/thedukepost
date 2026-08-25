@@ -1,6 +1,101 @@
 {
-  "syncedAt": "2026-08-25T08:45:10.443Z",
+  "syncedAt": "2026-08-25T10:35:23.129Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Why some US restaurants are banning tips",
+      "link": "https://www.bbc.com/news/articles/c4g36yze692o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o\nComments URL: https://news.ycombinator.com/item?id=49431364\nPoints: 11\n# Comments: 4",
+      "publishedAt": "2026-08-25T10:09:47.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T10:09:47.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Border Wall Construction Threatens 6,000 Years of History on Private Lands",
+      "link": "https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/",
+      "summary": "Archeologists are confronting an “unfathomable” loss as border wall construction is set to cut across ranches that are home to unique historical sites, many of which haven’t been f…",
+      "publishedAt": "2026-08-25T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a8cb2ea1cb68a79f2a89e3d/191:100/w_1280,c_limit/Science_Border%20Wall%20Construction%20Threatens%206,000%20Years%20of%20History%20on%20Private%20Lands_v2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "It Should Be Harder to Apply for a Job. No, Really",
+      "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+      "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
+      "publishedAt": "2026-08-25T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a84e66df285f2dc95adad96/191:100/w_1280,c_limit/Recruiters-Want-It-To-Be-Harder-To-Apply-For-a-Job-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T09:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
+      "link": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
+      "summary": "Article URL: https://link.springer.com/article/10.1007/s12519-026-01046-1\nComments URL: https://news.ycombinator.com/item?id=49431024\nPoints: 9\n# Comments: 6",
+      "publishedAt": "2026-08-25T09:17:33.000Z",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs12519-026-01046-1/MediaObjects/12519_2026_1046_Figa_HTML.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T09:17:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation i…",
+      "publishedAt": "2026-08-24T19:58:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+          "publishedAt": "2026-08-25T09:15:03.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-25T09:15:03.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+      "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
+      "publishedAt": "2026-08-25T09:15:00.000Z",
+      "image": "https://media.wired.com/photos/6a8c0dfe87be8a9e28b0d0b1/191:100/w_1280,c_limit/GettyImages-2274586366.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T09:15:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Welcome to the spiderverse, a world measured through webs",
+      "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+      "summary": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. Th…",
+      "publishedAt": "2026-08-25T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-DNA-HANGERS-094.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology int…",
+      "publishedAt": "2026-08-25T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/map.jpg?w=840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T09:00:00.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Android is getting its own weird dots to cure car sickness",
@@ -40,7 +135,7 @@
       "link": "https://github.com/dragthelake/ambient-context",
       "summary": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, on…",
       "publishedAt": "2026-08-25T04:33:24.000Z",
-      "image": "https://opengraph.githubassets.com/918a35f86e20e831a650a3ea5e1151e42ee9dbdf2755f5e053b2fe2290b56335/dragthelake/ambient-context",
+      "image": "https://opengraph.githubassets.com/94fd5dcaf307a36034993bb5a7700df44e6b17c270b9223320ba682d2db5d06d/dragthelake/ambient-context",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T04:33:24.000Z"
@@ -49,7 +144,7 @@
       "source": "Hacker News",
       "title": "Volcanoes that made history",
       "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
-      "summary": "Article URL: https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history\nComments URL: https://news.ycombinator.com/item?id=49428972\nPoints: 4\n# Co…",
+      "summary": "Article URL: https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history\nComments URL: https://news.ycombinator.com/item?id=49428972\nPoints: 7\n# Co…",
       "publishedAt": "2026-08-25T04:09:43.000Z",
       "image": null,
       "sourceCount": 1,
@@ -71,7 +166,7 @@
       "source": "Hacker News",
       "title": "Headlong: A Microharness for Persistent Agents",
       "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 49\n# Comments: 17",
+      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 62\n# Comments: 20",
       "publishedAt": "2026-08-25T03:54:19.000Z",
       "image": "https://www.laude.org/images/updates/headlong-a-microharness-for-persistent-agents-hero.jpg",
       "sourceCount": 1,
@@ -104,7 +199,7 @@
       "source": "Hacker News",
       "title": "SiFive's First Server Platform",
       "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 39\n# Comments: 7",
+      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 57\n# Comments: 14",
       "publishedAt": "2026-08-25T03:06:26.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!hVUh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2046840a-bfac-4469-86df-3b75d2689714_1557x820.png",
       "sourceCount": 1,
@@ -113,20 +208,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Thomson Reuters Launches Its Own Frontier Model",
-      "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-      "summary": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\nComments URL: https…",
-      "publishedAt": "2026-08-25T02:11:39.000Z",
-      "image": "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/photography/reuters/rtr1zkvu-luke-macgregor-tr.jpg.transform/rect-768/q90/image.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T02:11:39.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "How Universities Should Prepare Founders",
       "link": "https://paulgraham.com/prepare.html",
-      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 109\n# Comments: 130",
+      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 128\n# Comments: 160",
       "publishedAt": "2026-08-25T01:40:39.000Z",
       "image": null,
       "sourceCount": 1,
@@ -137,7 +221,7 @@
       "source": "Hacker News",
       "title": "Was modern art a CIA psy-op? (2020)",
       "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\nComments URL: https://news.ycombinator.com/item?id=49428080\nPoints: 72\n# Comments: 95",
+      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\nComments URL: https://news.ycombinator.com/item?id=49428080\nPoints: 81\n# Comments: 132",
       "publishedAt": "2026-08-25T01:35:00.000Z",
       "image": "https://daily.jstor.org/wp-content/uploads/2020/04/was_modern_art_really_a_cia_psy_op_alt_1050x700.jpg",
       "sourceCount": 1,
@@ -176,17 +260,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T23:05:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "link": "https://github.com/murerkinn/bookshelf",
-      "summary": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 88\n# Comments: 32",
-      "publishedAt": "2026-08-24T23:00:37.000Z",
-      "image": "https://opengraph.githubassets.com/ed308c925f01408ea2387c96d8bebf97fc4bc2d5754658604c726a570ed967c5/murerkinn/bookshelf",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T23:00:37.000Z"
     },
     {
       "source": "Ars Technica",
@@ -340,17 +413,6 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation i…",
-      "publishedAt": "2026-08-24T19:58:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T19:58:17.000Z"
-    },
-    {
-      "source": "TechCrunch",
       "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
       "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
       "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
@@ -434,17 +496,6 @@
       "latestActivity": "2026-08-24T18:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
-      "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
-      "summary": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March.",
-      "publishedAt": "2026-08-24T17:46:18.000Z",
-      "image": "https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/191:100/w_1280,c_limit/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T17:46:18.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Buyer beware: Those mummified remains might carry toxic spores",
       "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
@@ -489,17 +540,6 @@
       "latestActivity": "2026-08-24T15:06:24.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-      "link": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
-      "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computer…",
-      "publishedAt": "2026-08-24T14:49:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T14:49:44.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How to encourage smarter AI use in the classroom",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -531,28 +571,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T12:10:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Birdfy Nest Duo Review: My Own Private Nature Documentary",
-      "link": "https://www.wired.com/review/birdfy-nest-duo/",
-      "summary": "With two cameras and built-in climate sensors, the Birdfy Nest Duo let me watch an entire nesting season unfold.",
-      "publishedAt": "2026-08-24T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a8a07d6381fc48bef281868/191:100/w_1280,c_limit/Review--Birdfy-Nest-Duo.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T11:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Kindle Accessories I Never Want to Read Without (2026)",
-      "link": "https://www.wired.com/story/best-kindle-accessories/",
-      "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.",
-      "publishedAt": "2026-08-24T11:09:00.000Z",
-      "image": "https://media.wired.com/photos/6a8a015eeed0f12a3b23afcb/191:100/w_1280,c_limit/The-Best-Kindle-Accessories-.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T11:09:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -643,17 +661,6 @@
       "latestActivity": "2026-08-21T09:00:00.000Z"
     },
     {
-      "source": "MIT Technology Review",
-      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later…",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-21T09:00:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
       "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
@@ -674,17 +681,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-20T19:57:01.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Debates over AI consciousness are a trap",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominen…",
-      "publishedAt": "2026-08-20T15:42:39.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-20T15:42:39.000Z"
     }
   ]
 }
