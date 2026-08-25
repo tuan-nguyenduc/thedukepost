@@ -1,16 +1,104 @@
 {
-  "syncedAt": "2026-08-24T22:28:53.238Z",
+  "syncedAt": "2026-08-25T01:22:26.751Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "publishedAt": "2026-08-25T00:23:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T00:23:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "summary": "Cursed BIOS. | Photo by Sean Hollister / The Verge\t\n\nWhen a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular compute…",
+      "publishedAt": "2026-08-24T23:38:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T23:38:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
+      "link": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
+      "summary": "https://archive.ph/YwVNE\nComments URL: https://news.ycombinator.com/item?id=49427046\nPoints: 18\n# Comments: 8",
+      "publishedAt": "2026-08-24T23:06:37.000Z",
+      "image": "https://media.newyorker.com/photos/6a85f2c2eba50b8595e0a893/16:9/w_1280,c_limit/Iran_Header_Final.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T23:06:37.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+      "publishedAt": "2026-08-24T23:05:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T23:05:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "link": "https://github.com/murerkinn/bookshelf",
+      "summary": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 24\n# Comments: 4",
+      "publishedAt": "2026-08-24T23:00:37.000Z",
+      "image": "https://opengraph.githubassets.com/826ba5d5fe5bdfbf603cd1392ccf4bf7993faf47e2214a5e7bb8d722f2dd0347/murerkinn/bookshelf",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T23:00:37.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm\nComments URL: https://news.ycombinator.com/item?id=49426564\nPoints: 16\n# Comments: 3",
+      "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm\nComments URL: https://news.ycombinator.com/item?id=49426564\nPoints: 195\n# Comments: 41",
       "publishedAt": "2026-08-24T22:13:40.000Z",
       "image": "https://developer.apple.com/news/images/og/icloud-og.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T22:13:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Moon (2024)",
+      "link": "https://ciechanow.ski/moon/",
+      "summary": "Article URL: https://ciechanow.ski/moon/\nComments URL: https://news.ycombinator.com/item?id=49426466\nPoints: 90\n# Comments: 14",
+      "publishedAt": "2026-08-24T22:06:02.000Z",
+      "image": "https://ciechanow.ski/images/og/moon.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T22:06:02.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "publishedAt": "2026-08-24T21:45:53.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T21:45:53.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+      "publishedAt": "2026-08-24T21:32:16.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T21:32:16.000Z"
     },
     {
       "source": "Engadget",
@@ -46,10 +134,21 @@
       "latestActivity": "2026-08-24T21:08:00.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+      "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+      "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+      "publishedAt": "2026-08-24T21:04:48.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T21:04:48.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
       "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk\nComments URL: https://news.ycombinator.com/item?id=49425819\nPoints: 59\n# Comments:…",
+      "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk\nComments URL: https://news.ycombinator.com/item?id=49425819\nPoints: 119\n# Comments:…",
       "publishedAt": "2026-08-24T21:03:06.000Z",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1354425423.jpg?c=16x9&q=w_800,c_fill",
       "sourceCount": 1,
@@ -60,7 +159,7 @@
       "source": "Hacker News",
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
       "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49425800\nPoints: 24\n# Com…",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49425800\nPoints: 48\n# Com…",
       "publishedAt": "2026-08-24T21:01:38.000Z",
       "image": null,
       "sourceCount": 1,
@@ -117,6 +216,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T20:22:35.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+      "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+      "summary": "Monitor vendors are playing with fire.",
+      "publishedAt": "2026-08-24T20:17:41.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-159905320-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T20:17:41.000Z"
     },
     {
       "source": "TechCrunch",
@@ -185,17 +295,6 @@
       "latestActivity": "2026-08-24T19:50:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-      "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-      "publishedAt": "2026-08-24T19:44:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_k.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T19:44:13.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "GM vehicles under federal scrutiny after hundreds of reports",
       "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
@@ -221,7 +320,7 @@
       "source": "Hacker News",
       "title": "Oceans hit highest temperature on record",
       "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o\nComments URL: https://news.ycombinator.com/item?id=49424606\nPoints: 292\n# Comments: 161",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o\nComments URL: https://news.ycombinator.com/item?id=49424606\nPoints: 386\n# Comments: 276",
       "publishedAt": "2026-08-24T19:19:08.000Z",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg",
       "sourceCount": 1,
@@ -240,28 +339,6 @@
       "latestActivity": "2026-08-24T19:03:06.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "link": "https://textlog.cc/post/2059",
-      "summary": "Article URL: https://textlog.cc/post/2059\nComments URL: https://news.ycombinator.com/item?id=49424167\nPoints: 33\n# Comments: 18",
-      "publishedAt": "2026-08-24T18:45:43.000Z",
-      "image": "https://textlog.cc/post/2059/og.png?v=8",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T18:45:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anger, Anxiety and Agency",
-      "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/\nComments URL: https://news.ycombinator.com/item?id=49424082\nPoints: 73\n# Comments: 79",
-      "publishedAt": "2026-08-24T18:37:24.000Z",
-      "image": "https://lucumr.pocoo.org/social/2026-08-24-anger-anxiety-agency-social.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T18:37:24.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "The only GameCube that could play CDs and DVDs is rarely found below $1,000 today",
       "link": "https://www.engadget.com/2241156/only-gamecube-could-play-cds-dvds-rarely-found-below-1000-dollars-panasonic-q/",
@@ -271,28 +348,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-      "link": "https://github.com/getkern/kern",
-      "summary": "I built kern because I needed a fast, zero-daemon tool to set CPU/RAM limits and run isolated tasks without the overhead of Docker. It's a single 1.5MB Rust binary using OCI images…",
-      "publishedAt": "2026-08-24T18:24:59.000Z",
-      "image": "https://opengraph.githubassets.com/22b81444a550e36b5efc41f5e546089df645d66fd0185def4375299d4c143205/getkern/kern",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T18:24:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-…",
-      "publishedAt": "2026-08-24T18:03:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T18:03:55.000Z"
     },
     {
       "source": "The Verge",
@@ -390,17 +445,6 @@
       "latestActivity": "2026-08-24T16:41:45.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
-      "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-      "summary": "Formula 1 returned from its summer break with this weekend's Dutch Grand Prix.",
-      "publishedAt": "2026-08-24T16:02:54.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291183505-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T16:02:54.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "ESPN streaming plans are getting more expensive",
       "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
@@ -423,17 +467,6 @@
       "latestActivity": "2026-08-24T14:49:44.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Trump tried to curb clean energy. It’s booming anyway.",
-      "link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
-      "summary": "Capacity will rise by a record 45GW this year, according to S&P Global Energy.",
-      "publishedAt": "2026-08-24T14:43:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289637867.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T14:43:56.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How to encourage smarter AI use in the classroom",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -454,17 +487,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T14:04:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "How GoFundMe became America’s backup plan",
-      "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-      "summary": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from…",
-      "publishedAt": "2026-08-24T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T14:00:00.000Z"
     },
     {
       "source": "VentureBeat",
@@ -509,17 +531,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T11:09:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-      "summary": "The Unibook is a weird entry-level laptop for people with patience.",
-      "publishedAt": "2026-08-24T11:00:01.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_9264-1152x648-1787169907.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T11:00:01.000Z"
     },
     {
       "source": "Wired",
@@ -575,17 +586,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-23T23:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-      "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-      "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-      "publishedAt": "2026-08-23T14:30:16.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-23T14:30:16.000Z"
     },
     {
       "source": "VentureBeat",
