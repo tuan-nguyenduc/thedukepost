@@ -1,6 +1,83 @@
 {
-  "syncedAt": "2026-08-25T03:00:44.069Z",
+  "syncedAt": "2026-08-25T04:40:49.523Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
+      "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+      "summary": "There’s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
+      "publishedAt": "2026-08-25T04:01:00.000Z",
+      "image": "https://media.wired.com/photos/6a8ce07d60f23f7c6261c515/191:100/w_1280,c_limit/AP26092141058357.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T04:01:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 7\n# Comments: 1",
+      "publishedAt": "2026-08-25T03:54:19.000Z",
+      "image": "https://www.laude.org/images/updates/headlong-a-microharness-for-persistent-agents-hero.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T03:54:19.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to watch the Nancy Grace Roman Space Telescope's launch",
+      "link": "https://www.engadget.com/2243391/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/",
+      "summary": "NASA's Nancy Grace Roman Space Telescope is scheduled for launch on August 30.",
+      "publishedAt": "2026-08-25T03:48:02.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/l-intro-1787629590.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T03:48:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+      "link": "https://news.ycombinator.com/item?id=49428842",
+      "summary": "Looking for options that might work for a low power touchscreen for a calendar project.\nComments URL: https://news.ycombinator.com/item?id=49428842\nPoints: 8\n# Comments: 2",
+      "publishedAt": "2026-08-25T03:46:01.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T03:46:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+      "publishedAt": "2026-08-25T03:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T03:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+      "summary": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\nComments URL: https…",
+      "publishedAt": "2026-08-25T02:11:39.000Z",
+      "image": "https://www.thomsonreuters.com/content/dam/ewp-m/images/thomsonreuters/en/photography/reuters/rtr1zkvu-luke-macgregor-tr.jpg.transform/rect-768/q90/image.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T02:11:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Universities Should Prepare Founders",
+      "link": "https://paulgraham.com/prepare.html",
+      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 49\n# Comments: 48",
+      "publishedAt": "2026-08-25T01:40:39.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T01:40:39.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -33,6 +110,39 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T23:05:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "link": "https://github.com/murerkinn/bookshelf",
+      "summary": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 60\n# Comments: 23",
+      "publishedAt": "2026-08-24T23:00:37.000Z",
+      "image": "https://opengraph.githubassets.com/fa3dd9d2ddaf2279367eed397427fa56a08d2b419286c083ad69ac70953faba0/murerkinn/bookshelf",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T23:00:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm\nComments URL: https://news.ycombinator.com/item?id=49426564\nPoints: 308\n# Comments: 75",
+      "publishedAt": "2026-08-24T22:13:40.000Z",
+      "image": "https://developer.apple.com/news/images/og/icloud-og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T22:13:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Moon (2024)",
+      "link": "https://ciechanow.ski/moon/",
+      "summary": "Article URL: https://ciechanow.ski/moon/\nComments URL: https://news.ycombinator.com/item?id=49426466\nPoints: 121\n# Comments: 20",
+      "publishedAt": "2026-08-24T22:06:02.000Z",
+      "image": "https://ciechanow.ski/images/og/moon.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T22:06:02.000Z"
     },
     {
       "source": "Ars Technica",
@@ -99,6 +209,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T21:04:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk\nComments URL: https://news.ycombinator.com/item?id=49425819\nPoints: 146\n# Comments:…",
+      "publishedAt": "2026-08-24T21:03:06.000Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1354425423.jpg?c=16x9&q=w_800,c_fill",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-24T21:03:06.000Z"
     },
     {
       "source": "Wired",
@@ -207,17 +328,6 @@
       "latestActivity": "2026-08-24T19:54:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 ",
-      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-      "publishedAt": "2026-08-24T19:54:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T19:54:19.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The cat-and-mouse game over 3D-printed guns has begun",
       "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
@@ -322,17 +432,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T16:59:07.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "ESPN is raising prices on most of its streaming subscriptions, even bundles with Disney+",
-      "link": "https://www.engadget.com/2242821/espn-is-raising-prices-on-most-of-its-streaming-subscriptions/",
-      "summary": "ESPN's Unlimited tier will cost $32 per month as of September 17.",
-      "publishedAt": "2026-08-24T16:49:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/espn-is-raising-prices-on-most-of-its-streaming-subscriptions-even-bundles-with-disney/l-intro-1787590062.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T16:49:00.000Z"
     },
     {
       "source": "The Verge",
@@ -465,17 +564,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
-      "link": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
-      "summary": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your no…",
-      "publishedAt": "2026-08-24T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a87862020408e2e1b24b43a/191:100/w_1280,c_limit/All-Work-Virtual-Play-Gear.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T10:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
