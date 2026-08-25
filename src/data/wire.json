@@ -1,6 +1,130 @@
 {
-  "syncedAt": "2026-08-25T18:42:03.023Z",
+  "syncedAt": "2026-08-25T20:31:38.846Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "The Witcher 3 is getting a remaster",
+      "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+      "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild…",
+      "publishedAt": "2026-08-25T20:24:24.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/3-2.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T20:24:24.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "summary": "Perplexity is launching Portable Computer today, a version of its agentic \"Computer\" platform that runs entirely on hardware users already own — starting with Nvidia's DGX Spark de…",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/38SqWqR29f9YmMh5XSixJv/d375ddc77c0d8b0bc11c676fef937097/Nuneybits_Vector_art_of_cloud_dissolving_into_Nvidia_green_pixe_585344e3-0291-425f-9c47-895b98c353ff.webp?w=300&q=30",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Perplexity Portable Computer",
+          "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+          "publishedAt": "2026-08-25T19:41:48.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-25T19:41:48.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+      "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+      "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagra…",
+      "publishedAt": "2026-08-25T17:12:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta-first-draft.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+          "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+          "publishedAt": "2026-08-25T19:22:52.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-25T19:22:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\nComments URL: https:/…",
+      "publishedAt": "2026-08-25T19:07:01.000Z",
+      "image": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T19:07:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "publishedAt": "2026-08-25T19:03:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T19:03:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Preserving glow-in-the-dark art and fashion for future generations",
+      "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+      "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
+      "publishedAt": "2026-08-25T18:59:12.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glowindark3-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T18:59:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Dreame’s dream of a rocket-powered car is dead",
+      "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
+      "summary": "The Dreame NEXT event during the Silicon Valley Summit at the Palace of Fine Arts on April 29, 2026 in San Francisco, CA. | Photo by Kelsey McClellan / The Verge\t\n\nDreame, the Chin…",
+      "publishedAt": "2026-08-25T18:52:53.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268500_Dreame_NEXT_2026_KMcClellan_0065.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T18:52:53.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Google Pixel 11 Pro Fold Review: Better, Not Best",
+      "link": "https://www.wired.com/review/google-pixel-11-pro-fold/",
+      "summary": "A polished update to Google’s foldable brings real improvements, but the price bump and rampant competition make it a tough sell.",
+      "publishedAt": "2026-08-25T18:45:00.000Z",
+      "image": "https://media.wired.com/photos/6a8ddc85c2027e53c53387d2/191:100/w_1280,c_limit/Pixel%2011%20Pro%20Fold%208%20SOURCE%20Simon%20Hill.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T18:45:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "summary": "It's currently only appearing on Pixels running Android 17.",
+      "publishedAt": "2026-08-25T18:32:30.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motion-Assist-Pixel-11-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T18:32:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "link": "https://pgbot.dev/",
+      "summary": "Article URL: https://pgbot.dev/\nComments URL: https://news.ycombinator.com/item?id=49438492\nPoints: 42\n# Comments: 10",
+      "publishedAt": "2026-08-25T18:30:57.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T18:30:57.000Z"
+    },
     {
       "source": "Engadget",
       "title": "How to turn off Find My iPhone (and when you definitely should)",
@@ -22,17 +146,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T18:26:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Message from the Family of Dolly Parton",
-      "link": "https://www.instagram.com/reel/DceNXgPJyZ9/",
-      "summary": "Article URL: https://www.instagram.com/reel/DceNXgPJyZ9/\nComments URL: https://news.ycombinator.com/item?id=49438407\nPoints: 7\n# Comments: 0",
-      "publishedAt": "2026-08-25T18:25:09.000Z",
-      "image": "https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/786453170_18622152229055758_5731745204671607857_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=I2mDsKoNtwIQ7kNvwGt0W6j&_nc_oc=Adpaxx-Dwbgz4SvvyvLI28mIbweaSvzX4ao2iXo_EiWW8P2ofNqAeVieXt-0y5hnE5A&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=YKw7q056tE2uO74NE2DS1w&_nc_ss=7c689&oh=00_AQEepHq5boOJHWZ1-BD9xudiGoH23mOFLXC1_a9VqOW66g&oe=6A93BCB2",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T18:25:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -104,7 +217,7 @@
       "source": "Hacker News",
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\nComments URL: https://news.ycombinator.com/item?id=49437946\nPoints: 19\n# Comments: 1",
+      "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\nComments URL: https://news.ycombinator.com/item?id=49437946\nPoints: 126\n# Comments: 16",
       "publishedAt": "2026-08-25T17:55:23.000Z",
       "image": null,
       "sourceCount": 1,
@@ -143,17 +256,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T17:39:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "DOJ prosecutes single FOIA dodger while defending systemwide evasion",
-      "link": "https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/",
-      "summary": "Article URL: https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/\nComments URL: https://news.ycombinator.com/item?id=49437637…",
-      "publishedAt": "2026-08-25T17:35:23.000Z",
-      "image": "https://media.freedom.press/media/images/Morens.2e16d0ba.fill-1200x630.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T17:35:23.000Z"
     },
     {
       "source": "TechCrunch",
@@ -214,7 +316,7 @@
       "source": "Hacker News",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\nComments URL: https://news.ycombinator.com/item?id=49437483\nPoints: 18\n# Comments: 6",
+      "summary": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\nComments URL: https://news.ycombinator.com/item?id=49437483\nPoints: 65\n# Comments: 26",
       "publishedAt": "2026-08-25T17:23:07.000Z",
       "image": null,
       "sourceCount": 1,
@@ -234,25 +336,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Lightweight system monitor for Linux VPS written in Go",
+      "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
       "link": "https://github.com/leodeim/vpsmon",
-      "summary": "Article URL: https://github.com/leodeim/vpsmon\nComments URL: https://news.ycombinator.com/item?id=49437361\nPoints: 13\n# Comments: 7",
+      "summary": "Article URL: https://github.com/leodeim/vpsmon\nComments URL: https://news.ycombinator.com/item?id=49437361\nPoints: 26\n# Comments: 9",
       "publishedAt": "2026-08-25T17:13:59.000Z",
-      "image": "https://opengraph.githubassets.com/217647b5d2c9576bfb3955e5fbce29fa706cc4baaa0a23b8087b0c53cf7b5f2a/leodeim/vpsmon",
+      "image": "https://opengraph.githubassets.com/4caa03d994575d63d1bb97dd23ecf9cb4ae5bbefb494c9574abd7aba55bbaa61/leodeim/vpsmon",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T17:13:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-      "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-      "summary": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagra…",
-      "publishedAt": "2026-08-25T17:12:31.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta-first-draft.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T17:12:31.000Z"
     },
     {
       "source": "Engadget",
@@ -264,17 +355,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T17:09:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nitter project received cease and desist",
-      "link": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "Article URL: https://github.com/zedeus/nitter/issues/1442\nComments URL: https://news.ycombinator.com/item?id=49437283\nPoints: 178\n# Comments: 110",
-      "publishedAt": "2026-08-25T17:08:21.000Z",
-      "image": "https://opengraph.githubassets.com/448087b9915a97950286fd00a3033e502449f2db2dc68f64aa44578a3fbfa1b8/zedeus/nitter/issues/1442",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T17:08:21.000Z"
     },
     {
       "source": "Engadget",
@@ -365,17 +445,6 @@
       "latestActivity": "2026-08-25T16:16:57.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Polestar claims it was blindsided by sales ban",
-      "link": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
-      "summary": "BEVERLY HILLS, CALIFORNIA - JUNE 26: Polestar cars are displayed in the showroom at a Polestar dealership on June 26, 2026 in Beverly Hills, California. Electric car maker Polestar…",
-      "publishedAt": "2026-08-25T16:14:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283439943.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T16:14:45.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
       "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
@@ -387,17 +456,6 @@
       "latestActivity": "2026-08-25T16:04:37.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "That fake Grand Theft Auto VI demo is actually just malware",
-      "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-      "summary": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
-      "publishedAt": "2026-08-25T15:48:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/grand-theft-auto-2213757731.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T15:48:38.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Waymo is expanding to Germany, with service in Munich planned for 2027",
       "link": "https://www.engadget.com/2243733/waymo-is-expanding-to-germany-with-service-in-munich-planned-for-2027/",
@@ -407,17 +465,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T15:40:02.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-      "summary": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
-      "publishedAt": "2026-08-25T15:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-end.jpeg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T15:30:00.000Z"
     },
     {
       "source": "Wired",
@@ -442,17 +489,6 @@
       "latestActivity": "2026-08-25T15:10:03.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
-      "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-      "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made w…",
-      "publishedAt": "2026-08-25T14:25:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/polishing-cloth.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T14:25:52.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Apple's new desktop computers are designed specifically for local AI development",
       "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
@@ -470,17 +506,6 @@
       "summary": "Apple’s Mac Mini and Mac Studio have been tough to buy for months, but updated versions have arrived. Both include new chips optimized for AI, with the M6 Mac Mini getting a $200 p…",
       "publishedAt": "2026-08-25T13:00:00.000Z",
       "image": "https://media.wired.com/photos/6a8cd76feb242cc1b4100068/191:100/w_1280,c_limit/Apple-Mac-mini-hero.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T13:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-      "summary": "Perplexity is launching Portable Computer today, a version of its agentic \"Computer\" platform that runs entirely on hardware users already own — starting with Nvidia's DGX Spark de…",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/38SqWqR29f9YmMh5XSixJv/d375ddc77c0d8b0bc11c676fef937097/Nuneybits_Vector_art_of_cloud_dissolving_into_Nvidia_green_pixe_585344e3-0291-425f-9c47-895b98c353ff.webp?w=300&q=30",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T13:00:00.000Z"
@@ -541,17 +566,6 @@
       "latestActivity": "2026-08-25T10:32:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Border Wall Construction Threatens 6,000 Years of History on Private Lands",
-      "link": "https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/",
-      "summary": "Archeologists are confronting an “unfathomable” loss as border wall construction is set to cut across ranches that are home to unique historical sites, many of which haven’t been f…",
-      "publishedAt": "2026-08-25T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a8cb2ea1cb68a79f2a89e3d/191:100/w_1280,c_limit/Science_Border%20Wall%20Construction%20Threatens%206,000%20Years%20of%20History%20on%20Private%20Lands_v2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T10:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Welcome to the spiderverse, a world measured through webs",
       "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
@@ -572,28 +586,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-      "publishedAt": "2026-08-24T21:45:53.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T21:45:53.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Data centers become \"killer application\" for new power transformer tech",
-      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-      "summary": "Solid-state transformers could also benefit EV charging and, someday, households.",
-      "publishedAt": "2026-08-24T21:32:16.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T21:32:16.000Z"
     },
     {
       "source": "MIT Technology Review",
