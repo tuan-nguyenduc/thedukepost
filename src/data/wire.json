@@ -1,13 +1,24 @@
 {
-  "syncedAt": "2026-08-25T06:52:13.310Z",
+  "syncedAt": "2026-08-25T08:45:10.443Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "Android is getting its own weird dots to cure car sickness",
+      "link": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+      "summary": "Motion Assist as found in Android 17’s settings. | Image: Android Authority (cropped by The Verge)\t\n\nGoogle is rolling out a new Android feature that's been proven to reduce, or ev…",
+      "publishedAt": "2026-08-25T08:36:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Motion-Assist-Pixel-11-1-647w-1440h.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T08:36:27.000Z"
+    },
     {
       "source": "Wired",
       "title": "Omega Just Released a Mini Moonwatch",
       "link": "https://www.wired.com/story/omega-just-released-a-mini-moonwatch/",
       "summary": "Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.",
       "publishedAt": "2026-08-25T06:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a8c103855d9f86051c35149/191:100/w_1280,c_limit/324.20.38.50.02.001_SP_Packshot_CloseUp-dial_RGB.jpg",
+      "image": "https://media.wired.com/photos/6a8d4a7500aa0aeb44d47176/191:100/w_1280,c_limit/32430385001002_SP_Packshot_ThreeQuarter_4x5_RVB.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T06:00:00.000Z"
@@ -29,10 +40,21 @@
       "link": "https://github.com/dragthelake/ambient-context",
       "summary": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, on…",
       "publishedAt": "2026-08-25T04:33:24.000Z",
-      "image": "https://opengraph.githubassets.com/774fd0c35a42ef2f6ccface2ce3c942dbd17a09a8245fdda5a43c0642b13d97a/dragthelake/ambient-context",
+      "image": "https://opengraph.githubassets.com/918a35f86e20e831a650a3ea5e1151e42ee9dbdf2755f5e053b2fe2290b56335/dragthelake/ambient-context",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T04:33:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Volcanoes that made history",
+      "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+      "summary": "Article URL: https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history\nComments URL: https://news.ycombinator.com/item?id=49428972\nPoints: 4\n# Co…",
+      "publishedAt": "2026-08-25T04:09:43.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T04:09:43.000Z"
     },
     {
       "source": "Wired",
@@ -49,7 +71,7 @@
       "source": "Hacker News",
       "title": "Headlong: A Microharness for Persistent Agents",
       "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 31\n# Comments: 10",
+      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 49\n# Comments: 17",
       "publishedAt": "2026-08-25T03:54:19.000Z",
       "image": "https://www.laude.org/images/updates/headlong-a-microharness-for-persistent-agents-hero.jpg",
       "sourceCount": 1,
@@ -82,7 +104,7 @@
       "source": "Hacker News",
       "title": "SiFive's First Server Platform",
       "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 13\n# Comments: 4",
+      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 39\n# Comments: 7",
       "publishedAt": "2026-08-25T03:06:26.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!hVUh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2046840a-bfac-4469-86df-3b75d2689714_1557x820.png",
       "sourceCount": 1,
@@ -104,7 +126,7 @@
       "source": "Hacker News",
       "title": "How Universities Should Prepare Founders",
       "link": "https://paulgraham.com/prepare.html",
-      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 87\n# Comments: 85",
+      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 109\n# Comments: 130",
       "publishedAt": "2026-08-25T01:40:39.000Z",
       "image": null,
       "sourceCount": 1,
@@ -115,7 +137,7 @@
       "source": "Hacker News",
       "title": "Was modern art a CIA psy-op? (2020)",
       "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\nComments URL: https://news.ycombinator.com/item?id=49428080\nPoints: 58\n# Comments: 63",
+      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\nComments URL: https://news.ycombinator.com/item?id=49428080\nPoints: 72\n# Comments: 95",
       "publishedAt": "2026-08-25T01:35:00.000Z",
       "image": "https://daily.jstor.org/wp-content/uploads/2020/04/was_modern_art_really_a_cia_psy_op_alt_1050x700.jpg",
       "sourceCount": 1,
@@ -159,23 +181,12 @@
       "source": "Hacker News",
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
       "link": "https://github.com/murerkinn/bookshelf",
-      "summary": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 76\n# Comments: 32",
+      "summary": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 88\n# Comments: 32",
       "publishedAt": "2026-08-24T23:00:37.000Z",
-      "image": "https://opengraph.githubassets.com/5b1d3f73c1f67e8192a6135f5050fab9ae8f0cec86ee4ee6d0d919de8902b281/murerkinn/bookshelf",
+      "image": "https://opengraph.githubassets.com/ed308c925f01408ea2387c96d8bebf97fc4bc2d5754658604c726a570ed967c5/murerkinn/bookshelf",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T23:00:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm\nComments URL: https://news.ycombinator.com/item?id=49426564\nPoints: 385\n# Comments: 102",
-      "publishedAt": "2026-08-24T22:13:40.000Z",
-      "image": "https://developer.apple.com/news/images/og/icloud-og.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T22:13:40.000Z"
     },
     {
       "source": "Ars Technica",
@@ -498,17 +509,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T14:20:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s four-pack of second-gen AirTags is $20 off",
-      "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-      "summary": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right…",
-      "publishedAt": "2026-08-24T14:04:04.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/airtags.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T14:04:04.000Z"
     },
     {
       "source": "VentureBeat",
