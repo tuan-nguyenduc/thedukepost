@@ -1,16 +1,181 @@
 {
-  "syncedAt": "2026-08-25T10:35:23.129Z",
+  "syncedAt": "2026-08-25T12:51:28.529Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Why some US restaurants are banning tips",
-      "link": "https://www.bbc.com/news/articles/c4g36yze692o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o\nComments URL: https://news.ycombinator.com/item?id=49431364\nPoints: 11\n# Comments: 4",
-      "publishedAt": "2026-08-25T10:09:47.000Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg",
+      "source": "TechCrunch",
+      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+      "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+      "summary": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+      "publishedAt": "2026-08-25T12:37:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-25T10:09:47.000Z"
+      "latestActivity": "2026-08-25T12:37:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The OLED Xbox Ally X20 officially starts at $1,300",
+      "link": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
+      "summary": "The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In J…",
+      "publishedAt": "2026-08-25T12:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-ally-x20-sean-hollister-1-12.jpg?quality=90&#038;strip=all&#038;crop=0,8.4001312520508,91.8,91.599868747949",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T12:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "ASUS is celebrating the 20th anniversary of its gaming division with the ROG XBOX Ally X20",
+      "link": "https://www.engadget.com/2243119/asus-rog-xbox-ally-x20-20th-anniversary-release/",
+      "summary": "The big upgrade on the 20th anniversary ROG XBOX Ally X20 is a larger 7.4-inch OLED display.",
+      "publishedAt": "2026-08-25T12:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/asus-is-celebrating-the-20th-anniversary-of-its-gaming-division-with-the-rog-xbox-ally-x20/l-intro-1787601602.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T12:30:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+      "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How to encourage smarter AI use in the cla…",
+      "publishedAt": "2026-08-25T12:10:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?w=840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T12:10:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+      "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+      "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone n…",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/luffu-link.png?resize=1200,754",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The TCL Note A1 is a kinder, gentler tablet",
+      "link": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
+      "summary": "Website design is my passion.\t\n\nWithout thinking, I scribbled over what I'd just written. \nIt's what I would have done if I was writing with pen and paper. But I didn't have a pen…",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268711_TCL_Note_A1_Nxtpaper_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Don't Wordle",
+      "link": "https://dontwordle.com/",
+      "summary": "Article URL: https://dontwordle.com/\nComments URL: https://news.ycombinator.com/item?id=49432319\nPoints: 11\n# Comments: 2",
+      "publishedAt": "2026-08-25T11:49:48.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T11:49:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "HelloAssembly The smallest possible complete Windows application",
+      "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+      "summary": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly\nComments URL: https://news.ycombinator.com/item?id=49432227\nPoints: 11\n# Comments: 9",
+      "publishedAt": "2026-08-25T11:40:00.000Z",
+      "image": "https://opengraph.githubassets.com/94f79d0c8c4cb0bb0a98ea6e78755428d213ba34e4dd0bf2f295c4d13864bf5a/PlummersSoftwareLLC/HelloAssembly",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T11:40:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "link": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "summary": "Article URL: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer\nComments URL: https://news.ycombinator.com/item?id=494…",
+      "publishedAt": "2026-08-25T11:37:24.000Z",
+      "image": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F1LugQvDzX01KToTslxDIzT%2FEgan_Who%2520Pays_2026.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T11:37:24.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)",
+      "link": "https://www.wired.com/story/home-composters-buying-guide/",
+      "summary": "After years of smells, strange noises, and “tea,” these are the composters and food recyclers I’d actually recommend.",
+      "publishedAt": "2026-08-25T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/68f838f9ca694516647e4962/191:100/w_1280,c_limit/The%20Best%20Kitchen%20Composters%20and%20Food%20Recyclers.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T11:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The 4 Best Car Phone Mounts I’ve Tried (2026): Belkin, Andery, Andobil",
+      "link": "https://www.wired.com/story/best-car-phone-mounts-and-holders/",
+      "summary": "The best car phone holders keep your phone firmly in place while never getting in your line of sight. I took a dozen on road trips this summer to find the best.",
+      "publishedAt": "2026-08-25T11:08:00.000Z",
+      "image": "https://media.wired.com/photos/6a8cd5bc02f10e19f4a61a9c/191:100/w_1280,c_limit/The-Best-Car-Phone-Mounts-for-Hands-Free-Driving.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T11:08:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
+      "link": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
+      "summary": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance…",
+      "publishedAt": "2026-08-25T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/2026-Greenworks-MaximusZ-003-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The County Prosecutors Who Became ICE Informants",
+      "link": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
+      "summary": "Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public disclosure, or legislative oversight.",
+      "publishedAt": "2026-08-25T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a870dcaebe7f306d0053666/191:100/w_1280,c_limit/SAO_2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Quantum battery upends the rules of charging",
+      "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets\nComments URL: https://news.ycombinator.com/item?id=49431560\nPoints:…",
+      "publishedAt": "2026-08-25T10:34:12.000Z",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0p61k4w.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T10:34:12.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Optoma GT2400HDR Review: Ace Projector for Golf Simulation",
+      "link": "https://www.wired.com/review/optoma-gt2400hdr/",
+      "summary": "The Optoma GT2400HDR laser projector is great for setting up a driving range in your living room, but mediocre video quality makes it less appealing for home entertainment.",
+      "publishedAt": "2026-08-25T10:32:00.000Z",
+      "image": "https://media.wired.com/photos/6a8cdbb76eb888675cdee196/191:100/w_1280,c_limit/Review--Optoma-GT2400HDR.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T10:32:00.000Z"
     },
     {
       "source": "Wired",
@@ -35,32 +200,14 @@
       "latestActivity": "2026-08-25T09:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
-      "link": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
-      "summary": "Article URL: https://link.springer.com/article/10.1007/s12519-026-01046-1\nComments URL: https://news.ycombinator.com/item?id=49431024\nPoints: 9\n# Comments: 6",
-      "publishedAt": "2026-08-25T09:17:33.000Z",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs12519-026-01046-1/MediaObjects/12519_2026_1046_Figa_HTML.png",
+      "source": "The Verge",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and auton…",
+      "publishedAt": "2026-08-25T09:15:03.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-25T09:17:33.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation i…",
-      "publishedAt": "2026-08-24T19:58:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-          "publishedAt": "2026-08-25T09:15:03.000Z"
-        }
-      ],
       "latestActivity": "2026-08-25T09:15:03.000Z"
     },
     {
@@ -131,42 +278,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "link": "https://github.com/dragthelake/ambient-context",
-      "summary": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, on…",
-      "publishedAt": "2026-08-25T04:33:24.000Z",
-      "image": "https://opengraph.githubassets.com/94fd5dcaf307a36034993bb5a7700df44e6b17c270b9223320ba682d2db5d06d/dragthelake/ambient-context",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T04:33:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Volcanoes that made history",
-      "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
-      "summary": "Article URL: https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history\nComments URL: https://news.ycombinator.com/item?id=49428972\nPoints: 7\n# Co…",
-      "publishedAt": "2026-08-25T04:09:43.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T04:09:43.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
-      "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
-      "summary": "There’s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
-      "publishedAt": "2026-08-25T04:01:00.000Z",
-      "image": "https://media.wired.com/photos/6a8ce07d60f23f7c6261c515/191:100/w_1280,c_limit/AP26092141058357.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T04:01:00.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Headlong: A Microharness for Persistent Agents",
       "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 62\n# Comments: 20",
+      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 85\n# Comments: 35",
       "publishedAt": "2026-08-25T03:54:19.000Z",
       "image": "https://www.laude.org/images/updates/headlong-a-microharness-for-persistent-agents-hero.jpg",
       "sourceCount": 1,
@@ -199,7 +313,7 @@
       "source": "Hacker News",
       "title": "SiFive's First Server Platform",
       "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 57\n# Comments: 14",
+      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 75\n# Comments: 19",
       "publishedAt": "2026-08-25T03:06:26.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!hVUh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2046840a-bfac-4469-86df-3b75d2689714_1557x820.png",
       "sourceCount": 1,
@@ -210,7 +324,7 @@
       "source": "Hacker News",
       "title": "How Universities Should Prepare Founders",
       "link": "https://paulgraham.com/prepare.html",
-      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 128\n# Comments: 160",
+      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 163\n# Comments: 191",
       "publishedAt": "2026-08-25T01:40:39.000Z",
       "image": null,
       "sourceCount": 1,
@@ -221,7 +335,7 @@
       "source": "Hacker News",
       "title": "Was modern art a CIA psy-op? (2020)",
       "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\nComments URL: https://news.ycombinator.com/item?id=49428080\nPoints: 81\n# Comments: 132",
+      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\nComments URL: https://news.ycombinator.com/item?id=49428080\nPoints: 102\n# Comments: 178",
       "publishedAt": "2026-08-25T01:35:00.000Z",
       "image": "https://daily.jstor.org/wp-content/uploads/2020/04/was_modern_art_really_a_cia_psy_op_alt_1050x700.jpg",
       "sourceCount": 1,
@@ -306,17 +420,6 @@
       "latestActivity": "2026-08-24T21:24:17.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
-      "link": "https://www.wired.com/review/bitdefender-vpn/",
-      "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
-      "publishedAt": "2026-08-24T21:08:00.000Z",
-      "image": "https://media.wired.com/photos/6a42affc6262e4d897071945/191:100/w_1280,c_limit/bitdefender3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T21:08:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "RFK Jr. may upend how vaccine recommendations are categorized",
       "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
@@ -326,17 +429,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T21:04:48.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
-      "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
-      "summary": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
-      "publishedAt": "2026-08-24T20:45:52.000Z",
-      "image": "https://media.wired.com/photos/6a8c751405c1c68fdba8f759/191:100/w_1280,c_limit/Want-Safer-Eggs--A-Sous-Vide-Machine-Might-Be-the-Answer.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T20:45:52.000Z"
     },
     {
       "source": "The Verge",
@@ -368,17 +460,6 @@
       "latestActivity": "2026-08-24T20:30:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
-      "link": "https://www.wired.com/story/food-safety-gear-salmonella/",
-      "summary": "Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.",
-      "publishedAt": "2026-08-24T20:22:35.000Z",
-      "image": "https://media.wired.com/photos/6a8c7ae512c52ac70f8bd568/191:100/w_1280,c_limit/This-Is-the-One-Food-Safety-Gadget-I-Trust-to-Prevent-Salmonella.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T20:22:35.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
       "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
@@ -390,17 +471,6 @@
       "latestActivity": "2026-08-24T20:17:41.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
-      "publishedAt": "2026-08-24T20:16:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T20:16:34.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Threads is testing a podcast transcription feature",
       "link": "https://www.engadget.com/2243126/threads-is-testing-a-podcast-transcription-feature/",
@@ -410,17 +480,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T20:07:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-      "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
-      "publishedAt": "2026-08-24T19:54:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T19:54:50.000Z"
     },
     {
       "source": "The Verge",
@@ -467,33 +526,15 @@
       "latestActivity": "2026-08-24T18:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The Witcher 4 developers target a 2028 release",
-      "link": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
-      "summary": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher tit…",
-      "publishedAt": "2026-08-24T15:48:53.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Witcher_4_UE5_tech_demo_PS5_Ciri_2_EN.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "CDPR is aiming to release The Witcher 4 in 2028",
-          "link": "https://www.engadget.com/2242963/cdpr-is-aiming-to-release-the-witcher-4-in-2028/",
-          "publishedAt": "2026-08-24T18:03:28.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-24T18:03:28.000Z"
-    },
-    {
       "source": "Engadget",
-      "title": "How to add Bluetooth to a TV that doesn't have it",
-      "link": "https://www.engadget.com/2240323/how-to-add-bluetooth-tv-doesnt-have-it/",
-      "summary": "Your TV may not have native Bluetooth support, but you can still stream your TV's audio to wireless headphones.",
-      "publishedAt": "2026-08-24T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-add-bluetooth-to-a-tv-that-doesnt-have-it/l-intro-1786128907.jpg",
+      "title": "CDPR is aiming to release The Witcher 4 in 2028",
+      "link": "https://www.engadget.com/2242963/cdpr-is-aiming-to-release-the-witcher-4-in-2028/",
+      "summary": "CDPR's co-CEO called The Witcher 4\"our biggest, boldest and most ambitious game to date.\"",
+      "publishedAt": "2026-08-24T18:03:28.000Z",
+      "image": "https://www.engadget.com/img/gallery/cdpr-is-aiming-to-release-the-witcher-4-in-2028/l-intro-1787594424.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-24T18:00:00.000Z"
+      "latestActivity": "2026-08-24T18:03:28.000Z"
     },
     {
       "source": "Ars Technica",
@@ -507,17 +548,6 @@
       "latestActivity": "2026-08-24T16:59:07.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Robotaxis are real now — so is the pushback",
-      "link": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-      "summary": "Robotaxis are expanding. So is the fight over the rules governing them.\nIn New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driv…",
-      "publishedAt": "2026-08-24T16:42:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T16:42:37.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
       "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
@@ -527,17 +557,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T16:41:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "ESPN streaming plans are getting more expensive",
-      "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
-      "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch…",
-      "publishedAt": "2026-08-24T15:06:24.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594406/STK281_ESPN_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T15:06:24.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -645,17 +664,6 @@
       "summary": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), boo…",
       "publishedAt": "2026-08-21T09:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GettyImages-1095318768-thumb.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-21T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "When AI designs a drug, who gets the credit?",
-      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the mole…",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-21T09:00:00.000Z"
