@@ -68,6 +68,33 @@ A GitHub Action (`.github/workflows/send-digest.yml`) sends it once a day
 automatically and commits `src/data/digest-state.json`, which tracks the
 last send so the next digest only includes stories that are new since then.
 
+## "Most read this week"
+
+The homepage's "Most read this week" module is powered by
+[GoatCounter](https://www.goatcounter.com) (free, privacy-friendly analytics)
+so it can show real pageview counts on an otherwise static site with no
+backend.
+
+Setup:
+1. Create a free account at goatcounter.com and note your site code (the
+   subdomain in `https://<code>.goatcounter.com`).
+2. Generate an API token: Settings → API → new token, with the
+   "Read: statistics" permission.
+3. Set `PUBLIC_GOATCOUNTER_SITE=<code>` in your environment (e.g. a Vercel
+   project env var) — this enables the tracking snippet in `BaseLayout.astro`.
+4. Add two repo secrets (Settings → Secrets and variables → Actions):
+   `GOATCOUNTER_SITE` (same code as above) and `GOATCOUNTER_API_TOKEN`.
+
+Then:
+
+```bash
+npm run sync-stats   # pulls the last 7 days of hits into src/data/stats.json
+```
+
+A GitHub Action (`.github/workflows/sync-stats.yml`) runs this once a day.
+Until GoatCounter is configured, `sync-stats` is a no-op and the "Most read"
+section just doesn't render.
+
 ## Deploy
 
 **Recommended: Vercel**

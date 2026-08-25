@@ -97,6 +97,15 @@ const siteJsonLd = [
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  {import.meta.env.PUBLIC_GOATCOUNTER_SITE && (
+    <script
+      is:inline
+      data-goatcounter={`https://${import.meta.env.PUBLIC_GOATCOUNTER_SITE}.goatcounter.com/count`}
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
+  )}
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>

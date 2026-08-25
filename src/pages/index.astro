@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import { getCollection } from 'astro:content';
 import wireData from '../data/wire.json';
+import rawStatsData from '../data/stats.json';
 import { faviconUrl } from '../lib/favicon';
 import { categoryHref, categoryLabel } from '../lib/categories';
 import { calculateReadingTime, formatReadingTime } from '../lib/readingTime';
@@ -31,6 +32,20 @@ const trending = normalizedWireItems
   .filter((item) => item.sourceCount > 1)
   .sort((a, b) => b.sourceCount - a.sourceCount)
   .slice(0, 6);
+
+// stats.json is written by a scheduled sync job (see scripts/sync-stats.mjs)
+// and starts out empty until GoatCounter is configured and the job has run
+// at least once, so this section just doesn't render until there's data.
+// Cast rather than rely on inference: the committed seed file has an empty
+// `mostRead` array, which TS would otherwise narrow to `never[]`.
+const statsData = rawStatsData as { syncedAt: string | null; mostRead: { slug: string; count: number }[] };
+const articlesBySlug = new Map(articles.map((a) => [a.slug, a]));
+const mostRead = (statsData.mostRead ?? [])
+  .flatMap((entry) => {
+    const article = articlesBySlug.get(entry.slug);
+    return article ? [{ article, count: entry.count }] : [];
+  })
+  .slice(0, 5);
 
 // Backfill the grid with Wire highlights when there aren't enough original
 // articles yet, so the homepage isn't sparse. Pull from items past the ones
@@ -95,6 +110,23 @@ const moreCards = [
           </a>
         ))}
       </div>
+    </section>
+  )}
+
+  {mostRead.length > 0 && (
+    <section class="most-read wrap">
+      <h2 class="section-title">📈 Most read this week</h2>
+      <ol class="most-read__list">
+        {mostRead.map(({ article, count }, index) => (
+          <li class="most-read__item">
+            <span class="most-read__rank">{index + 1}</span>
+            <a href={`/articles/${article.slug}`} class="most-read__link">
+              <span class="most-read__title">{article.data.title}</span>
+              <span class="most-read__meta">{count} {count === 1 ? 'read' : 'reads'} · {formatReadingTime(calculateReadingTime(article.body))}</span>
+            </a>
+          </li>
+        ))}
+      </ol>
     </section>
   )}
 
@@ -273,6 +305,55 @@ const moreCards = [
     color: var(--slate);
   }
   .trending__logo { border-radius: 3px; }
+
+  .most-read { padding: 0 24px 8px; }
+  .most-read__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .most-read__item {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+  }
+  .most-read__rank {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid var(--ink);
+    border-radius: 50%;
+    font-family: var(--font-mono);
+    font-weight: 600;
+  }
+  .most-read__link {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--paper-line);
+  }
+  .most-read__title {
+    font-family: var(--font-display);
+    font-size: 17px;
+    font-weight: 600;
+    overflow-wrap: anywhere;
+  }
+  .most-read__meta {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--slate);
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
 
   .more-articles { padding: 24px 24px 56px; }
 

@@ -7,6 +7,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "sync-feeds": "node scripts/sync-feeds.mjs",
+    "sync-stats": "node scripts/sync-stats.mjs",
     "send-digest": "node scripts/send-digest.mjs",
     "send-digest:dry": "node scripts/send-digest.mjs --dry-run"
   },
