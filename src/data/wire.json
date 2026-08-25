@@ -1,38 +1,368 @@
 {
-  "syncedAt": "2026-08-25T12:51:28.529Z",
+  "syncedAt": "2026-08-25T14:48:25.123Z",
   "items": [
     {
       "source": "TechCrunch",
-      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
-      "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
-      "summary": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
-      "publishedAt": "2026-08-25T12:37:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800",
+      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+      "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+      "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
+      "publishedAt": "2026-08-25T14:46:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-25T12:37:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The OLED Xbox Ally X20 officially starts at $1,300",
-      "link": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
-      "summary": "The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In J…",
-      "publishedAt": "2026-08-25T12:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-ally-x20-sean-hollister-1-12.jpg?quality=90&#038;strip=all&#038;crop=0,8.4001312520508,91.8,91.599868747949",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T12:30:00.000Z"
+      "latestActivity": "2026-08-25T14:46:32.000Z"
     },
     {
       "source": "Engadget",
-      "title": "ASUS is celebrating the 20th anniversary of its gaming division with the ROG XBOX Ally X20",
-      "link": "https://www.engadget.com/2243119/asus-rog-xbox-ally-x20-20th-anniversary-release/",
-      "summary": "The big upgrade on the 20th anniversary ROG XBOX Ally X20 is a larger 7.4-inch OLED display.",
-      "publishedAt": "2026-08-25T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/asus-is-celebrating-the-20th-anniversary-of-its-gaming-division-with-the-rog-xbox-ally-x20/l-intro-1787601602.jpg",
+      "title": "Nintendo reveals its latest Switch 2 bundles just ahead of the console's price increase",
+      "link": "https://www.engadget.com/2243642/nintendo-reveals-its-latest-switch-2-bundles-just-ahead-of-the-consoles-price-increase/",
+      "summary": "Let this serve as a reminder that the Switch 2 is getting more expensive next week.",
+      "publishedAt": "2026-08-25T14:32:27.000Z",
+      "image": "https://www.engadget.com/img/gallery/nintendo-reveals-its-latest-switch-2-bundles-just-ahead-of-the-consoles-price-increase/l-intro-1787668188.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-25T12:30:00.000Z"
+      "latestActivity": "2026-08-25T14:32:27.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Sony phones in an update to the midrange Xperia 10 and slaps a sizable price hike on it",
+      "link": "https://www.engadget.com/2243639/sony-phones-in-an-update-to-the-midrange-xperia-10/",
+      "summary": "The Xperia 10 VIII offers few upgrades for a lot more money.",
+      "publishedAt": "2026-08-25T14:30:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/sony-phones-in-an-update-to-the-midrange-xperia-10-and-slaps-a-sizable-price-hike-on-it/l-intro-1787668001.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:30:52.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What's the difference between Thunderbolt 4 and 5?",
+      "link": "https://www.engadget.com/2240370/whats-the-difference-between-thunderbold-4-and-5/",
+      "summary": "Thunderbolt 5 offers extremely fast data transfer and lots of power, but most devices can't take advantage of it",
+      "publishedAt": "2026-08-25T14:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-thunderbolt-4-and-5/l-intro-1786973927.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+      "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "summary": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs\nComments URL: https://news.ycombinator.com/item?id=49434820\nPoints: 7\n# Comments: 1",
+      "publishedAt": "2026-08-25T14:29:32.000Z",
+      "image": "https://yale-threesixty.transforms.svdcdn.com/production/Bombed-Reef_Ocean-Agency.jpg?w=1200&q=60&auto=format&fit=max&dm=1787651638&s=1a2675b9d4e56555e14ad95fcf87d477",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:29:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
+      "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
+      "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made w…",
+      "publishedAt": "2026-08-25T14:25:52.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/polishing-cloth.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:25:52.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "publishedAt": "2026-08-25T14:22:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:22:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building a backyard office, the build and cost breakdown",
+      "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "summary": "Article URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown\nComments URL: https://news.ycombinator.com/item?id=49434645\nPoints: 16\n#…",
+      "publishedAt": "2026-08-25T14:20:36.000Z",
+      "image": "https://cdn.prod.website-files.com/5ecc3aa9b8d8da6245a6cb5e/65677bd2d5c1eaaf0b6e69e6_Office.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:20:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+      "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
+      "summary": "Article URL: https://www.erathos.com/en/blog/mysql-cdc-to-bigquery\nComments URL: https://news.ycombinator.com/item?id=49434613\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-08-25T14:18:29.000Z",
+      "image": "https://cms-media.erathos.com/[CDC%20do%20MySQL%20para%20o%20BigQuery]%20Header%20Blog.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:18:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/\nComments URL: https://news.ycombinator.com/item?i…",
+      "publishedAt": "2026-08-25T13:01:22.000Z",
+      "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/tile/Apple-M6-and-M5-Ultra-hero-260825-lp.jpg.og.jpg?202608251301",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+          "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+          "publishedAt": "2026-08-25T14:10:36.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-25T14:10:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "link": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8\nComments URL: https://news.ycombinator.com/item?id=49434291\nPoi…",
+      "publishedAt": "2026-08-25T14:00:27.000Z",
+      "image": "https://i.insider.com/6a8c5ba74569a4ec219f9773?width=1200&format=jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:00:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
+      "publishedAt": "2026-08-25T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a…",
+      "publishedAt": "2026-08-25T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Pebble Time 2 review: The perfect smartwatch for a select group of people",
+      "link": "https://www.engadget.com/2243490/pebble-time-2-review/",
+      "summary": "Pebble Time 2 is a smartwatch designed to push back against the trend, and it does so beautifully.",
+      "publishedAt": "2026-08-25T14:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/pebble-time-2-review-the-perfect-smartwatch-for-a-select-group-of-people/l-intro-1787658110.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
+      "link": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+      "summary": "The M6 / M5 Pro Mac Mini. | Image: Apple﻿\t\n\nApple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with…",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-MINI.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 4,
+      "related": [
+        {
+          "source": "Wired",
+          "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
+          "link": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+          "publishedAt": "2026-08-25T13:00:00.000Z"
+        },
+        {
+          "source": "Hacker News",
+          "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+          "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+          "publishedAt": "2026-08-25T13:03:17.000Z"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+          "link": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+          "publishedAt": "2026-08-25T13:55:06.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-25T13:55:06.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Gamescom Opening Night Live: Updates from the showcase including Final Fantasy and Gears of War previews",
+      "link": "https://www.engadget.com/2243580/gamescom-onl-2026-live-blog-final-fantasy-silent-hill-gears-of-war/",
+      "summary": "We're liveblogging the two-hour showcase and half hour pre-show of Gamescom's ONL today! Come join us, we'll even start a little early for you.",
+      "publishedAt": "2026-08-25T13:33:34.000Z",
+      "image": "https://www.engadget.com/img/gallery/gamescom-opening-night-live-updates-from-the-showcase-including-final-fantasy-and-gears-of-war-previews/l-intro-1787664665.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:33:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The state of AI in 2026: On the road to ROI",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "summary": "Article URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai\nComments URL: https://news.ycombinator.com/item?id=49433759\nPoints: 21\n# Comments: 28",
+      "publishedAt": "2026-08-25T13:32:52.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:32:52.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple M6 vs M5: How much faster is Apple's new 'everyday' Silicon?",
+      "link": "https://www.engadget.com/2243402/apple-m5-vs-m6-how-much-faster-silicon/",
+      "summary": "Apple finds respectable performance gains on a new 2nm process, but M5 users shouldn't feel any FOMO.",
+      "publishedAt": "2026-08-25T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-m5-vs-m6-how-much-faster-silicon/l-intro-1787665110.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/\nComments URL: https://news.ycombinator.com/item?id=4…",
+      "publishedAt": "2026-08-25T13:13:00.000Z",
+      "image": "https://www.apple.com/newsroom/images/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/tile/Apple-Mac-mini-hero-260825-lp.jpg.og.jpg?202608251301",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:13:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Where to preorder the updated Mac Mini and Mac Studio",
+      "link": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+      "summary": "The updated Mac Mini is a compact machine for home desktop use. | Image: Apple\t\n\nApple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac st…",
+      "publishedAt": "2026-08-25T13:02:18.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:02:18.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+      "publishedAt": "2026-08-25T13:00:11.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+      "link": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+      "summary": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/lolla-2-comments-ticket-negotiation.png?resize=1200,825",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "WhatsApp tightens account security with stronger two-step verification and more",
+      "link": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
+      "summary": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
+      "link": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
+      "summary": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt u…",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/wyze1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
+      "link": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
+      "summary": "GuliKit’s Switch 2 dock is a much smaller alternative to Nintendo’s.\t\n\nNintendo didn’t design its Switch dock with travel in mind. Genki’s Covert Dock is a much smaller alternative…",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikitdock8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
+      "link": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
+      "summary": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. \nSince fir…",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK106__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Uber will let parents peek through a driver's selfie camera when teens are taking a trip",
+          "link": "https://www.engadget.com/2243088/uber-will-let-parents-peek-through-a-drivers-selfie-camera-when-teens-are-taking-a-trip/",
+          "publishedAt": "2026-08-25T13:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+      "link": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "summary": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI model…",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/APPLE_M6_M5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video",
+      "link": "https://www.engadget.com/2243405/apple-m5-ultra-with-80-core-gpu-ai-models-8k-video/",
+      "summary": "With the launch of the latest Mac mini and Mac Studio computers, Apple introduced new chips with cutting-edge technology.",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-m5-ultra-with-80-core-gpu-ai-models-8k-video/l-intro-1787665163.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "summary": "Perplexity is launching Portable Computer today, a version of its agentic \"Computer\" platform that runs entirely on hardware users already own — starting with Nvidia's DGX Spark de…",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/38SqWqR29f9YmMh5XSixJv/d375ddc77c0d8b0bc11c676fef937097/Nuneybits_Vector_art_of_cloud_dissolving_into_Nvidia_green_pixe_585344e3-0291-425f-9c47-895b98c353ff.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T13:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -44,72 +374,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T12:10:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-      "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-      "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone n…",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/luffu-link.png?resize=1200,754",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The TCL Note A1 is a kinder, gentler tablet",
-      "link": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
-      "summary": "Website design is my passion.\t\n\nWithout thinking, I scribbled over what I'd just written. \nIt's what I would have done if I was writing with pen and paper. But I didn't have a pen…",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268711_TCL_Note_A1_Nxtpaper_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Don't Wordle",
-      "link": "https://dontwordle.com/",
-      "summary": "Article URL: https://dontwordle.com/\nComments URL: https://news.ycombinator.com/item?id=49432319\nPoints: 11\n# Comments: 2",
-      "publishedAt": "2026-08-25T11:49:48.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T11:49:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "HelloAssembly The smallest possible complete Windows application",
-      "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-      "summary": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly\nComments URL: https://news.ycombinator.com/item?id=49432227\nPoints: 11\n# Comments: 9",
-      "publishedAt": "2026-08-25T11:40:00.000Z",
-      "image": "https://opengraph.githubassets.com/94f79d0c8c4cb0bb0a98ea6e78755428d213ba34e4dd0bf2f295c4d13864bf5a/PlummersSoftwareLLC/HelloAssembly",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T11:40:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-      "link": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-      "summary": "Article URL: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer\nComments URL: https://news.ycombinator.com/item?id=494…",
-      "publishedAt": "2026-08-25T11:37:24.000Z",
-      "image": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F1LugQvDzX01KToTslxDIzT%2FEgan_Who%2520Pays_2026.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T11:37:24.000Z"
     },
     {
       "source": "Wired",
@@ -134,17 +398,6 @@
       "latestActivity": "2026-08-25T11:08:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
-      "link": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
-      "summary": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance…",
-      "publishedAt": "2026-08-25T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/2026-Greenworks-MaximusZ-003-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T11:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "The County Prosecutors Who Became ICE Informants",
       "link": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
@@ -154,17 +407,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Quantum battery upends the rules of charging",
-      "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets\nComments URL: https://news.ycombinator.com/item?id=49431560\nPoints:…",
-      "publishedAt": "2026-08-25T10:34:12.000Z",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0p61k4w.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T10:34:12.000Z"
     },
     {
       "source": "Wired",
@@ -200,17 +442,6 @@
       "latestActivity": "2026-08-25T09:30:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and auton…",
-      "publishedAt": "2026-08-25T09:15:03.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T09:15:03.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
       "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
@@ -244,138 +475,6 @@
       "latestActivity": "2026-08-25T09:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Android is getting its own weird dots to cure car sickness",
-      "link": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
-      "summary": "Motion Assist as found in Android 17’s settings. | Image: Android Authority (cropped by The Verge)\t\n\nGoogle is rolling out a new Android feature that's been proven to reduce, or ev…",
-      "publishedAt": "2026-08-25T08:36:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Motion-Assist-Pixel-11-1-647w-1440h.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T08:36:27.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Omega Just Released a Mini Moonwatch",
-      "link": "https://www.wired.com/story/omega-just-released-a-mini-moonwatch/",
-      "summary": "Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.",
-      "publishedAt": "2026-08-25T06:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a8d4a7500aa0aeb44d47176/191:100/w_1280,c_limit/32430385001002_SP_Packshot_ThreeQuarter_4x5_RVB.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T06:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "ASUS' first gaming soundbar is now available in the US for $600",
-      "link": "https://www.engadget.com/2243403/asus-first-gaming-soundbar-is-now-available-in-the-us-for-600/",
-      "summary": "The ASUS ROG Gjallar is now available in the US.",
-      "publishedAt": "2026-08-25T05:30:26.000Z",
-      "image": "https://www.engadget.com/img/gallery/asuss-first-gaming-soundbar-is-now-available-in-the-us-for-600/l-intro-1787635617.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T05:30:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 85\n# Comments: 35",
-      "publishedAt": "2026-08-25T03:54:19.000Z",
-      "image": "https://www.laude.org/images/updates/headlong-a-microharness-for-persistent-agents-hero.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T03:54:19.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to watch the Nancy Grace Roman Space Telescope's launch",
-      "link": "https://www.engadget.com/2243391/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/",
-      "summary": "NASA's Nancy Grace Roman Space Telescope is scheduled for launch on August 30.",
-      "publishedAt": "2026-08-25T03:48:02.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/l-intro-1787629590.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T03:48:02.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-      "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
-      "publishedAt": "2026-08-25T03:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T03:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "SiFive's First Server Platform",
-      "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 75\n# Comments: 19",
-      "publishedAt": "2026-08-25T03:06:26.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!hVUh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2046840a-bfac-4469-86df-3b75d2689714_1557x820.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T03:06:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "How Universities Should Prepare Founders",
-      "link": "https://paulgraham.com/prepare.html",
-      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 163\n# Comments: 191",
-      "publishedAt": "2026-08-25T01:40:39.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T01:40:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Was modern art a CIA psy-op? (2020)",
-      "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\nComments URL: https://news.ycombinator.com/item?id=49428080\nPoints: 102\n# Comments: 178",
-      "publishedAt": "2026-08-25T01:35:00.000Z",
-      "image": "https://daily.jstor.org/wp-content/uploads/2020/04/was_modern_art_really_a_cia_psy_op_alt_1050x700.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T01:35:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "publishedAt": "2026-08-25T00:23:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T00:23:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-      "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-      "summary": "Cursed BIOS. | Photo by Sean Hollister / The Verge\t\n\nWhen a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular compute…",
-      "publishedAt": "2026-08-24T23:38:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T23:38:10.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
-      "publishedAt": "2026-08-24T23:05:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T23:05:44.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
       "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
@@ -390,34 +489,12 @@
       "source": "Ars Technica",
       "title": "Data centers become \"killer application\" for new power transformer tech",
       "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+      "summary": "Solid-state transformers could also benefit EV charging and, someday, households.",
       "publishedAt": "2026-08-24T21:32:16.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T21:32:16.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How does converting a video to 4K actually work?",
-      "link": "https://www.engadget.com/2240352/how-converting-video-to-4k-works/",
-      "summary": "Upscaling software is getting better all the time, but there are still some caveats to be aware of.",
-      "publishedAt": "2026-08-24T21:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-does-converting-a-video-to-4k-actually-work/l-intro-1786115696.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T21:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "publishedAt": "2026-08-24T21:24:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217852528.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T21:24:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -431,35 +508,6 @@
       "latestActivity": "2026-08-24T21:04:48.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-      "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-      "summary": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow a…",
-      "publishedAt": "2026-08-24T17:01:05.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS500_FTC_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Zillow and Redfin settle FTC antitrust case",
-          "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-          "publishedAt": "2026-08-24T20:45:33.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-24T20:45:33.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to use Samsung's new My FanCam feature to make yourself the main character in your videos",
-      "link": "https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/",
-      "summary": "Zooming in on your kid's performance in the school play is about to get a whole lot easier. It's going to look better, too.",
-      "publishedAt": "2026-08-24T20:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-samsungs-new-my-fancam-feature-to-make-yourself-the-main-character-in-your-videos/l-intro-1786980855.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T20:30:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
       "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
@@ -469,28 +517,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T20:17:41.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Threads is testing a podcast transcription feature",
-      "link": "https://www.engadget.com/2243126/threads-is-testing-a-podcast-transcription-feature/",
-      "summary": "Meta keeps trying to entice audio content creators to Threads.",
-      "publishedAt": "2026-08-24T20:07:59.000Z",
-      "image": "https://www.engadget.com/img/gallery/threads-is-testing-a-podcast-transcription-feature/l-intro-1787602018.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T20:07:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The cat-and-mouse game over 3D-printed guns has begun",
-      "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-      "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening…",
-      "publishedAt": "2026-08-24T19:50:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T19:50:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -515,28 +541,6 @@
       "latestActivity": "2026-08-24T19:19:21.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The only GameCube that could play CDs and DVDs is rarely found below $1,000 today",
-      "link": "https://www.engadget.com/2241156/only-gamecube-could-play-cds-dvds-rarely-found-below-1000-dollars-panasonic-q/",
-      "summary": "This isn't your run-of-the-mill GameCube, and its value has skyrocketed over the years. Here's what it did and how to identify it.",
-      "publishedAt": "2026-08-24T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-only-gamecube-that-could-play-cds-and-dvds-is-rarely-found-below-1000-today/l-intro-1787255075.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T18:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "CDPR is aiming to release The Witcher 4 in 2028",
-      "link": "https://www.engadget.com/2242963/cdpr-is-aiming-to-release-the-witcher-4-in-2028/",
-      "summary": "CDPR's co-CEO called The Witcher 4\"our biggest, boldest and most ambitious game to date.\"",
-      "publishedAt": "2026-08-24T18:03:28.000Z",
-      "image": "https://www.engadget.com/img/gallery/cdpr-is-aiming-to-release-the-witcher-4-in-2028/l-intro-1787594424.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T18:03:28.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Buyer beware: Those mummified remains might carry toxic spores",
       "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
@@ -546,17 +550,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T16:59:07.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-      "publishedAt": "2026-08-24T16:41:45.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-24T16:41:45.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -678,17 +671,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
-      "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
-      "summary": "Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a…",
-      "publishedAt": "2026-08-20T19:57:01.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3EG7jnrPd0w9anUPiP8ILp/644fe4c44bc89c18e80c1e16abd8b627/u7277289442_A_sophisticated_AI_robot_is_routing_data_through__4b48c76d-d078-4d75-b0c9-c6fcb001d634_0.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-20T19:57:01.000Z"
     }
   ]
 }
