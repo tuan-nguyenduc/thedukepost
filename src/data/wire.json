@@ -1,6 +1,273 @@
 {
-  "syncedAt": "2026-08-26T14:46:43.899Z",
+  "syncedAt": "2026-08-26T16:49:07.230Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
+      "link": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
+      "summary": "Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge…",
+      "publishedAt": "2026-08-26T14:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Xbox Insiders will soon be able to create digital versions of their physical games",
+          "link": "https://www.engadget.com/2244741/xbox-insiders-will-soon-be-able-to-create-digital-versions-of-their-physical-games/",
+          "publishedAt": "2026-08-26T16:44:58.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-26T16:44:58.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Preorders for Xbox's anniversary collection are open (for some) and the bundle costs $900",
+      "link": "https://www.engadget.com/2244719/preorders-for-xbox-anniversary-collection-are-open-and-the-bundle-costs-900-bucks/",
+      "summary": "The Xbox 25th anniversary bundle includes a translucent green Series X, a similarly-colored controller and a digital download of Halo: Campaign Evolved.",
+      "publishedAt": "2026-08-26T16:22:28.000Z",
+      "image": "https://www.engadget.com/img/gallery/preorders-for-xboxs-anniversary-collection-are-open-for-some-and-the-bundle-costs-900/l-intro-1787761274.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T16:22:28.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+      "link": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+      "summary": "A security agent read a Cloudflare log, found an attacker’s prompt-injection payload sitting inside it, and rewrote the company’s DNS. The firewall had already blocked that payload…",
+      "publishedAt": "2026-08-26T16:13:50.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/28m7aTuL4ti8gVOmBav4Od/54a57f5f3c018f6060177e2d4e971400/hero2.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T16:13:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple announces September iPhone launch event",
+      "link": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+      "summary": "A screenshot from Apple’s events website.\t\n\nApple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, we…",
+      "publishedAt": "2026-08-26T16:03:49.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,94.827045012242",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Apple announces September 9 date for 'Surprise and shine' iPhone event",
+          "link": "https://www.engadget.com/2244696/apple-announces-september-9-surprise-and-shine-iphone-event/",
+          "publishedAt": "2026-08-26T16:07:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-26T16:07:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "link": "https://www.risklytics.ai/",
+      "summary": "Hi HN, we're Sam and Alex, founders of Risklytics (https://risklytics.ai). We're both on leave from Harvard, and we run an insurance brokerage for companies building robots, drones…",
+      "publishedAt": "2026-08-26T16:06:01.000Z",
+      "image": "https://www.risklytics.ai/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T16:06:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80",
+      "link": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "summary": "Article URL: https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film\nComments URL: https://news.ycombinator.com/item?id=49451448\nP…",
+      "publishedAt": "2026-08-26T16:03:37.000Z",
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/11/10/1447180876442/d3b4806e-2803-42bb-8aec-690e08e5c939-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b04bfdbe488cdc524bb7fbaefc4933be",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T16:03:37.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+      "link": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+      "summary": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
+      "publishedAt": "2026-08-26T16:03:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T16:03:14.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora ",
+      "link": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+      "summary": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting…",
+      "publishedAt": "2026-08-26T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T16:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tim Curry Has Died",
+      "link": "https://en.wikipedia.org/wiki/Tim_Curry",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Tim_Curry\nComments URL: https://news.ycombinator.com/item?id=49451354\nPoints: 32\n# Comments: 5",
+      "publishedAt": "2026-08-26T15:57:22.000Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tim_Curry_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:57:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents throu…",
+      "publishedAt": "2026-08-26T15:47:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:47:28.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
+      "link": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
+      "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
+      "publishedAt": "2026-08-26T15:45:07.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/vote-sign-1152x648-1787756253.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:45:07.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Rockstar calls GTA 6 leaks 'heartbreaking for our team' and says the game is nearly finished",
+      "link": "https://www.engadget.com/2244659/rockstar-calls-gta-6-leaks-heartbreaking-says-game-is-nearly-finished/",
+      "summary": "Ahead of the extended look at GTA 6 on Netflix, Rockstar has addressed leaked gameplay videos in a statement.",
+      "publishedAt": "2026-08-26T15:40:59.000Z",
+      "image": "https://www.engadget.com/img/gallery/rockstar-calls-gta-6-leaks-heartbreaking-for-our-team-and-says-the-game-is-nearly-finished/l-intro-1787758605.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:40:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49450898\nPoints: 24\n# Comments: 6",
+      "publishedAt": "2026-08-26T15:30:05.000Z",
+      "image": "https://www.ssp.sh/brain/img_Using Obsidian with AI_1777561068414.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:30:05.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What's the difference between WAN and LAN?",
+      "link": "https://www.engadget.com/2240983/wan-vs-lan-port-difference-between-explained/",
+      "summary": "Two identical ports, two different purposes.",
+      "publishedAt": "2026-08-26T15:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-wan-and-lan/l-intro-1787245912.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Volvo’s cars will warn one another about hazards in the road",
+      "link": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
+      "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are…",
+      "publishedAt": "2026-08-26T15:28:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:28:14.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Bluesky now supports 10-minute videos",
+      "link": "https://www.engadget.com/2244638/bluesky-now-supports-10-minute-videos-larger-file-sizes/",
+      "summary": "File sizes have also been increased and uploads should be faster.",
+      "publishedAt": "2026-08-26T15:23:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/bluesky-now-supports-10-minute-videos/l-intro-1787757666.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:23:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Disruption with Some GitHub Services",
+      "link": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/hcbtzksccj2f\nComments URL: https://news.ycombinator.com/item?id=49450722\nPoints: 100\n# Comments: 57",
+      "publishedAt": "2026-08-26T15:19:40.000Z",
+      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:19:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
+      "link": "https://github.com/SWUFE-DB-Group/TexLite",
+      "summary": "Article URL: https://github.com/SWUFE-DB-Group/TexLite\nComments URL: https://news.ycombinator.com/item?id=49450500\nPoints: 9\n# Comments: 0",
+      "publishedAt": "2026-08-26T15:07:44.000Z",
+      "image": "https://opengraph.githubassets.com/220ffb2a20977dbf3af57cd6819f425ebf28da30f60c0af8b3bd26e7b50b7d5b/SWUFE-DB-Group/TexLite",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:07:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nebula Sans",
+      "link": "https://www.nebulasans.com",
+      "summary": "Article URL: https://www.nebulasans.com\nComments URL: https://news.ycombinator.com/item?id=49450448\nPoints: 101\n# Comments: 46",
+      "publishedAt": "2026-08-26T15:03:52.000Z",
+      "image": "https://nebulasans.com/img/NebulaSans.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:03:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+      "summary": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49450417\nPoints: 42\n# Comme…",
+      "publishedAt": "2026-08-26T15:02:15.000Z",
+      "image": "https://sreenathmenon.com/assets/images/sreenath.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:02:15.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Researchers get two genetic codes to work at the same time",
+      "link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
+      "summary": "Messing with the genetic code might have gotten a bit easier to do.",
+      "publishedAt": "2026-08-26T15:00:34.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2080373895-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:00:34.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "publishedAt": "2026-08-26T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple should make a Mac Neo to fill the void left by the more expensive Mac mini",
+      "link": "https://www.engadget.com/2244605/apple-should-make-a-mac-neo/",
+      "summary": "A modest proposal for Apple to add a lower-cost option to its Mac lineup.",
+      "publishedAt": "2026-08-26T15:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-should-make-a-mac-neo-to-fill-the-void-left-by-the-more-expensive-mac-mini/l-intro-1787756051.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T15:00:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "IKEA and Xbox have fully unveiled their new furniture collection at Gamescom",
@@ -46,17 +313,6 @@
       "latestActivity": "2026-08-26T14:31:05.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
-      "link": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
-      "summary": "Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge…",
-      "publishedAt": "2026-08-26T14:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T14:30:00.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
@@ -66,36 +322,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-26T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meta reaches $16.68B settlement over social media harms to children",
-      "link": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-      "summary": "Article URL: https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/\nComments URL: https://news.ycombinator.com/item?id=49448819\nPoints: 14…",
-      "publishedAt": "2026-08-26T13:28:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
-      "sourceCount": 4,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-          "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-          "publishedAt": "2026-08-26T13:43:01.000Z"
-        },
-        {
-          "source": "Wired",
-          "title": "Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All",
-          "link": "https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
-          "publishedAt": "2026-08-26T14:08:37.000Z"
-        },
-        {
-          "source": "Engadget",
-          "title": "Meta will pay up to $18 billion to settle states' lawsuit alleging harms to young users",
-          "link": "https://www.engadget.com/2244582/meta-settles-states-lawsuit-alleging-harms-young-users/",
-          "publishedAt": "2026-08-26T14:29:24.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-26T14:29:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -120,26 +346,15 @@
       "latestActivity": "2026-08-26T14:14:52.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Twitter Viewer – View Twitter Without Account",
-      "link": "https://twitterwebviewer.com/",
-      "summary": "Article URL: https://twitterwebviewer.com/\nComments URL: https://news.ycombinator.com/item?id=49449576\nPoints: 5\n# Comments: 2",
-      "publishedAt": "2026-08-26T14:11:39.000Z",
-      "image": "https://twitterwebviewer.com/api/og?type=home&title=Twitter%20Viewer&subtitle=View%20Twitter%20Without%20Account",
+      "source": "Wired",
+      "title": "Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All",
+      "link": "https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
+      "summary": "In addition to sending billions of dollars to states, Meta will make substantive changes to its platforms as part of a landmark settlement.",
+      "publishedAt": "2026-08-26T14:08:37.000Z",
+      "image": "https://media.wired.com/photos/6a8eee8f85384b803654439f/191:100/w_1280,c_limit/GettyImages-2261841633.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-26T14:11:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GLM-5.3-Flash",
-      "link": "https://z.ai/blog/glm-5.3-flash",
-      "summary": "Article URL: https://z.ai/blog/glm-5.3-flash\nComments URL: https://news.ycombinator.com/item?id=49449507\nPoints: 103\n# Comments: 27",
-      "publishedAt": "2026-08-26T14:08:50.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T14:08:50.000Z"
+      "latestActivity": "2026-08-26T14:08:37.000Z"
     },
     {
       "source": "The Verge",
@@ -170,15 +385,8 @@
       "summary": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase fro…",
       "publishedAt": "2026-08-26T14:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/6a8da72a57472ab559aad907_600400-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "SoundCloud will let you buy music directly from artists",
-          "link": "https://www.engadget.com/2243984/soundcloud-will-let-you-buy-music-directly-from-artists/",
-          "publishedAt": "2026-08-26T14:00:00.000Z"
-        }
-      ],
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-08-26T14:00:00.000Z"
     },
     {
@@ -215,50 +423,6 @@
       "latestActivity": "2026-08-26T13:31:32.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "publishedAt": "2026-08-26T13:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T13:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
-      "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada\nComments URL: https://news.ycombinator.com/item?id=49448560\nPoints: 23\n# C…",
-      "publishedAt": "2026-08-26T13:13:55.000Z",
-      "image": "https://i.guim.co.uk/img/media/97c90a89ac0adb278eaa6d5e30b8ee0b99cdafaa/589_0_2823_2259/master/2823.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce6d7c1361536b33e3c3bdcb591681f5",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T13:13:55.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Bluesky now lets you upload 10-minute long videos",
-      "link": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
-      "summary": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
-      "publishedAt": "2026-08-26T13:12:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T13:12:36.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "publishedAt": "2026-08-26T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T13:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "PeopleFinders’ New Website Runs Background Checks on Your Dates",
       "link": "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/",
@@ -270,61 +434,6 @@
       "latestActivity": "2026-08-26T13:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "GoPro Mission 1 Pro ILS review: Interchangeable lenses make this a GoPro like no other",
-      "link": "https://www.engadget.com/2244078/gopro-mission-1-pro-ils-review/",
-      "summary": "The Mission 1 ILS is a camera with great potential and a learning curve.",
-      "publishedAt": "2026-08-26T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/gopro-ils-review-interchangeable-lenses-make-this-a-gopro-like-no-other/l-intro-1787687245.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AWS Acquires DuckDB",
-      "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "summary": "Article URL: https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws\nComments URL: https://news.ycombinator.com/item?id=49448321\nPoints: 379\n# Comments: 88",
-      "publishedAt": "2026-08-26T12:59:26.000Z",
-      "image": "https://ducklabs.com/img/blog/ducklabs-aws-blog.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T12:59:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Ring says its new encryption limits what it can give police",
-      "link": "https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement",
-      "summary": "All Ring cameras will soon use TAKE encryption by default. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nRing has a new way to protect your videos. It's developed an encryption…",
-      "publishedAt": "2026-08-26T12:55:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/236648_Ring_Battery_Doorbell_Plus_JTuohy_0012.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T12:55:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-      "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-flash-next\nComments URL: https://news.ycombinator.com/item?id=49448210\nPoints: 212\n# Comments: 67",
-      "publishedAt": "2026-08-26T12:52:12.000Z",
-      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T12:52:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A curmudgeon tries a language server",
-      "link": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-      "summary": "Article URL: https://entropicthoughts.com/curmudgeon-tries-language-server\nComments URL: https://news.ycombinator.com/item?id=49448150\nPoints: 37\n# Comments: 11",
-      "publishedAt": "2026-08-26T12:48:37.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T12:48:37.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
       "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
@@ -334,39 +443,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-26T12:10:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
-      "link": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
-      "summary": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" Not…",
-      "publishedAt": "2026-08-26T12:04:15.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T12:04:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Proliferate (YC S25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer\nComments URL: https://news.ycombinator.com/item?id=49447480\nPoints: 0\n# Commen…",
-      "publishedAt": "2026-08-26T12:00:07.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T12:00:07.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to transfer data from your old iPhone to a new one",
-      "link": "https://www.engadget.com/2244153/how-to-transfer-data-old-iphone-to-new/",
-      "summary": "Quick Start makes things a lot easier.",
-      "publishedAt": "2026-08-26T12:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-transfer-data-from-your-old-iphone-to-a-new-one/l-intro-1787595241.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T12:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -468,17 +544,6 @@
       "latestActivity": "2026-08-26T09:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "SpaceX is building a $100 billion 'Starbase' launch site in Louisiana",
-      "link": "https://www.engadget.com/2244379/spacex-is-building-a-100-billion-starbase-launch-site-in-louisiana/",
-      "summary": "'We're preparing to build a spaceport that, until now, has only existed in science fiction,'",
-      "publishedAt": "2026-08-26T07:05:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/spacex-is-building-a-100-billion-starbase-launch-site-in-louisiana/l-intro-1787727542.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T07:05:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
       "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
@@ -499,28 +564,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-26T05:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
-      "link": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
-      "summary": "The head of Instagram is the first high-profile exec to testify in the latest social media addiction trial.",
-      "publishedAt": "2026-08-25T23:08:06.000Z",
-      "image": "https://www.engadget.com/img/gallery/adam-mosseri-says-its-news-to-me-that-instagram-employees-were-told-to-limit-his-exposure-to-teen-safety-data/l-intro-1787698830.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T23:08:06.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
-      "link": "https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date/",
-      "summary": "CRKD is mining nostalgia for its latest guitar trio.",
-      "publishedAt": "2026-08-25T22:42:07.000Z",
-      "image": "https://www.engadget.com/img/gallery/here-are-three-sick-gibson-guitar-controllers-made-for-stage-tours-dec-10-release/l-intro-1787697529.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T22:42:07.000Z"
     },
     {
       "source": "Ars Technica",
@@ -589,28 +632,6 @@
       "latestActivity": "2026-08-25T20:59:03.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Preserving glow-in-the-dark art and fashion for future generations",
-      "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
-      "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
-      "publishedAt": "2026-08-25T18:59:12.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glowindark3-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T18:59:12.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-      "link": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-      "summary": "It's currently only appearing on Pixels running Android 17.",
-      "publishedAt": "2026-08-25T18:32:30.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motion-Assist-Pixel-11-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T18:32:30.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
       "link": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
@@ -664,17 +685,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-23T23:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-      "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
-      "summary": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-…",
-      "publishedAt": "2026-08-22T21:30:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/77xI8pjNCF15RAYOfGy3Wc/5d842415ac43315f35e7ffb1e6efe594/u7277289442_A_human_holds_a_yield_sign_in_front_of_a_sophisti_3ba66be4-afa4-46c1-ae9d-ef9e7b4fcfbc_2.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-22T21:30:00.000Z"
     }
   ]
 }
