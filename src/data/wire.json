@@ -1,6 +1,17 @@
 {
-  "syncedAt": "2026-08-26T01:25:57.607Z",
+  "syncedAt": "2026-08-26T03:07:09.134Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Letter from Dolly Parton to Eminem",
+      "link": "https://twitter.com/Eminem/status/2092367272891310482",
+      "summary": "Article URL: https://twitter.com/Eminem/status/2092367272891310482\nComments URL: https://news.ycombinator.com/item?id=49443331\nPoints: 15\n# Comments: 1",
+      "publishedAt": "2026-08-26T02:09:12.000Z",
+      "image": "https://pbs.twimg.com/media/HQmU6_GWwAE0iq3.jpg:large",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T02:09:12.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -14,9 +25,20 @@
     },
     {
       "source": "Hacker News",
+      "title": "The brain may be about to have its Ozempic moment",
+      "link": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment\nComments URL: https://news.ycombinator.com/item?id=494427…",
+      "publishedAt": "2026-08-26T00:40:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T00:40:41.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Queryable Executables",
       "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 24\n# Comments: 3",
       "publishedAt": "2026-08-26T00:20:49.000Z",
       "image": null,
       "sourceCount": 1,
@@ -60,9 +82,9 @@
       "source": "Hacker News",
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "link": "https://github.com/runetes/maiao",
-      "summary": "Article URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 25\n# Comments: 3",
+      "summary": "Article URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 34\n# Comments: 15",
       "publishedAt": "2026-08-25T22:40:07.000Z",
-      "image": "https://opengraph.githubassets.com/fd0b3a2383d9a1012e9362bda54985c0ae0c8dc6e28102e12ad53dd8b3fd5c29/runetes/maiao",
+      "image": "https://opengraph.githubassets.com/3fe47e679504f9e6f4d74c97f429dbc2d63eb6214717ff4200bc7a6a9ba985cb/runetes/maiao",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T22:40:07.000Z"
@@ -106,7 +128,7 @@
       "link": "https://github.com/swimmingbrain/texbrain",
       "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, whic…",
       "publishedAt": "2026-08-25T22:08:50.000Z",
-      "image": "https://opengraph.githubassets.com/fd03bed283be4fde46c58ecbd4dc24f638f6a441566c79b36bb034b98002207d/swimmingbrain/texbrain",
+      "image": "https://opengraph.githubassets.com/50e61103b2d9074da54c71b9301cc2b39d286ff722f408690bafdd5f5efc1248/swimmingbrain/texbrain",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T22:08:50.000Z"
@@ -148,7 +170,7 @@
       "source": "Hacker News",
       "title": "Python's pre-declared constants are kinda weird",
       "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html\nComments URL: https://news.ycombinator.com/item?id=49441033\nPoints: 134\n# Comments: 104",
+      "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html\nComments URL: https://news.ycombinator.com/item?id=49441033\nPoints: 156\n# Comments: 144",
       "publishedAt": "2026-08-25T21:39:02.000Z",
       "image": null,
       "sourceCount": 1,
@@ -302,7 +324,7 @@
       "source": "Hacker News",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 55\n# Comments: 28",
+      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 75\n# Comments: 32",
       "publishedAt": "2026-08-25T20:49:03.000Z",
       "image": "https://github.com/sethmlarson.png",
       "sourceCount": 1,
@@ -357,23 +379,12 @@
       "source": "Hacker News",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\nComments URL: https://news.ycombinator.com/item?id=49439499\nPoints: 74\n# Comments: 33",
+      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\nComments URL: https://news.ycombinator.com/item?id=49439499\nPoints: 90\n# Comments: 40",
       "publishedAt": "2026-08-25T19:38:24.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T19:38:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A brief history of federal lift ticket regulation",
-      "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-      "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket\nComments URL: https://news.ycombinator.com/item?id=49439296\nPoints: 24\n# Comments: 0",
-      "publishedAt": "2026-08-25T19:25:43.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T19:25:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -385,17 +396,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T19:22:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\nComments URL: https:/…",
-      "publishedAt": "2026-08-25T19:07:01.000Z",
-      "image": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T19:07:01.000Z"
     },
     {
       "source": "TechCrunch",
