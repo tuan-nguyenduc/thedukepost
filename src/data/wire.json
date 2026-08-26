@@ -1,16 +1,115 @@
 {
-  "syncedAt": "2026-08-25T22:29:47.959Z",
+  "syncedAt": "2026-08-26T01:25:57.607Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "publishedAt": "2026-08-26T00:40:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T00:40:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Queryable Executables",
+      "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-08-26T00:20:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T00:20:49.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in c…",
+      "publishedAt": "2026-08-26T00:06:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T00:06:20.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
+      "link": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+      "summary": "The head of Instagram is the first high-profile exec to testify in the latest social media addiction trial.",
+      "publishedAt": "2026-08-25T23:08:06.000Z",
+      "image": "https://www.engadget.com/img/gallery/adam-mosseri-says-its-news-to-me-that-instagram-employees-were-told-to-limit-his-exposure-to-teen-safety-data/l-intro-1787698830.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T23:08:06.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
+      "link": "https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date/",
+      "summary": "CRKD is mining nostalgia for its latest guitar trio.",
+      "publishedAt": "2026-08-25T22:42:07.000Z",
+      "image": "https://www.engadget.com/img/gallery/here-are-three-sick-gibson-guitar-controllers-made-for-stage-tours-dec-10-release/l-intro-1787697529.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T22:42:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "link": "https://github.com/runetes/maiao",
+      "summary": "Article URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 25\n# Comments: 3",
+      "publishedAt": "2026-08-25T22:40:07.000Z",
+      "image": "https://opengraph.githubassets.com/fd0b3a2383d9a1012e9362bda54985c0ae0c8dc6e28102e12ad53dd8b3fd5c29/runetes/maiao",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T22:40:07.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II",
+      "link": "https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii/",
+      "summary": "Iceflake Studios is preparing a cozy new city builder centered on the famous bricks.",
+      "publishedAt": "2026-08-25T22:30:31.000Z",
+      "image": "https://www.engadget.com/img/gallery/lego-skylines-is-a-cozy-city-builder-from-the-studio-thats-repairing-cities-skylines-ii/l-intro-1787696785.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T22:30:31.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+      "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+      "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+      "publishedAt": "2026-08-25T22:21:06.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/f9_streak1-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T22:21:06.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
       "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-      "summary": "The Garmin Fenix 9. | Image: Garmin\t\n\nGarmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model coming with a 3,000-nit display that's twice a…",
+      "summary": "The Garmin Fenix 9. | Image: Garmin\t\n\nGarmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of…",
       "publishedAt": "2026-08-25T22:20:17.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T22:20:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "link": "https://github.com/swimmingbrain/texbrain",
+      "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, whic…",
+      "publishedAt": "2026-08-25T22:08:50.000Z",
+      "image": "https://opengraph.githubassets.com/fd03bed283be4fde46c58ecbd4dc24f638f6a441566c79b36bb034b98002207d/swimmingbrain/texbrain",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-25T22:08:50.000Z"
     },
     {
       "source": "Wired",
@@ -47,20 +146,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-      "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-      "summary": "Article URL: https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN\nComments URL: https://news.ycombinator.com/item?id=49441101\nPoints: 3\n# Comments: 0",
-      "publishedAt": "2026-08-25T21:43:37.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T21:43:37.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Python's pre-declared constants are kinda weird",
       "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html\nComments URL: https://news.ycombinator.com/item?id=49441033\nPoints: 21\n# Comments: 1",
+      "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html\nComments URL: https://news.ycombinator.com/item?id=49441033\nPoints: 134\n# Comments: 104",
       "publishedAt": "2026-08-25T21:39:02.000Z",
       "image": null,
       "sourceCount": 1,
@@ -88,17 +176,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T21:20:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "XCancel also down, at least for time being",
-      "link": "https://news.ycombinator.com/item?id=49440786",
-      "summary": "Message on xcancel website:\n\"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.\nThe service XCancel is stopped unt…",
-      "publishedAt": "2026-08-25T21:18:23.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T21:18:23.000Z"
     },
     {
       "source": "Engadget",
@@ -225,7 +302,7 @@
       "source": "Hacker News",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 25\n# Comments: 12",
+      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 55\n# Comments: 28",
       "publishedAt": "2026-08-25T20:49:03.000Z",
       "image": "https://github.com/sethmlarson.png",
       "sourceCount": 1,
@@ -266,17 +343,6 @@
       "latestActivity": "2026-08-25T20:30:25.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space",
-      "link": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
-      "summary": "Elon Musk wants to harness solar energy for AI.",
-      "publishedAt": "2026-08-25T20:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/spacex-to-use-nvidia-gpus-for-its-starmind-project-heres-what-theyll-face-in-space/l-intro-1787680326.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T20:30:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The Witcher 3 is getting a remaster",
       "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
@@ -291,7 +357,7 @@
       "source": "Hacker News",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\nComments URL: https://news.ycombinator.com/item?id=49439499\nPoints: 33\n# Comments: 8",
+      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\nComments URL: https://news.ycombinator.com/item?id=49439499\nPoints: 74\n# Comments: 33",
       "publishedAt": "2026-08-25T19:38:24.000Z",
       "image": null,
       "sourceCount": 1,
@@ -302,7 +368,7 @@
       "source": "Hacker News",
       "title": "A brief history of federal lift ticket regulation",
       "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-      "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket\nComments URL: https://news.ycombinator.com/item?id=49439296\nPoints: 7\n# Comments: 0",
+      "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket\nComments URL: https://news.ycombinator.com/item?id=49439296\nPoints: 24\n# Comments: 0",
       "publishedAt": "2026-08-25T19:25:43.000Z",
       "image": null,
       "sourceCount": 1,
@@ -387,17 +453,6 @@
       "latestActivity": "2026-08-25T18:32:30.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How to turn off Find My iPhone (and when you definitely should)",
-      "link": "https://www.engadget.com/2242751/how-to-turn-off-find-my-iphone-when-should/",
-      "summary": "Find My is a vital iPhone security feature that you should keep on almost all the time. Turning it off makes your device much harder to recover.",
-      "publishedAt": "2026-08-25T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-turn-off-find-my-iphone-and-when-you-definitely-should/l-intro-1787333461.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T18:30:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
       "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
@@ -442,17 +497,6 @@
       "latestActivity": "2026-08-25T18:16:29.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Dolly Parton has died",
-      "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...\nhttps://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d..., https://archive.ph/w4vsE\nhttps://www.hollywoodrepor…",
-      "publishedAt": "2026-08-25T18:02:22.000Z",
-      "image": "https://i.guim.co.uk/img/media/db513fae83c84853e4a9af6ea9929e2ba4c00afa/0_392_3000_1799/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e83c716e31904f324eae4c1917e317a3",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T18:02:22.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
       "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
@@ -462,17 +506,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T18:01:30.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-      "publishedAt": "2026-08-25T17:50:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T17:50:33.000Z"
     },
     {
       "source": "Ars Technica",
@@ -495,28 +528,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T17:39:20.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Waymo robotaxis are headed to Munich",
-      "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-      "summary": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
-      "publishedAt": "2026-08-25T17:32:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T17:32:03.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why movie tie-in games are rarely sold anymore",
-      "link": "https://www.engadget.com/2240883/why-movie-tie-in-games-rarely-sold-anymore/",
-      "summary": "Movie-tie in games were huge in the 2000s, but have mostly dried up in the last decade. We still get games tied to existing IP, but in a different manner.",
-      "publishedAt": "2026-08-25T17:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-movie-tie-in-games-are-rarely-sold-anymore/l-intro-1787241481.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T17:30:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -583,17 +594,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T15:16:36.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
-      "publishedAt": "2026-08-25T15:10:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T15:10:03.000Z"
     },
     {
       "source": "Wired",
