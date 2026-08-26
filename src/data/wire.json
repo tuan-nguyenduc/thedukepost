@@ -1,16 +1,38 @@
 {
-  "syncedAt": "2026-08-26T03:07:09.134Z",
+  "syncedAt": "2026-08-26T04:41:54.615Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Letter from Dolly Parton to Eminem",
-      "link": "https://twitter.com/Eminem/status/2092367272891310482",
-      "summary": "Article URL: https://twitter.com/Eminem/status/2092367272891310482\nComments URL: https://news.ycombinator.com/item?id=49443331\nPoints: 15\n# Comments: 1",
-      "publishedAt": "2026-08-26T02:09:12.000Z",
-      "image": "https://pbs.twimg.com/media/HQmU6_GWwAE0iq3.jpg:large",
+      "source": "TechCrunch",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "publishedAt": "2026-08-26T03:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-26T02:09:12.000Z"
+      "latestActivity": "2026-08-26T03:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+      "link": "https://news.ycombinator.com/item?id=49443820",
+      "summary": "I am looking for ideas on what to train a specialized model for!\nWhat is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up…",
+      "publishedAt": "2026-08-26T03:17:51.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T03:17:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "link": "https://arxiv.org/abs/2607.21503",
+      "summary": "Article URL: https://arxiv.org/abs/2607.21503\nComments URL: https://news.ycombinator.com/item?id=49443523\nPoints: 9\n# Comments: 3",
+      "publishedAt": "2026-08-26T02:35:25.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T02:35:25.000Z"
     },
     {
       "source": "TechCrunch",
@@ -38,7 +60,7 @@
       "source": "Hacker News",
       "title": "Queryable Executables",
       "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 24\n# Comments: 3",
+      "summary": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables\nComments URL: https://news.ycombinator.com/item?id=49442589\nPoints: 53\n# Comments: 7",
       "publishedAt": "2026-08-26T00:20:49.000Z",
       "image": null,
       "sourceCount": 1,
@@ -82,9 +104,9 @@
       "source": "Hacker News",
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "link": "https://github.com/runetes/maiao",
-      "summary": "Article URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 34\n# Comments: 15",
+      "summary": "Article URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 48\n# Comments: 19",
       "publishedAt": "2026-08-25T22:40:07.000Z",
-      "image": "https://opengraph.githubassets.com/3fe47e679504f9e6f4d74c97f429dbc2d63eb6214717ff4200bc7a6a9ba985cb/runetes/maiao",
+      "image": "https://opengraph.githubassets.com/b42a0e47e79d71c18332c682f49c6892730270fd30110c0ee9cbc19a73d20fff/runetes/maiao",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T22:40:07.000Z"
@@ -128,7 +150,7 @@
       "link": "https://github.com/swimmingbrain/texbrain",
       "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, whic…",
       "publishedAt": "2026-08-25T22:08:50.000Z",
-      "image": "https://opengraph.githubassets.com/50e61103b2d9074da54c71b9301cc2b39d286ff722f408690bafdd5f5efc1248/swimmingbrain/texbrain",
+      "image": "https://opengraph.githubassets.com/e9c0e7d3dfd9eea85c9e1fe134c1933944c2eb1baf8656000cb2db2027d2111a/swimmingbrain/texbrain",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T22:08:50.000Z"
@@ -165,17 +187,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T21:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Python's pre-declared constants are kinda weird",
-      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html\nComments URL: https://news.ycombinator.com/item?id=49441033\nPoints: 156\n# Comments: 144",
-      "publishedAt": "2026-08-25T21:39:02.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T21:39:02.000Z"
     },
     {
       "source": "Wired",
@@ -324,7 +335,7 @@
       "source": "Hacker News",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 75\n# Comments: 32",
+      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 89\n# Comments: 38",
       "publishedAt": "2026-08-25T20:49:03.000Z",
       "image": "https://github.com/sethmlarson.png",
       "sourceCount": 1,
@@ -379,7 +390,7 @@
       "source": "Hacker News",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\nComments URL: https://news.ycombinator.com/item?id=49439499\nPoints: 90\n# Comments: 40",
+      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\nComments URL: https://news.ycombinator.com/item?id=49439499\nPoints: 106\n# Comments: 56",
       "publishedAt": "2026-08-25T19:38:24.000Z",
       "image": null,
       "sourceCount": 1,
@@ -495,17 +506,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-25T18:16:29.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco f…",
-      "publishedAt": "2026-08-25T18:01:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-25T18:01:30.000Z"
     },
     {
       "source": "Ars Technica",
