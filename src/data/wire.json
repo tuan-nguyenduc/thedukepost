@@ -1,6 +1,329 @@
 {
-  "syncedAt": "2026-08-26T19:49:46.973Z",
+  "syncedAt": "2026-08-26T22:52:15.058Z",
   "items": [
+    {
+      "source": "Ars Technica",
+      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+      "summary": "Meta to impose daily limit on child social media use in deal with nearly every state.",
+      "publishedAt": "2026-08-26T19:50:52.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well",
+          "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+          "publishedAt": "2026-08-26T22:47:58.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-26T22:47:58.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood",
+      "link": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
+      "summary": "Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.",
+      "publishedAt": "2026-08-26T22:19:44.000Z",
+      "image": "https://media.wired.com/photos/6a8f161ecb47509e08d69504/191:100/w_1280,c_limit/GettyImages-2291557015.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T22:19:44.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Panic is refunding tariff fees paid by Playdate owners",
+      "link": "https://www.engadget.com/2245122/panic-is-refunding-tariff-fees-paid-by-playdate-owners/",
+      "summary": "The console was subject to added fees under the Trump administration's original tariff regime.",
+      "publishedAt": "2026-08-26T21:57:48.000Z",
+      "image": "https://www.engadget.com/img/gallery/panic-is-refunding-tariff-fees-paid-by-playdate-owners/l-intro-1787781335.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T21:57:48.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical repo…",
+      "publishedAt": "2026-08-26T19:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+      "sourceCount": 4,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "OpenAI releases its official report on the Hugging Face breach",
+          "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+          "publishedAt": "2026-08-26T19:05:22.000Z"
+        },
+        {
+          "source": "Wired",
+          "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+          "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+          "publishedAt": "2026-08-26T19:16:42.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "OpenAI details the failures that led to Hugging Face breach in official report",
+          "link": "https://www.engadget.com/2245119/openai-details-the-failures-that-led-to-hugging-face-breach-in-official-report/",
+          "publishedAt": "2026-08-26T21:54:58.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-26T21:54:58.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, A…",
+      "publishedAt": "2026-08-26T21:40:53.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T21:40:53.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "publishedAt": "2026-08-26T21:37:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T21:37:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nIn July, an unreleased OpenAI model broke out of a restricted environment, figu…",
+      "publishedAt": "2026-08-26T21:36:06.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T21:36:06.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "summary": "Reuters report shows Meta's challenges replacing people with AI agents.",
+      "publishedAt": "2026-08-26T21:25:27.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T21:25:27.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Democrats Just Might Win the Senate",
+      "link": "https://www.wired.com/story/democrats-just-might-win-the-senate/",
+      "summary": "Strategists in both parties have long thought that everything would need to go right for Democrats to take over Congress this fall. Their map, though, is becoming more forgiving.",
+      "publishedAt": "2026-08-26T21:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a8e12acbbdee18b4a023905/191:100/w_1280,c_limit/politics_democrats_senate.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T21:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
+      "link": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
+      "summary": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teens. They also think states should have demanded more.",
+      "publishedAt": "2026-08-26T20:55:46.000Z",
+      "image": "https://media.wired.com/photos/6a8f1ebc03c90c0d1d7ffc12/191:100/w_1280,c_limit/Will-Metas-New-Controls-for-Teens-Actually-Work-Business-2263201376.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:55:46.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "New Twitter launches, says Musk's X gave up the name",
+      "link": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+      "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
+      "publishedAt": "2026-08-26T20:49:04.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/twitter-1152x648-1787776300.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:49:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What will be left for us to work on",
+      "link": "https://ICML.cc/virtual/2026/invited-talk/67274",
+      "summary": "Article URL: https://ICML.cc/virtual/2026/invited-talk/67274\nComments URL: https://news.ycombinator.com/item?id=49455613\nPoints: 22\n# Comments: 21",
+      "publishedAt": "2026-08-26T20:42:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:42:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "link": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "summary": "We've been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a new chip from Semtech. Ask me anythi…",
+      "publishedAt": "2026-08-26T20:38:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:38:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "mold: A Parallel Linker",
+      "link": "https://arxiv.org/abs/2608.23228",
+      "summary": "Article URL: https://arxiv.org/abs/2608.23228\nComments URL: https://news.ycombinator.com/item?id=49455530\nPoints: 35\n# Comments: 3",
+      "publishedAt": "2026-08-26T20:37:02.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:37:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Product Development is being Rewritten",
+      "link": "https://revyl.com/blog/product-development-is-being-rewritten/",
+      "summary": "Article URL: https://revyl.com/blog/product-development-is-being-rewritten/\nComments URL: https://news.ycombinator.com/item?id=49455483\nPoints: 21\n# Comments: 13",
+      "publishedAt": "2026-08-26T20:33:55.000Z",
+      "image": "https://revyl.com/blog/product-development-is-being-rewritten/image-1.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:33:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Infrastructure as Raclette",
+      "link": "https://lois.postu.la/posts/infrastructure-as-a-raclette",
+      "summary": "Article URL: https://lois.postu.la/posts/infrastructure-as-a-raclette\nComments URL: https://news.ycombinator.com/item?id=49455450\nPoints: 15\n# Comments: 2",
+      "publishedAt": "2026-08-26T20:31:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:31:31.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll",
+      "link": "https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/",
+      "summary": "In June, a FEMA official infamous for claiming to have teleported to a Waffle House was reportedly ousted. He’s still employed by the government, though—and meeting with a Trump fi…",
+      "publishedAt": "2026-08-26T20:18:12.000Z",
+      "image": "https://media.wired.com/photos/6a8f03eac7e16565c80849b7/191:100/w_1280,c_limit/WaffleHouseGregg.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:18:12.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why is the Mac mini M5 Pro more expensive than the M6?",
+      "link": "https://www.engadget.com/2245011/why-mac-mini-m5-pro-more-expensive-than-m6/",
+      "summary": "When it comes to Apple Silicon, a higher number doesn't necessarily mean a better chip.",
+      "publishedAt": "2026-08-26T20:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-is-the-mac-mini-m5-pro-more-expensive-than-the-m6/l-intro-1787768693.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "All the ways Instagram and Facebook are changing for teens",
+      "link": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+      "summary": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safe…",
+      "publishedAt": "2026-08-26T20:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to watch Grand Theft Auto VI: An Extended Look",
+      "link": "https://www.engadget.com/2244813/how-to-watch-gta-6-extended-look-netflix-youtube/",
+      "summary": "Netflix is the exclusive home of the GTA VI trailer for six hours on Thursday.",
+      "publishedAt": "2026-08-26T20:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-watch-grand-theft-auto-vi-an-extended-look/l-intro-1787765191.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:00:00.000Z"
+    },
+    {
+      "source": "VentureBeat",
+      "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+      "link": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+      "summary": "Salesforce and Anthropic announced Tuesday a sweeping expansion of their partnership, called Claudeforce, that pushes the world's largest customer relationship management platform…",
+      "publishedAt": "2026-08-26T20:00:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5b0HuVyEgjT4nhhySGkJrI/638c8608bdd8581050019f1f696c8a00/Nuneybits_Vector_art_of_Salesforce-blue_cloud_entering_Anthropi_4b5f4f7e-ac1f-4543-8a00-fc53aee3b41e.webp?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T20:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The colorful JBL Pulse 6 speaker will be available next month",
+      "link": "https://www.engadget.com/2245008/the-colorful-jbl-pulse-6-speaker-will-be-available-next-month/",
+      "summary": "JBL's new speaker/light hybrid will cost $330.",
+      "publishedAt": "2026-08-26T19:58:44.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-colorful-jbl-pulse-6-speaker-will-be-available-next-month/l-intro-1787774245.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T19:58:44.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Roku will stream select NWSL games this season",
+      "link": "https://www.engadget.com/2244997/roku-will-stream-select-nwsl-games-this-season/",
+      "summary": "Eight Sunday night NWSL matches will be available to watch for free through The Roku Channel.",
+      "publishedAt": "2026-08-26T19:50:24.000Z",
+      "image": "https://www.engadget.com/img/gallery/roku-will-stream-select-nwsl-games-this-season/l-intro-1787773771.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T19:50:24.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Soundcore's Nebula X1S projector is an incredibly bright version of its popular Nebula X1",
+      "link": "https://www.engadget.com/2244996/soundcore-nebula-x1s-project-is-an-incredibly-bright-version-of-its-popular-nebula-x1/",
+      "summary": "Soundcore's latest projector is bright enough to use in daylight with the shades up.",
+      "publishedAt": "2026-08-26T19:48:51.000Z",
+      "image": "https://www.engadget.com/img/gallery/soundcores-nebula-x1s-projector-is-an-incredibly-bright-version-of-its-popular-nebula-x1/l-intro-1787773581.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T19:48:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "link": "https://acceptmarkdown.com/",
+      "summary": "Article URL: https://acceptmarkdown.com/\nComments URL: https://news.ycombinator.com/item?id=49454764\nPoints: 60\n# Comments: 23",
+      "publishedAt": "2026-08-26T19:45:59.000Z",
+      "image": "https://acceptmarkdown.com/open-graph/home.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T19:45:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+      "link": "https://isgithubcooked.com/",
+      "summary": "Article URL: https://isgithubcooked.com/\nComments URL: https://news.ycombinator.com/item?id=49454728\nPoints: 100\n# Comments: 47",
+      "publishedAt": "2026-08-26T19:43:48.000Z",
+      "image": "https://isgithubcooked.com/og.github.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T19:43:48.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+      "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+      "summary": "The bishops' snub comes as the state continues to attack vaccines.",
+      "publishedAt": "2026-08-26T19:39:24.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-178446892-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T19:39:24.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
@@ -24,6 +347,17 @@
       "latestActivity": "2026-08-26T19:34:04.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "link": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+      "summary": "Article URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu\nComments URL: https://news.ycombinator.com/item?id=494…",
+      "publishedAt": "2026-08-26T19:23:01.000Z",
+      "image": "https://framerusercontent.com/images/rBYG7Qnh2s7EBRcWkkJu99Ug.webp?width=1800&height=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T19:23:01.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "Mac mini vs Mac Studio: Which desktop is right for you?",
       "link": "https://www.engadget.com/2244951/mac-mini-vs-studio-which-desktop-right-for-you/",
@@ -35,6 +369,17 @@
       "latestActivity": "2026-08-26T19:19:28.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+      "publishedAt": "2026-08-26T19:19:22.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/gemini-3.5-audio-transcribe_fleu.width-1000.format-webp.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-26T19:19:22.000Z"
+    },
+    {
       "source": "The Verge",
       "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
       "link": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
@@ -44,85 +389,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-26T19:18:23.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical repo…",
-      "publishedAt": "2026-08-26T19:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "OpenAI releases its official report on the Hugging Face breach",
-          "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-          "publishedAt": "2026-08-26T19:05:22.000Z"
-        },
-        {
-          "source": "Wired",
-          "title": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
-          "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-          "publishedAt": "2026-08-26T19:16:42.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-26T19:16:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Hugging Face incident and the road ahead",
-      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-      "summary": "Article URL: https://openai.com/index/hugging-face-incident-and-the-road-ahead/\nComments URL: https://news.ycombinator.com/item?id=49454314\nPoints: 7\n# Comments: 1",
-      "publishedAt": "2026-08-26T19:15:23.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T19:15:23.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Devolver Digital squares up to Rockstar with a mascot platformer out the same day as GTA 6",
-      "link": "https://www.engadget.com/2244925/devolver-digital-squares-up-to-rockstar-with-a-mascot-platformer-out-the-same-day-as-gta-6/",
-      "summary": "Devolver Digital squares up to Rockstar with a mascot platformer out the same day as GTA 6.",
-      "publishedAt": "2026-08-26T18:59:18.000Z",
-      "image": "https://www.engadget.com/img/gallery/devolver-digital-squares-up-to-rockstar-with-a-mascot-platformer-out-the-same-day-as-gta-6/l-intro-1787770676.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T18:59:18.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Ring introduces better default encryption standards to address privacy concerns",
-      "link": "https://www.engadget.com/2244922/ring-introduces-better-default-encryption-standards-to-address-privacy-concerns/",
-      "summary": "Ring data still gets sent to the cloud, but it'll be deleted after being used to power smart home controls.",
-      "publishedAt": "2026-08-26T18:56:52.000Z",
-      "image": "https://www.engadget.com/img/gallery/ring-introduces-better-default-encryption-standards-to-address-privacy-concerns/l-intro-1787770545.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T18:56:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Designation of Autistici/Inventati as a Specially Designated Global Terrorist",
-      "link": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/",
-      "summary": "Article URL: https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/\nComments URL: https://…",
-      "publishedAt": "2026-08-26T18:49:18.000Z",
-      "image": "https://www.state.gov/wp-content/uploads/2025/01/Tarawera_social_template.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T18:49:18.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "ASUS introduces new Ace esports-focused gaming monitors",
-      "link": "https://www.engadget.com/2244910/asus-introduces-new-ace-esports-focused-gaming-monitors/",
-      "summary": "The latest ASUS gaming monitors all feature 24.5-inch, high-refresh rate OLED panels.",
-      "publishedAt": "2026-08-26T18:42:16.000Z",
-      "image": "https://www.engadget.com/img/gallery/asus-introduces-new-ace-esports-focused-gaming-monitors/l-intro-1787769644.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T18:42:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -156,17 +422,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-26T18:23:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
-      "link": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
-      "summary": "Article URL: https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf\nComments URL: https://news.ycombinator.com/item?id=49453510\nPoints:…",
-      "publishedAt": "2026-08-26T18:20:09.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T18:20:09.000Z"
     },
     {
       "source": "Wired",
@@ -213,50 +468,6 @@
       "latestActivity": "2026-08-26T17:57:06.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-      "link": "https://thetariffcost.com/",
-      "summary": "Article URL: https://thetariffcost.com/\nComments URL: https://news.ycombinator.com/item?id=49453161\nPoints: 58\n# Comments: 33",
-      "publishedAt": "2026-08-26T17:54:51.000Z",
-      "image": "https://thetariffcost.com/share/card.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:54:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tailcat",
-      "link": "https://github.com/tailscale/tailcat",
-      "summary": "Article URL: https://github.com/tailscale/tailcat\nComments URL: https://news.ycombinator.com/item?id=49452990\nPoints: 179\n# Comments: 31",
-      "publishedAt": "2026-08-26T17:42:22.000Z",
-      "image": "https://opengraph.githubassets.com/2b1729a5b89e5b1dd944aa0a18ec0a4006fc796940b362e7eddd9b881146ad88/tailscale/tailcat",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:42:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "An ongoing 3D-printer AGPL violation",
-      "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1089390/46116614cc74b814/\nComments URL: https://news.ycombinator.com/item?id=49452980\nPoints: 141\n# Comments: 42",
-      "publishedAt": "2026-08-26T17:41:40.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:41:40.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands",
-      "link": "https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/",
-      "summary": "The problem with Meta's AI restructuring plan is the AI wasn't good enough.",
-      "publishedAt": "2026-08-26T17:36:41.000Z",
-      "image": "https://www.engadget.com/img/gallery/meta-reportedly-abandoned-an-ai-focused-restructuring-plan-that-would-have-laid-off-thousands/l-intro-1787765724.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:36:41.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Apple Maps has ads now",
       "link": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
@@ -266,28 +477,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-26T17:34:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "CDs vs. NIMBY",
-      "link": "https://www.betonit.ai/p/cds-vs-nimby",
-      "summary": "Article URL: https://www.betonit.ai/p/cds-vs-nimby\nComments URL: https://news.ycombinator.com/item?id=49452822\nPoints: 19\n# Comments: 30",
-      "publishedAt": "2026-08-26T17:31:08.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!zUGA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07fe3542-1b63-4794-b51d-8febd8bec0a7_640x426.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:31:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "YouTube Format IDs",
-      "link": "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
-      "summary": "Article URL: https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa\nComments URL: https://news.ycombinator.com/item?id=49452789\nPoints: 35\n# Comments: 12",
-      "publishedAt": "2026-08-26T17:28:21.000Z",
-      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:28:21.000Z"
     },
     {
       "source": "Ars Technica",
@@ -301,48 +490,15 @@
       "latestActivity": "2026-08-26T17:25:53.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Google says its latest Gemini transcription model can turn your ramblings into structured text",
-      "link": "https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/",
-      "summary": "Google says Gemini 3.5 Transcribe will soon let you use speech-to-text in any web field in Chrome.",
-      "publishedAt": "2026-08-26T17:25:36.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/l-intro-1787767502.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:25:36.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osb…",
-      "publishedAt": "2026-08-26T17:13:37.000Z",
-      "image": "https://media.wired.com/photos/6a8ded27f4779156570e0f64/191:100/w_1280,c_limit/Politics_Politicians%20Are%20Signing%20a%20Pact%20Against%20Data%20Center%20Giveaways_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:13:37.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
       "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "summary": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
+      "summary": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were…",
       "publishedAt": "2026-08-26T17:01:05.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-26T17:01:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
-      "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "summary": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the m…",
-      "publishedAt": "2026-08-26T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=934",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T17:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -356,57 +512,15 @@
       "latestActivity": "2026-08-26T17:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
-      "link": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
-      "summary": "Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge…",
-      "publishedAt": "2026-08-26T14:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Xbox Insiders will soon be able to create digital versions of their physical games",
-          "link": "https://www.engadget.com/2244741/xbox-insiders-will-soon-be-able-to-create-digital-versions-of-their-physical-games/",
-          "publishedAt": "2026-08-26T16:44:58.000Z"
-        },
-        {
-          "source": "Ars Technica",
-          "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
-          "link": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
-          "publishedAt": "2026-08-26T16:59:41.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-26T16:59:41.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple announces September iPhone launch event",
-      "link": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-      "summary": "A screenshot from Apple’s events website.\t\n\nApple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, we…",
-      "publishedAt": "2026-08-26T16:03:49.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,94.827045012242",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Apple is holding its iPhone launch event on September 9",
-          "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-          "publishedAt": "2026-08-26T16:53:07.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-26T16:53:07.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Preorders for Xbox's anniversary collection are open (for some) and the bundle costs $900",
-      "link": "https://www.engadget.com/2244719/preorders-for-xbox-anniversary-collection-are-open-and-the-bundle-costs-900-bucks/",
-      "summary": "The Xbox 25th anniversary bundle includes a translucent green Series X, a similarly-colored controller and a digital download of Halo: Campaign Evolved.",
-      "publishedAt": "2026-08-26T16:22:28.000Z",
-      "image": "https://www.engadget.com/img/gallery/preorders-for-xboxs-anniversary-collection-are-open-for-some-and-the-bundle-costs-900/l-intro-1787761274.jpg",
+      "source": "Ars Technica",
+      "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
+      "link": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
+      "summary": "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed.",
+      "publishedAt": "2026-08-26T16:59:41.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/disccrack-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-26T16:22:28.000Z"
+      "latestActivity": "2026-08-26T16:59:41.000Z"
     },
     {
       "source": "VentureBeat",
@@ -431,28 +545,6 @@
       "latestActivity": "2026-08-26T15:45:07.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Volvo’s cars will warn one another about hazards in the road",
-      "link": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
-      "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are…",
-      "publishedAt": "2026-08-26T15:28:14.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T15:28:14.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Researchers get two genetic codes to work at the same time",
-      "link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
-      "summary": "Messing with the genetic code might have gotten a bit easier to do.",
-      "publishedAt": "2026-08-26T15:00:34.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2080373895-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T15:00:34.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
@@ -464,50 +556,6 @@
       "latestActivity": "2026-08-26T14:30:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-      "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-      "summary": "\"We're living in this world of scarcity with the Moon.\"",
-      "publishedAt": "2026-08-26T14:14:52.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/interlune.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T14:14:52.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All",
-      "link": "https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
-      "summary": "In addition to sending billions of dollars to states, Meta will make substantive changes to its platforms as part of a landmark settlement.",
-      "publishedAt": "2026-08-26T14:08:37.000Z",
-      "image": "https://media.wired.com/photos/6a8eee8f85384b803654439f/191:100/w_1280,c_limit/GettyImages-2261841633.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T14:08:37.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
-      "link": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
-      "summary": "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare.",
-      "publishedAt": "2026-08-26T13:53:32.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/psychotherapy-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T13:53:32.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "PeopleFinders’ New Website Runs Background Checks on Your Dates",
-      "link": "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/",
-      "summary": "The site, called Stud or Dud, helps daters dig up dirt on potential paramours. It’s fueled by the same public data as PeopleFinders.com—and comes with many of the same concerns.",
-      "publishedAt": "2026-08-26T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a8dec9960465935e0bb1ba6/191:100/w_1280,c_limit/Background-Check-Company-Makes-Dating-App-Culture.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T13:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
       "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
@@ -517,39 +565,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-26T12:10:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "link": "https://www.wired.com/gallery/best-wifi-routers/",
-      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
-      "publishedAt": "2026-08-26T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/686729e7c3e228b35983727d/191:100/w_1280,c_limit/Best%20Wifi%20Routers.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T11:30:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-      "publishedAt": "2026-08-26T11:10:49.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T11:10:49.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
-      "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
-      "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
-      "publishedAt": "2026-08-26T11:00:12.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_2090-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-26T11:00:12.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -660,17 +675,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-24T11:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
-      "summary": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the conte…",
-      "publishedAt": "2026-08-23T23:00:00.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/ohCjTlo9CnM6jgcDPRDHw/ab6378302d6157417aa0ea0e55325eb1/u7277289442_A_sophisticated_AI_robot_is_routing_data_through__30c6a65e-7919-420c-9853-e10113a180e7_0.png?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-23T23:00:00.000Z"
     }
   ]
 }
