@@ -3,6 +3,18 @@ import wireData from '../data/wire.json';
 import digestArchive from '../data/digest-archive.json';
 import { calculateReadingTime, formatReadingTime } from '../lib/readingTime';
 
+function stripMarkdown(md) {
+  return md
+    .replace(/```[\s\S]*?```/g, ' ')
+    .replace(/`[^`]*`/g, ' ')
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/^#{1,6}\s+/gm, '')
+    .replace(/[*_~>#-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 export async function GET() {
   const articles = (await getCollection('articles', ({ data }) => !data.draft))
     .map((a) => ({
@@ -11,6 +23,7 @@ export async function GET() {
       link: `/articles/${a.slug}`,
       title: a.data.title,
       description: a.data.description,
+      content: stripMarkdown(a.body),
       image: a.data.image ?? '',
       category: a.data.category,
       pubDate: a.data.pubDate.toISOString().slice(0, 10),

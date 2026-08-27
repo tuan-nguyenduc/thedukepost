@@ -23,6 +23,7 @@
     link: string;
     title: string;
     description: string;
+    content?: string;
     category: string;
     pubDate: string;
     readingTime?: string;
@@ -61,9 +62,11 @@
             keys: [
               { name: 'title', weight: 2 },
               { name: 'description', weight: 1 },
+              { name: 'content', weight: 0.3 },
               { name: 'category', weight: 0.5 },
             ],
             threshold: 0.4,
+            ignoreLocation: true,
           });
         });
     }

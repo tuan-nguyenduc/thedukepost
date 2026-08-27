@@ -15,6 +15,36 @@ import { categoryHref, categoryLabel } from '../lib/categories';
         aria-label="Search articles"
       />
     </div>
+    <div class="search-filters">
+      <label class="search-filter">
+        <span>Type</span>
+        <select id="filter-type" aria-label="Filter by type">
+          <option value="all">All</option>
+          <option value="article">Articles</option>
+          <option value="wire">Wire</option>
+          <option value="newsletter">Newsletter</option>
+        </select>
+      </label>
+      <label class="search-filter">
+        <span>Category</span>
+        <select id="filter-category" aria-label="Filter by category">
+          <option value="all">All</option>
+          <option value="ai">AI</option>
+          <option value="gadgets">Gadgets</option>
+          <option value="startups">Startups</option>
+          <option value="security">Security</option>
+          <option value="opinion">Opinion</option>
+          <option value="general">General</option>
+        </select>
+      </label>
+      <label class="search-filter">
+        <span>Sort</span>
+        <select id="filter-sort" aria-label="Sort results">
+          <option value="relevance">Relevance</option>
+          <option value="newest">Newest</option>
+        </select>
+      </label>
+    </div>
     <p id="search-status" class="search-status" aria-live="polite"></p>
     <ul id="search-results" class="results-list" role="listbox"></ul>
     <div id="search-empty" class="empty-state sticker" hidden>
@@ -33,20 +63,30 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     link: string;
     title: string;
     description: string;
+    content?: string;
     image?: string;
     category: string;
     pubDate: string;
     readingTime?: string;
   }
 
+  interface RankedResult {
+    item: SearchItem;
+    matches?: readonly { key?: string; indices: readonly [number, number][] }[];
+  }
+
   const input = document.getElementById('search-input') as HTMLInputElement;
   const resultsList = document.getElementById('search-results') as HTMLUListElement;
   const status = document.getElementById('search-status') as HTMLParagraphElement;
   const emptyState = document.getElementById('search-empty') as HTMLDivElement;
+  const typeFilter = document.getElementById('filter-type') as HTMLSelectElement;
+  const categoryFilter = document.getElementById('filter-category') as HTMLSelectElement;
+  const sortFilter = document.getElementById('filter-sort') as HTMLSelectElement;
 
   let fuse: Fuse<SearchItem> | null = null;
+  let allItems: SearchItem[] = [];
   let activeIndex = -1;
-  let currentResults: SearchItem[] = [];
+  let currentResults: RankedResult[] = [];
 
   function escapeHtml(str: string): string {
     return str.replace(/[&<>"']/g, (c) => ({
@@ -63,18 +103,44 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     }
   }
 
+  function highlight(text: string, ranges: readonly [number, number][] | undefined): string {
+    if (!ranges || ranges.length === 0) return escapeHtml(text);
+    const sorted = [...ranges].sort((a, b) => a[0] - b[0]);
+    let html = '';
+    let last = 0;
+    for (const [start, end] of sorted) {
+      if (start < last) continue;
+      html += escapeHtml(text.slice(last, start));
+      html += `<mark>${escapeHtml(text.slice(start, end + 1))}</mark>`;
+      last = end + 1;
+    }
+    html += escapeHtml(text.slice(last));
+    return html;
+  }
+
+  function matchRanges(matches: RankedResult['matches'], key: string): readonly [number, number][] | undefined {
+    return matches?.find((m) => m.key === key)?.indices;
+  }
+
   async function init() {
     const res = await fetch('/search-index.json');
     const items: SearchItem[] = await res.json();
+    allItems = items;
     fuse = new Fuse(items, {
       keys: [
         { name: 'title', weight: 2 },
         { name: 'description', weight: 1 },
+        { name: 'content', weight: 0.3 },
         { name: 'category', weight: 0.5 },
       ],
       threshold: 0.4,
+      ignoreLocation: true,
       includeMatches: true,
     });
+
+    typeFilter.addEventListener('change', () => runSearch(input.value));
+    categoryFilter.addEventListener('change', () => runSearch(input.value));
+    sortFilter.addEventListener('change', () => runSearch(input.value));
 
     const params = new URLSearchParams(window.location.search);
     const q = params.get('q') ?? '';
@@ -102,23 +168,25 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     activeIndex = index;
   }
 
-  function renderResults(items: SearchItem[], hasQuery: boolean) {
-    currentResults = items;
+  function renderResults(results: RankedResult[], hasQuery: boolean) {
+    currentResults = results;
     activeIndex = -1;
-    if (items.length === 0) {
+    if (results.length === 0) {
       resultsList.innerHTML = '';
       status.textContent = '';
       emptyState.hidden = !hasQuery;
       return;
     }
     emptyState.hidden = true;
-    status.textContent = `${items.length} result${items.length === 1 ? '' : 's'}`;
-    resultsList.innerHTML = items.map((item, i) => {
+    status.textContent = `${results.length} result${results.length === 1 ? '' : 's'}`;
+    resultsList.innerHTML = results.map(({ item, matches }, i) => {
       const isWire = item.type === 'wire';
       const isArticle = item.type === 'article';
       const eyebrow = escapeHtml(
         isWire ? `Wire · ${item.category}` : item.type === 'newsletter' ? 'Newsletter' : categoryLabel(item.category)
       );
+      const titleHtml = highlight(item.title, matchRanges(matches, 'title'));
+      const descHtml = highlight(item.description, matchRanges(matches, 'description'));
       const linkAttrs = isWire ? ' target="_blank" rel="noopener noreferrer"' : '';
       const byline = item.readingTime ? `${item.pubDate} · ${item.readingTime}` : item.pubDate;
       const saved = isArticle && isSaved(item.slug || '');
@@ -149,8 +217,8 @@ import { categoryHref, categoryLabel } from '../lib/categories';
             <span class="eyebrow">${eyebrow}</span>
             <span class="byline">${escapeHtml(byline)}</span>
           </span>
-          <h2 class="result-title">${escapeHtml(item.title)}</h2>
-          <p class="result-desc">${escapeHtml(item.description)}</p>
+          <h2 class="result-title">${titleHtml}</h2>
+          <p class="result-desc">${descHtml}</p>
         </a>
         ${saveBtn}
       </li>
@@ -158,19 +226,48 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     }).join('');
   }
 
+  function passesFilters(item: SearchItem): boolean {
+    if (typeFilter.value !== 'all' && item.type !== typeFilter.value) return false;
+    if (categoryFilter.value !== 'all' && !(item.type === 'article' && item.category === categoryFilter.value)) return false;
+    return true;
+  }
+
   function runSearch(query: string) {
     if (!fuse) return;
     const q = query.trim();
+    const url = new URL(window.location.href);
+
     if (!q) {
-      resultsList.innerHTML = '';
-      status.textContent = '';
-      emptyState.hidden = true;
-      currentResults = [];
-      activeIndex = -1;
+      const hasActiveFilter = typeFilter.value !== 'all' || categoryFilter.value !== 'all';
+      if (!hasActiveFilter) {
+        resultsList.innerHTML = '';
+        status.textContent = '';
+        emptyState.hidden = true;
+        currentResults = [];
+        activeIndex = -1;
+        url.searchParams.delete('q');
+        window.history.replaceState(null, '', url.toString());
+        return;
+      }
+      const browsed = allItems
+        .filter(passesFilters)
+        .slice()
+        .sort((a, b) => b.pubDate.localeCompare(a.pubDate))
+        .map((item) => ({ item }));
+      renderResults(browsed, true);
+      url.searchParams.delete('q');
+      window.history.replaceState(null, '', url.toString());
       return;
     }
-    renderResults(fuse.search(q).map((r) => r.item), true);
-    const url = new URL(window.location.href);
+
+    let ranked: RankedResult[] = fuse
+      .search(q)
+      .filter((r) => passesFilters(r.item))
+      .map((r) => ({ item: r.item, matches: r.matches }));
+    if (sortFilter.value === 'newest') {
+      ranked = ranked.slice().sort((a, b) => b.item.pubDate.localeCompare(a.item.pubDate));
+    }
+    renderResults(ranked, true);
     url.searchParams.set('q', q);
     window.history.replaceState(null, '', url.toString());
   }
@@ -187,7 +284,7 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     } else if (e.key === 'Enter') {
       if (activeIndex >= 0 && currentResults[activeIndex]) {
         e.preventDefault();
-        const item = currentResults[activeIndex];
+        const item = currentResults[activeIndex].item;
         if (item.type === 'wire') {
           window.open(item.link, '_blank', 'noopener,noreferrer');
         } else {
@@ -228,6 +325,34 @@ import { categoryHref, categoryLabel } from '../lib/categories';
   #search-input:focus {
     box-shadow: 4px 4px 0 var(--signal);
     border-color: var(--signal);
+  }
+  .search-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 8px;
+  }
+  .search-filter {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--slate);
+  }
+  .search-filter select {
+    font-family: var(--font-body);
+    font-size: 13px;
+    text-transform: none;
+    letter-spacing: normal;
+    color: var(--ink);
+    background: var(--paper);
+    border: 2px solid var(--ink);
+    border-radius: 8px;
+    padding: 4px 8px;
+    cursor: pointer;
   }
   .search-status {
     font-family: var(--font-mono);
@@ -292,6 +417,13 @@ import { categoryHref, categoryLabel } from '../lib/categories';
     color: var(--slate);
     font-size: 15px;
     margin: 0;
+  }
+  :global(.result-title mark),
+  :global(.result-desc mark) {
+    background: var(--accent-soft);
+    color: inherit;
+    border-radius: 3px;
+    padding: 0 1px;
   }
   :global(.result-item--active .result-card) {
     background: var(--accent-soft);
