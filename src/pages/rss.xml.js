@@ -1,5 +1,6 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
+import { marked } from 'marked';
 
 export async function GET(context) {
   const articles = (await getCollection('articles', ({ data }) => !data.draft))
@@ -12,6 +13,7 @@ export async function GET(context) {
     items: articles.map((a) => ({
       title: a.data.title,
       description: a.data.description,
+      content: marked.parse(a.body),
       pubDate: a.data.pubDate,
       author: a.data.author,
       categories: [a.data.category],
