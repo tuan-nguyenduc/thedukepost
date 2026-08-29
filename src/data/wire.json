@@ -1,6 +1,270 @@
 {
-  "syncedAt": "2026-08-28T18:34:31.449Z",
+  "syncedAt": "2026-08-29T02:45:14.865Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+      "link": "https://www.kumander.org/",
+      "summary": "Article URL: https://www.kumander.org/\nComments URL: https://news.ycombinator.com/item?id=49486176\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-08-29T01:48:15.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-29T01:48:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\nComments URL: https://news.ycombinator.com/item?id=49486172\nPoints: 58\n# Comments:…",
+      "publishedAt": "2026-08-29T01:47:53.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-29T01:47:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "link": "https://github.com/stemdeckapp/stemdeck",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck\nComments URL: https://news.ycombinator.com/item?id=49486081\nPoints: 24\n# Comments: 5",
+      "publishedAt": "2026-08-29T01:24:13.000Z",
+      "image": "https://opengraph.githubassets.com/955363401bed86edb2178eb58a6be8f7b08baa6e9cd4e5d67e3939baa9bb7ce6/stemdeckapp/stemdeck",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-29T01:24:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "summary": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/\nComments URL: https://news.ycombinator.com/item?id=49485532\nPoints: 57…",
+      "publishedAt": "2026-08-28T23:46:10.000Z",
+      "image": "https://www.vectorian.be/static/img/content/articles/sumerian-king-list-paleoclimate-alignment-og-v2.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T23:46:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PPWR lands another blow to an precarious tabletop industry",
+      "link": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+      "summary": "Article URL: https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/\nComments URL: https://news.ycombinator.com/item?id=49485504\nPoints: 29\n# Co…",
+      "publishedAt": "2026-08-28T23:41:05.000Z",
+      "image": "https://images.unsplash.com/photo-1766040923580-16ad32fae8b4?crop&#x3D;entropy&cs&#x3D;tinysrgb&fit&#x3D;max&fm&#x3D;jpg&ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDMwfHxib3hlc3xlbnwwfHx8fDE3ODc5MjQxMzB8MA&ixlib&#x3D;rb-4.1.0&q&#x3D;80&w&#x3D;2000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T23:41:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "summary": "Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/\nComments URL: https://news.ycombinato…",
+      "publishedAt": "2026-08-28T23:32:22.000Z",
+      "image": "https://azmirror.com/wp-content/uploads/2026/08/kalshi-illus-njm-2048x1366.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T23:32:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/\nComments URL: https://news.ycombinator.com/item?id=49485416\nPoints: 26\n# Comments: 5",
+      "publishedAt": "2026-08-28T23:27:45.000Z",
+      "image": "https://pwning.systems/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T23:27:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+      "publishedAt": "2026-08-28T23:24:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T23:24:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "summary": "Article URL: https://github.com/Lakr233/vphone-cli\nComments URL: https://news.ycombinator.com/item?id=49485267\nPoints: 99\n# Comments: 31",
+      "publishedAt": "2026-08-28T23:02:21.000Z",
+      "image": "https://opengraph.githubassets.com/d9cd837a25ea051ae5e93097ac7786a277ca5e5d7151fdb05ad03d7dd3aed76d/Lakr233/vphone-cli",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T23:02:21.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use your old Android phone as a Wi-Fi extender",
+      "link": "https://www.engadget.com/2246379/how-to-use-old-android-phone-wifi-extender/",
+      "summary": "If your Wi-Fi signal is patchy at the far reaches of your house, this simple solution might be worth a try. Even better? It's completely free.",
+      "publishedAt": "2026-08-28T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-your-old-android-phone-as-a-wi-fi-extender/l-intro-1787151742.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T23:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google further buries search results under AI mode",
+      "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks i…",
+      "publishedAt": "2026-08-28T22:48:11.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T22:48:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "publishedAt": "2026-08-28T22:42:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T22:42:48.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+      "summary": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
+      "publishedAt": "2026-08-28T22:29:13.000Z",
+      "image": "https://media.wired.com/photos/6a9205e11fef496705b5c9f7/191:100/w_1280,c_limit/Jensen-Took-Call-From-Trump-Business-2212801537.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T22:29:13.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+      "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+      "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+      "publishedAt": "2026-08-28T22:14:52.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T22:14:52.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "20+ things you may have missed in the GTA 6 extended look",
+      "link": "https://www.engadget.com/2246846/things-you-may-have-missed-gta-6-extended-look/",
+      "summary": "The GTA VI extended-look trailer is full of clues, if you know where to look.",
+      "publishedAt": "2026-08-28T22:08:08.000Z",
+      "image": "https://www.engadget.com/img/gallery/things-you-may-have-missed-gta-6-extended-look/l-intro-1787955980.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T22:08:08.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+      "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "summary": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nAccording to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\"…",
+      "publishedAt": "2026-08-28T22:03:13.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T22:03:13.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What you need to build your own retro arcade cabinet",
+      "link": "https://www.engadget.com/2245480/diy-retro-arcade-cabinet-what-you-need/",
+      "summary": "There are few things cooler to add to a gaming space than a retro arcade cabinet. But should you buy one or build one?",
+      "publishedAt": "2026-08-28T22:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-you-need-to-build-your-own-retro-arcade-cabinet/l-intro-1787752946.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T22:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Cities terminate Flock contracts at record pace in August",
+      "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+      "summary": "Cancellations have accelerated.",
+      "publishedAt": "2026-08-28T21:33:54.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T21:33:54.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+      "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+      "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+      "publishedAt": "2026-08-28T21:17:38.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T21:17:38.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "publishedAt": "2026-08-28T20:24:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T20:24:11.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
+      "link": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
+      "summary": "The longtime far-right operator and troll, a UK citizen, is being held in ICE custody pending his removal from the United States.",
+      "publishedAt": "2026-08-28T19:44:11.000Z",
+      "image": "https://media.wired.com/photos/6a91cfbdbb3a85e785f50a77/191:100/w_1280,c_limit/IMG_5395.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T19:44:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "publishedAt": "2026-08-28T19:30:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T19:30:38.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Early leak of NVIDIA's DLSS 5 has an uncanny valley problem",
+      "link": "https://www.engadget.com/2246658/early-leak-of-nvidia-dlss5-has-an-uncanny-valley-problem/",
+      "summary": "People are grafting a pre-release version of DLSS 5 onto their favorite games with unspectacular results.",
+      "publishedAt": "2026-08-28T19:20:33.000Z",
+      "image": "https://www.engadget.com/img/gallery/nvidias-dlss-5-has-an-uncanny-valley-problem/l-intro-1787944651.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T19:20:33.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "summary": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "publishedAt": "2026-08-28T18:50:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-28T18:50:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "How long is a new Fire TV Stick actually supposed to last?",
@@ -90,33 +354,15 @@
       "latestActivity": "2026-08-28T17:36:30.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Apple TV is raising its subscription prices again",
-      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-      "summary": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
-      "publishedAt": "2026-08-28T14:36:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/SVOD_AppleTV_Severance-S2_Blog-Post-1-1024x576-1.jpg?w=1024",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-          "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-          "publishedAt": "2026-08-28T17:23:53.000Z"
-        }
-      ],
-      "latestActivity": "2026-08-28T17:23:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Secrets of the Atomic City",
-      "link": "https://longreads.com/2026/08/06/radiation-paducah-atavist/",
-      "summary": "Article URL: https://longreads.com/2026/08/06/radiation-paducah-atavist/\nComments URL: https://news.ycombinator.com/item?id=49481672\nPoints: 11\n# Comments: 2",
-      "publishedAt": "2026-08-28T17:16:58.000Z",
-      "image": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/08/atomic-city.jpg?fit=1857%2C1567&quality=89&ssl=1",
+      "source": "Ars Technica",
+      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+      "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+      "summary": "Annual Apple TV subscriptions get the biggest bump.",
+      "publishedAt": "2026-08-28T17:23:53.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-28T17:16:58.000Z"
+      "latestActivity": "2026-08-28T17:23:53.000Z"
     },
     {
       "source": "Wired",
@@ -150,28 +396,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-28T17:03:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "link": "https://arxiv.org/abs/2608.23691",
-      "summary": "Article URL: https://arxiv.org/abs/2608.23691\nComments URL: https://news.ycombinator.com/item?id=49481455\nPoints: 12\n# Comments: 0",
-      "publishedAt": "2026-08-28T17:01:12.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T17:01:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-      "link": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-      "summary": "Article URL: https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering\nComments URL: https://news.ycombinator.com/item?id=49481423\nPoints: 0…",
-      "publishedAt": "2026-08-28T17:00:06.000Z",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/44ed072ce9972c28b200c75e43264ef7e52797bb.png?1749846051",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T17:00:06.000Z"
     },
     {
       "source": "Ars Technica",
@@ -229,28 +453,6 @@
       "latestActivity": "2026-08-28T16:22:16.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Microsoft-backed AI data center has been accused of violating federal law",
-      "link": "https://www.engadget.com/2246451/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/",
-      "summary": "It's allegedly been running dozens of gigantic generators without a permit.",
-      "publishedAt": "2026-08-28T16:03:34.000Z",
-      "image": "https://www.engadget.com/img/gallery/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/l-intro-1787932637.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T16:03:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "summary": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit\nComments URL: https://news.ycombinator.com/item?id=49480466\nPoints: 99\n# Comments: 32",
-      "publishedAt": "2026-08-28T15:58:46.000Z",
-      "image": "https://anil.recoil.org/images/vulncheck-2026.640.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T15:58:46.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "More Americans oppose police license plate cameras than support them: survey",
       "link": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
@@ -273,28 +475,6 @@
       "latestActivity": "2026-08-28T15:42:24.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "How Dactyl Works",
-      "link": "https://dactyl.dev/blog/how-dactyl-works/",
-      "summary": "Article URL: https://dactyl.dev/blog/how-dactyl-works/\nComments URL: https://news.ycombinator.com/item?id=49480220\nPoints: 52\n# Comments: 9",
-      "publishedAt": "2026-08-28T15:42:04.000Z",
-      "image": "https://dactyl.dev/blog/how-dactyl-works/og.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T15:42:04.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Friend-focused photo-sharing app Retro snags $21M",
-      "link": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-      "summary": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
-      "publishedAt": "2026-08-28T15:35:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/Retro-Header.png?resize=1200,792",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T15:35:03.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "link": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
@@ -304,17 +484,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-28T15:30:05.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to make your Android alarm ring at full volume even when your calls are muted",
-      "link": "https://www.engadget.com/2242569/how-to-make-android-alarm-ring-full-volume-while-calls-muted/",
-      "summary": "Your phone should be able to still sound your morning alarm when it's in silent mode. If it's not, here are some settings to check.",
-      "publishedAt": "2026-08-28T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-make-your-android-alarm-ring-at-full-volume-even-when-your-calls-are-muted/l-intro-1787578282.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T15:30:00.000Z"
     },
     {
       "source": "The Verge",
@@ -328,39 +497,6 @@
       "latestActivity": "2026-08-28T15:26:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "EasyEffects can massively improve laptop speaker sound quality",
-      "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-      "summary": "Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/\nC…",
-      "publishedAt": "2026-08-28T15:23:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T15:23:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Barrier lake continues to pose flood risk, China warns",
-      "link": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
-      "summary": "Article URL: https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns\nComments URL: https://news.ycombinator.com/item?id=49479898\nPoints:…",
-      "publishedAt": "2026-08-28T15:21:26.000Z",
-      "image": "https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HQzLzGGasAA2ck-1787915550.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T15:21:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GLM-5.3 is now open-weight",
-      "link": "https://twitter.com/Zai_org/status/2093354097122455713",
-      "summary": "Article URL: https://twitter.com/Zai_org/status/2093354097122455713\nComments URL: https://news.ycombinator.com/item?id=49479878\nPoints: 304\n# Comments: 117",
-      "publishedAt": "2026-08-28T15:20:13.000Z",
-      "image": "https://pbs.twimg.com/media/HQ0WAnyXIAENtQA.jpg:large",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T15:20:13.000Z"
-    },
-    {
       "source": "Wired",
       "title": "AI Has Human Doctors Asking: What’s Left for Us?",
       "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
@@ -370,17 +506,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-28T15:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Price increases suddenly hit Apple TV and Apple One",
-      "link": "https://www.engadget.com/2246336/price-increases-suddenly-hit-apple-tv-and-apple-one/",
-      "summary": "You might have to pay a bit more to catch the end of the latest Ted Lasso season.",
-      "publishedAt": "2026-08-28T14:37:58.000Z",
-      "image": "https://www.engadget.com/img/gallery/price-increases-suddenly-hit-apple-tv-and-apple-one/l-intro-1787927378.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T14:37:58.000Z"
     },
     {
       "source": "The Verge",
@@ -394,39 +519,6 @@
       "latestActivity": "2026-08-28T13:47:36.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-      "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
-      "publishedAt": "2026-08-28T13:24:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T13:24:43.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Pokémon Champions review: Peak monster battling",
-      "link": "https://www.engadget.com/2245080/pokmon-champions-review/",
-      "summary": "If you want to be the very best, Pokémon Champions is your new arena.",
-      "publishedAt": "2026-08-28T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/pokmon-champions-review-peak-monster-battling/l-intro-1787777845.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washing…",
-      "publishedAt": "2026-08-28T12:46:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T12:46:12.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
@@ -436,17 +528,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-28T12:35:27.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "publishedAt": "2026-08-28T12:21:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T12:21:06.000Z"
     },
     {
       "source": "The Verge",
@@ -482,28 +563,6 @@
       "latestActivity": "2026-08-28T11:39:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-      "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-      "publishedAt": "2026-08-28T11:15:05.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T11:15:05.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-      "link": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
-      "summary": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
-      "publishedAt": "2026-08-28T11:00:39.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/smalll.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T11:00:39.000Z"
-    },
-    {
       "source": "Wired",
       "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
       "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
@@ -515,28 +574,6 @@
       "latestActivity": "2026-08-28T11:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at…",
-      "publishedAt": "2026-08-28T10:56:22.000Z",
-      "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T10:56:22.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Easiest Ways to Share Anything Between Android and iOS",
-      "link": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
-      "summary": "Transferring files and data across platforms is more straightforward than ever.",
-      "publishedAt": "2026-08-28T10:45:00.000Z",
-      "image": "https://media.wired.com/photos/6a904a3b36f6c0403d01480b/191:100/w_1280,c_limit/AndroidIOS.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T10:45:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "How to sign up for a virtual power plant—and decide whether you should",
       "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
@@ -546,39 +583,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-28T09:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a batt…",
-      "publishedAt": "2026-08-28T03:14:06.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T03:14:06.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-      "link": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-      "summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage cap…",
-      "publishedAt": "2026-08-28T01:05:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T01:05:18.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
-      "publishedAt": "2026-08-27T22:15:43.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsgraph.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-27T22:15:43.000Z"
     },
     {
       "source": "MIT Technology Review",
