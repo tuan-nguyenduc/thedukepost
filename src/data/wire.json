@@ -1,16 +1,254 @@
 {
-  "syncedAt": "2026-08-30T16:17:25.601Z",
+  "syncedAt": "2026-08-30T20:44:47.838Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "12TB Steam leak reveals unseen Half-Life 2: Episode 3 builds",
-      "link": "https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-builds-and-assets",
-      "summary": "Article URL: https://www.tomshardware.com/video-games/pc-gaming/massive-12tb-steam-leak-reveals-decades-of-unreleased-games-archived-files-include-unseen-half-life-2-episode-3-buil…",
-      "publishedAt": "2026-08-30T16:07:09.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CBt66kAwURokqymNekYL97-1920-80.jpg",
+      "source": "VentureBeat",
+      "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
+      "link": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
+      "summary": "There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit…",
+      "publishedAt": "2026-08-30T20:15:00.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6rkrplCZAm3RWGgQAlLmAb/498dff3f929a0e91f7518f33ed5201a6/u7277289442_A_modern_interpretation_of_cybersecurity._Lock._D_a9df6b39-5c1d-4d77-9190-c4f954f7dfa8_0.png?w=300&q=30",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-08-30T16:07:09.000Z"
+      "latestActivity": "2026-08-30T20:15:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "summary": "Article URL: https://www.righto.com/2026/08/spacelab-core-memory.html\nComments URL: https://news.ycombinator.com/item?id=49502214\nPoints: 9\n# Comments: 1",
+      "publishedAt": "2026-08-30T20:00:25.000Z",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ux8g5eIe89uiXA08MHC3EMMVqSTNHc6f94mim6Ham-XI5M_Nke_AqNKeIyuqWmxGPDLQuJjncj8Clav9F06CBudwsJO8XyZ-xj6Ol4aLg7rYlP_81m9A0cGjFhlz11IH3M01Y=w1200-h630-p-k-no-nu",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T20:00:25.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to improve your audio quality on Android Auto",
+      "link": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality/",
+      "summary": "If the sound you're getting through Android Auto is disappointing, there are several components and settings you should check.",
+      "publishedAt": "2026-08-30T20:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-audio-quality-on-android-auto/l-intro-1787849019.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T20:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "1kB Website as Status Symbol",
+      "link": "https://async.cat/blog",
+      "summary": "Article URL: https://async.cat/blog\nComments URL: https://news.ycombinator.com/item?id=49501932\nPoints: 9\n# Comments: 5",
+      "publishedAt": "2026-08-30T19:26:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T19:26:10.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "A decade's worth of Steam files totaling more than 12TB has leaked",
+      "link": "https://www.engadget.com/2247128/a-decade-worth-of-steam-files-totaling-more-than-12tb-leaked/",
+      "summary": "The leak contains beta builds and finished games from Valve and third-party developers.",
+      "publishedAt": "2026-08-30T19:16:13.000Z",
+      "image": "https://www.engadget.com/img/gallery/a-decades-worth-of-steam-files-totaling-more-than-12tb-has-leaked/l-intro-1788115795.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T19:16:13.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+      "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+      "summary": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its mas…",
+      "publishedAt": "2026-08-30T19:14:08.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T19:14:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The world may have less time than it thinks on climate change",
+      "link": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+      "summary": "Article URL: https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change\nComments URL: https://news.ycombinator.com/item?id=4950179…",
+      "publishedAt": "2026-08-30T19:08:25.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T19:08:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "link": "https://github.com/KodeMunkie/sm750hdmifb",
+      "summary": "Article URL: https://github.com/KodeMunkie/sm750hdmifb\nComments URL: https://news.ycombinator.com/item?id=49501611\nPoints: 25\n# Comments: 10",
+      "publishedAt": "2026-08-30T18:49:08.000Z",
+      "image": "https://opengraph.githubassets.com/a465f3e6cab5eaeb5673967fc3a940af439106e28c405d7dc91a764df3af6b10/KodeMunkie/sm750hdmifb",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T18:49:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "publishedAt": "2026-08-30T18:33:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T18:33:44.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to adjust the audio settings for your AirPods (and why you should)",
+      "link": "https://www.engadget.com/2242791/how-to-adjust-audio-settings-on-airpods/",
+      "summary": "If you want to enhance the sound of your AirPods even further, we've got you. Let's dig into some settings that will level up your listening experience.",
+      "publishedAt": "2026-08-30T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-adjust-the-audio-settings-for-your-airpods-and-why-you-should/l-intro-1787150345.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T18:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+      "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+      "summary": "NASA’s Nancy Grace Roman Telescope blasts off. | Photo: NASA / John Kraus\t\n\nAfter funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully l…",
+      "publishedAt": "2026-08-30T16:36:39.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NHQ20260830_admin_0002large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "NASA's Nancy Grace Roman Space Telescope is now on its way to study the 'dark universe'",
+          "link": "https://www.engadget.com/2247120/nasa-nancy-grace-roman-space-telescope-launches-to-study-dark-universe/",
+          "publishedAt": "2026-08-30T18:25:11.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-30T18:25:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Norway Shrugged",
+      "link": "https://paragraph.com/@hagaetc/norway-shrugged",
+      "summary": "Article URL: https://paragraph.com/@hagaetc/norway-shrugged\nComments URL: https://news.ycombinator.com/item?id=49501210\nPoints: 17\n# Comments: 2",
+      "publishedAt": "2026-08-30T18:10:58.000Z",
+      "image": "https://paragraph.com/api/og?title=Norway+Shrugged+%F0%9F%87%B3%F0%9F%87%B4%F0%9F%A4%B7&blogName=hagaetc&coverPhotoUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F1e63e5ea828796611f03518f397f86bd.jpg&blogImageUrl=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fdf5ebf09f7049389b36ba6af3f8e0be7.png&publishedDate=1732780778441",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T18:10:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+      "link": "https://openrun.dev/blog/litestream/",
+      "summary": "Article URL: https://openrun.dev/blog/litestream/\nComments URL: https://news.ycombinator.com/item?id=49501147\nPoints: 25\n# Comments: 12",
+      "publishedAt": "2026-08-30T18:05:06.000Z",
+      "image": "https://openrun.dev/openrun_small.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T18:05:06.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Not the GameCube, not the Wii U: This was Nintendo's most unsuccessful console",
+      "link": "https://www.engadget.com/2242784/nintendo-most-unsuccessful-console-not-gamecube-wii-u/",
+      "summary": "Nintendo's worst-ever console was awkward to use and didn't even sell a million units. But you can try it today if you're curious.",
+      "publishedAt": "2026-08-30T18:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/not-the-gamecube-not-the-wii-u-this-was-nintendos-most-unsuccessful-console/l-intro-1786717178.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T18:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Why it matters that President Trump just dialed into a NASA news conference",
+      "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+      "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
+      "publishedAt": "2026-08-30T17:40:30.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T17:40:30.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Stop getting bad YouTube recommendations with 4 simple steps",
+      "link": "https://www.engadget.com/2242780/how-to-get-better-youtube-recommendations/",
+      "summary": "If your algorithm is out of whack recently, there are things you can do to get it back on track with content you like.",
+      "publishedAt": "2026-08-30T17:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/stop-getting-bad-youtube-recommendations-with-4-simple-steps/l-intro-1786729687.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T17:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+      "summary": "Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\nComments URL: https://news.ycombinator.com/item?id=49500471\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-08-30T17:01:56.000Z",
+      "image": "https://www.artie.com/opengraph-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T17:01:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source…",
+      "publishedAt": "2026-08-30T16:54:25.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T16:54:25.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What free gifts does Xbox give you on your birthday?",
+      "link": "https://www.engadget.com/2242783/free-gifts-birthday-xbox/",
+      "summary": "During your birthday week, you can claim a special gift from Xbox. Let's see what it is and how to claim it.",
+      "publishedAt": "2026-08-30T16:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-free-gifts-does-xbox-give-you-on-your-birthday/l-intro-1786651298.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T16:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple prototyped a stylus for the foldable iPhone that we may never see",
+      "link": "https://www.engadget.com/2247093/apple-prototyped-stylus-for-foldable-iphone-that-we-may-never-see/",
+      "summary": "On the bright side, Apple is more certainly working on an Apple Watch overhaul.",
+      "publishedAt": "2026-08-30T16:23:10.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-prototyped-a-stylus-for-the-foldable-iphone-that-we-may-never-see/l-intro-1788106865.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T16:23:10.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
+      "link": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
+      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online maps provider to flip the switch.",
+      "publishedAt": "2026-08-30T16:16:24.000Z",
+      "image": "https://media.wired.com/photos/6a9455859666495a32b503b6/191:100/w_1280,c_limit/Screenshot%202026-08-30%20at%2011.06.40%E2%80%AFAM.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T16:16:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "link": "https://komoroske.com/slime-mold/",
+      "summary": "Article URL: https://komoroske.com/slime-mold/\nComments URL: https://news.ycombinator.com/item?id=49499891\nPoints: 80\n# Comments: 35",
+      "publishedAt": "2026-08-30T16:03:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T16:03:17.000Z"
     },
     {
       "source": "TechCrunch",
@@ -24,28 +262,6 @@
       "latestActivity": "2026-08-30T16:03:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Haiku R1/beta6 has been released",
-      "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "summary": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\nComments URL: https://news.ycombinator.com/item?id=49499867\nPoints: 12\n# Comments: 2",
-      "publishedAt": "2026-08-30T16:01:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T16:01:10.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The cheapest NFL streaming options to stay locked in all season",
-      "link": "https://www.engadget.com/2246400/cheapest-nfl-streaming-options-stay-locked-in-all-season/",
-      "summary": "Watching NFL games life can get expensive in a hurry, but there are a few corners you can cut to keep the cost down.",
-      "publishedAt": "2026-08-30T16:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-cheapest-nfl-streaming-options-to-stay-locked-in-all-season/l-intro-1787849807.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T16:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
@@ -55,28 +271,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-30T15:35:10.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Is 4K just marketing? Here's where the name really came from",
-      "link": "https://www.engadget.com/2242779/how-4k-tv-got-its-name/",
-      "summary": "4K is a catchier marketing term than 2160p, but the resolution also has this name for a reason.",
-      "publishedAt": "2026-08-30T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/is-4k-just-marketing-heres-where-the-name-really-came-from/l-intro-1786133597.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T15:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-      "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-      "summary": "Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement\nComments URL: https://news.ycombinator.com/item?id=49499394\nPoints: 50\n# Comments:…",
-      "publishedAt": "2026-08-30T15:12:40.000Z",
-      "image": "https://media.reclaimthenet.org/2025/04/eu-encrpt-scaled.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T15:12:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -90,50 +284,6 @@
       "latestActivity": "2026-08-30T15:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Things to know before using your MacBook outside",
-      "link": "https://www.engadget.com/2242777/using-macbook-outside-consider-these-things/",
-      "summary": "Keep an eye on the temperature when using your MacBook outside.",
-      "publishedAt": "2026-08-30T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/things-to-know-before-using-your-macbook-outside/l-intro-1786646118.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
-      "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-      "summary": "Article URL: https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/\nComments URL: https://news.ycombinator.com/item?id=49498978\nPoints: 62\n# Comme…",
-      "publishedAt": "2026-08-30T14:29:25.000Z",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26240395440798-e1788040359606.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T14:29:25.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Google Maps has changed Lake Ontario to Lake America for US users",
-      "link": "https://www.engadget.com/2247074/google-maps-has-changed-lake-ontario-to-lake-america-for-us-users/",
-      "summary": "It'll still show up as Lake Ontario for Maps users in Canada.",
-      "publishedAt": "2026-08-30T14:26:31.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-maps-has-changed-lake-ontario-to-lake-america-for-us-users/l-intro-1788099757.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T14:26:31.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Improve your Android Auto experience by doing these simple things",
-      "link": "https://www.engadget.com/2242776/improve-android-auto-experience-doing-simple-things/",
-      "summary": "Android Auto has several essential features enabled by default, but you may be surprised at how much it can really do.",
-      "publishedAt": "2026-08-30T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/improve-your-android-auto-experience-by-doing-these-simple-things/l-intro-1787319995.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T13:30:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Chess.com launched a poker site and is planning even more classic games",
       "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
@@ -143,50 +293,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-30T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How much storage does a smart TV typically have?",
-      "link": "https://www.engadget.com/2242773/how-much-storage-does-smart-tv-have/",
-      "summary": "Smart TVs store lots of data, and the amount they have to work with is often quite low. There are ways to maximize your storage space, though.",
-      "publishedAt": "2026-08-30T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-much-storage-does-a-smart-tv-typically-have/l-intro-1787324309.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "No AI Fridays",
-      "link": "https://noaifridays.com/",
-      "summary": "Article URL: https://noaifridays.com/\nComments URL: https://news.ycombinator.com/item?id=49498095\nPoints: 208\n# Comments: 107",
-      "publishedAt": "2026-08-30T12:31:05.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T12:31:05.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple Arcade just got this retro-inspired gem",
-      "link": "https://www.engadget.com/2242771/apple-arcade-retro-bowl-college-plus/",
-      "summary": "This throwback game has simple controls and graphics, but the actual gameplay can be as complex as you want.",
-      "publishedAt": "2026-08-30T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-arcade-just-got-this-retro-inspired-gem/l-intro-1787341192.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T12:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-      "link": "https://github.com/fugue-labs/monty-go",
-      "summary": "Article URL: https://github.com/fugue-labs/monty-go\nComments URL: https://news.ycombinator.com/item?id=49497928\nPoints: 29\n# Comments: 5",
-      "publishedAt": "2026-08-30T12:02:09.000Z",
-      "image": "https://opengraph.githubassets.com/04a8b6eb56c5b1c909c36d79cdc4dc13c107a2583c93d274b9e1fd3b24aaf1ec/fugue-labs/monty-go",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T12:02:09.000Z"
     },
     {
       "source": "The Verge",
@@ -209,39 +315,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-30T12:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to check if your TV is playing in 4K or not",
-      "link": "https://www.engadget.com/2245493/how-to-check-if-tv-playing-4k/",
-      "summary": "There's plenty of 4K content to watch on your 4K TV, but not everything is in Ultra HD. Thankfully, you can check what you're currently seeing.",
-      "publishedAt": "2026-08-30T12:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-check-if-your-tv-is-playing-in-4k-or-not/l-intro-1786659438.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Automating Immersive Reading",
-      "link": "https://smoores.dev/post/automating_immersive_reading/",
-      "summary": "Article URL: https://smoores.dev/post/automating_immersive_reading/\nComments URL: https://news.ycombinator.com/item?id=49497854\nPoints: 45\n# Comments: 16",
-      "publishedAt": "2026-08-30T11:46:23.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T11:46:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
-      "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-      "summary": "Article URL: https://www.muppetlabs.com/~breadbox/software/windows.html\nComments URL: https://news.ycombinator.com/item?id=49497819\nPoints: 32\n# Comments: 4",
-      "publishedAt": "2026-08-30T11:41:40.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T11:41:40.000Z"
     },
     {
       "source": "Ars Technica",
@@ -332,21 +405,14 @@
       "latestActivity": "2026-08-29T19:49:59.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\"…",
-      "publishedAt": "2026-08-29T18:19:53.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-          "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-          "publishedAt": "2026-08-29T18:41:59.000Z"
-        }
-      ],
+      "source": "TechCrunch",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "publishedAt": "2026-08-29T18:41:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-08-29T18:41:59.000Z"
     },
     {
@@ -383,39 +449,6 @@
       "latestActivity": "2026-08-29T16:10:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-      "link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
-      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to vir…",
-      "publishedAt": "2026-08-29T16:01:13.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268605_BYOK_TOBrien_0016.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-29T16:01:13.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pa…",
-      "publishedAt": "2026-08-29T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-29T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "publishedAt": "2026-08-29T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-29T13:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
       "link": "https://www.wired.com/review/soundcore-liberty-5-pro/",
@@ -444,17 +477,6 @@
       "summary": "Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets.",
       "publishedAt": "2026-08-29T10:30:00.000Z",
       "image": "https://media.wired.com/photos/6a90143f13ea49f13acf54b5/191:100/w_1280,c_limit/Nasa.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-29T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "publishedAt": "2026-08-29T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-29T10:30:00.000Z"
@@ -524,17 +546,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-28T17:36:30.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-      "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-      "summary": "Annual Apple TV subscriptions get the biggest bump.",
-      "publishedAt": "2026-08-28T17:23:53.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-28T17:23:53.000Z"
     },
     {
       "source": "VentureBeat",
@@ -645,17 +656,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-27T10:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat",
-      "title": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
-      "link": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
-      "summary": "A week ago, a mystery model called Ox Alpha showed up on OpenRouter — one more entrant among more than 400 models, with roughly 10 new ones launching every week. What made it stand…",
-      "publishedAt": "2026-08-27T00:42:20.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4032PIHdBJBW2kqNHAOME0/53c12ae6fbb334fab937a4dcc1065c33/Gemini_Generated_Image_3lw7jd3lw7jd3lw7.jpeg?w=300&q=30",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-27T00:42:20.000Z"
     },
     {
       "source": "MIT Technology Review",
