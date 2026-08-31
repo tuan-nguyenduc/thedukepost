@@ -32,6 +32,7 @@ const breadcrumbItems = [
   <section class="wrap page">
     <Breadcrumbs items={breadcrumbItems} />
     <h1>{label}</h1>
+    <p class="feed-link"><a href={`/articles/category/${category}.xml`}>Subscribe via RSS</a></p>
     {articles.length > 0 ? (
       <ul class="list">
         {articles.map((a) => (
@@ -73,7 +74,10 @@ const breadcrumbItems = [
 
 <style>
   .page { padding: 48px 24px 80px; }
-  h1 { font-size: 36px; margin-bottom: 36px; }
+  h1 { font-size: 36px; margin-bottom: 12px; }
+  .feed-link { font-family: var(--font-mono); font-size: 13px; margin: 0 0 28px; }
+  .feed-link a { color: var(--accent); border-bottom: 2px solid var(--accent-soft); }
+  .feed-link a:hover { border-color: var(--accent); }
   .list { list-style: none; margin: 0; padding: 0; display: grid; gap: 24px; }
   .list li { position: relative; margin: 0; min-width: 0; }
   .list .card { padding: 24px; }
