@@ -1,6 +1,123 @@
 {
-  "syncedAt": "2026-08-31T00:15:55.529Z",
+  "syncedAt": "2026-08-31T08:18:14.988Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "link": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "summary": "Article URL: https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails\nComments URL: https://news.ycombinator.com/item?id=49506655\nPoints: 1…",
+      "publishedAt": "2026-08-31T07:23:47.000Z",
+      "image": "https://sm.pcmag.com/t/pcmag_au/news/m/meta-secur/meta-security-researchers-ai-agent-accidentally-deleted-her_7uyw.1200.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-31T07:23:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
+      "publishedAt": "2026-08-30T21:40:56.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+          "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "publishedAt": "2026-08-31T06:10:44.000Z"
+        }
+      ],
+      "latestActivity": "2026-08-31T06:10:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenClaw 2.0, Accidentally",
+      "link": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "summary": "Article URL: https://openclaw.ai/blog/openclaw-2-accidentally\nComments URL: https://news.ycombinator.com/item?id=49505310\nPoints: 76\n# Comments: 74",
+      "publishedAt": "2026-08-31T03:38:02.000Z",
+      "image": "https://openclaw.ai/blog/openclaw-2-accidentally/openclaw-2-hero.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-31T03:38:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "link": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "summary": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\nComments URL: https://news.ycombinator.com/item?id=49505219\nPoints: 85\n# Comments: 36",
+      "publishedAt": "2026-08-31T03:20:33.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-31T03:20:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Transfer files over an Ethernet patch cable",
+      "link": "https://maurycyz.com/misc/etherfiles/",
+      "summary": "Article URL: https://maurycyz.com/misc/etherfiles/\nComments URL: https://news.ycombinator.com/item?id=49505217\nPoints: 64\n# Comments: 47",
+      "publishedAt": "2026-08-31T03:19:42.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-31T03:19:42.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "publishedAt": "2026-08-31T02:34:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-31T02:34:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Internet centralization and the original sin of NAT",
+      "link": "https://dreamstation.systems/personal/ntppost.html",
+      "summary": "Article URL: https://dreamstation.systems/personal/ntppost.html\nComments URL: https://news.ycombinator.com/item?id=49504905\nPoints: 49\n# Comments: 28",
+      "publishedAt": "2026-08-31T02:23:03.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-31T02:23:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a b…",
+      "publishedAt": "2026-08-31T02:18:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/George-Arison.jpg?resize=800,1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-31T02:18:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Understanding ChatGPT Work",
+      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "summary": "Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\nComments URL: https://news.ycombinator.com/item?id=49504625\nPoints: 160\n# Comments: 55",
+      "publishedAt": "2026-08-31T01:28:22.000Z",
+      "image": "https://static.simonwillison.net/static/2026/chatgpt-work-card.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-31T01:28:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to build a diffusion language model",
+      "link": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "summary": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\nComments URL: https://news.ycombinator.com/item?id=49503956\nPoints: 69\n# Comme…",
+      "publishedAt": "2026-08-30T23:41:32.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-08-30T23:41:32.000Z"
+    },
     {
       "source": "Engadget",
       "title": "How to improve your audio quality on Apple CarPlay",
@@ -24,28 +141,6 @@
       "latestActivity": "2026-08-30T23:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "“I just chose words carefully”",
-      "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "summary": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/\nComments URL: https://news.ycombinator.com/item?id=49503601\nPoints: 120\n# Comments: 26",
-      "publishedAt": "2026-08-30T22:49:48.000Z",
-      "image": "https://unsung.aresluna.org/_media/i-just-chose-words-carefully/ogimage.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T22:49:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
-      "link": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
-      "summary": "Article URL: https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/\nComments URL: https://news.ycombinator.com/item?id=49503587\nPoints: 32\n# Comments: 20",
-      "publishedAt": "2026-08-30T22:46:04.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T22:46:04.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "How to soft and hard reset your iPhone",
       "link": "https://www.engadget.com/2242787/how-to-soft-hard-reset-iphone/",
@@ -55,17 +150,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-30T22:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-      "link": "https://academa.ai/",
-      "summary": "Hi HN, we are Sina Atalay and Abdullah Geduk, co-founders of Academa. We are both PhD students.\nWe thought: what if lecture videos were written as code and compiled into video usin…",
-      "publishedAt": "2026-08-30T22:22:23.000Z",
-      "image": "https://academa.ai/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T22:22:23.000Z"
     },
     {
       "source": "Engadget",
@@ -79,28 +163,6 @@
       "latestActivity": "2026-08-30T22:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Mark Zuckerberg's Social Reckoning",
-      "link": "https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning\nComments URL: https://news.ycombinator.com/item?id=49503134\nPoints: 27\n# Comments: 38",
-      "publishedAt": "2026-08-30T21:41:54.000Z",
-      "image": "https://media.newyorker.com/photos/6a91f76cece008f2b479d79a/16:9/w_1280,c_limit/r50147.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T21:41:54.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-      "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-      "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
-      "publishedAt": "2026-08-30T21:40:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T21:40:56.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
       "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
@@ -112,17 +174,6 @@
       "latestActivity": "2026-08-30T21:18:59.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "summary": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html\nComments URL: https://news.ycombinator.com/item?id=49502611\nPoints: 46\n# Comments: 12",
-      "publishedAt": "2026-08-30T20:46:53.000Z",
-      "image": "https://sander.ai/images/verin.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T20:46:53.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
       "link": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
@@ -132,17 +183,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-30T20:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "summary": "Article URL: https://www.righto.com/2026/08/spacelab-core-memory.html\nComments URL: https://news.ycombinator.com/item?id=49502214\nPoints: 59\n# Comments: 10",
-      "publishedAt": "2026-08-30T20:00:25.000Z",
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ux8g5eIe89uiXA08MHC3EMMVqSTNHc6f94mim6Ham-XI5M_Nke_AqNKeIyuqWmxGPDLQuJjncj8Clav9F06CBudwsJO8XyZ-xj6Ol4aLg7rYlP_81m9A0cGjFhlz11IH3M01Y=w1200-h630-p-k-no-nu",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T20:00:25.000Z"
     },
     {
       "source": "Engadget",
@@ -176,17 +216,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-30T19:14:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "link": "https://github.com/KodeMunkie/sm750hdmifb",
-      "summary": "Article URL: https://github.com/KodeMunkie/sm750hdmifb\nComments URL: https://news.ycombinator.com/item?id=49501611\nPoints: 59\n# Comments: 31",
-      "publishedAt": "2026-08-30T18:49:08.000Z",
-      "image": "https://opengraph.githubassets.com/437ca825083663f21ab77a8282995abcda8585f92f6bf670d7e4e73f72b2a2ba/KodeMunkie/sm750hdmifb",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T18:49:08.000Z"
     },
     {
       "source": "TechCrunch",
@@ -251,17 +280,6 @@
       "latestActivity": "2026-08-30T17:40:30.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Artie (YC S23) Is Hiring Technical AES",
-      "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-      "summary": "Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\nComments URL: https://news.ycombinator.com/item?id=49500471\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-08-30T17:01:56.000Z",
-      "image": "https://www.artie.com/opengraph-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-30T17:01:56.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Musk’s faster path to more gas turbines comes with pollution problem",
       "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
@@ -276,7 +294,7 @@
       "source": "Wired",
       "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
       "link": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
-      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online maps provider to flip the switch.",
+      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online map provider to flip the switch.",
       "publishedAt": "2026-08-30T16:16:24.000Z",
       "image": "https://media.wired.com/photos/6a9455859666495a32b503b6/191:100/w_1280,c_limit/Screenshot%202026-08-30%20at%2011.06.40%E2%80%AFAM.png",
       "sourceCount": 1,
@@ -447,28 +465,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-29T17:51:10.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discover…",
-      "publishedAt": "2026-08-29T17:36:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-29T17:36:47.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Hollywood celebs are getting into microdrama apps",
-      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
-      "publishedAt": "2026-08-29T16:10:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-29T16:10:00.000Z"
     },
     {
       "source": "Wired",
