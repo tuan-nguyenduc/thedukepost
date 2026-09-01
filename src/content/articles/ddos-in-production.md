@@ -1,7 +1,7 @@
 ---
 title: "The Front Door Won't Close: What a DDoS Attack Actually Does to Production"
 description: "DDoS isn't about traffic volume — it's about bottlenecks, capacity, and how well you can tell attackers apart from real users at 3am."
-image: "/images/ddos-network-cables-cover.jpg"
+image: "../../assets/images/ddos-network-cables-cover.jpg"
 pubDate: 2026-07-26
 author: "The Duke Post"
 category: "security"

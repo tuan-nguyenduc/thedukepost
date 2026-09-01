@@ -1,4 +1,5 @@
 import { getCollection } from 'astro:content';
+import { getImage } from 'astro:assets';
 import wireData from '../data/wire.json';
 import digestArchive from '../data/digest-archive.json';
 import { calculateReadingTime, formatReadingTime } from '../lib/readingTime';
@@ -16,19 +17,21 @@ function stripMarkdown(md) {
 }
 
 export async function GET() {
-  const articles = (await getCollection('articles', ({ data }) => !data.draft))
-    .map((a) => ({
-      type: 'article',
-      slug: a.slug,
-      link: `/articles/${a.slug}`,
-      title: a.data.title,
-      description: a.data.description,
-      content: stripMarkdown(a.body),
-      image: a.data.image ?? '',
-      category: a.data.category,
-      pubDate: a.data.pubDate.toISOString().slice(0, 10),
-      readingTime: formatReadingTime(calculateReadingTime(a.body)),
-    }));
+  const articles = await Promise.all(
+    (await getCollection('articles', ({ data }) => !data.draft))
+      .map(async (a) => ({
+        type: 'article',
+        slug: a.slug,
+        link: `/articles/${a.slug}`,
+        title: a.data.title,
+        description: a.data.description,
+        content: stripMarkdown(a.body),
+        image: a.data.image ? (await getImage({ src: a.data.image })).src : '',
+        category: a.data.category,
+        pubDate: a.data.pubDate.toISOString().slice(0, 10),
+        readingTime: formatReadingTime(calculateReadingTime(a.body)),
+      }))
+  );
 
   const wire = wireData.items.map((item) => ({
     type: 'wire',

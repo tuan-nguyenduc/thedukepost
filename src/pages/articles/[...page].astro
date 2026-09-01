@@ -1,5 +1,6 @@
 ---
 import type { GetStaticPaths } from 'astro';
+import { Image } from 'astro:assets';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { categoryHref, categoryLabel } from '../../lib/categories';
@@ -27,7 +28,7 @@ const clientItems = allArticles.map((a) => ({
   slug: a.slug,
   title: a.data.title,
   description: a.data.description,
-  image: a.data.image ?? null,
+  image: a.data.image?.src ?? null,
   category: a.data.category,
   categoryLabel: categoryLabel(a.data.category),
   categoryHref: categoryHref(a.data.category),
@@ -73,7 +74,7 @@ const pageTitle = page.currentPage === 1
             {page.data.map((a) => (
               <li>
                 <a href={`/articles/${a.slug}`} class="sticker card">
-                  {a.data.image && <img class="card__image" src={a.data.image} alt="" loading="lazy" />}
+                  {a.data.image && <Image class="card__image" src={a.data.image} alt="" loading="lazy" densities={[1, 2]} />}
                   <div class="card__body">
                     <h2>{a.data.title}</h2>
                     <p>{a.data.description}</p>
@@ -89,7 +90,7 @@ const pageTitle = page.currentPage === 1
                   data-save-title={a.data.title}
                   data-save-href={`/articles/${a.slug}`}
                   data-save-description={a.data.description}
-                  data-save-image={a.data.image ?? ''}
+                  data-save-image={a.data.image?.src ?? ''}
                   data-save-category={a.data.category}
                   data-save-pub-date={a.data.pubDate.toISOString()}
                   aria-pressed="false"

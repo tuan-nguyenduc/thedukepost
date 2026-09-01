@@ -1,7 +1,7 @@
 ---
 title: "The Network Was Never the Boundary: What mTLS Actually Buys Service-to-Service Traffic"
 description: "Every internal service already treats \"it's on the same network\" as proof enough. mTLS replaces that assumption with a certificate check on every connection — which is exactly why it works, and exactly why a bad rotation can take down more at once than an attacker ever could."
-image: "/images/mtls-cell-tower-cover.jpg"
+image: "../../assets/images/mtls-cell-tower-cover.jpg"
 pubDate: 2026-07-28
 author: "The Duke Post"
 category: "security"

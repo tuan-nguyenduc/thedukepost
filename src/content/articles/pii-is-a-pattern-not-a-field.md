@@ -1,7 +1,7 @@
 ---
 title: "The Data Had No Name on It. It Still Mapped a Secret Military Base."
 description: "A 2018 fitness-app heatmap outed military bases without a single name field attached — where PII actually hides in your stack, and which of redaction, masking, tokenization, or encryption actually stops it."
-image: "/images/pii-heatmap-lights-cover.jpg"
+image: "../../assets/images/pii-heatmap-lights-cover.jpg"
 pubDate: 2026-07-27
 author: "The Duke Post"
 category: "security"

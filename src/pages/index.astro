@@ -1,4 +1,5 @@
 ---
+import { Image, getImage } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
 import { getCollection } from 'astro:content';
@@ -15,6 +16,7 @@ const GRID_SIZE = 8;
 
 const featured = articles.find((a) => a.data.featured) ?? articles[0];
 const rest = articles.filter((a) => a.id !== featured?.id).slice(0, GRID_SIZE);
+const featuredOgImage = featured?.data.image ? await getImage({ src: featured.data.image, width: 1200 }) : null;
 
 // wire.json is committed by an automated sync job; default the clustering
 // fields so a stale or hand-resolved-conflict copy without them can't crash
@@ -61,14 +63,14 @@ const moreCards = [
 <BaseLayout
   title="The Duke Post — All the Tech Trends, One Feed, No Tab-Hopping"
   description="The Duke Post tracks every major tech outlet so you don't have to. Original reporting plus a constantly updated Wire of curated headlines — the day's real trends in one place."
-  image={featured?.data.image}
+  image={featuredOgImage?.src}
 >
   <p class="tagline wrap">Skip the dozen open tabs. Original reporting and a live, curated Wire from every major outlet — the trends that matter, in one feed.</p>
   {featured && (
     <section class="hero wrap">
       <div class="hero__card">
         <a href={`/articles/${featured.slug}`} class="hero__link sticker">
-          {featured.data.image && <img class="hero__image" src={featured.data.image} alt="" />}
+          {featured.data.image && <Image class="hero__image" src={featured.data.image} alt="" densities={[1, 2]} loading="eager" fetchpriority="high" />}
           <h1 class="hero__title">{featured.data.title}</h1>
           <p class="hero__desc">{featured.data.description}</p>
           <span class="byline">{featured.data.author} · {featured.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
@@ -82,7 +84,7 @@ const moreCards = [
           data-save-title={featured.data.title}
           data-save-href={`/articles/${featured.slug}`}
           data-save-description={featured.data.description}
-          data-save-image={featured.data.image ?? ''}
+          data-save-image={featured.data.image?.src ?? ''}
           data-save-category={featured.data.category}
           data-save-pub-date={featured.data.pubDate.toISOString()}
           aria-pressed="false"
@@ -138,7 +140,7 @@ const moreCards = [
           card.kind === 'article' ? (
             <div class="more-card-wrap">
               <a href={`/articles/${card.article.slug}`} class="more-card sticker">
-                {card.article.data.image && <img class="more-card__image" src={card.article.data.image} alt="" loading="lazy" />}
+                {card.article.data.image && <Image class="more-card__image" src={card.article.data.image} alt="" loading="lazy" densities={[1, 2]} />}
                 <h3>{card.article.data.title}</h3>
                 <p>{card.article.data.description}</p>
                 <span class="more-card__meta">{formatReadingTime(calculateReadingTime(card.article.body))}</span>
@@ -152,7 +154,7 @@ const moreCards = [
                 data-save-title={card.article.data.title}
                 data-save-href={`/articles/${card.article.slug}`}
                 data-save-description={card.article.data.description}
-                data-save-image={card.article.data.image ?? ''}
+                data-save-image={card.article.data.image?.src ?? ''}
                 data-save-category={card.article.data.category}
                 data-save-pub-date={card.article.data.pubDate.toISOString()}
                 aria-pressed="false"

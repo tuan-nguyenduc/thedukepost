@@ -1,4 +1,5 @@
 import { getCollection } from 'astro:content';
+import { getImage } from 'astro:assets';
 import { marked } from 'marked';
 
 export async function GET(context) {
@@ -13,7 +14,7 @@ export async function GET(context) {
     description: 'Tech news and signal, curated and written by The Duke Post.',
     icon: new URL('/icon-192.png', context.site).toString(),
     favicon: new URL('/favicon-v3.svg', context.site).toString(),
-    items: articles.map((a) => {
+    items: await Promise.all(articles.map(async (a) => {
       const url = new URL(`/articles/${a.slug}`, context.site).toString();
       return {
         id: url,
@@ -24,9 +25,9 @@ export async function GET(context) {
         date_published: a.data.pubDate.toISOString(),
         authors: [{ name: a.data.author }],
         tags: [a.data.category, ...a.data.tags],
-        ...(a.data.image ? { image: new URL(a.data.image, context.site).toString() } : {}),
+        ...(a.data.image ? { image: new URL((await getImage({ src: a.data.image })).src, context.site).toString() } : {}),
       };
-    }),
+    })),
   };
 
   return new Response(JSON.stringify(feed, null, 2), {

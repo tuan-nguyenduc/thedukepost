@@ -3,10 +3,10 @@ import { CATEGORIES } from '../lib/categories';
 
 const articles = defineCollection({
   type: 'content',
-  schema: z.object({
+  schema: ({ image }) => z.object({
     title: z.string(),
     description: z.string(),
-    image: z.string().optional(),
+    image: image().optional(),
     pubDate: z.coerce.date(),
     author: z.string().default('The Duke Post'),
     category: z.enum(CATEGORIES).default('general'),

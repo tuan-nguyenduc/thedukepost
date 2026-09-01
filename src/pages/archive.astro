@@ -76,7 +76,7 @@ for (const article of articles) {
                         data-save-title={a.data.title}
                         data-save-href={`/articles/${a.slug}`}
                         data-save-description={a.data.description}
-                        data-save-image={a.data.image ?? ''}
+                        data-save-image={a.data.image?.src ?? ''}
                         data-save-category={a.data.category}
                         data-save-pub-date={a.data.pubDate.toISOString()}
                         aria-pressed="false"
