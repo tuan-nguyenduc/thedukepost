@@ -1,22 +1,295 @@
 {
-  "syncedAt": "2026-09-01T20:44:25.811Z",
+  "syncedAt": "2026-09-01T23:52:10.010Z",
   "items": [
     {
+      "source": "Engadget",
+      "title": "Are all TVs at risk from burn-in? Here's how to avoid the problem altogether",
+      "link": "https://www.engadget.com/2246417/tvs-at-risk-of-burn-in/",
+      "summary": "OLED screens run the biggest risk of burn-in, but with a little common sense you can mitigate the issue.",
+      "publishedAt": "2026-09-01T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/are-all-tvs-at-risk-from-burn-in-heres-how-to-avoid-the-problem-altogether/l-intro-1787593136.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T23:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Range Rover Electric: Specs, Price, Availability",
+      "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
+      "summary": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model…",
+      "publishedAt": "2026-09-01T23:01:00.000Z",
+      "image": "https://media.wired.com/photos/6a972c251a29cad3901a2042/191:100/w_1280,c_limit/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T23:01:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Blue Origin wins NASA contract for telecommunications on Mars",
+      "link": "https://www.engadget.com/2249162/blue-origin-wins-nasa-contract-for-telecommunications-on-mars/",
+      "summary": "The company will create a high-performance Mars telecommunications orbiter for NASA by December 31, 2028",
+      "publishedAt": "2026-09-01T23:00:16.000Z",
+      "image": "https://www.engadget.com/img/gallery/blue-origin-wins-nasa-contract-for-telecommunications-on-mars/l-intro-1788303541.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T23:00:16.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "publishedAt": "2026-09-01T23:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/JioHotstar-Brand-Identity-Horizontal-1.jpeg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T23:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Android stuck in Safe Mode? Here's how to turn it off",
+      "link": "https://www.engadget.com/2244182/how-to-turn-off-safe-mode-on-android-phone/",
+      "summary": "You're just a few taps away from getting your Android phone out of safe mode and back to normal.",
+      "publishedAt": "2026-09-01T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/android-stuck-in-safe-mode-heres-how-to-turn-it-off/l-intro-1785415003.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T23:00:00.000Z"
+    },
+    {
       "source": "The Verge",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a fili…",
-      "publishedAt": "2026-09-01T18:19:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an ex…",
+      "publishedAt": "2026-09-01T21:22:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-maps-lake-america.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+          "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+          "publishedAt": "2026-09-01T22:13:34.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "Lake Ontario is now 'Lake America' on Apple Maps",
+          "link": "https://www.engadget.com/2249159/lake-ontario-is-now-lake-america-on-apple-maps/",
+          "publishedAt": "2026-09-01T22:54:41.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-01T22:54:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios,  hoping to strike licensing agreements that would allow it to train its AI models on copyrighted…",
+      "publishedAt": "2026-09-01T22:50:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T22:50:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "link": "https://lws.io/blog/my-local-model-setup/",
+      "summary": "Article URL: https://lws.io/blog/my-local-model-setup/\nComments URL: https://news.ycombinator.com/item?id=49529132\nPoints: 15\n# Comments: 0",
+      "publishedAt": "2026-09-01T22:30:52.000Z",
+      "image": "https://lws.io/open-graph/blog/my-local-model-setup.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T22:30:52.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to change the background on iPhone Messages",
+      "link": "https://www.engadget.com/2244281/how-to-change-the-background-on-iphone-messages/",
+      "summary": "How to change the background on iPhone Messages.",
+      "publishedAt": "2026-09-01T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-change-the-background-on-iphone-messages/l-intro-1787591030.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T22:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valu…",
+      "publishedAt": "2026-09-01T22:08:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T22:08:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "link": "https://masteranza.github.io/weedout/",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that remove…",
+      "publishedAt": "2026-09-01T22:06:57.000Z",
+      "image": "https://masteranza.github.io/weedout/screenshot.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T22:06:57.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "publishedAt": "2026-09-01T19:39:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
       "sourceCount": 2,
       "related": [
         {
-          "source": "Hacker News",
-          "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-          "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-          "publishedAt": "2026-09-01T20:19:11.000Z"
+          "source": "The Verge",
+          "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "publishedAt": "2026-09-01T22:01:36.000Z"
         }
       ],
+      "latestActivity": "2026-09-01T22:01:36.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Skip the 5K monitor for gaming and go with a 4K instead — here's why",
+      "link": "https://www.engadget.com/2244179/why-skip-5k-monitor-go-with-4k-instead/",
+      "summary": "5K is even sharper than 4K UHD, but it's for a specific audience. As a gamer, you won't be able to get as much use out of it as you might think.",
+      "publishedAt": "2026-09-01T22:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/skip-the-5k-monitor-for-gaming-and-go-with-a-4k-instead-heres-why/l-intro-1786630281.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T22:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
+      "link": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
+      "summary": "The latest release from Meta Superintelligence Lab is a powerful transcription model.",
+      "publishedAt": "2026-09-01T21:56:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/l-intro-1788299695.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T21:56:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fluorescent lamps (don't) have ears",
+      "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+      "summary": "Article URL: https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears\nComments URL: https://news.ycombinator.com/item?id=49528366\nPoints: 17\n# Comments: 3",
+      "publishedAt": "2026-09-01T21:19:10.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!7zHg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed1c4840-2671-42e9-a6ad-343e84a1f3ef_2000x1334.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T21:19:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "publishedAt": "2026-09-01T21:06:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T21:06:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+      "link": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+      "summary": "The Lenovo 7i’s 360-degree hinges opens up new usage options. | Image: Lenovo\t\n\nBest Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Len…",
+      "publishedAt": "2026-09-01T20:54:08.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Lenovo-Yoga-7i-2in1-breakout-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T20:54:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "link": "https://hnmatchmaker.com/",
+      "summary": "Hi!\nEvery month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".\nSo I had abacu…",
+      "publishedAt": "2026-09-01T20:53:35.000Z",
+      "image": "https://hnmatchmaker.com/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T20:53:35.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various impr…",
+      "publishedAt": "2026-09-01T20:53:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T20:53:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "X says attackers are targeting user accounts after the launch of X Money",
+      "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+      "publishedAt": "2026-09-01T20:48:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T20:48:32.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last mo…",
+      "publishedAt": "2026-08-31T18:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-human4a.jpg?resize=1200,600",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+          "publishedAt": "2026-09-01T20:45:49.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-01T20:45:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hang on to Your Firefox",
+      "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "summary": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox\nComments URL: https://news.ycombinator.com/item?id=49527748\nPoints: 203\n# Comments: 99",
+      "publishedAt": "2026-09-01T20:30:51.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T20:30:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra/",
+      "summary": "Article URL: https://openai.com/index/path-to-astra/\nComments URL: https://news.ycombinator.com/item?id=49527595\nPoints: 69\n# Comments: 24",
+      "publishedAt": "2026-09-01T20:20:41.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-01T20:20:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "summary": "Article URL: https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/\nComments URL: https://news.ycombinator.com/item?id=49527573\nPoints: 155\n# Comments: 108",
+      "publishedAt": "2026-09-01T20:19:11.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-09-01T20:19:11.000Z"
     },
     {
@@ -26,14 +299,8 @@
       "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
       "publishedAt": "2026-09-01T14:40:00.000Z",
       "image": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/191:100/w_1280,c_limit/Sonos%20Ace%20Ultra%201.JPG",
-      "sourceCount": 3,
+      "sourceCount": 2,
       "related": [
-        {
-          "source": "Engadget",
-          "title": "The Sonos Ace Ultra headphones and Beam Ultra soundbar are smarter than I expected",
-          "link": "https://www.engadget.com/2248883/sonos-ace-ultra-beam-ultra-hands-on-demos/",
-          "publishedAt": "2026-09-01T19:03:10.000Z"
-        },
         {
           "source": "The Verge",
           "title": "On first listen, the Sonos Beam Ultra sounds great",
@@ -47,7 +314,7 @@
       "source": "Hacker News",
       "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
       "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "summary": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/\nComments URL: https://news.ycombinator.com/item?id=49527396\nPoints: 43\n# Comments: 17",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/\nComments URL: https://news.ycombinator.com/item?id=49527396\nPoints: 201\n# Comments: 104",
       "publishedAt": "2026-09-01T20:07:57.000Z",
       "image": null,
       "sourceCount": 1,
@@ -88,17 +355,6 @@
       "latestActivity": "2026-09-01T20:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "summary": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\nComments URL: https://news.ycombinator.com/item?id=49527232\nPoints: 16\n# Comments: 5",
-      "publishedAt": "2026-09-01T19:55:47.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T19:55:47.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Best Amazon Labor Day Deals (2026): Sony, Shark, Anker",
       "link": "https://www.wired.com/story/amazon-labor-day-deals-2026/",
@@ -132,28 +388,6 @@
       "latestActivity": "2026-09-01T19:43:39.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "publishedAt": "2026-09-01T19:39:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T19:39:22.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-      "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
-      "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
-      "publishedAt": "2026-09-01T19:30:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Josh-Kushner.jpg?resize=1200,817",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T19:30:24.000Z"
-    },
-    {
       "source": "VentureBeat",
       "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
       "link": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
@@ -174,17 +408,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-01T19:10:36.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The new Street Fighter movie trailer looks fun in all the right ways",
-      "link": "https://www.engadget.com/2248888/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/",
-      "summary": "The Street Fighter movie looks silly and campy and that's just fine!",
-      "publishedAt": "2026-09-01T19:10:16.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/l-intro-1788289751.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T19:10:16.000Z"
     },
     {
       "source": "The Verge",
@@ -209,62 +432,15 @@
       "latestActivity": "2026-09-01T18:59:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "summary": "What's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...\nSystem Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\nComme…",
-      "publishedAt": "2026-09-01T17:53:53.000Z",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "VentureBeat",
-          "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
-          "link": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-          "publishedAt": "2026-09-01T18:41:21.000Z"
-        }
-      ],
+      "source": "VentureBeat",
+      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+      "link": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "summary": "It's only the first day of September 2026, but the month and fall season are already off to the races in AI land, as Anthropic has just released its latest and most powerful large…",
+      "publishedAt": "2026-09-01T18:41:21.000Z",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/31IBxanJPYh7BzlhEZebZT/7e8f8c0a212083694210e1cf220d144e/ChatGPT_Image_Sep_1__2026__02_40_12_PM.png?w=300&q=30",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-09-01T18:41:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "link": "https://danluu.com/zitron/",
-      "summary": "Article URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 134\n# Comments: 143",
-      "publishedAt": "2026-09-01T18:35:15.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T18:35:15.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The TV vs projector value debate isn't close — here's why",
-      "link": "https://www.engadget.com/2244158/why-projector-better-than-tv/",
-      "summary": "If you want the largest image for the least amount of money, a projector is the only choice.",
-      "publishedAt": "2026-09-01T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-tv-vs-projector-value-debate-isnt-close-heres-why/l-intro-1787690468.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T18:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Who is John Ternus, the new Apple CEO?",
-      "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who h…",
-      "publishedAt": "2026-09-01T18:02:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;",
-          "link": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
-          "publishedAt": "2026-09-01T18:24:16.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-01T18:24:16.000Z"
     },
     {
       "source": "Ars Technica",
@@ -278,17 +454,6 @@
       "latestActivity": "2026-09-01T18:21:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "There Is No AI",
-      "link": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-      "summary": "Article URL: https://wadler.blogspot.com/2026/08/there-is-no-ai.html\nComments URL: https://news.ycombinator.com/item?id=49525791\nPoints: 18\n# Comments: 4",
-      "publishedAt": "2026-09-01T18:18:54.000Z",
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_suTsn0h_ECSzgCc9ghDh_7kSmzXqrpWktnrK-MHcdfptrdrRKKwAL3lWwt81QRtaIvgLyNq_6fuJ_CStNfKtPzNirbJCP2PISXruVVlsPoxbHT_kOsr7eU5X4mXLEKVThWly_yQkX0vZxzz5A=w1200-h630-p-k-no-nu",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T18:18:54.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
       "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
@@ -298,39 +463,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-01T18:00:02.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google Find Hub will soon help you locate things without a tracker",
-      "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-      "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version…",
-      "publishedAt": "2026-09-01T18:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T18:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Should you remove the film from your CarPlay infotainment screen? It depends",
-      "link": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film/",
-      "summary": "Double-check before you accidentally remove a protective layer of your screen.",
-      "publishedAt": "2026-09-01T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/should-you-remove-the-film-from-your-carplay-infotainment-screen-it-depends/l-intro-1785858518.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T18:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "A new Android Find Hub feature will help you remember where you put important things",
-      "link": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/",
-      "summary": "Google also announced a new visual assistant for Gemini Live and Keep integration with Messages.",
-      "publishedAt": "2026-09-01T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/a-new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/l-intro-1788124421.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T18:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -344,50 +476,6 @@
       "latestActivity": "2026-09-01T17:51:17.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The creator of Jujutsu has joined ERSC",
-      "link": "https://ersc.io/blog/martin-joins-ersc",
-      "summary": "Article URL: https://ersc.io/blog/martin-joins-ersc\nComments URL: https://news.ycombinator.com/item?id=49525297\nPoints: 118\n# Comments: 103",
-      "publishedAt": "2026-09-01T17:46:21.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T17:46:21.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "'Reasonable' consumers know they don't own digital downloads, Sony says",
-      "link": "https://www.engadget.com/2248777/reasonable-consumers-know-they-dont-own-digital-downloads-sony-says/",
-      "summary": "The company was responding to a suit accusing it of violating California law.",
-      "publishedAt": "2026-09-01T17:37:44.000Z",
-      "image": "https://www.engadget.com/img/gallery/reasonable-consumers-know-they-dont-own-digital-downloads-sony-says/l-intro-1788284206.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T17:37:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "link": "https://www.worldlabs.ai/blog/atlas",
-      "summary": "Article URL: https://www.worldlabs.ai/blog/atlas\nComments URL: https://news.ycombinator.com/item?id=49525160\nPoints: 76\n# Comments: 7",
-      "publishedAt": "2026-09-01T17:36:02.000Z",
-      "image": "https://www.worldlabs.ai/images/atlas-og.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T17:36:02.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "publishedAt": "2026-09-01T17:35:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T17:35:37.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "This is what a supercar was like a century ago",
       "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
@@ -397,72 +485,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-01T17:34:16.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What more can you delete from your iPhone to free up space?",
-      "link": "https://www.engadget.com/2244278/more-to-delete-from-iphone-free-up-space/",
-      "summary": "If you're running out of space on your iPhone, there might be unused data hiding in places you wouldn't expect.",
-      "publishedAt": "2026-09-01T17:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-more-can-you-delete-from-your-iphone-to-free-up-space/l-intro-1787057155.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T17:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Homey just made the smart home controller I hoped Apple would build",
-      "link": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date",
-      "summary": "Homey’s new tactile touchscreen controller has a rotary dial for controlling lights, climate, music and more.\t\n\nSmart homes have gotten really good at making things really complica…",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Homey-Portal--Home.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
-      "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-      "summary": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
-      "publishedAt": "2026-09-01T16:49:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T16:49:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
-      "link": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
-      "summary": "Samsung’s recently released Galaxy Z Fold 8 Ultra. | Image: The Verge\t\n\nIf you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Sams…",
-      "publishedAt": "2026-09-01T16:48:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Galaxy-Z-Fold-8-Ultra-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T16:48:45.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-      "publishedAt": "2026-09-01T16:31:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.jpg?resize=1200,844",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T16:31:04.000Z"
     },
     {
       "source": "VentureBeat",
@@ -564,17 +586,6 @@
       "latestActivity": "2026-09-01T11:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "3 Best Sleep Tracker Picks for Optimizing Your Sleep (2026)",
-      "link": "https://www.wired.com/story/best-sleep-trackers/",
-      "summary": "I tested the top sleep wearables for every type of sleeper, including devices from Oura, Google Fitbit, and Eight Sleep.",
-      "publishedAt": "2026-09-01T10:39:00.000Z",
-      "image": "https://media.wired.com/photos/6a95dc99b078e1ba9508d4d3/191:100/w_1280,c_limit/The-Best-Sleep-Trackers-for-an-Optimal-Slumber.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-01T10:39:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
       "link": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
@@ -628,17 +639,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-08-31T18:52:19.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last mo…",
-      "publishedAt": "2026-08-31T18:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-human4a.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-08-31T18:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
