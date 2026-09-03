@@ -1,6 +1,114 @@
 {
-  "syncedAt": "2026-09-02T22:26:42.413Z",
+  "syncedAt": "2026-09-03T03:33:37.402Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "publishedAt": "2026-09-03T01:32:02.000Z",
+      "image": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-03T01:32:02.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
+      "link": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
+      "summary": "Adobe added dozens of tools from its creative apps like Illustrator and Premiere Pro into Slack, allowing you to ask Slackbot to do the Photoshopping for you.",
+      "publishedAt": "2026-09-03T00:10:45.000Z",
+      "image": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-03T00:10:45.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+      "publishedAt": "2026-09-02T18:13:54.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "publishedAt": "2026-09-02T20:11:40.000Z"
+        },
+        {
+          "source": "VentureBeat",
+          "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+          "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+          "publishedAt": "2026-09-03T00:02:18.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-03T00:02:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "publishedAt": "2026-09-02T23:01:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-02T23:01:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Uber beats Waymo as first to launch robotaxis in London",
+      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and wil…",
+      "publishedAt": "2026-09-02T23:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Uber launches first robotaxis in London (with human supervisors)",
+          "link": "https://www.engadget.com/2248610/uber-launches-first-robotaxis-in-london-with-human-supervisors/",
+          "publishedAt": "2026-09-02T23:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-02T23:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What is a cold wallet and how does it work?",
+      "link": "https://www.engadget.com/2246424/what-is-cold-wallet-how-works/",
+      "summary": "With cryptocurrency wallets becoming huge targets for hackers, using a cold wallet to protect your private keys has never been more important.",
+      "publishedAt": "2026-09-02T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-is-a-cold-wallet-and-how-does-it-work/l-intro-1787690754.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-02T23:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "publishedAt": "2026-09-02T22:44:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-02T22:44:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "link": "https://news.ycombinator.com/item?id=49543530",
+      "summary": "Hi HN,\nI’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, c…",
+      "publishedAt": "2026-09-02T22:36:04.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-02T22:36:04.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
@@ -11,6 +119,39 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-02T22:24:09.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are",
+      "link": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/",
+      "summary": "Amazon just hiked prices on Kindles, Echo speakers, Eero routers, and Fire TV devices ahead of the holiday shopping season.",
+      "publishedAt": "2026-09-02T22:23:26.000Z",
+      "image": "https://media.wired.com/photos/6a98485377625f71bd332e04/191:100/w_1280,c_limit/Amazon-Raised-Its-Prices.-Don%E2%80%99t-Let-the-Next-Sale-Fool-You.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-02T22:23:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reasons robotics is hard",
+      "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 54\n# Comments: 17",
+      "publishedAt": "2026-09-02T22:02:30.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!Oq1t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0980aeb-8522-4f72-a7a3-c93bce52315d_1024x772.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-02T22:02:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o\nComments URL: https://news.ycombinator.com/item?id=49543007\nPoints: 110\n# Comments: 72",
+      "publishedAt": "2026-09-02T21:46:33.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/33c3/live/d18d2af0-a709-11f1-aed2-8d6da8d75094.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-02T21:46:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -79,24 +220,6 @@
       "latestActivity": "2026-09-02T21:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
-      "link": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade/",
-      "summary": "NYC public schools are taking a year without generative AI tools.",
-      "publishedAt": "2026-09-02T18:50:09.000Z",
-      "image": "https://www.engadget.com/img/gallery/nyc-bans-the-use-of-generative-ai-tools-in-public-schools-for-students-through-eighth-grade/l-intro-1788374805.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "Mamdani Bans AI in NYC Schools",
-          "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-          "publishedAt": "2026-09-02T20:57:04.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-02T20:57:04.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "I rented a car, and within hours, my driver's license was for sale",
       "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
@@ -141,24 +264,6 @@
       "latestActivity": "2026-09-02T20:12:41.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-      "publishedAt": "2026-09-02T18:13:54.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-          "publishedAt": "2026-09-02T20:11:40.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-02T20:11:40.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
       "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
@@ -195,7 +300,7 @@
       "source": "Hacker News",
       "title": "I wanna live an NPC life",
       "link": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-      "summary": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/\nComments URL: https://news.ycombinator.com/item?id=49541519\nPoints: 139\n# Comments: 126",
+      "summary": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/\nComments URL: https://news.ycombinator.com/item?id=49541519\nPoints: 204\n# Comments: 186",
       "publishedAt": "2026-09-02T19:52:53.000Z",
       "image": "/static/og-image.png",
       "sourceCount": 1,
@@ -203,21 +308,14 @@
       "latestActivity": "2026-09-02T19:52:53.000Z"
     },
     {
-      "source": "VentureBeat",
-      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
-      "link": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-      "summary": "It's only the first day of September 2026, but the month and fall season are already off to the races in AI land, as Anthropic has just released its latest and most powerful large…",
-      "publishedAt": "2026-09-01T18:41:21.000Z",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/31IBxanJPYh7BzlhEZebZT/7e8f8c0a212083694210e1cf220d144e/ChatGPT_Image_Sep_1__2026__02_40_12_PM.png?w=300&q=30",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "Fable 5.1 World Modeling",
-          "link": "https://github.com/PhiloLabs/fable51-worlds",
-          "publishedAt": "2026-09-02T19:49:01.000Z"
-        }
-      ],
+      "source": "Hacker News",
+      "title": "Fable 5.1 World Modeling",
+      "link": "https://github.com/PhiloLabs/fable51-worlds",
+      "summary": "Article URL: https://github.com/PhiloLabs/fable51-worlds\nComments URL: https://news.ycombinator.com/item?id=49541458\nPoints: 158\n# Comments: 54",
+      "publishedAt": "2026-09-02T19:49:01.000Z",
+      "image": "https://opengraph.githubassets.com/579623f552f91e2c6e269179dcc9922328748d6b728bfe27d5811a5bd99c4250/PhiloLabs/fable51-worlds",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-09-02T19:49:01.000Z"
     },
     {
@@ -246,23 +344,12 @@
       "source": "Hacker News",
       "title": "Muse Spark 1.3",
       "link": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "Article URL: https://developer.meta.com/ai/models/muse-spark/\nComments URL: https://news.ycombinator.com/item?id=49541256\nPoints: 270\n# Comments: 169",
+      "summary": "https://research.meta.ai/blog/introducing-muse-spark-1-3\nComments URL: https://news.ycombinator.com/item?id=49541256\nPoints: 429\n# Comments: 285",
       "publishedAt": "2026-09-02T19:35:04.000Z",
-      "image": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.2365-6/741888780_1335161144859187_4416712401061192452_n.png?_nc_cat=108&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=035RilvDqSsQ7kNvwG0_3PF&_nc_oc=AdoS7q2eT6qLL3qxzu823A8ss-3tq4S9l9kw58DAcq1TApdY8XAFVzi06fc4b3BOjPU&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=nz2xNymDr3I9aIo7gIheng&_nc_ss=7c180&oh=00_AQKlFKjpuFOM-2TGaBcMl01AXF9wtxj7IhhBFN2IWlVwCw&oe=6A9E5E91",
+      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/741888780_1335161144859187_4416712401061192452_n.png?_nc_cat=108&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=evUxC5HEdFQQ7kNvwFtJh2z&_nc_oc=Adq050DbSDQybf3BwiOIAGdwbybq-apUFe5w0Fpyc52VkgTMjvsnAOZFQ_zPhZWtvQk&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=Tz6cuNNx3nHc93n6XbvzeA&_nc_ss=7c180&oh=00_AQLOTywLxor_mGCTWbVEbF-kn2IZWyuorswn-1WiTNizBQ&oe=6A9ECF11",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-02T19:35:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Introducing Muse Spark 1.3",
-      "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-spark-1-3\nComments URL: https://news.ycombinator.com/item?id=49541149\nPoints: 59\n# Comments: 13",
-      "publishedAt": "2026-09-02T19:25:47.000Z",
-      "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=954058993611225&version=1788350660",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-02T19:25:47.000Z"
     },
     {
       "source": "TechCrunch",
@@ -287,6 +374,17 @@
       "latestActivity": "2026-09-02T18:56:59.000Z"
     },
     {
+      "source": "Engadget",
+      "title": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
+      "link": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade/",
+      "summary": "NYC public schools are taking a year without generative AI tools.",
+      "publishedAt": "2026-09-02T18:50:09.000Z",
+      "image": "https://www.engadget.com/img/gallery/nyc-bans-the-use-of-generative-ai-tools-in-public-schools-for-students-through-eighth-grade/l-intro-1788374805.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-02T18:50:09.000Z"
+    },
+    {
       "source": "The Verge",
       "title": "1Password wades into a right-wing mess after funding a Linux project",
       "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
@@ -298,32 +396,14 @@
       "latestActivity": "2026-09-02T18:48:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
-      "link": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
-      "summary": "Article URL: https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/\nComments URL: https://news.ycombinator.com/item?id=4954057…",
-      "publishedAt": "2026-09-02T18:43:30.000Z",
-      "image": "https://nooshu.com/og-images/blog-2026-03-09-using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form.png",
+      "source": "Wired",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+      "publishedAt": "2026-09-02T18:41:02.000Z",
+      "image": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/191:100/w_1280,c_limit/GettyImages-2214107176.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-02T18:43:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. \nThe landmark lawsuit, filed in December…",
-      "publishedAt": "2026-09-02T16:12:25.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Wired",
-          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-          "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-          "publishedAt": "2026-09-02T18:41:02.000Z"
-        }
-      ],
       "latestActivity": "2026-09-02T18:41:02.000Z"
     },
     {
@@ -382,28 +462,6 @@
       "latestActivity": "2026-09-02T17:51:48.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applicati…",
-      "publishedAt": "2026-09-02T17:18:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-02T17:18:13.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "X shifts US creator payouts from Stripe to X Money",
-      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-      "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-      "publishedAt": "2026-09-02T17:12:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.24.40-AM.png?resize=1200,607",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-02T17:12:27.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Modding platform Nexus Mods now owns SteamDB",
       "link": "https://www.engadget.com/2249669/modding-platform-nexus-mods-now-owns-steamdb/",
@@ -444,23 +502,12 @@
       "latestActivity": "2026-09-02T17:01:08.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Rare, working Apple I computer heads to auction",
-      "link": "https://www.engadget.com/2249655/rare-working-apple-1-computer-heads-to-auction/",
-      "summary": "The same Apple I computer sold for over $671,000 in 2013.",
-      "publishedAt": "2026-09-02T16:54:59.000Z",
-      "image": "https://www.engadget.com/img/gallery/rare-working-apple-i-computer-heads-to-auction/l-intro-1788367978.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-02T16:54:59.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The best tech and gadgets announced at IFA so far",
       "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
       "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already s…",
       "publishedAt": "2026-09-02T16:43:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-02T16:43:50.000Z"
@@ -486,28 +533,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-02T15:51:46.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Digital scans of more than 153 million driver's licenses leaked to the dark web",
-      "link": "https://www.engadget.com/2249522/digital-scans-of-153-million-drivers-licenses-leaked-to-the-dark-web/",
-      "summary": "The source could be an ID verification service in Louisiana, though the FBI has opened an investigation.",
-      "publishedAt": "2026-09-02T15:45:14.000Z",
-      "image": "https://www.engadget.com/img/gallery/digital-scans-of-more-than-153-million-drivers-licenses-leaked-to-the-dark-web/l-intro-1788363562.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-02T15:45:14.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Uber is cutting around 3,000 jobs in the name of efficiency",
-      "link": "https://www.engadget.com/2249475/uber-is-cutting-around-3000-jobs-in-the-name-of-efficiency/",
-      "summary": "The company is also asking almost all remote employees to move to an office.",
-      "publishedAt": "2026-09-02T15:11:20.000Z",
-      "image": "https://www.engadget.com/img/gallery/uber-is-cutting-around-3000-jobs-in-the-name-of-efficiency/l-intro-1788361775.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-02T15:11:20.000Z"
     },
     {
       "source": "Ars Technica",
@@ -563,28 +588,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-02T11:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Sony Headphone Deals: WH-1000XM5 and More (2026)",
-      "link": "https://www.wired.com/story/sony-headphone-deals-september-2026/",
-      "summary": "Our favorite Sony headphones are on sale, with discounts of up to 50 percent on top models.",
-      "publishedAt": "2026-09-02T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a9722800b666cfc32288461/191:100/w_1280,c_limit/Our-Favorite-Sony-Headphones-Are-50-Percent-Off.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-02T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-      "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
-      "publishedAt": "2026-09-02T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6a96e84e0b666cfc32288113/191:100/w_1280,c_limit/09012026-pangram-still.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-02T10:00:00.000Z"
     },
     {
       "source": "VentureBeat",
