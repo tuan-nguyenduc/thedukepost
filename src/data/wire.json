@@ -1,6 +1,167 @@
 {
-  "syncedAt": "2026-09-05T20:04:34.220Z",
+  "syncedAt": "2026-09-05T23:37:11.759Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T22:49:55.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Is the Steam Deck still worth it in 2026?",
+      "link": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
+      "summary": "The Steam Deck is a solid gaming handheld, but after the arrival of several competitors and higher prices, is it still worth picking one up?",
+      "publishedAt": "2026-09-05T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/is-the-steam-deck-still-worth-it-in-2026/l-intro-1788208373.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T22:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "link": "https://github.com/okf-memory/okf-agent-memory",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-09-05T22:15:52.000Z",
+      "image": "https://opengraph.githubassets.com/c00bde421ba569e44e3589a4aafc660bf29eb8f3253010cc273747454d8d2079/okf-memory/okf-agent-memory",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T22:15:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Falsehoods Programmers Believe About LANs",
+      "link": "https://dreamstation.systems/personal/lanfalsehoods.html",
+      "summary": "Article URL: https://dreamstation.systems/personal/lanfalsehoods.html\nComments URL: https://news.ycombinator.com/item?id=49581179\nPoints: 24\n# Comments: 22",
+      "publishedAt": "2026-09-05T22:08:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T22:08:16.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to find your MacBook's diagnostic menu",
+      "link": "https://www.engadget.com/2247996/how-to-find-macbook-diagnostic-menu/",
+      "summary": "Apple Diagnostics is a hidden menu you hopefully won't need to access often. When your Mac gets into hardware trouble, it helps find what's wrong.",
+      "publishedAt": "2026-09-05T22:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-find-your-macbooks-diagnostic-menu/l-intro-1788204727.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T22:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/\nComments URL: https://news.ycombinator.com/item?id=49580980\nPoints: 28\n# Comm…",
+      "publishedAt": "2026-09-05T21:43:22.000Z",
+      "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T21:43:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The revolt of the reader",
+      "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/\nComments URL: https://news.ycombinator.com/item?id=49580939\nPoints: 11\n# Comments: 1",
+      "publishedAt": "2026-09-05T21:37:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T21:37:49.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Explore the globe in field recordings",
+      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+      "summary": "Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge\t\n\nI love field recordings. I love making them. I love them when they're incorporated into my ambient music.…",
+      "publishedAt": "2026-09-05T21:31:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T21:31:34.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "OpenAI Agents Hacked Another Website",
+      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and mor…",
+      "publishedAt": "2026-09-05T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6a9b05bd8cf97243010f350d/191:100/w_1280,c_limit/Security_OpenAI%20Agents%20Tried%20to%20Hack%20Another%20Website_v1.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+          "link": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
+          "publishedAt": "2026-09-05T21:17:18.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-05T21:17:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
+      "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+      "summary": "Article URL: https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf\nComments URL: https://news.ycombinator.com/item?id=49580778\nPo…",
+      "publishedAt": "2026-09-05T21:17:00.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T21:17:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How AI is breaking the British state",
+      "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state\nComments URL: https://news.ycombinator.com/item?id=49580687\nPoints: 13\n# Comments: 9",
+      "publishedAt": "2026-09-05T21:05:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T21:05:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "iPhone Handoff will seamlessly share one number between two phones",
+      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the…",
+      "publishedAt": "2026-09-05T20:53:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T20:53:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket\nComments URL: https://news.ycombinator…",
+      "publishedAt": "2026-09-05T20:31:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/K5YFiwFEXDGQeTecwrNxcY-2560-80.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T20:31:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "link": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/\nComments URL: https://news.ycombinator.com/item?…",
+      "publishedAt": "2026-09-05T20:25:59.000Z",
+      "image": "https://terrytao.wordpress.com/wp-content/uploads/2014/02/circuit-1.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T20:25:59.000Z"
+    },
     {
       "source": "Engadget",
       "title": "The reasons rugged laptops are rarely bought by consumers",
@@ -75,17 +236,6 @@
       "latestActivity": "2026-09-05T17:46:29.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "The Luxuries in Life",
-      "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-      "summary": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/\nComments URL: https://news.ycombinator.com/item?id=49578866\nPoints: 133\n# Comments: 42",
-      "publishedAt": "2026-09-05T17:46:16.000Z",
-      "image": "https://feld.com/og-default.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T17:46:16.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "What makes IMAX theaters different from normal ones?",
       "link": "https://www.engadget.com/2247936/what-makes-imax-theaters-different-from-normal-ones/",
@@ -117,61 +267,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-05T16:49:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Learn Programming with OCaml",
-      "link": "https://usr.lmf.cnrs.fr/lpo/",
-      "summary": "Article URL: https://usr.lmf.cnrs.fr/lpo/\nComments URL: https://news.ycombinator.com/item?id=49578280\nPoints: 59\n# Comments: 20",
-      "publishedAt": "2026-09-05T16:45:02.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T16:45:02.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why it's important to regularly restart your router",
-      "link": "https://www.engadget.com/2247914/why-important-regularly-restart-router/",
-      "summary": "You might not think to restart your router as often as you reboot your laptop, but doing so is an easy step to help it perform at its best.",
-      "publishedAt": "2026-09-05T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-its-important-to-regularly-restart-your-router/l-intro-1788194698.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T16:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-      "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-      "summary": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/\nComments URL: https://news.ycombinat…",
-      "publishedAt": "2026-09-05T16:13:57.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T16:13:57.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "New Twitter rebrands to Tweet.app after court's double-edged ruling",
-      "link": "https://www.engadget.com/2251699/new-twitter-rebrands-to-tweet-app-after-court-double-edged-ruling/",
-      "summary": "A federal court decided that \"Twitter\" was off-limits, but tweet and the bird logo were fair game.",
-      "publishedAt": "2026-09-05T16:13:27.000Z",
-      "image": "https://www.engadget.com/img/gallery/new-twitter-rebrands-to-tweet-app-after-courts-double-edged-ruling/l-intro-1788624179.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T16:13:27.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Installing an iOS public beta on your iPhone? Always do this first",
-      "link": "https://www.engadget.com/2247904/always-archive-backup-iphone-before-installing-ios-public-beta/",
-      "summary": "If you're interested in installing an iOS beta on your device, you need to protect your data first with an important step that's easy to forget.",
-      "publishedAt": "2026-09-05T16:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/installing-an-ios-public-beta-on-your-iphone-always-do-this-first/l-intro-1788202075.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T16:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -207,28 +302,6 @@
       "latestActivity": "2026-09-05T15:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-      "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-      "summary": "Article URL: https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen\nComments URL: https://news.ycombinator.com/item?id=49576986\nPoints: 240\n# Comments…",
-      "publishedAt": "2026-09-05T14:40:52.000Z",
-      "image": "https://www.propublica.org/wp-content/uploads/2026/09/Podcast_social-image_3m_final.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T14:40:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meet the Ig Nobel Prize Winners",
-      "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-      "summary": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/\nComments URL: https://news.ycombinator.com/item?id=49576611\nPoints: 83\n# Comments: 20",
-      "publishedAt": "2026-09-05T14:02:44.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobel6-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T14:02:44.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Content creators drop the ball",
       "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
@@ -238,39 +311,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-05T14:00:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\nComments URL: https://news.ycombinator.com/item?id=49576386\nPoints: 198\n# Comments: 62",
-      "publishedAt": "2026-09-05T13:36:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T13:36:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "summary": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/\nComments URL: https://news.ycombinator.com/item?id=49576343\nPoints: 52\n#…",
-      "publishedAt": "2026-09-05T13:31:05.000Z",
-      "image": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/Rust_fungus_-_Flickr_-_gailhampshire.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T13:31:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": ".gitignore Everything by Default",
-      "link": "https://packagemain.tech/p/gitignore-everything-by-default",
-      "summary": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default\nComments URL: https://news.ycombinator.com/item?id=49576258\nPoints: 102\n# Comments: 115",
-      "publishedAt": "2026-09-05T13:19:42.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!n_v-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66737cc1-4fea-4340-a7cf-1401dc895d52_1280x720.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T13:19:42.000Z"
     },
     {
       "source": "The Verge",
@@ -312,17 +352,6 @@
       "summary": "Apple is expected to announce several products at its September event next week—including a folding phone—but the iPhone 18 might not be among them. It would be a first for the com…",
       "publishedAt": "2026-09-05T10:30:00.000Z",
       "image": "https://media.wired.com/photos/6a9728f10bab9c8d3b25021e/191:100/w_1280,c_limit/Might-Not-Be-iphone-18-Gear-2241791725.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "OpenAI Agents Hacked Another Website",
-      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and mor…",
-      "publishedAt": "2026-09-05T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6a9b05bd8cf97243010f350d/191:100/w_1280,c_limit/Security_OpenAI%20Agents%20Tried%20to%20Hack%20Another%20Website_v1.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-05T10:30:00.000Z"
@@ -405,17 +434,6 @@
       "latestActivity": "2026-09-04T22:17:36.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-      "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-      "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the n…",
-      "publishedAt": "2026-09-04T21:23:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-04T21:23:50.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -447,17 +465,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-04T19:46:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The White House is making arcade games racist",
-      "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
-      "summary": "Trump’s racist new “Build the Wall” game. | Image: The White House\t\n\nThe PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of w…",
-      "publishedAt": "2026-09-04T19:42:54.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-04-at-3.23.13-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-04T19:42:54.000Z"
     },
     {
       "source": "Ars Technica",
@@ -502,17 +509,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-04T18:39:19.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-      "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since…",
-      "publishedAt": "2026-09-04T17:52:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-04T17:52:05.000Z"
     },
     {
       "source": "Ars Technica",
