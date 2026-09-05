@@ -1,11 +1,55 @@
 {
-  "syncedAt": "2026-09-05T03:34:09.424Z",
+  "syncedAt": "2026-09-05T08:10:12.414Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Git hosting that never leaves Europe",
+      "link": "https://pushin.eu",
+      "summary": "Article URL: https://pushin.eu\nComments URL: https://news.ycombinator.com/item?id=49573680\nPoints: 6\n# Comments: 4",
+      "publishedAt": "2026-09-05T06:31:49.000Z",
+      "image": "https://pushin.eu/-/og/home",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T06:31:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvgyn8q8gqxo\nComments URL: https://news.ycombinator.com/item?id=49573455\nPoints: 108\n# Comments: 140",
+      "publishedAt": "2026-09-05T05:52:09.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T05:52:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation\nComments URL: https://news.ycombinator.com/item?id=49572875\nPoints: 24\n# Comments: 9",
+      "publishedAt": "2026-09-05T03:38:56.000Z",
+      "image": "https://www.coderabbit.ai/content/assets/gpt-6-astra/header.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T03:38:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nitter has more working instances than before the takedowns",
+      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 152\n# Comments: 48",
+      "publishedAt": "2026-09-05T00:04:16.000Z",
+      "image": "https://codeberg.org/mv12star/shitter/-/summary-card",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T00:04:16.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Artificial Analysis Intelligence Index v4.2",
       "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\nComments URL: https://news.ycombinator.com/item?id=49571632\nPoints: 68\n# Comments: 1…",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\nComments URL: https://news.ycombinator.com/item?id=49571632\nPoints: 110\n# Comments:…",
       "publishedAt": "2026-09-05T00:04:14.000Z",
       "image": "https://cdn.sanity.io/images/6vfeftx9/articles/6f95888d7f2b11ac42c1be194ed4de6fa96571cb-1254x1254.png?w=1200&auto=format",
       "sourceCount": 1,
@@ -14,20 +58,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Moadim.io – A scheduler for agents",
-      "link": "https://moadim.io/",
-      "summary": "Why can't we get an agent scheduler that supports all of the following:\n- git compatible\n- agent agnostic\n- 100% open source\n- os and system-agnostic\n- multi-runner support\n- suppo…",
-      "publishedAt": "2026-09-04T23:50:29.000Z",
-      "image": "https://moadim.io/opengraph-image?ede1a15554e8c3a4",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-04T23:50:29.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
       "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\nComments URL: https://news.ycombinator.com/item?id=49571465\nPoints: 48…",
+      "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\nComments URL: https://news.ycombinator.com/item?id=49571465\nPoints: 104…",
       "publishedAt": "2026-09-04T23:38:50.000Z",
       "image": "https://images.ctfassets.net/p762jor363g1/3cpzewWxmNFDmdAuYuPQVy/f57b117635dc5901dfe476da6927276b/Option_3.png",
       "sourceCount": 1,
@@ -60,7 +93,7 @@
       "source": "Hacker News",
       "title": "Connecting every app to every other app",
       "link": "https://blog.val.town/connectors",
-      "summary": "Article URL: https://blog.val.town/connectors\nComments URL: https://news.ycombinator.com/item?id=49571263\nPoints: 18\n# Comments: 1",
+      "summary": "Article URL: https://blog.val.town/connectors\nComments URL: https://news.ycombinator.com/item?id=49571263\nPoints: 36\n# Comments: 2",
       "publishedAt": "2026-09-04T23:09:59.000Z",
       "image": "https://imagedelivery.net/iHX6Ovru0O7AjmyT5yZRoA/5a0fe0c4-e748-4412-cb22-5e5775b21300/public",
       "sourceCount": 1,
@@ -93,7 +126,7 @@
       "source": "Hacker News",
       "title": "Can guitar frets perform multiplication?",
       "link": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html\nComments URL: https://news.ycombinator.com/item?id=49571047\nPoints: 41\n# Comme…",
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html\nComments URL: https://news.ycombinator.com/item?id=49571047\nPoints: 68\n# Comme…",
       "publishedAt": "2026-09-04T22:40:30.000Z",
       "image": "https://www.charlespetzold.com/blog/2026/09/images/SocialMediaImage.png",
       "sourceCount": 1,
@@ -112,17 +145,6 @@
       "latestActivity": "2026-09-04T22:17:36.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-      "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-      "summary": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\nComments URL: https://news.ycombinator.com/item?id=49570772\nPoints: 239\n# Com…",
-      "publishedAt": "2026-09-04T22:03:16.000Z",
-      "image": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/85e4dc00-82a3-45cb-b881-981ea10dfa90.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-04T22:03:16.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "The Tetris Company wants nothing to do with the White House's new copycat game",
       "link": "https://www.engadget.com/2251585/the-tetris-company-wants-nothing-to-do-with-the-white-house-s-new-copycat-game/",
@@ -132,28 +154,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-04T22:01:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046\nComments URL: https://news.ycombinator.com/item?id=49570669\nPoints: 294\n# Comments: 167",
-      "publishedAt": "2026-09-04T21:52:01.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-04T21:52:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Icons as a Service",
-      "link": "https://nravic.com/blog/images/",
-      "summary": "Article URL: https://nravic.com/blog/images/\nComments URL: https://news.ycombinator.com/item?id=49570597\nPoints: 29\n# Comments: 2",
-      "publishedAt": "2026-09-04T21:44:59.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-04T21:44:59.000Z"
     },
     {
       "source": "The Verge",
