@@ -1,6 +1,50 @@
 {
-  "syncedAt": "2026-09-05T23:37:11.759Z",
+  "syncedAt": "2026-09-06T03:35:31.366Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Astra on robot arms",
+      "link": "https://openai.robocurve.org/gpt-6-astra/",
+      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/\nComments URL: https://news.ycombinator.com/item?id=49582582\nPoints: 49\n# Comments: 18",
+      "publishedAt": "2026-09-06T01:52:45.000Z",
+      "image": "https://openai.robocurve.org/gpt-6-astra/og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-06T01:52:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gateside by TSA Precheck",
+      "link": "https://www.tsa.gov/precheck/gateside-tsa-precheck",
+      "summary": "Article URL: https://www.tsa.gov/precheck/gateside-tsa-precheck\nComments URL: https://news.ycombinator.com/item?id=49582410\nPoints: 20\n# Comments: 30",
+      "publishedAt": "2026-09-06T01:12:43.000Z",
+      "image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-06T01:12:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "link": "https://cloudinabottle.org/blog/launch-post",
+      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post\nComments URL: https://news.ycombinator.com/item?id=49582000\nPoints: 189\n# Comments: 72",
+      "publishedAt": "2026-09-06T00:03:29.000Z",
+      "image": "https://cloudinabottle.org/static/img/social-card.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-06T00:03:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chrome again exempts Google from user site data settings",
+      "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html\nComments URL: https://news.ycombinator.com/item?id=49581870\nPoints: 129\n# Comments: 12",
+      "publishedAt": "2026-09-05T23:39:47.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-05T23:39:47.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -27,23 +71,12 @@
       "source": "Hacker News",
       "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
       "link": "https://github.com/okf-memory/okf-agent-memory",
-      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 42\n# Comments: 16",
       "publishedAt": "2026-09-05T22:15:52.000Z",
-      "image": "https://opengraph.githubassets.com/c00bde421ba569e44e3589a4aafc660bf29eb8f3253010cc273747454d8d2079/okf-memory/okf-agent-memory",
+      "image": "https://opengraph.githubassets.com/cfdaa689fdf4351aa44f3b06138e4b4208262147a4622bb0705ad264b90f0105/okf-memory/okf-agent-memory",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-05T22:15:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Falsehoods Programmers Believe About LANs",
-      "link": "https://dreamstation.systems/personal/lanfalsehoods.html",
-      "summary": "Article URL: https://dreamstation.systems/personal/lanfalsehoods.html\nComments URL: https://news.ycombinator.com/item?id=49581179\nPoints: 24\n# Comments: 22",
-      "publishedAt": "2026-09-05T22:08:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T22:08:16.000Z"
     },
     {
       "source": "Engadget",
@@ -58,20 +91,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "America's two largest school districts impose AI moratoriums",
-      "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-      "summary": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/\nComments URL: https://news.ycombinator.com/item?id=49580980\nPoints: 28\n# Comm…",
-      "publishedAt": "2026-09-05T21:43:22.000Z",
-      "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T21:43:22.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "The revolt of the reader",
       "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/\nComments URL: https://news.ycombinator.com/item?id=49580939\nPoints: 11\n# Comments: 1",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/\nComments URL: https://news.ycombinator.com/item?id=49580939\nPoints: 168\n# Comments: 63",
       "publishedAt": "2026-09-05T21:37:49.000Z",
       "image": null,
       "sourceCount": 1,
@@ -108,28 +130,6 @@
       "latestActivity": "2026-09-05T21:17:18.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
-      "link": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-      "summary": "Article URL: https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf\nComments URL: https://news.ycombinator.com/item?id=49580778\nPo…",
-      "publishedAt": "2026-09-05T21:17:00.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T21:17:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "How AI is breaking the British state",
-      "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state\nComments URL: https://news.ycombinator.com/item?id=49580687\nPoints: 13\n# Comments: 9",
-      "publishedAt": "2026-09-05T21:05:35.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T21:05:35.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "iPhone Handoff will seamlessly share one number between two phones",
       "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
@@ -146,7 +146,7 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
       "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket\nComments URL: https://news.ycombinator…",
       "publishedAt": "2026-09-05T20:31:38.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/K5YFiwFEXDGQeTecwrNxcY-2560-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/CQvDAjNriBWKJva9TUiy4Z-2560-80.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-05T20:31:38.000Z"
