@@ -1,6 +1,68 @@
 {
-  "syncedAt": "2026-09-06T23:35:58.747Z",
+  "syncedAt": "2026-09-07T03:35:17.264Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+      "link": "https://gettogether.dev",
+      "summary": "Article URL: https://gettogether.dev\nComments URL: https://news.ycombinator.com/item?id=49592840\nPoints: 10\n# Comments: 2",
+      "publishedAt": "2026-09-07T01:41:11.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T01:41:11.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Is it safe to buy a refurbished iPhone from Walmart?",
+      "link": "https://www.engadget.com/2248893/is-it-safe-buy-refurbished-iphone-walmart/",
+      "summary": "Walmart provides lower-cost refurbished phones than buying from Apple directly, but you also have to navigate through more sellers and terms.",
+      "publishedAt": "2026-09-07T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/is-it-safe-to-buy-a-refurbished-iphone-from-walmart/l-intro-1788289842.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T00:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "link": "https://github.com/Staatsgeheim/MathKernel",
+      "summary": "Article URL: https://github.com/Staatsgeheim/MathKernel\nComments URL: https://news.ycombinator.com/item?id=49592366\nPoints: 16\n# Comments: 0",
+      "publishedAt": "2026-09-07T00:21:01.000Z",
+      "image": "https://opengraph.githubassets.com/463d1042565fd61549b559160a3dde8f82a4b2448422db3f15c4a2ba2a59f996/Staatsgeheim/MathKernel",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T00:21:01.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "When are portable Apple CarPlay screens actually worth it?",
+      "link": "https://www.engadget.com/2248887/when-portable-apple-carplay-screen-worth-it/",
+      "summary": "Many recent vehicles had CarPlay and Android Auto built in, but if yours doesn't, you can add a portable one to your dash.",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/when-are-portable-apple-carplay-screens-actually-worth-it/l-intro-1788289334.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "publishedAt": "2026-09-06T23:36:04.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-06T23:36:04.000Z"
+    },
     {
       "source": "Engadget",
       "title": "The pros and cons of using wireless Android Auto",
@@ -27,7 +89,7 @@
       "source": "Hacker News",
       "title": "Making a Python interpreter in 1024 bytes",
       "link": "https://austinhenley.com/blog/python1024.html",
-      "summary": "Article URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 7\n# Comments: 1",
+      "summary": "Article URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 132\n# Comments: 52",
       "publishedAt": "2026-09-06T23:14:08.000Z",
       "image": "https://austinhenley.com/blog/images/python1024.png",
       "sourceCount": 1,
@@ -49,23 +111,12 @@
       "source": "Hacker News",
       "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
       "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-      "summary": "Article URL: https://twitter.com/Liquid_BTC/status/2096696272447218108\nComments URL: https://news.ycombinator.com/item?id=49591672\nPoints: 8\n# Comments: 1",
+      "summary": "https://xcancel.com/Liquid_BTC/status/2096696272447218108\nComments URL: https://news.ycombinator.com/item?id=49591672\nPoints: 80\n# Comments: 49",
       "publishedAt": "2026-09-06T22:43:25.000Z",
       "image": "https://pbs.twimg.com/card_img/2094942939721920512/sLH5zf5k?format=jpg&name=orig",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-06T22:43:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Political meddling at the Census Bureau damages the US statistical system",
-      "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-      "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system\nComments URL: https://news.ycombinator.com/ite…",
-      "publishedAt": "2026-09-06T22:36:07.000Z",
-      "image": "https://www.piie.com/sites/default/files/2026-08/MT1SIPA000RQXILD.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T22:36:07.000Z"
     },
     {
       "source": "Engadget",
@@ -102,14 +153,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-      "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-      "summary": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/\nComments URL: https://news.ycombinator.com/item?id=495…",
-      "publishedAt": "2026-09-06T21:16:10.000Z",
+      "title": "Signing TLS handshakes inside a TPM",
+      "link": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+      "summary": "Article URL: https://bschaatsbergen.com/posts/go-tpm-tls/\nComments URL: https://news.ycombinator.com/item?id=49590946\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-09-06T21:05:21.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-06T21:16:10.000Z"
+      "latestActivity": "2026-09-06T21:05:21.000Z"
     },
     {
       "source": "The Verge",
@@ -137,9 +188,9 @@
       "source": "Hacker News",
       "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
       "link": "https://github.com/marsbos/mador",
-      "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 51\n# Comments: 19",
+      "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 74\n# Comments: 22",
       "publishedAt": "2026-09-06T20:45:13.000Z",
-      "image": "https://opengraph.githubassets.com/3c8cf8f69c3e7216cb4c138d5c7b1ddcede724d9ed9ad3c60aef49d93889ce83/marsbos/mador",
+      "image": "https://opengraph.githubassets.com/675b24153b1c1c060254d6a66f9805509645a97d6de017775be6857a56d13223/marsbos/mador",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-06T20:45:13.000Z"
@@ -148,7 +199,7 @@
       "source": "Hacker News",
       "title": "It took a year to ship WebAssembly in Anubis",
       "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/\nComments URL: https://news.ycombinator.com/item?id=49590611\nPoints: 99\n# Comments: 65",
+      "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/\nComments URL: https://news.ycombinator.com/item?id=49590611\nPoints: 170\n# Comments: 97",
       "publishedAt": "2026-09-06T20:32:38.000Z",
       "image": "https://anubis.techaro.lol/chrystarium.webp",
       "sourceCount": 1,
@@ -159,23 +210,12 @@
       "source": "Hacker News",
       "title": "Harnessing the Universal Geometry of Embeddings",
       "link": "https://arxiv.org/abs/2505.12540",
-      "summary": "Article URL: https://arxiv.org/abs/2505.12540\nComments URL: https://news.ycombinator.com/item?id=49590595\nPoints: 26\n# Comments: 3",
+      "summary": "Article URL: https://arxiv.org/abs/2505.12540\nComments URL: https://news.ycombinator.com/item?id=49590595\nPoints: 51\n# Comments: 15",
       "publishedAt": "2026-09-06T20:31:20.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-06T20:31:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
-      "link": "https://github.com/FulltimeFeline/Sol",
-      "summary": "Article URL: https://github.com/FulltimeFeline/Sol\nComments URL: https://news.ycombinator.com/item?id=49590524\nPoints: 12\n# Comments: 0",
-      "publishedAt": "2026-09-06T20:24:56.000Z",
-      "image": "https://opengraph.githubassets.com/ca6eb60ba69eb2598e0ee8c4462bac304da13f521b139510703926d2b4a20924/FulltimeFeline/Sol",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T20:24:56.000Z"
     },
     {
       "source": "Engadget",
@@ -187,17 +227,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-06T20:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "OpenAI says it reached its goal of creating an automated research intern",
-      "link": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
-      "summary": "The company hopes to have an even better \"automated AI researcher\" by March 2028.",
-      "publishedAt": "2026-09-06T19:26:52.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/l-intro-1788721751.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T19:26:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -216,17 +245,6 @@
         }
       ],
       "latestActivity": "2026-09-06T19:04:22.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What is vibe coding and why does it get so much hate?",
-      "link": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
-      "summary": "Vibe coding has gotten a bad reputation as lazy, AI-driven coding, but that's not where it came from.",
-      "publishedAt": "2026-09-06T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T18:30:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -383,17 +401,6 @@
       "latestActivity": "2026-09-06T09:45:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "publishedAt": "2026-09-05T22:49:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T22:49:55.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Explore the globe in field recordings",
       "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
@@ -403,17 +410,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-05T21:31:34.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the…",
-      "publishedAt": "2026-09-05T20:53:58.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T20:53:58.000Z"
     },
     {
       "source": "TechCrunch",
