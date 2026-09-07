@@ -1,11 +1,99 @@
 {
-  "syncedAt": "2026-09-07T03:35:17.264Z",
+  "syncedAt": "2026-09-07T09:05:05.674Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?",
+      "link": "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/",
+      "summary": "The science curriculum the industry is offering to schools casts plastics as safe, recyclable, and a source of good jobs. Critics say it’s propaganda.",
+      "publishedAt": "2026-09-07T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a9953fe35fd9ea6d6a8e832/191:100/w_1280,c_limit/GettyImages-1998844554.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Programming is Art",
+      "link": "https://orchidfiles.com/programming-is-art/",
+      "summary": "Article URL: https://orchidfiles.com/programming-is-art/\nComments URL: https://news.ycombinator.com/item?id=49595360\nPoints: 3\n# Comments: 1",
+      "publishedAt": "2026-09-07T08:05:00.000Z",
+      "image": "https://orchidfiles.com/content/images/2026/03/avatar-1.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T08:05:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "It's time for Mark Zuckerberg to resign from Meta",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
+      "summary": "Article URL: https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta\nComments URL: https://news.ycombinator.com/item?id=49595320\nPoints: 30\n# C…",
+      "publishedAt": "2026-09-07T07:59:21.000Z",
+      "image": "https://i.guim.co.uk/img/media/fd5fa9a78999d3250a7e1856f17c9109c8df79e5/487_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1653343b5e25c4b1c20f89820c42e578",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T07:59:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "link": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+      "summary": "Article URL: https://itsfoss.com/news/switzerland-replace-microssoft-pilot/\nComments URL: https://news.ycombinator.com/item?id=49594251\nPoints: 90\n# Comments: 71",
+      "publishedAt": "2026-09-07T05:33:25.000Z",
+      "image": "https://itsfoss.com/content/images/2026/09/swiss-federal-migration.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T05:33:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "link": "https://github.com/timgordontg/engrim",
+      "summary": "Article URL: https://github.com/timgordontg/engrim\nComments URL: https://news.ycombinator.com/item?id=49594008\nPoints: 29\n# Comments: 7",
+      "publishedAt": "2026-09-07T04:49:36.000Z",
+      "image": "https://opengraph.githubassets.com/f81a036a1b830d23eb9aa457a07607d9dddd417d8fb60e964bafed8243982456/timgordontg/engrim",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T04:49:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "TiVo to charge money for skipping commercials in your own recordings",
+      "link": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+      "summary": "Article URL: https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/\nComments URL: https://news.ycombin…",
+      "publishedAt": "2026-09-07T04:41:01.000Z",
+      "image": "https://cordcuttersnews.com/wp-content/uploads/2016/09/Tivo-bolt1.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T04:41:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Keep Our Servers Running",
+      "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\nComments URL: https://news.ycombinator.com/item?id=4959356…",
+      "publishedAt": "2026-09-07T03:29:51.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T03:29:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+      "link": "https://rfd.shared.oxide.computer/rfd/0301",
+      "summary": "Article URL: https://rfd.shared.oxide.computer/rfd/0301\nComments URL: https://news.ycombinator.com/item?id=49593066\nPoints: 27\n# Comments: 1",
+      "publishedAt": "2026-09-07T02:14:59.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-07T02:14:59.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Show HN: GET Together – A social network where you don't need POST to Post",
       "link": "https://gettogether.dev",
-      "summary": "Article URL: https://gettogether.dev\nComments URL: https://news.ycombinator.com/item?id=49592840\nPoints: 10\n# Comments: 2",
+      "summary": "Article URL: https://gettogether.dev\nComments URL: https://news.ycombinator.com/item?id=49592840\nPoints: 47\n# Comments: 18",
       "publishedAt": "2026-09-07T01:41:11.000Z",
       "image": null,
       "sourceCount": 1,
@@ -22,17 +110,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-07T00:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "link": "https://github.com/Staatsgeheim/MathKernel",
-      "summary": "Article URL: https://github.com/Staatsgeheim/MathKernel\nComments URL: https://news.ycombinator.com/item?id=49592366\nPoints: 16\n# Comments: 0",
-      "publishedAt": "2026-09-07T00:21:01.000Z",
-      "image": "https://opengraph.githubassets.com/463d1042565fd61549b559160a3dde8f82a4b2448422db3f15c4a2ba2a59f996/Staatsgeheim/MathKernel",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-07T00:21:01.000Z"
     },
     {
       "source": "Engadget",
@@ -86,17 +163,6 @@
       "latestActivity": "2026-09-06T23:15:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "link": "https://austinhenley.com/blog/python1024.html",
-      "summary": "Article URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 132\n# Comments: 52",
-      "publishedAt": "2026-09-06T23:14:08.000Z",
-      "image": "https://austinhenley.com/blog/images/python1024.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T23:14:08.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "How to use your MacBook's built-in backup tool instead of paying for cloud storage",
       "link": "https://www.engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage/",
@@ -106,17 +172,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-06T23:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-      "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-      "summary": "https://xcancel.com/Liquid_BTC/status/2096696272447218108\nComments URL: https://news.ycombinator.com/item?id=49591672\nPoints: 80\n# Comments: 49",
-      "publishedAt": "2026-09-06T22:43:25.000Z",
-      "image": "https://pbs.twimg.com/card_img/2094942939721920512/sLH5zf5k?format=jpg&name=orig",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T22:43:25.000Z"
     },
     {
       "source": "Engadget",
@@ -152,17 +207,6 @@
       "latestActivity": "2026-09-06T21:41:06.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Signing TLS handshakes inside a TPM",
-      "link": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-      "summary": "Article URL: https://bschaatsbergen.com/posts/go-tpm-tls/\nComments URL: https://news.ycombinator.com/item?id=49590946\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-09-06T21:05:21.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T21:05:21.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "An Amazon cargo plane crashed at Miami International Airport",
       "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
@@ -183,39 +227,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-06T20:47:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "link": "https://github.com/marsbos/mador",
-      "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 74\n# Comments: 22",
-      "publishedAt": "2026-09-06T20:45:13.000Z",
-      "image": "https://opengraph.githubassets.com/675b24153b1c1c060254d6a66f9805509645a97d6de017775be6857a56d13223/marsbos/mador",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T20:45:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/\nComments URL: https://news.ycombinator.com/item?id=49590611\nPoints: 170\n# Comments: 97",
-      "publishedAt": "2026-09-06T20:32:38.000Z",
-      "image": "https://anubis.techaro.lol/chrystarium.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T20:32:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "link": "https://arxiv.org/abs/2505.12540",
-      "summary": "Article URL: https://arxiv.org/abs/2505.12540\nComments URL: https://news.ycombinator.com/item?id=49590595\nPoints: 51\n# Comments: 15",
-      "publishedAt": "2026-09-06T20:31:20.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-06T20:31:20.000Z"
     },
     {
       "source": "Engadget",
@@ -454,17 +465,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-05T15:17:36.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "4 Best Alexa Speakers I’ve Tested (2026)",
-      "link": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
-      "summary": "I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.",
-      "publishedAt": "2026-09-05T11:01:00.000Z",
-      "image": "https://media.wired.com/photos/6a1a30541b85497e249c551b/191:100/w_1280,c_limit/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-05T11:01:00.000Z"
     },
     {
       "source": "Ars Technica",
