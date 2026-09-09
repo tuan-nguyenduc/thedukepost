@@ -1,6 +1,112 @@
 {
-  "syncedAt": "2026-09-08T22:27:01.988Z",
+  "syncedAt": "2026-09-09T03:45:14.291Z",
   "items": [
+    {
+      "source": "MIT Technology Review",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some…",
+      "publishedAt": "2026-09-09T03:10:08.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-09T03:10:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Harvard study predicts most suicide attempts a week in advance",
+      "link": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+      "summary": "Article URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance\nComments URL: https://news.ycombinator.com/item?id=49619906\nPoints: 9…",
+      "publishedAt": "2026-09-09T02:07:13.000Z",
+      "image": "https://current.fas.harvard.edu/sites/default/files/styles/fas_fp_1200x630/public/2026-09/040523_Nock_Lab_009%20%28photo%20by%20Kris%20Snibbe%2C%20Harvard%20University%29_square.jpg?h=780563bb&itok=W44uUK0G",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-09T02:07:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "link": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+      "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843\nComments URL: https://news.ycombinator.com/item?id=49619639\nPoints: 53\n# Comments: 12",
+      "publishedAt": "2026-09-09T01:32:49.000Z",
+      "image": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_200x200.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-09T01:32:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+      "link": "https://gpu-lexer.vercel.app/",
+      "summary": "Article URL: https://gpu-lexer.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49619464\nPoints: 29\n# Comments: 6",
+      "publishedAt": "2026-09-09T01:14:50.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-09T01:14:50.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to change and customize your Apple CarPlay display",
+      "link": "https://www.engadget.com/2251193/how-to-change-customize-apple-carplay-display/",
+      "summary": "CarPlay doesn't have a ton of customization options, but it's worth going through what's there to set it up properly.",
+      "publishedAt": "2026-09-08T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-change-and-customize-your-apple-carplay-display/l-intro-1788537732.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T23:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The White House removed its border-wall Tetris clone",
+      "link": "https://www.engadget.com/2253350/the-white-house-removed-its-border-wall-tetris-clone/",
+      "summary": "The game, 'Build the Wall,' filtered classic block-stacking mechanics through the Trump administration's immigration policies.",
+      "publishedAt": "2026-09-08T21:33:02.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-white-house-removed-its-border-wall-tetris-clone/l-intro-1788903110.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+          "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+          "publishedAt": "2026-09-08T23:23:23.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-08T23:23:23.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Is there any benefit to restarting your PC regularly?",
+      "link": "https://www.engadget.com/2251124/benefits-restarting-pc-more-often/",
+      "summary": "Rebooting your PC regularly is old advice, but how important is this today? And how often do you really need to restart?",
+      "publishedAt": "2026-09-08T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/is-there-any-benefit-to-restarting-your-pc-regularly/l-intro-1788535351.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T23:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "SpaceX's recovered Starship 40 will take months to get back to Texas",
+      "link": "https://www.engadget.com/2251144/spacex-starship-40-recovered-months-travel-back-to-texas/",
+      "summary": "SpaceX's rocket traveled thousands of miles from Texas to the Indian Ocean for a launch test. For a number of reasons, it'll take a lot longer to return home.",
+      "publishedAt": "2026-09-08T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/spacexs-recovered-starship-40-will-take-months-to-get-back-to-texas/l-intro-1788536157.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T22:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Topological Picture Book, Rendered",
+      "link": "https://e-infinity.space/picture-book/",
+      "summary": "Article URL: https://e-infinity.space/picture-book/\nComments URL: https://news.ycombinator.com/item?id=49618050\nPoints: 64\n# Comments: 8",
+      "publishedAt": "2026-09-08T22:28:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T22:28:14.000Z"
+    },
     {
       "source": "Engadget",
       "title": "What's going on with OpenAI and the Navier-Stokes controversy?",
@@ -24,6 +130,17 @@
       "latestActivity": "2026-09-08T22:00:00.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "LG TV shown scanning LAN for third-party phones and other devices",
+      "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+      "summary": "“It doesn’t cost a lot to store text forever.”",
+      "publishedAt": "2026-09-08T21:52:29.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T21:52:29.000Z"
+    },
+    {
       "source": "The Verge",
       "title": "Sony isn’t phasing out discs quite as quickly as we thought",
       "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
@@ -36,9 +153,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "title": "Large language models develop novel social biases through adaptive exploration",
       "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "summary": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\nComments URL: https://news.ycombinator.com/item?id=49617581\nPoints: 12\n# Comments: 2",
+      "summary": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\nComments URL: https://news.ycombinator.com/item?id=49617581\nPoints: 114\n# Comments: 55",
       "publishedAt": "2026-09-08T21:47:38.000Z",
       "image": null,
       "sourceCount": 1,
@@ -47,21 +164,25 @@
     },
     {
       "source": "Ars Technica",
-      "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-      "link": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-      "summary": "Trump admin's propaganda \"arcade\" hits some apparent legal limits.",
-      "publishedAt": "2026-09-08T16:31:21.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/buildthewall-1152x648-1788883606.png",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "The White House removed its border-wall Tetris clone",
-          "link": "https://www.engadget.com/2253350/the-white-house-removed-its-border-wall-tetris-clone/",
-          "publishedAt": "2026-09-08T21:33:02.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-08T21:33:02.000Z"
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+      "publishedAt": "2026-09-08T21:23:13.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/hitmanbox2.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T21:23:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to build a printer",
+      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "summary": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\nComments URL: https://news.ycombinator.com/item?id=49617255\nPoints: 183\n# Comments: 38",
+      "publishedAt": "2026-09-08T21:22:11.000Z",
+      "image": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T21:22:11.000Z"
     },
     {
       "source": "Wired",
@@ -73,6 +194,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-08T21:15:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "publishedAt": "2026-09-08T21:11:46.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T21:11:46.000Z"
     },
     {
       "source": "TechCrunch",
@@ -95,6 +227,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-08T21:04:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560\nComments URL: https://news.ycombinator.com/item?id=49616968\nPoints: 210\n# Comments: 149",
+      "publishedAt": "2026-09-08T21:00:52.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T21:00:52.000Z"
     },
     {
       "source": "The Verge",
@@ -120,7 +263,7 @@
     },
     {
       "source": "The Verge",
-      "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+      "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
       "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
       "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. \nLast year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-…",
       "publishedAt": "2026-09-08T20:46:56.000Z",
@@ -141,6 +284,17 @@
       "latestActivity": "2026-09-08T20:39:49.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "The universal language of space is... Star Trek? Mais oui.",
+      "link": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+      "summary": "\"Science fiction imagines the future. We build it.\"",
+      "publishedAt": "2026-09-08T20:20:20.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090826a-lg-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-08T20:20:20.000Z"
+    },
+    {
       "source": "The Verge",
       "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
@@ -155,7 +309,7 @@
       "source": "Hacker News",
       "title": "Mercury 2.5",
       "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\nComments URL: https://news.ycombinator.com/item?id=49616354\nPoints: 78\n# Comments: 9",
+      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\nComments URL: https://news.ycombinator.com/item?id=49616354\nPoints: 134\n# Comments: 18",
       "publishedAt": "2026-09-08T20:14:52.000Z",
       "image": "https://framerusercontent.com/images/StpomiRW6u7bqHNL4kgj4yVQ8Ck.png?width=1200&height=630",
       "sourceCount": 1,
@@ -169,19 +323,13 @@
       "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of wh…",
       "publishedAt": "2026-09-08T19:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
-      "sourceCount": 4,
+      "sourceCount": 3,
       "related": [
         {
           "source": "The Verge",
           "title": "Meta bets on AI agent Muse to catch up in AI race",
           "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
           "publishedAt": "2026-09-08T19:00:00.000Z"
-        },
-        {
-          "source": "Hacker News",
-          "title": "Muse: Meta's personal AI agent, features and capabilities",
-          "link": "https://ai.meta.com/muse/",
-          "publishedAt": "2026-09-08T19:25:00.000Z"
         },
         {
           "source": "Wired",
@@ -193,37 +341,15 @@
       "latestActivity": "2026-09-08T20:12:51.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Animation in Bevy: The Big Picture",
-      "link": "https://glocq.com/en/blog/20260827/",
-      "summary": "Article URL: https://glocq.com/en/blog/20260827/\nComments URL: https://news.ycombinator.com/item?id=49616272\nPoints: 25\n# Comments: 1",
-      "publishedAt": "2026-09-08T20:08:44.000Z",
-      "image": null,
+      "source": "Ars Technica",
+      "title": "NIH to use part of its budget to pay for Department of Defense research",
+      "link": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+      "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+      "publishedAt": "2026-09-08T20:06:44.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2229834435-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-08T20:08:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "link": "https://github.com/argonautlabsai/deltafin",
-      "summary": "Article URL: https://github.com/argonautlabsai/deltafin\nComments URL: https://news.ycombinator.com/item?id=49616257\nPoints: 163\n# Comments: 74",
-      "publishedAt": "2026-09-08T20:07:55.000Z",
-      "image": "https://opengraph.githubassets.com/acca2c9380e8d6c813640c15e24827099a494e7771da50745cbdd27075077faa/argonautlabsai/deltafin",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T20:07:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
-      "link": "https://twitter.com/SouthPark/status/2097364141237539116",
-      "summary": "Article URL: https://twitter.com/SouthPark/status/2097364141237539116\nComments URL: https://news.ycombinator.com/item?id=49616239\nPoints: 101\n# Comments: 39",
-      "publishedAt": "2026-09-08T20:06:33.000Z",
-      "image": "https://pbs.twimg.com/media/HRtVeFrXsAAM7QK.jpg:large",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T20:06:33.000Z"
+      "latestActivity": "2026-09-08T20:06:44.000Z"
     },
     {
       "source": "Engadget",
@@ -270,39 +396,6 @@
       "latestActivity": "2026-09-08T19:12:53.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Don't panic, but there's a Playdate Update Showcase tomorrow",
-      "link": "https://www.engadget.com/2253170/dont-panic-but-theres-a-playdate-update-showcase-tomorrow/",
-      "summary": "A new season of Playdate games is coming, to be announced tomorrow.",
-      "publishedAt": "2026-09-08T19:05:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/dont-panic-but-theres-a-playdate-update-showcase-tomorrow/l-intro-1788894055.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T19:05:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Function Arguments Are Not Function Colors",
-      "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-      "summary": "Article URL: https://jerf.org/iri/post/2026/func_args_are_not_colors/\nComments URL: https://news.ycombinator.com/item?id=49615139\nPoints: 23\n# Comments: 9",
-      "publishedAt": "2026-09-08T19:04:26.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T19:04:26.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Meta reveals its AI agent that can shop, send emails and plan trips on your behalf",
-      "link": "https://www.engadget.com/2253133/meta-reveals-its-ai-agent-that-can-shop-send-emails-and-plan-trips-on-your-behalf/",
-      "summary": "Muse, Meta's newly revealed AI agent, can perform tasks autonomously, if you trust it to do that.",
-      "publishedAt": "2026-09-08T19:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/meta-reveals-its-ai-agent-that-can-shop-send-emails-and-plan-trips-on-your-behalf/l-intro-1788893198.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T19:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
       "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
@@ -314,39 +407,6 @@
       "latestActivity": "2026-09-08T18:53:23.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Riot, after 17 years, finally adds team voice chat to League of Legends",
-      "link": "https://www.engadget.com/2253143/riot-after-17-years-finally-adds-team-voice-chat-to-league-of-legends/",
-      "summary": "After the better part of two decades, you can finally talk to your whole team in LoL.",
-      "publishedAt": "2026-09-08T18:52:35.000Z",
-      "image": "https://www.engadget.com/img/gallery/riot-finally-adds-team-voice-chat-to-league-of-legends-17-years-later/l-intro-1788893405.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T18:52:35.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
-      "publishedAt": "2026-09-08T18:43:09.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1975339882-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T18:43:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "ChatGPT Images 2.5",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "summary": "Article URL: https://openai.com/index/introducing-chatgpt-images-2-5/\nComments URL: https://news.ycombinator.com/item?id=49614720\nPoints: 252\n# Comments: 318",
-      "publishedAt": "2026-09-08T18:37:51.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T18:37:51.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
       "link": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
@@ -356,17 +416,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-08T18:13:26.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Update to Google’s AI weather model improves forecast accuracy",
-      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-      "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
-      "publishedAt": "2026-09-08T18:00:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-85757697-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T18:00:56.000Z"
     },
     {
       "source": "TechCrunch",
@@ -413,17 +462,6 @@
       "latestActivity": "2026-09-08T17:13:51.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Google complies with EU rules for travel searches, says the new results stink",
-      "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-      "summary": "The EU continues to go after Google search practices it sees as anticompetitive.",
-      "publishedAt": "2026-09-08T16:49:55.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T16:49:55.000Z"
-    },
-    {
       "source": "Wired",
       "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
       "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
@@ -433,17 +471,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-08T16:42:05.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The secret to protecting next-gen spacecraft might be eggshells",
-      "link": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-      "summary": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
-      "publishedAt": "2026-09-08T16:20:58.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/eggshells-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T16:20:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -466,17 +493,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-08T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-      "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
-      "publishedAt": "2026-09-08T15:25:35.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-08T15:25:35.000Z"
     },
     {
       "source": "Wired",
@@ -587,17 +603,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-04T18:39:19.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a n…",
-      "publishedAt": "2026-09-04T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-04T12:10:00.000Z"
     }
   ]
 }
