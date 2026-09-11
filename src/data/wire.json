@@ -1,16 +1,155 @@
 {
-  "syncedAt": "2026-09-11T03:40:52.306Z",
+  "syncedAt": "2026-09-11T08:44:05.834Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "LLM Visualizer – Build a Transformer from Scratch",
-      "link": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
-      "summary": "Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard\nComments URL: https://news.ycombinator.com/item?id=49652996\nPoints: 5\n# Comments: 0",
-      "publishedAt": "2026-09-11T02:51:51.000Z",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/9/7/astra-why/\nComments URL: https://news.ycombinator.com/item?id=49654229\nPoints: 279\n# Comments: 186",
+      "publishedAt": "2026-09-11T06:23:06.000Z",
+      "image": "https://lucumr.pocoo.org/social/2026-09-07-astra-why-social.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T06:23:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+      "link": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+      "summary": "Article URL: https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/\nComments URL: https://news.ycombinator.com/item?id=49653882\nPoin…",
+      "publishedAt": "2026-09-11T05:26:58.000Z",
+      "image": "https://www.conviva.ai/wp-content/uploads/2026/09/NVMe-Streams-Power-Shared-Cache-copy.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:26:58.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Chewy Promo Codes: $20 Off September 2026",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Home Depot Promo Codes: 30% Off in September 2026",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this September.",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/191:100/w_1280,c_limit/WIRED-Coupons-R2_13.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Corsair Discount Code: Up to 50% Off for September 2026",
+      "link": "https://www.wired.com/story/corsair-coupon/",
+      "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/191:100/w_1280,c_limit/WIRED-Coupons-R2_15.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Lenovo Coupon Codes: 15% Off in September 2026",
+      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/191:100/w_1280,c_limit/WIRED-Coupons-R2_8.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "50% Off DoorDash Promo Code | September 2026",
+      "link": "https://www.wired.com/story/doordash-promo-code/",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/191:100/w_1280,c_limit/WIRED-Coupons-10.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "30% Off Canon Promo Codes | September 2026",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this September 2026.",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/191:100/w_1280,c_limit/WIRED-Coupons-3.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Surfshark Promo Codes: 87% Off | September 2026",
+      "link": "https://www.wired.com/story/surfshark-coupon/",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/191:100/w_1280,c_limit/WIRED-Coupons-17.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "LG Promo Codes and Coupons for September 2026",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "publishedAt": "2026-09-11T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/191:100/w_1280,c_limit/WIRED-Coupons-R2_17.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T05:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "A native Gemini app is finally available for Windows PCs",
+      "link": "https://www.engadget.com/2255197/a-native-gemini-app-is-finally-available-for-windows-pcs/",
+      "summary": "There's a keyboard shortcut to open it up, just like the Mac version.",
+      "publishedAt": "2026-09-10T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/a-native-gemini-app-is-finally-available-for-windows-pcs/l-intro-1789064836.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "The Gemini app is now available for Windows",
+          "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+          "publishedAt": "2026-09-11T04:52:20.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-11T04:52:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Exercise intensity is associated with cardiometabolic health",
+      "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "summary": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2\nComments URL: https://news.ycombinator.com/item?id=49653328\nPoints: 88\n# Comments: 41",
+      "publishedAt": "2026-09-11T03:48:10.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-11T02:51:51.000Z"
+      "latestActivity": "2026-09-11T03:48:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What Comes After Git",
+      "link": "https://ersc.io/blog/what-comes-after-git",
+      "summary": "Article URL: https://ersc.io/blog/what-comes-after-git\nComments URL: https://news.ycombinator.com/item?id=49652985\nPoints: 41\n# Comments: 11",
+      "publishedAt": "2026-09-11T02:49:52.000Z",
+      "image": "https://ersc.io/og/blog/what-comes-after-git.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T02:49:52.000Z"
     },
     {
       "source": "Hacker News",
@@ -25,42 +164,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Herdr Studio",
-      "link": "https://powerfooI.github.io/herdr-studio/",
-      "summary": "Article URL: https://powerfooI.github.io/herdr-studio/\nComments URL: https://news.ycombinator.com/item?id=49652188\nPoints: 10\n# Comments: 4",
-      "publishedAt": "2026-09-11T00:54:36.000Z",
-      "image": "https://powerfooI.github.io/herdr-studio/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T00:54:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Setting up OpenCode with Ollama and sbx on Mac",
-      "link": "https://tensorsandtokens.com/posts/opencode-ollama/",
-      "summary": "Article URL: https://tensorsandtokens.com/posts/opencode-ollama/\nComments URL: https://news.ycombinator.com/item?id=49652122\nPoints: 11\n# Comments: 8",
-      "publishedAt": "2026-09-11T00:45:26.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T00:45:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google will buy half the electricity of a nuclear power plant",
-      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o\nComments URL: https://news.ycombinator.com/item?id=49652105\nPoints: 115\n# Comments: 82",
-      "publishedAt": "2026-09-11T00:42:41.000Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T00:42:41.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "YuE2 · Frontier Music with Symbolic Planning",
       "link": "https://map-yue2.github.io/",
-      "summary": "Article URL: https://map-yue2.github.io/\nComments URL: https://news.ycombinator.com/item?id=49652028\nPoints: 57\n# Comments: 47",
+      "summary": "Article URL: https://map-yue2.github.io/\nComments URL: https://news.ycombinator.com/item?id=49652028\nPoints: 88\n# Comments: 75",
       "publishedAt": "2026-09-11T00:33:26.000Z",
       "image": null,
       "sourceCount": 1,
@@ -68,21 +174,10 @@
       "latestActivity": "2026-09-11T00:33:26.000Z"
     },
     {
-      "source": "Wired",
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "publishedAt": "2026-09-10T23:28:42.000Z",
-      "image": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T23:28:42.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
       "link": "https://system76.com/workstations/thelio-mira-ai",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai\nComments URL: https://news.ycombinator.com/item?id=49651372\nPoints: 52\n# Comments: 31",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai\nComments URL: https://news.ycombinator.com/item?id=49651372\nPoints: 93\n# Comments: 72",
       "publishedAt": "2026-09-10T23:10:06.000Z",
       "image": "https://cdn11.bigcommerce.com/s-pywjnxrcr2/products/1725/images/2187/thelio-mira-26-frontRR__11359.1772653265.1280.1280__76157.1780080100.1280.1280__57602.1788206893.386.513.jpg?c=1",
       "sourceCount": 1,
@@ -148,23 +243,12 @@
       "source": "TechCrunch",
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "publishedAt": "2026-09-10T21:35:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-10T21:35:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-      "summary": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx\nComments URL: https://news.ycombinator.com/item?id=49650418\nPoints: 68\n# Comments: 114",
-      "publishedAt": "2026-09-10T21:30:55.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T21:30:55.000Z"
     },
     {
       "source": "The Verge",
@@ -244,17 +328,6 @@
       "latestActivity": "2026-09-10T20:41:21.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Is AI Actually Going to Kill Us All?",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won…",
-      "publishedAt": "2026-09-10T20:30:37.000Z",
-      "image": "https://media.wired.com/photos/6aa216877d79a224cda3a43a/191:100/w_1280,c_limit/Uncanny-Valley-Anthropic-Employee-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T20:30:37.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Don't buy the 'regular' AirPods 5",
       "link": "https://www.engadget.com/2255399/dont-buy-the-regular-airpods-5/",
@@ -264,17 +337,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-10T20:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
-      "link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
-      "summary": "While the strengthening El Niño helped boost temperatures, climate change is the main culprit for making August so hot.",
-      "publishedAt": "2026-09-10T20:20:23.000Z",
-      "image": "https://media.wired.com/photos/6aa2fe8bf61e32d0e5c27220/191:100/w_1280,c_limit/You-Just-Lived-Through-the-Hottest-Month-Ever-Science-2286431827.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T20:20:23.000Z"
     },
     {
       "source": "TechCrunch",
@@ -344,17 +406,6 @@
     },
     {
       "source": "Engadget",
-      "title": "A native Gemini app is finally available for Windows PCs",
-      "link": "https://www.engadget.com/2255197/a-native-gemini-app-is-finally-available-for-windows-pcs/",
-      "summary": "There's a keyboard shortcut to open it up, just like the Mac version.",
-      "publishedAt": "2026-09-10T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/a-native-gemini-app-is-finally-available-for-windows-pcs/l-intro-1789064836.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T18:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
       "title": "How to watch the Flame Fatales 2026 speedrunning marathon",
       "link": "https://www.engadget.com/2255188/how-to-watch-the-flame-fatales-2026-speedrunning-marathon/",
       "summary": "The fundraiser for Malala Fund runs September 13-19.",
@@ -420,28 +471,6 @@
       "latestActivity": "2026-09-10T16:53:52.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Which iPhone 18 Model Should You Buy?",
-      "link": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
-      "summary": "Apple’s new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that’s right for you.",
-      "publishedAt": "2026-09-10T16:30:00.000Z",
-      "image": "https://media.wired.com/photos/6aa2d2e676850b4862a36c92/191:100/w_1280,c_limit/Which-iPhone-18-Model-Should-You-Buy-.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T16:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Robot Lawn Mowers (2026): 12+ Models Tested Over 3 Years",
-      "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-      "summary": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
-      "publishedAt": "2026-09-10T16:04:02.000Z",
-      "image": "https://media.wired.com/photos/6a3221464e63d441b28e3620/191:100/w_1280,c_limit/The-Best-Robot-Lawn-Mowers.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T16:04:02.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Electric air taxis get the green light for test flights in Texas",
       "link": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
@@ -497,17 +526,6 @@
       "latestActivity": "2026-09-10T15:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever",
-      "link": "https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/",
-      "summary": "Experts say conspiracy theorizing about the identity and motive of Charlie Kirk’s killer will likely continue for a long time to come.",
-      "publishedAt": "2026-09-10T14:34:36.000Z",
-      "image": "https://media.wired.com/photos/6aa18f229ba60a161c7e4cb9/191:100/w_1280,c_limit/charlie-kirk-conspiracies.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T14:34:36.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
       "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
@@ -517,17 +535,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-10T12:10:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More",
-      "link": "https://www.wired.com/story/best-bluetooth-speakers/",
-      "summary": "I tested portable speakers of all shapes and sizes, from pocket to party-sized.",
-      "publishedAt": "2026-09-10T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aa200b3c37f42357d6ac6ea/191:100/w_1280,c_limit/The-Best-Bluetooth-Speakers-for-Tunes-Anywhere-You-Go.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T11:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -550,17 +557,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-10T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
-      "link": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
-      "summary": "The Black Panther villain’s hairstyle has become a default for Black video game characters because it’s easy to code. Danielle Udogaranya is changing that.",
-      "publishedAt": "2026-09-10T10:45:00.000Z",
-      "image": "https://media.wired.com/photos/6aa2e0c770da26f935f4b5cb/191:100/w_1280,c_limit/Killmonger-Locs-Culture-MCDBLPA_EC170.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-10T10:45:00.000Z"
     },
     {
       "source": "MIT Technology Review",
