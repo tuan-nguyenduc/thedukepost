@@ -1,6 +1,116 @@
 {
-  "syncedAt": "2026-09-11T22:19:50.286Z",
+  "syncedAt": "2026-09-12T03:44:39.543Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Google no longer provides direct URLs in search results",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 3\n# Comments: 3",
+      "publishedAt": "2026-09-12T03:14:20.000Z",
+      "image": "https://www.autom.dev/api/og?slug=google-search-goto-links&locale=en",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T03:14:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pandas Should Go Extinct",
+      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "summary": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/\nComments URL: https://news.ycombinator.com/item?id=49668198\nPoints: 39\n# Comments: 22",
+      "publishedAt": "2026-09-12T02:42:08.000Z",
+      "image": "https://eddie.codes/og-image/pandas-should-go-extinct.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T02:42:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+      "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "summary": "Article URL: https://www.minitap.ai/blog/i-expected-better-from-google\nComments URL: https://news.ycombinator.com/item?id=49668181\nPoints: 37\n# Comments: 7",
+      "publishedAt": "2026-09-12T02:39:39.000Z",
+      "image": "https://cdn.sanity.io/images/5b5hto6c/production/8a4a9cd2ceb3a1679ca5033e6209fc7d558e81a0-1360x980.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T02:39:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+      "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+      "summary": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies\nComments URL: https://news.ycombinator.com/item?id=4966…",
+      "publishedAt": "2026-09-12T00:40:32.000Z",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/Starlinks-Signal-Leakage.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T00:40:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "link": "https://github.com/zachsaw/graphify-csharp",
+      "summary": "Article URL: https://github.com/zachsaw/graphify-csharp\nComments URL: https://news.ycombinator.com/item?id=49667188\nPoints: 19\n# Comments: 9",
+      "publishedAt": "2026-09-12T00:16:10.000Z",
+      "image": "https://opengraph.githubassets.com/b196e675d19de61ae9b2be3cf235389987ed008fa44ccd634e0b0e5cc9d429f0/zachsaw/graphify-csharp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T00:16:10.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "publishedAt": "2026-09-11T23:34:45.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T23:34:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "summary": "Article URL: https://www.rubyhack.ai/\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 436\n# Comments: 251",
+      "publishedAt": "2026-09-11T23:17:42.000Z",
+      "image": "https://rubyhack.ai/img/rubyhack-social.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T23:17:42.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T22:58:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+      "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+      "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf\nComments URL: https://news.ycombinator.com/item?id=49666155\nPoints: 23\n# Comments: 8",
+      "publishedAt": "2026-09-11T22:16:15.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T22:16:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Project Blinkenlights",
+      "link": "https://blinkenlights.de/en/",
+      "summary": "Article URL: https://blinkenlights.de/en/\nComments URL: https://news.ycombinator.com/item?id=49666146\nPoints: 60\n# Comments: 25",
+      "publishedAt": "2026-09-11T22:15:00.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T22:15:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Moss developer Polyarc has closed",
@@ -14,7 +124,7 @@
     },
     {
       "source": "Ars Technica",
-      "title": "Random rewards enrich classic game-theory contests",
+      "title": "Random rewards enrich classic game-theory insights",
       "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
       "summary": "Simple games gain rich strategies in the face of noise.",
       "publishedAt": "2026-09-11T21:41:16.000Z",
@@ -47,9 +157,9 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options t…",
       "publishedAt": "2026-09-11T20:59:47.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
       "sourceCount": 1,
@@ -66,17 +176,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-11T20:57:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "ElevenLabs Music v2.5",
-      "link": "https://elevenmusic.io/blog/introducing-music-v2-5",
-      "summary": "Article URL: https://elevenmusic.io/blog/introducing-music-v2-5\nComments URL: https://news.ycombinator.com/item?id=49665210\nPoints: 50\n# Comments: 54",
-      "publishedAt": "2026-09-11T20:53:16.000Z",
-      "image": "https://elevenmusic.io/blog/introducing-music-v2-5/.og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T20:53:16.000Z"
     },
     {
       "source": "The Verge",
@@ -143,17 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-11T20:01:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
-      "link": "https://txt.hellman.io/",
-      "summary": "Article URL: https://txt.hellman.io/\nComments URL: https://news.ycombinator.com/item?id=49664322\nPoints: 9\n# Comments: 3",
-      "publishedAt": "2026-09-11T19:46:43.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T19:46:43.000Z"
     },
     {
       "source": "Wired",
@@ -244,28 +332,6 @@
       "latestActivity": "2026-09-11T18:59:25.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-      "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Batt…",
-      "publishedAt": "2026-09-11T18:58:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Regional-Final-R2B-2026-2.png?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T18:58:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "summary": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13\nComments URL: https://news.ycombinator.com/item?id=49663373\nPoints: 137\n# Comments: 72",
-      "publishedAt": "2026-09-11T18:50:36.000Z",
-      "image": "https://opengraph.githubassets.com/8f0c4809e2c11bfed73cfc4c4e8d4260b6cea167ccc47bfdcf0c2ebd6b69acf2/GrapheneOS/Messaging/releases/tag/13",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T18:50:36.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
       "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
@@ -277,28 +343,6 @@
       "latestActivity": "2026-09-11T18:49:39.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-      "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "summary": "https://www.cia.gov/stories/story/cia-releases-presidents-da...\nComments URL: https://news.ycombinator.com/item?id=49663054\nPoints: 70\n# Comments: 39",
-      "publishedAt": "2026-09-11T18:30:07.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T18:30:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/\nComments URL: https://news.ycombinator.com/item?id=49662990\nPoints: 117\n# Comments: 57",
-      "publishedAt": "2026-09-11T18:24:55.000Z",
-      "image": "https://dayzlegame.com/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T18:24:55.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Oracle tries to appease Stargate data center opponents with renewables push",
       "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
@@ -308,39 +352,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-11T18:22:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "link": "https://github.com/kennethwolters/litelm",
-      "summary": "Article URL: https://github.com/kennethwolters/litelm\nComments URL: https://news.ycombinator.com/item?id=49662767\nPoints: 72\n# Comments: 25",
-      "publishedAt": "2026-09-11T18:10:20.000Z",
-      "image": "https://opengraph.githubassets.com/2a123ee9de56a0d2a2877f814e9b3f0d9efe8f97d6b5ed3f6968a56d95634f2c/kennethwolters/litelm",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T18:10:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
-      "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "summary": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/\nComments URL: https://news.ycombinator.com/item?id=49662672\nPoints: 242\n# Comments: 167",
-      "publishedAt": "2026-09-11T18:05:21.000Z",
-      "image": "https://i0.wp.com/capitalbnews.org/wp-content/uploads/2026/09/GettyImages-2266751110-scaled.jpg?fit=2560%2C1707&ssl=1",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T18:05:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A misalignment of AI in mathematics",
-      "link": "https://mathandai.org/",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...\nhttps://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-te…",
-      "publishedAt": "2026-09-11T17:45:12.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T17:45:12.000Z"
     },
     {
       "source": "Engadget",
@@ -473,17 +484,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-11T15:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "publishedAt": "2026-09-11T13:02:35.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T13:02:35.000Z"
     },
     {
       "source": "Engadget",
