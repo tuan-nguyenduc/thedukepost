@@ -1,60 +1,60 @@
 {
-  "syncedAt": "2026-09-12T03:44:39.543Z",
+  "syncedAt": "2026-09-12T08:29:06.474Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Google no longer provides direct URLs in search results",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "summary": "Article URL: https://eiln.github.io/posts/ane.html\nComments URL: https://news.ycombinator.com/item?id=49670032\nPoints: 13\n# Comments: 0",
+      "publishedAt": "2026-09-12T07:54:03.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T07:54:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "WeWorm: Zero-Click WeChat Worm",
+      "link": "https://calif.io/research/weworm",
+      "summary": "Article URL: https://calif.io/research/weworm\nComments URL: https://news.ycombinator.com/item?id=49669276\nPoints: 14\n# Comments: 1",
+      "publishedAt": "2026-09-12T05:49:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T05:49:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Usenet rewind archive search engine",
+      "link": "https://www.usenet-rewind.com/",
+      "summary": "Article URL: https://www.usenet-rewind.com/\nComments URL: https://news.ycombinator.com/item?id=49668777\nPoints: 50\n# Comments: 9",
+      "publishedAt": "2026-09-12T04:19:52.000Z",
+      "image": "https://www.usenet-rewind.com/images/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T04:19:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Navier-Stokes Announcement",
+      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/\nComments URL: https://news.ycombinator.com/item?id=49668706\nPoints: 127\n# Comments: 77",
+      "publishedAt": "2026-09-12T04:09:43.000Z",
+      "image": "https://www.claymath.org/wp-content/uploads/2026/09/False_color_image_of_the_far_field_of_a_submerged_turbulent_jet.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-12T04:09:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "google.com/goto: Google's anti-scraping update",
       "link": "https://www.autom.dev/blog/google-search-goto-links",
-      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 3\n# Comments: 3",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 379\n# Comments: 255",
       "publishedAt": "2026-09-12T03:14:20.000Z",
       "image": "https://www.autom.dev/api/og?slug=google-search-goto-links&locale=en",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-12T03:14:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pandas Should Go Extinct",
-      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-      "summary": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/\nComments URL: https://news.ycombinator.com/item?id=49668198\nPoints: 39\n# Comments: 22",
-      "publishedAt": "2026-09-12T02:42:08.000Z",
-      "image": "https://eddie.codes/og-image/pandas-should-go-extinct.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T02:42:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-      "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "summary": "Article URL: https://www.minitap.ai/blog/i-expected-better-from-google\nComments URL: https://news.ycombinator.com/item?id=49668181\nPoints: 37\n# Comments: 7",
-      "publishedAt": "2026-09-12T02:39:39.000Z",
-      "image": "https://cdn.sanity.io/images/5b5hto6c/production/8a4a9cd2ceb3a1679ca5033e6209fc7d558e81a0-1360x980.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T02:39:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-      "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-      "summary": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies\nComments URL: https://news.ycombinator.com/item?id=4966…",
-      "publishedAt": "2026-09-12T00:40:32.000Z",
-      "image": "https://www.gadgetreview.com/wp-content/uploads/Starlinks-Signal-Leakage.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T00:40:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-      "link": "https://github.com/zachsaw/graphify-csharp",
-      "summary": "Article URL: https://github.com/zachsaw/graphify-csharp\nComments URL: https://news.ycombinator.com/item?id=49667188\nPoints: 19\n# Comments: 9",
-      "publishedAt": "2026-09-12T00:16:10.000Z",
-      "image": "https://opengraph.githubassets.com/b196e675d19de61ae9b2be3cf235389987ed008fa44ccd634e0b0e5cc9d429f0/zachsaw/graphify-csharp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T00:16:10.000Z"
     },
     {
       "source": "Ars Technica",
@@ -71,7 +71,7 @@
       "source": "Hacker News",
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "link": "https://www.rubyhack.ai/",
-      "summary": "Article URL: https://www.rubyhack.ai/\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 436\n# Comments: 251",
+      "summary": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 651\n# Comments: 370",
       "publishedAt": "2026-09-11T23:17:42.000Z",
       "image": "https://rubyhack.ai/img/rubyhack-social.png",
       "sourceCount": 1,
@@ -91,20 +91,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-      "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-      "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf\nComments URL: https://news.ycombinator.com/item?id=49666155\nPoints: 23\n# Comments: 8",
-      "publishedAt": "2026-09-11T22:16:15.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T22:16:15.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Project Blinkenlights",
       "link": "https://blinkenlights.de/en/",
-      "summary": "Article URL: https://blinkenlights.de/en/\nComments URL: https://news.ycombinator.com/item?id=49666146\nPoints: 60\n# Comments: 25",
+      "summary": "Article URL: https://blinkenlights.de/en/\nComments URL: https://news.ycombinator.com/item?id=49666146\nPoints: 84\n# Comments: 30",
       "publishedAt": "2026-09-11T22:15:00.000Z",
       "image": null,
       "sourceCount": 1,
@@ -121,6 +110,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-11T21:58:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "link": "https://github.com/mirza-rizvi/ResolveHQ",
+      "summary": "Article URL: https://github.com/mirza-rizvi/ResolveHQ\nComments URL: https://news.ycombinator.com/item?id=49665864\nPoints: 57\n# Comments: 17",
+      "publishedAt": "2026-09-11T21:48:00.000Z",
+      "image": "https://opengraph.githubassets.com/d15290c48f7c99b7c4306fa4fb38ca1d64e2d08a86ab1a63ead49e7902cfb702/mirza-rizvi/ResolveHQ",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-11T21:48:00.000Z"
     },
     {
       "source": "Ars Technica",
