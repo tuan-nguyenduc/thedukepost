@@ -1,93 +1,283 @@
 {
-  "syncedAt": "2026-09-13T09:17:40.359Z",
+  "syncedAt": "2026-09-13T14:09:55.857Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cq635037g18o\nComments URL: https://news.ycombinator.com/item?id=49681276\nPoints: 13\n# Comments: 10",
-      "publishedAt": "2026-09-13T08:07:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg",
+      "source": "Engadget",
+      "title": "How to set up HDMI-CEC on your Samsung TV",
+      "link": "https://www.engadget.com/2252825/how-to-set-up-hdmi-cec-samsung-tv/",
+      "summary": "HDMI-CEC, or Anynet+ on Samsung TVs, lets you control all your devices with fewer remotes and button presses. It's well worth setting up properly.",
+      "publishedAt": "2026-09-13T14:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-set-up-hdmi-cec-on-your-samsung-tv/l-intro-1788376547.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-13T08:07:36.000Z"
+      "latestActivity": "2026-09-13T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Your car is selling your data",
+      "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins.…",
+      "publishedAt": "2026-09-13T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Your car is selling your data",
+          "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "publishedAt": "2026-09-13T13:45:08.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-13T13:45:08.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "JetKVM Mini",
-      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini\nComments URL: https://news.ycombinator.com/item?id=49681152\nPoints: 53\n# Comments: 29",
-      "publishedAt": "2026-09-13T07:49:46.000Z",
-      "image": "https://jetkvm.com/blog/jetkvm-mini/og-v2.jpg",
+      "title": "Flock worker calls police on reporter filming public camera installation",
+      "link": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "summary": "Article URL: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/\nComments URL: https://news.ycombinator.co…",
+      "publishedAt": "2026-09-13T13:35:31.000Z",
+      "image": "https://gray-investigatetv-prod.gtv-cdn.com/resizer/v2/OJC3LVIO7FBOTGWFBSLIKKBYHY.jpg?auth=b61b3f19f6468af41f9fe7cecb198b71a88b79774ea74d4d3f26b297ecff2e3f&width=1200&height=600&smart=true",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-13T07:49:46.000Z"
+      "latestActivity": "2026-09-13T13:35:31.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "A wandering black hole caught feeding on the run",
-      "link": "https://phys.org/news/2026-08-black-hole-caught.html",
-      "summary": "Article URL: https://phys.org/news/2026-08-black-hole-caught.html\nComments URL: https://news.ycombinator.com/item?id=49679734\nPoints: 16\n# Comments: 5",
-      "publishedAt": "2026-09-13T03:34:53.000Z",
-      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-wandering-black-hole-1.jpg",
+      "title": "Mars astronauts could live in houses made of yeast and jello, say scientists",
+      "link": "https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931",
+      "summary": "Article URL: https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931\nComments URL: https://news.ycombinat…",
+      "publishedAt": "2026-09-13T13:34:23.000Z",
+      "image": "https://image.theregister.com/5295940.jpg?imageId=5295940&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-13T03:34:53.000Z"
+      "latestActivity": "2026-09-13T13:34:23.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "A succession crisis that tore England apart (2023)",
-      "link": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-      "summary": "Article URL: https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart\nComments URL: https://news.ycombinator.com/item?id=49679647\nPoints: 31\n# Comments: 16",
-      "publishedAt": "2026-09-13T03:18:29.000Z",
-      "image": "https://www.historytoday.com/sites/default/files/styles/large/public/2023-05/1%20Anarchy%20opener_0.png?itok=0f6Jo1JV",
+      "title": "AI models don't kill people – people kill people",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368\nComments URL: https://news.ycombinator.com/item?id=49683834\nPoin…",
+      "publishedAt": "2026-09-13T13:33:34.000Z",
+      "image": "https://image.theregister.com/5295388.jpg?imageId=5295388&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-13T03:18:29.000Z"
+      "latestActivity": "2026-09-13T13:33:34.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Never use harsh cleaning products to clean your smartphone — do this instead",
+      "link": "https://www.engadget.com/2252829/never-use-harsh-cleaning-products-clean-smartphone/",
+      "summary": "Your phone is a magnet for germs, but there are gentle ways to clean it.",
+      "publishedAt": "2026-09-13T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/never-use-harsh-cleaning-products-to-clean-your-smartphone-do-this-instead/l-intro-1788707508.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T13:30:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Aligned to whom?",
-      "link": "https://hyperbo.la/w/aligned-to-whom/",
-      "summary": "Article URL: https://hyperbo.la/w/aligned-to-whom/\nComments URL: https://news.ycombinator.com/item?id=49679643\nPoints: 45\n# Comments: 17",
-      "publishedAt": "2026-09-13T03:17:18.000Z",
-      "image": "https://hyperbo.la/social/w/aligned-to-whom.png",
+      "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+      "link": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-wi…",
+      "publishedAt": "2026-09-13T13:24:28.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uGuR9sKGSzuHwLFjKDGBw3-2560-80.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-13T03:17:18.000Z"
+      "latestActivity": "2026-09-13T13:24:28.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fusion power startups find new partners in the defense world",
+      "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+      "publishedAt": "2026-09-13T13:15:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-side.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T13:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+      "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+      "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali),…",
+      "publishedAt": "2026-09-13T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/YMX3_03452_R_rgb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T13:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to get your cut of PlayStation's $7.85 million settlement",
+      "link": "https://www.engadget.com/2252822/how-to-get-cut-sony-playstation-digital-game-settlement/",
+      "summary": "Sony should soon be issuing payments for a class-action lawsuit, but your cut will likely be quite small.",
+      "publishedAt": "2026-09-13T13:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-your-cut-of-playstations-7-85-million-settlement/l-intro-1788361164.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T13:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "External HDD vs. SSD: What are the pros and cons of each drive type?",
+      "link": "https://www.engadget.com/2252820/external-hdd-vs-ssd-pros-and-cons-drive-type/",
+      "summary": "External SSDs are faster than HDDs, but if you need cost-effective backups or larger capacities, a hard drive may be a better choice for you.",
+      "publishedAt": "2026-09-13T12:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/external-hdd-vs-ssd-what-are-the-pros-and-cons-of-each-drive-type/l-intro-1788225387.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T12:30:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "After Math",
-      "link": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/12/after-math/\nComments URL: https://news.ycombinator.com/item?id=49679637\nPoints: 66\n# Comments: 48",
-      "publishedAt": "2026-09-13T03:16:41.000Z",
-      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1789291014",
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "summary": "Article URL: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet\nComments URL: https://news.ycombinator.com/item?i…",
+      "publishedAt": "2026-09-13T12:01:52.000Z",
+      "image": "https://ras.ac.uk/sites/default/files/2026-09/star_swallowing_a_planet.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-13T03:16:41.000Z"
+      "latestActivity": "2026-09-13T12:01:52.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s new phones are here",
+      "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read al…",
+      "publishedAt": "2026-09-13T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T12:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why your Roku keeps randomly turning off (and how to fix it)",
+      "link": "https://www.engadget.com/2252813/roku-tv-randomly-turns-off-fixes/",
+      "summary": "A Roku is usually a straightforward device, but they can run into power problems. This is what to check if yours powers off all the time.",
+      "publishedAt": "2026-09-13T12:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-your-roku-keeps-randomly-turning-off-and-how-to-fix-it/l-intro-1788884013.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T12:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+      "summary": "The manufacturer has a service that lets owners repair their own equipment.",
+      "publishedAt": "2026-09-13T11:00:41.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/PXL_20260820_203706917-640x850.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T11:00:41.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+      "link": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "publishedAt": "2026-09-13T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/191:100/w_1280,c_limit/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser",
+      "link": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
+      "summary": "Apple’s Safari browser gets a few helpful automation and personalization features in iOS 27.",
+      "publishedAt": "2026-09-13T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6aa44ab510c4340f2d52e7b4/191:100/w_1280,c_limit/iPhone-Settings-Safari-ios27-2213391517.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T10:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Indoor Garden Systems I’ve Been Testing All Year (2026)",
+      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "publishedAt": "2026-09-13T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/688061d68203c2103d95c470/191:100/w_1280,c_limit/We%20Tried%205%20of%20the%20Most%20Popular%20Indoor%20Gardening%20Systems.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T10:30:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "The Interim Computer Museum",
-      "link": "https://icm.museum/",
-      "summary": "Article URL: https://icm.museum/\nComments URL: https://news.ycombinator.com/item?id=49679459\nPoints: 107\n# Comments: 11",
-      "publishedAt": "2026-09-13T02:43:57.000Z",
-      "image": null,
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "link": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "summary": "Article URL: https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/\nComments URL: https://news.ycombinator.com/item?i…",
+      "publishedAt": "2026-09-13T10:29:18.000Z",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/07/image-4-1783511691.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-13T02:43:57.000Z"
+      "latestActivity": "2026-09-13T10:29:18.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating\nComments URL: https://news.ycombinator.com/item?id=49678969\nPoints: 182\n# Com…",
-      "publishedAt": "2026-09-13T01:22:31.000Z",
-      "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
+      "source": "Wired",
+      "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
+      "link": "https://www.wired.com/review/coway-airmega-halo/",
+      "summary": "Coway’s new Airmega Halo runs quietly and clears visible smoke quickly, but its air-quality readings weren’t always reassuring.",
+      "publishedAt": "2026-09-13T10:05:00.000Z",
+      "image": "https://media.wired.com/photos/6aa45187942761b808ef31e7/191:100/w_1280,c_limit/Review--Coway-Airmega-Halo.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-13T01:22:31.000Z"
+      "latestActivity": "2026-09-13T10:05:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Agents Are Thirsty for Power",
+      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "publishedAt": "2026-09-13T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T10:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "publishedAt": "2026-09-12T14:40:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Revolut confirms customer data breach through fake government requests",
+          "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+          "publishedAt": "2026-09-13T09:59:58.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-13T09:59:58.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions",
+      "link": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
+      "summary": "“There’s no reason we can’t think that, at some point in the future, we can have volcano forecasts that are like weather forecasts.”",
+      "publishedAt": "2026-09-13T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6aa44cdc4de88ba2f8bc1c56/191:100/w_1280,c_limit/Qualia-Predicting-Volcanoes-cr-Celsius-Pictor-Social.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T09:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why do routers have so many antennas?",
+      "link": "https://www.engadget.com/2251223/why-routers-have-many-antennas/",
+      "summary": "It seems like routers keep growing more antennas each year. Is this a marketing gimmick, or is there a good reason?",
+      "publishedAt": "2026-09-13T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-do-routers-have-so-many-antennas/l-intro-1788539209.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-13T00:30:00.000Z"
     },
     {
       "source": "Engadget",
@@ -123,39 +313,6 @@
       "latestActivity": "2026-09-12T23:25:38.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "One problem with Android Auto can be fixed with a simple update",
-      "link": "https://www.engadget.com/2252806/android-auto-problem-fixed-simple-firmware-update/",
-      "summary": "If you've already tried updating your phone, the car's software might be the issue.",
-      "publishedAt": "2026-09-12T23:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/one-problem-with-android-auto-can-be-fixed-with-a-simple-update/l-intro-1788714341.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T23:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What's the difference between your iPhone's Do Not Disturb and Focus modes?",
-      "link": "https://www.engadget.com/2252804/iphone-do-not-disturb-vs-focus-mode-difference-between/",
-      "summary": "Your iPhone's Focus modes, including Do Not Disturb, are a great way to reduce interruptions. But what's the difference in how they work?",
-      "publishedAt": "2026-09-12T22:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-your-iphones-do-not-disturb-and-focus-modes/l-intro-1788382014.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T22:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to change Amazon Alexa's voice and personality",
-      "link": "https://www.engadget.com/2252800/how-to-change-alexa-voice-personality/",
-      "summary": "You have several new options for Alexa's voice and personality. Here's how to find and change those settings.",
-      "publishedAt": "2026-09-12T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-change-amazon-alexas-voice-and-personality/l-intro-1788374760.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T22:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -165,24 +322,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-12T21:41:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard pr…",
-      "publishedAt": "2026-09-12T20:08:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STC2026_GalleryIMG_0008_PT6120_rgba.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Blizzard is reviving StarCraft as an open-world shooter, but it'll be a long wait",
-          "link": "https://www.engadget.com/2256750/blizzard-is-reviving-starcraft-as-an-open-world-shooter-but-itll-be-a-long-wait/",
-          "publishedAt": "2026-09-12T21:28:36.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-12T21:28:36.000Z"
     },
     {
       "source": "TechCrunch",
@@ -203,26 +342,15 @@
       "latestActivity": "2026-09-12T21:16:28.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Why is the internet so upset about NVIDIA's DLSS 5?",
-      "link": "https://www.engadget.com/2252797/nvidia-dlss-5-why-internet-people-upset-issues/",
-      "summary": "NVIDIA calls DLSS 5 the biggest graphics breakthrough since ray tracing; critics call it an AI slop filter.",
-      "publishedAt": "2026-09-12T20:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-is-the-internet-so-upset-about-nvidias-dlss-5/l-intro-1788358512.jpg",
+      "source": "The Verge",
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard pr…",
+      "publishedAt": "2026-09-12T20:08:09.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STC2026_GalleryIMG_0008_PT6120_rgba.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-12T20:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "OpenAI agents hacked a software service before the Hugging Face incident",
-      "link": "https://www.engadget.com/2256741/openai-agents-hacked-rubygems/",
-      "summary": "The agents OpenAI was testing attacked a software service called RubyGems in May, months before the attacks on Hugging Face.",
-      "publishedAt": "2026-09-12T19:53:01.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-agents-hacked-a-software-service-before-the-hugging-face-incident/l-intro-1789242724.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T19:53:01.000Z"
+      "latestActivity": "2026-09-12T20:08:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -269,50 +397,6 @@
       "latestActivity": "2026-09-12T16:23:40.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "LG responds to TV spying allegations",
-      "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. N…",
-      "publishedAt": "2026-09-12T15:19:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/LG-B4-Press-Image-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T15:19:44.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Trump is giving data centers a pass to pollute",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former…",
-      "publishedAt": "2026-09-12T14:41:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T14:41:27.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "publishedAt": "2026-09-12T14:40:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T14:40:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-      "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-      "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some…",
-      "publishedAt": "2026-09-12T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/img-260ce3af-8e70-4401-9a35-9eb971697f7b.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T13:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "10 Best Standing Desks Worth Buying in 2026",
       "link": "https://www.wired.com/gallery/best-standing-desks/",
@@ -344,61 +428,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-12T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
-      "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
-      "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking sys…",
-      "publishedAt": "2026-09-12T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/685f456cde3ddb7f4c50fa01/191:100/w_1280,c_limit/Update-%20The%20Best%203-in-1%20Apple%20Wireless%20Chargers.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-      "publishedAt": "2026-09-12T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6aa46eadc13527261cbf310c/191:100/w_1280,c_limit/SecurityRoundUp_From%20State-Sponsored%20Hacking%20to%20Bioweapons,%20Claude%20Abuse%20is%20Now%20Everywhere_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
-      "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
-      "summary": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
-      "publishedAt": "2026-09-12T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aa44e74dc225a8b7147e28f/191:100/w_1280,c_limit/Review--Branch-Ergonomic-Chair-Pro-(Sega-Edition).jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-      "summary": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s wo…",
-      "publishedAt": "2026-09-12T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules",
-      "link": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
-      "summary": "And if your tap water is undrinkable, you have no “constitutional right to truthful information” about it.",
-      "publishedAt": "2026-09-12T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6aa4488052c971537654b906/191:100/w_1280,c_limit/GettyImages-1431034639.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T09:30:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -456,17 +485,6 @@
       "latestActivity": "2026-09-11T21:14:26.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options t…",
-      "publishedAt": "2026-09-11T20:59:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T20:59:47.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Trump's forced coal plant extensions thrown out by judge",
       "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
@@ -489,17 +507,6 @@
       "latestActivity": "2026-09-11T20:05:06.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The 9 Best TV Shows to Stream This Month (September 2026)",
-      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
-      "summary": "South Park, Slow Horses, Neon Genesis Evangelion, and a Lego-fied Mandalorian are just a few of the things you should be watching right now.",
-      "publishedAt": "2026-09-11T19:36:43.000Z",
-      "image": "https://media.wired.com/photos/6aa43cf5acc1ba98aeac1316/191:100/w_1280,c_limit/Show-Watch-Guide-Culture-LegoMandalorian_01.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T19:36:43.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
       "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
@@ -520,17 +527,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-11T18:49:39.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-      "publishedAt": "2026-09-11T18:22:22.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-11T18:22:22.000Z"
     },
     {
       "source": "MIT Technology Review",
