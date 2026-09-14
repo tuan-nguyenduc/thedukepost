@@ -1,11 +1,66 @@
 {
-  "syncedAt": "2026-09-14T03:59:45.719Z",
+  "syncedAt": "2026-09-14T09:46:50.280Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-14T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A 386 PC for Your RP2350",
+      "link": "https://github.com/rh1tech/frank-386",
+      "summary": "Article URL: https://github.com/rh1tech/frank-386\nComments URL: https://news.ycombinator.com/item?id=49693613\nPoints: 13\n# Comments: 0",
+      "publishedAt": "2026-09-14T08:25:57.000Z",
+      "image": "https://opengraph.githubassets.com/4ca663acd9d7e6b7104880f472570f9ad8775b329e0284147821e249f5c96cdf/rh1tech/frank-386",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-14T08:25:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/\nComments URL: https://news.ycombinator.com/item?id=49693610\nPoints: 8\n# Comments: 3",
+      "publishedAt": "2026-09-14T08:25:47.000Z",
+      "image": "http://eurobirdportal.org/img/preview-2.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-14T08:25:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+      "link": "https://screensize.net/reports/viewport-stats",
+      "summary": "Article URL: https://screensize.net/reports/viewport-stats\nComments URL: https://news.ycombinator.com/item?id=49693226\nPoints: 11\n# Comments: 8",
+      "publishedAt": "2026-09-14T07:35:00.000Z",
+      "image": "https://screensize.net/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-14T07:35:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
+      "link": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
+      "summary": "Article URL: https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/\nComments URL: https://news.ycombinator.com/item?id=49692765\nPoints: 26\n# Comments: 1…",
+      "publishedAt": "2026-09-14T06:34:06.000Z",
+      "image": "https://cdn.lareviewofbooks.org/unsafe/fit-in/331x0/filters:format(jpeg):quality(75)/https%3A%2F%2Fassets.lareviewofbooks.org%2Fuploads%2F201311when-god-spoke-greek-the-septuagint-and-the-making-of-the-christian-bible_6575_5001.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-14T06:34:06.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
       "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-      "summary": "https://archive.ph/8NmSg\nComments URL: https://news.ycombinator.com/item?id=49691343\nPoints: 25\n# Comments: 14",
+      "summary": "https://archive.ph/8NmSg\nComments URL: https://news.ycombinator.com/item?id=49691343\nPoints: 123\n# Comments: 164",
       "publishedAt": "2026-09-14T02:50:40.000Z",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-534705402-e1788891465553.jpg?resize=1200,600",
       "sourceCount": 1,
@@ -14,9 +69,20 @@
     },
     {
       "source": "Hacker News",
+      "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+      "link": "https://calif.io/research/oempocalypse",
+      "summary": "Article URL: https://calif.io/research/oempocalypse\nComments URL: https://news.ycombinator.com/item?id=49691152\nPoints: 56\n# Comments: 25",
+      "publishedAt": "2026-09-14T02:25:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-14T02:25:44.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "The Malicious Use of Artificial Intelligence",
       "link": "https://arxiv.org/abs/1802.07228",
-      "summary": "Article URL: https://arxiv.org/abs/1802.07228\nComments URL: https://news.ycombinator.com/item?id=49690678\nPoints: 21\n# Comments: 5",
+      "summary": "Article URL: https://arxiv.org/abs/1802.07228\nComments URL: https://news.ycombinator.com/item?id=49690678\nPoints: 65\n# Comments: 14",
       "publishedAt": "2026-09-14T01:22:35.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
@@ -25,25 +91,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Exploring the intersection of prediction markets and social media",
-      "link": "https://www.thevidmarket.com/",
-      "summary": "The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like.\nComments URL: https://news.ycombinator.com/i…",
-      "publishedAt": "2026-09-14T01:14:25.000Z",
+      "title": "The case against JPEG XL",
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "summary": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/\nComments URL: https://news.ycombinator.com/item?id=49690554\nPoints: 157\n# Comments: 215",
+      "publishedAt": "2026-09-14T01:02:37.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-14T01:14:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI Robots – When will they be in our homes",
-      "link": "https://spectrum.ieee.org/ai-robots",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-robots\nComments URL: https://news.ycombinator.com/item?id=49690411\nPoints: 9\n# Comments: 4",
-      "publishedAt": "2026-09-14T00:44:23.000Z",
-      "image": "https://spectrum.ieee.org/media-library/the-robot-helper-rosie-from-the-tv-show-the-jetsons-next-to-a-group-of-new-ai-robots-consisting-of-neo-from-1x-technologies-apo.jpg?id=54170092&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-14T00:44:23.000Z"
+      "latestActivity": "2026-09-14T01:02:37.000Z"
     },
     {
       "source": "Engadget",
@@ -55,50 +110,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-14T00:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Writing a better reality: The case for optimistic sci-fi",
-      "link": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
-      "summary": "Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/\nComments URL: https://news.ycombinator.com/item?id=49690279\nPoints: 19\n# Comments…",
-      "publishedAt": "2026-09-14T00:27:11.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-14T00:27:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Open-Source AI and Open Models Reading List",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list\nComments URL: https://news.ycombinator.com/item?id=49690260\nPoints: 47\n# Comments: 3",
-      "publishedAt": "2026-09-14T00:22:51.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-14T00:22:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Apple's Dimensional Drawings",
-      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/\nComments URL: https://news.ycombinator.com/item?id=49690174\nPoints: 58\n# Comments: 10",
-      "publishedAt": "2026-09-14T00:11:21.000Z",
-      "image": "https://developer.apple.com/news/images/og/accessories-og.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-14T00:11:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "summary": "Article URL: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts\nComments URL: https://news.ycombinator.com/item?id=496901…",
-      "publishedAt": "2026-09-14T00:07:09.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-14T00:07:09.000Z"
     },
     {
       "source": "Engadget",
@@ -462,17 +473,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-12T11:00:53.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’",
-      "link": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
-      "summary": "A subset of male gamers have spent years warning that the transgressive series has been neutered by progressive developers, but the backlash isn’t taking hold.",
-      "publishedAt": "2026-09-12T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aa2e470eb334db5ae141f8b/191:100/w_1280,c_limit/Right-Wingers-Melting-Down-Over-GTA-Culture-Jason_Duval_06.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-12T11:00:00.000Z"
     },
     {
       "source": "Ars Technica",
