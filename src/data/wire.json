@@ -1,6 +1,321 @@
 {
-  "syncedAt": "2026-09-15T18:01:19.546Z",
+  "syncedAt": "2026-09-15T22:45:55.440Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Are USB-C flash drives better than USB-A ones?",
+      "link": "https://www.engadget.com/2256491/usb-c-flash-drive-better-usb-a-comparison/",
+      "summary": "USB-A and USB-C flash drives both have their purposes. USB-C is increasingly common, but USB-A isn't going anywhere yet.",
+      "publishedAt": "2026-09-15T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/are-usb-c-flash-drives-better-than-usb-a-ones/l-intro-1789158707.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T22:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an ev…",
+      "publishedAt": "2026-09-15T20:36:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Microsoft will hold a Windows and Surface event on October 7",
+          "link": "https://www.engadget.com/2259695/microsoft-will-hold-a-windows-event-on-october-7/",
+          "publishedAt": "2026-09-15T22:18:07.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-15T22:18:07.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Wired vs wireless speakers: What are the pros and cons?",
+      "link": "https://www.engadget.com/2256380/wired-vs-wireless-speakers-pros-cons/",
+      "summary": "Wired and wireless speakers each offer different trade-offs, advantages and disadvantages. Plus, what audio you put through them has a big effect.",
+      "publishedAt": "2026-09-15T22:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/wired-vs-wireless-speakers-what-are-the-pros-and-cons/l-intro-1789154432.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T22:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The AI data center boom is colliding with cities scarred by big industry ",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil…",
+      "publishedAt": "2026-09-15T21:47:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T21:47:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\nComments URL: https://news.ycombinator.com/item?id=49718928\nPoints: 75\n# Comments: 13",
+      "publishedAt": "2026-09-15T21:07:47.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T21:07:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "summary": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\nComments URL: https://news.ycombinator.com/item?id=49718822\nPoints: 62\n# Comments: 9",
+      "publishedAt": "2026-09-15T20:57:18.000Z",
+      "image": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/thumbnail.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T20:57:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "What if social media isn’t hurting kids?",
+      "link": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+      "summary": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is…",
+      "publishedAt": "2026-09-15T20:13:30.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T20:13:30.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "publishedAt": "2026-09-15T20:12:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T20:12:53.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to improve the audio quality on your iPhone",
+      "link": "https://www.engadget.com/2256208/how-to-improve-audio-quality-iphone/",
+      "summary": "You can improve your iPhone's audio quality whether you're using the built-in speakers, headphones, or a speaker.",
+      "publishedAt": "2026-09-15T20:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-the-audio-quality-on-your-iphone/l-intro-1789148882.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T20:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "link": "https://codyho.dev/blog/gpu-driver/",
+      "summary": "Article URL: https://codyho.dev/blog/gpu-driver/\nComments URL: https://news.ycombinator.com/item?id=49717638\nPoints: 84\n# Comments: 33",
+      "publishedAt": "2026-09-15T19:30:03.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T19:30:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "link": "https://github.com/GraafHenk/numberwang",
+      "summary": "Article URL: https://github.com/GraafHenk/numberwang\nComments URL: https://news.ycombinator.com/item?id=49717605\nPoints: 78\n# Comments: 29",
+      "publishedAt": "2026-09-15T19:27:35.000Z",
+      "image": "https://opengraph.githubassets.com/da25f001d3f904c4ce70d51c738ac9bf19e002b478dd07280c4244d62d73cc8a/GraafHenk/numberwang",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T19:27:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Introducing System One Models and Jev",
+      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "summary": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev\nComments URL: https://news.ycombinator.com/item?id=49717558\nPoints: 519\n# Comments: 177",
+      "publishedAt": "2026-09-15T19:25:03.000Z",
+      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T19:25:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "link": "https://mnoukhov.github.io/posts/ngu/",
+      "summary": "https://arxiv.org/abs/2609.13443\nComments URL: https://news.ycombinator.com/item?id=49717280\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-09-15T19:07:38.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T19:07:38.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "publishedAt": "2026-09-15T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T19:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "18-year-old dies of measles in PA from severe neurological complication",
+      "link": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+      "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
+      "publishedAt": "2026-09-15T18:58:09.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:58:09.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+      "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+      "summary": "Reaching orbit would mark a significant milestone.",
+      "publishedAt": "2026-09-15T18:48:08.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:48:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chopping up books when they're physically too big",
+      "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "summary": "Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html\nComments URL: https://news.ycombinator.com/item?id=49716953\nPoints: 85\n# Comments: 79",
+      "publishedAt": "2026-09-15T18:45:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:45:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+      "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
+      "summary": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025…",
+      "publishedAt": "2026-09-15T18:39:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The-Kia-PV7-Cargo-and-Passenger.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:39:44.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "summary": "Robots can start working outside physical cages and without safety barriers.",
+      "publishedAt": "2026-09-15T18:33:02.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Agility_Digit5_04-2560x1440.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:33:02.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "publishedAt": "2026-09-15T18:29:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:29:20.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "link": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
+      "publishedAt": "2026-09-15T18:16:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:16:07.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
+      "link": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
+      "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
+      "publishedAt": "2026-09-15T18:14:11.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:14:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "summary": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\nComments URL: https://news.ycombinator.com/item?id=49716476\nPoints: 168\n# Comments: 88",
+      "publishedAt": "2026-09-15T18:11:24.000Z",
+      "image": "https://www.strix.ai/blog-baseten-cover.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:11:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "One of the best 3D printers for beginners is almost $100 off",
+      "link": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
+      "summary": "The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge\t\n\nIf the high price tag of premium 3D printers have kept you…",
+      "publishedAt": "2026-09-15T18:02:30.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elegoo-Centauri-Carbon-2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:02:30.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "publishedAt": "2026-09-15T18:00:09.000Z",
+      "image": "https://media.wired.com/photos/6aa82ac8fdb837b60d8caff1/191:100/w_1280,c_limit/I-Tried-to-Gaslight-AI-Actor-Tilly-Norwood-Culture-Talking-Tilly-launch-1-September-2026.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:00:09.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The safety and privacy concerns of storing your driver's license in a digital wallet",
+      "link": "https://www.engadget.com/2256059/safety-privacy-concerns-digital-wallet-storing-drivers-license/",
+      "summary": "A digital driver's license kept in Apple Wallet or Google Wallet is convenient, but you should be aware of its implications on your privacy.",
+      "publishedAt": "2026-09-15T18:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-safety-and-privacy-concerns-of-storing-your-drivers-license-in-a-digital-wallet/l-intro-1789144417.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Google's latest Pixel drop will keep you more connected to your VIPs",
+      "link": "https://www.engadget.com/2258821/google-pixel-update-vip-contacts-scam-detection-gesture-controls/",
+      "summary": "Google has revealed the updates coming with the latest Pixel drop.",
+      "publishedAt": "2026-09-15T18:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/googles-latest-pixel-drop-will-keep-you-more-connected-to-your-vips/l-intro-1789473265.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T18:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+      "link": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
+      "summary": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
+      "publishedAt": "2026-09-15T17:58:09.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2234483586-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-15T17:58:09.000Z"
+    },
     {
       "source": "Engadget",
       "title": "DOJ says companies used Binance to funnel $1.5 billion in crypto to Iran",
@@ -29,39 +344,21 @@
       "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
       "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is t…",
       "publishedAt": "2026-09-15T17:47:51.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MITTR-Roundtables-Zoom-Opening-Overlay-2.png?resize=1200,600",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/September.26_Roundtables-Assets-2.png?resize=1200,600",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-15T17:47:51.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
-      "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-      "summary": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
-      "publishedAt": "2026-09-15T15:49:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "X-viewing services Nitter and XCancel shut down after threats of legal action",
-          "link": "https://www.engadget.com/2259317/x-viewing-services-nitter-and-xcancel-shut-down-after-threats-of-legal-action/",
-          "publishedAt": "2026-09-15T17:46:33.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-15T17:46:33.000Z"
-    },
-    {
       "source": "Engadget",
-      "title": "A Googlebook 'celebration' event is set for October 5",
-      "link": "https://www.engadget.com/2259313/a-googlebook-celebration-event-is-set-for-october-5/",
-      "summary": "Preorders start September 21.",
-      "publishedAt": "2026-09-15T17:43:21.000Z",
-      "image": "https://www.engadget.com/img/gallery/a-googlebook-celebration-event-is-set-for-october-5/l-intro-1789494106.jpg",
+      "title": "X-viewing services Nitter and XCancel shut down after threats of legal action",
+      "link": "https://www.engadget.com/2259317/x-viewing-services-nitter-and-xcancel-shut-down-after-threats-of-legal-action/",
+      "summary": "Press X to pay respects.",
+      "publishedAt": "2026-09-15T17:46:33.000Z",
+      "image": "https://www.engadget.com/img/gallery/x-viewing-services-nitter-and-xcancel-shut-down-after-threats-of-legal-action/l-intro-1789494346.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-15T17:43:21.000Z"
+      "latestActivity": "2026-09-15T17:46:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -75,17 +372,6 @@
       "latestActivity": "2026-09-15T17:42:59.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "What is IMAX Enhanced and do you really need it?",
-      "link": "https://www.engadget.com/2255987/what-is-imax-enhanced/",
-      "summary": "IMAX has a certification for content you view at home as well as in the cinema.",
-      "publishedAt": "2026-09-15T17:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-is-imax-enhanced-and-do-you-really-need-it/l-intro-1789142184.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T17:30:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
       "link": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
@@ -97,21 +383,14 @@
       "latestActivity": "2026-09-15T17:16:01.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-      "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-      "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
-      "publishedAt": "2026-09-15T03:47:36.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/9718607-1152x648.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "US military confirms it launched space weapons into Earth’s orbit",
-          "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-          "publishedAt": "2026-09-15T17:09:06.000Z"
-        }
-      ],
+      "source": "TechCrunch",
+      "title": "US military says it has launched weapons into space",
+      "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+      "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
+      "publishedAt": "2026-09-15T17:09:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-09-15T17:09:06.000Z"
     },
     {
@@ -126,28 +405,6 @@
       "latestActivity": "2026-09-15T17:05:24.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-      "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-      "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that le…",
-      "publishedAt": "2026-09-15T17:02:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/02/Thatch-founders.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T17:02:04.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Are older MacBooks still worth buying in 2026?",
-      "link": "https://www.engadget.com/2255893/older-macbook-still-worth-buying-2026/",
-      "summary": "You'll probably want to avoid Intel-powered MacBooks, but Apple Silicon models are solid.",
-      "publishedAt": "2026-09-15T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/are-older-macbooks-still-worth-buying-in-2026/l-intro-1789138140.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T16:30:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "How The Oregon Trail became a generational icon",
       "link": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
@@ -157,28 +414,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-15T16:18:10.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Amazon's Prime Big Deal Days sale returns in October",
-      "link": "https://www.engadget.com/2259124/amazons-prime-big-deal-days-sale-returns-in-october/",
-      "summary": "Expect big discounts on Amazon's own products, of course.",
-      "publishedAt": "2026-09-15T16:01:55.000Z",
-      "image": "https://www.engadget.com/img/gallery/amazons-prime-big-deal-days-sale-returns-in-october/l-intro-1789488048.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T16:01:55.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-      "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-      "summary": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data…",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/doge-social-security-administration-2197648668.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T16:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -203,50 +438,6 @@
       "latestActivity": "2026-09-15T16:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Refurbished vs. pre-owned phones: What's the difference and which is better?",
-      "link": "https://www.engadget.com/2255880/refurbished-vs-pre-owned-differences-which-is-better/",
-      "summary": "Pre-owned and refurbished devices have various quality standards across marketplaces, so understanding what you're getting is critical.",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/refurbished-vs-pre-owned-phones-whats-the-difference-and-which-is-better/l-intro-1789137466.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "publishedAt": "2026-09-15T15:47:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T15:47:03.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The biggest issues with delivery robots are exactly what you'd think",
-      "link": "https://www.engadget.com/2255845/delivery-robots-biggest-issues/",
-      "summary": "Too often, delivery robots just don't understand the rules of the road (or sidewalk).",
-      "publishedAt": "2026-09-15T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-biggest-issues-with-delivery-robots-are-exactly-what-youd-think/l-intro-1789135688.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T15:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-      "publishedAt": "2026-09-15T15:22:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Profound-founders.jpg?resize=1200,798",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T15:22:48.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Now Light’s minimalist phone can easily call an Uber",
       "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
@@ -269,17 +460,6 @@
       "latestActivity": "2026-09-15T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
-      "link": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
-      "summary": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera…",
-      "publishedAt": "2026-09-15T14:03:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/instax4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T14:03:18.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Trump EPA moves to wipe out climate rules for power plants",
       "link": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
@@ -289,17 +469,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-15T13:43:51.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "summary": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSafe is bringing its AI-powered proactive s…",
-      "publishedAt": "2026-09-15T13:36:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T13:36:45.000Z"
     },
     {
       "source": "Ars Technica",
@@ -324,28 +493,6 @@
       "latestActivity": "2026-09-15T13:06:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
-      "link": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
-      "summary": "Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing te…",
-      "publishedAt": "2026-09-15T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/voice1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
-      "link": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
-      "summary": "The AirPods 5 earbuds and case look identical to the AirPods 4.\t\n\nIt's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and oft…",
-      "publishedAt": "2026-09-15T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T13:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
       "link": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
@@ -366,17 +513,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-15T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "publishedAt": "2026-09-15T12:00:41.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/China-US-AI-race-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T12:00:41.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -423,17 +559,6 @@
       "latestActivity": "2026-09-15T10:30:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The Census Bureau Is Overrun With Staffers From a MAGA Think Tank",
-      "link": "https://www.wired.com/story/a-trump-aligned-think-tank-focused-on-voting-rights-has-taken-over-the-census-bureau/",
-      "summary": "The US Census is home to vast troves of sensitive data on nearly every person living in the country, which is used for apportioning and drawing congressional districts as well as a…",
-      "publishedAt": "2026-09-15T10:15:00.000Z",
-      "image": "https://media.wired.com/photos/6aa81ea759082b83fd22f558/191:100/w_1280,c_limit/AP20345779857727.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T10:15:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -443,39 +568,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-15T10:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-      "publishedAt": "2026-09-15T07:00:30.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_new_Volvo_XC60_and_the_Volvo_XC90_DuoAngle01_HERO-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-15T07:00:30.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-      "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
-      "publishedAt": "2026-09-14T22:06:24.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-14T22:06:24.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-      "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-      "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-      "publishedAt": "2026-09-14T21:32:22.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-14T21:32:22.000Z"
     },
     {
       "source": "MIT Technology Review",
