@@ -1,22 +1,121 @@
 {
-  "syncedAt": "2026-09-17T21:04:19.141Z",
+  "syncedAt": "2026-09-17T23:58:59.443Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Bend",
-      "link": "https://bend-lang.com/",
-      "summary": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 29\n# Comments: 4",
-      "publishedAt": "2026-09-17T20:36:13.000Z",
-      "image": null,
+      "source": "TechCrunch",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "publishedAt": "2026-09-17T23:25:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-17T20:36:13.000Z"
+      "latestActivity": "2026-09-17T23:25:52.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "publishedAt": "2026-09-17T23:21:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T23:21:17.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "publishedAt": "2026-09-17T23:08:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T23:08:24.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "eGPUs do work, but they come with some notable limitations",
+      "link": "https://www.engadget.com/2257761/egpu-come-with-limitations/",
+      "summary": "You're probably better off buying a basic gaming PC than messing with an eGPU.",
+      "publishedAt": "2026-09-17T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/egpus-do-work-but-they-come-with-some-notable-limitations/l-intro-1789403512.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T23:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Google's revamped CC is an AI agent for families and groups",
+      "link": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+      "summary": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
+      "publishedAt": "2026-09-17T22:55:08.000Z",
+      "image": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T22:55:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "publishedAt": "2026-09-17T22:34:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T22:34:09.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
+      "link": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
+      "summary": "The company shared the stat alongside three measurements that help communicate the pace of AI development.",
+      "publishedAt": "2026-09-17T22:30:01.000Z",
+      "image": "https://www.engadget.com/img/gallery/anthropic-says-claude-leads-26-percent-of-its-ai-rd-work/l-intro-1789684114.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T22:30:01.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "publishedAt": "2026-09-17T22:20:21.000Z",
+      "image": "https://media.wired.com/photos/6aab06ffc34fee882b3a156d/191:100/w_1280,c_limit/Uncanny-Valley-Sam-Altman-AI-Risk-Debate-Business-2294955001.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T22:20:21.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "FAA says laser strikes on aircraft fell for the third consecutive year",
+      "link": "https://www.engadget.com/2261903/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/",
+      "summary": "The FAA says the 4,470 laser strikes recorded so far this year is \"still too high.\"",
+      "publishedAt": "2026-09-17T22:15:46.000Z",
+      "image": "https://www.engadget.com/img/gallery/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/l-intro-1789682631.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T22:15:46.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "publishedAt": "2026-09-17T22:14:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T22:14:59.000Z"
     },
     {
       "source": "TechCrunch",
       "title": "The fix for rogue AI agents could be more AI",
       "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can r…",
       "publishedAt": "2026-09-17T20:34:47.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
       "sourceCount": 1,
@@ -57,28 +156,6 @@
       "latestActivity": "2026-09-17T20:19:37.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Astra for Law",
-      "link": "https://openai.com/index/astra-for-law/",
-      "summary": "Article URL: https://openai.com/index/astra-for-law/\nComments URL: https://news.ycombinator.com/item?id=49745940\nPoints: 84\n# Comments: 61",
-      "publishedAt": "2026-09-17T20:17:48.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T20:17:48.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T20:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
       "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
@@ -88,28 +165,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-17T19:58:28.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warne…",
-      "publishedAt": "2026-09-17T19:46:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T19:46:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Everybody's Lost Their Minds",
-      "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-      "summary": "Article URL: https://www.netmeister.org/blog/everybodys-lost-their-minds.html\nComments URL: https://news.ycombinator.com/item?id=49745570\nPoints: 91\n# Comments: 26",
-      "publishedAt": "2026-09-17T19:43:34.000Z",
-      "image": "https://www.netmeister.org/blog/images/tired.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T19:43:34.000Z"
     },
     {
       "source": "The Verge",
@@ -167,61 +222,6 @@
       "latestActivity": "2026-09-17T18:42:25.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Canto: A speech model built for the real world",
-      "link": "https://wisprflow.ai/canto",
-      "summary": "Article URL: https://wisprflow.ai/canto\nComments URL: https://news.ycombinator.com/item?id=49744715\nPoints: 13\n# Comments: 5",
-      "publishedAt": "2026-09-17T18:32:50.000Z",
-      "image": "https://cdn.prod.website-files.com/682f84b3838c89f8ff7667db/6aabaa6763d87840dbfdf60c_canto-og-v2%20(1).jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T18:32:50.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
-      "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-      "summary": "The company suspended service in the city in April after one of its robotaxis got swept away.",
-      "publishedAt": "2026-09-17T18:30:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T18:30:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Don't Make Job Referrals Public",
-      "link": "https://blog.melashri.net/micro/public-job-referral/",
-      "summary": "Article URL: https://blog.melashri.net/micro/public-job-referral/\nComments URL: https://news.ycombinator.com/item?id=49744530\nPoints: 17\n# Comments: 12",
-      "publishedAt": "2026-09-17T18:16:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T18:16:38.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Even the king of England has his hesitations about AI",
-      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "publishedAt": "2026-09-17T17:26:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/JONATHAN-BRADY.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T17:26:25.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "publishedAt": "2026-09-17T17:15:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T17:15:59.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Save $30 or more on a refurbished Apple TV 4K",
       "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
@@ -233,28 +233,6 @@
       "latestActivity": "2026-09-17T17:14:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "T. Rex Had a Body Temperature of 97 Degrees",
-      "link": "https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html",
-      "summary": "gift link:\nhttps://www.nytimes.com/2026/09/16/science/trex-dinosaur-tem...\npaper:\nhttps://www.science.org/doi/10.1126/sciadv.aeb7653\nComments URL: https://news.ycombinator.com/item…",
-      "publishedAt": "2026-09-17T17:13:42.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T17:13:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-      "link": "https://zscc.ai/careers?job_id=109821",
-      "summary": "Article URL: https://zscc.ai/careers?job_id=109821\nComments URL: https://news.ycombinator.com/item?id=49743567\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-09-17T17:00:59.000Z",
-      "image": "https://zscc.ai/opengraph-image?a723873306272b59",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T17:00:59.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Lofi Girl returns with a new house music station and vinyl compilation",
       "link": "https://www.engadget.com/2260588/lofi-girl-returns-with-a-new-house-music-station-and-vinyl-compilation/",
@@ -264,17 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-17T17:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Towards Self-Driving Codebases",
-      "link": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-      "summary": "Article URL: https://blog.detail.dev/posts/towards-self-driving-codebases/\nComments URL: https://news.ycombinator.com/item?id=49743527\nPoints: 68\n# Comments: 62",
-      "publishedAt": "2026-09-17T16:58:31.000Z",
-      "image": "https://blog.detail.dev/viz/hype-cycle.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T16:58:31.000Z"
     },
     {
       "source": "Engadget",
@@ -332,17 +299,6 @@
       "latestActivity": "2026-09-17T15:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Razer refreshes the one-handed Tartarus Pro keyboard with improved switches",
-      "link": "https://www.engadget.com/2257676/razer-refreshes-the-one-handed-tartarus-pro-keyboard-with-improved-switches/",
-      "summary": "The new version of this keyboard-like thingamajig will have some small improvements.",
-      "publishedAt": "2026-09-17T15:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/razer-refreshes-the-one-handed-tartarus-pro-keyboard-with-improved-switches/l-intro-1789401423.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T15:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
       "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
@@ -363,39 +319,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-17T14:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Europe's EU Kids Act would ban social media access for children under 13",
-      "link": "https://www.engadget.com/2261071/europes-eu-kids-act-would-ban-social-media-access-for-children-under-13/",
-      "summary": "It's the most sweeping proposal yet to limit kids' access to social media.",
-      "publishedAt": "2026-09-17T13:16:11.000Z",
-      "image": "https://www.engadget.com/img/gallery/europes-eu-kids-act-would-ban-social-media-access-for-children-under-13/l-intro-1789650905.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T13:16:11.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Roku is giving users access to experimental apps with Roku Labs",
-      "link": "https://www.engadget.com/2260704/roku-is-giving-users-access-to-experimental-apps-with-roku-labs/",
-      "summary": "Trying the apps out also entitles testers to giving feedback that will influence the final versions.",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/roku-is-giving-users-access-to-experimental-apps-with-roku-labs/l-intro-1789588903.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Bose refreshes its Ultra Open Earbuds and adds a new sport model to the lineup",
-      "link": "https://www.engadget.com/2260166/bose-refreshes-its-ultra-open-earbuds-and-adds-a-new-sport-model-to-the-lineup/",
-      "summary": "Both new open-ear products go on sale next month.",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/bose-refreshes-its-ultra-open-earbuds-and-adds-a-new-sport-model-to-the-lineup/l-intro-1789570354.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T13:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -437,17 +360,6 @@
       "summary": "I’m genuinely afraid to go full-volume on the Soundboks Rider, which is built like a party-ready tank.",
       "publishedAt": "2026-09-17T11:00:00.000Z",
       "image": "https://media.wired.com/photos/6aab585cb8f4f863fa05d8a8/191:100/w_1280,c_limit/Review--Soundboks-Rider.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "People Are Pissed Off and Ready to Own Their Shit",
-      "link": "https://www.wired.com/story/people-are-pissed-off-and-ready-to-own-their-shit/",
-      "summary": "A grassroots live tour by YouTuber Louis Rossmann highlights growing resistance to companies that keep people from controlling their devices.",
-      "publishedAt": "2026-09-17T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aa929fe3aba230bcb567487/191:100/w_1280,c_limit/S08_RALEIGH_20260820_003.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-17T11:00:00.000Z"
