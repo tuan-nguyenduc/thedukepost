@@ -1,9 +1,108 @@
 {
-  "syncedAt": "2026-09-17T23:58:59.443Z",
+  "syncedAt": "2026-09-18T04:30:05.550Z",
   "items": [
     {
+      "source": "Hacker News",
+      "title": "Waymo in Singapore",
+      "link": "https://waymo.com/waymo-in-singapore/",
+      "summary": "Article URL: https://waymo.com/waymo-in-singapore/\nComments URL: https://news.ycombinator.com/item?id=49749981\nPoints: 5\n# Comments: 1",
+      "publishedAt": "2026-09-18T03:49:24.000Z",
+      "image": "https://lh3.googleusercontent.com/2wnrIyeTPHdEPuuGNRkayMYx4bgzqvwcfWB62B7olSXEhCG5s0VmQeLcJqlDljcIFgb7C3v8AwsxreaFw6rux910IfZYi215Gq0",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T03:49:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "summary": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/\nComments URL: https://news.ycombinator.com/item?id=49749771\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-09-18T03:04:38.000Z",
+      "image": "https://storage.ghost.io/c/c7/75/c775a216-7ca2-4c5f-96a7-f2defe0fd756/content/images/size/w1200/2026/09/map--3840x2160---1-.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T03:04:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Code Scans",
+      "link": "https://devin.ai/blog/introducing-code-scans",
+      "summary": "Article URL: https://devin.ai/blog/introducing-code-scans\nComments URL: https://news.ycombinator.com/item?id=49749744\nPoints: 8\n# Comments: 0",
+      "publishedAt": "2026-09-18T03:00:40.000Z",
+      "image": "https://devin.ai/images/blog/introducing-code-scans/cover.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T03:00:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hacking OpenAI",
+      "link": "https://www.hacktron.ai/blog/hacking-openai",
+      "summary": "Article URL: https://www.hacktron.ai/blog/hacking-openai\nComments URL: https://news.ycombinator.com/item?id=49749656\nPoints: 78\n# Comments: 23",
+      "publishedAt": "2026-09-18T02:47:24.000Z",
+      "image": "https://www.hacktron.ai/_astro/CwjuS_y3.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T02:47:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+      "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
+      "summary": "Article URL: https://byteshape.com/blogs/Qwen3.8-27B/\nComments URL: https://news.ycombinator.com/item?id=49749393\nPoints: 13\n# Comments: 0",
+      "publishedAt": "2026-09-18T02:04:19.000Z",
+      "image": "https://byteshape.com/blogs/Qwen3.8-27B/images/blog_thumbnail.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T02:04:19.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "summary": "Waymo Ojai fully autonomous ride-hailing vehicle travels along a city street, San Francisco, California, August 20, 2026. (Photo by Smith Collection/Gado/Getty Images) | Gado via G…",
+      "publishedAt": "2026-09-18T02:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291354590.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T02:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "link": "https://askamonk.online",
+      "summary": "Article URL: https://askamonk.online\nComments URL: https://news.ycombinator.com/item?id=49749171\nPoints: 17\n# Comments: 7",
+      "publishedAt": "2026-09-18T01:34:08.000Z",
+      "image": "https://askamonk.online/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T01:34:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "link": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+      "summary": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006\nComments URL: https://news.ycombinator.com/item?id=49748957\nPoints: 25\n# Comments: 9",
+      "publishedAt": "2026-09-18T01:05:03.000Z",
+      "image": "https://www.netnod.se/sites/default/files/styles/opengraph/public/styles/banner/public/2023-06/NETNOD_Time_v4.png?itok=o_C83R9A",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T01:05:03.000Z"
+    },
+    {
       "source": "TechCrunch",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "publishedAt": "2026-09-18T00:02:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T00:02:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "summary": "The round values the data center giant at $30.9 billion.",
       "publishedAt": "2026-09-17T23:25:52.000Z",
@@ -16,7 +115,7 @@
       "source": "TechCrunch",
       "title": "Google DeepMind launches institute to widen the AGI debate",
       "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will…",
       "publishedAt": "2026-09-17T23:21:17.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
       "sourceCount": 1,
@@ -35,6 +134,17 @@
       "latestActivity": "2026-09-17T23:08:24.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash\nComments URL: https://news.ycombinator.com/item?id=49747925\nPoints: 97\n# Comments: 22",
+      "publishedAt": "2026-09-17T23:05:48.000Z",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T23:05:48.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "eGPUs do work, but they come with some notable limitations",
       "link": "https://www.engadget.com/2257761/egpu-come-with-limitations/",
@@ -46,14 +156,21 @@
       "latestActivity": "2026-09-17T23:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Google's revamped CC is an AI agent for families and groups",
-      "link": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
-      "summary": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
-      "publishedAt": "2026-09-17T22:55:08.000Z",
-      "image": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg",
-      "sourceCount": 1,
-      "related": [],
+      "source": "Ars Technica",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "publishedAt": "2026-09-17T20:24:34.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Google's revamped CC is an AI agent for families and groups",
+          "link": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+          "publishedAt": "2026-09-17T22:55:08.000Z"
+        }
+      ],
       "latestActivity": "2026-09-17T22:55:08.000Z"
     },
     {
@@ -66,6 +183,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-17T22:34:09.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+      "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+      "publishedAt": "2026-09-17T22:31:28.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T22:31:28.000Z"
     },
     {
       "source": "Engadget",
@@ -112,6 +240,17 @@
       "latestActivity": "2026-09-17T22:14:59.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "publishedAt": "2026-09-17T22:12:58.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T22:12:58.000Z"
+    },
+    {
       "source": "TechCrunch",
       "title": "The fix for rogue AI agents could be more AI",
       "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
@@ -145,15 +284,15 @@
       "latestActivity": "2026-09-17T20:21:04.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Is the AI safety debate about safety or control?",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "publishedAt": "2026-09-17T20:19:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "source": "Ars Technica",
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "publishedAt": "2026-09-17T20:10:41.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-2560x1440.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-17T20:19:37.000Z"
+      "latestActivity": "2026-09-17T20:10:41.000Z"
     },
     {
       "source": "Wired",
@@ -189,6 +328,17 @@
       "latestActivity": "2026-09-17T19:15:00.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+      "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+      "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
+      "publishedAt": "2026-09-17T19:07:28.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-1152x648-1738189217.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T19:07:28.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "Candy Crush developers are planning a strike for next week",
       "link": "https://www.engadget.com/2261707/candy-crush-developers-are-planning-a-strike-for-next-week/",
@@ -220,6 +370,39 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-17T18:42:25.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "publishedAt": "2026-09-17T18:33:13.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T18:33:13.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
+      "link": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
+      "summary": "The IV drips included glutathione, which was not made to be injected.",
+      "publishedAt": "2026-09-17T17:43:50.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1155940802-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T17:43:50.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
+      "link": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
+      "summary": "It’s spacious, efficient, and charges very quickly. But what about reliability concerns?",
+      "publishedAt": "2026-09-17T17:30:30.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Hyundai-Ioniq-5-1-of-10-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-17T17:30:30.000Z"
     },
     {
       "source": "The Verge",
@@ -310,17 +493,6 @@
       "latestActivity": "2026-09-17T14:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "AI is feared globally as the destroyer of jobs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "summary": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew\t\n\nPew Research has published a new global surv…",
-      "publishedAt": "2026-09-17T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pew-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T14:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: mice with part-human brains and climate tech innovators",
       "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
@@ -376,99 +548,15 @@
       "latestActivity": "2026-09-17T10:00:00.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-      "publishedAt": "2026-09-16T22:02:46.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-16T22:02:46.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-      "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
-      "publishedAt": "2026-09-16T21:42:09.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-681946574-713x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-16T21:42:09.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-      "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "summary": "Group plans to be largely out of commission for several weeks.",
-      "publishedAt": "2026-09-16T21:08:14.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-16T21:08:14.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-      "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-      "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
-      "publishedAt": "2026-09-16T20:44:41.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sunrise-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-16T20:44:41.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-      "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-      "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
-      "publishedAt": "2026-09-16T20:23:16.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/steam.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-16T20:23:16.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "California may gut state net neutrality law to comply with Trump admin demand",
-      "link": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
-      "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
-      "publishedAt": "2026-09-16T19:36:44.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-network-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-16T19:36:44.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
       "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this ro…",
       "publishedAt": "2026-09-16T15:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_HumanBrainTissueMice.jpg?resize=1200,600",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "Researchers swap in human brain cells for a mouse's cortex",
-          "link": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
-          "publishedAt": "2026-09-16T19:08:34.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-16T19:08:34.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Scientists develop new method for deciphering ancient scrolls",
-      "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-      "summary": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.",
-      "publishedAt": "2026-09-16T18:43:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/scrollTOP-1152x648-1789248616.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-16T18:43:23.000Z"
+      "latestActivity": "2026-09-16T15:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
