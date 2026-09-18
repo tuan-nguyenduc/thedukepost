@@ -1,6 +1,145 @@
 {
-  "syncedAt": "2026-09-18T20:36:11.074Z",
+  "syncedAt": "2026-09-18T23:57:51.626Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "publishedAt": "2026-09-18T23:25:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T23:25:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "publishedAt": "2026-09-18T23:13:31.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T23:13:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "publishedAt": "2026-09-18T23:12:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T23:12:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design\nComments URL: https://news.ycombinator.com/item?id=49761432\nPoints: 19\n# Comments: 11",
+      "publishedAt": "2026-09-18T23:04:17.000Z",
+      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T23:04:17.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "summary": "But the military's overall use of AI seems to be accelerating.",
+      "publishedAt": "2026-09-18T20:26:33.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "AI almost led the US military to start a war with China, report says",
+          "link": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
+          "publishedAt": "2026-09-18T22:44:45.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-18T22:44:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+      "link": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+      "summary": "Article URL: https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/\nComments URL: https://news.ycombinat…",
+      "publishedAt": "2026-09-18T22:35:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T22:35:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "publishedAt": "2026-09-18T21:44:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T21:44:33.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom…",
+      "publishedAt": "2026-09-18T21:07:24.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T21:07:24.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Sony Music and UMG say Suno's new models still violates their copyright",
+      "link": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/",
+      "summary": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.",
+      "publishedAt": "2026-09-18T21:06:27.000Z",
+      "image": "https://www.engadget.com/img/gallery/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/l-intro-1789765357.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T21:06:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 408\n# Comments: 148",
+      "publishedAt": "2026-09-18T21:00:32.000Z",
+      "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DClaude%2BCode%2Bchangelog%26description%3DRelease%2Bnotes%2Bfor%2BClaude%2BCode%252C%2Bincluding%2Bnew%2Bfeatures%252C%2Bimprovements%252C%2Band%2Bbug%2Bfixes%2Bby%2Bversion.%26theme%3D03628e99c753a03aec319053&w=1200&q=100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T21:00:32.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Clicks Communicator shipments begin in December",
+      "link": "https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december/",
+      "summary": "The BlackBerry-like phone also got a spec bump and an impending price hike.",
+      "publishedAt": "2026-09-18T20:53:52.000Z",
+      "image": "https://www.engadget.com/img/gallery/clicks-communicator-shipments-begin-in-december/l-intro-1789764623.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T20:53:52.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
+      "link": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+      "summary": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
+      "publishedAt": "2026-09-18T20:35:11.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T20:35:11.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Automattic names interim CFO after exec departures",
@@ -16,7 +155,7 @@
       "source": "TechCrunch",
       "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
       "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "summary": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+      "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
       "publishedAt": "2026-09-18T20:24:33.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
       "sourceCount": 1,
@@ -33,6 +172,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T20:18:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "summary": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899\nComments URL: https://news.ycombinator.com/item?id=49759466\nPoints…",
+      "publishedAt": "2026-09-18T20:02:54.000Z",
+      "image": "https://image.koreajoongangdaily.com/12869908.jpg?imageId=12869908&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T20:02:54.000Z"
     },
     {
       "source": "Wired",
@@ -68,6 +218,28 @@
       "latestActivity": "2026-09-18T19:20:50.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 424\n# Comments: 202",
+      "publishedAt": "2026-09-18T19:03:09.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T19:03:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "link": "https://arxiv.org/abs/2609.02852",
+      "summary": "Article URL: https://arxiv.org/abs/2609.02852\nComments URL: https://news.ycombinator.com/item?id=49758689\nPoints: 44\n# Comments: 17",
+      "publishedAt": "2026-09-18T19:00:06.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T19:00:06.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "The new Resident Evil movie captures the survival horror magic of the games",
       "link": "https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/",
@@ -77,6 +249,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T18:56:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "link": "https://arxiv.org/abs/2510.03215",
+      "summary": "Article URL: https://arxiv.org/abs/2510.03215\nComments URL: https://news.ycombinator.com/item?id=49758615\nPoints: 59\n# Comments: 11",
+      "publishedAt": "2026-09-18T18:55:35.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T18:55:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Saving another 100TB of RAM",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\nComments URL: https://news.ycombinator.com/item?id=49758580\nPoints: 185\n# Comments: 36",
+      "publishedAt": "2026-09-18T18:51:46.000Z",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M2PFY1FZ7AH3P8JEQCDM9YWH.01M2PFY2XJ3KBV9JD78JMJK88K.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T18:51:46.000Z"
     },
     {
       "source": "TechCrunch",
@@ -134,17 +328,6 @@
       "latestActivity": "2026-09-18T18:22:10.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "publishedAt": "2026-09-18T17:59:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T17:59:53.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
       "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
@@ -167,28 +350,6 @@
       "latestActivity": "2026-09-18T17:49:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "In India, the new iPhone can arrive faster than a pizza",
-      "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-      "publishedAt": "2026-09-18T17:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T17:45:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping li…",
-      "publishedAt": "2026-09-18T17:33:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T17:33:50.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "US government website used Chinese model the FBI called \"malicious\"",
       "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
@@ -198,17 +359,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T17:28:50.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "publishedAt": "2026-09-18T17:26:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T17:26:41.000Z"
     },
     {
       "source": "The Verge",
@@ -317,39 +467,6 @@
       "latestActivity": "2026-09-18T15:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-      "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
-      "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X…",
-      "publishedAt": "2026-09-18T14:51:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lenovodeals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T14:51:26.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The Street Fighter movie popcorn bucket is gloriously goofy",
-      "link": "https://www.engadget.com/2262242/street-fighter-movie-popcorn-bucket-is-gloriously-goofy/",
-      "summary": "The Street Figher popcorn bucket could make things easier for anyone planning to dress as Guile for Halloween.",
-      "publishedAt": "2026-09-18T14:30:18.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-street-fighter-movie-popcorn-bucket-is-gloriously-goofy/l-intro-1789741750.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T14:30:18.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple AirPods 5 review: The choice is clear",
-      "link": "https://www.engadget.com/2261751/apple-airpods-5-review/",
-      "summary": "The most notable AirPods 5 upgrades are available on both models, but you'll be happier with the pricier one.",
-      "publishedAt": "2026-09-18T14:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-airpods-5-review-spend-the-extra-20/l-intro-1789670880.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T14:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Meet the winner of Nikon's Small World in Motion video contest",
       "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
@@ -381,28 +498,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Samsung Galaxy S26 FE review: An incremental price hike for incremental updates",
-      "link": "https://www.engadget.com/2260026/samsung-galaxy-s26-fe-review/",
-      "summary": "It's tough times for the midrange phone.",
-      "publishedAt": "2026-09-18T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-s26-fe-review-an-incremental-price-hike-for-incremental-updates/l-intro-1789562892.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Anthropic has set up a bio research lab for physical experiments",
-      "link": "https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/",
-      "summary": "Anthropic now has its own bio research lab in San Francisco.",
-      "publishedAt": "2026-09-18T12:21:57.000Z",
-      "image": "https://www.engadget.com/img/gallery/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/l-intro-1789733999.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T12:21:57.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -458,17 +553,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-      "summary": "The USPSTF sets insurance coverage for preventive services, like colonoscopies.",
-      "publishedAt": "2026-09-17T22:31:28.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-17T22:31:28.000Z"
     },
     {
       "source": "MIT Technology Review",
