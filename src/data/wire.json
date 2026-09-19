@@ -1,6 +1,145 @@
 {
-  "syncedAt": "2026-09-19T18:28:36.445Z",
+  "syncedAt": "2026-09-19T22:13:36.683Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Mayday Mysteries",
+      "link": "http://www.maydaymystery.org/mayday/",
+      "summary": "Article URL: http://www.maydaymystery.org/mayday/\nComments URL: https://news.ycombinator.com/item?id=49770362\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-09-19T21:43:09.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T21:43:09.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But…",
+      "publishedAt": "2026-09-19T20:44:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T20:44:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "English: A vs. An",
+      "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/\nComments URL: https://news.ycombinator.com/item?id=49769944\nPoints: 12\n# Comments: 0",
+      "publishedAt": "2026-09-19T20:41:26.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T20:41:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "publishedAt": "2026-09-19T20:39:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T20:39:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "link": "https://ooni.org/install",
+      "summary": "Article URL: https://ooni.org/install\nComments URL: https://news.ycombinator.com/item?id=49769676\nPoints: 41\n# Comments: 21",
+      "publishedAt": "2026-09-19T20:00:59.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T20:00:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Now Trump says he's creating an AI Force",
+      "link": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
+      "summary": "The president said he will soon announce an \"AI czar\" to run this newly made-up agency.",
+      "publishedAt": "2026-09-19T19:22:20.000Z",
+      "image": "https://www.engadget.com/img/gallery/now-trump-says-hes-creating-an-ai-force/l-intro-1789845347.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "publishedAt": "2026-09-19T19:57:47.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-19T19:57:47.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "SpaceX targets September 28 for Starship's first orbital flight",
+      "link": "https://www.engadget.com/2263238/spacex-targets-september-28-for-the-starships-first-orbital-flight/",
+      "summary": "For Starship's 14th test flight, it will orbit our planet multiple times for 10 hours.",
+      "publishedAt": "2026-09-19T19:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/spacex-targets-september-28-for-starships-first-orbital-flight/l-intro-1789845774.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T19:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "link": "https://eprint.iacr.org/2026/2039",
+      "summary": "Article URL: https://eprint.iacr.org/2026/2039\nComments URL: https://news.ycombinator.com/item?id=49769405\nPoints: 36\n# Comments: 5",
+      "publishedAt": "2026-09-19T19:23:23.000Z",
+      "image": "https://eprint.iacr.org/img/iacrlogo.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T19:23:23.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+      "link": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+      "summary": "This move represents the first step in the CEO's plan to slow down AI development.",
+      "publishedAt": "2026-09-19T18:33:46.000Z",
+      "image": "https://www.engadget.com/img/gallery/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/l-intro-1789841893.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T18:33:46.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why buy a streaming device when you have a smart TV?",
+      "link": "https://www.engadget.com/2257809/why-buy-streaming-device-when-have-smart-tv/",
+      "summary": "Many modern TVs can stream apps like Netflix and Prime. But you may want to get a streaming device too.",
+      "publishedAt": "2026-09-19T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-buy-a-streaming-device-when-you-have-a-smart-tv/l-intro-1788795557.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T18:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-…",
+      "publishedAt": "2026-09-19T18:21:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4-2000-80.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T18:21:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "summary": "Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/\nComments URL: https://news.ycombinator.com/item?id=49768833\nPoints: 75\n# Comments: 70",
+      "publishedAt": "2026-09-19T18:11:40.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T18:11:40.000Z"
+    },
     {
       "source": "Engadget",
       "title": "You can use DeX on the Galaxy Z Fold 8's inner screen with this trick",
@@ -11,17 +150,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-19T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "People who know the most often sound the least certain",
-      "link": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
-      "summary": "Article URL: https://vrash.substack.com/p/the-people-who-know-the-most-often\nComments URL: https://news.ycombinator.com/item?id=49768606\nPoints: 16\n# Comments: 4",
-      "publishedAt": "2026-09-19T17:42:43.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T17:42:43.000Z"
     },
     {
       "source": "The Verge",
@@ -87,20 +215,20 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
       "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
       "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's update…",
       "publishedAt": "2026-09-19T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-19T17:00:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Almost Never Use AI to Write Anything Substantive",
+      "title": "I think you should almost never use AI to write",
       "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\nComments URL: https://news.ycombinator.com/item?id=49767937\nPoints: 44\n# Comments: 24",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\nComments URL: https://news.ycombinator.com/item?id=49767937\nPoints: 157\n# Comments: 94",
       "publishedAt": "2026-09-19T16:35:24.000Z",
       "image": null,
       "sourceCount": 1,
@@ -117,28 +245,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-19T16:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here's why some monitors have two USB ports (and the best ways to use them)",
-      "link": "https://www.engadget.com/2258096/why-monitor-two-usb-ports-explained/",
-      "summary": "These ports are often part of a built-in USB hub, letting you keep desk accessories connected to the monitor instead of occupying ports on your computer.",
-      "publishedAt": "2026-09-19T16:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-why-some-monitors-have-two-usb-ports-and-the-best-ways-to-use-them/l-intro-1789412490.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T16:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Which tech upgrades are worth making to your car's old sound system?",
-      "link": "https://www.engadget.com/2257900/tech-upgrades-worth-making-car-old-sound-system/",
-      "summary": "You can upgrade an older car with modern tech to enable Bluetooth, CarPlay and more. Your options depend on your car and what you need most.",
-      "publishedAt": "2026-09-19T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/which-tech-upgrades-are-worth-making-to-your-cars-old-sound-system/l-intro-1789407214.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T15:30:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -185,39 +291,6 @@
       "latestActivity": "2026-09-19T15:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How to block and unblock a number on your Android phone",
-      "link": "https://www.engadget.com/2257824/how-to-block-unblock-number-android-phone/",
-      "summary": "Unwanted calls and texts are a part of modern-day life, but you can block and unblock numbers that are repeat offenders.",
-      "publishedAt": "2026-09-19T15:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-block-and-unblock-a-number-on-your-android-phone/l-intro-1789140506.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter",
-      "link": "https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/",
-      "summary": "The AP30 Music Boy is just the latest example of \"dumb\" tech's resurgence.",
-      "publishedAt": "2026-09-19T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/this-game-boy-inspired-hi-res-music-player-raised-over-500000-on-kickstarter/l-intro-1788985357.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A graphical desktop for the ZX Spectrum",
-      "link": "https://github.com/mindbox77/zxdesk",
-      "summary": "Article URL: https://github.com/mindbox77/zxdesk\nComments URL: https://news.ycombinator.com/item?id=49766676\nPoints: 99\n# Comments: 81",
-      "publishedAt": "2026-09-19T14:01:58.000Z",
-      "image": "https://opengraph.githubassets.com/59863c30b2f45a7ccb8509d4ced8be02cfdeb88ba60a2375ddda986ef70a797e/mindbox77/zxdesk",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T14:01:58.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
       "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
@@ -238,28 +311,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What Zig felt like, coming from Rust",
-      "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "summary": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\nComments URL: https://news.ycombinator.com/item?id=49766637\nPoints: 130\n# Comments: 139",
-      "publishedAt": "2026-09-19T13:55:18.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T13:55:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tin: full-text search for Postgres",
-      "link": "https://planetscale.com/blog/introducing-tin",
-      "summary": "Article URL: https://planetscale.com/blog/introducing-tin\nComments URL: https://news.ycombinator.com/item?id=49766611\nPoints: 109\n# Comments: 53",
-      "publishedAt": "2026-09-19T13:52:06.000Z",
-      "image": "https://planetscale.com/assets/introducing-tin-social-BxZcr7Qp.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T13:52:06.000Z"
     },
     {
       "source": "TechCrunch",
@@ -315,17 +366,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-19T11:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
-      "link": "https://laya.convaiinnovations.com/",
-      "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 700\n# Comments: 162",
-      "publishedAt": "2026-09-19T10:46:58.000Z",
-      "image": "https://laya-ai.vercel.app/laya_vs_jev_full.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T10:46:58.000Z"
     },
     {
       "source": "Wired",
@@ -405,17 +445,6 @@
       "latestActivity": "2026-09-19T09:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "AI-generated posters don’t have to be horrible",
-      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 898\n# Comments: 535",
-      "publishedAt": "2026-09-19T09:20:58.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T09:20:58.000Z"
-    },
-    {
       "source": "Wired",
       "title": "6 Best VPN Services (2026), Tested and Reviewed",
       "link": "https://www.wired.com/gallery/best-vpn/",
@@ -425,39 +454,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-19T09:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "publishedAt": "2026-09-19T01:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T01:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "publishedAt": "2026-09-19T00:12:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T00:12:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom…",
-      "publishedAt": "2026-09-18T21:07:24.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T21:07:24.000Z"
     },
     {
       "source": "Ars Technica",
