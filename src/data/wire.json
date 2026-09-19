@@ -1,9 +1,86 @@
 {
-  "syncedAt": "2026-09-18T23:57:51.626Z",
+  "syncedAt": "2026-09-19T04:25:32.511Z",
   "items": [
     {
+      "source": "Hacker News",
+      "title": "SDCC – Small Device C Compiler",
+      "link": "https://sdcc.sourceforge.net/",
+      "summary": "Article URL: https://sdcc.sourceforge.net/\nComments URL: https://news.ycombinator.com/item?id=49762744\nPoints: 20\n# Comments: 3",
+      "publishedAt": "2026-09-19T02:32:36.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T02:32:36.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Flock Offers Employees Buyouts as Customers Flee",
+      "link": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+      "summary": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+      "publishedAt": "2026-09-19T02:22:54.000Z",
+      "image": "https://media.wired.com/photos/6aade6510dbdc43ec89970ee/191:100/w_1280,c_limit/2265184841",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T02:22:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Science Is Open Software",
+      "link": "https://jepedersen.dk/blog/202505_research/",
+      "summary": "Article URL: https://jepedersen.dk/blog/202505_research/\nComments URL: https://news.ycombinator.com/item?id=49762687\nPoints: 30\n# Comments: 15",
+      "publishedAt": "2026-09-19T02:21:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T02:21:35.000Z"
+    },
+    {
       "source": "TechCrunch",
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "publishedAt": "2026-09-19T01:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T01:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "link": "https://liveworld.info/",
+      "summary": "Article URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 24\n# Comments: 24",
+      "publishedAt": "2026-09-19T00:30:34.000Z",
+      "image": "https://liveworld.info/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T00:30:34.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "publishedAt": "2026-09-19T00:12:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T00:12:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\nComments URL: https://news.ycombin…",
+      "publishedAt": "2026-09-18T23:54:42.000Z",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/4d38a4b8-98a8-4462-acfa-eb718c19a85d_2bb080b5.jpg?itok=AeGmKIDY&v=1789736650",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-18T23:54:42.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "publishedAt": "2026-09-18T23:25:01.000Z",
@@ -38,7 +115,7 @@
       "source": "Hacker News",
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design\nComments URL: https://news.ycombinator.com/item?id=49761432\nPoints: 19\n# Comments: 11",
+      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design\nComments URL: https://news.ycombinator.com/item?id=49761432\nPoints: 72\n# Comments: 64",
       "publishedAt": "2026-09-18T23:04:17.000Z",
       "image": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
       "sourceCount": 1,
@@ -62,17 +139,6 @@
         }
       ],
       "latestActivity": "2026-09-18T22:44:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
-      "link": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
-      "summary": "Article URL: https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/\nComments URL: https://news.ycombinat…",
-      "publishedAt": "2026-09-18T22:35:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T22:35:10.000Z"
     },
     {
       "source": "TechCrunch",
@@ -111,7 +177,7 @@
       "source": "Hacker News",
       "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
       "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 408\n# Comments: 148",
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 562\n# Comments: 203",
       "publishedAt": "2026-09-18T21:00:32.000Z",
       "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DClaude%2BCode%2Bchangelog%26description%3DRelease%2Bnotes%2Bfor%2BClaude%2BCode%252C%2Bincluding%2Bnew%2Bfeatures%252C%2Bimprovements%252C%2Band%2Bbug%2Bfixes%2Bby%2Bversion.%26theme%3D03628e99c753a03aec319053&w=1200&q=100",
       "sourceCount": 1,
@@ -163,28 +229,6 @@
       "latestActivity": "2026-09-18T20:24:33.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what t…",
-      "publishedAt": "2026-09-18T20:18:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T20:18:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "summary": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899\nComments URL: https://news.ycombinator.com/item?id=49759466\nPoints…",
-      "publishedAt": "2026-09-18T20:02:54.000Z",
-      "image": "https://image.koreajoongangdaily.com/12869908.jpg?imageId=12869908&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T20:02:54.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
       "link": "https://www.wired.com/review/apple-watch-ultra-4/",
@@ -221,7 +265,7 @@
       "source": "Hacker News",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 424\n# Comments: 202",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 646\n# Comments: 317",
       "publishedAt": "2026-09-18T19:03:09.000Z",
       "image": null,
       "sourceCount": 1,
@@ -232,7 +276,7 @@
       "source": "Hacker News",
       "title": "The Implications of Linguistic Illegibility for LLM Security",
       "link": "https://arxiv.org/abs/2609.02852",
-      "summary": "Article URL: https://arxiv.org/abs/2609.02852\nComments URL: https://news.ycombinator.com/item?id=49758689\nPoints: 44\n# Comments: 17",
+      "summary": "Article URL: https://arxiv.org/abs/2609.02852\nComments URL: https://news.ycombinator.com/item?id=49758689\nPoints: 56\n# Comments: 21",
       "publishedAt": "2026-09-18T19:00:06.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
@@ -249,39 +293,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T18:56:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "link": "https://arxiv.org/abs/2510.03215",
-      "summary": "Article URL: https://arxiv.org/abs/2510.03215\nComments URL: https://news.ycombinator.com/item?id=49758615\nPoints: 59\n# Comments: 11",
-      "publishedAt": "2026-09-18T18:55:35.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T18:55:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Saving another 100TB of RAM",
-      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\nComments URL: https://news.ycombinator.com/item?id=49758580\nPoints: 185\n# Comments: 36",
-      "publishedAt": "2026-09-18T18:51:46.000Z",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M2PFY1FZ7AH3P8JEQCDM9YWH.01M2PFY2XJ3KBV9JD78JMJK88K.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T18:51:46.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "publishedAt": "2026-09-18T18:49:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T18:49:30.000Z"
     },
     {
       "source": "Engadget",
@@ -520,17 +531,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T11:29:22.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
-      "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
-      "publishedAt": "2026-09-18T11:07:00.000Z",
-      "image": "https://media.wired.com/photos/6aac48c08bcc778670d64ba8/191:100/w_1280,c_limit/The-Best-Gifts-for-Moms,-From-a-Mom-Who-Tests-Gear.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T11:07:00.000Z"
     },
     {
       "source": "Ars Technica",
