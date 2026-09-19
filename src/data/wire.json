@@ -1,38 +1,181 @@
 {
-  "syncedAt": "2026-09-19T04:25:32.511Z",
+  "syncedAt": "2026-09-19T10:31:08.386Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
+      "link": "https://www.wired.com/review/samsung-galaxy-watch9/",
+      "summary": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
+      "publishedAt": "2026-09-19T10:08:00.000Z",
+      "image": "https://media.wired.com/photos/6aadfb978ffbfab4b483f09a/191:100/w_1280,c_limit/Review--Samsung-Galaxy-Watch9.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T10:08:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "An Editor’s Picks: The Best Gifts for Bird Lovers",
+      "link": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
+      "summary": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
+      "publishedAt": "2026-09-19T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/69f4325923bfb7bf0cbdff79/191:100/w_1280,c_limit/The-Best-Gifts-for-Bird-Lovers.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "publishedAt": "2026-09-19T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aad73fd03ca378a32980599/191:100/w_1280,c_limit/091826-Math%20Hate%20AI.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
+      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "publishedAt": "2026-09-19T09:39:00.000Z",
+      "image": "https://media.wired.com/photos/6aade6d4a9e8cfe3a855c8d8/191:100/w_1280,c_limit/Prime-Day-Deals-Are-Already-Here.-These-Are-the-Ones-I%E2%80%99d-Buy.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T09:39:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
+      "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
+      "summary": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-inco…",
+      "publishedAt": "2026-09-19T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6aad6cbb8ffbfab4b483eaae/191:100/w_1280,c_limit/IMG_2220.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T09:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AI-generated posters don’t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 51\n# Comments: 25",
+      "publishedAt": "2026-09-19T09:20:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T09:20:58.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "6 Best VPN Services (2026), Tested and Reviewed",
+      "link": "https://www.wired.com/gallery/best-vpn/",
+      "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
+      "publishedAt": "2026-09-19T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/68c88e3fadc88e6a8852f302/191:100/w_1280,c_limit/nordvpn.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T09:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "publishedAt": "2026-09-19T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aad7180245943a17ceca34d/191:100/w_1280,c_limit/WWF_2026_META__1080x1350_Phase%202.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\nComments URL: https://news.ycombinator.com/item?id=49763987\nPoints: 119\n# Comments: 57",
+      "publishedAt": "2026-09-19T06:41:44.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T06:41:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\nComments URL: https://news.ycombinator.com/item?id=497…",
+      "publishedAt": "2026-09-19T06:28:02.000Z",
+      "image": "https://terrytao.wordpress.com/wp-content/uploads/2026/09/image-1.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T06:28:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+      "link": "https://browser.geekbench.com/v7/cpu/389219",
+      "summary": "Article URL: https://browser.geekbench.com/v7/cpu/389219\nComments URL: https://news.ycombinator.com/item?id=49763883\nPoints: 56\n# Comments: 41",
+      "publishedAt": "2026-09-19T06:19:24.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T06:19:24.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+      "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+      "summary": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thou…",
+      "publishedAt": "2026-09-19T06:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aacf62f3ad4bc5bf850d26b/191:100/w_1280,c_limit/8cd1c1fbdbb04c342381a7b512b285b2.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T06:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\nComments URL: https://news.ycombinator.com/item?id=49763697\nPoints: 235\n# Comments: 103",
+      "publishedAt": "2026-09-19T05:48:50.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T05:48:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/\nComments URL: https://news.ycombinator.com/item?id=49763379…",
+      "publishedAt": "2026-09-19T04:44:35.000Z",
+      "image": "https://content.presspage.com/uploads/1906/7d00e021-cc00-499a-abbb-a303d82d269f/1920_ice_prospectivity-hero.png?10000",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T04:44:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "San Francisco Onion Futures Company",
+      "link": "https://onionfutures.com/",
+      "summary": "Article URL: https://onionfutures.com/\nComments URL: https://news.ycombinator.com/item?id=49763296\nPoints: 195\n# Comments: 68",
+      "publishedAt": "2026-09-19T04:23:30.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-19T04:23:30.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "SDCC – Small Device C Compiler",
       "link": "https://sdcc.sourceforge.net/",
-      "summary": "Article URL: https://sdcc.sourceforge.net/\nComments URL: https://news.ycombinator.com/item?id=49762744\nPoints: 20\n# Comments: 3",
+      "summary": "Article URL: https://sdcc.sourceforge.net/\nComments URL: https://news.ycombinator.com/item?id=49762744\nPoints: 83\n# Comments: 18",
       "publishedAt": "2026-09-19T02:32:36.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-19T02:32:36.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Flock Offers Employees Buyouts as Customers Flee",
-      "link": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
-      "summary": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
-      "publishedAt": "2026-09-19T02:22:54.000Z",
-      "image": "https://media.wired.com/photos/6aade6510dbdc43ec89970ee/191:100/w_1280,c_limit/2265184841",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T02:22:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Science Is Open Software",
-      "link": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "Article URL: https://jepedersen.dk/blog/202505_research/\nComments URL: https://news.ycombinator.com/item?id=49762687\nPoints: 30\n# Comments: 15",
-      "publishedAt": "2026-09-19T02:21:35.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T02:21:35.000Z"
     },
     {
       "source": "TechCrunch",
@@ -46,17 +189,6 @@
       "latestActivity": "2026-09-19T01:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-      "link": "https://liveworld.info/",
-      "summary": "Article URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 24\n# Comments: 24",
-      "publishedAt": "2026-09-19T00:30:34.000Z",
-      "image": "https://liveworld.info/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T00:30:34.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
@@ -66,17 +198,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-19T00:12:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\nComments URL: https://news.ycombin…",
-      "publishedAt": "2026-09-18T23:54:42.000Z",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/4d38a4b8-98a8-4462-acfa-eb718c19a85d_2bb080b5.jpg?itok=AeGmKIDY&v=1789736650",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T23:54:42.000Z"
     },
     {
       "source": "TechCrunch",
@@ -112,15 +233,15 @@
       "latestActivity": "2026-09-18T23:12:32.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design\nComments URL: https://news.ycombinator.com/item?id=49761432\nPoints: 72\n# Comments: 64",
-      "publishedAt": "2026-09-18T23:04:17.000Z",
-      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
+      "source": "Engadget",
+      "title": "How Focus mode has changed in iOS 27",
+      "link": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
+      "summary": "iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus.",
+      "publishedAt": "2026-09-18T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-focus-mode-has-changed-in-ios-27/l-intro-1789400547.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-18T23:04:17.000Z"
+      "latestActivity": "2026-09-18T23:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -174,17 +295,6 @@
       "latestActivity": "2026-09-18T21:06:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 562\n# Comments: 203",
-      "publishedAt": "2026-09-18T21:00:32.000Z",
-      "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DClaude%2BCode%2Bchangelog%26description%3DRelease%2Bnotes%2Bfor%2BClaude%2BCode%252C%2Bincluding%2Bnew%2Bfeatures%252C%2Bimprovements%252C%2Band%2Bbug%2Bfixes%2Bby%2Bversion.%26theme%3D03628e99c753a03aec319053&w=1200&q=100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T21:00:32.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Clicks Communicator shipments begin in December",
       "link": "https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december/",
@@ -229,28 +339,6 @@
       "latestActivity": "2026-09-18T20:24:33.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
-      "link": "https://www.wired.com/review/apple-watch-ultra-4/",
-      "summary": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
-      "publishedAt": "2026-09-18T19:36:48.000Z",
-      "image": "https://media.wired.com/photos/6aad913c4bac9edc7d3a0145/191:100/w_1280,c_limit/2293832250",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T19:36:48.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "publishedAt": "2026-09-18T19:21:09.000Z",
-      "image": "https://media.wired.com/photos/6aab266a1bcc9d144a552a68/191:100/w_1280,c_limit/How-AI-Slow-Down-Would-Happen-Business-AB12706.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T19:21:09.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
       "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
@@ -260,28 +348,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T19:20:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 646\n# Comments: 317",
-      "publishedAt": "2026-09-18T19:03:09.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T19:03:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "link": "https://arxiv.org/abs/2609.02852",
-      "summary": "Article URL: https://arxiv.org/abs/2609.02852\nComments URL: https://news.ycombinator.com/item?id=49758689\nPoints: 56\n# Comments: 21",
-      "publishedAt": "2026-09-18T19:00:06.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T19:00:06.000Z"
     },
     {
       "source": "Engadget",
@@ -405,17 +471,6 @@
       "latestActivity": "2026-09-18T16:35:19.000Z"
     },
     {
-      "source": "Wired",
-      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-      "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hack…",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T16:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Researchers used Claude to hack OpenAI",
       "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
@@ -434,17 +489,6 @@
       "latestActivity": "2026-09-18T15:30:16.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The Transformers: The Movie re-review: Still the best (and it's not close)",
-      "link": "https://www.engadget.com/2262294/the-transformers-the-movie-re-review-40th-anniversary/",
-      "summary": "In honor of its 40th anniversary, we celebrate the greatest Transformers movie ever made.",
-      "publishedAt": "2026-09-18T15:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-transformers-the-movie-re-review-still-the-best-and-its-not-close/l-intro-1789742579.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T15:15:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
       "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
@@ -456,28 +500,6 @@
       "latestActivity": "2026-09-18T15:12:41.000Z"
     },
     {
-      "source": "Wired",
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actua…",
-      "publishedAt": "2026-09-18T15:00:08.000Z",
-      "image": "https://media.wired.com/photos/6aa820614ea2a5a4d9e48bf8/191:100/w_1280,c_limit/GettyImages-2258333098.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T15:00:08.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-      "publishedAt": "2026-09-18T15:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aac458c4b08c0385f0a12d8/191:100/w_1280,c_limit/Backchannel-dont-know-enough-about-how-ai-models-work-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T15:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Meet the winner of Nikon's Small World in Motion video contest",
       "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
@@ -487,28 +509,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-18T13:56:57.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-      "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-      "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
-      "publishedAt": "2026-09-18T13:30:00.000Z",
-      "image": "https://media.wired.com/photos/6aac73877233731358b63afc/191:100/w_1280,c_limit/AdoptADataCenter-Bezzy-Hero.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T13:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
-      "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
-      "summary": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstra…",
-      "publishedAt": "2026-09-18T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/191:100/w_1280,c_limit/091626-Flaminggo%20Albania%20Meta.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-18T13:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
