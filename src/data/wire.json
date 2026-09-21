@@ -1,27 +1,38 @@
 {
-  "syncedAt": "2026-09-21T03:59:13.473Z",
+  "syncedAt": "2026-09-21T09:51:09.877Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Deterministic Core, Non-Deterministic Shell",
-      "link": "https://outdata.net/blog/260803",
-      "summary": "Article URL: https://outdata.net/blog/260803\nComments URL: https://news.ycombinator.com/item?id=49782220\nPoints: 10\n# Comments: 1",
-      "publishedAt": "2026-09-21T02:02:45.000Z",
-      "image": "https://outdata.net/favicon-512x512.png",
+      "source": "Wired",
+      "title": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
+      "link": "https://www.wired.com/review/factor-perpared-meals-2026/",
+      "summary": "Factor home-delivery meals have mastered the art of a juicy, medium-rare steak. But inconsistency is still an issue.",
+      "publishedAt": "2026-09-21T09:37:00.000Z",
+      "image": "https://media.wired.com/photos/6aae28bbbd0d09be77a943f2/191:100/w_1280,c_limit/Review--Factor-Prepared-Meals-(2026).jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-21T02:02:45.000Z"
+      "latestActivity": "2026-09-21T09:37:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Why back propagation goes backward",
-      "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-      "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/\nComments URL: https://news.ycombinator.com/item?id=49781693\nPoints: 14\n# Comments: 2",
-      "publishedAt": "2026-09-21T00:42:14.000Z",
-      "image": null,
+      "source": "The Verge",
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continu…",
+      "publishedAt": "2026-09-21T09:21:47.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-21T00:42:14.000Z"
+      "latestActivity": "2026-09-21T09:21:47.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
+      "link": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
+      "summary": "Following a difficult journey, the probe will soon begin unravelling the mysteries of Mercury’s magnetic field and internal structure.",
+      "publishedAt": "2026-09-21T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aac758c7e684437a1d8cee6/191:100/w_1280,c_limit/BepiColombo_Cruise_configuration_1280.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T09:00:00.000Z"
     },
     {
       "source": "Engadget",
@@ -46,17 +57,6 @@
       "latestActivity": "2026-09-21T00:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Amiga Unix, Again",
-      "link": "https://amigaux.org/",
-      "summary": "Article URL: https://amigaux.org/\nComments URL: https://news.ycombinator.com/item?id=49781436\nPoints: 28\n# Comments: 10",
-      "publishedAt": "2026-09-20T23:57:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T23:57:10.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Which major chatbot apps work with CarPlay?",
       "link": "https://www.engadget.com/2260401/major-chatbot-apps-work-with-carplay/",
@@ -66,17 +66,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T23:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-      "link": "https://github.com/BytedTsinghua-SIA/DAPO",
-      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO\nComments URL: https://news.ycombinator.com/item?id=49781138\nPoints: 13\n# Comments: 2",
-      "publishedAt": "2026-09-20T23:19:04.000Z",
-      "image": "https://opengraph.githubassets.com/3b3ba2f12e5c8eed44c2e9e61253b32d6c9c01f84cad81cfea588cdbc449dec8/BytedTsinghua-SIA/DAPO",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T23:19:04.000Z"
     },
     {
       "source": "Engadget",
@@ -101,28 +90,6 @@
       "latestActivity": "2026-09-20T23:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "What happened to the Snowden archive",
-      "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive\nComments URL: https://news.ycombinator.com/item?id=49780820\nPoints: 230\n# Comments: 138",
-      "publishedAt": "2026-09-20T22:35:49.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T22:35:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "link": "https://agentexecutor.io",
-      "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 290\n# Comments: 111",
-      "publishedAt": "2026-09-20T22:32:43.000Z",
-      "image": "/axolotl.svg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T22:32:43.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "How to use Xbox mode on your Windows PC",
       "link": "https://www.engadget.com/2260213/how-to-use-xbox-mode-windows-pc/",
@@ -132,17 +99,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T22:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bill to Ban Private Equity from Owning Medical Practices",
-      "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/\nComments URL: https://news.ycombinator.com/item?id=49780630\nP…",
-      "publishedAt": "2026-09-20T22:13:46.000Z",
-      "image": "https://truthout.org/app/uploads/2026/09/2026_09-17-elizabeth-warren.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T22:13:46.000Z"
     },
     {
       "source": "Engadget",
@@ -165,17 +121,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T21:41:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp\nComments URL: https://news.ycombinator.com/item?id=49780022\nPoints: 45\n# Comments: 15",
-      "publishedAt": "2026-09-20T20:59:02.000Z",
-      "image": "https://opengraph.githubassets.com/d4f2c8375ec5cb7818064cc1ca14c39b0f12ca2b3c96f927a0ad77e7f21fad8d/lfarroco/ogre-battle-64-recomp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T20:59:02.000Z"
     },
     {
       "source": "The Verge",
@@ -234,7 +179,7 @@
     },
     {
       "source": "The Verge",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades.…",
       "publishedAt": "2026-09-20T18:50:18.000Z",
@@ -343,17 +288,6 @@
       "latestActivity": "2026-09-20T12:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is gr…",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T12:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
@@ -440,28 +374,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "How to Avoid Scams and Sketchy Products on Amazon (2026)",
-      "link": "https://www.wired.com/story/how-shop-safe-amazon/",
-      "summary": "Amazon is a murky mess of ads, unknown sellers, misleading sales, and specious information. Stay safe while shopping on Prime Big Deal Days and beyond with these tips and tricks.",
-      "publishedAt": "2026-09-20T09:38:00.000Z",
-      "image": "https://media.wired.com/photos/6849b140ab7f5079900d4624/191:100/w_1280,c_limit/How%20to%20Avoid%20Scams%20and%20Shoddy%20Wares%20on%20Amazon.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T09:38:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
-      "link": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
-      "summary": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
-      "publishedAt": "2026-09-20T09:30:00.000Z",
-      "image": "https://media.wired.com/photos/6aad0d966fc219f441397668/191:100/w_1280,c_limit/091826-What%20Chat%20GOT%20Remember.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T09:30:00.000Z"
     },
     {
       "source": "Ars Technica",
