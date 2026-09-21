@@ -1,38 +1,274 @@
 {
-  "syncedAt": "2026-09-21T16:19:06.352Z",
+  "syncedAt": "2026-09-21T21:48:43.733Z",
   "items": [
     {
-      "source": "Engadget",
-      "title": "Why is there a waitlist for Siri AI in iOS 27?",
-      "link": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist/",
-      "summary": "Siri AI brings a lot of improvements, but you might not be able to use it for a while, even with iOS 27 and a compatible device.",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-is-there-a-waitlist-for-siri-ai-in-ios-27/l-intro-1789650141.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T16:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Good people refuse to do bad things",
-      "link": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/",
-      "summary": "Article URL: https://carette.xyz/posts/good_people_refuse_to_do_bad_things/\nComments URL: https://news.ycombinator.com/item?id=49788592\nPoints: 41\n# Comments: 11",
-      "publishedAt": "2026-09-21T15:31:47.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T15:31:47.000Z"
+      "source": "The Verge",
+      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+      "link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
+      "summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses t…",
+      "publishedAt": "2026-09-21T16:35:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ghaul_08cropped.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Bungie leaders now say the studio's 'not done with Destiny'",
+          "link": "https://www.engadget.com/2264759/bungie-leaders-now-say-the-studio-is-not-done-with-destiny/",
+          "publishedAt": "2026-09-21T21:34:50.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-21T21:34:50.000Z"
     },
     {
       "source": "Engadget",
-      "title": "How Nintendo's Game & Watch was inspired by a calculator and boredom",
-      "link": "https://www.engadget.com/2260782/nintendo-game-watch-explained/",
-      "summary": "The Game & Watch line was one of Nintendo's most successful early game projects, and the man behind it was inspired from an unlikely source.",
-      "publishedAt": "2026-09-21T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-nintendos-game-watch-was-inspired-by-a-calculator-and-boredom/l-intro-1789592504.jpg",
+      "title": "The EU will force data centers to disclose their energy and water use",
+      "link": "https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/",
+      "summary": "The EU has proposed a sustainability labeling system ahead of bringing in minimum data center performance standards.",
+      "publishedAt": "2026-09-21T19:53:53.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/l-intro-1790020155.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "California tightens rules on AI data center energy and water use",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+          "publishedAt": "2026-09-21T20:29:45.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-21T20:29:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "publishedAt": "2026-09-21T20:15:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-21T15:30:00.000Z"
+      "latestActivity": "2026-09-21T20:15:58.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Does your iPhone's Safari browser privacy features actually make you safer?",
+      "link": "https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe/",
+      "summary": "Safari on iPhone is more private than many other browsers by default, but it can't keep your information safe from everything.",
+      "publishedAt": "2026-09-21T20:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/does-your-iphones-safari-browser-privacy-features-actually-make-you-safer/l-intro-1789478473.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T20:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "X now tells users when local laws have reduced their posts' visibility",
+      "link": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/",
+      "summary": "The latest addition to X's Under the Hood feature could stave off claims around shadowbanning.",
+      "publishedAt": "2026-09-21T19:44:35.000Z",
+      "image": "https://www.engadget.com/img/gallery/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/l-intro-1790019777.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T19:44:35.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, Octo…",
+      "publishedAt": "2026-09-21T19:25:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T19:25:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new e…",
+      "publishedAt": "2026-09-21T19:19:21.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T19:19:21.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+      "publishedAt": "2026-09-21T18:33:02.000Z",
+      "image": "https://media.wired.com/photos/6ab15a857fffb9bb745696eb/191:100/w_1280,c_limit/trumpxi.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T18:33:02.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's why Apple's Mac Studio has become so expensive",
+      "link": "https://www.engadget.com/2264291/why-apple-mac-studio-so-expensive/",
+      "summary": "A big part of the story is soaring memory and storage prices, but other factors come into play as well.",
+      "publishedAt": "2026-09-21T18:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-why-apples-mac-studio-has-become-so-expensive/l-intro-1790010905.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T18:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "link": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+      "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
+      "publishedAt": "2026-09-21T16:15:26.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+          "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+          "publishedAt": "2026-09-21T17:42:15.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": " Paramount settles US states' antitrust lawsuit, clearing the way for its Warner Bros. acquisition",
+          "link": "https://www.engadget.com/2264474/paramount-settles-us-state-antitrust-lawsuit-clearing-warner-bros-acquisition-plans/",
+          "publishedAt": "2026-09-21T18:28:27.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-21T18:28:27.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
+      "publishedAt": "2026-09-21T18:23:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-531153042-e1729096517914.jpeg?resize=1200,660",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T18:23:05.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How the iPhone Duo's software is different from a standard iPhone",
+      "link": "https://www.engadget.com/2261250/iphone-duo-vs-standard-software-differences/",
+      "summary": "The iPhone Duo makes some big changes to iOS to account for the foldable design. It affects the camera, multitasking and more.",
+      "publishedAt": "2026-09-21T18:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-the-iphone-duos-software-is-different-from-a-standard-iphone/l-intro-1789657577.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doo…",
+      "publishedAt": "2026-09-21T17:55:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T17:55:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+      "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+      "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone…",
+      "publishedAt": "2026-09-21T17:47:54.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple_CarPlay_Split_Home_View_Screen_Projections_Trailering_dd9a21.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T17:47:54.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country…",
+      "publishedAt": "2026-09-21T17:45:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-musk-graffiti.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T17:45:35.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "If you don't like using Siri, this iOS 27 feature may change your mind",
+      "link": "https://www.engadget.com/2261133/dont-like-siri-ai-ios-27-feature-may-change-mind/",
+      "summary": "Siri has long been known for its stagnation, but that changes with iOS 27 and accompanying releases. Siri has undergone major improvements.",
+      "publishedAt": "2026-09-21T17:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/if-you-dont-like-using-siri-this-ios-27-feature-may-change-your-mind/l-intro-1789654122.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T17:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush",
+      "link": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/",
+      "summary": "Despite admitting to a “component issue,” the company refuses to say what went wrong, how many units are affected in how many countries, and why it won’t recall its $500 AI toothbr…",
+      "publishedAt": "2026-09-21T17:22:19.000Z",
+      "image": "https://media.wired.com/photos/6ab140218da5aa2e264dbbfa/191:100/w_1280,c_limit/092126-Dyson%20Jetbrush%20Leak.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T17:22:19.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+      "publishedAt": "2026-09-21T16:57:26.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T16:57:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+      "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+      "publishedAt": "2026-09-21T16:45:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T16:45:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Russel Vought will reportedly be given veto power over all NIH grants",
+      "link": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+      "summary": "Pending move comes over the objections of the NIH director.",
+      "publishedAt": "2026-09-21T16:40:26.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287518863-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T16:40:26.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "publishedAt": "2026-09-21T16:38:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T16:38:51.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "summary": "The president offered few details on what his proposed new AI Force would do.",
+      "publishedAt": "2026-09-21T15:37:56.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T15:37:56.000Z"
     },
     {
       "source": "The Verge",
@@ -46,116 +282,6 @@
       "latestActivity": "2026-09-21T15:13:32.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m.…",
-      "publishedAt": "2026-09-21T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Puttagunta-Randle-Altman-Fenton-Vishria.png?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T15:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to choose the right USB to USB-C adapter",
-      "link": "https://www.engadget.com/2260753/how-to-choose-right-usb-to-usb-c-adapter/",
-      "summary": "Getting an adapter can open up a world of connectivity and charging options, but specs and brand matter quite a lot. Here's what to look for.",
-      "publishedAt": "2026-09-21T15:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-choose-the-right-usb-to-usb-c-adapter/l-intro-1789591388.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
-      "publishedAt": "2026-09-21T14:39:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/intelligence_hero.width-2200.format-webp.webp?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:39:22.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Google fined $463 million for breaching EU location data rules",
-      "link": "https://www.engadget.com/2263850/google-fined-dollar463-million-for-breaching-eu-location-data-rules/",
-      "summary": "Hardly the first time it's run afoul of EU regulations.",
-      "publishedAt": "2026-09-21T14:31:22.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-fined-463-million-for-breaching-eu-location-data-rules/l-intro-1790000999.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:31:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Meta bans ads for Virginia Woolf play in Spain",
-      "link": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval\nComments URL: https://news.ycombinator.com/item?id…",
-      "publishedAt": "2026-09-21T14:30:39.000Z",
-      "image": "https://i.guim.co.uk/img/media/fe396fd7cd552ed8efd2ede0c9544f9edd4885d2/227_0_3240_2592/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb28d8835dc29f4f8450b4c98e6ba8f7",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:30:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Claude Delusion",
-      "link": "https://pluralistic.net/2026/09/21/sunsetting/",
-      "summary": "Article URL: https://pluralistic.net/2026/09/21/sunsetting/\nComments URL: https://news.ycombinator.com/item?id=49787765\nPoints: 60\n# Comments: 41",
-      "publishedAt": "2026-09-21T14:30:24.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:30:24.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Sept 25.",
-      "publishedAt": "2026-09-21T14:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_1-Speaker_Stein-16x9-Dark.png?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "PS5 vs PS5 Digital Edition: which is the better buy?",
-      "link": "https://www.engadget.com/2260707/ps5-vs-ps5-digital-version-which-is-better-buy/",
-      "summary": "The PS5 has both disc-based and digital-only consoles; the right one for you depends on how you play your games and what else you use the console for.",
-      "publishedAt": "2026-09-21T14:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/ps5-vs-ps5-digital-edition-which-is-the-better-buy/l-intro-1789588964.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Attention is all you have",
-      "link": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "Article URL: https://alicegg.tech/2026/09/21/attention\nComments URL: https://news.ycombinator.com/item?id=49787726\nPoints: 45\n# Comments: 2",
-      "publishedAt": "2026-09-21T14:26:56.000Z",
-      "image": "https://www.alicegg.tech/assets/2026-09-21-attention/tetris.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:26:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
-      "link": "https://digitalescapetools.com/tools/noodlegallery.html",
-      "summary": "Article URL: https://digitalescapetools.com/tools/noodlegallery.html\nComments URL: https://news.ycombinator.com/item?id=49787684\nPoints: 6\n# Comments: 4",
-      "publishedAt": "2026-09-21T14:22:58.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:22:58.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Here’s the iFixit Repairability Rating for the iPhone 18 Pro",
       "link": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/",
@@ -167,91 +293,12 @@
       "latestActivity": "2026-09-21T14:15:09.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to…",
-      "publishedAt": "2026-09-21T14:15:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Startup-Battlefield-200-contestant_Disrupt-2024.jpg?resize=1200,1041",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:15:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
-      "link": "https://www.wired.com/review/apple-mac-mini-m6/",
-      "summary": "Apple has refreshed the Mac Mini with a brand-new chip, the M6. And this time, it’s more focused on AI than ever.",
-      "publishedAt": "2026-09-21T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aae22b9dc76ce434d3ced2e/191:100/w_1280,c_limit/Review--Apple-Mac-Mini-(M6)-2.jpg",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
-          "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-          "publishedAt": "2026-09-21T13:00:24.000Z"
-        },
-        {
-          "source": "Hacker News",
-          "title": "Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough",
-          "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-          "publishedAt": "2026-09-21T14:11:45.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-21T14:11:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/\nComments URL: https://news.ycombinator.com/item?id=49787535\nPoints:…",
-      "publishedAt": "2026-09-21T14:10:49.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:10:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Uber arbitration award over Emily Normandin-Parker's death",
-      "link": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
-      "summary": "Article URL: https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death\nComments URL: https://news.ycombinator.com/item?id=49787523\nPoints: 116\n# Co…",
-      "publishedAt": "2026-09-21T14:09:48.000Z",
-      "image": "https://consumerrights.wiki/images/logo/new_fixed_logo.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:09:48.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Can John Ternus find Apple’s next big thing?",
       "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
       "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.…",
       "publishedAt": "2026-09-21T14:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Petivity's new smart feeder asks the question 'what if Flock, but for cats?'",
-      "link": "https://www.engadget.com/2262397/petivity-new-smart-cat-feeder-asks-the-question-what-if-flock-but-for-cats/",
-      "summary": "In all seriousness, this smart feeder could be quite handy for multi-cat households.",
-      "publishedAt": "2026-09-21T14:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/petivitys-new-smart-feeder-asks-the-question-what-if-flock-but-for-cats/l-intro-1789747055.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T14:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What typically uses the most data on a smartphone?",
-      "link": "https://www.engadget.com/2260677/what-uses-most-data-smartphone/",
-      "summary": "Unless it's connected to Wi-Fi all day every day, your smartphone is using up data almost constantly. Here's where your data is going.",
-      "publishedAt": "2026-09-21T14:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-typically-uses-the-most-data-on-a-smartphone/l-intro-1789587212.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-21T14:00:00.000Z"
@@ -268,17 +315,6 @@
       "latestActivity": "2026-09-21T13:53:46.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
-      "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
-      "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
-      "publishedAt": "2026-09-21T13:49:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/1787270050672.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T13:49:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
       "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
@@ -288,17 +324,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-21T13:36:52.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "USB-A vs. USB-C: What's the difference between them?",
-      "link": "https://www.engadget.com/2260628/usb-a-vs-usb-c-differences-between-explained/",
-      "summary": "USB-C  did away with the annoying requirement to plug in a cable right side up, but USB-A and USB-C have other major differences.",
-      "publishedAt": "2026-09-21T13:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/usb-a-vs-usb-c-whats-the-difference-between-them/l-intro-1789585254.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T13:30:00.000Z"
     },
     {
       "source": "The Verge",
@@ -312,15 +337,22 @@
       "latestActivity": "2026-09-21T13:16:25.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "These are the first five Googlebook laptops",
-      "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "summary": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They'r…",
-      "publishedAt": "2026-09-21T13:01:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T13:01:00.000Z"
+      "source": "Wired",
+      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+      "link": "https://www.wired.com/review/apple-mac-mini-m6/",
+      "summary": "Apple has refreshed the Mac Mini with a brand-new chip, the M6. And this time, it’s more focused on AI than ever.",
+      "publishedAt": "2026-09-21T13:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aae22b9dc76ce434d3ced2e/191:100/w_1280,c_limit/Review--Apple-Mac-Mini-(M6)-2.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+          "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+          "publishedAt": "2026-09-21T13:00:24.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-21T13:00:24.000Z"
     },
     {
       "source": "Ars Technica",
@@ -332,39 +364,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-21T13:00:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The long dream of the Googlebook",
-      "link": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
-      "summary": "Dell’s XPS Googlebook is just one of the devices Google needs to be great.\t\n\nIn late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch…",
-      "publishedAt": "2026-09-21T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
-      "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
-      "summary": "Googlebooks look like fancy Chromebooks at first, but there are interesting software ideas. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nThere are a few things about using a Goog…",
-      "publishedAt": "2026-09-21T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0001_6d6558.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Mac Mini is still mighty, just not as cheap",
-      "link": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review",
-      "summary": "Apple’s little computer gets a little spendy.\t\n\nThere are lots of compact desktop computers out there, but none match the Mac Mini's small size and big power. 2024's redesign reduc…",
-      "publishedAt": "2026-09-21T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T13:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -466,61 +465,6 @@
       "latestActivity": "2026-09-21T10:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The Search for Silicon Valley’s Most Powerful Woman",
-      "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
-      "summary": "Women hold some of the most consequential jobs in tech, but they’re still not cult figures. WIRED investigates why.",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aac71b5d7fc34009fe6c60f/191:100/w_1280,c_limit/silicon-valley-women-power.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Women Still Face Too Much Bullshit—in Silicon Valley and Beyond",
-      "link": "https://www.wired.com/story/wired-women-editors-letter/",
-      "summary": "WIRED dedicating an entire issue to women in 2026 might seem regressive, or obvious, or even unnecessary. We disagree.",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aad7219fce4a3658524c943/191:100/w_1280,c_limit/WIRED_WomenInTechSurvey_web.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T10:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "publishedAt": "2026-09-20T21:41:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_6Days-16X9-Dark.png?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T21:41:08.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what t…",
-      "publishedAt": "2026-09-20T20:29:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T20:29:07.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-      "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-      "summary": "Many of The Boring Company's announced projects have not materialized.",
-      "publishedAt": "2026-09-20T19:38:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T19:38:48.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
@@ -530,50 +474,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T11:07:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Don't call it an SUV: The Ferrari Purosangue review",
-      "link": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
-      "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
-      "publishedAt": "2026-09-20T10:00:02.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T10:00:02.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "T. rex teeth indicate it ran as warm as an elephant",
-      "link": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
-      "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
-      "publishedAt": "2026-09-20T09:00:11.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T09:00:11.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Learning another language may be one of the best ways to keep your brain healthy",
-      "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
-      "summary": "Research suggests that bilingualism can offer cognitive benefits.",
-      "publishedAt": "2026-09-19T11:10:43.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T11:10:43.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Rings around a tiny body have changed over the past decade",
-      "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
-      "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
-      "publishedAt": "2026-09-19T10:00:06.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-19T10:00:06.000Z"
     },
     {
       "source": "MIT Technology Review",
