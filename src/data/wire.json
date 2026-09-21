@@ -1,6 +1,149 @@
 {
-  "syncedAt": "2026-09-20T22:15:59.318Z",
+  "syncedAt": "2026-09-21T03:59:13.473Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Deterministic Core, Non-Deterministic Shell",
+      "link": "https://outdata.net/blog/260803",
+      "summary": "Article URL: https://outdata.net/blog/260803\nComments URL: https://news.ycombinator.com/item?id=49782220\nPoints: 10\n# Comments: 1",
+      "publishedAt": "2026-09-21T02:02:45.000Z",
+      "image": "https://outdata.net/favicon-512x512.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T02:02:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why back propagation goes backward",
+      "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+      "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/\nComments URL: https://news.ycombinator.com/item?id=49781693\nPoints: 14\n# Comments: 2",
+      "publishedAt": "2026-09-21T00:42:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T00:42:14.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "One mobile number, two phones: What is iPhone handoff and which carriers support it?",
+      "link": "https://www.engadget.com/2260552/iphone-handoff-uses-carriers-explained/",
+      "summary": "If you find yourself swapping between two iPhones regularly, whether for work or casual use, you're going to want to set up Handoff.",
+      "publishedAt": "2026-09-21T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/one-mobile-number-two-phones-what-is-iphone-handoff-and-which-carriers-support-it/l-intro-1789133674.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T00:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Wired vs. wireless internet: Which should you choose for your home?",
+      "link": "https://www.engadget.com/2260477/wired-vs-wireless-internet-which-choose-for-home/",
+      "summary": "Wired and wireless internet are both ways that ISPs deliver service to your home, but one isn't necessarily superior to the other.",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/wired-vs-wireless-internet-which-should-you-choose-for-your-home/l-intro-1789580967.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amiga Unix, Again",
+      "link": "https://amigaux.org/",
+      "summary": "Article URL: https://amigaux.org/\nComments URL: https://news.ycombinator.com/item?id=49781436\nPoints: 28\n# Comments: 10",
+      "publishedAt": "2026-09-20T23:57:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T23:57:10.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Which major chatbot apps work with CarPlay?",
+      "link": "https://www.engadget.com/2260401/major-chatbot-apps-work-with-carplay/",
+      "summary": "If you aren't happy with Siri while driving, several other chatbot apps are compatible with CarPlay now.",
+      "publishedAt": "2026-09-20T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/which-major-chatbot-apps-work-with-carplay/l-intro-1789577799.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T23:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "link": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO\nComments URL: https://news.ycombinator.com/item?id=49781138\nPoints: 13\n# Comments: 2",
+      "publishedAt": "2026-09-20T23:19:04.000Z",
+      "image": "https://opengraph.githubassets.com/3b3ba2f12e5c8eed44c2e9e61253b32d6c9c01f84cad81cfea588cdbc449dec8/BytedTsinghua-SIA/DAPO",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T23:19:04.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "7 ways to get free movies and TV channels on your smart TV",
+      "link": "https://www.engadget.com/2262964/ways-to-get-free-movies-channels-on-smart-tv/",
+      "summary": "With the influx of premium streaming services, it can be difficult to find apps that offer access to free movies and TV channels in the sea of options.",
+      "publishedAt": "2026-09-20T23:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/7-ways-to-get-free-movies-and-tv-channels-on-your-smart-tv/l-intro-1784910433.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T23:15:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to join a FaceTime call with your Android phone or Windows PC",
+      "link": "https://www.engadget.com/2260287/how-to-join-facetime-call-android-phone-windows-pc/",
+      "summary": "FaceTime isn't actually an Apple-exclusive feature. While it's not the full experience, joining calls is possible on Android and Windows devices.",
+      "publishedAt": "2026-09-20T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-join-a-facetime-call-with-your-android-phone-or-windows-pc/l-intro-1789574175.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T23:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What happened to the Snowden archive",
+      "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive\nComments URL: https://news.ycombinator.com/item?id=49780820\nPoints: 230\n# Comments: 138",
+      "publishedAt": "2026-09-20T22:35:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T22:35:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "link": "https://agentexecutor.io",
+      "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 290\n# Comments: 111",
+      "publishedAt": "2026-09-20T22:32:43.000Z",
+      "image": "/axolotl.svg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T22:32:43.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use Xbox mode on your Windows PC",
+      "link": "https://www.engadget.com/2260213/how-to-use-xbox-mode-windows-pc/",
+      "summary": "Xbox mode is akin to Big Picture Mode, where you get a gaming-friendly interface that works well with a controller.",
+      "publishedAt": "2026-09-20T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-xbox-mode-on-your-windows-pc/l-intro-1789571252.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T22:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/\nComments URL: https://news.ycombinator.com/item?id=49780630\nP…",
+      "publishedAt": "2026-09-20T22:13:46.000Z",
+      "image": "https://truthout.org/app/uploads/2026/09/2026_09-17-elizabeth-warren.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-20T22:13:46.000Z"
+    },
     {
       "source": "Engadget",
       "title": "SpaceXAI's Grok Bot is in early beta - Here's how to try it",
@@ -11,17 +154,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T22:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nipple tattooist 'frustrated' by online censorship",
-      "link": "https://www.bbc.com/news/articles/cx2z7ejn891o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cx2z7ejn891o\nComments URL: https://news.ycombinator.com/item?id=49780466\nPoints: 3\n# Comments: 0",
-      "publishedAt": "2026-09-20T21:51:09.000Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4a81/live/4af47810-ad15-11f1-826f-933990eae6f0.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T21:51:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -36,22 +168,11 @@
     },
     {
       "source": "Hacker News",
-      "title": "Nobody pays for FOSS, we can force them to",
-      "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-      "summary": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/\nComments URL: https://news.ycombinator.com/item?id=49780064\nPoints: 42\n# Comments: 15",
-      "publishedAt": "2026-09-20T21:04:32.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T21:04:32.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Ogre Battle 64 Recompiled Project at 99.05%",
       "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp\nComments URL: https://news.ycombinator.com/item?id=49780022\nPoints: 4\n# Comments: 2",
+      "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp\nComments URL: https://news.ycombinator.com/item?id=49780022\nPoints: 45\n# Comments: 15",
       "publishedAt": "2026-09-20T20:59:02.000Z",
-      "image": "https://opengraph.githubassets.com/1619a148e06d0f63a690af8ce689207d23579bc8fba5519f3054d3ab5703b715/lfarroco/ogre-battle-64-recomp",
+      "image": "https://opengraph.githubassets.com/d4f2c8375ec5cb7818064cc1ca14c39b0f12ca2b3c96f927a0ad77e7f21fad8d/lfarroco/ogre-battle-64-recomp",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T20:59:02.000Z"
@@ -66,17 +187,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T20:51:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-      "link": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-      "summary": "Article URL: https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/\nComments URL: https://news.ycombinator.com/item?id=497798…",
-      "publishedAt": "2026-09-20T20:32:43.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T20:32:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -101,17 +211,6 @@
       "latestActivity": "2026-09-20T20:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
-      "link": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
-      "summary": "Article URL: https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage\nComments URL: https://news.ycombinator.com/item?id=49779432\nPoints: 76\n# Comments: 20",
-      "publishedAt": "2026-09-20T19:55:36.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T19:55:36.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
       "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
@@ -121,17 +220,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T19:38:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Hierarchy of Money",
-      "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-      "summary": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/\nComments URL: https://news.ycombinator.com/item?id=49779253\nPoints: 44\n# Comments: 9",
-      "publishedAt": "2026-09-20T19:37:43.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T19:37:43.000Z"
     },
     {
       "source": "TechCrunch",
@@ -156,17 +244,6 @@
       "latestActivity": "2026-09-20T18:50:18.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Software Sandboxing: The Basics (2025)",
-      "link": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-      "summary": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/\nComments URL: https://news.ycombinator.com/item?id=49778670\nPoints: 42\n# Comments: 2",
-      "publishedAt": "2026-09-20T18:42:47.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T18:42:47.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Vocci’s ring adds a new form factor to meeting note-taking",
       "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
@@ -176,17 +253,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T18:32:52.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
-      "link": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp/",
-      "summary": "The default sticker options in iMessage and WhatsApp are cool but maybe a little limited. Now, with help from ChatGPT's AI tool, things have got a bit more fun.",
-      "publishedAt": "2026-09-20T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-chatgpt-to-make-stickers-for-imessage-and-whatsapp/l-intro-1789124859.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T18:30:00.000Z"
     },
     {
       "source": "The Verge",
@@ -200,17 +266,6 @@
       "latestActivity": "2026-09-20T18:15:10.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Retroid Pocket unexpectedly expands its Duo lineup with a Lite Plus version",
-      "link": "https://www.engadget.com/2263442/retroid-pocket-unexpectedly-expands-its-duo-lineup-with-a-lite-plus-version/",
-      "summary": "The handheld maker is offering free exchanges for any Duo Lite customers who want to upgrade.",
-      "publishedAt": "2026-09-20T18:07:02.000Z",
-      "image": "https://www.engadget.com/img/gallery/retroid-pocket-unexpectedly-expands-its-duo-lineup-with-a-lite-plus-version/l-intro-1789927347.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T18:07:02.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
@@ -222,67 +277,12 @@
       "latestActivity": "2026-09-20T18:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The benefits of using an E Ink tablet over an iPad",
-      "link": "https://www.engadget.com/2259639/using-e-ink-tablets-over-ipad-benefits/",
-      "summary": "E Ink excels for tasks like reading and note-taking.",
-      "publishedAt": "2026-09-20T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-benefits-of-using-an-e-ink-tablet-over-an-ipad/l-intro-1789507702.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Necessary History of the Oddest Letter: W",
-      "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/\nComments URL: https://news.ycombinator.com/item?id=49778195\nPoints: 69\n# Comments: 42",
-      "publishedAt": "2026-09-20T17:55:57.000Z",
-      "image": "https://s26162.pcdn.co/wp-content/uploads/2026/06/W.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T17:55:57.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to customize the side button on your Samsung Galaxy phone",
-      "link": "https://www.engadget.com/2259632/how-to-customize-samsung-side-button/",
-      "summary": "The side button on Samsung's Galaxy phones has performed different functions over the years, but you can really make it do whatever you want.",
-      "publishedAt": "2026-09-20T17:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-customize-the-side-button-on-your-samsung-galaxy-phone/l-intro-1788956479.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T17:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Joby Aviation completed a fully autonomous flight from California to North Carolina",
-      "link": "https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/",
-      "summary": "The startup is looking to expand beyond electric air taxi rides in major cities.",
-      "publishedAt": "2026-09-20T16:32:47.000Z",
-      "image": "https://www.engadget.com/img/gallery/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/l-intro-1789921812.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T16:32:47.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "New California law will penalize influencers who don’t disclose political ads",
       "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
       "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
       "publishedAt": "2026-09-20T16:30:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1405560217.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-20T16:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What's the 30-degree rule for TVs?",
-      "link": "https://www.engadget.com/2256385/whats-the-30-degree-rule-for-tvs/",
-      "summary": "The Society of Motion Picture and Television Engineers has a simple method for calculating the ideal viewing distance based on your TV size.",
-      "publishedAt": "2026-09-20T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/whats-the-30-degree-rule-for-tvs/l-intro-1788889428.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-20T16:30:00.000Z"
