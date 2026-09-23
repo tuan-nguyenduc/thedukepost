@@ -1,49 +1,382 @@
 {
-  "syncedAt": "2026-09-23T13:26:39.192Z",
+  "syncedAt": "2026-09-23T18:18:14.520Z",
   "items": [
     {
       "source": "TechCrunch",
-      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recomme…",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Taste-Profile_Blog-header.png?resize=1200,458",
+      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+      "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+      "summary": "Disney is raising the prices of Disney+ and Hulu as streaming costs continue to rise across the industry.",
+      "publishedAt": "2026-09-23T18:06:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-23T13:00:00.000Z"
+      "latestActivity": "2026-09-23T18:06:27.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
-      "link": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
-      "summary": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ the…",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/04/linkedin-getty.jpg?w=1200",
+      "source": "Wired",
+      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
+      "publishedAt": "2026-09-23T18:03:00.000Z",
+      "image": "https://media.wired.com/photos/6ab2b2dca5b69d67cc34c6bd/191:100/w_1280,c_limit/Pope-AI-Advisor-Culture-2162988420.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-23T13:00:00.000Z"
+      "latestActivity": "2026-09-23T18:03:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "PitPro’s first tire-changing robot goes live in Canada",
-      "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
-      "summary": "The startup says its automated system can change four tires in under 15 minutes.",
-      "publishedAt": "2026-09-23T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PitProImage1.jpg?resize=1200,675",
+      "source": "The Verge",
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthrop…",
+      "publishedAt": "2026-09-23T18:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-23T13:00:00.000Z"
+      "latestActivity": "2026-09-23T18:00:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Samsung accidentally freezes its smart fridges with a software update",
-      "link": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-      "summary": "Article URL: https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/\nComments URL: https://news.ycombinator.com/item?id=4981…",
-      "publishedAt": "2026-09-23T12:57:59.000Z",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-family-hub-fridge-large.jpg",
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c32l8y8kygdvo\nComments URL: https://news.ycombinator.com/item?id=49819814\nPoints: 20\n# Comments: 2",
+      "publishedAt": "2026-09-23T17:45:30.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9888/live/768b63b0-b771-11f1-a7b2-f3bdba1cd194.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-23T12:57:59.000Z"
+      "latestActivity": "2026-09-23T17:45:30.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The old cybersecurity model is breaking",
+      "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capit…",
+      "publishedAt": "2026-09-23T17:44:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T17:44:02.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Disney+ and Hulu are getting even more expensive (again)",
+      "link": "https://www.engadget.com/2266737/disney-and-hulu-are-getting-even-more-expensive-again/",
+      "summary": "So I guess we're just doing this every year now.",
+      "publishedAt": "2026-09-23T17:41:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/disney-and-hulu-are-getting-even-more-expensive-again/l-intro-1790185230.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T17:41:29.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+      "summary": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures…",
+      "publishedAt": "2026-09-23T17:28:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-highlander-getty.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T17:28:38.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern bor…",
+      "publishedAt": "2026-09-23T17:10:11.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/2026-07-22_BT_0663.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T17:10:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Italian parliament votes for return to nuclear energy",
+      "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "summary": "Article URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567\nComments URL: https://news.ycombinator.com/item?id=49819221\nPoints: 68\n# Comments:…",
+      "publishedAt": "2026-09-23T17:06:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T17:06:16.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "publishedAt": "2026-09-23T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Even Americans who use AI every day are worried about it",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "publishedAt": "2026-09-23T16:49:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2016/02/worried.jpg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T16:49:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "summary": "Article URL: https://unlisted.careers/ghost-jobs/report/2026-09\nComments URL: https://news.ycombinator.com/item?id=49818698\nPoints: 86\n# Comments: 108",
+      "publishedAt": "2026-09-23T16:35:34.000Z",
+      "image": "https://unlisted.careers/ghost-jobs/report/2026-09/opengraph-image?5cc30c15fcbab117",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T16:35:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill des…",
+      "publishedAt": "2026-09-23T16:23:05.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T16:23:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+      "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+      "summary": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+      "publishedAt": "2026-09-23T16:03:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/youtube-communities.jpeg?resize=1200,649",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T16:03:44.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Logitech's Yeti 2 brings the 17-year-old USB mic into the modern age",
+      "link": "https://www.engadget.com/2265713/logitechs-yeti-2-brings-the-17-year-old-usb-mic-into-the-modern-age/",
+      "summary": "In case you missed it, Logitech bough Blue, actually kind of a while ago!",
+      "publishedAt": "2026-09-23T16:01:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/logitechs-yeti-2-brings-the-17-year-old-usb-mic-into-the-modern-age/l-intro-1790101937.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
+          "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
+          "publishedAt": "2026-09-23T16:01:45.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-23T16:01:45.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Logitech just unveiled several new gaming accessories in its Pro line",
+      "link": "https://www.engadget.com/2265768/logitech-just-unveiled-several-new-gaming-accessories-in-its-pro-line/",
+      "summary": "For $60 it had better be a pretty incredible mouse pad.",
+      "publishedAt": "2026-09-23T16:01:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/logitech-just-unveiled-several-new-gaming-accessories-in-its-pro-line/l-intro-1790103226.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T16:01:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Roland just released a Minions keyboard complete with playable gibberish sounds",
+      "link": "https://www.engadget.com/2266564/roland-just-released-a-minions-keyboard-complete-with-playable-gibberish-sounds/",
+      "summary": "That's pretty weird.",
+      "publishedAt": "2026-09-23T16:00:37.000Z",
+      "image": "https://www.engadget.com/img/gallery/roland-just-released-a-minions-keyboard-complete-with-playable-gibberish-sounds/l-intro-1790179155.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T16:00:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+      "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+      "summary": "The X3 also comes in black. “Lunar eclipse” remains an option for the $179.99 X2. | Image: Logitech\t\n\nThe G Pro Superstrike mouse is one of Logitech's most interesting products. Un…",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T16:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR and more",
+      "link": "https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/",
+      "summary": "More smart glasses and possibly a VR headset are expected today",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T16:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+      "publishedAt": "2026-09-23T15:46:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.07.17-AM.png?resize=1200,664",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:46:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
+      "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
+      "summary": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in…",
+      "publishedAt": "2026-09-23T15:45:11.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:45:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What to Know About JavaScript in 2026",
+      "link": "https://blog.master.dev/what-to-know-in-javascript-2026-edition/",
+      "summary": "Article URL: https://blog.master.dev/what-to-know-in-javascript-2026-edition/\nComments URL: https://news.ycombinator.com/item?id=49817636\nPoints: 13\n# Comments: 2",
+      "publishedAt": "2026-09-23T15:30:47.000Z",
+      "image": "https://blog.master.dev/wp-json/social-image-generator/v1/image/8479",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:30:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 3.8 text-to-speech",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\nComments URL: https://news.ycombinator.com/item?id=49817615\nPoints:…",
+      "publishedAt": "2026-09-23T15:29:23.000Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:29:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+      "summary": "Article URL: https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol\nComments URL: https://news.ycombinator.com/item?id=49817524\nPoints: 61\n# Comments: 20",
+      "publishedAt": "2026-09-23T15:23:05.000Z",
+      "image": "https://radicle.dev/assets/images/og-card.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:23:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "publishedAt": "2026-09-23T15:19:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?resize=1200,589",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:19:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fixing the Portobello Police Station Clock",
+      "link": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "summary": "Article URL: https://pointinthecloud.com/2026-04-11-211700.html\nComments URL: https://news.ycombinator.com/item?id=49817469\nPoints: 214\n# Comments: 49",
+      "publishedAt": "2026-09-23T15:18:53.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:18:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "link": "https://drivingbench.com/",
+      "summary": "Article URL: https://drivingbench.com/\nComments URL: https://news.ycombinator.com/item?id=49817404\nPoints: 194\n# Comments: 167",
+      "publishedAt": "2026-09-23T15:14:22.000Z",
+      "image": "https://drivingbench.com/og/home.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:14:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "One of the best Metroid games for the Switch is 30 percent off",
+      "link": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
+      "summary": "Nintendo’s “Customer Appreciation” sale continues through September 26th. It includes discounts on Switch games and accessories, and I thought I’d call out one of my favorite games…",
+      "publishedAt": "2026-09-23T15:01:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/thevergedealsautomaticfeeder.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:01:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "This $199 GPS sports watch is repairable, modular, and open-source",
+      "link": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
+      "summary": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my atte…",
+      "publishedAt": "2026-09-23T15:01:16.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/UNA-takes-on-Apple-and-Garmin-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T15:01:16.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "YouTube’s Custom Feeds Give You More Control Over the Algorithm",
+      "link": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/",
+      "summary": "In YouTube’s latest update, viewers can tweak what the algorithm shows on their front page and curate it to a specific vibe.",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ab2b5c4d5dbe8037c95019e/191:100/w_1280,c_limit/YT_Custom%20Feeds.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "YouTube will soon let you generate custom feeds and use GIFs in comments",
+          "link": "https://www.engadget.com/2266446/youtube-will-soon-let-you-generate-custom-feeds-and-use-gifs-in-comments/",
+          "publishedAt": "2026-09-23T14:59:02.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-23T14:59:02.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration…",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T14:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+      "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+      "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+      "publishedAt": "2026-09-23T14:20:23.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1572803728-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T14:20:23.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "America gave up its rare earth edge. China took full advantage.",
+      "link": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
+      "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
+      "publishedAt": "2026-09-23T13:37:05.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/mpmaterials-1152x648-1790170607.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-23T13:37:05.000Z"
     },
     {
       "source": "Wired",
@@ -57,72 +390,6 @@
       "latestActivity": "2026-09-23T12:54:58.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "What AI-Native Looks Like",
-      "link": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
-      "summary": "Article URL: https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459\nComments URL: https://news.ycombinator.com/item?id=49815344\nPoints: 10\n# Comment…",
-      "publishedAt": "2026-09-23T12:54:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:54:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
-      "link": "https://ivesentit.com",
-      "summary": "Article URL: https://ivesentit.com\nComments URL: https://news.ycombinator.com/item?id=49815168\nPoints: 6\n# Comments: 2",
-      "publishedAt": "2026-09-23T12:36:01.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:36:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-      "summary": "Article URL: https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9\nComments URL: https://news.ycombinator.com/item?…",
-      "publishedAt": "2026-09-23T12:32:00.000Z",
-      "image": "https://i.insider.com/6ab26f10d15f8a572974903e?width=1200&format=jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:32:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-      "link": "https://filmstudio.rxlab.app",
-      "summary": "Hi HN,\nI built RxFilm Studio, a video workspace that lets you create and revise videos with AI agent.\nThe reason I started this project is simple: I’ve noticed that many independen…",
-      "publishedAt": "2026-09-23T12:28:40.000Z",
-      "image": "https://filmstudio.rxlab.app/opengraph-image?eb710ca4bfa629f7",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:28:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "summary": "Article URL: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/\nComments URL: https://news.ycombinator.com/item?id=49814947\nPoints: 120\n# Comments: 44",
-      "publishedAt": "2026-09-23T12:15:33.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:15:33.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
-      "link": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
-      "summary": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software.",
-      "publishedAt": "2026-09-23T12:12:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-7.58.47-AM.png?resize=1200,879",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:12:39.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
       "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
@@ -134,34 +401,12 @@
       "latestActivity": "2026-09-23T12:10:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display",
-      "link": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
-      "summary": "Both 18 Pro phones feature rear displays, just like last year’s 17 Pro models. | Image: Xiaomi\t\n\nXiaomi's new 18 Pro and 18 Pro Max launched in China today, and feature a more flex…",
-      "publishedAt": "2026-09-23T12:04:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-pro-max-pair.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:04:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-      "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
-      "summary": "Article URL: https://questdb.com/careers/pre-sales-engineer-north-america/\nComments URL: https://news.ycombinator.com/item?id=49814780\nPoints: 0\n# Comments: 0",
-      "publishedAt": "2026-09-23T12:01:04.000Z",
-      "image": "https://questdb.com/images/pages/careers/teamSpirit.svg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:01:04.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "source": "Engadget",
+      "title": "Never use ChatGPT for these five tasks",
+      "link": "https://www.engadget.com/2265219/chatgpt-tasks-never-use-for/",
+      "summary": "ChatGPT and other chatbots are useful for a lot, but remember that what you type into them is not protected and could cause trouble later.",
       "publishedAt": "2026-09-23T12:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
+      "image": "https://www.engadget.com/img/gallery/never-use-chatgpt-for-these-five-tasks/l-intro-1790086331.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-23T12:00:00.000Z"
@@ -189,39 +434,6 @@
       "latestActivity": "2026-09-23T11:30:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "DJI Osmo 360 II review: A little more video power, a lot more repairability",
-      "link": "https://www.engadget.com/2260043/dji-osmo-360-ii-review/",
-      "summary": "Replaceable lenses are the hot new feature for an action camera.",
-      "publishedAt": "2026-09-23T11:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/dji-osmo-360-ii-review-a-little-more-video-power-a-lot-more-repairability/l-intro-1789565443.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T11:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Two Git ignore files nobody told me about",
-      "link": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
-      "summary": "Article URL: https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/\nComments URL: https://news.ycombinator.com/item?id=49814432\nPoints: 4\n# Comments: 3",
-      "publishedAt": "2026-09-23T11:28:47.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T11:28:47.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "UK competition watchdog wants to give Android and Chrome users more search engine choices",
-      "link": "https://www.engadget.com/2266226/uk-competition-watchdog-wants-to-give-android-and-chrome-users-more-search-engine-choices/",
-      "summary": "UK regulator is trying to introduce more search choices where Google has the tightest control: Android and Chrome.",
-      "publishedAt": "2026-09-23T11:21:42.000Z",
-      "image": "https://www.engadget.com/img/gallery/uk-competition-watchdog-wants-to-give-android-and-chrome-users-more-search-engine-choices/l-intro-1790162368.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T11:21:42.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Small undersea volcanoes may unleash outsized tsunamis",
       "link": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
@@ -231,17 +443,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-23T11:15:30.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "summary": "Patreon co-founder Sam Yam is joing OpenAI to lead Creator Product. | Image: The Verge\t\n\nOpenAI has hired three former Patreon execs to anchor its product strategy for creators. Af…",
-      "publishedAt": "2026-09-23T11:02:39.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK326_PATREON_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T11:02:39.000Z"
     },
     {
       "source": "Ars Technica",
@@ -255,56 +456,12 @@
       "latestActivity": "2026-09-23T11:00:17.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
-      "link": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
-      "summary": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breat…",
-      "publishedAt": "2026-09-23T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pod6_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T11:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "A Startup Wants to Power Data Centers With ‘Supercritical’ Carbon Dioxide",
       "link": "https://www.wired.com/story/startup-power-data-centers-supercritical-co2/",
       "summary": "The technology could strap onto existing gas turbines and make them more efficient—but it wouldn’t do away with their emissions entirely.",
       "publishedAt": "2026-09-23T11:00:00.000Z",
       "image": "https://media.wired.com/photos/6ab26a1d5108d82b5616e7c8/191:100/w_1280,c_limit/092226-Liquid%20CO2%20Data.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T11:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Eight Sleep announces the Pod 6, its newest smart mattress cover",
-      "link": "https://www.engadget.com/2264386/eight-sleep-announces-the-pod-6-its-newest-smart-mattress-cover/",
-      "summary": "It's $2,000 and it doesn't even read you a bedtime story.",
-      "publishedAt": "2026-09-23T11:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/eight-sleep-announces-the-pod-6-its-newest-smart-mattress-cover/l-intro-1790012783.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T11:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Volkswagen brings Tetris and other games to its infotainment displays",
-      "link": "https://www.engadget.com/2262478/volkswagen-brings-tetris-and-other-games-to-its-infotainment-displays/",
-      "summary": "Pac-Man is doing sponcon... look how they've massacred my boy.",
-      "publishedAt": "2026-09-23T11:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/volkswagen-brings-tetris-and-other-games-to-its-infotainment-displays/l-intro-1789749864.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T11:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to watch Meta unveil its new smart glasses at Connect 2026",
-      "link": "https://www.engadget.com/2265769/how-to-watch-meta-connect-2026-unveil-new-smart-glasses/",
-      "summary": "The company is expected to reveal its first-ever camera-free glasses.",
-      "publishedAt": "2026-09-23T11:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-watch-meta-unveil-its-new-smart-glasses-at-connect-2026/l-intro-1790103155.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-23T11:00:00.000Z"
@@ -343,28 +500,6 @@
       "latestActivity": "2026-09-23T10:30:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-      "link": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-      "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
-      "publishedAt": "2026-09-23T10:15:00.000Z",
-      "image": "https://media.wired.com/photos/6aa145e274a1099024c35a52/191:100/w_1280,c_limit/AT&T-Workforce-Shrink.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T10:15:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "She’s 28, Loves God and Her Family, and Might Be the Reason You Can’t Have Kids",
-      "link": "https://www.wired.com/story/emma-waters-fertility-tech/",
-      "summary": "No IVF. No surrogacy. No polygenic tests. Emma Waters is leading a national fight against fertility tech—with her hot husband’s permission, of course.",
-      "publishedAt": "2026-09-23T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aac4dc6e2c208e563f307c2/191:100/w_1280,c_limit/Grunwald_EmmaWaters_06.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T10:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Smart glasses are already causing havoc in India",
       "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
@@ -374,83 +509,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-23T09:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what…",
-      "publishedAt": "2026-09-23T04:59:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis_c8978d.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T04:59:08.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Discord’s age verification era is upon us, despite community backlash",
-      "link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
-      "summary": "According to Discord, 90% of users will not have to verify their age.",
-      "publishedAt": "2026-09-23T03:31:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T03:31:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forwar…",
-      "publishedAt": "2026-09-23T00:17:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T00:17:17.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The pros and cons of using a password manager over an authenticator app",
-      "link": "https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons/",
-      "summary": "There's no perfect solution, but different authentication methods can work better in some circumstances than others.",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-password-manager-over-an-authenticator-app/l-intro-1789411830.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T00:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "iOS 27: How to hide or replace the audio button in iMessages",
-      "link": "https://www.engadget.com/2264685/how-to-remove-voice-button-iphone-imessages-ios-27/",
-      "summary": "The fact that the \"send\" button shares real estate with the \"record\" button can make dealing with iMessage aggravating.",
-      "publishedAt": "2026-09-22T23:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/ios-27-how-to-hide-or-replace-the-audio-button-in-imessages/l-intro-1790022148.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-22T23:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that m…",
-      "publishedAt": "2026-09-22T23:21:49.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-22T23:21:49.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Paramount will need to release way more movies to make this merger work",
-      "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to beco…",
-      "publishedAt": "2026-09-22T22:26:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB385_PARAMOUNT_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-22T22:26:07.000Z"
     },
     {
       "source": "Ars Technica",
@@ -475,17 +533,6 @@
       "latestActivity": "2026-09-22T21:25:18.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says…",
-      "publishedAt": "2026-09-22T20:52:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-22T20:52:40.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
       "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
@@ -497,28 +544,6 @@
       "latestActivity": "2026-09-22T20:38:30.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
-      "link": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not ele…",
-      "publishedAt": "2026-09-22T20:14:54.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SHOWCAR-SUVSEDAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-22T20:14:54.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-      "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-      "summary": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm\t\n\nQualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8…",
-      "publishedAt": "2026-09-22T20:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-22T20:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
       "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
@@ -528,28 +553,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-22T19:45:47.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-      "publishedAt": "2026-09-22T19:28:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260756748-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-22T19:28:23.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-      "publishedAt": "2026-09-22T19:08:58.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Premiere-Android-1-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-22T19:08:58.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -602,17 +605,6 @@
       "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant…",
       "publishedAt": "2026-09-21T12:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Map-thumbnail-16_9-2.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-21T12:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the…",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP21194653997791.jpg?w=840",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-21T12:00:00.000Z"
