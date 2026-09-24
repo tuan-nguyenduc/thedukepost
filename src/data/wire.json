@@ -1,27 +1,170 @@
 {
-  "syncedAt": "2026-09-24T03:47:38.432Z",
+  "syncedAt": "2026-09-24T09:06:26.640Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Australia says OpenAI agent hacked into government website",
-      "link": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-      "summary": "Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\nComments URL: https://news.ycombinator.com/item?id=49825024\nPoints: 34\n#…",
-      "publishedAt": "2026-09-24T01:24:00.000Z",
-      "image": "https://dam.mediacorp.sg/image/upload/s--F34rAgWg--/c_crop,h_1125,w_2000,x_0,y_104/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/24/2026-09-23t221235z_2100165048_rc27pnac7sm6_rtrmadp_3_openai-cybersecurity-australia.jpg?itok=VI2vl-b5",
+      "source": "The Verge",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his…",
+      "publishedAt": "2026-09-24T09:04:18.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-24T01:24:00.000Z"
+      "latestActivity": "2026-09-24T09:04:18.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Linux Laptops (2026): System76, Framework, and More",
+      "link": "https://www.wired.com/story/best-linux-laptops/",
+      "summary": "Whether you want a beast of a machine with dedicated graphics or a light, easy-to-upgrade PC, we have the perfect rig for you.",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ab3f45939ca508196662ecd/191:100/w_1280,c_limit/The-Best-Linux-Laptops-(I-Install-Linux-on-Every-Laptop-I-Test).jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T09:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Scientists Detect Radio Signals from an Exoplanet for the First Time in History",
+      "link": "https://www.wired.com/story/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/",
+      "summary": "No, it’s not aliens, but a phenomenon caused by magnetic activity that astronomers have never before been able to pin on a specific planet.",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ab40021ca9e238475678f17/191:100/w_1280,c_limit/STScI-01KX448CEBRHBBJW579AG64G0H.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T09:00:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "FLAWED's Flaws and What This Means for Industry Research",
-      "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-      "summary": "Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\nComments URL: https://news.ycombinator.com/item?id=49824969\nPoints: 12\n# Comments: 1",
-      "publishedAt": "2026-09-24T01:16:33.000Z",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\nComments URL: https://news.ycombinator.com/item?id=49827794\nPoints:…",
+      "publishedAt": "2026-09-24T08:23:03.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-24T01:16:33.000Z"
+      "latestActivity": "2026-09-24T08:23:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
+      "summary": "Article URL: https://transluce.org/agent-activity\nComments URL: https://news.ycombinator.com/item?id=49826565\nPoints: 104\n# Comments: 64",
+      "publishedAt": "2026-09-24T05:21:10.000Z",
+      "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T05:21:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
+      "link": "https://www.youtube.com/watch?v=UCMRgvyTm08",
+      "summary": "Article URL: https://www.youtube.com/watch?v=UCMRgvyTm08\nComments URL: https://news.ycombinator.com/item?id=49826482\nPoints: 51\n# Comments: 28",
+      "publishedAt": "2026-09-24T05:07:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T05:07:58.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "TurboTax Full Service Coupons This September 2026",
+      "link": "https://www.wired.com/story/turbotax-coupon/",
+      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "publishedAt": "2026-09-24T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Chewy Promo Codes: $20 Off September 2026",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
+      "publishedAt": "2026-09-24T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/191:100/w_1280,c_limit/WIRED-Coupons-6.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Peacock Promo Codes: 40% Off September 2026",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "publishedAt": "2026-09-24T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026",
+      "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
+      "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
+      "publishedAt": "2026-09-24T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/191:100/w_1280,c_limit/WIRED-Coupons-R2_11.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "AirDoctor Coupon Codes: 40% Off | September 2026",
+      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "publishedAt": "2026-09-24T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T05:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "50% Off DoorDash Promo Code | September 2026",
+      "link": "https://www.wired.com/story/doordash-promo-code/",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "publishedAt": "2026-09-24T05:00:00.000Z",
+      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/191:100/w_1280,c_limit/WIRED-Coupons-10.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T05:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Contrastive Language Models",
+      "link": "https://contrastive-lm.notion.site/",
+      "summary": "Article URL: https://contrastive-lm.notion.site/\nComments URL: https://news.ycombinator.com/item?id=49826221\nPoints: 59\n# Comments: 13",
+      "publishedAt": "2026-09-24T04:20:59.000Z",
+      "image": "https://contrastive-lm.notion.site/image/attachment%3Af8605438-b885-42dd-b36d-1fc1a8748013%3ASocialMediaPreviewImage.png?table=block&id=3e466c3c-12a8-801f-9279-f8c0ba3c98f3&spaceId=59b4b732-2399-4ed0-b86b-b5dd420bb513&width=2000&userId=&cache=v2&imgBuildSrc=pageMetadataCover",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T04:20:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ideas on modernizing the open-source desktop",
+      "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/\nComments URL: https://news.ycombinator.com/item?id=49825642\nPoints: 113\n# Comments: 76",
+      "publishedAt": "2026-09-24T02:52:09.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T02:52:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "summary": "Article URL: https://www.bbc.com/news/live/cvgl73pxgndwt\nComments URL: https://news.ycombinator.com/item?id=49825580\nPoints: 42\n# Comments: 5",
+      "publishedAt": "2026-09-24T02:44:48.000Z",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-24T02:44:48.000Z"
     },
     {
       "source": "The Verge",
@@ -30,14 +173,8 @@
       "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. U…",
       "publishedAt": "2026-09-23T23:40:56.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Hearing-enhancement-16x9-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 4,
+      "sourceCount": 3,
       "related": [
-        {
-          "source": "Wired",
-          "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
-          "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
-          "publishedAt": "2026-09-24T00:00:00.000Z"
-        },
         {
           "source": "Engadget",
           "title": "Meta will stop training its AI on 'visual data' from its smart glasses — if you opt out",
@@ -57,9 +194,9 @@
       "source": "Hacker News",
       "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
       "link": "https://github.com/nestrilabs/virtio-nvgpu",
-      "summary": "Article URL: https://github.com/nestrilabs/virtio-nvgpu\nComments URL: https://news.ycombinator.com/item?id=49824864\nPoints: 20\n# Comments: 14",
+      "summary": "Article URL: https://github.com/nestrilabs/virtio-nvgpu\nComments URL: https://news.ycombinator.com/item?id=49824864\nPoints: 92\n# Comments: 41",
       "publishedAt": "2026-09-24T01:02:23.000Z",
-      "image": "https://opengraph.githubassets.com/bbdc3cad1f4fb641650dd701b49000169781fa106f9b147832d14889d01658d1/nestrilabs/virtio-nvgpu",
+      "image": "https://opengraph.githubassets.com/181eee0ba092813286e1b86d8a767620fba9c50b214f9526946c1aaab1b2f2cf/nestrilabs/virtio-nvgpu",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-24T01:02:23.000Z"
@@ -86,23 +223,12 @@
       "source": "Hacker News",
       "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
       "link": "https://carbon.ms/self-hosted",
-      "summary": "Article URL: https://carbon.ms/self-hosted\nComments URL: https://news.ycombinator.com/item?id=49824715\nPoints: 11\n# Comments: 8",
+      "summary": "Article URL: https://carbon.ms/self-hosted\nComments URL: https://news.ycombinator.com/item?id=49824715\nPoints: 33\n# Comments: 15",
       "publishedAt": "2026-09-24T00:45:17.000Z",
       "image": "https://carbon.ms/images/og.webp",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-24T00:45:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign\nComments URL: https://news.ycombinator.com/item?id=49824686\nPoints: 85\n# Comments: 55",
-      "publishedAt": "2026-09-24T00:41:31.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-24T00:41:31.000Z"
     },
     {
       "source": "The Verge",
@@ -117,11 +243,11 @@
     },
     {
       "source": "The Verge",
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Z…",
-      "publishedAt": "2026-09-23T22:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that…",
+      "publishedAt": "2026-09-23T22:45:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0241.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 2,
       "related": [
         {
@@ -167,17 +293,6 @@
       "latestActivity": "2026-09-23T23:53:01.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Meta VR Glasses",
-      "link": "https://www.meta.com/vr-glasses/",
-      "summary": "Article URL: https://www.meta.com/vr-glasses/\nComments URL: https://news.ycombinator.com/item?id=49824268\nPoints: 278\n# Comments: 248",
-      "publishedAt": "2026-09-23T23:47:56.000Z",
-      "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1061526633457028&version=1790036507&transcode_extension=webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T23:47:56.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Meta is trying VR glasses (again), this time with more IMAX",
       "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
@@ -209,17 +324,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-23T23:42:52.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-      "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
-      "publishedAt": "2026-09-23T23:42:44.000Z",
-      "image": "https://media.wired.com/photos/6ab46185974b275c73391603/191:100/w_1280,c_limit/Meta-Connect-Gear-2296202855.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T23:42:44.000Z"
     },
     {
       "source": "The Verge",
@@ -277,39 +381,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-23T23:19:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "summary": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\nComments URL: https://news.ycombinator.com/item?id=49823664\nPoints: 81\n# Comments: 11",
-      "publishedAt": "2026-09-23T22:45:49.000Z",
-      "image": "https://blog.arxiv.org/wp-content/uploads/2026/08/bg-photo-lightbeams-chrome-blue-card.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T22:45:49.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that…",
-      "publishedAt": "2026-09-23T22:45:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0241.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T22:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 203\n# Comments: 10…",
-      "publishedAt": "2026-09-23T22:38:16.000Z",
-      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/snapdragon-summit-agentic-ai-pcs-linux",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T22:38:16.000Z"
     },
     {
       "source": "TechCrunch",
@@ -378,17 +449,6 @@
       "latestActivity": "2026-09-23T21:06:07.000Z"
     },
     {
-      "source": "Wired",
-      "title": "A US-China AI Hotline Won't Be Ready For a While",
-      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
-      "publishedAt": "2026-09-23T21:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ab2ef34ade3d66cae78e17b/191:100/w_1280,c_limit/politics_us_china_ai_talk.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T21:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
       "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
@@ -433,55 +493,15 @@
       "latestActivity": "2026-09-23T20:05:13.000Z"
     },
     {
-      "source": "Wired",
-      "title": "YouTube’s Custom Feeds Give You More Control Over the Algorithm",
-      "link": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/",
-      "summary": "In YouTube’s latest update, viewers can tweak what the algorithm shows on their front page and curate it to a specific vibe.",
-      "publishedAt": "2026-09-23T14:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ab2b5c4d5dbe8037c95019e/191:100/w_1280,c_limit/YT_Custom%20Feeds.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "YouTube promises custom feeds and a lot more AI later this year",
-          "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-          "publishedAt": "2026-09-23T19:35:53.000Z"
-        }
-      ],
+      "source": "Ars Technica",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "publishedAt": "2026-09-23T19:35:53.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/made-on-youtube-2026.png",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-09-23T19:35:53.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
-      "publishedAt": "2026-09-23T18:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ab16fccade3d66cae78d5ff/191:100/w_1280,c_limit/AI-Lab-How-Bunch-of-AI-Agents-Planned-Casino-Heist-Business.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T18:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV",
-      "link": "https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/",
-      "summary": "The British high-end auto company reveals its first-ever full EV: 330 miles of range, 0 to 60 mph in under 3 seconds, and an orchestra under the hood. Will it be enough to lure hig…",
-      "publishedAt": "2026-09-23T18:15:00.000Z",
-      "image": "https://media.wired.com/photos/6ab14159c107d714961adb7a/191:100/w_1280,c_limit/ASTRAIL_EXT_03.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T18:15:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
-      "publishedAt": "2026-09-23T18:03:00.000Z",
-      "image": "https://media.wired.com/photos/6ab2b2dca5b69d67cc34c6bd/191:100/w_1280,c_limit/Pope-AI-Advisor-Culture-2162988420.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T18:03:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -493,17 +513,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-23T17:10:11.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
-      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI hel…",
-      "publishedAt": "2026-09-23T12:54:58.000Z",
-      "image": "https://media.wired.com/photos/6ab2cd9fca426ab5b46f084b/191:100/w_1280,c_limit/Security_Meta%E2%80%99s%20Muse%20AI%20Agent%20Has%20a%20Serious%20Security%20Flaw_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-23T12:54:58.000Z"
     },
     {
       "source": "MIT Technology Review",
