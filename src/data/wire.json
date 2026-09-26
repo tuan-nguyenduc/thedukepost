@@ -1,16 +1,104 @@
 {
-  "syncedAt": "2026-09-25T21:14:56.300Z",
+  "syncedAt": "2026-09-26T00:25:25.176Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Too AI; Didn't Read",
-      "link": "https://www.tai-dr.com/",
-      "summary": "Article URL: https://www.tai-dr.com/\nComments URL: https://news.ycombinator.com/item?id=49849625\nPoints: 5\n# Comments: 1",
-      "publishedAt": "2026-09-25T20:37:56.000Z",
-      "image": "https://www.tai-dr.com/og.png",
+      "source": "Wired",
+      "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+      "link": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
+      "summary": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
+      "publishedAt": "2026-09-26T00:02:00.000Z",
+      "image": "https://media.wired.com/photos/6ab6f36a22f26e9fe871007e/191:100/w_1280,c_limit/Why-Buy-an-Away-When-Quince-Is-Half-the-Price-.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-25T20:37:56.000Z"
+      "latestActivity": "2026-09-26T00:02:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "publishedAt": "2026-09-25T23:11:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T23:11:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "publishedAt": "2026-09-25T23:04:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T23:04:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Codex Is Down [fixed]",
+      "link": "https://news.ycombinator.com/item?id=49851032",
+      "summary": "Shows an Incorrect API Key error...which is weird. Nothing on the status page. (EDIT: Added to incident page: https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA...)\nPer T…",
+      "publishedAt": "2026-09-25T22:51:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T22:51:44.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "publishedAt": "2026-09-25T22:20:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T22:20:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What even is an OS now?",
+      "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\nComments URL: https://news.ycombinator.com/item?id=49850305\nPoints: 62\n# Comments: 72",
+      "publishedAt": "2026-09-25T21:36:56.000Z",
+      "image": "https://sockpuppet.org/images/og-default.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T21:36:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "link": "https://swarmtraces.org/",
+      "summary": "Article URL: https://swarmtraces.org/\nComments URL: https://news.ycombinator.com/item?id=49849985\nPoints: 128\n# Comments: 85",
+      "publishedAt": "2026-09-25T21:09:27.000Z",
+      "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T21:09:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Teaching a World Model to Play Pokemon",
+      "link": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+      "summary": "Article URL: https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/\nComments URL: https://news.ycombinator.com/item?id=49849907\nPoints: 4\n# Comments: 6",
+      "publishedAt": "2026-09-25T21:02:48.000Z",
+      "image": "https://nostalgia.dev/images/lepokered/starter-selection.gif",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T21:02:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Excel now supports multiple values in a single cell",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "summary": "Related: https://techcommunity.microsoft.com/blog/excelblog/excel-now...\nComments URL: https://news.ycombinator.com/item?id=49849832\nPoints: 64\n# Comments: 53",
+      "publishedAt": "2026-09-25T20:55:00.000Z",
+      "image": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTU5Mzk1LUM3ZXY4aQ?revision=9",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T20:55:00.000Z"
     },
     {
       "source": "Engadget",
@@ -57,17 +145,6 @@
       "latestActivity": "2026-09-25T20:30:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Rising sea destroys homes, erases beaches in California",
-      "link": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
-      "summary": "Article URL: https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/\nComments URL: https://news.ycombinator.com/i…",
-      "publishedAt": "2026-09-25T20:13:23.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T20:13:23.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "New Mexico jury rules Meta misled state residents about data privacy",
       "link": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/",
@@ -77,6 +154,39 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T20:12:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How we learned to stop worrying and love campus surveillance",
+      "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+      "summary": "Article URL: https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/\nComments URL: https://news.ycombinator.com/item?id=49849141\nPoints: 81\n# Comments: 61",
+      "publishedAt": "2026-09-25T19:56:57.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T19:56:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A new way to manage memory: no garbage collection, extremely fast & safe access",
+      "link": "https://ulanguage.org/memory",
+      "summary": "Article URL: https://ulanguage.org/memory\nComments URL: https://news.ycombinator.com/item?id=49849098\nPoints: 9\n# Comments: 2",
+      "publishedAt": "2026-09-25T19:53:08.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T19:53:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "link": "https://news.ycombinator.com/item?id=49848955",
+      "summary": "Do you currently work with or know anyone who is still using:\n* dBase/Clipper/CLARION/Paradox/other DOS RAD environments on period hardware to run business processes?\n* CNC mills/s…",
+      "publishedAt": "2026-09-25T19:37:55.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T19:37:55.000Z"
     },
     {
       "source": "Ars Technica",
@@ -90,28 +200,6 @@
       "latestActivity": "2026-09-25T19:34:42.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Bug: Border radius has infected VSCode editor",
-      "link": "https://github.com/microsoft/vscode/issues/338035",
-      "summary": "Article URL: https://github.com/microsoft/vscode/issues/338035\nComments URL: https://news.ycombinator.com/item?id=49848838\nPoints: 37\n# Comments: 16",
-      "publishedAt": "2026-09-25T19:27:37.000Z",
-      "image": "https://opengraph.githubassets.com/0cd58c7aa733f688b045ef00ec832143b06690624624b93ff4d5bcaadcc934e5/microsoft/vscode/issues/338035",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T19:27:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
-      "link": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
-      "summary": "Article URL: https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding\nComments URL: https://news.ycombinator.com/item?id=498…",
-      "publishedAt": "2026-09-25T19:26:10.000Z",
-      "image": "http://static1.squarespace.com/static/5bbcad0f2727be3646b9fee1/t/6ab574a31976a137223b453f/1790276771565/IMG_9953.webp?format=1500w",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T19:26:10.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
@@ -121,17 +209,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T19:13:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Advice to a Beginning Graduate Student (2001)",
-      "link": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
-      "summary": "Article URL: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html\nComments URL: https://news.ycombinator.com/item?id=49848680\nPoints: 38\n# Comments: 10",
-      "publishedAt": "2026-09-25T19:12:45.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T19:12:45.000Z"
     },
     {
       "source": "Ars Technica",
@@ -178,17 +255,6 @@
       "latestActivity": "2026-09-25T18:39:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "summary": "The following explanation is taken from https://news.ycombinator.com/item?id=49622607:\nAlan Kay performs an improvisational avant garde layered audio feedback loop about Claude Sha…",
-      "publishedAt": "2026-09-25T18:37:05.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T18:37:05.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Candy Crush maker signs collective bargaining agreement, averting strike",
       "link": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/",
@@ -209,28 +275,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T18:33:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "link": "https://ollaya.dev/",
-      "summary": "Article URL: https://ollaya.dev/\nComments URL: https://news.ycombinator.com/item?id=49848269\nPoints: 190\n# Comments: 50",
-      "publishedAt": "2026-09-25T18:33:50.000Z",
-      "image": "https://ollaya.dev/static/og.png?v=7bd2eae221",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T18:33:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
-      "link": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
-      "summary": "Article URL: https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036\nComments URL: https://news.ycombin…",
-      "publishedAt": "2026-09-25T18:29:49.000Z",
-      "image": "https://image.theregister.com/229400.jpg?imageId=229400&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T18:29:49.000Z"
     },
     {
       "source": "Ars Technica",
@@ -275,39 +319,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T17:42:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
-      "publishedAt": "2026-09-25T17:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/aeropdsnew.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T17:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "publishedAt": "2026-09-25T17:29:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/supabase-2279843922.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T17:29:46.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "publishedAt": "2026-09-25T17:24:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-10.08.39-AM.png?w=791",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T17:24:36.000Z"
     },
     {
       "source": "Engadget",
@@ -528,17 +539,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T10:45:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "How to Record Your Screen on Any Phone",
-      "link": "https://www.wired.com/story/how-to-record-your-screen-on-any-phone/",
-      "summary": "The built-in tools on your phone—as well as some inexpensive apps—let you share whatever you’re doing with others.",
-      "publishedAt": "2026-09-25T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ab3b64485437b4e4984653f/191:100/w_1280,c_limit/092326-How%20to%20record%20screen.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T10:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
