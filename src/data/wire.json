@@ -1,6 +1,79 @@
 {
-  "syncedAt": "2026-09-26T00:25:25.176Z",
+  "syncedAt": "2026-09-26T07:14:09.295Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "summary": "Article URL: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html\nComments URL: https://news.ycombinator.com/item?id=49853175\nPoints: 40\n# Comments: 2",
+      "publishedAt": "2026-09-26T04:20:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T04:20:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We're gonna need a lot more mathematicians",
+      "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/\nComments URL: https://news.ycombinator.com/item?id=49852717\nPoints: 87\n# Comments:…",
+      "publishedAt": "2026-09-26T02:46:54.000Z",
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1790406622",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T02:46:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "link": "https://www.homelabfest.org",
+      "summary": "Article URL: https://www.homelabfest.org\nComments URL: https://news.ycombinator.com/item?id=49852462\nPoints: 18\n# Comments: 8",
+      "publishedAt": "2026-09-26T02:03:24.000Z",
+      "image": "https://www.homelabfest.org/images/homelabfest-social.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T02:03:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/\nComments URL: https://news.ycombinator.com/item?id=49852302\nPoints: 182\n# Comments: 3…",
+      "publishedAt": "2026-09-26T01:36:50.000Z",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/15/75086901-0979-4c15-bff8-e08d099a0d48/thumbnail/1200x630/dd6c3a2164e3ba2fd68f4b4a7fde49d9/gettyimages-2272777092.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T01:36:50.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to stop Meta training its AI models on your smart glasses' visual data",
+      "link": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
+      "summary": "The setting affects whether workers can review photos and videos from your glasses.",
+      "publishedAt": "2026-09-25T20:35:15.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "At Meta Connect, the company’s smart glasses were everywhere",
+          "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+          "publishedAt": "2026-09-26T01:08:57.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-26T01:08:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide\nComments URL: https://news.ycombinator.…",
+      "publishedAt": "2026-09-26T00:59:02.000Z",
+      "image": "https://img.pastemagazine.com/wp-content/juploads/2026/08/flock-cameras-getty-main.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T00:59:02.000Z"
+    },
     {
       "source": "Wired",
       "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
@@ -16,7 +89,7 @@
       "source": "TechCrunch",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "publishedAt": "2026-09-25T23:11:10.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
       "sourceCount": 1,
@@ -29,21 +102,32 @@
       "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
       "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
       "publishedAt": "2026-09-25T23:04:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T23:04:34.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Tell HN: Codex Is Down [fixed]",
-      "link": "https://news.ycombinator.com/item?id=49851032",
-      "summary": "Shows an Incorrect API Key error...which is weird. Nothing on the status page. (EDIT: Added to incident page: https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA...)\nPer T…",
-      "publishedAt": "2026-09-25T22:51:44.000Z",
-      "image": null,
+      "source": "Ars Technica",
+      "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+      "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
+      "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
+      "publishedAt": "2026-09-25T23:00:26.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-25T22:51:44.000Z"
+      "latestActivity": "2026-09-25T23:00:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "summary": "Article URL: https://spectrum.ieee.org/serotonin-stress-smart-contact-lens\nComments URL: https://news.ycombinator.com/item?id=49850781\nPoints: 39\n# Comments: 6",
+      "publishedAt": "2026-09-25T22:28:02.000Z",
+      "image": "https://spectrum.ieee.org/media-library/3d-rendering-of-a-contact-lens-equipped-with-a-squiggly-electrochemical-sensor-along-the-outer-edge-of-the-iris.jpg?id=67820733&width=1200&height=600&coordinates=0%2C99%2C0%2C151",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T22:28:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -60,7 +144,7 @@
       "source": "Hacker News",
       "title": "What even is an OS now?",
       "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\nComments URL: https://news.ycombinator.com/item?id=49850305\nPoints: 62\n# Comments: 72",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\nComments URL: https://news.ycombinator.com/item?id=49850305\nPoints: 163\n# Comments: 255",
       "publishedAt": "2026-09-25T21:36:56.000Z",
       "image": "https://sockpuppet.org/images/og-default.png",
       "sourceCount": 1,
@@ -68,48 +152,37 @@
       "latestActivity": "2026-09-25T21:36:56.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "publishedAt": "2026-09-25T21:36:20.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T21:36:20.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+      "publishedAt": "2026-09-25T21:10:51.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T21:10:51.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "link": "https://swarmtraces.org/",
-      "summary": "Article URL: https://swarmtraces.org/\nComments URL: https://news.ycombinator.com/item?id=49849985\nPoints: 128\n# Comments: 85",
+      "summary": "Article URL: https://swarmtraces.org/\nComments URL: https://news.ycombinator.com/item?id=49849985\nPoints: 407\n# Comments: 245",
       "publishedAt": "2026-09-25T21:09:27.000Z",
       "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T21:09:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Teaching a World Model to Play Pokemon",
-      "link": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-      "summary": "Article URL: https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/\nComments URL: https://news.ycombinator.com/item?id=49849907\nPoints: 4\n# Comments: 6",
-      "publishedAt": "2026-09-25T21:02:48.000Z",
-      "image": "https://nostalgia.dev/images/lepokered/starter-selection.gif",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T21:02:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Excel now supports multiple values in a single cell",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "summary": "Related: https://techcommunity.microsoft.com/blog/excelblog/excel-now...\nComments URL: https://news.ycombinator.com/item?id=49849832\nPoints: 64\n# Comments: 53",
-      "publishedAt": "2026-09-25T20:55:00.000Z",
-      "image": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTU5Mzk1LUM3ZXY4aQ?revision=9",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T20:55:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to stop Meta training its AI models on your smart glasses' visual data",
-      "link": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
-      "summary": "The setting affects whether workers can review photos and videos from your glasses.",
-      "publishedAt": "2026-09-25T20:35:15.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T20:35:15.000Z"
     },
     {
       "source": "TechCrunch",
@@ -156,37 +229,15 @@
       "latestActivity": "2026-09-25T20:12:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "How we learned to stop worrying and love campus surveillance",
-      "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
-      "summary": "Article URL: https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/\nComments URL: https://news.ycombinator.com/item?id=49849141\nPoints: 81\n# Comments: 61",
-      "publishedAt": "2026-09-25T19:56:57.000Z",
-      "image": null,
+      "source": "Ars Technica",
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "summary": "Ads appearing all over the Internet are trying to scam people.",
+      "publishedAt": "2026-09-25T19:38:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-25T19:56:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A new way to manage memory: no garbage collection, extremely fast & safe access",
-      "link": "https://ulanguage.org/memory",
-      "summary": "Article URL: https://ulanguage.org/memory\nComments URL: https://news.ycombinator.com/item?id=49849098\nPoints: 9\n# Comments: 2",
-      "publishedAt": "2026-09-25T19:53:08.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T19:53:08.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "link": "https://news.ycombinator.com/item?id=49848955",
-      "summary": "Do you currently work with or know anyone who is still using:\n* dBase/Clipper/CLARION/Paradox/other DOS RAD environments on period hardware to run business processes?\n* CNC mills/s…",
-      "publishedAt": "2026-09-25T19:37:55.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T19:37:55.000Z"
+      "latestActivity": "2026-09-25T19:38:59.000Z"
     },
     {
       "source": "Ars Technica",
@@ -214,7 +265,7 @@
       "source": "Ars Technica",
       "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
       "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
       "publishedAt": "2026-09-25T19:11:05.000Z",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
       "sourceCount": 1,
@@ -266,17 +317,6 @@
       "latestActivity": "2026-09-25T18:35:21.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-      "publishedAt": "2026-09-25T18:33:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T18:33:59.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Is solar's growth finally slowing in the US?",
       "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
@@ -297,17 +337,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T18:18:57.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-      "publishedAt": "2026-09-25T17:57:37.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T17:57:37.000Z"
     },
     {
       "source": "The Verge",
@@ -420,28 +449,6 @@
       "latestActivity": "2026-09-25T15:39:48.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
-      "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
-      "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
-      "publishedAt": "2026-09-25T15:35:23.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett-1152x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T15:35:23.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
-      "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
-      "summary": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
-      "publishedAt": "2026-09-25T15:21:55.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Geely-robot-charger-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T15:21:55.000Z"
-    },
-    {
       "source": "Wired",
       "title": "War Bros Didn’t Always Rule Silicon Valley",
       "link": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/",
@@ -451,17 +458,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T15:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
-      "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
-      "summary": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
-      "publishedAt": "2026-09-25T14:07:46.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T14:07:46.000Z"
     },
     {
       "source": "MIT Technology Review",
