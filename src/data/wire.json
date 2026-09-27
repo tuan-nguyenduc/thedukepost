@@ -1,6 +1,211 @@
 {
-  "syncedAt": "2026-09-27T13:38:27.660Z",
+  "syncedAt": "2026-09-27T18:07:00.291Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "publishedAt": "2026-09-27T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "publishedAt": "2026-09-27T17:32:02.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-27T17:32:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+      "link": "https://earnanhonestdollar.com/bench",
+      "summary": "Article URL: https://earnanhonestdollar.com/bench\nComments URL: https://news.ycombinator.com/item?id=49868753\nPoints: 10\n# Comments: 0",
+      "publishedAt": "2026-09-27T17:24:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T17:24:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Co…",
+      "publishedAt": "2026-09-27T17:21:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T17:21:07.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why the iPhone Duo could be beneficial for Samsung's Galaxy Z Fold 8",
+      "link": "https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/",
+      "summary": "Apple's iPhone Duo is far from the first foldable phone, but it could upset the foldable market in all-new ways.",
+      "publishedAt": "2026-09-27T16:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-the-iphone-duo-could-be-beneficial-for-samsungs-galaxy-z-fold-8/l-intro-1790259728.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T16:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "There are no \"rogue\" AI agents",
+      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49868083\nPoints: 118\n# Comments: 77",
+      "publishedAt": "2026-09-27T16:19:46.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T16:19:46.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use Android's Desktop mode to turn your phone into a tiny PC",
+      "link": "https://www.engadget.com/2267572/how-to-use-desktop-mode-android-phone/",
+      "summary": "You can plug recent Pixel phones into a monitor to get a desktop-style interface.",
+      "publishedAt": "2026-09-27T16:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-androids-desktop-mode-to-turn-your-phone-into-a-tiny-pc/l-intro-1790259325.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T16:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "publishedAt": "2026-09-27T16:02:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T16:02:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "link": "https://tinyaiarena.com/",
+      "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on…",
+      "publishedAt": "2026-09-27T15:51:28.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T15:51:28.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use Spotify's Running Mode on iOS and Android",
+      "link": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
+      "summary": "Maximize your stride with Spotify's AI-powered running features.",
+      "publishedAt": "2026-09-27T15:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T15:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PostmarketOS is rebranding as Nura",
+      "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "summary": "Article URL: https://nura.eco/blog/2026/09/27/nura-rename/\nComments URL: https://news.ycombinator.com/item?id=49867553\nPoints: 88\n# Comments: 12",
+      "publishedAt": "2026-09-27T15:31:15.000Z",
+      "image": "https://postmarketos.org/static/img/2026-09/stickers.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T15:31:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Normalization of Inexplicable Failures",
+      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "summary": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html\nComments URL: https://news.ycombinator.com/item?id=49867486\nPoints: 152\n# Comments: 44",
+      "publishedAt": "2026-09-27T15:26:40.000Z",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWqOvF787cVQ7sqEe9MDHTU-hSCIot6pf5UrOqxmfAXhrwqcZvIIN4JWF9sQC5DYQ1qb7_9Ok7XuZGulQ9XH2sLSrjtwqGgJmP_jmzRDPJUBtnxolAij6heLf2oXP7sAHCG0aczxQzBV185kXeZbKvdvtz4_5Ext6EJvTpIr4hKA4pQJKhEp-Mg40H-w0/w1200-h630-p-k-no-nu/curtis_stupid-thing-sucks_1_door-blog.gif",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T15:26:40.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to improve your router's security in 10 minutes",
+      "link": "https://www.engadget.com/2267401/how-to-improve-router-security-10-minutes/",
+      "summary": "Most internet routers are solid out of the box, but that doesn't mean they can't be made more secure. Often, all you need to do is tweak a few settings.",
+      "publishedAt": "2026-09-27T15:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-routers-security-in-10-minutes/l-intro-1790246428.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T15:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and…",
+      "publishedAt": "2026-09-27T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Senn_Black_M5_Product_KV_Full_Format_HighRes.jpeg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/\nComments URL: https://news.ycombinator.com/item?id=49867067\nPoints: 281\n# Comments: 2…",
+      "publishedAt": "2026-09-27T14:45:07.000Z",
+      "image": "https://unsung.aresluna.org/_media/they-had-no-concept-of-a-duty-of-care-to-their-users/ogimage.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T14:45:07.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why you should avoid holding down your PC's power button",
+      "link": "https://www.engadget.com/2267392/why-important-reboot-pc-menu-not-power-button/",
+      "summary": "There are often times when your PC hangs and you need to perform a hard shutdown, but there are a number of reasons why doing it regularly could cause issues.",
+      "publishedAt": "2026-09-27T14:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-you-should-avoid-holding-down-your-pcs-power-button/l-intro-1790245006.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T14:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "summary": "Article URL: https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-tu…",
+      "publishedAt": "2026-09-27T14:35:10.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4do6hQ6xfWKfiYNMLtPppC-1129-80.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T14:35:10.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why letting Claude clean your TV's bloatware isn't the best idea",
+      "link": "https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/",
+      "summary": "Don't let an AI bot potentially crash your TV.",
+      "publishedAt": "2026-09-27T14:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-letting-claude-clean-your-tvs-bloatware-isnt-the-best-idea/l-intro-1790197913.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T14:15:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
+      "link": "https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/",
+      "summary": "Speaking with an AI chatbot can be a little awkward, but companies like Google and OpenAI are working on fixing that.",
+      "publishedAt": "2026-09-27T13:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/gemini-live-vs-chatgpt-voice-which-ai-offers-a-more-natural-conversation/l-intro-1790190080.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-27T13:45:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Why it's important to not put your PC on the floor",
@@ -13,39 +218,6 @@
       "latestActivity": "2026-09-27T13:30:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Humanoid robots are getting even creepier (this one can cry on command)",
-      "link": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
-      "summary": "Humanoid robots have improved emotional mimicry to the point of being able to cry during an emotional conversation.",
-      "publishedAt": "2026-09-27T13:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T13:15:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to use the Live Text feature on your iPhone",
-      "link": "https://www.engadget.com/2266810/how-to-use-live-text-feature-iphone/",
-      "summary": "There's no need to manually type text into your iPhone that you see in the real world. Use Live Text to copy it, call phone numbers and much more.",
-      "publishedAt": "2026-09-27T12:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-the-live-text-feature-on-your-iphone/l-intro-1790186990.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T12:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "iPhone Duo vs Microsoft Surface Duo: One name, two very different devices",
-      "link": "https://www.engadget.com/2267884/apple-iphone-duo-vs-microsoft-surface-duo-comparison/",
-      "summary": "A brief history of \"Duo\" foldables.",
-      "publishedAt": "2026-09-27T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/iphone-duo-vs-microsoft-surface-duo-one-name-two-very-different-devices/l-intro-1789917060.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T12:30:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Why OLPC’s $100 laptop never stood a chance",
       "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
@@ -55,17 +227,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-27T12:25:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to use Android apps on your Windows PC (and why you might want to)",
-      "link": "https://www.engadget.com/2266521/how-to-use-android-apps-on-windows-pc/",
-      "summary": "With the right software, you can run Android apps on your Windows PC. Here's why you may want to and how to get it set up on your own computer.",
-      "publishedAt": "2026-09-27T12:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-android-apps-on-your-windows-pc-and-why-you-might-want-to/l-intro-1789398732.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T12:15:00.000Z"
     },
     {
       "source": "The Verge",
@@ -112,15 +273,15 @@
       "latestActivity": "2026-09-27T11:02:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "link": "https://arxiv.org/abs/2609.25021",
-      "summary": "Article URL: https://arxiv.org/abs/2609.25021\nComments URL: https://news.ycombinator.com/item?id=49865343\nPoints: 65\n# Comments: 63",
-      "publishedAt": "2026-09-27T10:26:25.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "source": "Ars Technica",
+      "title": "How the Smithsonian became the latest front in Trump’s culture war",
+      "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+      "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
+      "publishedAt": "2026-09-27T11:00:12.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287653556-2560x1440.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-27T10:26:25.000Z"
+      "latestActivity": "2026-09-27T11:00:12.000Z"
     },
     {
       "source": "Wired",
@@ -167,50 +328,6 @@
       "latestActivity": "2026-09-27T09:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-      "summary": "Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/\nComments URL: https://news.ycombinator.com/item?id=49864642\nPoints:…",
-      "publishedAt": "2026-09-27T08:44:04.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T08:44:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/\nComments URL: https://news.ycombinator.com/item?id=49863864\nPoints: 373\n# Commen…",
-      "publishedAt": "2026-09-27T06:19:33.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T06:19:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The internet discovers TLA+. Now what?",
-      "link": "https://reasonable.io/blog/tla-tutorial/",
-      "summary": "Article URL: https://reasonable.io/blog/tla-tutorial/\nComments URL: https://news.ycombinator.com/item?id=49863600\nPoints: 42\n# Comments: 23",
-      "publishedAt": "2026-09-27T05:26:15.000Z",
-      "image": "https://reasonable.io/assets/images/i4OvHFfs0Igath0kLdjrZkoc.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T05:26:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What is the size of Yemen? (2024)",
-      "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-      "summary": "Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen\nComments URL: https://news.ycombinator.com/item?id=49862809\nPoints: 205\n# Comments: 71",
-      "publishedAt": "2026-09-27T02:40:26.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T02:40:26.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
       "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
@@ -231,39 +348,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-27T01:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
-      "link": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
-      "summary": "The iPhone Duo has an impressively minimal crease, but that's only how it looks at the start. We'll have to wait a while to see what develops over time.",
-      "publishedAt": "2026-09-27T00:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-we-wont-know-how-visible-the-iphone-duos-crease-is-for-a-long-time/l-intro-1790182526.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T00:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How powerful of a power bank do you need to safely charge a laptop?",
-      "link": "https://www.engadget.com/2266595/how-powerful-power-bank-needs-to-be-charge-laptop/",
-      "summary": "A power bank is more than its capacity. You also need to know how fast it can deliver power so your laptop doesn't drain while it's connected.",
-      "publishedAt": "2026-09-27T00:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-powerful-of-a-power-bank-do-you-need-to-safely-charge-a-laptop/l-intro-1790180023.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-27T00:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Your old GPU could be worth more than you think",
-      "link": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
-      "summary": "Your old GPU could be a goldmine thanks to the RAMaggedon.",
-      "publishedAt": "2026-09-26T23:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/your-old-gpu-could-be-worth-more-than-you-think/l-intro-1789937270.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T23:45:00.000Z"
     },
     {
       "source": "The Verge",
@@ -310,17 +394,6 @@
       "latestActivity": "2026-09-26T19:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "link": "https://arxiv.org/abs/2609.22978",
-      "summary": "Article URL: https://arxiv.org/abs/2609.22978\nComments URL: https://news.ycombinator.com/item?id=49859112\nPoints: 279\n# Comments: 92",
-      "publishedAt": "2026-09-26T18:22:41.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T18:22:41.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
       "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
@@ -343,39 +416,6 @@
       "latestActivity": "2026-09-26T17:32:35.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "summary": "Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html\nComments URL: https://news.ycombinator.com/item?id=49858676\nPoints: 91\n# Comments: 11",
-      "publishedAt": "2026-09-26T17:26:54.000Z",
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sabrQRSU36rkiDPOy_mC3oC7bjPWiD-EelgMgnuwIZs5K02bZl4Q-BxsZpTkSiF86G3Mbob8eRuhmlhSQwY8-J3ZTU-_U9TPmlHhPZB3gb4BHs0oGS3CzWzcjiijMt4zIqCVSKg4a-HK4_F-EhruzAjhw=w1200-h630-p-k-no-nu",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T17:26:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "link": "https://github.com/reladraw/reladraw",
-      "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram look…",
-      "publishedAt": "2026-09-26T17:10:40.000Z",
-      "image": "https://opengraph.githubassets.com/efee9d3cc5c266e3d50c5cb572fda6c2e105838abb00e466a9e03b0ad6e099ef/reladraw/reladraw",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T17:10:40.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-      "publishedAt": "2026-09-26T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T17:00:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "OpenAI pauses training of its ‘most capable models’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
@@ -385,28 +425,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-26T16:34:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "publishedAt": "2026-09-26T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.\nMatthew last joined us on the show about two…",
-      "publishedAt": "2026-09-26T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T14:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -440,17 +458,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-26T10:45:09.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "publishedAt": "2026-09-26T01:08:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T01:08:57.000Z"
     },
     {
       "source": "Ars Technica",
@@ -517,17 +524,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T19:11:05.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
-      "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
-      "summary": "US judge reviews deal with California, says it must not be result of collusion.",
-      "publishedAt": "2026-09-25T18:42:57.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T18:42:57.000Z"
     },
     {
       "source": "MIT Technology Review",
