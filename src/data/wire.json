@@ -1,6 +1,101 @@
 {
-  "syncedAt": "2026-09-26T20:47:09.442Z",
+  "syncedAt": "2026-09-27T00:20:22.458Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Your old GPU could be worth more than you think",
+      "link": "https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/",
+      "summary": "Your old GPU could be a goldmine thanks to the RAMaggedon.",
+      "publishedAt": "2026-09-26T23:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/your-old-gpu-could-be-worth-more-than-you-think/l-intro-1789937270.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T23:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why your iPhone hates printer cables",
+      "link": "https://www.engadget.com/2266565/why-iphone-hates-printer-cables/",
+      "summary": "AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn't supported.",
+      "publishedAt": "2026-09-26T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-your-iphone-hates-printer-cables/l-intro-1790179049.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T23:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to factory reset your Google Home Mini",
+      "link": "https://www.engadget.com/2266523/how-to-factory-reset-google-home-mini/",
+      "summary": "Google Home Mini speakers may have been discontinued, but there are plenty still being used. If you have one, let's talk about how to reset it.",
+      "publishedAt": "2026-09-26T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-factory-reset-your-google-home-mini/l-intro-1790177732.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T23:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+      "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+      "summary": "Better thermals and battery life make this iterative update nicer to use.",
+      "publishedAt": "2026-09-25T19:34:42.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+          "link": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/",
+          "publishedAt": "2026-09-26T22:45:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-26T22:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How high is too high for speakers in your home sound system?",
+      "link": "https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/",
+      "summary": "Too much height makes dialogue and fine details sound less direct.",
+      "publishedAt": "2026-09-26T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-high-is-too-high-for-speakers-in-your-home-sound-system/l-intro-1789920049.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T22:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Stop bringing your phone in the shower: How steam can ruin 'waterproof' phones",
+      "link": "https://www.engadget.com/2266522/why-steam-ruins-phone-more-than-water/",
+      "summary": "Phone manufacturers are pretty direct in their guidance on this one.",
+      "publishedAt": "2026-09-26T22:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/stop-bringing-your-phone-in-the-shower-how-steam-can-ruin-waterproof-phones/l-intro-1789589462.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T22:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple hit with $5.7 billion in damages over haptic patents",
+      "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. Accordi…",
+      "publishedAt": "2026-09-26T21:30:01.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T21:30:01.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "publishedAt": "2026-09-26T21:02:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T21:02:06.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "TikTok agrees to pay at least $100M in Alabama settlement",
@@ -11,6 +106,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-26T20:24:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "summary": "Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/\nComments URL: https://news.ycombinator.com/item?id=498600…",
+      "publishedAt": "2026-09-26T20:08:50.000Z",
+      "image": "https://www.lightspeedmagazine.com/wp-content/uploads/2016/03/Lightspeed_70_March_2016_575x442px.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T20:08:50.000Z"
     },
     {
       "source": "Engadget",
@@ -46,48 +152,26 @@
       "latestActivity": "2026-09-26T19:19:53.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "What type of power cord does a PS5 use?",
-      "link": "https://www.engadget.com/2265348/playstation-power-cord-what-type/",
-      "summary": "You probably don't think much about your PlayStation's power cord unless it needs to be replaced. If that time comes, here's what to know.",
-      "publishedAt": "2026-09-26T18:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-type-of-power-cord-does-a-ps5-use/l-intro-1790090799.jpg",
+      "source": "Hacker News",
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "link": "https://tml.stanford.edu/homebody/",
+      "summary": "Article URL: https://tml.stanford.edu/homebody/\nComments URL: https://news.ycombinator.com/item?id=49859299\nPoints: 6\n# Comments: 1",
+      "publishedAt": "2026-09-26T18:42:10.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-26T18:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "You can use your old laptop to make a smart home hub",
-      "link": "https://www.engadget.com/2265491/you-can-use-your-old-laptop-to-make-a-smart-home-hub/",
-      "summary": "An old netbook can automate the devices that otherwise aren't interested in talking to one another.",
-      "publishedAt": "2026-09-26T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/you-can-use-your-old-laptop-to-make-a-smart-home-hub/l-intro-1789576732.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T18:30:00.000Z"
+      "latestActivity": "2026-09-26T18:42:10.000Z"
     },
     {
       "source": "Hacker News",
       "title": "DeepSeek Elastic Compute (DSec)",
       "link": "https://arxiv.org/abs/2609.22978",
-      "summary": "Article URL: https://arxiv.org/abs/2609.22978\nComments URL: https://news.ycombinator.com/item?id=49859112\nPoints: 12\n# Comments: 3",
+      "summary": "Article URL: https://arxiv.org/abs/2609.22978\nComments URL: https://news.ycombinator.com/item?id=49859112\nPoints: 135\n# Comments: 37",
       "publishedAt": "2026-09-26T18:22:41.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-26T18:22:41.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to properly clean your laptop fan",
-      "link": "https://www.engadget.com/2266513/how-to-clean-laptop-fan/",
-      "summary": "Start with the vents before you reach for a screwdriver.",
-      "publishedAt": "2026-09-26T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-properly-clean-your-laptop-fan/l-intro-1789839734.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T18:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -99,6 +183,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-26T17:44:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Japan moves to tighten rules for foreigners",
+      "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "summary": "Article URL: https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt\nComments URL: https://news.ycombinator.com/item?id=…",
+      "publishedAt": "2026-09-26T17:43:11.000Z",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2022-07-28T000000Z_727329248_RC2WKV91832S_RTRMADP_3_HEALTH-CORONAVIRUS-JAPAN-1790306821_fdb20f-1790306997_14bc47-1790311260_05ea92-1790315682.jpg?resize=1200%2C630&quality=80",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T17:43:11.000Z"
     },
     {
       "source": "The Verge",
@@ -113,25 +208,36 @@
     },
     {
       "source": "Hacker News",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "summary": "Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html\nComments URL: https://news.ycombinator.com/item?id=49858676\nPoints: 10\n# Comments: 2",
+      "publishedAt": "2026-09-26T17:26:54.000Z",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_udC_1_zcq8hlKKATcLBRmq3t8edI98IQMnvy3rk6stY-kYjBoSP0wAeWR-A1M9J90Pfoz7Y3ChdMzqikrwRAfjG7yJ0cghCHr_z2al-b7u5qXjm71hJITPpU0258iScpeW5ZnXuOTaQ3GK4qk9XurAD5Y=w1200-h630-p-k-no-nu",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-26T17:26:54.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "link": "https://github.com/reladraw/reladraw",
       "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram look…",
       "publishedAt": "2026-09-26T17:10:40.000Z",
-      "image": "https://opengraph.githubassets.com/be52cd3be3543d492dacdc6047b2f3cd457d15f8b0f5e46a1956d46444185786/reladraw/reladraw",
+      "image": "https://opengraph.githubassets.com/483e093d810ae26a438f9737bafd806c354f411da689cb87d39d0fc74cddefed/reladraw/reladraw",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-26T17:10:40.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Apple hit with a $5.7 billion verdict for alleged patent infringement",
-      "link": "https://www.engadget.com/2269826/apple-hit-with-a-57-billion-verdict-for-alleged-patent-infringement/",
-      "summary": "Apple is reportedly looking to appeal the jury verdict.",
-      "publishedAt": "2026-09-26T17:02:42.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-hit-with-a-5-7-billion-verdict-for-alleged-patent-infringement/l-intro-1790441929.jpg",
+      "source": "Hacker News",
+      "title": "The Evolution of Vending Machines",
+      "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+      "summary": "Article URL: https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/\nComments URL: https://news.ycombinator.com/item?id=49858…",
+      "publishedAt": "2026-09-26T17:01:45.000Z",
+      "image": "https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/vending-japan-shutterstock_2519864697.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-09-26T17:02:42.000Z"
+      "latestActivity": "2026-09-26T17:01:45.000Z"
     },
     {
       "source": "TechCrunch",
@@ -145,17 +251,6 @@
       "latestActivity": "2026-09-26T17:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "TikTok will pay Alabama $100 million to settle social media addiction lawsuit",
-      "link": "https://www.engadget.com/2269822/tiktok-will-pay-alabama-100-million-to-settle-social-media-addiction-lawsuit/",
-      "summary": "TikTok has settled Alabama's social media addiction lawsuit before it was supposed to go to trial.",
-      "publishedAt": "2026-09-26T16:41:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/tiktok-will-pay-alabama-100-million-to-settle-social-media-addiction-lawsuit/l-intro-1790440520.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T16:41:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "OpenAI pauses training of its ‘most capable models’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
@@ -167,88 +262,15 @@
       "latestActivity": "2026-09-26T16:34:59.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The MacBook models that macOS 27 Golden Gate does not support",
-      "link": "https://www.engadget.com/2266414/macbook-models-macos-27-golden-gate-does-not-support/",
-      "summary": "macOS Golden Gate refines the Mac software experience, but not everyone can upgrade.",
-      "publishedAt": "2026-09-26T16:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-macbook-models-that-macos-27-golden-gate-does-not-support/l-intro-1790174136.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T16:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
-      "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-      "summary": "Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\nComments URL: https://news.ycombinator.com/item?id=49857899\nPoints: 342\n# Comments: 139",
-      "publishedAt": "2026-09-26T16:12:18.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T16:12:18.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent\nComments URL: https://news.ycombinator.com/item?id=49857729\nPoints: 69\n# Comments: 23",
+      "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent\nComments URL: https://news.ycombinator.com/item?id=49857729\nPoints: 101\n# Comments: 32",
       "publishedAt": "2026-09-26T15:56:34.000Z",
       "image": "https://tangled.org/yanndegat.tngl.sh/drawgent/opengraph",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-26T15:56:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-      "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-      "summary": "Article URL: https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/\nComments URL: https://news.ycombinator.com/item?id=49857651\nPoints: 87\n# Comments: 58",
-      "publishedAt": "2026-09-26T15:48:18.000Z",
-      "image": "https://images.macrumors.com/t/RQPLZ_3_iMyj3evjsWnMLVwPdyA=/1600x/article-new/2023/11/apple-pay-feature-dynamic-island.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T15:48:18.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-      "publishedAt": "2026-09-25T23:04:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "Automattic has a new board after failed attempt to put CEO on leave",
-          "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-          "publishedAt": "2026-09-26T15:40:27.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-26T15:40:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "link": "https://github.com/brumar/chess-postmortem-skills",
-      "summary": "Hello HN,\nIt started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.\nThe next experiment was to see whether Claude + Sto…",
-      "publishedAt": "2026-09-26T15:34:53.000Z",
-      "image": "https://opengraph.githubassets.com/0b03a5be77fdae303c53fe648acf3871f663508c28747801254a4b6323e56b63/brumar/chess-postmortem-skills",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T15:34:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Plunging test scores are a slow-moving catastrophe",
-      "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-      "summary": "https://archive.ph/n8Akh\nComments URL: https://news.ycombinator.com/item?id=49857442\nPoints: 125\n# Comments: 238",
-      "publishedAt": "2026-09-26T15:24:08.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-26T15:24:08.000Z"
     },
     {
       "source": "TechCrunch",
@@ -427,6 +449,17 @@
       "latestActivity": "2026-09-25T23:11:10.000Z"
     },
     {
+      "source": "TechCrunch",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "publishedAt": "2026-09-25T23:04:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-25T23:04:34.000Z"
+    },
+    {
       "source": "Ars Technica",
       "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
       "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
@@ -436,17 +469,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T23:00:26.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "publishedAt": "2026-09-25T22:20:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T22:20:47.000Z"
     },
     {
       "source": "Ars Technica",
@@ -483,17 +505,6 @@
     },
     {
       "source": "Ars Technica",
-      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-      "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-      "summary": "Better thermals and battery life make this iterative update nicer to use.",
-      "publishedAt": "2026-09-25T19:34:42.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T19:34:42.000Z"
-    },
-    {
-      "source": "Ars Technica",
       "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
       "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
       "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
@@ -513,17 +524,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-25T18:42:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
-      "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-      "summary": "Roku’s new OLED TVs are already marked down. | Image: The Verge\t\n\nRoku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro…",
-      "publishedAt": "2026-09-25T18:18:57.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roku-Pro-Series-2026-oled-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-25T18:18:57.000Z"
     },
     {
       "source": "MIT Technology Review",
