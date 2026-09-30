@@ -1,6 +1,204 @@
 {
-  "syncedAt": "2026-09-29T22:00:21.271Z",
+  "syncedAt": "2026-09-30T04:39:35.063Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "publishedAt": "2026-09-30T04:08:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T04:08:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "link": "https://github.com/Sparticle62ops/pssa",
+      "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 23\n# Comments: 5",
+      "publishedAt": "2026-09-30T03:19:54.000Z",
+      "image": "https://opengraph.githubassets.com/d6c6550e9169534c5b416ace5d36513f367b82849610f3b905b770eaee81a9ee/Sparticle62ops/pssa",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T03:19:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "RSS Feeds for Last.fm",
+      "link": "https://lfm.xiffy.nl/",
+      "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 5\n# Comments: 1",
+      "publishedAt": "2026-09-30T03:00:05.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T03:00:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "link": "https://agmai.org/general-sep29/",
+      "summary": "Article URL: https://agmai.org/general-sep29/\nComments URL: https://news.ycombinator.com/item?id=49903713\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-09-30T02:36:12.000Z",
+      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T02:36:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
+      "link": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
+      "summary": "Article URL: https://mightygodking.com/2008/04/21/fun-from-yesterday/\nComments URL: https://news.ycombinator.com/item?id=49903383\nPoints: 18\n# Comments: 9",
+      "publishedAt": "2026-09-30T01:47:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T01:47:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timelin…",
+      "publishedAt": "2026-09-30T00:19:13.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T00:19:13.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Don't throw away your old router — Do this instead",
+      "link": "https://www.engadget.com/2271811/dont-throw-away-old-router-do-this-instead/",
+      "summary": "Your old router shouldn't be destined for the recycling bin. You can repurpose it to extend your current network and much more.",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-router-do-this-instead/l-intro-1790687414.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "publishedAt": "2026-09-29T23:30:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/minecraft.jpg?w=700",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T23:30:55.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The AI industry wants models to assist in legal battles, but will they help?",
+      "link": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
+      "summary": "After lawyers were fined for submitting AI filings packed with fictitious case law, AI companies are releasing new tools to ensure that doesn't happen again.",
+      "publishedAt": "2026-09-29T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-ai-industry-wants-models-to-assist-in-legal-battles-but-will-they-help/l-intro-1790678828.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T23:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Range Rover Sport Electric: Price, Specs, Availability",
+      "link": "https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/",
+      "summary": "By sharing the same platform, the Sport gets the same specs as the classier Range Rover Electric, but with added torque at a smaller outlay.",
+      "publishedAt": "2026-09-29T23:01:00.000Z",
+      "image": "https://media.wired.com/photos/6aba6196add005d32caeaf5b/191:100/w_1280,c_limit/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T23:01:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Can you still use your router if it doesn't get firmware updates?",
+      "link": "https://www.engadget.com/2271679/router-no-firmware-updates-can-still-use/",
+      "summary": "Internet router manufacturers often do a good job of keeping their devices updated, but what should you do once they cease support? Here are some simple tips.",
+      "publishedAt": "2026-09-29T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/can-you-still-use-your-router-if-it-doesnt-get-firmware-updates/l-intro-1790676017.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T23:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "link": "https://github.com/ninjahawk/livenerf",
+      "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 360\n# Comments: 153",
+      "publishedAt": "2026-09-29T22:36:14.000Z",
+      "image": "https://opengraph.githubassets.com/747f0492693144b2c62aa984400f7f30299f6f083f70c6ed1b6962c3446688f5/ninjahawk/livenerf",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T22:36:14.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+      "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+      "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+      "publishedAt": "2026-09-29T22:30:37.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T22:30:37.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to prepare your Samsung Galaxy for the One UI 9 update",
+      "link": "https://www.engadget.com/2271451/prepare-samsung-galaxy-one-ui-9-update/",
+      "summary": "With Samsung's One UI 9 rollout chugging along the globe, there's no better time to make a few quick checks before you make the switch.",
+      "publishedAt": "2026-09-29T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-prepare-your-samsung-galaxy-for-the-one-ui-9-update/l-intro-1790359004.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T22:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "summary": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, off…",
+      "publishedAt": "2026-09-29T22:25:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T22:25:45.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "publishedAt": "2026-09-29T22:20:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T22:20:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+      "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "publishedAt": "2026-09-29T22:18:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/rip-transportation-2024.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T22:18:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
+      "link": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+      "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capaci…",
+      "publishedAt": "2026-09-29T22:01:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/26_03_BMW_Preview-Gruppe.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T22:01:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "How do translation earbuds actually work?",
@@ -11,6 +209,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-29T22:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Protests against OpenAI get increasingly creative",
+      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "publishedAt": "2026-09-29T21:52:58.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T21:52:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -44,6 +253,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-29T21:49:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Deser: Rethinking Rust Serialization",
+      "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/9/29/deser/\nComments URL: https://news.ycombinator.com/item?id=49901149\nPoints: 40\n# Comments: 6",
+      "publishedAt": "2026-09-29T21:48:27.000Z",
+      "image": "https://lucumr.pocoo.org/social/2026-09-29-deser-social.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-29T21:48:27.000Z"
     },
     {
       "source": "TechCrunch",
@@ -112,17 +332,6 @@
       "latestActivity": "2026-09-29T20:17:31.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Mozilla deploys a new-look Firefox across desktop and mobile",
-      "link": "https://www.engadget.com/2272664/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/",
-      "summary": "The redesigned browser brings back compact mode and adds a theme picker.",
-      "publishedAt": "2026-09-29T20:16:45.000Z",
-      "image": "https://www.engadget.com/img/gallery/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/l-intro-1790712152.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T20:16:45.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "OpenAI’s latest features take direct aim at the app store model",
       "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
@@ -135,25 +344,14 @@
     },
     {
       "source": "TechCrunch",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
       "publishedAt": "2026-09-29T19:52:37.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-29T19:52:37.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Google partners with known nerd Henry Cavill on a video game to showcase Googlebooks",
-      "link": "https://www.engadget.com/2272594/google-henry-cavill-make-video-game-googlebook/",
-      "summary": "The final result will be published in November.",
-      "publishedAt": "2026-09-29T19:49:27.000Z",
-      "image": "https://www.engadget.com/img/gallery/henry-cavill-is-making-a-video-game-to-showcase-the-googlebook-laptops/l-intro-1790710820.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T19:49:27.000Z"
     },
     {
       "source": "Hacker News",
@@ -168,65 +366,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Memory Companies Have Destroyed the Consumer Market",
-      "link": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "summary": "Article URL: https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market\nComments URL: https://news.ycombinator.com/item?id=49899051\nPoints: 72\n# Comments…",
-      "publishedAt": "2026-09-29T19:27:41.000Z",
-      "image": "http://gamersnexus.net/u/styles/crop_thumbnail/public/2026-09/vlcsnap-2026-09-28-14h56m02s457.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T19:27:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-      "link": "https://github.com/lostmsu/TurboGPT",
-      "summary": "Inspired by minGPT for home experiments.\nRequires CUDA 13.4; build script is Windows only.\nComments URL: https://news.ycombinator.com/item?id=49898931\nPoints: 19\n# Comments: 1",
-      "publishedAt": "2026-09-29T19:20:02.000Z",
-      "image": "https://opengraph.githubassets.com/a12193f9b59312a3da9a4ec85035c5db2245645b471809b767a73d1395a9d3bf/lostmsu/TurboGPT",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T19:20:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-      "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-      "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/27/258/\nComments URL: https://news.ycombinator.com/item?id=49898877\nPoints: 108\n# Comments: 76",
-      "publishedAt": "2026-09-29T19:15:58.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T19:15:58.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
       "link": "https://space.bl2.net/",
-      "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 23\n# Comments: 7",
+      "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 162\n# Comments: 38",
       "publishedAt": "2026-09-29T19:08:01.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-29T19:08:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-      "link": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-      "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayS…",
-      "publishedAt": "2026-09-29T16:17:01.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Toast-Gears-E-Day-1e689e713ada7e9b3d37.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Xbox just unveiled Mythic Achievements, which are basically PlayStation platinum trophies",
-          "link": "https://www.engadget.com/2272478/xbox-mythic-achievements-are-here/",
-          "publishedAt": "2026-09-29T19:05:58.000Z"
-        }
-      ],
-      "latestActivity": "2026-09-29T19:05:58.000Z"
     },
     {
       "source": "Wired",
@@ -238,50 +385,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-29T19:05:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-      "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
-      "summary": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt We…",
-      "publishedAt": "2026-09-29T18:48:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/nachonacho2-e1790701460628.jpg?w=768",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T18:48:03.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
-      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-      "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
-      "publishedAt": "2026-09-29T18:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T18:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "There's now an official US government AI chatbot",
-      "link": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/",
-      "summary": "The administration wants America.gov to be the main portal for federal services.",
-      "publishedAt": "2026-09-29T18:43:58.000Z",
-      "image": "https://www.engadget.com/img/gallery/theres-now-an-official-us-government-ai-chatbot/l-intro-1790707301.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T18:43:58.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "publishedAt": "2026-09-29T18:35:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T18:35:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -328,17 +431,6 @@
       "latestActivity": "2026-09-29T18:03:01.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "publishedAt": "2026-09-29T17:45:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T17:45:51.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
@@ -348,17 +440,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-29T17:35:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "summary": "Article URL: https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\nComments URL: https://news.ycombinator.com/item?id=49897075\nPoints: 122\n# Comm…",
-      "publishedAt": "2026-09-29T17:31:26.000Z",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T17:31:26.000Z"
     },
     {
       "source": "Ars Technica",
@@ -383,12 +464,12 @@
       "latestActivity": "2026-09-29T17:19:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Dots: Always-on agents",
-      "link": "https://openai.com/index/introducing-dots/",
-      "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 398\n# Comments: 304",
-      "publishedAt": "2026-09-29T17:07:57.000Z",
-      "image": "https://media.wired.com/photos/6abbcee9422fade848ea964d/191:100/w_1280,c_limit/Dots%20Hero%20Image.png",
+      "source": "The Verge",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During…",
+      "publishedAt": "2026-09-29T17:15:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 2,
       "related": [
         {
@@ -401,50 +482,6 @@
       "latestActivity": "2026-09-29T17:15:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During…",
-      "publishedAt": "2026-09-29T17:15:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T17:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tcl/Tk 9.1",
-      "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 203\n# Comments: 64",
-      "publishedAt": "2026-09-29T17:13:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T17:13:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle…",
-      "publishedAt": "2026-09-29T17:12:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T17:12:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple&#8217;s new CEO could change when it launches phones and laptops",
-      "link": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
-      "summary": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of…",
-      "publishedAt": "2026-09-29T16:09:44.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/JohnTernus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T16:09:44.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "This study looks at how and with whom connected cars share your data",
       "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
@@ -454,28 +491,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-29T14:49:44.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Less protein for maggots means longer lives for fruit flies",
-      "link": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
-      "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults.",
-      "publishedAt": "2026-09-29T14:39:25.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1914127482-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T14:39:25.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-      "summary": "Similar performance, security trade-offs also seen in current public models.",
-      "publishedAt": "2026-09-29T14:22:31.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T14:22:31.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -542,17 +557,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-29T10:39:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government websi…",
-      "publishedAt": "2026-09-29T10:36:22.000Z",
-      "image": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/191:100/w_1280,c_limit/092926-OpenAI%20Scrap.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-29T10:36:22.000Z"
     },
     {
       "source": "MIT Technology Review",
