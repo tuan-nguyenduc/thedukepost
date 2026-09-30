@@ -1,6 +1,356 @@
 {
-  "syncedAt": "2026-09-30T18:53:32.933Z",
+  "syncedAt": "2026-09-30T23:32:55.904Z",
   "items": [
+    {
+      "source": "Engadget",
+      "title": "Elon Musk and Palmer Luckey will advise the government on the future of warfare",
+      "link": "https://www.engadget.com/2274082/elon-musk-and-palmer-luckey-will-advise-the-government-on-the-future-of-warfare/",
+      "summary": "So will Newt Gingrich, for some reason.",
+      "publishedAt": "2026-09-30T22:22:38.000Z",
+      "image": "https://www.engadget.com/img/gallery/elon-musk-and-palmer-luckey-will-advise-the-government-on-the-future-of-warfare/l-intro-1790806375.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+          "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+          "publishedAt": "2026-09-30T23:08:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-30T23:08:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "EDG C++ Compiler is open source",
+      "link": "https://github.com/edgcpp/compiler",
+      "summary": "Article URL: https://github.com/edgcpp/compiler\nComments URL: https://news.ycombinator.com/item?id=49915484\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-09-30T22:48:44.000Z",
+      "image": "https://opengraph.githubassets.com/b0ddd7fdaa450a21cf90d4a5c02b1f2f99e08816e42c01c6db758d4b8d8cd6c4/edgcpp/compiler",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T22:48:44.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Fujifilm's Instax Pal 2 can plug directly into your smartphone to transfer images",
+      "link": "https://www.engadget.com/2274075/fujifilm-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/",
+      "summary": "The small digital camera combines software filters with tactile controls.",
+      "publishedAt": "2026-09-30T22:04:10.000Z",
+      "image": "https://www.engadget.com/img/gallery/fujifilms-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/l-intro-1790805837.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T22:04:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 73\n# Comments: 12",
+      "publishedAt": "2026-09-30T22:03:04.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T22:03:04.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Dinosaur-killing impact crater might have been teeming with life",
+      "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+      "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
+      "publishedAt": "2026-09-30T21:54:12.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1042124682-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T21:54:12.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+      "link": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
+      "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
+      "publishedAt": "2026-09-30T21:37:54.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2257300982-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T21:37:54.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Returning from vacation? The government can search your phone without a warrant.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "summary": "Reminder: The \"border exemption\" to your rights is real.",
+      "publishedAt": "2026-09-30T21:19:56.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T21:19:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "publishedAt": "2026-09-30T21:07:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T21:07:40.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "A local network of implants uses your body as the wiring",
+      "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+      "summary": "It's possible to send electrical signals right through human tissues.",
+      "publishedAt": "2026-09-30T21:06:56.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1531989233-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T21:06:56.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The White House Is Starting to Panic Over the Midterms",
+      "link": "https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/",
+      "summary": "President Donald Trump still thinks Republicans have a shot. His aides are less convinced.",
+      "publishedAt": "2026-09-30T21:00:00.000Z",
+      "image": "https://media.wired.com/photos/6abbfbe5422fade848ea97c7/191:100/w_1280,c_limit/politics_republicans_midterms_panic.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T21:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+      "link": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "summary": "See also: Gemini 4 Argon - https://news.ycombinator.com/item?id=49913571\nComments URL: https://news.ycombinator.com/item?id=49914236\nPoints: 71\n# Comments: 28",
+      "publishedAt": "2026-09-30T20:50:28.000Z",
+      "image": "https://artificialanalysis.ai/en/models/gemini-4-argon/opengraph-image?98c684ee125a0a03",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T20:50:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+      "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+      "summary": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki t…",
+      "publishedAt": "2026-09-30T20:45:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SCP-X-NEON.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T20:45:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "publishedAt": "2026-09-30T20:44:48.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T20:44:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236\nComments URL: https://news.ycombinator.com/item?id=499…",
+      "publishedAt": "2026-09-30T20:04:37.000Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+          "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+          "publishedAt": "2026-09-30T20:11:08.000Z"
+        },
+        {
+          "source": "The Verge",
+          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "publishedAt": "2026-09-30T20:41:41.000Z"
+        }
+      ],
+      "latestActivity": "2026-09-30T20:41:41.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+      "publishedAt": "2026-09-30T20:39:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/01/facebook-research-vpn-project-atlas.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T20:39:09.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+      "publishedAt": "2026-09-30T20:30:09.000Z",
+      "image": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/191:100/w_1280,c_limit/093026-ai-regulations.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T20:30:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of…",
+      "publishedAt": "2026-09-30T20:20:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T20:20:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 17\n# Comments: 3",
+      "publishedAt": "2026-09-30T20:06:39.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!d3ew!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d4e492e-9f67-4032-b3a6-fd7f530d20bc_1904x1008.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T20:06:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CS240 AI Cheating Retrospective",
+      "link": "https://turkeyland.net/thoughts/ai.php",
+      "summary": "Article URL: https://turkeyland.net/thoughts/ai.php\nComments URL: https://news.ycombinator.com/item?id=49913458\nPoints: 70\n# Comments: 50",
+      "publishedAt": "2026-09-30T19:54:29.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:54:29.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Reddit is putting more limits on Old.Reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+      "summary": "Reddit says it's fighting \"automated abuse.\"",
+      "publishedAt": "2026-09-30T19:53:33.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2227553113-1-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:53:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Dear Software Makers",
+      "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 54\n# Comments: 29",
+      "publishedAt": "2026-09-30T19:45:38.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:45:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "link": "https://www.mattkeeter.com/projects/halfspace/",
+      "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 51\n# Comments: 6",
+      "publishedAt": "2026-09-30T19:44:37.000Z",
+      "image": "https://mattkeeter.com/projects/halfspace/hero@2x.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:44:37.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+      "publishedAt": "2026-09-30T19:31:25.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:31:25.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+      "publishedAt": "2026-09-30T19:30:00.000Z",
+      "image": "https://media.wired.com/photos/6abc30af03c559dbc086f308/191:100/w_1280,c_limit/AI-Lab-AI-Agent-War-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+      "publishedAt": "2026-09-30T19:29:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pentagon-dod-2026-2288897667.jpg?resize=1200,869",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:29:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "DoorDash’s drone strategy started on the ground",
+      "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+      "publishedAt": "2026-09-30T19:22:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Doordash-Air-drone.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:22:13.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+      "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+      "publishedAt": "2026-09-30T19:19:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/bmw-350-vs-i3-50.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:19:40.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Furry Airline Pilots Are Just Minding Their Own Business",
+      "link": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/",
+      "summary": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant…",
+      "publishedAt": "2026-09-30T19:09:57.000Z",
+      "image": "https://media.wired.com/photos/6abbb04db96cb58163524730/191:100/w_1280,c_limit/092926-Pilots%20are%20furries.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:09:57.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "publishedAt": "2026-09-30T19:00:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:00:57.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+      "publishedAt": "2026-09-30T19:00:00.000Z",
+      "image": "https://media.wired.com/photos/6abc561adcf8a088a1995737/191:100/w_1280,c_limit/science_biological_weapons_ai.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-09-30T19:00:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Breville's new $600 coffee machine makes pour-overs from scratch",
@@ -13,43 +363,10 @@
       "latestActivity": "2026-09-30T18:37:29.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
-      "publishedAt": "2026-09-30T18:25:04.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T18:25:04.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "publishedAt": "2026-09-30T18:23:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T18:23:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 7\n# Comments: 1",
-      "publishedAt": "2026-09-30T18:17:45.000Z",
-      "image": "https://www.netlify.com/images/blog/edge-functions-firecracker-microvms.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T18:17:45.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The AI Tamagotchis are coming",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Image: Hayden Field / The Verge\t\n\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicat…",
+      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\t\n\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicat…",
       "publishedAt": "2026-09-30T18:07:38.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -68,44 +385,15 @@
       "latestActivity": "2026-09-30T17:49:56.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "source": "The Verge",
+      "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+      "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+      "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in…",
       "publishedAt": "2026-09-30T17:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
-          "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
-          "publishedAt": "2026-09-30T17:45:00.000Z"
-        }
-      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-09-30T17:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "link": "https://github.com/magnitudedev/magnitude",
-      "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and…",
-      "publishedAt": "2026-09-30T17:37:40.000Z",
-      "image": "https://opengraph.githubassets.com/fa99475c6a2bdde20135e036151245936f2e03c2785fc3401ec0fbf33e428913/magnitudedev/magnitude",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T17:37:40.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The ugly economics of consumer AI",
-      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-      "publishedAt": "2026-09-30T17:24:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T17:24:45.000Z"
     },
     {
       "source": "The Verge",
@@ -119,17 +407,6 @@
       "latestActivity": "2026-09-30T17:21:29.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Commit Description as a Thinking Tool",
-      "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
-      "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 53\n# Comments: 16",
-      "publishedAt": "2026-09-30T17:18:13.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T17:18:13.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
@@ -139,17 +416,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-30T17:15:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer\nComments URL: https://news.ycombinator.com/item?id=49911531\nPoints: 0\n# Comments:…",
-      "publishedAt": "2026-09-30T17:00:20.000Z",
-      "image": "https://bookface-images.s3.amazonaws.com/logos/85f165bf52e787a3301c4f5c5600c4e10c9f0063.png?1745436151",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T17:00:20.000Z"
     },
     {
       "source": "The Verge",
@@ -174,17 +440,6 @@
       "latestActivity": "2026-09-30T16:59:39.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
-      "link": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
-      "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
-      "publishedAt": "2026-09-30T16:48:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1242530931-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T16:48:56.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Asus won’t say how it escaped the US router ban",
       "link": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
@@ -194,28 +449,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-30T16:44:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
-      "link": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
-      "summary": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nXbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June t…",
-      "publishedAt": "2026-09-30T16:24:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T16:24:30.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the require…",
-      "publishedAt": "2026-09-30T16:24:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T16:24:23.000Z"
     },
     {
       "source": "Engadget",
@@ -240,50 +473,6 @@
       "latestActivity": "2026-09-30T16:07:24.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Google's early attempt to pay websites for AI answers is struggling",
-      "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
-      "publishedAt": "2026-09-30T16:03:48.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T16:03:48.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "publishedAt": "2026-09-30T16:00:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T16:00:24.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Destro-AI-Announcement-Cover.png?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
-      "link": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
-      "summary": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's…",
-      "publishedAt": "2026-09-30T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/halide.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T16:00:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Freckle's smartphone aims to get kids back outside on their own",
       "link": "https://www.engadget.com/2273319/freckles-smartphone-aims-to-get-kids-back-outside-on-their-own/",
@@ -293,149 +482,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-30T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-      "publishedAt": "2026-09-30T15:56:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:56:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
-      "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 34\n# Comments: 25",
-      "publishedAt": "2026-09-30T15:54:59.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:54:59.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Google figures out how to watermark AI-designed proteins",
-      "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
-      "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
-      "publishedAt": "2026-09-30T15:54:52.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:54:52.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Affordable alternatives to DJI's Osmo Pocket 4",
-      "link": "https://www.engadget.com/2271706/affordable-alternatives-to-djis-osmo-pocket-4/",
-      "summary": "The best options when DJI's gimbal camera is too expensive or unavailable.",
-      "publishedAt": "2026-09-30T15:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/affordable-alternatives-to-djis-osmo-pocket-4/l-intro-1790682008.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-      "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
-      "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
-      "publishedAt": "2026-09-30T15:26:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/harbinger-fedex-electric-delivery-truck-series-c-funding-scaled-1.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:26:02.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Nintendo's Mario Kart Tour mobile game is officially dead",
-      "link": "https://www.engadget.com/2273291/nintendos-mario-kart-tour-mobile-game-is-officially-dead/",
-      "summary": "It joins other smartphone titles in the graveyard, like Miitomo, Dr. Mario World and Dragalia Lost.",
-      "publishedAt": "2026-09-30T15:23:57.000Z",
-      "image": "https://www.engadget.com/img/gallery/nintendos-mario-kart-tour-mobile-game-is-officially-dead/l-intro-1790781523.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:23:57.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The PS5 hacking scene just took a big leap forward",
-      "link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
-      "summary": "New exploit works on all but the most recently updated consoles.",
-      "publishedAt": "2026-09-30T15:12:46.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2186493403-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:12:46.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Discord gives more advertisers more tools to target its users",
-      "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
-      "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
-      "publishedAt": "2026-09-30T15:01:40.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1244881649-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:01:40.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "What butterfly wings have in common with barbershop poles",
-      "link": "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
-      "summary": "Wing patterns, flight dynamics create \"motion dazzle\" effect, make it harder to gauge speed, direction.",
-      "publishedAt": "2026-09-30T15:00:56.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/butterfly1-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T15:00:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-      "link": "https://strata.do/try/",
-      "summary": "Hello HN, I'm Ajo and I built Strata.\nI spent 4 years at Netflix solving self service for non-technical business users. I think I cracked it with my unique approach to semantic lay…",
-      "publishedAt": "2026-09-30T14:59:57.000Z",
-      "image": "https://strata.do/og/try.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T14:59:57.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
-      "link": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
-      "summary": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500.",
-      "publishedAt": "2026-09-30T14:42:58.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/P90657631_highRes_the-new-bmw-3-series-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T14:42:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "SDF Public Access Unix System ... est. 1987",
-      "link": "https://sdf.org/",
-      "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 44\n# Comments: 5",
-      "publishedAt": "2026-09-30T14:36:02.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T14:36:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A brief history of the Bloomberg terminal",
-      "link": "https://spectrum.ieee.org/bloomberg-terminal",
-      "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 125\n# Comments: 45",
-      "publishedAt": "2026-09-30T14:34:07.000Z",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T14:34:07.000Z"
     },
     {
       "source": "Wired",
@@ -491,61 +537,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-09-30T10:40:30.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Black Twitter Is Thriving—on Threads",
-      "link": "https://www.wired.com/story/threads-is-black-twitters-unlikely-spiritual-successor/",
-      "summary": "From outrage over Nolan Wells’ death to analysis of HBO Max’s Lanterns, Threads has transformed into a vital artery of the Black social media ecosystem.",
-      "publishedAt": "2026-09-30T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6abaff642122500d82924081/191:100/w_1280,c_limit/Black-Threads-Thriving-Culture.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank",
-      "link": "https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/",
-      "summary": "Lost time. Lost jobs. Lost friends. Lost family. Lost lives. Our joint investigation reveals the system that has divided the West Bank and measures what it cost people to move thro…",
-      "publishedAt": "2026-09-30T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6abbf437aaebf176f00cbd89/191:100/w_1280,c_limit/GettyImages-1249548135.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More",
-      "link": "https://www.wired.com/gallery/the-best-kids-mattresses/",
-      "summary": "Learn what to look for when buying a kids’ mattress, plus how six top models stack up, according to my 2-year-old.",
-      "publishedAt": "2026-09-30T09:32:00.000Z",
-      "image": "https://media.wired.com/photos/6abc3abdadb8c46babb74b7e/191:100/w_1280,c_limit/The-Best-Kids%E2%80%99-Mattresses,-Put-Through-the-Toddler-Test.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T09:32:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-      "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-      "publishedAt": "2026-09-30T05:30:53.000Z",
-      "image": "https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/191:100/w_1280,c_limit/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T05:30:53.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "publishedAt": "2026-09-30T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/191:100/w_1280,c_limit/WIRED-Coupons-R2_17.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T05:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
