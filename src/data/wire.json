@@ -1,6 +1,255 @@
 {
-  "syncedAt": "2026-10-04T11:57:08.885Z",
+  "syncedAt": "2026-10-04T16:46:36.569Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "publishedAt": "2026-10-04T15:15:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Trump announces an AI czar for his newly created 'Super Intelligence Force'",
+          "link": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
+          "publishedAt": "2026-10-04T16:29:26.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-04T16:29:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "summary": "Well, if AI said it, it must be true. | Bloomberg via Getty Images\t\n\nNew Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation fo…",
+      "publishedAt": "2026-10-04T16:16:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T16:16:04.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to disable or restrict your iPhone's Apple Intelligence features",
+      "link": "https://www.engadget.com/2274326/how-to-disable-restrict-iphone-apple-intelligence-features/",
+      "summary": "You have a lot of control over AI on your iPhone.",
+      "publishedAt": "2026-10-04T16:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-disable-or-restrict-your-iphones-apple-intelligence-features/l-intro-1790858757.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T16:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "publishedAt": "2026-10-04T16:05:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/zoox-waymo-getty.jpg?resize=1200,801",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T16:05:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's what you should do if only one of your AirPods is working",
+      "link": "https://www.engadget.com/2274084/what-should-do-only-one-airpod-working/",
+      "summary": "If only one AirPod isn't working, you have several options for troubleshooting and getting your audio back.",
+      "publishedAt": "2026-10-04T15:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-what-you-should-do-if-only-one-of-your-airpods-is-working/l-intro-1790807521.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T15:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "link": "https://automatictransmission.khoury.northeastern.edu/",
+      "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/\nComments URL: https://news.ycombinator.com/item?id=49954882\nPoints: 77\n# Comments: 30",
+      "publishedAt": "2026-10-04T15:43:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T15:43:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "RuneScape's Position on Gen AI",
+      "link": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
+      "summary": "Article URL: https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/\nComments URL: https://news.ycombinator.com/item?id=49954745\nPoints: 13\n# Comments: 1…",
+      "publishedAt": "2026-10-04T15:29:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T15:29:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best…",
+      "publishedAt": "2026-10-04T15:21:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T15:21:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Do gaming routers really make a difference?",
+      "link": "https://www.engadget.com/2274051/do-gaming-routers-make-difference/",
+      "summary": "Gaming routers have fancy designs and a few special features, but they can't fix every problem with your network setup.",
+      "publishedAt": "2026-10-04T15:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/do-gaming-routers-really-make-a-difference/l-intro-1790803637.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T15:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "summary": "The OhSnap Wallet 2. | Photo by Sean Hollister / The Verge\t\n\nThis toolless modular lever-action wallet is the coolest I've stuck to my phone.\nRemember when I tested the ultra-thin…",
+      "publishedAt": "2026-10-04T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T15:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The pros and cons of enabling Wi-Fi calling",
+      "link": "https://www.engadget.com/2273956/wifi-calling-pros-cons/",
+      "summary": "Wi-Fi calling can help a lot if you're in an area with a weak cellular connection, but you should know the drawbacks before jumping in.",
+      "publishedAt": "2026-10-04T14:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-enabling-wi-fi-calling/l-intro-1790798871.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T14:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How getting rid of some USB gadgets can improve your bad Wi-Fi",
+      "link": "https://www.engadget.com/2273916/removing-some-usb-gadgets-improve-wifi/",
+      "summary": "A bit of decluttering can go a long way toward improving your Wi-Fi.",
+      "publishedAt": "2026-10-04T14:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-getting-rid-of-some-usb-gadgets-can-improve-your-bad-wi-fi/l-intro-1790521977.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T14:15:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why you shouldn't sync your phone to a rental car",
+      "link": "https://www.engadget.com/2273912/why-shouldnt-sync-phone-to-rental-car/",
+      "summary": "Unless you pay attention, your contacts could end up forever stored in the car.",
+      "publishedAt": "2026-10-04T13:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-you-shouldnt-sync-your-phone-to-a-rental-car/l-intro-1790797303.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T13:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Internet speeds vs. bandwidth: What's the difference?",
+      "link": "https://www.engadget.com/2273852/internet-speeds-vs-bandwidth-differences/",
+      "summary": "Knowing your internet speed is important, but bandwidth is another important metric that many people overlook.",
+      "publishedAt": "2026-10-04T13:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/internet-speeds-vs-bandwidth-whats-the-difference/l-intro-1790795278.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T13:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The AirPods Pro 3 are a fantastic deal at $179",
+      "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge\t\n\nIt’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M…",
+      "publishedAt": "2026-10-04T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "link": "https://github.com/Niko1221/Strata",
+      "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 263\n# Comments: 134",
+      "publishedAt": "2026-10-04T12:51:53.000Z",
+      "image": "https://opengraph.githubassets.com/eb76f08d09776b491016948d95f10c57803d126cab679eed07c25536fb84621e/Niko1221/Strata",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T12:51:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
+      "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "summary": "Pictured: The 15-inch Apple MacBook Air. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nAmazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually…",
+      "publishedAt": "2026-10-04T12:34:01.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T12:34:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "summary": "Apple’s iPad Mini is temporarily on sale for its old price. | Photo: David Pierce / The Verge\t\n\nApple bumped up prices on several of its devices in June, and we haven’t seen a good…",
+      "publishedAt": "2026-10-04T12:31:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T12:31:50.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The forgotten Chromebook that started it all",
+      "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instea…",
+      "publishedAt": "2026-10-04T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Chromebook_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The rise, fall, and rise of portable MP3 players",
+      "link": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Te…",
+      "publishedAt": "2026-10-04T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10187187/jbareham_180208_2298_0023_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+      "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and\nComments URL: https://news.ycombinator.com/item?id=49953116\nPoints: 85\n# Comments: 38",
+      "publishedAt": "2026-10-04T11:58:47.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T11:58:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "All hail electrification. But let’s talk about the hard part.",
+      "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+      "publishedAt": "2026-10-04T11:05:53.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1463437040-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T11:05:53.000Z"
+    },
     {
       "source": "Wired",
       "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
@@ -69,9 +318,20 @@
     },
     {
       "source": "Hacker News",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "link": "https://github.com/allenv0/SCM",
+      "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 67\n# Comments: 38",
+      "publishedAt": "2026-10-04T09:24:52.000Z",
+      "image": "https://opengraph.githubassets.com/5f968d04faa9c12a38fe23af03e1bee5620e6da32f00a8218014ea71de5aadac/allenv0/SCM",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-04T09:24:52.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
       "link": "https://gamehistory.org/5k-magazines/",
-      "summary": "Article URL: https://gamehistory.org/5k-magazines/\nComments URL: https://news.ycombinator.com/item?id=49952029\nPoints: 33\n# Comments: 3",
+      "summary": "Article URL: https://gamehistory.org/5k-magazines/\nComments URL: https://news.ycombinator.com/item?id=49952029\nPoints: 76\n# Comments: 12",
       "publishedAt": "2026-10-04T09:07:11.000Z",
       "image": "https://gamehistory.org/wp-content/uploads/2026/09/5Kcollage-1.jpg",
       "sourceCount": 1,
@@ -91,168 +351,25 @@
     },
     {
       "source": "Hacker News",
-      "title": "In Ukraine, distributed renewables foil Russia's assaults",
-      "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-      "summary": "Article URL: https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/\nComments URL: https://news.ycombinator.com/item?id=49951881\nPoints: 99\n#…",
-      "publishedAt": "2026-10-04T08:39:58.000Z",
-      "image": "https://energytransition.org/wp-content/uploads/2026/09/caspar-rae-vu3pOspbvN0-unsplash-scaled.jpg",
+      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49951641\nPoint…",
+      "publishedAt": "2026-10-04T07:53:45.000Z",
+      "image": "https://content.wolfram.com/sites/43/2026/09/social-pure-math-v3.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-04T08:39:58.000Z"
+      "latestActivity": "2026-10-04T07:53:45.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
       "link": "https://github.com/PowderworksCode/headstart",
-      "summary": "Article URL: https://github.com/PowderworksCode/headstart\nComments URL: https://news.ycombinator.com/item?id=49951218\nPoints: 12\n# Comments: 1",
+      "summary": "Article URL: https://github.com/PowderworksCode/headstart\nComments URL: https://news.ycombinator.com/item?id=49951218\nPoints: 70\n# Comments: 12",
       "publishedAt": "2026-10-04T06:26:57.000Z",
-      "image": "https://opengraph.githubassets.com/a0b94071d155929b480ffd323e1428ccd6e4bc0ed6b3ba5ccc44ba1d2590e8ac/PowderworksCode/headstart",
+      "image": "https://opengraph.githubassets.com/cb4177f9ee8960456c4ba09f8e74829faff9680ee156da4f2edce75de798c8a2/PowderworksCode/headstart",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-04T06:26:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why don't more developers “use the platform”?",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\nComments URL: https://news.ycombinator.com/item?id=49950554\nPoints: 161\n# Comments: 133",
-      "publishedAt": "2026-10-04T04:10:47.000Z",
-      "image": "https://nolanlawson.com/_astro/dragndrop.CW1aBe6Q_ZDDLsQ.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T04:10:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Religious scholars met with Anthropic",
-      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "summary": "https://archive.is/y8FW0\nComments URL: https://news.ycombinator.com/item?id=49950052\nPoints: 87\n# Comments: 205",
-      "publishedAt": "2026-10-04T02:34:22.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T02:34:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "We're working on a new RuneScape MMO",
-      "link": "https://play.runescape.com/4",
-      "summary": "Article URL: https://play.runescape.com/4\nComments URL: https://news.ycombinator.com/item?id=49949588\nPoints: 85\n# Comments: 31",
-      "publishedAt": "2026-10-04T01:12:22.000Z",
-      "image": "https://framerusercontent.com/assets/HCwsaASxTp11fkiKGHtraPRCRas.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T01:12:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tell HN: Bob Cringely has died",
-      "link": "https://news.ycombinator.com/item?id=49949438",
-      "summary": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was b…",
-      "publishedAt": "2026-10-04T00:50:52.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T00:50:52.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What are amplifiers for and how important are they to your sound system's quality?",
-      "link": "https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/",
-      "summary": "If you're looking into a new sound system, you may be wondering if you need an amplifier as well. Here's how to tell and why amps even matter.",
-      "publishedAt": "2026-10-04T00:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-are-amplifiers-for-and-how-important-are-they-to-your-sound-systems-quality/l-intro-1790709805.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T00:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/\nComments URL: https://news.ycombinator.com/item?id=49949235\nPoints: 463\n# Comments: 228",
-      "publishedAt": "2026-10-04T00:20:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T00:20:16.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How has Apple's Mac Studio changed over the years?",
-      "link": "https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/",
-      "summary": "Explore how Apple's Mac Studio has evolved, with internal upgrades, performance gains, and subtle design changes shaping each new generation of the desktop.",
-      "publishedAt": "2026-10-04T00:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-has-apples-mac-studio-changed-over-the-years/l-intro-1790792215.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T00:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What's the difference between battery capacity and battery life?",
-      "link": "https://www.engadget.com/2273775/battery-capacity-vs-life-differences/",
-      "summary": "Battery capacity often plays into battery life, but an impressive capacity stat doesn't translate to excellent battery life.",
-      "publishedAt": "2026-10-03T23:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-battery-capacity-and-battery-life/l-intro-1790703244.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T23:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why is this the only pink MacBook available right now?",
-      "link": "https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/",
-      "summary": "Is it too much to ask for some more colorful laptops?",
-      "publishedAt": "2026-10-03T23:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-is-this-the-only-pink-macbook-available-right-now/l-intro-1790350337.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T23:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "This little-known app lets you display song lyrics on Apple CarPlay",
-      "link": "https://www.engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay/",
-      "summary": "You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget.",
-      "publishedAt": "2026-10-03T23:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/this-little-known-app-lets-you-display-song-lyrics-on-apple-carplay/l-intro-1790792332.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T23:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why this ancient cable still connects to modern TVs with a simple adapter",
-      "link": "https://www.engadget.com/2273698/dvi-cable-why-still-connects-modern-tv-simple-adapter/",
-      "summary": "DVI to HDMI adapters are a cheap and simple way to connect up old hardware, but don't expect miracles.",
-      "publishedAt": "2026-10-03T22:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-this-ancient-cable-still-connects-to-modern-tvs-with-a-simple-adapter/l-intro-1790791400.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T22:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to improve your laptop's webcam quality",
-      "link": "https://www.engadget.com/2273684/how-to-improve-laptop-webcam-quality/",
-      "summary": "Your laptop's webcam is not usually an impressive piece of hardware, but you can help make up for its shortcomings.",
-      "publishedAt": "2026-10-03T22:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-laptops-webcam-quality/l-intro-1790790673.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T22:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Online retailers that don't support digital wallets are losing Gen Z customers",
-      "link": "https://www.engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers/",
-      "summary": "A study suggests younger people are more likely to walk away if their preferred payment option isn't supported.",
-      "publishedAt": "2026-10-03T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/online-retailers-that-dont-support-digital-wallets-are-losing-gen-z-customers/l-intro-1790786612.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T22:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -306,44 +423,15 @@
       "latestActivity": "2026-10-03T18:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi I…",
-      "publishedAt": "2026-10-03T16:49:10.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "TechCrunch",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "publishedAt": "2026-10-03T16:30:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-03T16:49:10.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editori…",
-      "publishedAt": "2026-10-03T14:31:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-          "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-          "publishedAt": "2026-10-03T16:30:01.000Z"
-        }
-      ],
       "latestActivity": "2026-10-03T16:30:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The best early October Prime Day deals happening now",
-      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up Oct…",
-      "publishedAt": "2026-10-03T16:22:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T16:22:40.000Z"
     },
     {
       "source": "TechCrunch",
@@ -355,17 +443,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-03T15:02:01.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into ma…",
-      "publishedAt": "2026-10-03T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T15:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -390,28 +467,6 @@
       "latestActivity": "2026-10-03T14:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-      "publishedAt": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "3D movies are finally worth watching",
-      "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
-      "summary": "My colleague Cameron Faulkner models a pair of Xreal glasses. | Photo: Cameron Faulkner / The Verge\t\n\nWhy am I suddenly buying up every 3D Blu-ray I can find after 3D became one of…",
-      "publishedAt": "2026-10-03T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T12:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "The dawn of the age of the exoskeleton",
       "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
@@ -421,17 +476,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-03T11:15:33.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "publishedAt": "2026-10-03T00:45:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-03T00:45:39.000Z"
     },
     {
       "source": "Ars Technica",
@@ -456,39 +500,6 @@
       "latestActivity": "2026-10-02T21:19:05.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a c…",
-      "publishedAt": "2026-10-02T21:08:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-02T21:08:37.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Netflix is pivoting away from prestige",
-      "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-      "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few…",
-      "publishedAt": "2026-10-02T20:30:26.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-02T20:30:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling…",
-      "publishedAt": "2026-10-02T20:08:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-02T20:08:40.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Patient-zero drill put health facilities to the test—40% of them failed",
       "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
@@ -509,17 +520,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-02T19:09:49.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The 2008 economic crisis changed the US's relationship with energy",
-      "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-      "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
-      "publishedAt": "2026-10-02T18:56:21.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-02T18:56:21.000Z"
     },
     {
       "source": "MIT Technology Review",
