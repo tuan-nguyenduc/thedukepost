@@ -1,16 +1,122 @@
 {
-  "syncedAt": "2026-10-05T00:32:27.150Z",
+  "syncedAt": "2026-10-05T08:36:23.157Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "1 in 8 cancer cases are caused by infections",
-      "link": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say",
-      "summary": "Article URL: https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say\nComments URL: https://news.y…",
-      "publishedAt": "2026-10-05T00:04:02.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/t32xEppKyPMuZPcV9mYAPH-2000-80.jpg",
+      "source": "The Verge",
+      "title": "The new Fitbit Edge leaks",
+      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by…",
+      "publishedAt": "2026-10-04T21:02:09.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Google's Fitbit Edge leaks out with a screen and Pixel 11 colors",
+          "link": "https://www.engadget.com/2276917/google-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors/",
+          "publishedAt": "2026-10-05T08:18:13.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-05T08:18:13.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the st…",
+      "publishedAt": "2026-10-05T08:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-05T00:04:02.000Z"
+      "latestActivity": "2026-10-05T08:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Sales of sub-€25,000 electric car models set to rise sevenfold",
+      "link": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
+      "summary": "Article URL: https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold\nComment…",
+      "publishedAt": "2026-10-05T07:51:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-05T07:51:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 15\n# Comments: 8",
+      "publishedAt": "2026-10-05T07:46:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-05T07:46:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Replacement of petroleum based products with plant-based materials (2025)",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+      "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 52\n# Comments: 20",
+      "publishedAt": "2026-10-05T05:09:43.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-05T05:09:43.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+      "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+      "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+      "publishedAt": "2026-10-05T04:00:52.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egypt1-1152x648-1791134921.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-05T04:00:52.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may…",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments URL: https://news.yco…",
+      "publishedAt": "2026-10-05T01:54:08.000Z",
+      "image": "https://cdn-8.motorsport.com/images/amp/68Vw9aB2/s6/max-verstappen-red-bull-racing.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-05T01:54:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A 40ms Go garbage collector pause caused by swap",
+      "link": "https://frn.sh/go-gc/",
+      "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 83\n# Comments: 63",
+      "publishedAt": "2026-10-05T01:11:56.000Z",
+      "image": "https://frn.sh/gogc/hz-strip-pauses-og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-05T01:11:56.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What are the benefits of having a second monitor?",
+      "link": "https://www.engadget.com/2274822/benefits-of-second-monitor-explained/",
+      "summary": "Adding a second monitor is a huge upgrade, even if you aren't doing intensive work like editing video or accounting. More screen space is always helpful.",
+      "publishedAt": "2026-10-05T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-benefits-of-having-a-second-monitor/l-intro-1790876033.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-05T00:30:00.000Z"
     },
     {
       "source": "Engadget",
@@ -79,21 +185,10 @@
       "latestActivity": "2026-10-04T22:45:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How the iPhone Duo will improve your group selfies",
-      "link": "https://www.engadget.com/2274699/iphone-duo-smart-take-ai-photo-capturing-feature-improve-group-selfies/",
-      "summary": "The iPhone Duo's foldable form factor allows for more placement options, but there are also new camera features you should know about.",
-      "publishedAt": "2026-10-04T22:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-the-iphone-duo-will-improve-your-group-selfies/l-intro-1790799711.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T22:30:00.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Self-hosted HTTP tunnels with SSH and Nginx",
       "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-      "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 30\n# Comments: 10",
+      "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 131\n# Comments: 31",
       "publishedAt": "2026-10-04T22:25:10.000Z",
       "image": "https://d2pzklc15kok91.cloudfront.net/images/covers/en/blog/2026-http-over-ssh.922a043bebfeb0.jpg",
       "sourceCount": 1,
@@ -101,32 +196,10 @@
       "latestActivity": "2026-10-04T22:25:10.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How to improve your iPhone's call quality",
-      "link": "https://www.engadget.com/2274693/how-to-improve-iphone-call-quality-voice-isolation/",
-      "summary": "Your iPhone should handle calls reliably, but if you can't hear the other person or calls aren't stable, it's time to run through a few fixes.",
-      "publishedAt": "2026-10-04T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-iphones-call-quality/l-intro-1790872478.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T22:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The new Fitbit Edge leaks",
-      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by…",
-      "publishedAt": "2026-10-04T21:02:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T21:02:09.000Z"
-    },
-    {
       "source": "Hacker News",
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
       "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/\nComments URL: https://news.ycombinato…",
+      "summary": "https://archive.org/details/tippett-archive/\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 125\n# Comments: 13",
       "publishedAt": "2026-10-04T21:01:28.000Z",
       "image": "https://spaces.filmstories.co.uk/uploads/2019/10/phil-tippett.jpg",
       "sourceCount": 1,
@@ -168,58 +241,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "summary": "Paper: \nhttps://www.usenix.org/system/files/atc21-ousterhout.pdf\nRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro...\nComment…",
-      "publishedAt": "2026-10-04T19:42:25.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T19:42:25.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
       "link": "https://github.com/omlahore/RemoveMacAI",
-      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 305\n# Comments: 189",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 550\n# Comments: 369",
       "publishedAt": "2026-10-04T19:42:25.000Z",
       "image": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-04T19:42:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\nComments URL: https://news.ycombinator.com/it…",
-      "publishedAt": "2026-10-04T19:37:05.000Z",
-      "image": "https://gray-koln-prod.gtv-cdn.com/resizer/v2/36VTWY3Y7JCSLEH3E3AVQDZW7I.jpg?auth=355cee73f82e9c4dcbb52fd940ebab6de819d176b660deca5d48b34dc7dcf1f5&width=1200&height=600&smart=true",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T19:37:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Build with Python – a beginner course where your code draws",
-      "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-      "summary": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal outpu…",
-      "publishedAt": "2026-10-04T18:59:25.000Z",
-      "image": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python/opengraph-image",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T18:59:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "link": "https://wieslawsoltes.github.io/VB6/",
-      "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 52\n# Comments: 18",
-      "publishedAt": "2026-10-04T18:49:17.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-04T18:49:17.000Z"
     },
     {
       "source": "The Verge",
@@ -515,17 +544,6 @@
       "latestActivity": "2026-10-02T21:19:05.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-      "publishedAt": "2026-10-02T20:07:59.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1227666052-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-02T20:07:59.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Redefining enterprise intelligence with autonomous AI",
       "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
@@ -590,28 +608,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-01T10:32:24.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "How smaller, distributed batteries could help the grid",
-      "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage proje…",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Copper-Sept-2026-NolanCalischPhoto-9.jpg?w=840",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-01T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the…",
-      "publishedAt": "2026-09-30T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT_TR_Uri_Moaz-177-thumb.jpg?w=840",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-09-30T12:10:00.000Z"
     }
   ]
 }
