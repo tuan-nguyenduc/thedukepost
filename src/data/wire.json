@@ -1,6 +1,116 @@
 {
-  "syncedAt": "2026-10-09T23:52:42.421Z",
+  "syncedAt": "2026-10-10T04:57:33.705Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html\nComments URL: https://news.ycombinator.com/item?id=50029330\nPoints: 11\n# Comments: 4",
+      "publishedAt": "2026-10-10T03:42:11.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-10T03:42:11.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "publishedAt": "2026-10-10T03:10:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-10T03:10:06.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\nComments URL: https://news.ycombinator.com/item?id=50029123\nPoints: 9\n# Comments: 1",
+      "publishedAt": "2026-10-10T03:02:47.000Z",
+      "image": "https://beaksec.github.io/assets/img/posts/telegram-desktop-one-click-account-takeover/cover.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-10T03:02:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Put a price on breakthroughs",
+      "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+      "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/\nComments URL: https://news.ycombinator.com/item?id=50028982\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-10-10T02:37:47.000Z",
+      "image": "https://alexwang.ai/images/share-card_hu_5a8999b1bc09c73e.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-10T02:37:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "summary": "Article URL: https://rea.tools/\nComments URL: https://news.ycombinator.com/item?id=50028275\nPoints: 210\n# Comments: 63",
+      "publishedAt": "2026-10-10T00:37:07.000Z",
+      "image": "https://rea.tools/assets/social-card.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-10T00:37:07.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "publishedAt": "2026-10-10T00:18:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-10T00:18:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Has the Autonomous Trucking Revolution Arrived?",
+      "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+      "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/\nComments URL: https://news.ycombinator.com/item?id=50028062\nPoints: 20\n# Comments:…",
+      "publishedAt": "2026-10-09T23:57:12.000Z",
+      "image": "https://phenomenalworld.org/wp-content/uploads/2026/09/Copy-of-September-LL.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-09T23:57:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "summary": "Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants\nComments URL: https://news.ycombinator.com/item?id=500280…",
+      "publishedAt": "2026-10-09T23:53:08.000Z",
+      "image": "https://www.broadinstitute.org/files/longstory/DSC_7778_mo-BROAD00263923.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-09T23:53:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
+      "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
+      "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf\nComments URL: https://news.ycombinator.com/item?id=50027884\nPoints: 16\n# Comments: 3",
+      "publishedAt": "2026-10-09T23:32:04.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-09T23:32:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Compiling Rust to readable C with Eurydice",
+      "link": "https://lwn.net/Articles/1055211/",
+      "summary": "Article URL: https://lwn.net/Articles/1055211/\nComments URL: https://news.ycombinator.com/item?id=50027853\nPoints: 38\n# Comments: 4",
+      "publishedAt": "2026-10-09T23:28:36.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-09T23:28:36.000Z"
+    },
     {
       "source": "Ars Technica",
       "title": "Neanderthal wooden tools from Spain found preserved in stone",
@@ -40,17 +150,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-09T22:08:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
-      "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
-      "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344\nComments URL: https://new…",
-      "publishedAt": "2026-10-09T22:05:53.000Z",
-      "image": "https://www.japaninsides.com/wp-content/uploads/2026/10/In-2012-a-Japanese-sushi-chain-owner-flew-to-Somalia-and-taught-pirates-to-catch-tuna-—-and-single-handedly-ended-Somali-piracy.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T22:05:53.000Z"
     },
     {
       "source": "Ars Technica",
@@ -108,17 +207,6 @@
       "latestActivity": "2026-10-09T21:34:09.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
-      "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
-      "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/\nComments URL: https://news.ycombinator.com/item?id…",
-      "publishedAt": "2026-10-09T21:25:09.000Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315777268.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T21:25:09.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Flock Safety is reportedly planning major layoffs now that everyone hates it",
       "link": "https://www.engadget.com/2282823/flock-safety-reportedly-planning-major-layoffs/",
@@ -154,17 +242,6 @@
       "latestActivity": "2026-10-09T21:15:38.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\nComments URL: https://news.ycombinator.com/item?id=5…",
-      "publishedAt": "2026-10-09T21:06:59.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T21:06:59.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "What's been driving Hawaii's lava fountains?",
       "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
@@ -185,17 +262,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-09T20:18:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "No Man Is an Island",
-      "link": "https://borretti.me/article/no-man-is-an-island",
-      "summary": "Article URL: https://borretti.me/article/no-man-is-an-island\nComments URL: https://news.ycombinator.com/item?id=50025935\nPoints: 242\n# Comments: 140",
-      "publishedAt": "2026-10-09T20:04:00.000Z",
-      "image": "https://borretti.me/assets/card/no-man-is-an-island.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T20:04:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -286,28 +352,6 @@
       "latestActivity": "2026-10-09T18:54:52.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "You might want to try being less creative",
-      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-      "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less\nComments URL: https://news.ycombinator.com/item?id=50024927\nPoints: 61\n# Comments: 29",
-      "publishedAt": "2026-10-09T18:39:47.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!02JR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1725c685-d4e9-4448-b3b1-0bb93bc8e016_604x453.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T18:39:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Microsoft-Decision-1, our model for fast decision-making",
-      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-      "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\nComments URL: https://news.ycombinator.com/item?id=50024913\nPoints: 120\n# Comments: 44",
-      "publishedAt": "2026-10-09T18:38:44.000Z",
-      "image": "https://commandline.microsoft.com/wp-content/uploads/2026/10/introducing-microsoft-decision-1-our-model-for-fast-decision-making-card.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T18:38:44.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
       "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
@@ -328,28 +372,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-09T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "M7.6 Earthquake in Panama",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive\nComments URL: https://news.ycombinator.com/item?id=50024669\nPoints: 116\n# Comments: 33",
-      "publishedAt": "2026-10-09T18:22:20.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T18:22:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ideas aren't getting harder to find (2022)",
-      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
-      "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find\nComments URL: https://news.ycombinator.com/item?id=50024571\nPoints: 111\n# Comments: 49",
-      "publishedAt": "2026-10-09T18:16:03.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!-XrE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7617e5b6-e7d0-4946-bb77-1d7532af42e9_1789x1222.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T18:16:03.000Z"
     },
     {
       "source": "The Verge",
@@ -416,28 +438,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-09T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled communi…",
-      "publishedAt": "2026-10-09T16:56:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T16:56:42.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "publishedAt": "2026-10-09T16:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T16:45:00.000Z"
     },
     {
       "source": "Wired",
