@@ -1,6 +1,151 @@
 {
-  "syncedAt": "2026-10-10T23:19:49.193Z",
+  "syncedAt": "2026-10-11T04:45:26.822Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Vegetables half as nutritious as they were in the 1960s",
+      "link": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/\nComments URL: https://news.ycombinator.com/item?id=50039715\nPoints: 6\n# Comments:…",
+      "publishedAt": "2026-10-11T04:07:32.000Z",
+      "image": "https://www.telegraph.co.uk/content/dam/business/2026/10/07/TELEMMGLPICT000506322217_17913569586700_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T04:07:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+      "link": "https://github.com/vscarpenter/gsd-task-manager",
+      "summary": "Article URL: https://github.com/vscarpenter/gsd-task-manager\nComments URL: https://news.ycombinator.com/item?id=50039633\nPoints: 6\n# Comments: 2",
+      "publishedAt": "2026-10-11T03:42:56.000Z",
+      "image": "https://repository-images.githubusercontent.com/1069799834/522bff81-ef6d-4db6-85bc-adcecd6d36de",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T03:42:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "publishedAt": "2026-10-10T22:10:17.000Z"
+        },
+        {
+          "source": "Hacker News",
+          "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "publishedAt": "2026-10-11T03:41:53.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-11T03:41:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+      "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU\nComments URL: https://news.ycombinator.com/item?id=50039536\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-10-11T03:21:07.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T03:21:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
+      "link": "https://worldfacts.app",
+      "summary": "Article URL: https://worldfacts.app\nComments URL: https://news.ycombinator.com/item?id=50039504\nPoints: 17\n# Comments: 16",
+      "publishedAt": "2026-10-11T03:13:46.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T03:13:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/\nComments URL: https://news.ycombinator.com/item?id=50039092\nPoints: 62\n# Comments: 45",
+      "publishedAt": "2026-10-11T02:02:38.000Z",
+      "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T02:02:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "link": "https://wallhop.io/",
+      "summary": "Article URL: https://wallhop.io/\nComments URL: https://news.ycombinator.com/item?id=50038634\nPoints: 181\n# Comments: 80",
+      "publishedAt": "2026-10-11T00:46:48.000Z",
+      "image": "https://wallhop.io/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T00:46:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "link": "https://github.com/othermod/PSPi-Version-6",
+      "summary": "Article URL: https://github.com/othermod/PSPi-Version-6\nComments URL: https://news.ycombinator.com/item?id=50038623\nPoints: 39\n# Comments: 5",
+      "publishedAt": "2026-10-11T00:45:49.000Z",
+      "image": "https://opengraph.githubassets.com/4c7ebdc81cd324048ed1b8317cb658a5fe8f5146afcdbf2836da6050eed05763/othermod/PSPi-Version-6",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T00:45:49.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to enable Live Activities on iPhone and CarPlay",
+      "link": "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
+      "summary": "Live Activities put the most important real-time information from apps in a place where it's easy to keep an eye on.",
+      "publishedAt": "2026-10-11T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-enable-live-activities-on-iphone-and-carplay/l-intro-1791397474.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T00:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How does a backup camera actually work?",
+      "link": "https://www.engadget.com/2280368/how-backup-camera-works/",
+      "summary": "Aftermarket backup cameras might not work as well as integrated ones, but they're still a useful upgrade to an older car.",
+      "publishedAt": "2026-10-11T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-does-a-backup-camera-actually-work/l-intro-1791147579.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use the parental controls on iOS 27",
+      "link": "https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/",
+      "summary": "Screen Time has new features to help parents manage their children's Apple devices, as well as refinements to existing controls.",
+      "publishedAt": "2026-10-10T23:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-the-parental-controls-on-ios-27/l-intro-1791393975.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-10T23:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to reduce mobile data usage on your iPhone",
+      "link": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+      "summary": "If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes.",
+      "publishedAt": "2026-10-10T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-reduce-mobile-data-usage-on-your-iphone/l-intro-1791391598.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-10T23:30:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Simple tweaks to improve your 4K TV's picture quality",
@@ -35,24 +180,6 @@
       "latestActivity": "2026-10-10T22:30:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "publishedAt": "2026-10-10T21:47:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "publishedAt": "2026-10-10T22:10:17.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-10T22:10:17.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "How does using your MacBook while charging affect its battery life?",
       "link": "https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/",
@@ -62,39 +189,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-10T22:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/\nComments URL: https://news.ycombinator.com/item…",
-      "publishedAt": "2026-10-10T21:19:42.000Z",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T21:19:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A city-building game in which the city would prefer you didn't",
-      "link": "https://housing.over.pizza/",
-      "summary": "Article URL: https://housing.over.pizza/\nComments URL: https://news.ycombinator.com/item?id=50036864\nPoints: 82\n# Comments: 33",
-      "publishedAt": "2026-10-10T20:31:50.000Z",
-      "image": "https://housing.over.pizza/share-card.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T20:31:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "50MB operating system can resurrect your old PC",
-      "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
-      "summary": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/\nComments URL: https://news.ycombinator.com/item?id=50036571\nPoints: 26\n# Comments: 7",
-      "publishedAt": "2026-10-10T19:59:24.000Z",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/damn-small-linux-distro-running-on-a-hp-laptop.jpg?w=1600&h=900&fit=crop",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T19:59:24.000Z"
     },
     {
       "source": "TechCrunch",
@@ -108,17 +202,6 @@
       "latestActivity": "2026-10-10T19:50:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Takeshi's Castle",
-      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle\nComments URL: https://news.ycombinator.com/item?id=50036119\nPoints: 81\n# Comments: 30",
-      "publishedAt": "2026-10-10T19:12:55.000Z",
-      "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/Takeshi%27s_Castle_title_card.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T19:12:55.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
       "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
@@ -128,72 +211,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-10T18:52:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\nComments URL: https://news.ycombinator.com/item?id=50035886\nPoints: 91\n# Comments: 58",
-      "publishedAt": "2026-10-10T18:48:35.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T18:48:35.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "This Android Auto problem is affecting calls on foldable phones",
-      "link": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/",
-      "summary": "Gemini might be causing some issues with Android Auto.",
-      "publishedAt": "2026-10-10T18:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/this-android-auto-problem-is-affecting-calls-on-foldable-phones/l-intro-1791386416.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T18:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to quickly check your Samsung Galaxy's warranty info",
-      "link": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
-      "summary": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.",
-      "publishedAt": "2026-10-10T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-quickly-check-your-samsung-galaxys-warranty-info/l-intro-1791385758.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Why DuckDB 2.0 is faster",
-      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/\nComments URL: https://news.ycombinator.com/item?id=50035530\nPoints: 106\n# Comments: 34",
-      "publishedAt": "2026-10-10T18:08:49.000Z",
-      "image": "https://motherduck-com-web-prod.s3.us-east-1.amazonaws.com/assets/img/duckdb20_96b85ab729.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T18:08:49.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What is ray tracing in gaming and does it really make a difference?",
-      "link": "https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/",
-      "summary": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen.",
-      "publishedAt": "2026-10-10T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-is-ray-tracing-in-gaming-and-does-it-really-make-a-difference/l-intro-1791383266.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T18:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Anthropic says its AI agents tried to break into government websites",
-      "link": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
-      "summary": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
-      "publishedAt": "2026-10-10T17:49:49.000Z",
-      "image": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/l-intro-1791654243.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T17:49:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -227,28 +244,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-10T16:25:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Knuth reward check",
-      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/\nComments URL: https://news.ycombinator.com/item?id=50034081\nPoints: 123\n# Comments: 47",
-      "publishedAt": "2026-10-10T15:47:01.000Z",
-      "image": "https://www.thomas-huehn.com/knuth.scheck-256.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T15:47:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "How Protein Took over the World",
-      "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-      "summary": "https://archive.is/CbkfI\nComments URL: https://news.ycombinator.com/item?id=50034008\nPoints: 49\n# Comments: 124",
-      "publishedAt": "2026-10-10T15:40:06.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-10T15:40:06.000Z"
     },
     {
       "source": "TechCrunch",
