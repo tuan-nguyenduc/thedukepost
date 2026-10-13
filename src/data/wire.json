@@ -1,236 +1,488 @@
 {
-  "syncedAt": "2026-10-13T06:01:03.701Z",
+  "syncedAt": "2026-10-13T15:40:25.029Z",
   "items": [
     {
+      "source": "The Verge",
+      "title": "Apple’s HomeView display is now available to preorder",
+      "link": "https://www.theverge.com/gadgets/1010054/apple-homeview-display-preorder-buy",
+      "summary": "Apple is getting into smart displays with its new HomeView. It has a seven-inch squircle design, looking similar to a gargantuan Apple Watch mounted to a speaker base. The $299 Hom…",
+      "publishedAt": "2026-10-13T15:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-at-9.06.28-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T15:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Here are all the new HomePod Mini 2 colors",
+      "link": "https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on",
+      "summary": "Apple's HomePod Mini 2 is here, and we've gotten a close-up look at the second-gen smart speaker. \nThe HomePod Mini 2 comes with an upgraded S10 chip capable of powering Siri AI, t…",
+      "publishedAt": "2026-10-13T15:27:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0300.jpg?quality=90&#038;strip=all&#038;crop=4.6734375,5.1208333333333,95.3265625,94.879166666667",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T15:27:56.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Some older Apple TV models are also getting Siri AI",
+      "link": "https://www.engadget.com/2285346/some-older-apple-tv-models-are-also-getting-siri-ai/",
+      "summary": "Siri AI functionality goes all the way back to back to the second-gen Apple TV 4K box from 2021.",
+      "publishedAt": "2026-10-13T15:21:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/some-older-apple-tv-models-are-also-getting-siri-ai/l-intro-1791904794.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T15:21:26.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple's iPhone market share rose despite a downturn in smartphone shipments",
+      "link": "https://www.engadget.com/2285334/apple-iphone-market-share-rose-despite-a-downturn-in-smartphone-shipments/",
+      "summary": "Samsung and Apple had decent quarters, while Xiaomi, Oppo and Vivo had a terrible Q3.",
+      "publishedAt": "2026-10-13T15:15:21.000Z",
+      "image": "https://www.engadget.com/img/gallery/apples-iphone-market-share-rose-despite-a-downturn-in-smartphone-shipments/l-intro-1791904418.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T15:15:21.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "When is the best time to charge your Samsung Galaxy Watch?",
+      "link": "https://www.engadget.com/2282134/samsung-galaxy-watch-best-time-of-day-charge-battery/",
+      "summary": "Though newer Galaxy Watches have built-in battery protection, choosing the right time of day to charge your watch will get you the best results.",
+      "publishedAt": "2026-10-13T15:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/when-is-the-best-time-to-charge-your-samsung-galaxy-watch/l-intro-1791554317.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T15:15:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "publishedAt": "2026-10-12T20:59:50.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
+          "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+          "publishedAt": "2026-10-13T15:12:59.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-13T15:12:59.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+      "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+      "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+      "publishedAt": "2026-10-13T15:02:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889460445_20c033b45a_o-2.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T15:02:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Framework Laptop 12 (2026 upgrade) review: Intel's Core Series 3 fixes a key flaw",
+      "link": "https://www.engadget.com/2271233/framework-laptop-12-2026-upgrade-review/",
+      "summary": "Framework's Laptop 12 was conceived as a Chromebook killer, but now it has a flagship chip inside. Does it work as a grown-up machine?",
+      "publishedAt": "2026-10-13T15:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/framework-laptop-12-2026-upgrade-review-intels-core-series-3-fixes-a-key-flaw/l-intro-1790623659.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T15:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Is the Apple Watch Series 10 still worth your money in 2026?",
+      "link": "https://www.engadget.com/2282092/apple-watch-series-10-still-worth-money-in-2026/",
+      "summary": "While the Apple Watch Series 10 has been out for a couple of years, it can almost keep up with newer models.",
+      "publishedAt": "2026-10-13T14:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/is-the-apple-watch-series-10-still-worth-your-money-in-2026/l-intro-1791552326.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T14:45:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+      "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+      "summary": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
+      "publishedAt": "2026-10-13T14:30:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T14:30:12.000Z"
+    },
+    {
       "source": "Hacker News",
-      "title": "Vi Hart's Big Navier-Stokes Post",
-      "link": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
-      "summary": "Article URL: https://www.patreon.com/vihart/posts/vi-harts-big-171939430\nComments URL: https://news.ycombinator.com/item?id=50067098\nPoints: 6\n# Comments: 0",
-      "publishedAt": "2026-10-13T05:22:28.000Z",
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "summary": "Article URL: https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/\nComments URL: https://news.ycombinator.com/item?id=50072286\nPo…",
+      "publishedAt": "2026-10-13T14:26:08.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/switch-to-safari.jpg?quality=82&strip=all&resize=1200,628",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T14:26:08.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+      "link": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
+      "summary": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
+      "publishedAt": "2026-10-13T14:25:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Bumble-new-logo.jpg?resize=1200,810",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T14:25:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Book That Will Never Be Read",
+      "link": "https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/",
+      "summary": "Article URL: https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/\nComments URL: https://news.ycombinator.com/item?id=50072229\nPoints: 21\n# Comments: 7",
+      "publishedAt": "2026-10-13T14:21:40.000Z",
+      "image": "https://forbetterscience.com/wp-content/uploads/2026/09/for-better-science-6aaba1e80c411.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T14:21:40.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+      "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+      "summary": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
+      "publishedAt": "2026-10-13T13:38:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-HomePod-mini-2-color-lineup-261013_big.jpg.large_2x.jpg?resize=1200,675",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Apple’s HomePod Mini 2 is available to preorder",
+          "link": "https://www.theverge.com/gadgets/1009971/apple-homepod-mini-2-preorder-buy",
+          "publishedAt": "2026-10-13T14:15:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-13T14:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,0…",
+      "publishedAt": "2026-10-13T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally coul…",
+      "publishedAt": "2026-10-13T13:55:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:55:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Discovery Plus is getting more expensive",
+      "link": "https://www.theverge.com/streaming/1009994/discovery-plus-price-increase",
+      "summary": "Discovery Plus is raising prices across its ad-free and ad-supported plans. Starting Tuesday, the ad-supported plan will go from $5.99 to $6.99 / month, while the ad-free tier will…",
+      "publishedAt": "2026-10-13T13:52:18.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB342_DISCOVERY_PLUS_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:52:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "publishedAt": "2026-10-13T13:50:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:50:19.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple HomeView hands-on: Siri AI is your new roommate",
+      "link": "https://www.engadget.com/2285178/apple-homeview-hands-on-siri-ai/",
+      "summary": "It's more than just an enlarged Apple Watch.",
+      "publishedAt": "2026-10-13T13:46:19.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-homeview-hands-on-siri-ai/l-intro-1791902457.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:46:19.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Character.AI just filed for bankruptcy, and former foe Disney may buy it for parts",
+      "link": "https://www.engadget.com/2285177/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/",
+      "summary": "Character.AI, a controversial generative AI startup that lets users create their own chatbot characters, has filed for Chapter 11 bankruptcy",
+      "publishedAt": "2026-10-13T13:45:10.000Z",
+      "image": "https://www.engadget.com/img/gallery/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/l-intro-1791899023.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:45:10.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use a ChatGPT Dot when it rolls out to you",
+      "link": "https://www.engadget.com/2281998/how-to-use-opeai-dot-rollout-schedule/",
+      "summary": "OpenAI is hoping that Dots will make automating online tasks a lot easier. Here's what you'll need to use them, how to set them up and what they're capable of.",
+      "publishedAt": "2026-10-13T13:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-a-chatgpt-dot-when-it-rolls-out-to-you/l-intro-1791542426.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:45:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+      "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+      "summary": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
+      "publishedAt": "2026-10-13T13:37:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-Home-Collection-lineup-261013_big.jpg.large_2x.jpg?w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:37:19.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds",
+      "link": "https://www.wired.com/story/new-york-comic-con-panel/",
+      "summary": "The team behind director Takashi Yamazaki’s new film created their kaiju roars by setting up speakers on top of an outdoor dam. The people walking by weren’t prepared for what they…",
+      "publishedAt": "2026-10-13T13:30:00.000Z",
+      "image": "https://media.wired.com/photos/6acd2d70e56eb9b1c9065004/191:100/w_1280,c_limit/Godzilla-Minus-Zero-Filmmakers-Terrified-Bystanders-Culture-GMZ_KV1-Still_Godzilla-clean_2026-07-07_copyright.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second a…",
+      "publishedAt": "2026-10-13T13:28:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:28:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Where to preorder the new Apple TV 4K",
+      "link": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy",
+      "summary": "Apple debuted its latest Apple TV 4K - its first in four years - and it'll be available starting Friday, November 13th. It's powerful, with the A19 chip (the now-discontinued 2022…",
+      "publishedAt": "2026-10-13T13:26:40.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-TV-4K-home-theater-setup-261013.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:26:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "New Apple TV 4K",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/\nComments URL: https://news.ycombinator.com/item?id=50071310\nPoints: 70\n# Comments: 103",
+      "publishedAt": "2026-10-13T13:21:35.000Z",
+      "image": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-new-apple-tv-4k/tile/Apple-TV-4K-261013-lp.jpg.og.jpg?202610131304",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:21:35.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
+      "link": "https://www.wired.com/story/apple-homeview-smart-display/",
+      "summary": "With customizable “faces,” this 7-inch smart display is a unique hybrid between an iPhone and an Apple Watch.",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ace3cf10d6b03833a151dfa/191:100/w_1280,c_limit/DSC_9867.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Watch Apple’s reveal video for the HomeView",
+          "link": "https://www.theverge.com/1008810/apple-homeview-reveal-video-watch",
+          "publishedAt": "2026-10-13T13:14:27.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-13T13:14:27.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+      "publishedAt": "2026-10-13T13:03:45.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/bee-TOP-1152x648-1791731084.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:03:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple HomeView",
+      "link": "https://www.apple.com/apple-homeview/",
+      "summary": "Article URL: https://www.apple.com/apple-homeview/\nComments URL: https://news.ycombinator.com/item?id=50071017\nPoints: 285\n# Comments: 334",
+      "publishedAt": "2026-10-13T13:02:12.000Z",
+      "image": "https://www.apple.com/v/apple-homeview/a/images/meta/apple-homeview__lk7n65hb6bm2_og.png?202610121723",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:02:12.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
+      "link": "https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
+      "summary": "I got an early glimpse of Apple’s biggest push into the smart home in years.",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ace3e370cd03eee45eddd13/191:100/w_1280,c_limit/DSC_9854-4.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "BB(10) > Graham's Number",
+      "link": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
+      "summary": "Article URL: https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md\nComments URL: https://news.ycombinator…",
+      "publishedAt": "2026-10-13T12:40:04.000Z",
+      "image": "https://opengraph.githubassets.com/1478ad79baf71c459b0602395aacbefeeaafd24aee645c2471054f20d428d032/jeff87654/busy-beaver",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T12:40:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "summary": "Article URL: https://machinelearning.apple.com/research/distributed-gpu-cloud\nComments URL: https://news.ycombinator.com/item?id=50070593\nPoints: 135\n# Comments: 53",
+      "publishedAt": "2026-10-13T12:26:36.000Z",
+      "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T12:26:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "link": "https://www.firefox.com/en-US/enterprise/",
+      "summary": "Article URL: https://www.firefox.com/en-US/enterprise/\nComments URL: https://news.ycombinator.com/item?id=50070302\nPoints: 277\n# Comments: 129",
+      "publishedAt": "2026-10-13T12:00:42.000Z",
+      "image": "https://www.firefox.com/media/img/firefox/flare/og.4d50d9b1674b.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T12:00:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Visual Intro to Complex Numbers",
+      "link": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+      "summary": "Article URL: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers\nComments URL: https://news.ycombinator.com/item?id=50070287\nPoints: 54\n# Comments: 34",
+      "publishedAt": "2026-10-13T12:00:04.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-13T05:22:28.000Z"
+      "latestActivity": "2026-10-13T12:00:04.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they ou…",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2023/05/identity-distortion3.jpeg?fit=1456,818",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-13T12:00:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "B&H Photo Promo Codes and Deals This October 2026",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/191:100/w_1280,c_limit/WIRED-Coupons-4.jpg",
+      "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
+      "link": "https://www.wired.com/gallery/best-gifts-under-100/",
+      "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
+      "publishedAt": "2026-10-13T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/6accf86bbe139e15f11135ab/191:100/w_1280,c_limit/Best%20Tech%20Gifts%20Under%20$100%20102026%20SOURCE%20Amazon.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-13T05:00:00.000Z"
+      "latestActivity": "2026-10-13T11:30:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "Wayfair Coupons: Up to 80% Off October 2026",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
-      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/191:100/w_1280,c_limit/WIRED-Coupons-R2_5.png",
+      "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
+      "link": "https://www.wired.com/gallery/best-tech-books-to-gift/",
+      "summary": "Give the techie in your life access to the inner workings of the companies and characters shaping Big Tech.",
+      "publishedAt": "2026-10-13T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ac20c0c127930f914c0be8d/191:100/w_1280,c_limit/Best%20Tech%20Books%20to%20Gift%20SOURCE%20Basic%20Books-Simon%20&%20Schuster-Weidenfeld%20&%20Nicolson.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-13T05:00:00.000Z"
+      "latestActivity": "2026-10-13T11:00:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "Lego Promo Code | 20% Off October 2026",
-      "link": "https://www.wired.com/story/lego-promo-code/",
-      "summary": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/191:100/w_1280,c_limit/WIRED-Coupons-R2_11.png",
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "publishedAt": "2026-10-13T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/191:100/w_1280,c_limit/10122026_BE_Wikepidia_v2.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-13T05:00:00.000Z"
+      "latestActivity": "2026-10-13T11:00:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-      "link": "https://www.wired.com/story/nordvpn-coupon/",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/191:100/w_1280,c_limit/WIRED-Coupons-11.jpg",
+      "title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
+      "summary": "Elon Musk’s father, Errol Musk, agreed to be interviewed immediately.",
+      "publishedAt": "2026-10-13T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ac7d26cc7e109d803ff63f9/191:100/w_1280,c_limit/Big-Interview-UV-Alex-Gibney-Business-2294137674.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-13T05:00:00.000Z"
+      "latestActivity": "2026-10-13T10:30:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
-      "link": "https://www.wired.com/story/google-workspace-promo-code/",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/191:100/w_1280,c_limit/WIRED-Coupons-R2_7.png",
+      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ac8319b29e3fd337d6a55ac/191:100/w_1280,c_limit/Politics_The%20Biggest%20Pro-AI%20Super%20Pac%20Has%20Been%20Funneling%20Millions%20of%20Dollars%20Into%20Shell%20Companies%20in%20Nevada_v1.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-13T05:00:00.000Z"
+      "latestActivity": "2026-10-13T10:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
-      "link": "https://www.wired.com/story/nike-promo-code/",
-      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg",
+      "source": "MIT Technology Review",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the se…",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-13T05:00:00.000Z"
+      "latestActivity": "2026-10-13T10:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Booking.com Promo Codes: 20% Off | October 2026",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/191:100/w_1280,c_limit/WIRED-Coupons-8.jpg",
+      "source": "MIT Technology Review",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s s…",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-13T05:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Newegg Promo Codes and Coupons for October 2026",
-      "link": "https://www.wired.com/story/newegg-promo-code/",
-      "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "publishedAt": "2026-10-13T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/191:100/w_1280,c_limit/WIRED-Coupons-9.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-13T05:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-      "link": "https://www.argmin.net/p/faster-fourier-transforms",
-      "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms\nComments URL: https://news.ycombinator.com/item?id=50065932\nPoints: 82\n# Comments: 49",
-      "publishedAt": "2026-10-13T02:46:43.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!1mN7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0c6088-ce61-4802-ac3f-c8bc4060a05a_840x599.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-13T02:46:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
-      "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
-      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/\nComments URL: https://news.ycombinator.com/item?id=50065805\nPoints: 116\n# Comments: 98",
-      "publishedAt": "2026-10-13T02:25:00.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-13T02:25:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Dock on Mac, from OS 10 to macOS 27",
-      "link": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
-      "summary": "Article URL: https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\nComments URL: https://news.ycombinator.com/item?id=50065713\nPoints: 42\n# Comments: 20",
-      "publishedAt": "2026-10-13T02:09:19.000Z",
-      "image": "https://cdn.jim-nielsen.com/blog/2026/macos-dock-history.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-13T02:09:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "link": "https://arxiv.org/abs/2610.13928",
-      "summary": "Article URL: https://arxiv.org/abs/2610.13928\nComments URL: https://news.ycombinator.com/item?id=50065692\nPoints: 93\n# Comments: 46",
-      "publishedAt": "2026-10-13T02:07:08.000Z",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-13T02:07:08.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Don't buy a cheap Android phone without these non-negotiable features",
-      "link": "https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/",
-      "summary": "Android phones can be had at many different price points, but the most important features aren't always found in the cheapest available devices.",
-      "publishedAt": "2026-10-13T00:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/dont-buy-a-cheap-android-phone-without-these-non-negotiable-features/l-intro-1791485064.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-13T00:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-      "link": "https://github.com/bherbruck/solidcraft",
-      "summary": "Article URL: https://github.com/bherbruck/solidcraft\nComments URL: https://news.ycombinator.com/item?id=50064840\nPoints: 24\n# Comments: 1",
-      "publishedAt": "2026-10-13T00:11:04.000Z",
-      "image": "https://repository-images.githubusercontent.com/1409246014/48c23d08-a7c1-44f9-a353-58f8ddcf3fee",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-13T00:11:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "link": "https://doi.org/10.1111/acel.70751",
-      "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/\nComments URL: https://news.ycombinator.com/item?id=50064536\nPoints: 136\n# Comments: 89",
-      "publishedAt": "2026-10-12T23:34:22.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T23:34:22.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to boost your GPU performance without buying a new one",
-      "link": "https://www.engadget.com/2281650/how-to-boost-gpu-performance-without-buying-new/",
-      "summary": "With an older GPU, you'll need to go without some of the fancy features, but you can still enjoy high frame rates with the right changes.",
-      "publishedAt": "2026-10-12T23:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-boost-your-gpu-performance-without-buying-a-new-one/l-intro-1791488993.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T23:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "link": "https://github.com/andrewfader/blokkily",
-      "summary": "Article URL: https://github.com/andrewfader/blokkily\nComments URL: https://news.ycombinator.com/item?id=50064438\nPoints: 37\n# Comments: 17",
-      "publishedAt": "2026-10-12T23:21:12.000Z",
-      "image": "https://opengraph.githubassets.com/e839aa9ebfaec007e7793e0cd137ee7d5b8b3f69da9fc34932928a739d587567/andrewfader/blokkily",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T23:21:12.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to turn your old hard drives into a RAID array",
-      "link": "https://www.engadget.com/2281587/how-to-create-raid-array-your-old-hard-drives/",
-      "summary": "Your old hard drives still have some live left in them.",
-      "publishedAt": "2026-10-12T23:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-turn-your-old-hard-drives-into-a-raid-array/l-intro-1791486769.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T23:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to use Google Gemini to automate tasks",
-      "link": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
-      "summary": "Spark is Google's AI tool that can perform tasks on your behalf.",
-      "publishedAt": "2026-10-12T22:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T22:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why are your iPhone photos so blurry (and how to improve it)",
-      "link": "https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/",
-      "summary": "Blurry iPhone photos can come down to more than just a dirty lens. Here's how to expertly sharpen your shots and fine-tune your camera settings.",
-      "publishedAt": "2026-10-12T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-are-your-iphone-photos-so-blurry-and-how-to-improve-it/l-intro-1791414815.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T22:00:00.000Z"
+      "latestActivity": "2026-10-13T09:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -244,73 +496,15 @@
       "latestActivity": "2026-10-12T21:54:35.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The Social Reckoning is flopping at the box office",
-      "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
-      "summary": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The S…",
-      "publishedAt": "2026-10-12T21:20:57.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DF-04750_r.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T21:20:57.000Z"
-    },
-    {
       "source": "Ars Technica",
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "publishedAt": "2026-10-12T20:59:50.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png",
+      "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+      "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+      "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+      "publishedAt": "2026-10-12T20:26:14.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-12T20:59:50.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
-      "link": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
-      "summary": "Developers were apparently ordered to use AI for both code and asset creation.",
-      "publishedAt": "2026-10-12T20:48:19.000Z",
-      "image": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T20:48:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "No Man’s Sky is coming to the iPhone and iPad",
-      "link": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
-      "summary": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with…",
-      "publishedAt": "2026-10-12T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/No-Mans-Sky-iPhone-Screen-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-          "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-          "publishedAt": "2026-10-12T20:26:14.000Z"
-        }
-      ],
       "latestActivity": "2026-10-12T20:26:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta has some Wonder Full new AI models ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now lau…",
-      "publishedAt": "2026-10-12T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
-          "link": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
-          "publishedAt": "2026-10-12T18:51:52.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-12T18:51:52.000Z"
     },
     {
       "source": "Ars Technica",
@@ -324,17 +518,6 @@
       "latestActivity": "2026-10-12T18:46:43.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
-      "link": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
-      "summary": "Xandr has three weeks to appeal the record penalty.",
-      "publishedAt": "2026-10-12T18:34:57.000Z",
-      "image": "https://www.engadget.com/img/gallery/norway-fined-a-microsoft-subsidiary-9-6-million-for-allegedly-misusing-grindr-user-data/l-intro-1791828674.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T18:34:57.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
       "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
@@ -344,17 +527,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-12T18:21:36.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and bette…",
-      "publishedAt": "2026-10-12T17:56:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T17:56:56.000Z"
     },
     {
       "source": "Ars Technica",
@@ -368,28 +540,6 @@
       "latestActivity": "2026-10-12T17:52:36.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "publishedAt": "2026-10-12T17:19:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T17:19:14.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "summary": "So much for doing less political spending. | Image: Cath Virginia / The Verge, Getty Images\t\n\nElon Musk has handed out at least $276 million to Republican groups since July, The Ne…",
-      "publishedAt": "2026-10-12T16:52:54.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK175_STK022_DONALD_TRUMP_ELON_MUSK_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T16:52:54.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
       "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
@@ -399,127 +549,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-12T16:01:08.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "publishedAt": "2026-10-12T15:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T15:45:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Yandex outage probably didn’t blitz Russian bots",
-      "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-      "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not t…",
-      "publishedAt": "2026-10-12T15:43:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T15:43:07.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "publishedAt": "2026-10-12T15:31:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T15:31:19.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "publishedAt": "2026-10-12T15:27:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T15:27:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-      "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-      "summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
-      "publishedAt": "2026-10-12T15:11:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T15:11:19.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
-      "link": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-      "summary": "The Basecase seen here with 3D-printed grips and a rear plate that offers (unofficial) compatibility with Lego blocks and minifigs.\t\n\nMost companies have slowed down releasing new…",
-      "publishedAt": "2026-10-12T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T15:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "F1 in Singapore: There's a new fastest car now",
-      "link": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-      "summary": "Also, F1’s final sprint saw our first real wet racing of the year.",
-      "publishedAt": "2026-10-12T14:43:14.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299489592-1440x960.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T14:43:14.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-      "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-      "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
-      "publishedAt": "2026-10-12T14:09:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T14:09:34.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of id…",
-      "publishedAt": "2026-10-12T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Android is the best and worst thing about Googlebooks",
-      "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-      "summary": "I’ve been testing two Googlebooks: this Asus model, and HP’s too.\t\n\nMy first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned…",
-      "publishedAt": "2026-10-12T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The OnePlus 16 is the company’s most interesting phone in years",
-      "link": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
-      "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like th…",
-      "publishedAt": "2026-10-12T13:13:53.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oneplus-16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-12T13:13:53.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -575,39 +604,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-09T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just im…",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/job-thumb.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to aff…",
-      "publishedAt": "2026-10-09T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2292410673.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to…",
-      "publishedAt": "2026-10-09T00:08:24.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-09T00:08:24.000Z"
     }
   ]
 }
