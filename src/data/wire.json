@@ -1,6 +1,72 @@
 {
-  "syncedAt": "2026-10-14T23:02:44.224Z",
+  "syncedAt": "2026-10-15T03:46:37.213Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "The Double Headed Stack Allocator",
+      "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 20\n# Comments: 1",
+      "publishedAt": "2026-10-15T02:06:36.000Z",
+      "image": "https://demofox2.wordpress.com/wp-content/uploads/2026/10/grid10x1_allocated.png?w=842",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-15T02:06:36.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accel…",
+      "publishedAt": "2026-10-15T01:01:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-15T01:01:32.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh…",
+      "publishedAt": "2026-10-15T00:49:31.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-15T00:49:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "publishedAt": "2026-10-15T00:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-15T00:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a…",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b\nComments URL: https://news.ycombinator.com/item?id=50097369\nPoints: 99\n# Comments: 24",
+      "publishedAt": "2026-10-14T23:59:37.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-14T23:59:37.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
@@ -27,7 +93,7 @@
       "source": "Hacker News",
       "title": "Tiny Little Office",
       "link": "https://tinylittleoffice.com/",
-      "summary": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 29\n# Comments: 5",
+      "summary": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 208\n# Comments: 24",
       "publishedAt": "2026-10-14T22:10:08.000Z",
       "image": "https://tinylittleoffice.com/og.png",
       "sourceCount": 1,
@@ -126,9 +192,9 @@
       "source": "Hacker News",
       "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
       "link": "https://typesafe.ai/blog/jev-1-14",
-      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 102\n# Comments: 36",
+      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 216\n# Comments: 72",
       "publishedAt": "2026-10-14T21:11:03.000Z",
-      "image": "https://framerusercontent.com/images/KBTvCTXoQaZeABcI7te5PTQw7Q.png?width=1574&height=996",
+      "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-14T21:11:03.000Z"
@@ -139,21 +205,10 @@
       "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
       "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
       "publishedAt": "2026-10-14T21:03:11.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-2560x1440.jpg",
+      "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-14T21:03:11.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-      "publishedAt": "2026-10-14T21:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-14T21:00:00.000Z"
     },
     {
       "source": "Wired",
@@ -161,7 +216,7 @@
       "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
       "summary": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
       "publishedAt": "2026-10-14T21:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ace7cf375ef8eec0d5b4a47/191:100/w_1280,c_limit/politics_white_house_midterms_trump.jpg",
+      "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-14T21:00:00.000Z"
@@ -170,7 +225,7 @@
       "source": "Hacker News",
       "title": "OpenCode 2.0",
       "link": "https://anoma.ly/notes/opencode-2-0/",
-      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 170\n# Comments: 55",
+      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 374\n# Comments: 155",
       "publishedAt": "2026-10-14T20:48:24.000Z",
       "image": "https://anoma.ly/notes/og/opencode-2-0.png",
       "sourceCount": 1,
@@ -192,7 +247,7 @@
       "source": "Hacker News",
       "title": "Anthropic's Scion is heavily inspired by Mononoke",
       "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/\nComments URL: https://news.ycombinator.com/item?id=50094694\nPoints: 186\n# Comments: 78",
+      "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/\nComments URL: https://news.ycombinator.com/item?id=50094694\nPoints: 281\n# Comments: 116",
       "publishedAt": "2026-10-14T20:30:54.000Z",
       "image": "https://sunshowers.io/images/og-image.png",
       "sourceCount": 1,
@@ -203,23 +258,12 @@
       "source": "Hacker News",
       "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
       "link": "https://blog.cloudflare.com/yandex-outage/",
-      "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/\nComments URL: https://news.ycombinator.com/item?id=50094673\nPoints: 159\n# Comments: 53",
+      "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/\nComments URL: https://news.ycombinator.com/item?id=50094673\nPoints: 232\n# Comments: 75",
       "publishedAt": "2026-10-14T20:29:13.000Z",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4Y140VQ20JV2JNAC18Y1A2G.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-14T20:29:13.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-      "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-      "publishedAt": "2026-10-14T20:26:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/garrett-langley-disrupt.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-14T20:26:25.000Z"
     },
     {
       "source": "Ars Technica",
@@ -244,17 +288,6 @@
       "latestActivity": "2026-10-14T20:13:18.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Electric vehicle sales in the US are showing signs of life",
-      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-      "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
-      "publishedAt": "2026-10-14T20:12:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/EV-charging-Getty.jpg?resize=1200,830",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-14T20:12:07.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "NASA explains how it's making batteries for the Moon's extreme temperatures",
       "link": "https://www.engadget.com/2287038/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures/",
@@ -275,17 +308,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-14T20:03:43.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
-      "publishedAt": "2026-10-14T20:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benjamin-Dose-and-Angela-Relogio-TimeTeller.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-14T20:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -324,23 +346,12 @@
       "source": "Hacker News",
       "title": "Fancy Curl Sites",
       "link": "https://nytpu.com/gemlog/2026-03-18",
-      "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18\nComments URL: https://news.ycombinator.com/item?id=50093612\nPoints: 58\n# Comments: 12",
+      "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18\nComments URL: https://news.ycombinator.com/item?id=50093612\nPoints: 94\n# Comments: 17",
       "publishedAt": "2026-10-14T19:29:12.000Z",
       "image": "/furry/tamun_icon_roxy.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-14T19:29:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Things to know when you get cancer – 2026 Edition",
-      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\nComments URL: https://news.ycombinator.com/item?id=50093568\nPoints: 533\n# Comments: 148",
-      "publishedAt": "2026-10-14T19:26:30.000Z",
-      "image": "https://jjmaxwell4.com/open-graph/things-to-know-when-you-get-cancer.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-14T19:26:30.000Z"
     },
     {
       "source": "Engadget",
@@ -368,23 +379,12 @@
       "source": "The Verge",
       "title": "The AI race is back on",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed ho…",
+      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images\t\n\nLast week, Anthropic and OpenAI looked like they had the A…",
       "publishedAt": "2026-10-14T19:06:03.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-14T19:06:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Suicide rates highest ever among middle-aged men",
-      "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-      "summary": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/\nComments URL: https://news.ycombinator.com/item?id=50093180\nPoints: 182\n#…",
-      "publishedAt": "2026-10-14T19:03:58.000Z",
-      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/13/TELEMMGLPICT000507183811_17919022221720_trans_NvBQzQNjv4BqrnykcIhNBTQGIhNzmTaT-cLZq-j_VIcNfiYtpwBx7zI.jpeg?impolicy=OG-Standard",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-14T19:03:58.000Z"
     },
     {
       "source": "The Verge",
