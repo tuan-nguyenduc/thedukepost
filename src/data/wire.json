@@ -1,11 +1,165 @@
 {
-  "syncedAt": "2026-10-16T19:25:39.740Z",
+  "syncedAt": "2026-10-16T22:39:44.210Z",
   "items": [
     {
+      "source": "Wired",
+      "title": "The Leap Second Is No More",
+      "link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "summary": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+      "publishedAt": "2026-10-16T21:31:35.000Z",
+      "image": "https://media.wired.com/photos/6ad26281fc48d47f39527b44/191:100/w_1280,c_limit/Science_Pour%20One%20Out%20for%20the%20Leap%20Second_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T21:31:35.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it…",
+      "publishedAt": "2026-10-16T21:22:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T21:22:28.000Z"
+    },
+    {
       "source": "Hacker News",
-      "title": "Claude writes about 90% of Claude Code's code",
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency\nComments URL: https://news.ycombinator.com/item?id=50124642\nPoints: 16\n# Comments: 3",
+      "publishedAt": "2026-10-16T21:01:23.000Z",
+      "image": "https://cdn.prod.website-files.com/69451759a4952bcf865fbb2d/6acec5062fef8892df4256e2_6acec50428ae0c788db4d04a_harness-energy-v4-hero-harness-energy.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T21:01:23.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+      "link": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
+      "summary": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles.",
+      "publishedAt": "2026-10-16T20:50:28.000Z",
+      "image": "https://www.engadget.com/img/gallery/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/l-intro-1792184255.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T20:50:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "summary": "Wu-Tang Clan member Method Man, who got to hear the album for the first time thanks to Pablo Torre Finds Out. | Getty Images\t\n\nWu-Tang's Once Upon A Time in Shaolin album has, for…",
+      "publishedAt": "2026-10-16T20:50:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T20:50:27.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-dr…",
+      "publishedAt": "2026-10-16T20:49:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T20:49:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I never authorized an integration that scans my secrets",
+      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314\nComments URL: https://news.ycombinator.com/item?id=50124251\nPoints: 112\n# Comments: 62",
+      "publishedAt": "2026-10-16T20:33:41.000Z",
+      "image": "https://opengraph.githubassets.com/9977c9b9ba61ac411f0c19dc08b23b5e3b04db4e846964b8f8dc42142f1e1f70/home-assistant/home-assistant.io/issues/49314",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T20:33:41.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "publishedAt": "2026-10-16T20:20:07.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Bucks-County-Detectives-Brian-Richard-Fitzgerald-640x816.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T20:20:07.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked t…",
+      "publishedAt": "2026-10-16T20:05:08.000Z",
+      "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T20:05:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "FLUX 3 Image Klein",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein\nComments URL: https://news.ycombinator.com/item?id=50123580\nPoints: 69\n# Comments: 13",
+      "publishedAt": "2026-10-16T19:47:13.000Z",
+      "image": "https://bfl.ai/api/og/blog/flux-3-image-klein",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T19:47:13.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+      "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "summary": "There are still significant hurdles ahead, both technical and legislative.",
+      "publishedAt": "2026-10-16T19:41:18.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T19:41:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "publishedAt": "2026-10-16T19:40:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T19:40:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Fatal Flaw of 911",
+      "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health\nComments URL: https://news.ycombinator.com/item?id=50123356\nPoints: 39\n# Comments: 53",
+      "publishedAt": "2026-10-16T19:33:00.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T19:33:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "summary": "The bug is fixed, but privacy concerns remain.",
+      "publishedAt": "2026-10-16T19:11:50.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-875x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T19:11:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How the Claude Code team does code review",
       "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 152\n# Comments: 151",
       "publishedAt": "2026-10-16T19:04:47.000Z",
       "image": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
       "sourceCount": 1,
@@ -14,31 +168,42 @@
     },
     {
       "source": "Hacker News",
+      "title": "You could have invented transformers from memory",
+      "link": "https://alexwang.ai/posts/associative-memory/",
+      "summary": "Article URL: https://alexwang.ai/posts/associative-memory/\nComments URL: https://news.ycombinator.com/item?id=50122878\nPoints: 60\n# Comments: 8",
+      "publishedAt": "2026-10-16T19:01:17.000Z",
+      "image": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T19:01:17.000Z"
+    },
+    {
+      "source": "Hacker News",
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "summary": "Article URL: https://www.anthropic.com/research/ecdsa-curve-origins\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 84\n# Comments: 15",
+      "summary": "https://words.filippo.io/seeds-solved/\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 504\n# Comments: 212",
       "publishedAt": "2026-10-16T18:55:59.000Z",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-16T18:55:59.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "link": "https://github.com/cobanov/PS5LM",
-      "summary": "Article URL: https://github.com/cobanov/PS5LM\nComments URL: https://news.ycombinator.com/item?id=50122431\nPoints: 32\n# Comments: 5",
-      "publishedAt": "2026-10-16T18:32:35.000Z",
-      "image": "https://opengraph.githubassets.com/3e68266f5fd318571bbb281acf3cf9b4bb22b1a62f6b0bd14540a431002622f2/cobanov/PS5LM",
+      "title": "C++26: The New Debugging Header",
+      "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "summary": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging\nComments URL: https://news.ycombinator.com/item?id=50122736\nPoints: 40\n# Comments: 2",
+      "publishedAt": "2026-10-16T18:52:39.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-16T18:32:35.000Z"
+      "latestActivity": "2026-10-16T18:52:39.000Z"
     },
     {
       "source": "The Verge",
       "title": "Why Apple is finally making its own smart home devices",
       "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "summary": "Apple’s Home Collection is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nFor more than a decade, Apple has t…",
+      "summary": "Apple’s Home Collection, codeveloped with partners, is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nFor mor…",
       "publishedAt": "2026-10-16T18:30:27.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
@@ -57,37 +222,15 @@
       "latestActivity": "2026-10-16T18:21:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "summary": "Article URL: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d\nComments URL: https://news.ycombinator.com/item?id=50122112\nPoints: 54\n# Comments: 15",
-      "publishedAt": "2026-10-16T18:11:42.000Z",
-      "image": null,
+      "source": "MIT Technology Review",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative…",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-16T18:11:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\nComments URL: https://news.ycombinator…",
-      "publishedAt": "2026-10-16T18:06:17.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T18:06:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits\nComments URL: https://news.ycombinator.com/item?id=50121939\nPoints: 29\n# Comments: 5",
-      "publishedAt": "2026-10-16T18:00:18.000Z",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T18:00:18.000Z"
+      "latestActivity": "2026-10-16T18:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -99,28 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-16T17:52:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GifCities",
-      "link": "https://gifcities.org/",
-      "summary": "https://twitter.com/internetarchive/status/21111409457059637...\nComments URL: https://news.ycombinator.com/item?id=50121601\nPoints: 7\n# Comments: 0",
-      "publishedAt": "2026-10-16T17:35:07.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T17:35:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
-      "link": "https://news.ycombinator.com/item?id=50121562",
-      "summary": "I am a LegalTech Attorney leading a developer team from Costa Rica. While trying to load credits onto my Anthropic API account (claude.com), I experienced a critical internationali…",
-      "publishedAt": "2026-10-16T17:31:42.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T17:31:42.000Z"
     },
     {
       "source": "Ars Technica",
@@ -277,17 +398,6 @@
       "latestActivity": "2026-10-16T15:38:17.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "publishedAt": "2026-10-16T15:33:49.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T15:33:49.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
       "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
@@ -343,17 +453,6 @@
       "latestActivity": "2026-10-16T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "publishedAt": "2026-10-16T14:26:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T14:26:51.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Polymarket saw $600 million in election trades after the elections were over",
       "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
@@ -363,17 +462,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-16T14:19:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The incredible flying Tesla Roadster is just for show",
-      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas…",
-      "publishedAt": "2026-10-16T14:15:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T14:15:29.000Z"
     },
     {
       "source": "Engadget",
@@ -398,17 +486,6 @@
       "latestActivity": "2026-10-16T14:03:25.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a rep…",
-      "publishedAt": "2026-10-16T14:02:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T14:02:40.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
       "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
@@ -418,24 +495,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-16T14:00:59.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-      "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
-      "publishedAt": "2026-10-16T12:00:05.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Wired",
-          "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-          "link": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
-          "publishedAt": "2026-10-16T13:00:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-16T13:00:00.000Z"
     },
     {
       "source": "Engadget",
@@ -482,28 +541,6 @@
       "latestActivity": "2026-10-16T11:54:54.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-      "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
-      "summary": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
-      "publishedAt": "2026-10-16T11:00:53.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/smalll.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T11:00:53.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy",
-      "link": "https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector/",
-      "summary": "A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.",
-      "publishedAt": "2026-10-16T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad1311c8de176c462eacc57/191:100/w_1280,c_limit/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T11:00:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "ChatGPT can now look at your Chrome tabs to do tasks for you",
       "link": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/",
@@ -515,32 +552,10 @@
       "latestActivity": "2026-10-16T10:06:15.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Blue Origin is going all in on the New Glenn rocket",
-      "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
-      "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
-      "publishedAt": "2026-10-16T10:00:54.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render-2560x1440.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T10:00:54.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET",
-      "link": "https://www.engadget.com/2288565/apple-iphone-duo-pre-orders-open-today/",
-      "summary": "The Apple Store is down ahead of pre-orders for the first folding iPhone.",
-      "publishedAt": "2026-10-16T09:36:05.000Z",
-      "image": "https://www.engadget.com/img/gallery/apples-2000-iphone-duo-goes-on-pre-order-today-at-8am-et/l-intro-1792143306.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T09:36:05.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "This implant can restore sight for patients with macular degeneration",
       "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The PRIMA system, which was appr…",
+      "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision.…",
       "publishedAt": "2026-10-16T09:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ND26-dl_mapped.png?w=840",
       "sourceCount": 1,
@@ -601,17 +616,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-15T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Six wild ideas for perpetuating your mind",
-      "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions o…",
-      "publishedAt": "2026-10-15T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Unknown-1.jpg?w=840",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-15T09:00:00.000Z"
     }
   ]
 }
