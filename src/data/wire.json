@@ -1,6 +1,347 @@
 {
-  "syncedAt": "2026-10-16T14:38:32.491Z",
+  "syncedAt": "2026-10-16T19:25:39.740Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Claude writes about 90% of Claude Code's code",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 5\n# Comments: 0",
+      "publishedAt": "2026-10-16T19:04:47.000Z",
+      "image": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T19:04:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "Article URL: https://www.anthropic.com/research/ecdsa-curve-origins\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 84\n# Comments: 15",
+      "publishedAt": "2026-10-16T18:55:59.000Z",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T18:55:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "link": "https://github.com/cobanov/PS5LM",
+      "summary": "Article URL: https://github.com/cobanov/PS5LM\nComments URL: https://news.ycombinator.com/item?id=50122431\nPoints: 32\n# Comments: 5",
+      "publishedAt": "2026-10-16T18:32:35.000Z",
+      "image": "https://opengraph.githubassets.com/3e68266f5fd318571bbb281acf3cf9b4bb22b1a62f6b0bd14540a431002622f2/cobanov/PS5LM",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T18:32:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Why Apple is finally making its own smart home devices",
+      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "summary": "Apple’s Home Collection is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nFor more than a decade, Apple has t…",
+      "publishedAt": "2026-10-16T18:30:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T18:30:27.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
+      "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+      "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protected activities.",
+      "publishedAt": "2026-10-16T18:21:54.000Z",
+      "image": "https://media.wired.com/photos/6acf9d6f3ad68bc4076ddf49/191:100/w_1280,c_limit/GettyImages-2296548226.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T18:21:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "summary": "Article URL: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d\nComments URL: https://news.ycombinator.com/item?id=50122112\nPoints: 54\n# Comments: 15",
+      "publishedAt": "2026-10-16T18:11:42.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T18:11:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\nComments URL: https://news.ycombinator…",
+      "publishedAt": "2026-10-16T18:06:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T18:06:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits\nComments URL: https://news.ycombinator.com/item?id=50121939\nPoints: 29\n# Comments: 5",
+      "publishedAt": "2026-10-16T18:00:18.000Z",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T18:00:18.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "publishedAt": "2026-10-16T17:52:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T17:52:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "GifCities",
+      "link": "https://gifcities.org/",
+      "summary": "https://twitter.com/internetarchive/status/21111409457059637...\nComments URL: https://news.ycombinator.com/item?id=50121601\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-10-16T17:35:07.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T17:35:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+      "link": "https://news.ycombinator.com/item?id=50121562",
+      "summary": "I am a LegalTech Attorney leading a developer team from Costa Rica. While trying to load credits onto my Anthropic API account (claude.com), I experienced a critical internationali…",
+      "publishedAt": "2026-10-16T17:31:42.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T17:31:42.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "publishedAt": "2026-10-16T17:05:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T17:05:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+",
+      "link": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/",
+      "summary": "Dust off your old Sega Genesis and Super Nintendo cartridges.",
+      "publishedAt": "2026-10-16T17:03:29.000Z",
+      "image": "https://www.engadget.com/img/gallery/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/l-intro-1792170102.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T17:03:29.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "If memory shortages last, tech companies should offer cheap battery replacements",
+      "link": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
+      "summary": "If a company like Apple could offer $29 batteries before, it can do so again.",
+      "publishedAt": "2026-10-16T16:32:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/l-intro-1792168203.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:32:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+      "link": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+      "summary": "It turns out the Roadster 2 both sucks and blows.",
+      "publishedAt": "2026-10-16T16:30:12.000Z",
+      "image": "https://media.wired.com/photos/6ad23cf9596e9f773d31db35/191:100/w_1280,c_limit/Roadster_94.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:30:12.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks lik…",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+      "link": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+      "summary": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ad23b95526f09405ee8956f/191:100/w_1280,c_limit/Razer%20Barracuda%20V2%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Thank Gen Z for the ‘Girls’ Revival",
+      "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+      "summary": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
+      "publishedAt": "2026-10-16T16:21:38.000Z",
+      "image": "https://media.wired.com/photos/6acfdbcff99bae5deb44dd4d/191:100/w_1280,c_limit/Thank-Gen-Z-for-Girls-Revival-Culture-TCDGIRL_EC147.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:21:38.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "publishedAt": "2026-10-16T16:06:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:06:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+      "summary": "The new Apple TV 4K will be available in November. | Image: The Verge\t\n\nEarlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model d…",
+      "publishedAt": "2026-10-16T16:02:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VergeDealsAppleTV4K.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:02:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual rea…",
+      "publishedAt": "2026-10-16T16:01:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:01:37.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braid…",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T16:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "publishedAt": "2026-10-16T15:41:00.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T15:41:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple&#8217;s HomeView has an app problem",
+      "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+      "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has pl…",
+      "publishedAt": "2026-10-16T15:38:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T15:38:17.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "publishedAt": "2026-10-16T15:33:49.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T15:33:49.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+      "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+      "summary": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican p…",
+      "publishedAt": "2026-10-16T15:25:18.000Z",
+      "image": "https://media.wired.com/photos/6acd9562b718d45618194704/191:100/w_1280,c_limit/GettyImages-2180560800.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T15:25:18.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+      "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessor…",
+      "publishedAt": "2026-10-16T15:08:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T15:08:38.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version.…",
+      "publishedAt": "2026-10-16T15:02:23.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T15:02:23.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nNvi…",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T15:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ad14b37762b59cd2aa2c0c9/191:100/w_1280,c_limit/Backchannel-Sherry-Turkle-Business-458911186.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T15:00:00.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
@@ -13,21 +354,25 @@
       "latestActivity": "2026-10-16T14:26:51.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
-      "link": "https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/",
-      "summary": "Tesla's Roadster event was pretty exciting, to say the least.",
-      "publishedAt": "2026-10-16T02:24:52.000Z",
-      "image": "https://www.engadget.com/img/gallery/relive-teslas-ridiculously-fun-roadster-stunt-show/l-intro-1792117283.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "The incredible flying Tesla Roadster is just for show",
-          "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-          "publishedAt": "2026-10-16T14:15:29.000Z"
-        }
-      ],
+      "source": "Ars Technica",
+      "title": "Polymarket saw $600 million in election trades after the elections were over",
+      "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+      "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
+      "publishedAt": "2026-10-16T14:19:22.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/polymarket-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T14:19:22.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The incredible flying Tesla Roadster is just for show",
+      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas…",
+      "publishedAt": "2026-10-16T14:15:29.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-10-16T14:15:29.000Z"
     },
     {
@@ -42,6 +387,17 @@
       "latestActivity": "2026-10-16T14:12:29.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+      "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+      "publishedAt": "2026-10-16T14:03:25.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-16T14:03:25.000Z"
+    },
+    {
       "source": "The Verge",
       "title": "Meta’s new terms may allow it to train AI on news sites for free",
       "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
@@ -53,64 +409,25 @@
       "latestActivity": "2026-10-16T14:02:40.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem…",
-      "publishedAt": "2026-10-16T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675",
+      "source": "Ars Technica",
+      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+      "publishedAt": "2026-10-16T14:00:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/SuperScamMe_UHD_42-1152x597.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-16T14:00:00.000Z"
+      "latestActivity": "2026-10-16T14:00:59.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-      "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-      "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, a…",
-      "publishedAt": "2026-10-16T13:33:21.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pouch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T13:33:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "iPhone Duo orders are already delayed into 2027",
-      "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-      "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. \nAt the time of writing we are seeing lat…",
-      "publishedAt": "2026-10-16T13:10:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-452-10-57-30.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T13:10:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
-      "link": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
-      "summary": "Article URL: https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations\nComments URL: https://news.ycombinator.com/item?id=50117952\nPoints: 16…",
-      "publishedAt": "2026-10-16T13:09:25.000Z",
-      "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2020-11/03A52E21-5FF8-4865-8592-77FBA303D308.jpeg?h=71976bb4",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T13:09:25.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
-      "link": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
-      "summary": "This MacBook Pro lookalike is designed for developers.\t\n\nAfter setting up Microsoft's Surface Laptop Ultra, I spent five minutes just staring at it. I wasn't surprised by its MacBo…",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VERGE_10_04_2026_0149.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 3,
+      "source": "Ars Technica",
+      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+      "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+      "publishedAt": "2026-10-16T12:00:05.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg",
+      "sourceCount": 2,
       "related": [
-        {
-          "source": "Ars Technica",
-          "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-          "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-          "publishedAt": "2026-10-16T12:00:05.000Z"
-        },
         {
           "source": "Wired",
           "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
@@ -132,28 +449,6 @@
       "latestActivity": "2026-10-16T13:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "publishedAt": "2026-10-16T12:55:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T12:55:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "I Love Software Rendering",
-      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "summary": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\nComments URL: https://news.ycombinator.com/item?id=50117746\nPoints: 95\n# Comments: 59",
-      "publishedAt": "2026-10-16T12:52:08.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T12:52:08.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
       "link": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
@@ -165,50 +460,6 @@
       "latestActivity": "2026-10-16T12:50:24.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-      "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
-      "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would hav…",
-      "publishedAt": "2026-10-16T12:36:11.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sonyxperia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T12:36:11.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The first vibe-coded gun is here",
-      "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
-      "summary": "The WASP. | Image: Defense Distributed\t\n\nSince gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in…",
-      "publishedAt": "2026-10-16T12:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vibe-coded-ai-made-3d-printed-gun.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T12:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Bark: The Toll-Free BBS for 90s Teens",
-      "link": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
-      "summary": "Article URL: https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens\nComments URL: https://news.ycombinator.com/item?id=50117504\nPoints: 9\n# Comments: 3",
-      "publishedAt": "2026-10-16T12:22:13.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T12:22:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qualcomm Legally Proves Arm Breached Its License, Wins $2",
-      "link": "https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2",
-      "summary": "Article URL: https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2\nComments URL: https://news.ycombinator.com/item?id=50117451\nPoints: 23\n#…",
-      "publishedAt": "2026-10-16T12:16:42.000Z",
-      "image": "https://www.techpowerup.com/img/0G4Xv7uEHd02ZOlt.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T12:16:42.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: failed social media bans, and extending pets’ lives",
       "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
@@ -218,28 +469,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-16T12:10:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Artificial intelligence is capitalism's final destination",
-      "link": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-      "summary": "Article URL: https://www.equator.org/articles/arundhati-roy-artificial-intelligence\nComments URL: https://news.ycombinator.com/item?id=50117382\nPoints: 40\n# Comments: 3",
-      "publishedAt": "2026-10-16T12:08:40.000Z",
-      "image": "https://cdn.sanity.io/images/65eg6n5w/production/bbc71eb0dfdb282b7807d81bc866d5701cb40d75-3063x3366.jpg?w=1200&h=600&fit=crop&crop=center&auto=format",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T12:08:40.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The iPhone Duo is now available to preorder at $1,999",
-      "link": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
-      "summary": "The iPhone Duo is Apple’s first foldable phone. | Photo by Antonio Di Benedetto / The Verge\t\n\nFew phones have been more anticipated than a foldable iPhone, but it's finally here. T…",
-      "publishedAt": "2026-10-16T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T12:00:00.000Z"
     },
     {
       "source": "Engadget",
@@ -275,28 +504,6 @@
       "latestActivity": "2026-10-16T11:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "publishedAt": "2026-10-16T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad1662e14d5ead8303dffcb/191:100/w_1280,c_limit/Business_Comedians%20Are%20Getting%20Ripped%20Off%20By%20AI%20Hot%20Girls_v5.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight",
-      "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-      "summary": "What originally looked like clutter turned out to be my new favorite gadget for organizing my family’s life.",
-      "publishedAt": "2026-10-16T10:32:00.000Z",
-      "image": "https://media.wired.com/photos/6ad0ff23409b08718ac6fdb4/191:100/w_1280,c_limit/Are%20Digital%20Wall%20Calendars%20Worth%20It%20(Update)%20102026%20top%20art%20SOURCE%20Amazon-Skylight.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T10:32:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "ChatGPT can now look at your Chrome tabs to do tasks for you",
       "link": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/",
@@ -319,39 +526,6 @@
       "latestActivity": "2026-10-16T10:00:54.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Googlebook review: Android on a laptop is still Android",
-      "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
-      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
-      "publishedAt": "2026-10-16T10:00:32.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Googlebooks-1-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T10:00:32.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins",
-      "link": "https://www.wired.com/review/review-jabra-enhance-select-m3/",
-      "summary": "This direct-to-consumer brand’s latest top-of-the-line devices work well but only showcase incremental improvements over previous models.",
-      "publishedAt": "2026-10-16T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad1031a254a54edd86f4f5e/191:100/w_1280,c_limit/Review%20Jabra%20Enhance%20Select%20M3%20102025%20top%20art%20SOURCE%20Jabra.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The New Fan’s Guide to the Unreal World of Nathan Fielder",
-      "link": "https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/",
-      "summary": "Surprised by the hype around yet another documentary on Theranos fraudster Elizabeth Holmes? It has everything to do with this experimental comedian.",
-      "publishedAt": "2026-10-16T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad1230d3bea6f2be1ce448f/191:100/w_1280,c_limit/NathanFielder_NF-1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T10:00:00.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET",
       "link": "https://www.engadget.com/2288565/apple-iphone-duo-pre-orders-open-today/",
@@ -363,21 +537,10 @@
       "latestActivity": "2026-10-16T09:36:05.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat",
-      "link": "https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/",
-      "summary": "Scientists can’t agree why reefs in the Red Sea have long been immune to bleaching. The answer could be the key to saving these tough corals as climate change begins taking its tol…",
-      "publishedAt": "2026-10-16T09:00:00.000Z",
-      "image": "https://media.wired.com/photos/6acfd1d0b694762e88044dcf/191:100/w_1280,c_limit/Reef_lead.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T09:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "This implant can restore sight for patients with macular degeneration",
       "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was appr…",
+      "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The PRIMA system, which was appr…",
       "publishedAt": "2026-10-16T09:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ND26-dl_mapped.png?w=840",
       "sourceCount": 1,
@@ -407,17 +570,6 @@
       "latestActivity": "2026-10-16T09:00:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Gmail's Live AI search feature arrives for Google AI subscribers",
-      "link": "https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/",
-      "summary": "Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.",
-      "publishedAt": "2026-10-16T08:31:48.000Z",
-      "image": "https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T08:31:48.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
       "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
@@ -427,149 +579,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-16T07:56:32.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-      "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-      "publishedAt": "2026-10-16T05:16:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T05:16:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Folders Programming Language",
-      "link": "https://danieltemkin.com/esolangs/folders",
-      "summary": "Article URL: https://danieltemkin.com/esolangs/folders\nComments URL: https://news.ycombinator.com/item?id=50114342\nPoints: 146\n# Comments: 24",
-      "publishedAt": "2026-10-16T05:11:28.000Z",
-      "image": "https://danieltemkin.com/Content/Esolangs/NewFolders.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T05:11:28.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Skechers Coupon Codes 20% Off",
-      "link": "https://www.wired.com/story/skechers-coupon-codes/",
-      "summary": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
-      "publishedAt": "2026-10-16T05:00:00.000Z",
-      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/191:100/w_1280,c_limit/WIRED-Coupons-R2_16.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T05:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "link": "https://github.com/Saffsanity/sill",
-      "summary": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 204\n# Comments: 51",
-      "publishedAt": "2026-10-16T01:43:17.000Z",
-      "image": "https://repository-images.githubusercontent.com/1381093165/b456f715-a301-4b82-a109-a5c6dfe34815",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T01:43:17.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "publishedAt": "2026-10-16T01:17:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-roadster-2-fly.jpg?resize=1200,877",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T01:17:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "RPKI now protects 70% of internet routes",
-      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "summary": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes\nComments URL: https://news.ycombinator.com/item?id=50112330\nPoints: 192\n# Comments: 84",
-      "publishedAt": "2026-10-16T00:52:35.000Z",
-      "image": "https://storage.ghost.io/c/b1/57/b157bf7f-0fe2-447f-a945-12d7951755b3/content/images/2026/10/ipinfo-rpki-social-share-2400x1256-1.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-16T00:52:35.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "publishedAt": "2026-10-15T23:44:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-15T23:44:56.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-      "publishedAt": "2026-10-15T23:33:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55592280883_eb4cee0d80_k.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-15T23:33:45.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-      "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
-      "publishedAt": "2026-10-15T22:21:06.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-15T22:21:06.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Plex now helps sell movie theater tickets",
-      "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-      "summary": "Discovery data from Plex users will help studios, advertisers.",
-      "publishedAt": "2026-10-15T21:22:15.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2218632851-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-15T21:22:15.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-      "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-      "summary": "Medical experts explicitly recommend against blanket screenings.",
-      "publishedAt": "2026-10-15T21:09:57.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-15T21:09:57.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it ",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-      "publishedAt": "2026-10-15T20:38:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-15T20:38:13.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-      "publishedAt": "2026-10-15T20:32:41.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-15T20:32:41.000Z"
     },
     {
       "source": "MIT Technology Review",
