@@ -1,6 +1,50 @@
 {
-  "syncedAt": "2026-10-18T23:59:03.473Z",
+  "syncedAt": "2026-10-19T04:26:52.668Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/\nComments URL: https://news.ycombinator.com/item?id=50147492\nPoints: 24\n# Comments: 10",
+      "publishedAt": "2026-10-19T02:01:16.000Z",
+      "image": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-19T02:01:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+      "link": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+      "summary": "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/\nComments URL: https://news.ycombinator.com/item?id=50147455\nPoints: 55\n# Comm…",
+      "publishedAt": "2026-10-19T01:55:03.000Z",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-08-at-7.03.11-AM@2x.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-19T01:55:03.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
+      "link": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
+      "summary": "Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too.",
+      "publishedAt": "2026-10-19T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter/l-intro-1792009377.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-19T00:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
+      "link": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+      "summary": "You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you.",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-19T00:00:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Why you should never point a laser pointer at a security camera",
@@ -11,6 +55,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-18T23:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "link": "https://colo.to/cyberspace.html",
+      "summary": "Article URL: https://colo.to/cyberspace.html\nComments URL: https://news.ycombinator.com/item?id=50146625\nPoints: 100\n# Comments: 16",
+      "publishedAt": "2026-10-18T23:37:57.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-18T23:37:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "summary": "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base\nComments URL: https://news.ycombinator.com/item?id=50146624\nPoints: 34\n#…",
+      "publishedAt": "2026-10-18T23:37:54.000Z",
+      "image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-08/GettyImages-2235571336_cropped.jpg?VersionId=dDRag9z_p0pWgI7t9.VpBUEZQahBNgZM",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-18T23:37:54.000Z"
     },
     {
       "source": "Engadget",
@@ -84,10 +150,21 @@
       "link": "https://github.com/finereli/whatsapp-mcp",
       "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.\nI want…",
       "publishedAt": "2026-10-18T21:36:10.000Z",
-      "image": "https://opengraph.githubassets.com/22cb63aefd46013118df596ab35e0b8ce8d0b07306bf495b7d81c165e050409d/finereli/whatsapp-mcp",
+      "image": "https://opengraph.githubassets.com/fdd4da3aa811ea691f2d4c686b34ec3b436cb759beaab74febbb84056affc1bd/finereli/whatsapp-mcp",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-18T21:36:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\nComments URL: https://news.ycombinator.com/item?id=50145507\nPoints:…",
+      "publishedAt": "2026-10-18T21:09:12.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-18T21:09:12.000Z"
     },
     {
       "source": "TechCrunch",
@@ -112,17 +189,6 @@
       "latestActivity": "2026-10-18T20:48:14.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-      "link": "https://github.com/Netflix/vmaf",
-      "summary": "Article URL: https://github.com/Netflix/vmaf\nComments URL: https://news.ycombinator.com/item?id=50145295\nPoints: 13\n# Comments: 5",
-      "publishedAt": "2026-10-18T20:43:40.000Z",
-      "image": "https://opengraph.githubassets.com/752b05b19e23a5fbcfd5c63c7b15ebe054cca30897435a2e280a301cc09d4589/Netflix/vmaf",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-18T20:43:40.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
@@ -132,17 +198,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-18T20:37:40.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "After five years, Inscryption is finally coming to mobile",
-      "link": "https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile/",
-      "summary": "The studio celebrated Inscryption's five-year anniversary with a Twitch stream.",
-      "publishedAt": "2026-10-18T20:27:30.000Z",
-      "image": "https://www.engadget.com/img/gallery/after-five-years-inscryption-is-finally-coming-to-mobile/l-intro-1792354834.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-18T20:27:30.000Z"
     },
     {
       "source": "The Verge",
@@ -170,34 +225,12 @@
       "source": "Hacker News",
       "title": "Free Pascal compiler now supports dynamic packages",
       "link": "https://www.getlazarus.org/dynamic/",
-      "summary": "Article URL: https://www.getlazarus.org/dynamic/\nComments URL: https://news.ycombinator.com/item?id=50144066\nPoints: 100\n# Comments: 14",
+      "summary": "Article URL: https://www.getlazarus.org/dynamic/\nComments URL: https://news.ycombinator.com/item?id=50144066\nPoints: 128\n# Comments: 26",
       "publishedAt": "2026-10-18T18:48:04.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-18T18:48:04.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What is the star button for on your Roku remote?",
-      "link": "https://www.engadget.com/2286582/roku-remote-star-button-what-for/",
-      "summary": "While the Roku remote doesn't have confusing colors or weird symbols, the star button can confuse some folks at first.",
-      "publishedAt": "2026-10-18T18:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-is-the-star-button-for-on-your-roku-remote/l-intro-1791990292.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-18T18:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-      "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-      "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html\nComments URL: https://news.ycombinator.com/item?id=50144005\nPoints: 153\n# Comments: 263",
-      "publishedAt": "2026-10-18T18:40:16.000Z",
-      "image": "https://hoaspy.com/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-18T18:40:16.000Z"
     },
     {
       "source": "The Verge",
@@ -209,39 +242,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-18T18:28:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "PalmOS Lemmings",
-      "link": "https://github.com/ardiri/palmos-lemmings",
-      "summary": "Article URL: https://github.com/ardiri/palmos-lemmings\nComments URL: https://news.ycombinator.com/item?id=50143536\nPoints: 80\n# Comments: 22",
-      "publishedAt": "2026-10-18T17:56:59.000Z",
-      "image": "https://opengraph.githubassets.com/029c46aa01dc6a58620b51d71d02f41be81bb20b52386373ba602639ec07bba3/ardiri/palmos-lemmings",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-18T17:56:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Namecheap just seized and disabled all my domains",
-      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\nComments URL: https://news.ycombinator.com/item?id=50142866\nPoint…",
-      "publishedAt": "2026-10-18T16:56:56.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-18T16:56:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Someone behind the software",
-      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/\nComments URL: https://news.ycombinator.com/item?id=50142573\nPoints: 277\n# Comments: 116",
-      "publishedAt": "2026-10-18T16:32:00.000Z",
-      "image": "https://karrisaarinen.com/static/linear-assets/081de7ffce667bb13cb63d8b2a1d312e19d747ea1d3818af2c5cc1e5a9445e21.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-18T16:32:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -421,7 +421,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
       "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
       "publishedAt": "2026-10-17T20:55:52.000Z",
