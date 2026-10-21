@@ -1,6 +1,101 @@
 {
-  "syncedAt": "2026-10-21T19:57:50.834Z",
+  "syncedAt": "2026-10-21T23:10:16.558Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "publishedAt": "2026-10-21T22:51:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:51:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "publishedAt": "2026-10-21T22:45:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:45:34.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "publishedAt": "2026-10-21T22:39:50.000Z",
+      "image": "https://media.wired.com/photos/6ad9408768bf72427a051c89/191:100/w_1280,c_limit/WIRED_Business_Mark-Z_CA.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:39:50.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Mark Zuckerberg says Meta is 'entering a new phase' with Muse",
+      "link": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/",
+      "summary": "Zuckerberg expects the agent will generate more revenue per user than the company's apps.",
+      "publishedAt": "2026-10-21T22:36:03.000Z",
+      "image": "https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/l-intro-1792621715.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:36:03.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Data centers could erase decades of air quality gains",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind g…",
+      "publishedAt": "2026-10-21T22:33:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:33:44.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Bose buys audio rival Skullcandy",
+      "link": "https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/",
+      "summary": "Bose sees the company as a way to reach a wider audience.",
+      "publishedAt": "2026-10-21T22:19:48.000Z",
+      "image": "https://www.engadget.com/img/gallery/bose-buys-audio-rival-skullcandy/l-intro-1792621054.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:19:48.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
+      "link": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+      "summary": "Some hosts are threatening to strike, while others are plotting ways around Airbnb’s new restrictions. Guests, meanwhile, are celebrating.",
+      "publishedAt": "2026-10-21T21:57:22.000Z",
+      "image": "https://media.wired.com/photos/6ad8f12cba3e5597384c89ad/191:100/w_1280,c_limit/Business_Airbnb%20Hosts%20Are%20Furious%20They%20Can%20No%20Longer%20Make%20Guests%20Do%20Their%20Chores_v2.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+          "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+          "publishedAt": "2026-10-21T22:16:05.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-21T22:16:05.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+      "publishedAt": "2026-10-21T22:06:07.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:06:07.000Z"
+    },
     {
       "source": "The Verge",
       "title": "Airbnb bans making guests do dishes and take out the trash",
@@ -8,20 +103,258 @@
       "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house r…",
       "publishedAt": "2026-10-21T19:54:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Airbnb bans hosts from making you do the dishes",
+          "link": "https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/",
+          "publishedAt": "2026-10-21T22:04:32.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-21T22:04:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Railway Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 135\n# Comments: 42",
+      "publishedAt": "2026-10-21T21:58:03.000Z",
+      "image": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&q=90",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-21T19:54:00.000Z"
+      "latestActivity": "2026-10-21T21:58:03.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "publishedAt": "2026-10-21T21:48:52.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T21:48:52.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Tesla profits drop 43% in Q3",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "publishedAt": "2026-10-21T21:35:07.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T21:35:07.000Z"
     },
     {
       "source": "The Verge",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as…",
-      "publishedAt": "2026-10-21T19:53:20.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock w…",
+      "publishedAt": "2026-10-21T21:30:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-21T19:53:20.000Z"
+      "latestActivity": "2026-10-21T21:30:02.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know ",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insig…",
+      "publishedAt": "2026-10-21T21:16:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T21:16:20.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "publishedAt": "2026-10-21T21:14:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T21:14:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+      "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+      "summary": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/\nComments URL: https://news.ycombinator.com/item?id=50187708\nPoints: 82\n# Comments: 20",
+      "publishedAt": "2026-10-21T21:12:59.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T21:12:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CleanFrame: A quieter home screen for Samsung The Frame",
+      "link": "https://github.com/nthnclrk/CleanFrame",
+      "summary": "Article URL: https://github.com/nthnclrk/CleanFrame\nComments URL: https://news.ycombinator.com/item?id=50187659\nPoints: 10\n# Comments: 1",
+      "publishedAt": "2026-10-21T21:08:59.000Z",
+      "image": "https://opengraph.githubassets.com/96676c5512249a46d29c39497f429d9f645f76c938c914514ec9c307ed9eb15d/nthnclrk/CleanFrame",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T21:08:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+      "link": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/",
+      "summary": "Anthropic subscribers in the US can join a waitlist to try the company's new agent.",
+      "publishedAt": "2026-10-21T21:03:19.000Z",
+      "image": "https://www.engadget.com/img/gallery/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/l-intro-1792616502.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T21:03:19.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
+      "link": "https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/",
+      "summary": "As the White House contemplates losing Congress, there has been an unusually early effort to find a Republican scapegoat.",
+      "publishedAt": "2026-10-21T21:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ad7dddccd0792bc5939c725/191:100/w_1280,c_limit/politics_republican_midterms_trump_blame.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T21:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "publishedAt": "2026-10-21T20:57:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:57:40.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+      "link": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/",
+      "summary": "All websites using PHP should update to the latest security patch.",
+      "publishedAt": "2026-10-21T20:56:47.000Z",
+      "image": "https://www.engadget.com/img/gallery/government-websites-in-eu-and-canada-taken-offline-over-php-vulnerability/l-intro-1792616156.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:56:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "New York’s first microdrama film festival searches for its audience",
+      "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "summary": "Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during th…",
+      "publishedAt": "2026-10-21T20:49:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300700160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:49:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+      "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+      "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings…",
+      "publishedAt": "2026-10-21T20:46:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:46:56.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Meta ordered to cough up $25 billion in New Mexico privacy case",
+      "link": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/",
+      "summary": "The case stemmed from the nearly decade-old Cambridge Analytica scandal.",
+      "publishedAt": "2026-10-21T20:43:17.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-ordered-to-cough-up-25-billion-in-new-mexico-privacy-case/l-intro-1792615292.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:43:17.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Trump Isn’t Even Good at TV Anymore",
+      "link": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
+      "summary": "From Trump TV to a Shark Tank knockoff, the president’s latest entertainment ventures are a steep decline from his days on The Apprentice.",
+      "publishedAt": "2026-10-21T20:38:01.000Z",
+      "image": "https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/191:100/w_1280,c_limit/GettyImages-2258686448.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:38:01.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical v…",
+      "publishedAt": "2026-10-21T20:36:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:36:56.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+      "publishedAt": "2026-10-21T20:33:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:33:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "publishedAt": "2026-10-21T20:27:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:27:41.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+      "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+      "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined.\nTesla said it earned $1.7 billi…",
+      "publishedAt": "2026-10-21T20:22:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:22:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Bose acquires Skullcandy to help it reach a wider audience",
+      "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+      "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring s…",
+      "publishedAt": "2026-10-21T20:15:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:15:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds",
+      "link": "https://www.wired.com/story/bose-acquires-skullcandy-october-2026/",
+      "summary": "By keeping Skullcandy in Park City, Utah, Bose is betting that skate cred and budget pricing will reach listeners it’s been missing.",
+      "publishedAt": "2026-10-21T20:15:00.000Z",
+      "image": "https://media.wired.com/photos/6a560635c946b09bdcf9a518/191:100/w_1280,c_limit/Skullcandy_Crusher_1080_ANC_Cement_S6CNW-U993_Press_Images_3840%20(1).jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T20:15:00.000Z"
     },
     {
       "source": "Engadget",
@@ -35,89 +368,32 @@
       "latestActivity": "2026-10-21T19:52:50.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-      "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-      "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 202…",
-      "publishedAt": "2026-10-21T19:52:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801",
+      "source": "Ars Technica",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+      "publishedAt": "2026-10-21T19:44:40.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-21T19:52:20.000Z"
+      "latestActivity": "2026-10-21T19:44:40.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html\nComments URL: https://news.ycombinator.com/item?id=50184820\nPoints: 88\n# Comments: 40",
-      "publishedAt": "2026-10-21T17:45:13.000Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&w=1920&h=1080",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-          "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-          "publishedAt": "2026-10-21T19:02:49.000Z"
-        },
-        {
-          "source": "TechCrunch",
-          "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
-          "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-          "publishedAt": "2026-10-21T19:42:32.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-21T19:42:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Plex laid off the whole player team",
-      "link": "https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5",
-      "summary": "Article URL: https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5\nComments URL: https://news.ycombinator.com/item?id…",
-      "publishedAt": "2026-10-21T19:32:10.000Z",
-      "image": "https://global.discourse-cdn.com/plex/original/3X/b/f/bf4da7e4a0c1ed2fd6faf0decc0f3846e352c6fa.png",
+      "title": "Claude Duet",
+      "link": "https://claude.com/resources/articles/claude-duet",
+      "summary": "Article URL: https://claude.com/resources/articles/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186455\nPoints: 39\n# Comments: 6",
+      "publishedAt": "2026-10-21T19:40:18.000Z",
+      "image": "https://claude.com/resources/articles/claude-duet/opengraph-image/og",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-21T19:32:10.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, w…",
-      "publishedAt": "2026-10-21T19:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:30:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you…",
-      "publishedAt": "2026-10-21T19:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mistral Large 4",
-      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0\nComments URL: https://news.ycombinator.com/item?id=50186129\nPoints: 103\n# Comments: 12",
-      "publishedAt": "2026-10-21T19:20:55.000Z",
-      "image": "http://localhost:3000/api/og?title=Mistral+Large+4&description=Mistral+Large+4+is+a+state-of-the-art%2C+open-weight%2C+general-purpose+multimodal+model+with+a+granular+Mixture-of-Experts+architecture.+It+features+52B+active+parameters+and+1.05T+total+parameters%2C+and+a+1.6B+vision+encoder.&eyebraw=v26.10&image=&type=model&v=dev&modelIcon=mistral-large-4",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:20:55.000Z"
+      "latestActivity": "2026-10-21T19:40:18.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Claude Duet",
       "link": "https://claude.com/product/claude-duet",
-      "summary": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 88\n# Comments: 101",
+      "summary": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 270\n# Comments: 218",
       "publishedAt": "2026-10-21T19:14:01.000Z",
       "image": "https://claude.com/static/claude-duet/og.jpg",
       "sourceCount": 1,
@@ -125,10 +401,21 @@
       "latestActivity": "2026-10-21T19:14:01.000Z"
     },
     {
+      "source": "Ars Technica",
+      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+      "link": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+      "summary": "Next Mass Effect project canceled as parent company lays off 400.",
+      "publishedAt": "2026-10-21T19:12:16.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/me3ending-1152x648.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T19:12:16.000Z"
+    },
+    {
       "source": "Hacker News",
       "title": "Google's Rust Style Guide",
       "link": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 25\n# Comments: 7",
+      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 135\n# Comments: 92",
       "publishedAt": "2026-10-21T19:11:57.000Z",
       "image": null,
       "sourceCount": 1,
@@ -136,21 +423,10 @@
       "latestActivity": "2026-10-21T19:11:57.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "The internet is having a very bad cybersecurity day",
-      "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-      "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
-      "publishedAt": "2026-10-21T19:03:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:03:28.000Z"
-    },
-    {
       "source": "Hacker News",
-      "title": "GitLab CVSS 10.0 Integer Overflow issue",
+      "title": "GitLab Critical Patch Release",
       "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\nComments URL: https://news.ycombinator.com/item?id=50185869\nPoints: 22\n# Comments: 4",
+      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\nComments URL: https://news.ycombinator.com/item?id=50185869\nPoints: 191\n# Comments: 42",
       "publishedAt": "2026-10-21T19:01:12.000Z",
       "image": null,
       "sourceCount": 1,
@@ -158,15 +434,15 @@
       "latestActivity": "2026-10-21T19:01:12.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-      "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-      "publishedAt": "2026-10-21T18:51:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+      "source": "Ars Technica",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "publishedAt": "2026-10-21T18:51:42.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-21T18:51:56.000Z"
+      "latestActivity": "2026-10-21T18:51:42.000Z"
     },
     {
       "source": "Wired",
@@ -183,7 +459,7 @@
       "source": "Hacker News",
       "title": "Canary Tokens",
       "link": "https://canarytokens.org/",
-      "summary": "https://docs.canarytokens.org/guide/\nComments URL: https://news.ycombinator.com/item?id=50185630\nPoints: 48\n# Comments: 9",
+      "summary": "https://docs.canarytokens.org/guide/\nComments URL: https://news.ycombinator.com/item?id=50185630\nPoints: 107\n# Comments: 20",
       "publishedAt": "2026-10-21T18:45:04.000Z",
       "image": "https://canary.tools/static/images/ico_canary.png",
       "sourceCount": 1,
@@ -213,70 +489,26 @@
       "latestActivity": "2026-10-21T18:42:41.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Cyberpunk 2077&#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
-      "link": "https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield",
-      "summary": "Cyberpunk 2077 is getting a big new 2.5 update that, among other features, brings cross-platform mod support to consoles and content inspired by the new season of the Cyberpunk: Ed…",
-      "publishedAt": "2026-10-21T18:39:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_93290.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Ars Technica",
+      "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+      "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+      "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+      "publishedAt": "2026-10-21T18:35:38.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-21T18:39:52.000Z"
+      "latestActivity": "2026-10-21T18:35:38.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Xbox mandates a four-day return to office",
-      "link": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days",
-      "summary": "Microsoft asked its employees to return to the office three days per week last year, and it's now upping this requirement to four days a week for most Xbox employees. An internal m…",
-      "publishedAt": "2026-10-21T18:31:15.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Ars Technica",
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+      "publishedAt": "2026-10-21T18:20:40.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-21T18:31:15.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Star Wars Zero Company is a must-play strategy game at 20 percent off",
-      "link": "https://www.theverge.com/gadgets/1015624/star-wars-zero-company-deal-sale",
-      "summary": "Zero Company will have you teaming up with some unlikely new allies. | Image: EA and Disney\t\n\nIf you’ve been curious about Star Wars Zero Company, the XCOM-like strategy game set i…",
-      "publishedAt": "2026-10-21T18:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/SWZC_AnnGP_Screenshot_1_WM.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T18:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anthropic's Public Benefit Charter",
-      "link": "https://www.anthropic.com/public-benefit-charter",
-      "summary": "Article URL: https://www.anthropic.com/public-benefit-charter\nComments URL: https://news.ycombinator.com/item?id=50185438\nPoints: 34\n# Comments: 13",
-      "publishedAt": "2026-10-21T18:29:54.000Z",
-      "image": "https://www.anthropic.com/images/mission/share.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T18:29:54.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "GM is giving OnStar an AI makeover",
-      "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-      "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
-      "publishedAt": "2026-10-21T18:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Will TP-Link really make routers in the US? Here’s what it told us",
-      "link": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
-      "summary": "A TP-Link Wi-Fi 8 router. | Image: TP-Link\t\n\nTP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just la…",
-      "publishedAt": "2026-10-21T18:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tp-link-wifi-8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T18:00:00.000Z"
+      "latestActivity": "2026-10-21T18:20:40.000Z"
     },
     {
       "source": "Wired",
@@ -290,171 +522,6 @@
       "latestActivity": "2026-10-21T18:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "publishedAt": "2026-10-21T17:59:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T17:59:12.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "There's a new Apple Music logo and it looks like ripples in water",
-      "link": "https://www.engadget.com/2293262/theres-a-new-apple-music-logo-and-it-looks-like-ripples-in-water/",
-      "summary": "Maybe they should use it as the app logo instead.",
-      "publishedAt": "2026-10-21T17:35:47.000Z",
-      "image": "https://www.engadget.com/img/gallery/theres-a-new-apple-music-logo-and-it-looks-like-ripples-in-water/l-intro-1792604071.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T17:35:47.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion…",
-      "publishedAt": "2026-10-21T17:18:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T17:18:27.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)",
-      "link": "https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/",
-      "summary": "Samsung’s Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.",
-      "publishedAt": "2026-10-21T17:00:15.000Z",
-      "image": "https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/191:100/w_1280,c_limit/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T17:00:15.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-      "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
-      "summary": "\"We have had significant constructive engagement with the FAA.\"",
-      "publishedAt": "2026-10-21T16:46:19.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T16:46:19.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Sony's PlayStation Pulse headset arrives on November 19 for $100",
-      "link": "https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100/",
-      "summary": "Pre-orders open on October 29.",
-      "publishedAt": "2026-10-21T16:09:48.000Z",
-      "image": "https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T16:09:48.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-      "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-      "publishedAt": "2026-10-21T16:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/191:100/w_1280,c_limit/business_ai_lab_recursive_improvement.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T16:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Supernatural's VR exercise app has relaunched on Meta VR headsets",
-      "link": "https://www.engadget.com/2293056/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/",
-      "summary": "It's in early access and subscriptions cost $20 per month or $200 each year.",
-      "publishedAt": "2026-10-21T16:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/l-intro-1792598064.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T16:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "publishedAt": "2026-10-21T15:14:07.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T15:14:07.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robo…",
-      "publishedAt": "2026-10-21T15:02:15.000Z",
-      "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/191:100/w_1280,c_limit/GettyImages-2301295306.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T15:02:15.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "7 Best Phones You Can’t Buy in the US (2026)",
-      "link": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
-      "summary": "Avoid phone FOMO with our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
-      "publishedAt": "2026-10-21T15:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad7820d0f45928d2d3fc88c/191:100/w_1280,c_limit/Best%20Non%20US%20Phones%20Update%201%20(cropped)%20SOURCE%20Simon%20Hill.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T15:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Oppo Find X10 Pro Max hands-on: Triple 200-megapixel cameras but few surprises",
-      "link": "https://www.engadget.com/2291445/oppo-find-x10-pro-max-hands-on/",
-      "summary": "Trying to fill a OnePlus-shaped hole, Oppo plays it a little safe.",
-      "publishedAt": "2026-10-21T15:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/oppo-find-x10-pro-max-hands-on-triple-200-megapixel-cameras-but-few-surprises/l-intro-1792496281.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T15:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Now you can chat with Gemini while using Google Maps through CarPlay",
-      "link": "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/",
-      "summary": "Just tap the new Gemini icon to get started.",
-      "publishedAt": "2026-10-21T15:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/l-intro-1792593259.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T15:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire co…",
-      "publishedAt": "2026-10-21T14:26:19.000Z",
-      "image": "https://media.wired.com/photos/6ad8c3fad8fc6a7c8e751dc0/191:100/w_1280,c_limit/102126-PHP.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T14:26:19.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "A permanent Pokémon store will open in London, with more locations outside Asia to follow",
-      "link": "https://www.engadget.com/2292884/a-permanent-pokmon-store-will-open-in-london-with-more-locations-outside-asia-to-follow/",
-      "summary": "The new retail location is set to open by 2029.",
-      "publishedAt": "2026-10-21T14:20:47.000Z",
-      "image": "https://www.engadget.com/img/gallery/a-permanent-pokmon-store-will-open-in-london-with-more-locations-outside-asia-to-follow/l-intro-1792592324.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T14:20:47.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: introducing the Impossible issue",
       "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
@@ -464,28 +531,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T12:10:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Review: Carrie is a triumphant remix with one major flaw",
-      "link": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
-      "summary": "Mike Flanagan's re-imagining of Stephen King's classic is well worth watching.",
-      "publishedAt": "2026-10-21T11:19:12.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/carrieTOP-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T11:19:12.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
-      "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-      "summary": "Flipping through the highlights in and around Pinball Expo 2026.",
-      "publishedAt": "2026-10-21T11:00:04.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261016_134708667.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T11:00:04.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -563,50 +608,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T09:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "publishedAt": "2026-10-21T02:12:18.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T02:12:18.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-      "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "summary": "\"I do think there's a lot of merit to combining the companies.\"",
-      "publishedAt": "2026-10-20T22:04:54.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-20T22:04:54.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
-      "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
-      "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
-      "publishedAt": "2026-10-20T21:44:34.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1234276092-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-20T21:44:34.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-      "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
-      "publishedAt": "2026-10-20T21:14:33.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-20T21:14:33.000Z"
     }
   ]
 }
