@@ -1,9 +1,294 @@
 {
-  "syncedAt": "2026-10-22T19:49:08.010Z",
+  "syncedAt": "2026-10-22T23:02:11.409Z",
   "items": [
     {
+      "source": "TechCrunch",
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "publishedAt": "2026-10-22T22:34:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/tc-disrupt-2022-chris-dixon-8.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T22:34:54.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
+      "link": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
+      "summary": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
+      "publishedAt": "2026-10-22T22:26:57.000Z",
+      "image": "https://media.wired.com/photos/6ada6dba4d7b986a1aaeb09e/191:100/w_1280,c_limit/virus%20Shamonda%20Francia%201298348369.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T22:26:57.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "publishedAt": "2026-10-22T22:08:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T22:08:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Canva’s first AI image model plans designs before generating them",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "publishedAt": "2026-10-22T21:51:25.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-22T21:51:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Railpass",
+      "link": "https://train.samismith.com/",
+      "summary": "Article URL: https://train.samismith.com/\nComments URL: https://news.ycombinator.com/item?id=50201414\nPoints: 13\n# Comments: 3",
+      "publishedAt": "2026-10-22T21:38:32.000Z",
+      "image": "https://train.samismith.com/img/railpass-card.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T21:38:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with e…",
+      "publishedAt": "2026-10-22T21:30:39.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T21:30:39.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "summary": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\nComments URL: https://news.ycombinator.com/item?id=50201259\nPoints: 98\n# Comments: 25",
+      "publishedAt": "2026-10-22T21:24:41.000Z",
+      "image": "https://media.vanityfair.com/photos/6ad91087dc03a09d237f39fb/16:9/w_1280,c_limit/vfoctober_kushner_money_tout.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T21:24:41.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years…",
+      "publishedAt": "2026-10-22T21:17:29.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T21:17:29.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Fall 2026 earnings watch",
+      "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to invest…",
+      "publishedAt": "2026-10-22T21:15:16.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T21:15:16.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "publishedAt": "2026-10-22T21:05:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T21:05:05.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
+      "link": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
+      "summary": "Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way.",
+      "publishedAt": "2026-10-22T20:57:17.000Z",
+      "image": "https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:57:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren'…",
+      "publishedAt": "2026-10-22T20:32:05.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:32:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta turns Muse sharing back on",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse…",
+      "publishedAt": "2026-10-22T20:24:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:24:04.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national…",
+      "publishedAt": "2026-10-22T20:23:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:23:48.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Spotify's Family plan QR code could cost you Premium access",
+      "link": "https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/",
+      "summary": "Spotify is trying to make some Premium Family members prove they live at the same address.",
+      "publishedAt": "2026-10-22T20:19:19.000Z",
+      "image": "https://www.engadget.com/img/gallery/spotifys-family-plan-qr-code-could-cost-you-premium-access/l-intro-1792700036.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:19:19.000Z"
+    },
+    {
       "source": "Ars Technica",
-      "title": "Meet the 2026 winner of Nikon's Small World photomicrography contest",
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+      "publishedAt": "2026-10-22T20:17:52.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:17:52.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+      "link": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+      "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same…",
+      "publishedAt": "2026-10-22T20:05:51.000Z",
+      "image": "https://media.wired.com/photos/6ada2a91587bb57d09e564bf/191:100/w_1280,c_limit/The%20Google%20Home%20Speaker%20Bug%20Is%20Gobbling%20Up%20Wi-Fi%20102026%20top%20art%20SOURCE%20Google.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:05:51.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Rhode Island sues Meta over its approach to scam ads",
+      "link": "https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/",
+      "summary": "It's the first state to sue the social media company on these allegations.",
+      "publishedAt": "2026-10-22T20:05:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/rhode-island-sues-meta-over-its-approach-to-scam-ads/l-intro-1792699351.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:05:26.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The Browser Company is officially killing Arc on December 22",
+      "link": "https://www.engadget.com/2294643/the-browser-company-is-officially-killing-arc-on-december-22/",
+      "summary": "The organization is prioritizing an AI browser called Dia.",
+      "publishedAt": "2026-10-22T18:52:43.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-browser-company-is-officially-killing-arc-on-december-22/l-intro-1792695105.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+          "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+          "publishedAt": "2026-10-22T20:01:51.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-22T20:01:51.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first…",
+      "publishedAt": "2026-10-22T20:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593304916_918c404f7a_o.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T20:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The trailer for Mass Effect 5 has leaked and unfortunately it looks good",
+      "link": "https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/",
+      "summary": "'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni.",
+      "publishedAt": "2026-10-22T19:55:13.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/l-intro-1792698450.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+          "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+          "publishedAt": "2026-10-22T19:59:37.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-22T19:59:37.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "publishedAt": "2026-10-22T19:56:32.000Z",
+      "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/191:100/w_1280,c_limit/Model-Behavior-Illo-102226-2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T19:56:32.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvid…",
+      "publishedAt": "2026-10-22T19:45:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T19:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+      "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+      "summary": "It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering\t\n\nTeenage Engineering is branching out into instrument amps with…",
+      "publishedAt": "2026-10-22T19:44:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/teenage-engineering-ep-35.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T19:44:51.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
       "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
       "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
       "publishedAt": "2026-10-22T19:34:40.000Z",
@@ -11,17 +296,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-22T19:34:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "eMudhra logins can be bruteforced",
-      "link": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
-      "summary": "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995\nComments URL: https://news.ycombinator.com/item?id=50199757\nPoints: 6\n# Comments: 0",
-      "publishedAt": "2026-10-22T19:14:01.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T19:14:01.000Z"
     },
     {
       "source": "TechCrunch",
@@ -80,17 +354,6 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
@@ -110,17 +373,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-22T18:59:09.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The Browser Company is officially killing Arc on December 22",
-      "link": "https://www.engadget.com/2294643/the-browser-company-is-officially-killing-arc-on-december-22/",
-      "summary": "The organization is prioritizing an AI browser called Dia.",
-      "publishedAt": "2026-10-22T18:52:43.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-browser-company-is-officially-killing-arc-on-december-22/l-intro-1792695105.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:52:43.000Z"
     },
     {
       "source": "Ars Technica",
@@ -148,51 +400,18 @@
       "source": "Hacker News",
       "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
       "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-      "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai\nComments URL: https://news.ycombinator.com/item?id=50199389\nPoints: 28\n# Comments: 5",
+      "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai\nComments URL: https://news.ycombinator.com/item?id=50199389\nPoints: 93\n# Comments: 20",
       "publishedAt": "2026-10-22T18:44:36.000Z",
-      "image": "https://opengraph.githubassets.com/c0a40f4da356f0728c23358b4dd971a92a98c7bd3c538e011535df0bc24cb493/maxilevi/project-hedra",
+      "image": "https://opengraph.githubassets.com/454860487aaa45eb3719834134ed90608079def8af4bce2d327702d198e09d9c/maxilevi/project-hedra",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-22T18:44:36.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath…",
-      "publishedAt": "2026-10-22T18:43:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:43:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
-      "link": "https://3d.camilleworld.com/play/",
-      "summary": "Article URL: https://3d.camilleworld.com/play/\nComments URL: https://news.ycombinator.com/item?id=50199349\nPoints: 5\n# Comments: 1",
-      "publishedAt": "2026-10-22T18:39:39.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:39:39.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-      "publishedAt": "2026-10-22T18:38:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:38:47.000Z"
-    },
-    {
       "source": "Hacker News",
       "title": "Show HN: UI micro interactions prompts for AI",
       "link": "https://www.typeui.sh/micro-interactions",
-      "summary": "Article URL: https://www.typeui.sh/micro-interactions\nComments URL: https://news.ycombinator.com/item?id=50199290\nPoints: 24\n# Comments: 11",
+      "summary": "Article URL: https://www.typeui.sh/micro-interactions\nComments URL: https://news.ycombinator.com/item?id=50199290\nPoints: 65\n# Comments: 36",
       "publishedAt": "2026-10-22T18:32:57.000Z",
       "image": null,
       "sourceCount": 1,
@@ -212,9 +431,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Award-Winning AI Literature",
+      "title": "Award-winning AI literature",
       "link": "https://jamesyu.org/award-winning-ai-literature/",
-      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/\nComments URL: https://news.ycombinator.com/item?id=50199232\nPoints: 23\n# Comments: 7",
+      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/\nComments URL: https://news.ycombinator.com/item?id=50199232\nPoints: 54\n# Comments: 56",
       "publishedAt": "2026-10-22T18:28:26.000Z",
       "image": "https://www.jamesyu.org/images/award-winning-ai-literature.png",
       "sourceCount": 1,
@@ -225,7 +444,7 @@
       "source": "Hacker News",
       "title": "AI and the Enclosure of the Scientific Commons",
       "link": "https://arxiv.org/abs/2610.27251",
-      "summary": "Article URL: https://arxiv.org/abs/2610.27251\nComments URL: https://news.ycombinator.com/item?id=50199230\nPoints: 24\n# Comments: 5",
+      "summary": "Article URL: https://arxiv.org/abs/2610.27251\nComments URL: https://news.ycombinator.com/item?id=50199230\nPoints: 91\n# Comments: 49",
       "publishedAt": "2026-10-22T18:28:16.000Z",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "sourceCount": 1,
@@ -244,59 +463,8 @@
       "latestActivity": "2026-10-22T18:26:03.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents…",
-      "publishedAt": "2026-10-22T18:15:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:15:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
-      "link": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea",
-      "summary": "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today.\nThe tra…",
-      "publishedAt": "2026-10-22T18:14:24.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-11.12.28-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:14:24.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
-      "link": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
-      "summary": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is n…",
-      "publishedAt": "2026-10-22T17:46:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Amazon rebrands Kindle Unlimited to Kindle+",
-          "link": "https://www.engadget.com/2294533/amazon-rebrands-kindle-unlimited-to-kindle/",
-          "publishedAt": "2026-10-22T18:10:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-22T18:10:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
-      "link": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california",
-      "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chro…",
-      "publishedAt": "2026-10-22T18:07:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986646/acastro_STK086_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:07:02.000Z"
-    },
-    {
       "source": "Wired",
-      "title": "Anker Soundcore Space 2 Are Their Lowest Price Ever",
+      "title": "Anker Soundcore Space 2 Are at Their Lowest Price Ever",
       "link": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
       "summary": "The Anker Soundcore Space 2 are a good deal even at full price. The fact they’re 18 percent off is just icing on the cake.",
       "publishedAt": "2026-10-22T18:03:44.000Z",
@@ -317,39 +485,6 @@
       "latestActivity": "2026-10-22T18:02:54.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-      "link": "https://github.com/rbartoli/agent-usage-guard",
-      "summary": "Article URL: https://github.com/rbartoli/agent-usage-guard\nComments URL: https://news.ycombinator.com/item?id=50198936\nPoints: 11\n# Comments: 6",
-      "publishedAt": "2026-10-22T18:02:38.000Z",
-      "image": "https://opengraph.githubassets.com/5b6a3b2d396ebeea04c298a2da653632f54fa76148f4d0129bf2761474b048ec/rbartoli/agent-usage-guard",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:02:38.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
-      "link": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
-      "summary": "Sources at several banks have indicated that they have been taking actions independent of user instructions.",
-      "publishedAt": "2026-10-22T18:02:04.000Z",
-      "image": "https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:02:04.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "summary": "Microsoft AI chief Mustafa Suleyman. | Getty Images\t\n\nFor years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now…",
-      "publishedAt": "2026-10-22T18:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
       "link": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
@@ -361,37 +496,15 @@
       "latestActivity": "2026-10-22T18:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-      "link": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "summary": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliver…",
-      "publishedAt": "2026-10-22T17:42:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Hacker News",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 245\n# Comments: 129",
+      "publishedAt": "2026-10-22T17:44:06.000Z",
+      "image": "https://opengraph.githubassets.com/1b5dfcf4c169a7d02c6b267f3f25f9ee278f4c9db2ecf5e51495c7a351b73a6f/NVIDIA/OpenShell",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-22T17:42:52.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Elon Musk made a $1 billion investment in Skydance, report says",
-      "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-      "summary": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
-      "publishedAt": "2026-10-22T17:36:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T17:36:38.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like…",
-      "publishedAt": "2026-10-22T17:21:31.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T17:21:31.000Z"
+      "latestActivity": "2026-10-22T17:44:06.000Z"
     },
     {
       "source": "Ars Technica",
@@ -403,83 +516,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-22T17:04:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Arc browser is shutting down",
-      "link": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
-      "summary": "Arc’s website today. | Screenshot: The Verge\t\n\nThe Browser Company plans to \"sunset\"  its Arc browser on December 22nd, according to a post on the Arc website. The company moved on…",
-      "publishedAt": "2026-10-22T17:03:37.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T17:03:37.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "publishedAt": "2026-10-22T16:47:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T16:47:17.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "US-backed vaccine trial on babies canceled after international outcry",
-      "link": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
-      "summary": "The decried trial was canceled last week before police seized vaccine doses.",
-      "publishedAt": "2026-10-22T16:37:00.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T16:37:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Sundar Pichai (allegedly) draws the line at oceans",
-      "link": "https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans/",
-      "summary": "President Trump claimed that the Google CEO refused to rename the Atlantic Ocean in Maps.",
-      "publishedAt": "2026-10-22T16:22:50.000Z",
-      "image": "https://www.engadget.com/img/gallery/sundar-pichai-allegedly-draws-the-line-at-oceans/l-intro-1792685934.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T16:22:50.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-      "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-      "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593487899_d51c7762f4_o.jpg?resize=1200,857",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T16:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
-      "link": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
-      "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
-      "publishedAt": "2026-10-22T15:59:40.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mtcolor.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T15:59:40.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "PC shipments are in the toilet, plunging over 20 percent from last year",
-      "link": "https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/",
-      "summary": "This could reach 27 percent throughout the end of 2026 as prices continue to rise.",
-      "publishedAt": "2026-10-22T15:56:26.000Z",
-      "image": "https://www.engadget.com/img/gallery/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/l-intro-1792684457.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T15:56:26.000Z"
     },
     {
       "source": "Wired",
@@ -504,17 +540,6 @@
       "latestActivity": "2026-10-22T15:14:37.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-      "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-      "publishedAt": "2026-10-22T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/191:100/w_1280,c_limit/OKA_MORI_Companion_EveningWorkAtLaptop.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T13:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: computing’s next leap and permafrost’s climate threat",
       "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
@@ -524,28 +549,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-22T12:10:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
-      "link": "https://www.wired.com/story/microsoft-surface-buying-guide/",
-      "summary": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.",
-      "publishedAt": "2026-10-22T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad8bdd4ba3e5597384c8379/191:100/w_1280,c_limit/update%20best%20surface%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
-      "link": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
-      "summary": "An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less-Personalized Ads model at the beginning of this year.",
-      "publishedAt": "2026-10-22T10:43:13.000Z",
-      "image": "https://media.wired.com/photos/6ad9d068ec7a57895da5d773/191:100/w_1280,c_limit/GettyImages-2296209094.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T10:43:13.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -598,17 +601,6 @@
       "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slo…",
       "publishedAt": "2026-10-21T09:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ND26-editorial-thumb.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Nuclear-powered spaceships",
-      "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-re…",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T09:00:00.000Z"
