@@ -1,6 +1,105 @@
 {
-  "syncedAt": "2026-10-21T23:10:16.558Z",
+  "syncedAt": "2026-10-22T03:49:27.780Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\nComments URL: https://news.ycombinator.com/item?id=50190455\nPoints: 34\n# Comments: 18",
+      "publishedAt": "2026-10-22T02:30:52.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T02:30:52.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "publishedAt": "2026-10-22T02:24:17.000Z",
+      "image": "https://media.wired.com/photos/6ad9723edb7d4e16032f01fc/191:100/w_1280,c_limit/Security_HackersExploitingPHPBugsinAmazon.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T02:24:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "LLM Agents Play Pokemon Showdown",
+      "link": "https://olivergrabner.com/research/pokemon/",
+      "summary": "Article URL: https://olivergrabner.com/research/pokemon/\nComments URL: https://news.ycombinator.com/item?id=50190334\nPoints: 13\n# Comments: 10",
+      "publishedAt": "2026-10-22T02:13:48.000Z",
+      "image": "https://olivergrabner.com/research/pokemon/banner-og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T02:13:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "summary": "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552\nComments URL: https://news.ycombinator.com/item?id=50190168\nPoints: 62\n# Comments…",
+      "publishedAt": "2026-10-22T01:52:03.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T01:52:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standar…",
+      "publishedAt": "2026-10-22T00:17:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T00:17:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 298\n# Commen…",
+      "publishedAt": "2026-10-21T23:51:37.000Z",
+      "image": "https://opengraph.githubassets.com/58e827e143b21d85e7009a31985d2abfb0b0d00f7fe91a9cc999f01a4deddbbf/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T23:51:37.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "YouTube says it isn’t testing hiding the dislike button",
+      "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button…",
+      "publishedAt": "2026-10-21T23:46:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T23:46:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. D…",
+      "publishedAt": "2026-10-21T23:36:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T23:36:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "link": "https://eliastaylor.com/noexploit/",
+      "summary": "Article URL: https://eliastaylor.com/noexploit/\nComments URL: https://news.ycombinator.com/item?id=50188948\nPoints: 246\n# Comments: 125",
+      "publishedAt": "2026-10-21T23:13:27.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T23:13:27.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -57,6 +156,17 @@
       "latestActivity": "2026-10-21T22:33:44.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Postgres recovery_prefetch can cause outages",
+      "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+      "summary": "Article URL: https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/\nComments URL: https://news.ycombinator.com/item?id=50188614\nPoints…",
+      "publishedAt": "2026-10-21T22:33:08.000Z",
+      "image": "https://ardentperf.com/wp-content/uploads/2026/10/image-1.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:33:08.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "Bose buys audio rival Skullcandy",
       "link": "https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/",
@@ -66,6 +176,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T22:19:48.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "publishedAt": "2026-10-21T22:17:50.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-21T22:17:50.000Z"
     },
     {
       "source": "Wired",
@@ -97,28 +218,21 @@
       "latestActivity": "2026-10-21T22:06:07.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house r…",
-      "publishedAt": "2026-10-21T19:54:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Airbnb bans hosts from making you do the dishes",
-          "link": "https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/",
-          "publishedAt": "2026-10-21T22:04:32.000Z"
-        }
-      ],
+      "source": "Engadget",
+      "title": "Airbnb bans hosts from making you do the dishes",
+      "link": "https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/",
+      "summary": "Any chores that a cleaner might do are no longer deemed reasonable requests for visitors.",
+      "publishedAt": "2026-10-21T22:04:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/airbnb-bans-hosts-from-making-you-do-the-dishes/l-intro-1792620107.jpg",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-10-21T22:04:32.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Railway Security Disclosure",
+      "title": "Security Disclosure",
       "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 135\n# Comments: 42",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 353\n# Comments: 202",
       "publishedAt": "2026-10-21T21:58:03.000Z",
       "image": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&q=90",
       "sourceCount": 1,
@@ -181,28 +295,6 @@
       "latestActivity": "2026-10-21T21:14:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-      "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-      "summary": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/\nComments URL: https://news.ycombinator.com/item?id=50187708\nPoints: 82\n# Comments: 20",
-      "publishedAt": "2026-10-21T21:12:59.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T21:12:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "CleanFrame: A quieter home screen for Samsung The Frame",
-      "link": "https://github.com/nthnclrk/CleanFrame",
-      "summary": "Article URL: https://github.com/nthnclrk/CleanFrame\nComments URL: https://news.ycombinator.com/item?id=50187659\nPoints: 10\n# Comments: 1",
-      "publishedAt": "2026-10-21T21:08:59.000Z",
-      "image": "https://opengraph.githubassets.com/96676c5512249a46d29c39497f429d9f645f76c938c914514ec9c307ed9eb15d/nthnclrk/CleanFrame",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T21:08:59.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
       "link": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/",
@@ -228,7 +320,7 @@
       "source": "TechCrunch",
       "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
       "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
       "publishedAt": "2026-10-21T20:57:40.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
       "sourceCount": 1,
@@ -313,17 +405,6 @@
       "latestActivity": "2026-10-21T20:33:09.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "publishedAt": "2026-10-21T20:27:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T20:27:41.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
       "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
@@ -333,17 +414,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T20:22:31.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Bose acquires Skullcandy to help it reach a wider audience",
-      "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
-      "summary": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring s…",
-      "publishedAt": "2026-10-21T20:15:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T20:15:00.000Z"
     },
     {
       "source": "Wired",
@@ -379,28 +449,6 @@
       "latestActivity": "2026-10-21T19:44:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Claude Duet",
-      "link": "https://claude.com/resources/articles/claude-duet",
-      "summary": "Article URL: https://claude.com/resources/articles/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186455\nPoints: 39\n# Comments: 6",
-      "publishedAt": "2026-10-21T19:40:18.000Z",
-      "image": "https://claude.com/resources/articles/claude-duet/opengraph-image/og",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:40:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude Duet",
-      "link": "https://claude.com/product/claude-duet",
-      "summary": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 270\n# Comments: 218",
-      "publishedAt": "2026-10-21T19:14:01.000Z",
-      "image": "https://claude.com/static/claude-duet/og.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:14:01.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
       "link": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
@@ -413,25 +461,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Google's Rust Style Guide",
+      "title": "Rust Style Guide",
       "link": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 135\n# Comments: 92",
+      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 236\n# Comments: 127",
       "publishedAt": "2026-10-21T19:11:57.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T19:11:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitLab Critical Patch Release",
-      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\nComments URL: https://news.ycombinator.com/item?id=50185869\nPoints: 191\n# Comments: 42",
-      "publishedAt": "2026-10-21T19:01:12.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:01:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -454,17 +491,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T18:46:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Canary Tokens",
-      "link": "https://canarytokens.org/",
-      "summary": "https://docs.canarytokens.org/guide/\nComments URL: https://news.ycombinator.com/item?id=50185630\nPoints: 107\n# Comments: 20",
-      "publishedAt": "2026-10-21T18:45:04.000Z",
-      "image": "https://canary.tools/static/images/ico_canary.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T18:45:04.000Z"
     },
     {
       "source": "Wired",
@@ -498,28 +524,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T18:35:38.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-      "publishedAt": "2026-10-21T18:20:40.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T18:20:40.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "GM Wants Your Car to Do Your Chores",
-      "link": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
-      "summary": "The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.",
-      "publishedAt": "2026-10-21T18:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ad86a30ddab9d722491775f/191:100/w_1280,c_limit/2027%20Cadillac%20Escalade%20IQ.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T18:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
