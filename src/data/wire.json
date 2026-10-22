@@ -1,11 +1,73 @@
 {
-  "syncedAt": "2026-10-22T03:49:27.780Z",
+  "syncedAt": "2026-10-22T09:14:43.127Z",
   "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standar…",
+      "publishedAt": "2026-10-22T00:17:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Tesla plans to start selling Cybercabs by the end of the year",
+          "link": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/",
+          "publishedAt": "2026-10-22T08:52:48.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-22T08:52:48.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves somethin…",
+      "publishedAt": "2026-10-22T08:41:18.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T08:41:18.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Fortnite is back on Apple's Australian App Store following court ruling",
+      "link": "https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/",
+      "summary": "Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.",
+      "publishedAt": "2026-10-22T08:18:58.000Z",
+      "image": "https://www.engadget.com/img/gallery/fortnite-is-back-on-apples-australian-app-store-following-court-ruling/l-intro-1792656974.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T08:18:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: The fastest browser for AI agents to run browser automation",
+      "link": "https://ego-lite.apposters.com",
+      "summary": "Article URL: https://ego-lite.apposters.com\nComments URL: https://news.ycombinator.com/item?id=50192585\nPoints: 4\n# Comments: 0",
+      "publishedAt": "2026-10-22T08:09:22.000Z",
+      "image": "https://api.apposters.com/pages/ego-lite/screenshot",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T08:09:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI CLI",
+      "link": "https://github.com/openai/openai-cli",
+      "summary": "Article URL: https://github.com/openai/openai-cli\nComments URL: https://news.ycombinator.com/item?id=50191507\nPoints: 102\n# Comments: 67",
+      "publishedAt": "2026-10-22T05:23:11.000Z",
+      "image": "https://opengraph.githubassets.com/b21ac9d8a65779f40e1caf93e501277195e7497ec04ad3aac39471fce3fad940/openai/openai-cli",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-22T05:23:11.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\nComments URL: https://news.ycombinator.com/item?id=50190455\nPoints: 34\n# Comments: 18",
+      "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\nComments URL: https://news.ycombinator.com/item?id=50190455\nPoints: 190\n# Comments: 124",
       "publishedAt": "2026-10-22T02:30:52.000Z",
       "image": null,
       "sourceCount": 1,
@@ -25,42 +87,31 @@
     },
     {
       "source": "Hacker News",
-      "title": "LLM Agents Play Pokemon Showdown",
-      "link": "https://olivergrabner.com/research/pokemon/",
-      "summary": "Article URL: https://olivergrabner.com/research/pokemon/\nComments URL: https://news.ycombinator.com/item?id=50190334\nPoints: 13\n# Comments: 10",
-      "publishedAt": "2026-10-22T02:13:48.000Z",
-      "image": "https://olivergrabner.com/research/pokemon/banner-og.jpg",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/\nComments URL: https://news.ycombinator.com/item?id=50190363\nPoints: 165\n# Comments: 52",
+      "publishedAt": "2026-10-22T02:18:41.000Z",
+      "image": "https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-22T02:13:48.000Z"
+      "latestActivity": "2026-10-22T02:18:41.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "summary": "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552\nComments URL: https://news.ycombinator.com/item?id=50190168\nPoints: 62\n# Comments…",
-      "publishedAt": "2026-10-22T01:52:03.000Z",
-      "image": null,
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "summary": "Article URL: https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides\nComments URL: https://news.ycombinator.com/item?id=50190357\nPoints: 41\n# Commen…",
+      "publishedAt": "2026-10-22T02:17:58.000Z",
+      "image": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides/opengraph-image/og",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-22T01:52:03.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tesla says it will start selling Cybercabs by end of year",
-      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standar…",
-      "publishedAt": "2026-10-22T00:17:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T00:17:54.000Z"
+      "latestActivity": "2026-10-22T02:17:58.000Z"
     },
     {
       "source": "Hacker News",
       "title": "mitmproxy adds --emudhra option",
       "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 298\n# Commen…",
+      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 450\n# Commen…",
       "publishedAt": "2026-10-21T23:51:37.000Z",
       "image": "https://opengraph.githubassets.com/58e827e143b21d85e7009a31985d2abfb0b0d00f7fe91a9cc999f01a4deddbbf/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
       "sourceCount": 1,
@@ -93,7 +144,7 @@
       "source": "Hacker News",
       "title": "There isn't an easy exploit for this PHP vulnerability",
       "link": "https://eliastaylor.com/noexploit/",
-      "summary": "Article URL: https://eliastaylor.com/noexploit/\nComments URL: https://news.ycombinator.com/item?id=50188948\nPoints: 246\n# Comments: 125",
+      "summary": "Article URL: https://eliastaylor.com/noexploit/\nComments URL: https://news.ycombinator.com/item?id=50188948\nPoints: 506\n# Comments: 297",
       "publishedAt": "2026-10-21T23:13:27.000Z",
       "image": null,
       "sourceCount": 1,
@@ -154,17 +205,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T22:33:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Postgres recovery_prefetch can cause outages",
-      "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-      "summary": "Article URL: https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/\nComments URL: https://news.ycombinator.com/item?id=50188614\nPoints…",
-      "publishedAt": "2026-10-21T22:33:08.000Z",
-      "image": "https://ardentperf.com/wp-content/uploads/2026/10/image-1.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T22:33:08.000Z"
     },
     {
       "source": "Engadget",
@@ -232,7 +272,7 @@
       "source": "Hacker News",
       "title": "Security Disclosure",
       "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 353\n# Comments: 202",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 448\n# Comments: 260",
       "publishedAt": "2026-10-21T21:58:03.000Z",
       "image": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&q=90",
       "sourceCount": 1,
@@ -287,7 +327,7 @@
       "source": "TechCrunch",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "publishedAt": "2026-10-21T21:14:19.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
       "sourceCount": 1,
@@ -427,17 +467,6 @@
       "latestActivity": "2026-10-21T20:15:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Xbox is previewing paid cloud gaming for players without Game Pass",
-      "link": "https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/",
-      "summary": "Here come new rate limits.",
-      "publishedAt": "2026-10-21T19:52:50.000Z",
-      "image": "https://www.engadget.com/img/gallery/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/l-intro-1792612307.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:52:50.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "The new human-crafted Apple Music brand matters in an AI world",
       "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
@@ -458,17 +487,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T19:12:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Rust Style Guide",
-      "link": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html\nComments URL: https://news.ycombinator.com/item?id=50186010\nPoints: 236\n# Comments: 127",
-      "publishedAt": "2026-10-21T19:11:57.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T19:11:57.000Z"
     },
     {
       "source": "Ars Technica",
@@ -502,17 +520,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T18:43:42.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "EA is shutting down BioWare and cutting around 400 jobs",
-      "link": "https://www.engadget.com/2293402/ea-is-shutting-down-bioware-and-cutting-around-400-jobs/",
-      "summary": "Skate studio Full Circle will be be reduced to \"a more focused, smaller team,\" while a Sims project has been paused.",
-      "publishedAt": "2026-10-21T18:42:41.000Z",
-      "image": "https://www.engadget.com/img/gallery/ea-is-shutting-down-bioware-and-cutting-around-400-jobs/l-intro-1792608097.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T18:42:41.000Z"
     },
     {
       "source": "Ars Technica",
@@ -598,17 +605,6 @@
       "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. B…",
       "publishedAt": "2026-10-21T09:00:00.000Z",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-28.svg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-21T09:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Eliminating traffic deaths",
-      "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives th…",
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-21T09:00:00.000Z"
