@@ -1,6 +1,74 @@
 {
-  "syncedAt": "2026-10-23T22:57:07.693Z",
+  "syncedAt": "2026-10-24T03:48:21.146Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm\nComments URL: https://news.ycombinator.com/item?id=50217683\nPoints: 34\n# Comments: 5",
+      "publishedAt": "2026-10-24T01:53:10.000Z",
+      "image": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-24T01:53:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Twelve Years of Distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/\nComments URL: https://news.ycombinator.com/item?id=50217500\nPoints: 32\n# Comments: 1",
+      "publishedAt": "2026-10-24T01:16:58.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-24T01:16:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bD…",
+      "publishedAt": "2026-10-23T23:30:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-23T23:30:17.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Startups don’t need to go viral to win customers",
+      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "publishedAt": "2026-10-23T23:07:45.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-23T23:07:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline…",
+      "publishedAt": "2026-10-23T21:11:07.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "OpenAI says it's cutting off internet access for frontier model training",
+          "link": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+          "publishedAt": "2026-10-23T22:37:02.000Z"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "publishedAt": "2026-10-23T23:05:49.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-23T23:05:49.000Z"
+    },
     {
       "source": "Ars Technica",
       "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
@@ -11,24 +79,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-23T22:48:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "OpenAI: Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/\nComments URL: https://news.ycombinator.com/item?id=50214416\nPoints: 47\n# Comments: 45",
-      "publishedAt": "2026-10-23T19:50:56.000Z",
-      "image": "https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "OpenAI says it's cutting off internet access for frontier model training",
-          "link": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
-          "publishedAt": "2026-10-23T22:37:02.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-23T22:37:02.000Z"
     },
     {
       "source": "TechCrunch",
@@ -56,23 +106,12 @@
       "source": "Hacker News",
       "title": "CVE Tracker",
       "link": "https://cve.0xosprey.com/",
-      "summary": "Article URL: https://cve.0xosprey.com/\nComments URL: https://news.ycombinator.com/item?id=50215530\nPoints: 26\n# Comments: 2",
+      "summary": "Article URL: https://cve.0xosprey.com/\nComments URL: https://news.ycombinator.com/item?id=50215530\nPoints: 124\n# Comments: 53",
       "publishedAt": "2026-10-23T21:21:47.000Z",
       "image": "https://cve.0xosprey.com/og.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-23T21:21:47.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline…",
-      "publishedAt": "2026-10-23T21:11:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T21:11:07.000Z"
     },
     {
       "source": "TechCrunch",
@@ -89,7 +128,7 @@
       "source": "Hacker News",
       "title": "No Source Code? No Problem",
       "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-      "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155\nComments URL: https://news.ycombinator.com/item?id=50214994\nPoints: 13\n# Comments: 3",
+      "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155\nComments URL: https://news.ycombinator.com/item?id=50214994\nPoints: 39\n# Comments: 31",
       "publishedAt": "2026-10-23T20:38:06.000Z",
       "image": null,
       "sourceCount": 1,
@@ -98,9 +137,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "A whirlwind tour of systemd-nspawn containers",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
       "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/\nComments URL: https://news.ycombinator.com/item?id=50214983\nPoints: 14\n# Comments: 2",
+      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/\nComments URL: https://news.ycombinator.com/item?id=50214983\nPoints: 36\n# Comments: 7",
       "publishedAt": "2026-10-23T20:37:12.000Z",
       "image": null,
       "sourceCount": 1,
@@ -142,36 +181,25 @@
     },
     {
       "source": "Hacker News",
-      "title": "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
-      "link": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
-      "summary": "Article URL: https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left\nComments URL: https://news.ycombinator.com/item?id=50214447\nP…",
-      "publishedAt": "2026-10-23T19:53:55.000Z",
-      "image": "https://www.techpowerup.com/img/ZYXOrUh9qNEFzAhj.jpg",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/\nComments URL: https://news.ycombinator.com/item?id=50214416\nPoints: 87\n# Comments: 99",
+      "publishedAt": "2026-10-23T19:50:56.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-23T19:53:55.000Z"
+      "latestActivity": "2026-10-23T19:50:56.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-      "link": "https://rune.build/blog/rune-1-3-release",
-      "summary": "Article URL: https://rune.build/blog/rune-1-3-release\nComments URL: https://news.ycombinator.com/item?id=50214325\nPoints: 18\n# Comments: 0",
-      "publishedAt": "2026-10-23T19:42:01.000Z",
-      "image": "https://rune.build/images/og4.png",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "link": "https://corgi.computer/",
+      "summary": "Hey everyone,\nInspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.\nI think I improved on the concept in a few ways, focus…",
+      "publishedAt": "2026-10-23T19:46:38.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-23T19:42:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "We are all living inside of an obscure sci-fi film from 1970",
-      "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-      "summary": "Article URL: https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/\nComments URL: https://news.ycombinator.com/item?id=50214323\nPoints:…",
-      "publishedAt": "2026-10-23T19:41:59.000Z",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/thanksforthatjim/colossus-surveillance.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T19:41:59.000Z"
+      "latestActivity": "2026-10-23T19:46:38.000Z"
     },
     {
       "source": "The Verge",
@@ -183,17 +211,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-23T19:35:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update\nComments URL: https://news.ycombinator.com/item?id=50214218\nPoints: 160\n#…",
-      "publishedAt": "2026-10-23T19:34:15.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T19:34:15.000Z"
     },
     {
       "source": "Ars Technica",
@@ -361,17 +378,6 @@
       "latestActivity": "2026-10-23T16:26:29.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "publishedAt": "2026-10-23T16:20:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T16:20:28.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Elon Musk Just Dumped Another $76 Million Into the Midterms",
       "link": "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/",
@@ -392,17 +398,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-23T16:09:39.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "What some of Anthropic’s backers are worth before its IPO",
-      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "publishedAt": "2026-10-23T16:02:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T16:02:43.000Z"
     },
     {
       "source": "Engadget",
