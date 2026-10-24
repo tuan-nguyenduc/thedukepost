@@ -1,11 +1,66 @@
 {
-  "syncedAt": "2026-10-24T03:48:21.146Z",
+  "syncedAt": "2026-10-24T08:44:26.600Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints:…",
+      "publishedAt": "2026-10-24T05:49:57.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-24T05:49:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0\nComments URL: https://news.ycombinator.com/item?id=50218430\nPoints: 102\n# Comments: 25",
+      "publishedAt": "2026-10-24T04:49:58.000Z",
+      "image": "https://opengraph.githubassets.com/82c6e9a0e4255bc7370dd6125ccb078791f7b4a2f6b9c5e4b0198d0e7df1ff10/obsproject/obs-studio/releases/tag/33.0.0",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-24T04:49:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "summary": "Article URL: https://rtfeldman.com/fp-vs-c\nComments URL: https://news.ycombinator.com/item?id=50218195\nPoints: 94\n# Comments: 9",
+      "publishedAt": "2026-10-24T03:43:54.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-24T03:43:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Block Blast harvests its players for ad money",
+      "link": "https://ayoships.com/breakdowns/block-blast",
+      "summary": "Article URL: https://ayoships.com/breakdowns/block-blast\nComments URL: https://news.ycombinator.com/item?id=50217946\nPoints: 43\n# Comments: 10",
+      "publishedAt": "2026-10-24T02:43:43.000Z",
+      "image": "https://ayoships.com/breakdowns/block-blast/og.jpg?v=3",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-24T02:43:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Apple Security Research Device",
+      "link": "https://security.apple.com/research-device/",
+      "summary": "Article URL: https://security.apple.com/research-device/\nComments URL: https://news.ycombinator.com/item?id=50217903\nPoints: 49\n# Comments: 13",
+      "publishedAt": "2026-10-24T02:36:38.000Z",
+      "image": "https://security.apple.com/assets/image/seo-image.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-24T02:36:38.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
       "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm\nComments URL: https://news.ycombinator.com/item?id=50217683\nPoints: 34\n# Comments: 5",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm\nComments URL: https://news.ycombinator.com/item?id=50217683\nPoints: 98\n# Comments: 23",
       "publishedAt": "2026-10-24T01:53:10.000Z",
       "image": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
       "sourceCount": 1,
@@ -14,9 +69,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Twelve Years of Distributed SQLite",
+      "title": "Twelve years of distributed SQLite",
       "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/\nComments URL: https://news.ycombinator.com/item?id=50217500\nPoints: 32\n# Comments: 1",
+      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/\nComments URL: https://news.ycombinator.com/item?id=50217500\nPoints: 180\n# Comments: 22",
       "publishedAt": "2026-10-24T01:16:58.000Z",
       "image": null,
       "sourceCount": 1,
@@ -25,14 +80,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bD…",
-      "publishedAt": "2026-10-23T23:30:17.000Z",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244\nComments URL: https://news.ycombinator.com/item?id=50217495\nPoints: 27\n# Comments: 1",
+      "publishedAt": "2026-10-24T01:15:14.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-23T23:30:17.000Z"
+      "latestActivity": "2026-10-24T01:15:14.000Z"
     },
     {
       "source": "TechCrunch",
@@ -103,17 +158,6 @@
       "latestActivity": "2026-10-23T21:39:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "CVE Tracker",
-      "link": "https://cve.0xosprey.com/",
-      "summary": "Article URL: https://cve.0xosprey.com/\nComments URL: https://news.ycombinator.com/item?id=50215530\nPoints: 124\n# Comments: 53",
-      "publishedAt": "2026-10-23T21:21:47.000Z",
-      "image": "https://cve.0xosprey.com/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T21:21:47.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
       "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
@@ -123,28 +167,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-23T20:57:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "No Source Code? No Problem",
-      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-      "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155\nComments URL: https://news.ycombinator.com/item?id=50214994\nPoints: 39\n# Comments: 31",
-      "publishedAt": "2026-10-23T20:38:06.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T20:38:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-      "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/\nComments URL: https://news.ycombinator.com/item?id=50214983\nPoints: 36\n# Comments: 7",
-      "publishedAt": "2026-10-23T20:37:12.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T20:37:12.000Z"
     },
     {
       "source": "Ars Technica",
@@ -178,28 +200,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-23T20:03:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/\nComments URL: https://news.ycombinator.com/item?id=50214416\nPoints: 87\n# Comments: 99",
-      "publishedAt": "2026-10-23T19:50:56.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T19:50:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "link": "https://corgi.computer/",
-      "summary": "Hey everyone,\nInspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.\nI think I improved on the concept in a few ways, focus…",
-      "publishedAt": "2026-10-23T19:46:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-23T19:46:38.000Z"
     },
     {
       "source": "The Verge",
