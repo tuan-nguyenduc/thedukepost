@@ -1,6 +1,39 @@
 {
-  "syncedAt": "2026-10-25T00:04:36.242Z",
+  "syncedAt": "2026-10-25T07:22:59.238Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "link": "https://github.com/slee-persis/GVS5H",
+      "summary": "Article URL: https://github.com/slee-persis/GVS5H\nComments URL: https://news.ycombinator.com/item?id=50228167\nPoints: 137\n# Comments: 48",
+      "publishedAt": "2026-10-25T03:56:01.000Z",
+      "image": "https://opengraph.githubassets.com/ad0258c74309db4db470353dcc73cb3b7c48708453e24056d7c97abdbca2b410/slee-persis/GVS5H",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T03:56:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras\nComments URL: https://news.ycombinator.com/item?id=50227356\nPoints: 103\n# Com…",
+      "publishedAt": "2026-10-25T01:33:49.000Z",
+      "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&w=1200&h=630&fit=max&auto=format",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T01:33:49.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's what you need to know before buying a wireless CarPlay adapter",
+      "link": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+      "summary": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.",
+      "publishedAt": "2026-10-25T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter/l-intro-1792599334.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T00:30:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "What is the cheapest new gaming console you can buy in 2026?",
@@ -24,6 +57,17 @@
       "latestActivity": "2026-10-24T23:45:00.000Z"
     },
     {
+      "source": "Hacker News",
+      "title": "Why Gopher in 2026?",
+      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt\nComments URL: https://news.ycombinator.com/item?id=50226577\nPoints: 60\n# Comments: 16",
+      "publishedAt": "2026-10-24T23:33:19.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-24T23:33:19.000Z"
+    },
+    {
       "source": "Engadget",
       "title": "Common mistakes you should avoid when setting up your home network",
       "link": "https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/",
@@ -36,20 +80,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-      "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-      "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/\nComments URL: https://news.ycombinator.com/item?id=50226434\nPoints: 9\n# Comments: 0",
-      "publishedAt": "2026-10-24T23:14:30.000Z",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/nest.jpeg?w=1600&h=900&fit=crop",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-24T23:14:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 20\n# Comments: 11",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 306\n# Comments: 307",
       "publishedAt": "2026-10-24T23:11:54.000Z",
       "image": "https://substackcdn.com/image/fetch/$s_!oz9x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png",
       "sourceCount": 1,
@@ -102,20 +135,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "Argus – a free, open-source agentic security operations platform – MIT",
-      "link": "https://thomasunise.com/argus",
-      "summary": "Article URL: https://thomasunise.com/argus\nComments URL: https://news.ycombinator.com/item?id=50225748\nPoints: 22\n# Comments: 7",
-      "publishedAt": "2026-10-24T21:54:16.000Z",
-      "image": "https://thomasunise.com/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-24T21:54:16.000Z"
-    },
-    {
-      "source": "Hacker News",
       "title": "We should be more ambitious with the software we build",
       "link": "https://danluu.com/ambitious/",
-      "summary": "Article URL: https://danluu.com/ambitious/\nComments URL: https://news.ycombinator.com/item?id=50225695\nPoints: 77\n# Comments: 46",
+      "summary": "Article URL: https://danluu.com/ambitious/\nComments URL: https://news.ycombinator.com/item?id=50225695\nPoints: 322\n# Comments: 287",
       "publishedAt": "2026-10-24T21:47:31.000Z",
       "image": null,
       "sourceCount": 1,
@@ -126,7 +148,7 @@
       "source": "Hacker News",
       "title": "Small Programs and Languages",
       "link": "https://ratfactor.com/cards/pl-small",
-      "summary": "Article URL: https://ratfactor.com/cards/pl-small\nComments URL: https://news.ycombinator.com/item?id=50225674\nPoints: 18\n# Comments: 0",
+      "summary": "Article URL: https://ratfactor.com/cards/pl-small\nComments URL: https://news.ycombinator.com/item?id=50225674\nPoints: 84\n# Comments: 6",
       "publishedAt": "2026-10-24T21:44:23.000Z",
       "image": null,
       "sourceCount": 1,
@@ -135,9 +157,9 @@
     },
     {
       "source": "Hacker News",
-      "title": "The Importance of Limitations for Creativity and Learning",
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
       "link": "https://ratfactor.com/cards/limitations",
-      "summary": "Article URL: https://ratfactor.com/cards/limitations\nComments URL: https://news.ycombinator.com/item?id=50225663\nPoints: 10\n# Comments: 3",
+      "summary": "Article URL: https://ratfactor.com/cards/limitations\nComments URL: https://news.ycombinator.com/item?id=50225663\nPoints: 55\n# Comments: 14",
       "publishedAt": "2026-10-24T21:42:47.000Z",
       "image": null,
       "sourceCount": 1,
@@ -189,17 +211,6 @@
       "latestActivity": "2026-10-24T20:15:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "No signs of AI payoff outside the tech sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\nComments URL: https://news.ycombinator.com/item?id=50224…",
-      "publishedAt": "2026-10-24T19:47:19.000Z",
-      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-24T19:47:19.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -209,17 +220,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-24T19:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Google is quietly linking your phone number to other Android accounts",
-      "link": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
-      "summary": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number.",
-      "publishedAt": "2026-10-24T18:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-is-quietly-linking-your-phone-number-to-other-android-accounts/l-intro-1792517776.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-24T18:45:00.000Z"
     },
     {
       "source": "The Verge",
@@ -439,22 +439,22 @@
     },
     {
       "source": "Wired",
-      "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
-      "link": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
-      "summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "link": "https://www.wired.com/story/best-laptops/",
+      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
       "publishedAt": "2026-10-24T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6adb9462163ba15a9a5f5353/191:100/w_1280,c_limit/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "image": "https://media.wired.com/photos/6adb93924c15513ff5ac298b/191:100/w_1280,c_limit/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-24T10:00:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "link": "https://www.wired.com/story/best-laptops/",
-      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+      "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
+      "link": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
+      "summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
       "publishedAt": "2026-10-24T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6adb93924c15513ff5ac298b/191:100/w_1280,c_limit/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg",
+      "image": "https://media.wired.com/photos/6adb9462163ba15a9a5f5353/191:100/w_1280,c_limit/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-24T10:00:00.000Z"
