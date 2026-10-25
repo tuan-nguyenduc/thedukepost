@@ -1,9 +1,163 @@
 {
-  "syncedAt": "2026-10-25T20:32:54.788Z",
+  "syncedAt": "2026-10-25T23:56:06.232Z",
   "items": [
     {
+      "source": "Engadget",
+      "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
+      "link": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+      "summary": "Can we find the iPhone Duo's perfect Android match?",
+      "publishedAt": "2026-10-25T23:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo/l-intro-1791823946.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T23:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why Google chrome is always using so much RAM",
+      "link": "https://www.engadget.com/2294261/why-google-chrome-using-so-much-ram/",
+      "summary": "Chrome is known for being a memory hog, but it may be more urban myth than reality. Here's how Google Chrome manages RAM.",
+      "publishedAt": "2026-10-25T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-google-chrome-is-always-using-so-much-ram/l-intro-1792684467.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T23:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Most Windows users are seriously underusing this powerful desktop feature",
+      "link": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+      "summary": "Windows has an option to give you more working desktop space, but you might have overlooked it.",
+      "publishedAt": "2026-10-25T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature/l-intro-1792683535.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T23:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+      "link": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+      "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
+      "publishedAt": "2026-10-25T22:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/does-tsa-actually-allow-airtags-in-your-luggage-heres-what-the-rules-say/l-intro-1792679956.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T22:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Proton Flock Camera Map",
+      "link": "https://proton.me/flock-camera-map",
+      "summary": "Article URL: https://proton.me/flock-camera-map\nComments URL: https://news.ycombinator.com/item?id=50236748\nPoints: 12\n# Comments: 0",
+      "publishedAt": "2026-10-25T22:39:42.000Z",
+      "image": "https://proton.me/images/social/proton-og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T22:39:42.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+      "link": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+      "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+      "publishedAt": "2026-10-25T22:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-unsupported-nest-gadgets-do-this-instead/l-intro-1792679877.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T22:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+      "link": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+      "summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.",
+      "publishedAt": "2026-10-25T22:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/your-devices-could-be-on-the-wrong-wi-fi-band-and-its-slowing-them-down/l-intro-1792677053.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T22:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo'…",
+      "publishedAt": "2026-10-25T21:40:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T21:40:27.000Z"
+    },
+    {
       "source": "TechCrunch",
-      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T21:31:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "link": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/\nComments URL: https://news.ycombinator.com/item?id=50236102\nPoints: 77\n# Comments: 96",
+      "publishedAt": "2026-10-25T21:11:31.000Z",
+      "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T21:11:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/\nComments URL: https://news.ycombinator.com/item?id=50236081\nPoin…",
+      "publishedAt": "2026-10-25T21:08:28.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T21:08:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then ther…",
+      "publishedAt": "2026-10-25T21:08:09.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/a1635465713_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T21:08:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The State of Context Engineering",
+      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html\nComments URL: https://news.ycombinator.com/item?id=50235780\nPoints: 55\n# Comments: 11",
+      "publishedAt": "2026-10-25T20:32:31.000Z",
+      "image": "https://www.dbreunig.com/img/agnt_con/AGNT_Con.034.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T20:32:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What goes into making an animated film?",
+      "link": "https://www.disneyanimation.com/process/",
+      "summary": "Article URL: https://www.disneyanimation.com/process/\nComments URL: https://news.ycombinator.com/item?id=50235738\nPoints: 66\n# Comments: 29",
+      "publishedAt": "2026-10-25T20:27:09.000Z",
+      "image": "https://cdn.disneyanimation.com/uploads/pages/filmmaking-process-zootopia-2/zoot2processshare.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T20:27:09.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
       "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
       "summary": "\"That's a 12-year-old view of the world.\"",
       "publishedAt": "2026-10-25T20:20:08.000Z",
@@ -11,6 +165,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-25T20:20:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Focused Company Operating Principles",
+      "link": "https://focused.io/operating-principles",
+      "summary": "Article URL: https://focused.io/operating-principles\nComments URL: https://news.ycombinator.com/item?id=50235639\nPoints: 14\n# Comments: 1",
+      "publishedAt": "2026-10-25T20:16:51.000Z",
+      "image": "https://cdn.prod.website-files.com/6915b44a5861a2536d561406/693948bbdff3951507d041ea_focused-og-image.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-25T20:16:51.000Z"
     },
     {
       "source": "The Verge",
@@ -25,25 +190,14 @@
     },
     {
       "source": "Hacker News",
-      "title": "Eunice is almost here (William Gibson, Agency)",
+      "title": "Eunice is almost here",
       "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here\nComments URL: https://news.ycombinator.com/item?id=50235316\nPoints: 13\n# Comments: 8",
+      "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here\nComments URL: https://news.ycombinator.com/item?id=50235316\nPoints: 54\n# Comments: 46",
       "publishedAt": "2026-10-25T19:40:27.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-25T19:40:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-      "summary": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/\nComments URL: https://news.ycombinator.com/item?id=5023521…",
-      "publishedAt": "2026-10-25T19:29:16.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T19:29:16.000Z"
     },
     {
       "source": "The Verge",
@@ -60,23 +214,12 @@
       "source": "Hacker News",
       "title": "Why I Am a Programmer",
       "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html\nComments URL: https://news.ycombinator.com/item?id=50235017\nPoints: 11\n# Comments: 4",
+      "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html\nComments URL: https://news.ycombinator.com/item?id=50235017\nPoints: 97\n# Comments: 27",
       "publishedAt": "2026-10-25T19:11:31.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-25T19:11:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles\nComments URL: https://news.ycombinator.com/item?id=50235010\nPoints: 4\n# Comments…",
-      "publishedAt": "2026-10-25T19:10:36.000Z",
-      "image": "https://www.datocms-assets.com/75231/1792949423-threat-update-mini-worm_custom-1.jpeg?fm=webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T19:10:36.000Z"
     },
     {
       "source": "Engadget",
@@ -101,61 +244,6 @@
       "latestActivity": "2026-10-25T18:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Dolly Parton's Imagination Library",
-      "link": "https://imaginationlibrary.com/",
-      "summary": "With today's news, I thought I'd share this great program:\n“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in you…",
-      "publishedAt": "2026-10-25T18:23:54.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T18:23:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-      "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
-      "summary": "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics\nComments URL: https://news.ycombinator.com/item?id=50234329\nPoints: 37\n# Comments: 8",
-      "publishedAt": "2026-10-25T18:11:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T18:11:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/\nComments URL: https://news.ycombinator.com/item?id=50234232\nPoints: 193\n# Comment…",
-      "publishedAt": "2026-10-25T18:04:11.000Z",
-      "image": "https://theintercept.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-4.14.38-PM-e1790885738599.png?fit=1436%2C718&#038;w=1200&#038;h=800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T18:04:11.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
-      "link": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
-      "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
-      "publishedAt": "2026-10-25T18:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "link": "https://talkweb.eu/openweb/4558/",
-      "summary": "Article URL: https://talkweb.eu/openweb/4558/\nComments URL: https://news.ycombinator.com/item?id=50233929\nPoints: 247\n# Comments: 120",
-      "publishedAt": "2026-10-25T17:30:55.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T17:30:55.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
       "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
@@ -178,28 +266,6 @@
       "latestActivity": "2026-10-25T16:57:32.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
-      "link": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
-      "summary": "AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features.",
-      "publishedAt": "2026-10-25T16:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone/l-intro-1792607815.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T16:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "8BitDo's latest button-only arcade controller is now up for pre-order",
-      "link": "https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/",
-      "summary": "The Arcade Controller Pro starts at $119.99 and will start shipping in late November.",
-      "publishedAt": "2026-10-25T16:42:46.000Z",
-      "image": "https://www.engadget.com/img/gallery/8bitdos-latest-button-only-arcade-controller-is-now-up-for-pre-order/l-intro-1792946449.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T16:42:46.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Now you can watch Instagram Reels on your Apple TV",
       "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
@@ -211,17 +277,6 @@
       "latestActivity": "2026-10-25T16:20:17.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "The internet needs IPv6 and so does your home network",
-      "link": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
-      "summary": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.",
-      "publishedAt": "2026-10-25T16:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T16:15:00.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
       "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
@@ -231,28 +286,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-25T16:05:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
-      "link": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
-      "summary": "Sony's gaming service has changed a lot in recent years, and the price reflects that.",
-      "publishedAt": "2026-10-25T15:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T15:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
-      "link": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
-      "summary": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.",
-      "publishedAt": "2026-10-25T15:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T15:15:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -376,17 +409,6 @@
       "latestActivity": "2026-10-25T10:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, cry…",
-      "publishedAt": "2026-10-24T21:29:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-24T21:29:12.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Starlink seems to be working normally again in Ukraine",
       "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
@@ -418,28 +440,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-24T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires a…",
-      "publishedAt": "2026-10-24T18:32:21.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-24T18:32:21.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-      "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-      "summary": "Instacart might sell itself to a larger competitor.",
-      "publishedAt": "2026-10-24T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-24T16:30:00.000Z"
     },
     {
       "source": "Ars Technica",
