@@ -1,6 +1,116 @@
 {
-  "syncedAt": "2026-10-25T23:56:06.232Z",
+  "syncedAt": "2026-10-26T04:06:30.731Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry\nComments URL: https://news.ycombinator.c…",
+      "publishedAt": "2026-10-26T03:31:11.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T03:31:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot\nComments URL: https://news.ycombinator.com/item?id=50238739\nPoints: 3\n# Comments: 0",
+      "publishedAt": "2026-10-26T03:29:05.000Z",
+      "image": "https://opengraph.githubassets.com/9c6a47e36558f259f2a6b5cd447c8bb8ca0a235e746e3afe977962aef31df2fb/KrushnaVardhanReddy/PaperPilot",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T03:29:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "Article URL: https://titleart.dvy.io/\nComments URL: https://news.ycombinator.com/item?id=50238708\nPoints: 15\n# Comments: 1",
+      "publishedAt": "2026-10-26T03:23:57.000Z",
+      "image": "https://titleart.dvy.io/social-preview.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T03:23:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
+      "link": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cmvg7p001qj9o\nComments URL: https://news.ycombinator.com/item?id=50238557\nPoints: 20\n# Comments: 1",
+      "publishedAt": "2026-10-26T03:04:08.000Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2da7/live/54780d60-d0e8-11f1-a701-fddedf244c16.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T03:04:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "If AI displaces human workers, they will lose more than just pay",
+      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "summary": "Article URL: https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay\nComments URL: https://news.ycombinator.com/item?id=502383…",
+      "publishedAt": "2026-10-26T02:22:38.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T02:22:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\nComments URL: https://news.ycombinat…",
+      "publishedAt": "2026-10-26T01:47:46.000Z",
+      "image": "https://image.theregister.com/4091853.jpg?imageId=4091853&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T01:47:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "iPhone Duo Teardown",
+      "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "summary": "Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown\nComments URL: https://news.ycombinator.com/item?id=50237896\nPoints: 63\n# Comments: 30",
+      "publishedAt": "2026-10-26T01:23:24.000Z",
+      "image": "https://valkyrie.cdn.ifixit.com/media/2026/10/24232224/iPhone-Duo_94.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T01:23:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The best apps for tracking your reading and discovering new books",
+      "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "publishedAt": "2026-10-26T01:10:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/Screenshot-2026-10-22-at-2.48.45-PM.png?resize=1200,831",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T01:10:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "summary": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category\nComments URL: https://news.ycombinator.com/item?id=50237712\nPoint…",
+      "publishedAt": "2026-10-26T01:03:39.000Z",
+      "image": "https://cdn.bloffy.blog/korindiehacker/articles/469/1792976193085-aneuvk",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T01:03:39.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Can you run regular Ethernet cables outside?",
+      "link": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+      "summary": "Just because you can do something doesn't mean you should.",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/can-you-run-regular-ethernet-cables-outside/l-intro-1792100149.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-26T00:00:00.000Z"
+    },
     {
       "source": "Engadget",
       "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
@@ -44,17 +154,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-25T22:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Proton Flock Camera Map",
-      "link": "https://proton.me/flock-camera-map",
-      "summary": "Article URL: https://proton.me/flock-camera-map\nComments URL: https://news.ycombinator.com/item?id=50236748\nPoints: 12\n# Comments: 0",
-      "publishedAt": "2026-10-25T22:39:42.000Z",
-      "image": "https://proton.me/images/social/proton-og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T22:39:42.000Z"
     },
     {
       "source": "Engadget",
@@ -101,28 +200,6 @@
       "latestActivity": "2026-10-25T21:31:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "link": "https://minimaxir.com/2026/10/cheap-llms/",
-      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/\nComments URL: https://news.ycombinator.com/item?id=50236102\nPoints: 77\n# Comments: 96",
-      "publishedAt": "2026-10-25T21:11:31.000Z",
-      "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T21:11:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-      "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/\nComments URL: https://news.ycombinator.com/item?id=50236081\nPoin…",
-      "publishedAt": "2026-10-25T21:08:28.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T21:08:28.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Scott Walker’s The Drift will get under your skin",
       "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
@@ -132,28 +209,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-25T21:08:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The State of Context Engineering",
-      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html\nComments URL: https://news.ycombinator.com/item?id=50235780\nPoints: 55\n# Comments: 11",
-      "publishedAt": "2026-10-25T20:32:31.000Z",
-      "image": "https://www.dbreunig.com/img/agnt_con/AGNT_Con.034.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T20:32:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What goes into making an animated film?",
-      "link": "https://www.disneyanimation.com/process/",
-      "summary": "Article URL: https://www.disneyanimation.com/process/\nComments URL: https://news.ycombinator.com/item?id=50235738\nPoints: 66\n# Comments: 29",
-      "publishedAt": "2026-10-25T20:27:09.000Z",
-      "image": "https://cdn.disneyanimation.com/uploads/pages/filmmaking-process-zootopia-2/zoot2processshare.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T20:27:09.000Z"
     },
     {
       "source": "TechCrunch",
@@ -167,17 +222,6 @@
       "latestActivity": "2026-10-25T20:20:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Focused Company Operating Principles",
-      "link": "https://focused.io/operating-principles",
-      "summary": "Article URL: https://focused.io/operating-principles\nComments URL: https://news.ycombinator.com/item?id=50235639\nPoints: 14\n# Comments: 1",
-      "publishedAt": "2026-10-25T20:16:51.000Z",
-      "image": "https://cdn.prod.website-files.com/6915b44a5861a2536d561406/693948bbdff3951507d041ea_focused-og-image.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T20:16:51.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
       "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
@@ -187,17 +231,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-25T20:16:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Eunice is almost here",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here\nComments URL: https://news.ycombinator.com/item?id=50235316\nPoints: 54\n# Comments: 46",
-      "publishedAt": "2026-10-25T19:40:27.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T19:40:27.000Z"
     },
     {
       "source": "The Verge",
@@ -211,17 +244,6 @@
       "latestActivity": "2026-10-25T19:24:50.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Why I Am a Programmer",
-      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html\nComments URL: https://news.ycombinator.com/item?id=50235017\nPoints: 97\n# Comments: 27",
-      "publishedAt": "2026-10-25T19:11:31.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T19:11:31.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "What does the bell icon mean on your CarPlay screen?",
       "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
@@ -231,17 +253,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-25T18:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The most unexpected everyday tool can be found on your phone",
-      "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
-      "summary": "If you have an iPhone, that is.",
-      "publishedAt": "2026-10-25T18:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-25T18:30:00.000Z"
     },
     {
       "source": "The Verge",
@@ -429,17 +440,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-24T20:15:33.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "publishedAt": "2026-10-24T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-24T19:00:00.000Z"
     },
     {
       "source": "Ars Technica",
