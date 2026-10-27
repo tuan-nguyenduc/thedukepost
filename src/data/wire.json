@@ -1,22 +1,271 @@
 {
-  "syncedAt": "2026-10-27T04:13:15.368Z",
+  "syncedAt": "2026-10-27T11:47:18.690Z",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Incremental rust builds up to 92x faster than cargo/rustc",
-      "link": "https://github.com/indexable-inc/blaze",
-      "summary": "Article URL: https://github.com/indexable-inc/blaze\nComments URL: https://news.ycombinator.com/item?id=50254300\nPoints: 11\n# Comments: 2",
-      "publishedAt": "2026-10-27T03:09:07.000Z",
-      "image": "https://opengraph.githubassets.com/22eab76195fe0f0ac22fe0610cb085c6dec7b039b4dc919a13f68076a56922f6/indexable-inc/blaze",
+      "title": "Software may be getting worse, but it used to be horrible",
+      "link": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "summary": "Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/\nComments URL: https://news.ycombinator.com/item?id=50257548\nPoints: 4\n# Com…",
+      "publishedAt": "2026-10-27T11:30:35.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-27T03:09:07.000Z"
+      "latestActivity": "2026-10-27T11:30:35.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to…",
+      "publishedAt": "2026-10-27T11:19:18.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?w=840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T11:19:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup\nComments URL: https://news.ycombinator.com/item?id=50257326\nPoints: 5\n# Comments: 1",
+      "publishedAt": "2026-10-27T11:08:15.000Z",
+      "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T11:08:15.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T11:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Slate teams up with Smarties to add candy colors to its EV trucks",
+      "link": "https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps/",
+      "summary": "Fancy making your Slate EV look like halloween candy? Now you can.",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T11:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "20 Years of MacBook: How Apple shaped the laptops we use today",
+      "link": "https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/",
+      "summary": "Apple has influenced everything from unibody laptop cases to high-res screens.",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How",
+      "link": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
+      "summary": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.",
+      "publishedAt": "2026-10-27T10:45:00.000Z",
+      "image": "https://media.wired.com/photos/6adf16c7cec2deb872010799/191:100/w_1280,c_limit/PIA04816~large.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T10:45:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Instagram Is a Streaming Service Now",
+      "link": "https://www.wired.com/story/instagram-is-a-streaming-service-now/",
+      "summary": "Instagram’s long-form video update is more than a swipe at YouTube. It’s an attempt to capture the clip economy.",
+      "publishedAt": "2026-10-27T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ae06babed02f1088a5b33a4/191:100/w_1280,c_limit/GettyImages-2239130168.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T10:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "summary": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/\nComments URL: https://news.ycombinator.com/item?id=50256985\nPoints: 101\n# Comments: 63",
+      "publishedAt": "2026-10-27T10:27:50.000Z",
+      "image": "https://thumbcdn.open3dlab.com/newsitem/3200w.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T10:27:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gforth 1.0",
+      "link": "https://gforth.org/manual/1.0/NEWS.html",
+      "summary": "Article URL: https://gforth.org/manual/1.0/NEWS.html\nComments URL: https://news.ycombinator.com/item?id=50256952\nPoints: 19\n# Comments: 1",
+      "publishedAt": "2026-10-27T10:23:21.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T10:23:21.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
+      "link": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
+      "summary": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
+      "publishedAt": "2026-10-27T10:15:00.000Z",
+      "image": "https://media.wired.com/photos/6adf98357bc34babe586eb7f/191:100/w_1280,c_limit/GettyImages-2300207719.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T10:15:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Data center backlash is uniting America",
+      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure c…",
+      "publishedAt": "2026-10-27T10:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How to Hide Your Baby From the Government",
+      "link": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
+      "summary": "“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.",
+      "publishedAt": "2026-10-27T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6adf82fd71d0e77d563766d7/191:100/w_1280,c_limit/WIRED-Ghost-Stories-sovereign-babies.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "I will no longer upload to NEW",
+      "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+      "summary": "Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html\nComments URL: https://news.ycombinator.com/item?id=50256738\nPoints: 94\n# Comments: 35",
+      "publishedAt": "2026-10-27T09:59:05.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T09:59:05.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+      "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+      "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Ext…",
+      "publishedAt": "2026-10-27T09:54:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T09:54:22.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks",
+      "link": "https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/",
+      "summary": "The Waterdrop X12 improved the taste of my tap water, but reverse osmosis comes with costs beyond the purchase price.",
+      "publishedAt": "2026-10-27T09:35:00.000Z",
+      "image": "https://media.wired.com/photos/6adfb30fcc0a6405c8bee722/191:100/w_1280,c_limit/Waterdrop%20X12%20Under-Sink%20Tankless%20Reverse%20Osmosis%20System%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T09:35:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "publishedAt": "2026-10-27T09:30:00.000Z",
+      "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/191:100/w_1280,c_limit/gear-ai-agent-best.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T09:30:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "How solid-state transformers could help power the AI boom",
+      "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And gi…",
+      "publishedAt": "2026-10-27T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_digitaltransformers.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T09:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\"…",
+      "publishedAt": "2026-10-26T23:34:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+          "link": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+          "publishedAt": "2026-10-27T08:18:16.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-27T08:18:16.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+      "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+      "summary": "Whose hand is behind this travesty?",
+      "publishedAt": "2026-10-27T06:34:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T06:34:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=50255298\nPoints: 203\n# Comments: 142",
+      "publishedAt": "2026-10-27T06:25:37.000Z",
+      "image": "https://j11g.com/content/images/cern-resized.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T06:25:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Writing about pratt parsing so I remember it",
+      "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "summary": "Article URL: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html\nComments URL: https://news.ycombinator.com/item?id=50255177\nPoints: 44\n# Comments: 6",
+      "publishedAt": "2026-10-27T06:02:23.000Z",
+      "image": "https://unix.dog/~yosh/img/renard_lftanthology.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-27T06:02:23.000Z"
     },
     {
       "source": "Hacker News",
       "title": "I still teach OpenGL ES 3.0",
       "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-      "summary": "Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html\nComments URL: https://news.ycombinator.com/item?id=50253939\nPoints: 5\n# Comments: 3",
+      "summary": "Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html\nComments URL: https://news.ycombinator.com/item?id=50253939\nPoints: 77\n# Comments: 47",
       "publishedAt": "2026-10-27T02:15:10.000Z",
       "image": null,
       "sourceCount": 1,
@@ -33,17 +282,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-27T02:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-      "link": "https://github.com/otya128/winevdm",
-      "summary": "Article URL: https://github.com/otya128/winevdm\nComments URL: https://news.ycombinator.com/item?id=50253529\nPoints: 39\n# Comments: 2",
-      "publishedAt": "2026-10-27T01:15:04.000Z",
-      "image": "https://opengraph.githubassets.com/59de2e1f1ef66448ee4d87eee508bd728884067dc3a35a56ac47b6385d4e2d60/otya128/winevdm",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T01:15:04.000Z"
     },
     {
       "source": "TechCrunch",
@@ -66,24 +304,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-27T00:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "summary": "Related:\nThe Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661\nComments URL: https://news.ycombinator.com/item?id=50251344\nPoints: 614\n# Co…",
-      "publishedAt": "2026-10-26T21:35:28.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-          "publishedAt": "2026-10-26T23:34:58.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-26T23:34:58.000Z"
     },
     {
       "source": "Engadget",
@@ -119,17 +339,6 @@
       "latestActivity": "2026-10-26T22:51:46.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 96\n# Comments: 30",
-      "publishedAt": "2026-10-26T22:41:48.000Z",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2YJT16K16BFFJGEMCAXRS.01M5X2YM62P3YQRBGRP96FS4P6.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T22:41:48.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
       "link": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
@@ -163,17 +372,6 @@
       "latestActivity": "2026-10-26T22:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-      "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\nComments URL: https://news.ycombinator.com…",
-      "publishedAt": "2026-10-26T22:27:17.000Z",
-      "image": "https://www.gregoryalexander.com/blog/enclosures/facebook/phpBug.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T22:27:17.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
       "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
@@ -183,28 +381,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-26T22:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The mistake iPhone Duo buyers can easily avoid",
-      "link": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
-      "summary": "An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time.",
-      "publishedAt": "2026-10-26T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-mistake-iphone-duo-buyers-can-easily-avoid/l-intro-1792692793.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T22:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344\nComments URL: https://news.ycombinator.com/…",
-      "publishedAt": "2026-10-26T21:59:15.000Z",
-      "image": "https://opengraph.githubassets.com/3293bc0fbbdaf1e4c6b6f15e4ab7f17399f1809d68cf7418f490d8add26a194e/openai/math",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T21:59:15.000Z"
     },
     {
       "source": "The Verge",
@@ -229,17 +405,6 @@
       "latestActivity": "2026-10-26T21:45:31.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "publishedAt": "2026-10-26T21:27:15.000Z",
-      "image": "https://media.wired.com/photos/6adf8a425d1e509438fb58ec/191:100/w_1280,c_limit/Anthropic3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T21:27:15.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
       "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
@@ -249,17 +414,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-26T21:05:11.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Dyson Vacuum Deals for Dyson Week 2026",
-      "link": "https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/",
-      "summary": "The powerful Dyson V16 Piston Animal and other Dyson vacuums and tools are discounted until Halloween.",
-      "publishedAt": "2026-10-26T20:28:30.000Z",
-      "image": "https://media.wired.com/photos/6a67cdb1173a7fcd3f13de82/191:100/w_1280,c_limit/Review--Dyson-V16-Piston-Animal-Submarine.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T20:28:30.000Z"
     },
     {
       "source": "Ars Technica",
@@ -284,17 +438,6 @@
       "latestActivity": "2026-10-26T20:15:07.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks",
-      "link": "https://www.wired.com/story/anker-halloween-sale-oct-2026/",
-      "summary": "Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.",
-      "publishedAt": "2026-10-26T20:13:46.000Z",
-      "image": "https://media.wired.com/photos/6adfb111ce126e8759a8370d/191:100/w_1280,c_limit/Anker%20Halloween%20Sale%20deals%20102026%20top%20art%20SOURCE%20Anker.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T20:13:46.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
       "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
@@ -313,28 +456,6 @@
       "latestActivity": "2026-10-26T20:04:16.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-      "link": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
-      "summary": "Apple has rolled out software updates for all its platforms today.",
-      "publishedAt": "2026-10-26T19:47:56.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-adds-more-siri-ai-tools-in-its-27-2-system-updates-out-today/l-intro-1793044016.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T19:47:56.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
-      "link": "https://www.wired.com/story/apple-airtag-deal-october-2026/",
-      "summary": "Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.",
-      "publishedAt": "2026-10-26T19:40:31.000Z",
-      "image": "https://media.wired.com/photos/6adfa712dae5c72239fced97/191:100/w_1280,c_limit/AirTag%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T19:40:31.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
       "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
@@ -344,17 +465,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-26T19:22:40.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers",
-      "link": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/",
-      "summary": "Developer Sucker Punch just released a well-received expansion for Ghost of Yōtei a few weeks ago.",
-      "publishedAt": "2026-10-26T19:15:34.000Z",
-      "image": "https://www.engadget.com/img/gallery/ghost-of-ytei-studio-sucker-punch-lays-off-24-workers/l-intro-1793042059.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T19:15:34.000Z"
     },
     {
       "source": "Ars Technica",
@@ -390,17 +500,6 @@
       "latestActivity": "2026-10-26T18:50:41.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
-      "link": "https://www.wired.com/review/google-fitbit-edge/",
-      "summary": "The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression.",
-      "publishedAt": "2026-10-26T18:49:49.000Z",
-      "image": "https://media.wired.com/photos/6adf55bb4342ac0de5548459/191:100/w_1280,c_limit/Google%20Fitbit%20Edge%20Review%20102026%20top%20art%20SOURCE%20Google.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T18:49:49.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
       "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
@@ -410,17 +509,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-26T18:22:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Type Server Protocol",
-      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\nComments URL: https://news.ycombinator.com/item?id=50248371\nPoints: 208\n# Comme…",
-      "publishedAt": "2026-10-26T18:14:49.000Z",
-      "image": "https://opengraph.githubassets.com/2a1994f44f5302046e23f87010dbffbf91d3c99e84605d3f2cf9ed1fe3922e4e/microsoft/pylance-release",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T18:14:49.000Z"
     },
     {
       "source": "Ars Technica",
@@ -445,17 +533,6 @@
       "latestActivity": "2026-10-26T17:45:43.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-      "publishedAt": "2026-10-26T17:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T17:45:00.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "The RealReal won’t let AI agents hog designer clothing",
       "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
@@ -467,17 +544,6 @@
       "latestActivity": "2026-10-26T17:30:55.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
-      "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-      "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloombe…",
-      "publishedAt": "2026-10-26T17:28:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T17:28:07.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
       "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
@@ -487,46 +553,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-26T17:26:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
-      "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge\t\n\nIf you want a decent pair of noise-canceling earbuds without spendin…",
-      "publishedAt": "2026-10-26T17:25:34.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T17:25:34.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-      "publishedAt": "2026-10-26T14:50:47.000Z",
-      "image": "https://media.wired.com/photos/6adf6c00ca47359863df5ba5/191:100/w_1280,c_limit/102626-Anthropic%20IPO.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-          "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-          "publishedAt": "2026-10-26T16:49:42.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-26T16:49:42.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-      "publishedAt": "2026-10-26T16:01:55.000Z",
-      "image": "https://media.wired.com/photos/6adf6d7844b1eb496ab79957/191:100/w_1280,c_limit/Business_The%20Anthropic%20IPO%20Is%20Also%20a%20Doomsday%20Primer_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T16:01:55.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -582,28 +608,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-22T21:17:29.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Foundations of Scalable AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Rev…",
-      "publishedAt": "2026-10-22T18:48:04.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T18:48:04.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a Decemb…",
-      "publishedAt": "2026-10-22T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/ai-hitpiece.jpg?fit=1456,818",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-22T12:10:00.000Z"
     }
   ]
 }
