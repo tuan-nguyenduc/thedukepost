@@ -1,181 +1,492 @@
 {
-  "syncedAt": "2026-10-28T16:28:57.418Z",
+  "syncedAt": "2026-10-28T22:19:53.560Z",
   "items": [
     {
-      "source": "The Verge",
-      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
-      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta com…",
-      "publishedAt": "2026-10-28T16:15:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "TechCrunch",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market,…",
+      "publishedAt": "2026-10-28T21:58:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T16:15:30.000Z"
+      "latestActivity": "2026-10-28T21:58:32.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Billionaires Spend 0.07% of Their Wealth to Avoid a 5% Tax",
-      "link": "https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/",
-      "summary": "Article URL: https://dsrupt.news/articles/billionaires-spend-0-07-of-their-wealth-to-avoid-a-5-tax-call-seventy-fold/\nComments URL: https://news.ycombinator.com/item?id=50275890\nPo…",
-      "publishedAt": "2026-10-28T16:02:07.000Z",
-      "image": "https://dsrupt.news/media/articles/9a0d7c00-a5eb-4fd2-b7be-6dd68e05d596/share-065ae591-9ed8-405c-8c30-bfc080441ab3.jpg",
+      "source": "The Verge",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS).  The breach exposes the names, job titles, phone numbers, email addresses, and office…",
+      "publishedAt": "2026-10-28T21:57:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T16:02:07.000Z"
+      "latestActivity": "2026-10-28T21:57:45.000Z"
     },
     {
       "source": "TechCrunch",
-      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-      "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-      "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "publishedAt": "2026-10-28T21:48:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T16:00:00.000Z"
+      "latestActivity": "2026-10-28T21:48:37.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the s…",
+      "publishedAt": "2026-10-28T21:34:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T21:34:30.000Z"
     },
     {
       "source": "The Verge",
-      "title": "Reddit is getting a For You feed",
-      "link": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
-      "summary": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you pos…",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "summary": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. | Image: Akai\t\n\nThe MPC Sample Key isn't even formally announced yet, but Akai is already showing off w…",
+      "publishedAt": "2026-10-28T21:34:04.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T16:00:00.000Z"
+      "latestActivity": "2026-10-28T21:34:04.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 bil…",
+      "publishedAt": "2026-10-28T21:25:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T21:25:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/\nComments URL: https://news.ycombinator.com/item?id=50281044\nPoints: 43\n# Comments: 37",
+      "publishedAt": "2026-10-28T21:19:30.000Z",
+      "image": "https://formlabs.com/default_seo_image.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T21:19:30.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "summary": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help…",
+      "publishedAt": "2026-10-28T21:16:18.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T21:16:18.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Gr…",
+      "publishedAt": "2026-10-28T20:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+          "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+          "publishedAt": "2026-10-28T21:03:24.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-28T21:03:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "link": "https://nango.dev/careers",
+      "summary": "Article URL: https://nango.dev/careers\nComments URL: https://news.ycombinator.com/item?id=50280824\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-10-28T21:00:06.000Z",
+      "image": "https://nango.dev/opengraph-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T21:00:06.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "This Is What the GOP’s Final Midterms Push Looks Like",
+      "link": "https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/",
+      "summary": "Republicans are spending their time and money on Senate races in historically red states—a sign they’re more nervous than ever as Election Day looms.",
+      "publishedAt": "2026-10-28T21:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae117bf28ee41eb8014dfa9/191:100/w_1280,c_limit/politics_republicans_midterms_spending.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T21:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The case of the 9 bit AES key",
+      "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "summary": "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key\nComments URL: https://news.ycombinator.com/item?id=50280722\nPoints: 18\n# Comments: 4",
+      "publishedAt": "2026-10-28T20:51:44.000Z",
+      "image": "https://v12.sh/static/opengraph-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T20:51:44.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Creating AI value with enterprise context",
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow…",
+      "publishedAt": "2026-10-28T20:32:02.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MIT_Atlan-Cover-28-26.png?w=840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T20:32:02.000Z"
     },
     {
       "source": "Engadget",
-      "title": "Reddit is adding a 'for you' feed for recommendations",
-      "link": "https://www.engadget.com/2299618/reddit-is-adding-a-for-you-feed-for-recommendations/",
-      "summary": "The app will have a \"following\" tab to surface content from subreddits you've joined.",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg",
+      "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
+      "link": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
+      "summary": "With all the fuss about Apple finally releasing a touchscreen MacBook Pro, you may have forgotten about the OLED part.",
+      "publishedAt": "2026-10-28T20:31:43.000Z",
+      "image": "https://www.engadget.com/img/gallery/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/l-intro-1793218163.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T16:00:00.000Z"
+      "latestActivity": "2026-10-28T20:31:43.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "publishedAt": "2026-10-28T15:53:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+      "source": "Wired",
+      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+      "link": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
+      "summary": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
+      "publishedAt": "2026-10-28T20:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ae24b1f7359ba945850d85b/191:100/w_1280,c_limit/Security_Code-execution%20flaw%20in%20UEFI%20firmware%20affects%20most%20servers%20on%20planet%20Earth_v2.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T15:53:52.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-      "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-      "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
-      "publishedAt": "2026-10-28T15:53:21.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T15:53:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "link": "https://surgehq.ai/blog/dayjob-tax",
-      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax\nComments URL: https://news.ycombinator.com/item?id=50275626\nPoints: 12\n# Comments: 6",
-      "publishedAt": "2026-10-28T15:46:30.000Z",
-      "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T15:46:30.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "publishedAt": "2026-10-28T15:41:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T15:41:18.000Z"
+      "latestActivity": "2026-10-28T20:30:00.000Z"
     },
     {
       "source": "The Verge",
-      "title": "Govee’s colorful smart string lights are down to their best price of the year",
-      "link": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
-      "summary": "Govee’s Christmas String Lights 2 are on sale in all four sizes. | Image: Govee\t\n\nHalloween isn’t even here yet, but it’s never too early to start thinking about holiday decoration…",
-      "publishedAt": "2026-10-28T15:34:43.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/goveechristmas.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Google says its investments in AI are driving more searches",
+      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today.\n\"Our AI investments are…",
+      "publishedAt": "2026-10-28T20:22:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T15:34:43.000Z"
+      "latestActivity": "2026-10-28T20:22:26.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue…",
+      "publishedAt": "2026-10-28T20:20:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T20:20:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+      "publishedAt": "2026-10-28T17:26:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-QuickTime-261028.jpg?resize=1200,800",
+      "sourceCount": 4,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Apple's first touchscreen MacBook Pro feels both familiar and radically improved",
+          "link": "https://www.engadget.com/2300023/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/",
+          "publishedAt": "2026-10-28T17:43:10.000Z"
+        },
+        {
+          "source": "Ars Technica",
+          "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+          "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+          "publishedAt": "2026-10-28T19:10:29.000Z"
+        },
+        {
+          "source": "The Verge",
+          "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+          "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+          "publishedAt": "2026-10-28T20:12:44.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-28T20:12:44.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "summary": "But the AI responses get more forthright when asked outside the US.",
+      "publishedAt": "2026-10-28T17:46:32.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Hacker News",
+          "title": "Google AI gets cagey when asked who won the 2020 elections",
+          "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+          "publishedAt": "2026-10-28T20:10:16.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-28T20:10:16.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "publishedAt": "2026-10-28T18:47:27.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "publishedAt": "2026-10-28T20:03:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-28T20:03:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+      "publishedAt": "2026-10-28T20:01:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T20:01:00.000Z"
     },
     {
       "source": "Engadget",
-      "title": "Audio Technica just released its first set of wireless StreamSet headphones",
-      "link": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/",
-      "summary": "This expands the lineup beyond XLR and USB-connected models.",
-      "publishedAt": "2026-10-28T15:34:06.000Z",
-      "image": "https://www.engadget.com/img/gallery/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/l-intro-1793201478.jpg",
+      "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
+      "link": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
+      "summary": "The company says it won't make \"policy changes\" until it consults with publishers.",
+      "publishedAt": "2026-10-28T19:42:27.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T15:34:06.000Z"
+      "latestActivity": "2026-10-28T19:42:27.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
-      "link": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
-      "summary": "Article URL: https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets\nComments URL: https://news.ycomb…",
-      "publishedAt": "2026-10-28T15:31:59.000Z",
-      "image": "https://images.contentstack.io/v3/assets/blt7151619cb9560896/blt885813ca79e82453/6ae0b6b355b21137d9b7ce99/Blog_Meta_Image_Template_Brand_Refresh_(4).png",
+      "source": "Engadget",
+      "title": "The PlayStation 5 just might be Sony's final Blu-Ray player",
+      "link": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
+      "summary": "Between Sony's plan to end PlayStation disc production and discontinuing its Blu-ray players, the future looks grim for physical media.",
+      "publishedAt": "2026-10-28T19:39:47.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T15:31:59.000Z"
+      "latestActivity": "2026-10-28T19:39:47.000Z"
     },
     {
       "source": "The Verge",
-      "title": "Sony has new transparent PS5 controllers launching next year",
-      "link": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent",
-      "summary": "Sony announced a new Prism Collection line of PlayStation 5 accessories today that revisits \"the iconic see-through trend of the late '90s in a fresh, modern way\" for its DualSense…",
-      "publishedAt": "2026-10-28T15:31:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/playstation.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+      "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+      "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images\t\n\nWhat do drones, routers, and Roombas have in common? The US government wants…",
+      "publishedAt": "2026-10-28T19:37:31.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T15:31:02.000Z"
+      "latestActivity": "2026-10-28T19:37:31.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Amazon rainforest cut down to build highway for COP climate summit (2025)",
-      "link": "https://www.bbc.com/news/articles/c9vy191rgn1o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c9vy191rgn1o\nComments URL: https://news.ycombinator.com/item?id=50275235\nPoints: 37\n# Comments: 8",
-      "publishedAt": "2026-10-28T15:24:11.000Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1c4d/live/c42f5a20-ff32-11ef-a8b1-950887ddc6e5.jpg",
+      "source": "Ars Technica",
+      "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
+      "publishedAt": "2026-10-28T19:30:33.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T15:24:11.000Z"
+      "latestActivity": "2026-10-28T19:30:33.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+      "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+      "summary": "It has been nearly a year since any space tourism flights occurred.",
+      "publishedAt": "2026-10-28T19:20:36.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T19:20:36.000Z"
     },
     {
       "source": "TechCrunch",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical…",
-      "publishedAt": "2026-10-28T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "publishedAt": "2026-10-28T19:19:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T15:00:00.000Z"
+      "latestActivity": "2026-10-28T19:19:58.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
-      "link": "https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on",
-      "summary": "8BitDo’s Ultimate 3E has a refined design, but it shows wear easily. | Image: The Verge\t\n\nIt's hard to make an Xbox controller that stands out these days, especially one that's exp…",
-      "publishedAt": "2026-10-28T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/8BitDo-Ultimate3E-review-7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "Engadget",
+      "title": "OpenAI now lets you text your Dot agent",
+      "link": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+      "summary": "The feature works with both iMessage and RCS messaging.",
+      "publishedAt": "2026-10-28T19:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-28T15:00:00.000Z"
+      "latestActivity": "2026-10-28T19:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organiza…",
+      "publishedAt": "2026-10-28T19:05:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tomer-wiz.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T19:05:46.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Engadget is hiring writers!",
+      "link": "https://www.engadget.com/2300216/engadget-is-hiring-writers-october-2026/",
+      "summary": "We're looking for freelance journalists who know their way around a tech blog.",
+      "publishedAt": "2026-10-28T19:05:46.000Z",
+      "image": "https://www.engadget.com/img/gallery/engadget-is-hiring-writers/l-intro-1792721307.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T19:05:46.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The New M6 MacBook Pro Has a Serious Price Problem",
+      "link": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
+      "summary": "For $1,999, you could own an M6 Mac Mini and an M5 MacBook Air instead, both of which are on sale right now.",
+      "publishedAt": "2026-10-28T18:57:22.000Z",
+      "image": "https://media.wired.com/photos/6ae217bc6d6203230c9f52b5/191:100/w_1280,c_limit/macbook%20pro%20m6%20deals%20post%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T18:57:22.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Sony's new see-through DualSense controllers let you game like its 1999",
+      "link": "https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/",
+      "summary": "The company is also releasing matching PS5 console covers.",
+      "publishedAt": "2026-10-28T18:38:17.000Z",
+      "image": "https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T18:38:17.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+      "publishedAt": "2026-10-28T18:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ae108712ec9b10c531020d9/191:100/w_1280,c_limit/business_ai_predict_future.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T18:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+      "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+      "publishedAt": "2026-10-28T18:05:22.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T18:05:22.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+      "link": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+      "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
+      "publishedAt": "2026-10-28T17:55:45.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T17:55:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "summary": "Article URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/\nComments URL: https://news.ycombinator.com/item?id=50277755\nPoints:…",
+      "publishedAt": "2026-10-28T17:45:24.000Z",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SpiderSilkCondensates-crKonradWothe_NaturePL_ScienceSource-Social-1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T17:45:24.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+      "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+      "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+      "publishedAt": "2026-10-28T17:37:49.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T17:37:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...\nComments URL: https://news.ycombinator.com/item?id=50276940\nPoints: 429\n# Comments: 731",
+      "publishedAt": "2026-10-28T17:10:37.000Z",
+      "image": "https://www.apple.com/v/macbook-pro/proled-xdr-display/a/images/meta/mbp_proled_xdr__f7755bx607yq_og.png?202610271513",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
+          "link": "https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/",
+          "publishedAt": "2026-10-28T17:35:24.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-28T17:35:24.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+      "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "summary": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.",
+      "publishedAt": "2026-10-28T17:15:16.000Z",
+      "image": "https://media.wired.com/photos/6ae20ca456ee4dcb93f11044/191:100/w_1280,c_limit/1027_AppleNF_Illustration_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T17:15:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons\nComments URL: https://news.ycombinator.com/item?id=50276998\nPoints: 518\n# Comments: 116",
+      "publishedAt": "2026-10-28T17:13:29.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-28T17:13:29.000Z"
     },
     {
       "source": "Wired",
@@ -189,28 +500,6 @@
       "latestActivity": "2026-10-28T15:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Tesla Semi catches fire on I-880",
-      "link": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
-      "summary": "Article URL: https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/\nComments URL: https://news.ycombinator.com/item?id=50274706\nPoints: 41\n# Comments: 24",
-      "publishedAt": "2026-10-28T14:54:07.000Z",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-semi-fire-i-880-hayward-chp.jpg?quality=82&strip=all&resize=1200,628",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T14:54:07.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple raises the MacBook Neo&#8217;s student pricing again",
-      "link": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store",
-      "summary": "The MacBook Neo now starts at $649 on Apple's Education Store, up $150 from its initial $499 education starting price. As reported earlier by MacRumors,  the student discount for t…",
-      "publishedAt": "2026-10-28T14:47:28.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T14:47:28.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups",
       "link": "https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/",
@@ -220,174 +509,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-28T14:46:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "summary": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images\t\n\nA subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood…",
-      "publishedAt": "2026-10-28T14:44:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T14:44:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "CNC Stone Carving",
-      "link": "https://carmelitegothic.com/cnc-stone-carving/",
-      "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/\nComments URL: https://news.ycombinator.com/item?id=50274409\nPoints: 125\n# Comments: 31",
-      "publishedAt": "2026-10-28T14:38:22.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T14:38:22.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more",
-      "link": "https://www.engadget.com/2299032/all-amazon-echo-news-october-2026/",
-      "summary": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
-      "publishedAt": "2026-10-28T12:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-          "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-          "publishedAt": "2026-10-28T14:34:25.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-28T14:34:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "AlpineBSD",
-      "link": "https://wiki.alpinebsd.org",
-      "summary": "Article URL: https://wiki.alpinebsd.org\nComments URL: https://news.ycombinator.com/item?id=50274251\nPoints: 40\n# Comments: 36",
-      "publishedAt": "2026-10-28T14:30:26.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T14:30:26.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-      "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-      "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-      "publishedAt": "2026-10-28T14:26:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TikTok-MustEat.jpg?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T14:26:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "An architectural comparison of Obsidian Canvas and Heptabase",
-      "link": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
-      "summary": "Article URL: https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase\nComments URL: https://news.ycombinator.com/item?id=50274139\nPoints: 25\n# Comments: 8",
-      "publishedAt": "2026-10-28T14:24:20.000Z",
-      "image": "https://www.fluxlinks.com/og-product.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T14:24:20.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Here&#8217;s Virgin Galactic&#8217;s new Apeiron spaceship",
-      "link": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
-      "summary": "Virgin Galactic's new spaceship is here, dubbed \"Apeiron\" by popular vote from a public poll. Apeiron is the first of the company's new Delta-class spacecraft, but it isn't slated…",
-      "publishedAt": "2026-10-28T14:17:43.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/virgin-galactic-apeiron-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T14:17:43.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meta has a new AI pet app called Waddle World",
-      "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "summary": "Meta has launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-      "publishedAt": "2026-10-28T13:53:31.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T13:53:31.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "A hidden ocean change near Antarctica could have global consequences",
-      "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-      "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
-      "publishedAt": "2026-10-28T13:38:53.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T13:38:53.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
-      "link": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
-      "summary": "Amazon Leo's $11.5 billion acquisition of mobile-satellite operator Globalstar has been approved by the FCC.",
-      "publishedAt": "2026-10-28T13:13:19.000Z",
-      "image": "https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T13:13:19.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "What’s the Best Kindle of 2026 (So Far)?",
-      "link": "https://www.wired.com/gallery/best-kindle/",
-      "summary": "I’ve tested every single Kindle, from Paperwhite and Colorsoft to the new aluminum models. Here’s how Amazon’s ebook readers stack up.",
-      "publishedAt": "2026-10-28T13:02:00.000Z",
-      "image": "https://media.wired.com/photos/6ae10eb928ee41eb8014df31/191:100/w_1280,c_limit/Update%20Best%20Kindles%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T13:02:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price",
-      "link": "https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review/",
-      "summary": "$320 is a lot to pay for a well-balanced device in an aluminum case with pogo pins.",
-      "publishedAt": "2026-10-28T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Wired",
-          "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
-          "link": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
-          "publishedAt": "2026-10-28T13:01:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-28T13:01:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places",
-      "link": "https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review/",
-      "summary": "Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.",
-      "publishedAt": "2026-10-28T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen",
-      "link": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/",
-      "summary": "Reports indicate that a \"MacBook Ultra\" with a touch-sensitive display is likely on the agenda today.",
-      "publishedAt": "2026-10-28T12:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793203504.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T12:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -401,24 +522,6 @@
       "latestActivity": "2026-10-28T12:10:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Amazon launches its first digital photo frame with built-in Alexa",
-      "link": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/",
-      "summary": "You can tell Amazon's Alexa Photo Frame which images you want to see.",
-      "publishedAt": "2026-10-28T12:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/amazon-launches-its-first-photo-frame-with-built-in-alexa/l-intro-1793179679.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Wired",
-          "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-          "link": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
-          "publishedAt": "2026-10-28T12:01:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-28T12:01:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Pairing industrial AI autonomy and human control",
       "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
@@ -428,116 +531,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
-      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
-      "publishedAt": "2026-10-28T11:00:49.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T11:00:49.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA",
-      "link": "https://www.wired.com/story/portland-fermentation-festival-stinkfest/",
-      "summary": "The annual Portland Fermentation Festival took place last week in Oregon, at a time when sauerkraut, kimchi, and other funky foods are in the social and political spotlight.",
-      "publishedAt": "2026-10-28T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae0ed29f7e0fe592a7ec463/191:100/w_1280,c_limit/102726-Pickles!.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Pornhub Stars Want to Teach You How to Make Dinner",
-      "link": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
-      "summary": "Faced with censorship and anti-porn laws, the adult site is encouraging creators to embrace cooking, gaming, podcasting, and other safe-for-work content.",
-      "publishedAt": "2026-10-28T10:45:00.000Z",
-      "image": "https://media.wired.com/photos/6adede77dbc6676891653f9d/191:100/w_1280,c_limit/SFW%20pornhub.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T10:45:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
-      "link": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
-      "summary": "If Apple headphones have been sitting on your wish list, now might be the time to buy ahead of the holiday rush.",
-      "publishedAt": "2026-10-28T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6ae11d65f409d832a824126b/191:100/w_1280,c_limit/New%20Apple%20AirPods%20Max%202%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-28T10:30:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-      "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-      "publishedAt": "2026-10-27T22:37:30.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T22:37:30.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-      "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-      "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
-      "publishedAt": "2026-10-27T22:22:32.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T22:22:32.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-      "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-      "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
-      "publishedAt": "2026-10-27T22:04:50.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T22:04:50.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-      "publishedAt": "2026-10-27T21:50:04.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T21:50:04.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
-      "publishedAt": "2026-10-27T21:31:14.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T21:31:14.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-      "publishedAt": "2026-10-27T20:25:55.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T20:25:55.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -578,7 +571,7 @@
       "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthr…",
       "publishedAt": "2026-10-26T17:45:43.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-dario1a.jpg?resize=1200,600",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-darioB_1.jpg?resize=1200,600",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-26T17:45:43.000Z"
@@ -593,17 +586,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-26T12:40:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for child…",
-      "publishedAt": "2026-10-26T09:01:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-26T09:01:00.000Z"
     }
   ]
 }
