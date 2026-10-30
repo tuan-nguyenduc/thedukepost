@@ -1,33 +1,295 @@
 {
-  "syncedAt": "2026-10-30T04:54:26.251Z",
+  "syncedAt": "2026-10-30T12:22:08.626Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-      "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
-      "summary": "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/\nComments URL: https://news.ycombinator.com/item?id=50299182\nPoints: 24\n# Comments: 18",
-      "publishedAt": "2026-10-30T02:33:04.000Z",
-      "image": "https://www.penligent.ai/hackinglabs/wp-content/uploads/2026/10/clipboard-285.png",
+      "source": "Engadget",
+      "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
+      "link": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
+      "summary": "Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand.",
+      "publishedAt": "2026-10-30T12:05:36.000Z",
+      "image": "https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-30T02:33:04.000Z"
+      "latestActivity": "2026-10-30T12:05:36.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "summary": "Touch ‘em if you got ‘em. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nApple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to…",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T12:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Lenovo Googlebook 15 review: Your Android phone's new best friend",
+      "link": "https://www.engadget.com/2301498/lenovo-googlebook-15-review/",
+      "summary": "Despite Lenovo providing excellent hardware for Google's new laptop platform, Googlebook OS will only impress Android die-hards.",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T12:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+      "link": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+      "summary": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
+      "publishedAt": "2026-10-30T08:24:55.000Z",
+      "image": "https://www.engadget.com/img/gallery/binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft/l-intro-1793348577.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "Wired",
+          "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+          "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "publishedAt": "2026-10-30T11:36:52.000Z"
+        },
+        {
+          "source": "The Verge",
+          "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+          "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+          "publishedAt": "2026-10-30T11:44:53.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-30T11:44:53.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s c…",
+      "publishedAt": "2026-10-30T11:30:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260320_AIfarming3.jpg?fit=2128,1196",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T11:30:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-      "link": "https://github.com/Millillion/lasm",
-      "summary": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave wi…",
-      "publishedAt": "2026-10-30T02:05:41.000Z",
-      "image": "https://repository-images.githubusercontent.com/1383708351/edc8f018-5dfd-4df7-b4e1-dacb8573208c",
+      "title": "Backdoors in official Claude Code extensions",
+      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563\nComments URL: https://news.ycombinator.com/item?id=50302334\nPoints: 157\n# Comments: 24",
+      "publishedAt": "2026-10-30T11:05:53.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-10-30T02:05:41.000Z"
+      "latestActivity": "2026-10-30T11:05:53.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.\n\"I'm terrified,\" a ma…",
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+      "link": "https://www.wired.com/story/oh-my-hours-ios-app/",
+      "summary": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae098c55eba24f851ec7cf8/191:100/w_1280,c_limit/GettyImages-2240550047.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
+      "link": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
+      "summary": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
+      "publishedAt": "2026-10-30T10:45:00.000Z",
+      "image": "https://media.wired.com/photos/6ae0c75290b99bca949001fd/191:100/w_1280,c_limit/102726-ken-paxton-elon-musk.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:45:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Handheld Translators for Work and Travel (2026)",
+      "link": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+      "summary": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.",
+      "publishedAt": "2026-10-30T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/191:100/w_1280,c_limit/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Male Insecurity Over Penis Size Is a Booming Business",
+      "link": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+      "summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
+      "publishedAt": "2026-10-30T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/191:100/w_1280,c_limit/MANHOOD_STILL_1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "publishedAt": "2026-10-30T07:01:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+          "link": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/",
+          "publishedAt": "2026-10-30T10:23:52.000Z"
+        }
+      ],
+      "latestActivity": "2026-10-30T10:23:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\nComments URL: https://news.ycombinator.com…",
+      "publishedAt": "2026-10-30T10:22:51.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:22:51.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
+      "link": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
+      "summary": "The meme appeared to reference gender-swapping “Malfoid” fan fiction, a term with incel roots. When asked about it, the DOE responded by quoting Dumbledore.",
+      "publishedAt": "2026-10-30T10:15:00.000Z",
+      "image": "https://media.wired.com/photos/6ae3a2964c40b236572925e2/191:100/w_1280,c_limit/Culture_It%20Sure%20Looks%20Like%20the%20Department%20of%20Education%20Is%20Promoting%20a%20Right-Wing%20Harry%20Potter%20Meme_v1.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:15:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+      "link": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+      "summary": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
+      "publishedAt": "2026-10-30T10:08:13.000Z",
+      "image": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:08:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case\nComments URL: https://news.ycombinator.com/item?id=50301854\nPoints: 12\n# Comments: 0",
+      "publishedAt": "2026-10-30T10:06:15.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:06:15.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
+      "link": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
+      "summary": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/191:100/w_1280,c_limit/Crematoriams.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Samsung S95H OLED TV Review (2026)",
+      "link": "https://www.wired.com/review/samsung-s95h/",
+      "summary": "It performs great, with rich texture and high brightness, but faces new competition when it comes to color dominance.",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae2b4055af838b7abd71f31/191:100/w_1280,c_limit/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/\nComments URL: https://news.ycombinator.com/item?id=50301717\nPoints: 24\n# Comments: 1…",
+      "publishedAt": "2026-10-30T09:49:02.000Z",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E11-cr.Chanelle-Nibbelink-Social-LOGO.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T09:49:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "elect.horse",
+      "link": "https://elect.horse/",
+      "summary": "Article URL: https://elect.horse/\nComments URL: https://news.ycombinator.com/item?id=50301462\nPoints: 99\n# Comments: 26",
+      "publishedAt": "2026-10-30T09:14:34.000Z",
+      "image": "https://elect.horse/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T09:14:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyri…",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T09:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential…",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T09:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+      "link": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/",
+      "summary": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general.",
+      "publishedAt": "2026-10-30T07:44:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/general-motors-agrees-to-pay-220-million-to-settle-multi-state-data-privacy-lawsuit/l-intro-1793345961.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T07:44:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "link": "https://www.workatastartup.com/jobs/98722",
+      "summary": "Article URL: https://www.workatastartup.com/jobs/98722\nComments URL: https://news.ycombinator.com/item?id=50300643\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-10-30T07:00:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-30T07:00:35.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Pico CSS is no longer maintained",
       "link": "https://github.com/picocss/pico/discussions/754",
-      "summary": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 71\n# Comments: 21",
+      "summary": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 159\n# Comments: 73",
       "publishedAt": "2026-10-30T01:58:44.000Z",
       "image": "https://opengraph.githubassets.com/3a6d74ffc646cd0aef45becc597592b9912ffb260ae8ee5d318d49d43eb92f14/picocss/pico/discussions/754",
       "sourceCount": 1,
@@ -49,23 +311,12 @@
       "source": "Hacker News",
       "title": "Herdr has released native app",
       "link": "https://github.com/herdrdev/herdr-app",
-      "summary": "Article URL: https://github.com/herdrdev/herdr-app\nComments URL: https://news.ycombinator.com/item?id=50298436\nPoints: 76\n# Comments: 54",
+      "summary": "Article URL: https://github.com/herdrdev/herdr-app\nComments URL: https://news.ycombinator.com/item?id=50298436\nPoints: 244\n# Comments: 162",
       "publishedAt": "2026-10-30T00:42:41.000Z",
-      "image": "https://opengraph.githubassets.com/3b8b0689c2583368b8f33285e9f21e3e57fa6d71f60ffd25d1cfee445222f929/herdrdev/herdr-app",
+      "image": "https://opengraph.githubassets.com/9430cced10d81d68662289f0819586d2e9b7f6f060a06e36f4708a867954b113/herdrdev/herdr-app",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-30T00:42:41.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Cormac McCarthy's Library",
-      "link": "https://cormacmccarthy.lib.utk.edu/",
-      "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/\nComments URL: https://news.ycombinator.com/item?id=50298318\nPoints: 31\n# Comments: 13",
-      "publishedAt": "2026-10-30T00:31:00.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-30T00:31:00.000Z"
     },
     {
       "source": "The Verge",
@@ -82,7 +333,7 @@
       "source": "TechCrunch",
       "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
       "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
       "publishedAt": "2026-10-29T23:44:56.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
       "sourceCount": 1,
@@ -91,7 +342,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO sa…",
       "publishedAt": "2026-10-29T23:42:22.000Z",
@@ -110,17 +361,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-29T23:42:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "link": "https://github.com/mottopanikeiku/doomformer",
-      "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essenti…",
-      "publishedAt": "2026-10-29T23:25:46.000Z",
-      "image": "https://opengraph.githubassets.com/262d603d062939044b1db71080005165d2d0b5eeb997b827d699359871c59fe2/mottopanikeiku/doomformer",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T23:25:46.000Z"
     },
     {
       "source": "Engadget",
@@ -145,17 +385,6 @@
       "latestActivity": "2026-10-29T22:27:23.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "link": "https://journal.animationstudies.org/article/id/66/",
-      "summary": "Article URL: https://journal.animationstudies.org/article/id/66/\nComments URL: https://news.ycombinator.com/item?id=50297089\nPoints: 76\n# Comments: 12",
-      "publishedAt": "2026-10-29T22:26:38.000Z",
-      "image": "https://journal.animationstudies.org/media/cover_images/32a1852c-fcda-4630-b063-f82dd00354b3.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T22:26:38.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
       "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
@@ -165,17 +394,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-29T22:19:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Great American Rascal: Tom Sawyer at 150",
-      "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-      "summary": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/\nComments URL: https://news.ycombinator.com/item?id=50296947\nPoints: 53\n# Comments: 22",
-      "publishedAt": "2026-10-29T22:14:23.000Z",
-      "image": "https://claremontreviewofbooks.com/wp-content/uploads/2026/09/CRB_FA26_Wolfson-573x400.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T22:14:23.000Z"
     },
     {
       "source": "Engadget",
@@ -198,17 +416,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-29T21:51:29.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
-      "link": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
-      "summary": "Trying to make everyone happy could make no one happy.",
-      "publishedAt": "2026-10-29T21:48:05.000Z",
-      "image": "https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T21:48:05.000Z"
     },
     {
       "source": "Ars Technica",
@@ -234,24 +441,6 @@
     },
     {
       "source": "TechCrunch",
-      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-      "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across so…",
-      "publishedAt": "2026-10-29T20:43:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
-          "link": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
-          "publishedAt": "2026-10-29T21:18:22.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-29T21:18:22.000Z"
-    },
-    {
-      "source": "TechCrunch",
       "title": "GM reaches $220M settlement over selling drivers’ private data",
       "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
       "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
@@ -260,46 +449,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-29T21:01:04.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "What to Know About China’s Top-Secret Spaceplane",
-      "link": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
-      "summary": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
-      "publishedAt": "2026-10-29T20:45:36.000Z",
-      "image": "https://media.wired.com/photos/6ae3aab21b78b1068035e643/191:100/w_1280,c_limit/PRC%20Space%20Plane_Vantor.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T20:45:36.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Reddit will force everyone to log in",
-      "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in.\nRight now, you can browse Reddit without having an account, and the site is generally a great reso…",
-      "publishedAt": "2026-10-29T20:07:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Engadget",
-          "title": "Reddit will force users to log in as AI is killing search traffic",
-          "link": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
-          "publishedAt": "2026-10-29T20:32:49.000Z"
-        }
-      ],
-      "latestActivity": "2026-10-29T20:32:49.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Google fixes an annoying Photos bug that hid edited images from other apps",
-      "link": "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/",
-      "summary": "Hey, that's not what Magic Eraser is supposed to do!",
-      "publishedAt": "2026-10-29T20:26:24.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/l-intro-1793305492.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T20:26:24.000Z"
     },
     {
       "source": "Ars Technica",
@@ -311,17 +460,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-29T20:18:49.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Google brings AI Mode advertisements to more countries",
-      "link": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
-      "summary": "Adding sponsored content in more markets could make the feature profitable.",
-      "publishedAt": "2026-10-29T20:18:24.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-brings-ai-mode-advertisements-to-more-countries/l-intro-1793305012.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T20:18:24.000Z"
     },
     {
       "source": "The Verge",
@@ -346,61 +484,6 @@
       "latestActivity": "2026-10-29T20:08:10.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Rivian’s R2 is officially its best-selling vehicle",
-      "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-      "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle…",
-      "publishedAt": "2026-10-29T20:02:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0015.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T20:02:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "link": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-      "summary": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-      "publishedAt": "2026-10-29T19:51:56.000Z",
-      "image": "https://media.wired.com/photos/6ae3a1d0b3ee5efdf6d00c9f/191:100/w_1280,c_limit/GettyImages-2259602081.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T19:51:56.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "link": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-      "summary": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
-      "publishedAt": "2026-10-29T19:41:36.000Z",
-      "image": "https://media.wired.com/photos/6ae36f07feb0012f49429412/191:100/w_1280,c_limit/Nothing%20Headphone%20Deals%20October%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T19:41:36.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof",
-      "link": "https://www.engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/",
-      "summary": "Just what the Sandworm bucket needed: a second hole.",
-      "publishedAt": "2026-10-29T19:40:27.000Z",
-      "image": "https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T19:40:27.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-      "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement…",
-      "publishedAt": "2026-10-29T19:19:28.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255455204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T19:19:28.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Trump declares robot imports a national security threat",
       "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
@@ -410,28 +493,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-29T19:07:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capab…",
-      "publishedAt": "2026-10-29T18:45:31.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T18:45:31.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "publishedAt": "2026-10-29T18:39:43.000Z",
-      "image": "https://media.wired.com/photos/6ae113e3b0a8ac98a8d177dc/191:100/w_1280,c_limit/102726-department-of-defense-ai-agent.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T18:39:43.000Z"
     },
     {
       "source": "Ars Technica",
@@ -456,17 +517,6 @@
       "latestActivity": "2026-10-29T18:02:26.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
-      "link": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
-      "summary": "The popular Ridge Wallet lives up to the hype and is on sale, along with other Ridge gear. Plus, you can try it risk-free for 99 days.",
-      "publishedAt": "2026-10-29T17:41:36.000Z",
-      "image": "https://media.wired.com/photos/6ae37394a4dff0c29ced940a/191:100/w_1280,c_limit/Ridge%20Wallet%20sale%20deal%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T17:41:36.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
       "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
@@ -487,39 +537,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-29T16:24:55.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "publishedAt": "2026-10-29T15:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T15:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-      "publishedAt": "2026-10-29T14:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/191:100/w_1280,c_limit/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T14:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
-      "link": "https://www.wired.com/story/petkit-sale-october-2026/",
-      "summary": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right…",
-      "publishedAt": "2026-10-29T13:41:26.000Z",
-      "image": "https://media.wired.com/photos/6ae2af53aad2e56b125912cc/191:100/w_1280,c_limit/Petkit%20Deals%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-29T13:41:26.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -586,28 +603,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? A…",
-      "publishedAt": "2026-10-27T12:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Neanderthals_finals-top.jpg?w=840",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T12:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to…",
-      "publishedAt": "2026-10-27T11:19:18.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-1367303200.jpg?w=840",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-27T11:19:18.000Z"
     }
   ]
 }
