@@ -1,6 +1,72 @@
 {
-  "syncedAt": "2026-11-01T00:46:59.491Z",
+  "syncedAt": "2026-11-01T08:53:13.783Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Pac-Man's Siren Call",
+      "link": "https://unsung.aresluna.org/pac-mans-siren-call/",
+      "summary": "Article URL: https://unsung.aresluna.org/pac-mans-siren-call/\nComments URL: https://news.ycombinator.com/item?id=50323187\nPoints: 9\n# Comments: 3",
+      "publishedAt": "2026-11-01T06:29:49.000Z",
+      "image": "https://unsung.aresluna.org/_media/pac-mans-siren-call/ogimage.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-01T06:29:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\nComments URL: https://news.ycombinator.com/item?id=50323088\nPoints: 38\n# Comments: 13",
+      "publishedAt": "2026-11-01T06:06:19.000Z",
+      "image": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-01T06:06:19.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to A…",
+      "publishedAt": "2026-11-01T02:22:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-01T02:22:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "summary": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\nComments URL: https://news.ycombinator.com/item?id=50322173\nPoints: 104\n# Commen…",
+      "publishedAt": "2026-11-01T02:19:53.000Z",
+      "image": "https://jetstream.security/wp-content/uploads/2026/07/ChatGPT-Image-Jul-1-2026-02_56_34-PM.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-01T02:19:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OTape",
+      "link": "https://www.otape.org/",
+      "summary": "Article URL: https://www.otape.org/\nComments URL: https://news.ycombinator.com/item?id=50322169\nPoints: 25\n# Comments: 14",
+      "publishedAt": "2026-11-01T02:18:46.000Z",
+      "image": "https://otape.org/assets/img/og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-01T02:18:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "link": "https://arxiv.org/abs/2409.02292",
+      "summary": "Article URL: https://arxiv.org/abs/2409.02292\nComments URL: https://news.ycombinator.com/item?id=50322022\nPoints: 77\n# Comments: 35",
+      "publishedAt": "2026-11-01T01:46:29.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-01T01:46:29.000Z"
+    },
     {
       "source": "Engadget",
       "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
@@ -11,6 +77,17 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-01T00:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "summary": "Hi HN,\nI kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.\nSome of the nice features are side-by-side diff, scope, schematics auto-syn…",
+      "publishedAt": "2026-11-01T00:10:30.000Z",
+      "image": "https://bbrouter.com/api/public/bbrouter/Ben-Eater-SAP-1/picture?card&r=27",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-01T00:10:30.000Z"
     },
     {
       "source": "Engadget",
@@ -55,6 +132,28 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-31T23:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Altoids Project",
+      "link": "https://uvdn7.github.io/altoids-project/",
+      "summary": "Article URL: https://uvdn7.github.io/altoids-project/\nComments URL: https://news.ycombinator.com/item?id=50321048\nPoints: 105\n# Comments: 4",
+      "publishedAt": "2026-10-31T22:54:55.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-31T22:54:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\nComments URL: https://news.ycombinator.com/item?id=50320995\nPoints: 213\n# Comments: 104",
+      "publishedAt": "2026-10-31T22:46:12.000Z",
+      "image": "https://opengraph.githubassets.com/c68b8453850b2172c7d1c7cff1f7e563dbd77e5072bcd07ea8fef0fe2dcad396/guregodevo/memdoor",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-10-31T22:46:12.000Z"
     },
     {
       "source": "Engadget",
@@ -363,17 +462,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-10-31T04:16:50.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "publishedAt": "2026-10-31T01:20:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-10-31T01:20:05.000Z"
     },
     {
       "source": "Ars Technica",
