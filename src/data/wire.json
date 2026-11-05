@@ -1,27 +1,104 @@
 {
-  "syncedAt": "2026-11-04T23:22:30.907Z",
+  "syncedAt": "2026-11-05T05:43:46.192Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and ga…",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Lemmings CSS Animation",
+      "link": "https://markblah.github.io/lemmings/",
+      "summary": "Article URL: https://markblah.github.io/lemmings/\nComments URL: https://news.ycombinator.com/item?id=50375354\nPoints: 4\n# Comments: 1",
+      "publishedAt": "2026-11-05T04:54:10.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-05T04:54:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "publishedAt": "2026-11-05T01:26:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-05T01:26:22.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "publishedAt": "2026-11-05T01:02:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-05T01:02:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "X says its updated web app is way faster",
+      "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users.\n\"Open a…",
+      "publishedAt": "2026-11-05T00:25:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-05T00:25:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "link": "https://www.spacex.com/starfall",
+      "summary": "Article URL: https://www.spacex.com/starfall\nComments URL: https://news.ycombinator.com/item?id=50373308\nPoints: 174\n# Comments: 107",
+      "publishedAt": "2026-11-05T00:18:18.000Z",
+      "image": "https://www.spacex.com/assets/images/share.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-05T00:18:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "summary": "Article URL: https://openai.com/index/introducing-images-2-6/\nComments URL: https://news.ycombinator.com/item?id=50372945\nPoints: 200\n# Comments: 134",
+      "publishedAt": "2026-11-04T23:35:44.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-04T23:35:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "summary": "Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/\nComments URL: https://news.ycombinator.com/item?id=50372929\nPoints: 238\n# Comments: 132",
+      "publishedAt": "2026-11-04T23:33:14.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-04T23:33:14.000Z"
+    },
     {
       "source": "Wired",
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
       "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low-Earth orbit.",
+      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
       "publishedAt": "2026-11-04T23:13:14.000Z",
       "image": "https://media.wired.com/photos/6aeb641153c0a015e33517d0/191:100/w_1280,c_limit/Business_TechBrosCrying_v1.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-04T23:13:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Successful People (2013)",
-      "link": "https://blog.samaltman.com/successful-people",
-      "summary": "Article URL: https://blog.samaltman.com/successful-people\nComments URL: https://news.ycombinator.com/item?id=50372660\nPoints: 5\n# Comments: 4",
-      "publishedAt": "2026-11-04T23:01:19.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T23:01:19.000Z"
     },
     {
       "source": "TechCrunch",
@@ -40,6 +117,24 @@
         }
       ],
       "latestActivity": "2026-11-04T22:55:57.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
+      "link": "https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/",
+      "summary": "This is potentially terrible news for those who love physical media.",
+      "publishedAt": "2026-11-04T18:39:08.000Z",
+      "image": "https://www.engadget.com/img/gallery/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/l-intro-1793817497.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "publishedAt": "2026-11-04T22:47:51.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-04T22:47:51.000Z"
     },
     {
       "source": "TechCrunch",
@@ -64,55 +159,48 @@
       "latestActivity": "2026-11-04T22:42:15.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Less Popular Than Coal",
-      "link": "https://www.argmin.net/p/less-popular-than-coal",
-      "summary": "Article URL: https://www.argmin.net/p/less-popular-than-coal\nComments URL: https://news.ycombinator.com/item?id=50372360\nPoints: 6\n# Comments: 1",
-      "publishedAt": "2026-11-04T22:26:24.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!Hgix!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F131a9a97-850b-45bd-9afb-28c6a01476ca_840x599.jpeg",
+      "source": "Ars Technica",
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "publishedAt": "2026-11-04T22:26:49.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-04T22:26:24.000Z"
+      "latestActivity": "2026-11-04T22:26:49.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
-      "link": "https://news.ycombinator.com/item?id=50372294",
-      "summary": "I recently commented on the \"who wants to be hired\" this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk ma…",
-      "publishedAt": "2026-11-04T22:18:21.000Z",
-      "image": null,
+      "source": "TechCrunch",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "publishedAt": "2026-11-04T22:13:16.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-04T22:18:21.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" de…",
-      "publishedAt": "2026-11-04T18:26:07.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "TechCrunch",
-          "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-          "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-          "publishedAt": "2026-11-04T22:13:16.000Z"
-        }
-      ],
       "latestActivity": "2026-11-04T22:13:16.000Z"
     },
     {
       "source": "Hacker News",
       "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
       "link": "https://icode4.coffee/?p=1746",
-      "summary": "Article URL: https://icode4.coffee/?p=1746\nComments URL: https://news.ycombinator.com/item?id=50372164\nPoints: 27\n# Comments: 2",
+      "summary": "Article URL: https://icode4.coffee/?p=1746\nComments URL: https://news.ycombinator.com/item?id=50372164\nPoints: 87\n# Comments: 5",
       "publishedAt": "2026-11-04T22:01:49.000Z",
       "image": "https://icode4.coffee/wp-content/uploads/part3_twitter_banner.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-04T22:01:49.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+      "publishedAt": "2026-11-04T21:56:29.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-04T21:56:29.000Z"
     },
     {
       "source": "TechCrunch",
@@ -214,17 +302,6 @@
       "latestActivity": "2026-11-04T21:04:05.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Death Comes for XSLT",
-      "link": "https://dbushell.com/2026/11/03/xslt-rip/",
-      "summary": "Article URL: https://dbushell.com/2026/11/03/xslt-rip/\nComments URL: https://news.ycombinator.com/item?id=50371408\nPoints: 7\n# Comments: 0",
-      "publishedAt": "2026-11-04T20:57:10.000Z",
-      "image": "https://dbushell.com/images/articles/2026-11-03-xslt-rip.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T20:57:10.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
       "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
@@ -239,9 +316,9 @@
       "source": "Hacker News",
       "title": "Residential proxies detected on White House network",
       "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network\nComments URL: https://news.ycombinator.com/item?id=50371246\nPoints: 445\n# Comments: 130",
+      "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network\nComments URL: https://news.ycombinator.com/item?id=50371246\nPoints: 852\n# Comments: 271",
       "publishedAt": "2026-11-04T20:45:18.000Z",
-      "image": "https://layer3intel.com/eop_proxy_activity.png",
+      "image": null,
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-04T20:45:18.000Z"
@@ -258,17 +335,6 @@
       "latestActivity": "2026-11-04T20:41:29.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-      "publishedAt": "2026-11-04T20:36:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249547675.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T20:36:57.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
       "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
@@ -278,17 +344,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-04T20:36:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "link": "https://github.com/gauge-sh/gauge-cli",
-      "summary": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don't need an account…",
-      "publishedAt": "2026-11-04T20:31:30.000Z",
-      "image": "https://opengraph.githubassets.com/de507ed71ea3a35ca115a9954f2114550f24b0864a69661142299edf8e1db17c/gauge-sh/gauge-cli",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T20:31:30.000Z"
     },
     {
       "source": "Engadget",
@@ -349,12 +404,23 @@
       "source": "Hacker News",
       "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
       "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra\nComments URL: https://news.ycombinator.com/item?id=50370654\nPoints: 74\n# Comments: 36",
+      "summary": "Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra\nComments URL: https://news.ycombinator.com/item?id=50370654\nPoints: 127\n# Comments: 53",
       "publishedAt": "2026-11-04T19:55:14.000Z",
       "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/cloudai100_announcement",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-04T19:55:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Insects don't swarm at LED lights",
+      "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "summary": "Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/\nComments URL: https://news.ycombinator.com/item?id=50370610\nPoints: 213\n# Comments: 1…",
+      "publishedAt": "2026-11-04T19:50:23.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-04T19:50:23.000Z"
     },
     {
       "source": "Wired",
@@ -366,17 +432,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-04T19:32:01.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increa…",
-      "publishedAt": "2026-11-04T19:30:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T19:30:04.000Z"
     },
     {
       "source": "Wired",
@@ -419,17 +474,6 @@
       "latestActivity": "2026-11-04T19:00:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Xbox previews two new ways to control cloud games",
-      "link": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
-      "summary": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previe…",
-      "publishedAt": "2026-11-04T19:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T19:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
@@ -441,17 +485,6 @@
       "latestActivity": "2026-11-04T18:50:55.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
-      "link": "https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/",
-      "summary": "This is potentially terrible news for those who love physical media.",
-      "publishedAt": "2026-11-04T18:39:08.000Z",
-      "image": "https://www.engadget.com/img/gallery/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/l-intro-1793817497.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T18:39:08.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
       "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
@@ -461,17 +494,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-04T18:21:40.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "People say they want small smartphones—the Enough Phone will put that to the test",
-      "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
-      "summary": "It won't win the specs race, but it will actually fit in your hand.",
-      "publishedAt": "2026-11-04T18:00:40.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T18:00:40.000Z"
     },
     {
       "source": "Engadget",
@@ -527,28 +549,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-04T17:01:10.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-      "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-      "publishedAt": "2026-11-04T16:06:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T16:06:03.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "What I learned driving the Slate electric truck prototype",
-      "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
-      "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
-      "publishedAt": "2026-11-04T15:42:18.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T15:42:18.000Z"
     },
     {
       "source": "MIT Technology Review",
