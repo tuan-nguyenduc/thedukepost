@@ -1,49 +1,181 @@
 {
-  "syncedAt": "2026-11-08T05:05:33.751Z",
+  "syncedAt": "2026-11-08T12:56:35.098Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
-      "link": "https://github.com/waywardgeek/ensemble",
-      "summary": "Article URL: https://github.com/waywardgeek/ensemble\nComments URL: https://news.ycombinator.com/item?id=50410279\nPoints: 3\n# Comments: 1",
-      "publishedAt": "2026-11-08T03:51:55.000Z",
-      "image": "https://opengraph.githubassets.com/6ac80d92fff31b19211936fd2c4f60324cbc760e4c4f578a4535957cc7fa9492/waywardgeek/ensemble",
+      "source": "Wired",
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "link": "https://www.wired.com/gallery/best-computer-speakers/",
+      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "image": "https://media.wired.com/photos/6a0c758a24b441c9e452886d/191:100/w_1280,c_limit/Best%20Computer%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-08T03:51:55.000Z"
+      "latestActivity": "2026-11-08T12:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aee77f4ece1c19963602401/191:100/w_1280,c_limit/gear-nyt-cooking-ai-assistant.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T12:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "link": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "summary": "More evidence that magnets are magical.",
+      "publishedAt": "2026-11-08T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/6aee3d12f8a94dfe58ce6d81/191:100/w_1280,c_limit/SM_MagneticCameraStrap30mm_WANDRD%20SOURCE%20Wandrd.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T11:30:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Goodbye Claude, Hello Pi",
-      "link": "https://caleb.software/posts/claude-to-pi.html",
-      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html\nComments URL: https://news.ycombinator.com/item?id=50410107\nPoints: 13\n# Comments: 9",
-      "publishedAt": "2026-11-08T03:11:48.000Z",
+      "title": "Person of Interest",
+      "link": "https://krthr.co/person-of-interest/",
+      "summary": "Article URL: https://krthr.co/person-of-interest/\nComments URL: https://news.ycombinator.com/item?id=50412318\nPoints: 80\n# Comments: 41",
+      "publishedAt": "2026-11-08T11:23:28.000Z",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/krthr/474167074_9348806235164701_1627609488563106497_n.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T11:23:28.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "link": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aee6acf106dc5c6dc0c08d0/191:100/w_1280,c_limit/gear-remind-boss-work-pto.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T11:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Petered (what happens after the Peter Principle)",
+      "link": "https://aworkinglibrary.com/writing/petered",
+      "summary": "Article URL: https://aworkinglibrary.com/writing/petered\nComments URL: https://news.ycombinator.com/item?id=50412152\nPoints: 43\n# Comments: 20",
+      "publishedAt": "2026-11-08T10:56:43.000Z",
+      "image": "/img/social-2026.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T10:56:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "link": "https://linebender.org/blog/jit-bitmap-text/",
+      "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/\nComments URL: https://news.ycombinator.com/item?id=50412072\nPoints: 19\n# Comments: 2",
+      "publishedAt": "2026-11-08T10:42:15.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-08T03:11:48.000Z"
+      "latestActivity": "2026-11-08T10:42:15.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "link": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "publishedAt": "2026-11-08T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6aece5642b09aa917f933765/191:100/w_1280,c_limit/GrahamConjecture-crIrenePe%CC%81rez-Lede.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T10:30:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Consumer brain wave headsets threaten privacy",
-      "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F\nCommen…",
-      "publishedAt": "2026-11-08T02:02:38.000Z",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "link": "https://github.com/synchopate/llama-modchip",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip\nComments URL: https://news.ycombinator.com/item?id=50411961\nPoints: 24\n# Comments: 10",
+      "publishedAt": "2026-11-08T10:22:04.000Z",
+      "image": "https://opengraph.githubassets.com/712a44131accb2c616a0fd9702e27818d41bce719c3163631534457d92f29386/synchopate/llama-modchip",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T10:22:04.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "link": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aee72371d8c716d0f5e527c/191:100/w_1280,c_limit/The-Best-Touchscreen-Gloves.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "link": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aee76034438325af23766b8/191:100/w_1280,c_limit/macbook-pro-m5-top-2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T10:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aee7497bf81da8802edc3e6/191:100/w_1280,c_limit/gear-ai-world-models-3d.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "summary": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format\nComments URL: https://news.ycombinator.com/item?id=50411467\nPoints: 68\n# Comments: 64",
+      "publishedAt": "2026-11-08T08:40:23.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-08T02:02:38.000Z"
+      "latestActivity": "2026-11-08T08:40:23.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-      "link": "https://github.com/crmne/zapfast",
-      "summary": "Article URL: https://github.com/crmne/zapfast\nComments URL: https://news.ycombinator.com/item?id=50409855\nPoints: 21\n# Comments: 8",
-      "publishedAt": "2026-11-08T02:02:27.000Z",
-      "image": "https://repository-images.githubusercontent.com/1350713137/51d132b5-ac5f-4382-ad0a-2720c41f2a60",
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "link": "https://github.com/graealex/WaveDudeNext",
+      "summary": "Article URL: https://github.com/graealex/WaveDudeNext\nComments URL: https://news.ycombinator.com/item?id=50411083\nPoints: 26\n# Comments: 4",
+      "publishedAt": "2026-11-08T07:09:02.000Z",
+      "image": "https://opengraph.githubassets.com/43c6cc580b17e2a2d65dc09be64e57642027e129db9d1ef01b40f4ad89ee1b49/graealex/WaveDudeNext",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-08T02:02:27.000Z"
+      "latestActivity": "2026-11-08T07:09:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html\nComments URL: https://news.ycombinator.com/item?id=50410359\nPoints: 55\n# Comments: 14",
+      "publishedAt": "2026-11-08T04:14:12.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T04:14:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "link": "https://github.com/dmunozv04/isponsorblocktv",
+      "summary": "Article URL: https://github.com/dmunozv04/isponsorblocktv\nComments URL: https://news.ycombinator.com/item?id=50410249\nPoints: 61\n# Comments: 13",
+      "publishedAt": "2026-11-08T03:47:19.000Z",
+      "image": "https://opengraph.githubassets.com/77a198aba4e93660b7b64955343210eb1603ef4a05f0aa66a1b2373e4c9ea7e1/dmunozv04/iSponsorBlockTV",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-08T03:47:19.000Z"
     },
     {
       "source": "Engadget",
@@ -132,50 +264,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-07T23:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Commodore PET – The Worlds First Personal Computer",
-      "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/\nComments URL: https://news.ycombinator.com/item?id=50408961\nPoints: 33\n#…",
-      "publishedAt": "2026-11-07T23:15:34.000Z",
-      "image": "https://i0.wp.com/www.commodore.ca/wp-content/uploads/2013/04/first-commodore-pet-2001_display-1977.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T23:15:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitHub New pull request overview page in public preview",
-      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\nComments URL: https://news.ycombinator.com/item?id=50408931\nPoints: 100\n# Co…",
-      "publishedAt": "2026-11-07T23:09:40.000Z",
-      "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T23:09:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "IRA Velinsky – Commodore's Industrial Designer",
-      "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/\nComments URL: https://news.ycombinator.com/item?id=50408750\nPoints: 24…",
-      "publishedAt": "2026-11-07T22:45:39.000Z",
-      "image": "https://i0.wp.com/www.commodore.ca/wp-content/uploads/2026/04/Ira-Velinsky-Commodore-Computer-Industrial-Designer-Gets-Credit-For-New-NYC-Bus-Stop-Signage-in-1974.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T22:45:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Making any integer with four 2s (2025)",
-      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/\nComments URL: https://news.ycombinator.com/item?id=50408713\nPoints: 84\n# Comments: 24",
-      "publishedAt": "2026-11-07T22:38:58.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T22:38:58.000Z"
     },
     {
       "source": "TechCrunch",
@@ -321,17 +409,6 @@
       "latestActivity": "2026-11-07T13:49:01.000Z"
     },
     {
-      "source": "Wired",
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devic…",
-      "publishedAt": "2026-11-07T13:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aecfb7f2e9dbd5be69b280e/191:100/w_1280,c_limit/KernelPanic_10312026_v1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T13:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
       "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
@@ -343,50 +420,6 @@
       "latestActivity": "2026-11-07T12:15:55.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "link": "https://www.wired.com/gallery/best-wifi-routers/",
-      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
-      "publishedAt": "2026-11-07T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae7c95facba2861e5fb22fa/191:100/w_1280,c_limit/Best%20Routers%20112026%20top%20art%20SOURCE%20Amazon.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T12:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
-      "publishedAt": "2026-11-07T11:45:00.000Z",
-      "image": "https://media.wired.com/photos/6aee6de94daae82016170876/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-Headphone-Deals.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T11:45:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
-      "publishedAt": "2026-11-07T11:37:00.000Z",
-      "image": "https://media.wired.com/photos/6a8007d2a5a41ea93847b302/191:100/w_1280,c_limit/I-Tested-the-Best-Cat-Water-Fountains%E2%80%94These-Are-Worth-Buying.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T11:37:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "This Totally Free App Can Free Up Space on Your Mac",
-      "link": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-      "summary": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
-      "publishedAt": "2026-11-07T11:15:00.000Z",
-      "image": "https://media.wired.com/photos/69acccf77f50a7b6628a7193/191:100/w_1280,c_limit/macbook-neo-07.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T11:15:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
       "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
@@ -396,39 +429,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-07T11:00:34.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
-      "link": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
-      "summary": "Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aee7389276d9711716c9d08/191:100/w_1280,c_limit/My-Favorite-GoRuck-Packs-and-Weighted-Vests-Are-on-Sale-for-Black-Friday.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aed04343576db1689ab3d03/191:100/w_1280,c_limit/Caregiving%20app.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-      "link": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
-      "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6aee6950f3308d4d3049680f/191:100/w_1280,c_limit/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T11:00:00.000Z"
     },
     {
       "source": "TechCrunch",
