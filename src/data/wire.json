@@ -1,137 +1,56 @@
 {
-  "syncedAt": "2026-11-09T15:34:14.929Z",
+  "syncedAt": "2026-11-09T23:59:38.559Z",
   "items": [
     {
-      "source": "TechCrunch",
-      "title": "Meta expands Instagram’s AI age-guessing tech globally",
-      "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-      "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
-      "publishedAt": "2026-11-09T15:32:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:32:27.000Z"
+      "source": "Hacker News",
+      "title": "Jensen Huang Scandal Sparks Speculation–Jensen's Wife Could Get Half",
+      "link": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/",
+      "summary": "Article URL: https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/\nComments…",
+      "publishedAt": "2026-11-09T22:50:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "What could China get from Jensen Huang?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+          "publishedAt": "2026-11-09T23:51:58.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-09T23:51:58.000Z"
     },
     {
       "source": "The Verge",
-      "title": "Hold up — I had a great time talking to the RIAA guy",
-      "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA.\nThis conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA…",
-      "publishedAt": "2026-11-09T15:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "Jensen Huang and President Trump. | Getty Images\t\n\nPresident Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia…",
+      "publishedAt": "2026-11-09T23:47:46.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-09T15:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-      "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-      "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
-      "publishedAt": "2026-11-09T15:24:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:24:59.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Medium is launching a new note-taking app called TK",
-      "link": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
-      "summary": "Think of TK as Google Docs meets group chats, meets blogging. | Image: David Pierce / The Verge\t\n\nFor the first time ever, Medium is becoming more than just a blogging platform. Th…",
-      "publishedAt": "2026-11-09T15:04:45.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/TK-hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:04:45.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "How to shop like a pro during Black Friday and Cyber Monday",
-      "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
-      "summary": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year.…",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_shopping2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Here are the price-matching policies for Best Buy, Walmart, and others",
-      "link": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
-      "summary": "Nothing is more frustrating than buying a new pair of headphones or an OLED TV, only to find out you could have gotten it cheaper somewhere else a few days or weeks later. That’s w…",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Here’s when the Black Friday sales start at Walmart, Target, and other retailers",
-      "link": "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores",
-      "summary": "Black Friday officially kicks off on November 27th, but if you plan to make that the only day you buy gifts this holiday season, you’re missing out. Several prominent retailers, in…",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_BF2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Here are the shipping and return policies for all the big-name retailers",
-      "link": "https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon",
-      "summary": "With the holidays quickly approaching, everyone will soon be on the hunt for gifts and the fastest way to get them. Thankfully, many retailers offer generous shipping policies, wit…",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/12/Amazon-warehouse.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "We’re giving away a bag filled with almost $900 worth of tech for Black Friday",
-      "link": "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes",
-      "summary": "As we inch toward the gift-giving season, which officially kicks off with Black Friday, we thought it’d be the perfect time for another giveaway. As with previous sweepstakes, we r…",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/alignedgiveawaybag.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Verge’s guide to Black Friday 2026",
-      "link": "https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026",
-      "summary": "Whether you’re hoping to finally upgrade your TV or simply get a head start on your holiday shopping, Black Friday still offers one of the best opportunities to save on the gadgets…",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_Black_Friday__Cyber_Monday_Content_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T15:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "This prototype camera is fighting the good fight against AI photography",
-      "link": "https://www.engadget.com/2307723/caim-1-camera-fighting-against-ai-photography/",
-      "summary": "To push back against an onslaught of deep fakes, this camera embeds cryptographic proof of every photo's origin. Think of it like a silicon fingerprint.",
-      "publishedAt": "2026-11-09T14:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/l-intro-1793382637.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T14:45:00.000Z"
+      "latestActivity": "2026-11-09T23:47:46.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Zebkit – Chromium as an embeddable library",
-      "link": "https://github.com/ikey4u/zebkit",
-      "summary": "Article URL: https://github.com/ikey4u/zebkit\nComments URL: https://news.ycombinator.com/item?id=50426207\nPoints: 28\n# Comments: 14",
-      "publishedAt": "2026-11-09T14:34:00.000Z",
-      "image": "https://opengraph.githubassets.com/ff4d877ba35f75e472a9015137e19d0388b830f605e2d5c5411af71d9fe55253/ikey4u/zebkit",
+      "title": "Tracking the Harm of DOGE Cuts",
+      "link": "https://www.clasp.org/doge-tracker/",
+      "summary": "Article URL: https://www.clasp.org/doge-tracker/\nComments URL: https://news.ycombinator.com/item?id=50433978\nPoints: 23\n# Comments: 0",
+      "publishedAt": "2026-11-09T23:40:54.000Z",
+      "image": "https://www.clasp.org/wp-content/uploads/2025/04/doge-tracker_screen.png",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-09T14:34:00.000Z"
+      "latestActivity": "2026-11-09T23:40:54.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why you probably shouldn't buy gadgets with micro USB ports",
+      "link": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
+      "summary": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.",
+      "publishedAt": "2026-11-09T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports/l-intro-1793654155.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T23:30:00.000Z"
     },
     {
       "source": "Wired",
@@ -140,97 +59,443 @@
       "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
       "publishedAt": "2026-11-09T14:30:56.000Z",
       "image": "https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/191:100/w_1280,c_limit/Jensen%20Huang.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T14:30:56.000Z"
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+          "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+          "publishedAt": "2026-11-09T23:28:37.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-09T23:28:37.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Military radar can make your router switch Wi-Fi channels - here's why",
-      "link": "https://www.engadget.com/2307712/military-radar-makes-your-router-change-wifi-channels/",
-      "summary": "Annoying as it may be, there's a good reason why internet routers around the world give the right of way to certain types of radar.",
-      "publishedAt": "2026-11-09T14:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/military-radar-can-make-your-router-switch-wi-fi-channels-heres-why/l-intro-1793636805.jpg",
+      "source": "The Verge",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions world…",
+      "publishedAt": "2026-11-09T23:07:59.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-09T14:15:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-      "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-      "summary": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
-      "publishedAt": "2026-11-09T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Drops-app.png?w=1200",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T14:00:00.000Z"
+      "latestActivity": "2026-11-09T23:07:59.000Z"
     },
     {
       "source": "TechCrunch",
-      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
-      "publishedAt": "2026-11-09T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Spacefast-feat.jpg?resize=1200,675",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any pas…",
+      "publishedAt": "2026-11-09T23:03:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/wyndham-967205948.jpg?resize=1200,843",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-09T14:00:00.000Z"
+      "latestActivity": "2026-11-09T23:03:46.000Z"
     },
     {
       "source": "Engadget",
-      "title": "What hardware does your PC need to run a local AI model?",
-      "link": "https://www.engadget.com/2307701/pc-hardware-needed-run-local-ai-model/",
-      "summary": "The kind of AI models you can run depends on your machine's power. Let's unpack what your everyday PC will need, and how much it will cost you.",
-      "publishedAt": "2026-11-09T13:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-hardware-does-your-pc-need-to-run-a-local-ai-model/l-intro-1793763392.jpg",
+      "title": "The pros and cons of using mesh Wi-Fi",
+      "link": "https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons/",
+      "summary": "Should you buy a mesh Wi-Fi system or a standalone router? Learn how each handles range, roaming, and cost, and which one fits your home best.",
+      "publishedAt": "2026-11-09T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-mesh-wi-fi/l-intro-1793389440.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-09T13:45:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-      "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-      "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
-      "publishedAt": "2026-11-09T13:43:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T13:43:28.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Coinbase receives approval to become a chartered trust bank",
-      "link": "https://www.engadget.com/2310531/coinbase-receives-approval-to-become-a-chartered-trust-bank/",
-      "summary": "Coinbase has received approval from the US Office of the Comptroller of Currency to become a nationally chartered trust bank.",
-      "publishedAt": "2026-11-09T13:40:54.000Z",
-      "image": "https://www.engadget.com/img/gallery/coinbase-receives-approval-to-become-a-chartered-trust-bank/l-intro-1794231576.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T13:40:54.000Z"
+      "latestActivity": "2026-11-09T23:00:00.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Children of Men: The Future Is a Mirror for the Present",
-      "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
-      "summary": "Article URL: https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/\nComments URL: https://news.ycombinator.com/item?id=50425303\nPoints: 65\n# Comments: 48",
-      "publishedAt": "2026-11-09T13:27:01.000Z",
-      "image": "https://reactormag.com/wp-content/uploads/2026/10/children-of-men-header.png",
+      "title": "Exact – a new cross platform UI framework by the Expo team",
+      "link": "https://github.com/expo/exact",
+      "summary": "Article URL: https://github.com/expo/exact\nComments URL: https://news.ycombinator.com/item?id=50433541\nPoints: 6\n# Comments: 0",
+      "publishedAt": "2026-11-09T22:59:13.000Z",
+      "image": "https://opengraph.githubassets.com/6da67d92319b0dbe51a8e677e3bfed8c8ffa227871f5e9d0f50ba88d9bf8ec74/expo/exact",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-09T13:27:01.000Z"
+      "latestActivity": "2026-11-09T22:59:13.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "publishedAt": "2026-11-09T22:46:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T22:46:09.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
+      "link": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+      "publishedAt": "2026-11-09T22:40:10.000Z",
+      "image": "https://media.wired.com/photos/6af23b015b42cb1a21fe56e5/191:100/w_1280,c_limit/Waymo-Said-It-Fixed-School-Bus-Problem-Gear-2220531171.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T22:40:10.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the compa…",
+      "publishedAt": "2026-11-09T22:23:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T22:23:42.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Home Depot Best Early Black Friday Deals (2026)",
+      "link": "https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/",
+      "summary": "If you’re looking for a new appliance or vacuum, Home Depot’s sale is one you don’t want to miss.",
+      "publishedAt": "2026-11-09T22:15:00.000Z",
+      "image": "https://media.wired.com/photos/6af24323a64aa182bab7b6c8/191:100/w_1280,c_limit/The-Best-Deals-to-Shop-During-The-Home-Depot%E2%80%99s-Early-Black-Friday-Sale.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T22:15:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "These WIRED-Tested Standing Desks Are Already on Sale for Black Friday",
+      "link": "https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26/",
+      "summary": "Upgrade your workspace with discounts on WIRED-tested desks from Branch, Vari, FlexiSpot, and Uplift—plus a walking pad to keep things moving.",
+      "publishedAt": "2026-11-09T22:00:00.000Z",
+      "image": "https://media.wired.com/photos/6af23df6e40bff41e001e2c8/191:100/w_1280,c_limit/frames8-solid.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T22:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "TPUs",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\nComments URL: https://news.ycombinator.com/item?id=50432831\nPoints: 1…",
+      "publishedAt": "2026-11-09T21:56:57.000Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.width-1300.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T21:56:57.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "publishedAt": "2026-11-09T21:55:35.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T21:55:35.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th wi…",
+      "publishedAt": "2026-11-09T21:43:41.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/msi-mag-272qp-x24-product.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T21:43:41.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "publishedAt": "2026-11-09T21:13:39.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T21:13:39.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "summary": "Murat Kurum (left), Turkey’s minister of Environment, Urbanisation and Climate Change; and Chris Bowen, Australia's minister for Climate Change and Energy, raise their hands togeth…",
+      "publishedAt": "2026-11-09T21:13:16.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303840643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T21:13:16.000Z"
     },
     {
       "source": "Engadget",
-      "title": "How to tell if your phone supports eSIM",
-      "link": "https://www.engadget.com/2306210/how-to-check-esim-compatibility-phone/",
-      "summary": "An eSIM can save you money on international trips if your phone supports it. See how to check eSIM compatibility on iPhone and Android in a few steps.",
-      "publishedAt": "2026-11-09T13:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-tell-if-your-phone-supports-esim/l-intro-1793730307.jpg",
+      "title": "YouTube will once again be part of Billboard chart calculations in 2027",
+      "link": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
+      "summary": "Billboard will give more weight to free, ad-supported listening in its methodology.",
+      "publishedAt": "2026-11-09T21:09:51.000Z",
+      "image": "https://www.engadget.com/img/gallery/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/l-intro-1794258544.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-09T13:15:00.000Z"
+      "latestActivity": "2026-11-09T21:09:51.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "5 Nintendo Switch 2 features everyone should know about",
+      "link": "https://www.engadget.com/2307744/nintendo-switch-2-features-everyone-should-know/",
+      "summary": "From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features.",
+      "publishedAt": "2026-11-09T21:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/5-nintendo-switch-2-features-everyone-should-know-about/l-intro-1793628827.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T21:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usa…",
+      "publishedAt": "2026-11-09T19:09:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+          "link": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+          "publishedAt": "2026-11-09T20:56:51.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-09T20:56:51.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "publishedAt": "2026-11-09T20:55:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T20:55:34.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "publishedAt": "2026-11-09T20:49:09.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T20:49:09.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The 9 Best TV Shows to Stream This Month (November 2026)",
+      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "summary": "Black Doves, The Lord of the Rings: The Rings of Power, and Blade Runner 2099 are just a few of the shows you should be watching right now.",
+      "publishedAt": "2026-11-09T20:47:28.000Z",
+      "image": "https://media.wired.com/photos/6af20c07edee43782ec1ab6a/191:100/w_1280,c_limit/Show-Guide-Blade-Runner-2099-TCDBLRU_ZU006.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T20:47:28.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "publishedAt": "2026-11-09T20:09:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T20:09:06.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the…",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+          "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+          "publishedAt": "2026-11-09T19:24:51.000Z"
+        },
+        {
+          "source": "Hacker News",
+          "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "publishedAt": "2026-11-09T20:04:55.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-09T20:04:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "link": "https://postalpro.usps.com/zcb",
+      "summary": "Article URL: https://postalpro.usps.com/zcb\nComments URL: https://news.ycombinator.com/item?id=50431058\nPoints: 374\n# Comments: 187",
+      "publishedAt": "2026-11-09T19:58:59.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:58:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "link": "https://parkgraph.com/parking-app-fees",
+      "summary": "Article URL: https://parkgraph.com/parking-app-fees\nComments URL: https://news.ycombinator.com/item?id=50430991\nPoints: 43\n# Comments: 19",
+      "publishedAt": "2026-11-09T19:55:53.000Z",
+      "image": "https://parkgraph.com/og?title=Parking+App+Fees+by+City%3A+What+Pay-by-Phone+Apps+Charge",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:55:53.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up",
+      "link": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
+      "summary": "There's a checkbox that simply turns it off.",
+      "publishedAt": "2026-11-09T19:42:47.000Z",
+      "image": "https://www.engadget.com/img/gallery/windows-11-is-finally-adding-an-easier-way-to-disable-the-sticky-keys-pop-up/l-intro-1794253296.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:42:47.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "publishedAt": "2026-11-09T19:41:34.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:41:34.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "publishedAt": "2026-11-09T19:39:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:39:41.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US…",
+      "publishedAt": "2026-11-09T19:35:33.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:35:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "CUI – Native UI components for C",
+      "link": "https://yappologistic.github.io/CUI/",
+      "summary": "Article URL: https://yappologistic.github.io/CUI/\nComments URL: https://news.ycombinator.com/item?id=50430621\nPoints: 133\n# Comments: 71",
+      "publishedAt": "2026-11-09T19:35:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:35:16.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use your iPhone to take the best picture of the Moon",
+      "link": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
+      "summary": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model.",
+      "publishedAt": "2026-11-09T19:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-your-iphone-to-take-the-best-picture-of-the-moon/l-intro-1793619969.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:30:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+      "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+      "publishedAt": "2026-11-09T19:08:37.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:08:37.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Gmail users should know about this little-noticed feature",
+      "link": "https://www.engadget.com/2307742/gmail-unsend-feature/",
+      "summary": "Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it.",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/gmail-users-should-know-about-this-little-noticed-feature/l-intro-1793819117.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "link": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newe…",
+      "publishedAt": "2026-11-09T18:35:25.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xbox-game-pass-ultimate-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T18:35:25.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "publishedAt": "2026-11-09T17:24:26.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T17:24:26.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the…",
+      "publishedAt": "2026-11-09T17:05:43.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303769670.jpg?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T17:05:43.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+      "publishedAt": "2026-11-09T15:39:21.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-1152x648.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T15:39:21.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "publishedAt": "2026-11-09T15:23:20.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-09T15:23:20.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -244,17 +509,6 @@
       "latestActivity": "2026-11-09T13:15:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Nacon Revolution 5 Unlimited controller review: More customization than I can handle",
-      "link": "https://www.engadget.com/2308886/nacon-revolution-5-unlimited-controller-review/",
-      "summary": "Nacon's new controller aims to rival Sony's own DualSense Edge.",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/nacons-revolution-5-unlimited-controller-review-more-customization-than-i-can-handle/l-intro-1793967751.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T13:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Innovating with AI in the special chemicals industry",
       "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -264,39 +518,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-09T13:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Humans will never again create a project like Wikipedia",
-      "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-      "summary": "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia\nComments URL: https://news.ycombinator.com/item?id=50424704…",
-      "publishedAt": "2026-11-09T12:30:20.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T12:30:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fold Epic Paper Airplanes",
-      "link": "https://www.foldableflight.com",
-      "summary": "Article URL: https://www.foldableflight.com\nComments URL: https://news.ycombinator.com/item?id=50424581\nPoints: 293\n# Comments: 59",
-      "publishedAt": "2026-11-09T12:19:22.000Z",
-      "image": "https://static.wixstatic.com/media/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg/v1/fit/w_2500,h_1330,al_c/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T12:19:22.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
-      "link": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
-      "summary": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
-      "publishedAt": "2026-11-09T12:00:05.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2219660369-1152x648-1793989587.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T12:00:05.000Z"
     },
     {
       "source": "Wired",
@@ -321,28 +542,6 @@
       "latestActivity": "2026-11-09T12:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "What is malloc doing, anyway?",
-      "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-      "summary": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway\nComments URL: https://news.ycombinator.com/item?id=50424157\nPoints: 78\n# Comments: 15",
-      "publishedAt": "2026-11-09T11:31:05.000Z",
-      "image": "https://benmandrew.com/assets/headers/malloc-card.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T11:31:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Tesla expands robotaxi service to San Antonio",
-      "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-      "summary": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
-      "publishedAt": "2026-11-09T11:30:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T11:30:24.000Z"
-    },
-    {
       "source": "Wired",
       "title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
       "link": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
@@ -354,61 +553,6 @@
       "latestActivity": "2026-11-09T11:30:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Scientists May Have Discovered a Massive Starless Galaxy",
-      "link": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
-      "summary": "The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronome…",
-      "publishedAt": "2026-11-09T11:15:00.000Z",
-      "image": "https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/191:100/w_1280,c_limit/103016-Starless%20Galaxy.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T11:15:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
-      "link": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
-      "summary": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
-      "publishedAt": "2026-11-09T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/191:100/w_1280,c_limit/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "publishedAt": "2026-11-09T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
-      "link": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-      "summary": "The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.",
-      "publishedAt": "2026-11-09T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/191:100/w_1280,c_limit/Soft-robot-arm_3.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T10:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
-      "link": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-      "summary": "Article URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/\nComments URL: https://news.ycombinator.com/item?id=50423569\nPoints: 74\n# Comments: 9",
-      "publishedAt": "2026-11-09T10:11:47.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T10:11:47.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The climate case for AI has not been made",
       "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
@@ -418,149 +562,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-09T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
-      "link": "https://leosmith.wtf/blog/not-so-secure-boot.html",
-      "summary": "Article URL: https://leosmith.wtf/blog/not-so-secure-boot.html\nComments URL: https://news.ycombinator.com/item?id=50423151\nPoints: 24\n# Comments: 6",
-      "publishedAt": "2026-11-09T09:22:30.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T09:22:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "link": "https://news.ycombinator.com/item?id=50422628",
-      "summary": "The agent running on a remote machine can authenticate using your local SSH credentials.\nThat means it can push to your private repos on GitHub, for example.\nProof: https://github.…",
-      "publishedAt": "2026-11-09T08:17:49.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T08:17:49.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays o…",
-      "publishedAt": "2026-11-09T05:26:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T05:26:29.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to use your laptop as a second monitor",
-      "link": "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/",
-      "summary": "If you have an extra laptop lying around, you can connect it to your primary laptop with a wireless or wired connection for a free dual monitor set up.",
-      "publishedAt": "2026-11-09T01:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-your-laptop-as-a-second-monitor/l-intro-1793914883.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T01:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why your USB device isn't showing up on your MacBook and how you can fix it",
-      "link": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
-      "summary": "If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems.",
-      "publishedAt": "2026-11-09T01:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it/l-intro-1793975296.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-09T01:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
-      "publishedAt": "2026-11-08T22:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2149461717.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-08T22:00:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-      "publishedAt": "2026-11-08T12:15:31.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-08T12:15:31.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-      "publishedAt": "2026-11-07T12:15:55.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T12:15:55.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-      "publishedAt": "2026-11-07T11:00:34.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-07T11:00:34.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-      "summary": "It's the exact path, not the apparent severity, that matters most, doctors say.",
-      "publishedAt": "2026-11-06T23:09:45.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-06T23:09:45.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
-      "publishedAt": "2026-11-06T22:41:37.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-06T22:41:37.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-      "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
-      "publishedAt": "2026-11-06T22:08:47.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-06T22:08:47.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "publishedAt": "2026-11-06T20:56:41.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-06T20:56:41.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -594,28 +595,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-05T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "A new bill could change how the US builds energy infrastructure ",
-      "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterm…",
-      "publishedAt": "2026-11-05T10:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/baaja-energy.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-05T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that…",
-      "publishedAt": "2026-11-04T18:50:55.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-04T18:50:55.000Z"
     }
   ]
 }
