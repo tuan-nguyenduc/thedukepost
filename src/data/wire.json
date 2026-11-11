@@ -1,38 +1,331 @@
 {
-  "syncedAt": "2026-11-11T05:16:49.753Z",
+  "syncedAt": "2026-11-11T13:46:23.039Z",
   "items": [
     {
-      "source": "Hacker News",
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/\nComments URL: https://news.ycombinator.com/item?id=50449748\nPoints: 22\n# Comments: 5",
-      "publishedAt": "2026-11-11T04:28:57.000Z",
-      "image": "https://gatezh.com/brand/share.381cc582d58a3410686473b92c1d944fbc83dc59a7e926952aeb6c5c0d8a6ef0.png",
+      "source": "Wired",
+      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "link": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "summary": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling ‘dark patterns’ on platforms…",
+      "publishedAt": "2026-11-11T13:36:15.000Z",
+      "image": "https://media.wired.com/photos/6af4622d73ea7580c39d1fd2/191:100/w_1280,c_limit/111126-Duolingo%20EU_.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-11T04:28:57.000Z"
+      "latestActivity": "2026-11-11T13:36:15.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Streaming is still trying to be TikTok",
+      "link": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+      "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was comp…",
+      "publishedAt": "2026-11-11T13:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T13:30:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind…",
+      "publishedAt": "2026-11-11T13:10:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/10/GettyImages-82110531_1.jpg?fit=2880,1920",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T13:10:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - an…",
+      "publishedAt": "2026-11-11T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Not everyone is loving their new iPhone Duo",
+      "link": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+      "summary": "An open-and-shut case.\t\n\nFor most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You pr…",
+      "publishedAt": "2026-11-11T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T13:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
+      "link": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
+      "summary": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
+      "publishedAt": "2026-11-11T12:59:44.000Z",
+      "image": "https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T12:59:44.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "publishedAt": "2026-11-10T21:12:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+          "link": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+          "publishedAt": "2026-11-11T12:35:10.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-11T12:35:10.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "summary": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna\nComments URL: https://news.ycombinator.com/item?id=50449275\nPoi…",
-      "publishedAt": "2026-11-11T02:57:08.000Z",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "link": "https://nathan.rs/posts/weight-space-lp/",
+      "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/\nComments URL: https://news.ycombinator.com/item?id=50452655\nPoints: 43\n# Comments: 6",
+      "publishedAt": "2026-11-11T12:30:17.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-11T02:57:08.000Z"
+      "latestActivity": "2026-11-11T12:30:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "summary": "A delivery robot rolls down a pedestrian walkway in Miami. | Photo: Universal Images Group via Getty Images\t\n\nServe Robotics is opening up its platform to make its autonomous last-…",
+      "publishedAt": "2026-11-11T12:30:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T12:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Indoor Garden Systems I’ve Been Testing for Years (2026)",
+      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.",
+      "publishedAt": "2026-11-11T12:30:00.000Z",
+      "image": "https://media.wired.com/photos/6af3b839d02b1fb5dccbbc7d/191:100/w_1280,c_limit/I-Tried-20-of-the-Most-Popular-Indoor-Gardening-Systems.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T12:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple is killing its Support Community forum next week",
+      "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about…",
+      "publishedAt": "2026-11-11T12:19:10.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T12:19:10.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "A great old-timey game-programming hack (2013)",
-      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html\nComments URL: https://news.ycombinator.com/item?id=50448921\nPoints: 74\n# Comments:…",
-      "publishedAt": "2026-11-11T01:56:31.000Z",
+      "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "link": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "summary": "Article URL: http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html\nComments URL: https://news.ycombinator.com/item?id=50452496\nPoints: 16\n# Commen…",
+      "publishedAt": "2026-11-11T12:09:49.000Z",
       "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-11T01:56:31.000Z"
+      "latestActivity": "2026-11-11T12:09:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "link": "https://pietromiotti.com/latest/maya-site/?maya",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya\nComments URL: https://news.ycombinator.com/item?id=50452455\nPoints: 170\n# Comments: 69",
+      "publishedAt": "2026-11-11T12:05:22.000Z",
+      "image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T12:05:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "link": "https://news.ycombinator.com/item?id=50452404",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50452404\nPoints: 0\n# Comments: 0",
+      "publishedAt": "2026-11-11T12:00:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T12:00:35.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
+      "link": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
+      "summary": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "image": "https://media.wired.com/photos/6ae9b7ae1f18bdac7b5ae8bf/191:100/w_1280,c_limit/Samsung%20SOURCE%20Julian%20Chokkattu.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring",
+      "link": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
+      "summary": "Like a budget-minded phoenix, the Bolt is back - but not for long.",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring/l-intro-1794352074.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Physically Controllable Relighting of Photographs",
+      "link": "https://yaksoy.github.io/PhysicalRelighting/",
+      "summary": "Article URL: https://yaksoy.github.io/PhysicalRelighting/\nComments URL: https://news.ycombinator.com/item?id=50452224\nPoints: 11\n# Comments: 1",
+      "publishedAt": "2026-11-11T11:38:43.000Z",
+      "image": "https://yaksoy.github.io/images/physicalRelightingTeaser.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T11:38:43.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
+      "link": "https://www.wired.com/story/best-oled-tv/",
+      "summary": "Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.",
+      "publishedAt": "2026-11-11T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/6af3b4b41bbf3e7f3fb9fb3a/191:100/w_1280,c_limit/The-Best-OLED-TVs-of-2026.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T11:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+      "link": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+      "summary": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their fr…",
+      "publishedAt": "2026-11-11T11:15:00.000Z",
+      "image": "https://media.wired.com/photos/6af3bec02dbfcb3b37437f4a/191:100/w_1280,c_limit/science_michigan_utilities_money_politics2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T11:15:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Housing Market Is Nuts",
+      "link": "https://nuts.logical.li/",
+      "summary": "Article URL: https://nuts.logical.li/\nComments URL: https://news.ycombinator.com/item?id=50451985\nPoints: 29\n# Comments: 26",
+      "publishedAt": "2026-11-11T11:02:46.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T11:02:46.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
+      "link": "https://www.wired.com/gallery/best-air-purifiers/",
+      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+      "publishedAt": "2026-11-11T11:02:00.000Z",
+      "image": "https://media.wired.com/photos/6af3adacbfc3066f2c783dc5/191:100/w_1280,c_limit/I-Filled-a-Tent-With-Smoke-to-Find-the-Best-Air-Purifiers.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T11:02:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "publishedAt": "2026-11-11T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/191:100/w_1280,c_limit/Gemini-AI-Coached-Teen-Suicide-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T11:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple is shutting down its online Support Community on November 20",
+      "link": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
+      "summary": "Apple's Support Community is permanently closing in a few days.",
+      "publishedAt": "2026-11-11T10:52:59.000Z",
+      "image": "https://www.engadget.com/img/gallery/apple-is-shutting-down-its-online-support-community-on-november-20/l-intro-1794394269.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T10:52:59.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "summary": "Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/\nComments URL: https://news.ycombinator.com/item?id=50451903\nPoints: 58\n# Comments: 18",
+      "publishedAt": "2026-11-11T10:48:40.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T10:48:40.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
+      "link": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
+      "summary": "Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.",
+      "publishedAt": "2026-11-11T10:30:00.000Z",
+      "image": "https://media.wired.com/photos/6ae0fe13b1846b1aa519246b/191:100/w_1280,c_limit/leadimagesize.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T10:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Lucid CEO says the company didn't know where its own cars were",
+      "link": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
+      "summary": "Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.",
+      "publishedAt": "2026-11-11T09:56:03.000Z",
+      "image": "https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T09:56:03.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "publishedAt": "2026-11-11T07:30:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T07:30:51.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Samsung Gallery now syncs with Google to back up your photos",
+      "link": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
+      "summary": "You can now sync your photos and videos on select Samsung devices to your Google account.",
+      "publishedAt": "2026-11-11T06:47:17.000Z",
+      "image": "https://www.engadget.com/img/gallery/samsung-gallery-now-syncs-with-google-to-back-up-your-photos/l-intro-1794379370.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T06:47:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "link": "https://github.com/gmkurtzer/ginux",
+      "summary": "Article URL: https://github.com/gmkurtzer/ginux\nComments URL: https://news.ycombinator.com/item?id=50450007\nPoints: 92\n# Comments: 48",
+      "publishedAt": "2026-11-11T05:25:54.000Z",
+      "image": "https://opengraph.githubassets.com/97e74389abecd0fdf3d4390606a334490c239e3431c5e3da9f35552b30c92f07/gmkurtzer/ginux",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-11T05:25:54.000Z"
     },
     {
       "source": "TechCrunch",
@@ -57,17 +350,6 @@
       "latestActivity": "2026-11-11T01:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "link": "https://tis-100.wincon.dev/",
-      "summary": "Article URL: https://tis-100.wincon.dev/\nComments URL: https://news.ycombinator.com/item?id=50448340\nPoints: 26\n# Comments: 3",
-      "publishedAt": "2026-11-11T00:37:05.000Z",
-      "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-11T00:37:05.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
       "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
@@ -90,50 +372,6 @@
       "latestActivity": "2026-11-11T00:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/\nComments URL: https://news.ycombinator.com/item…",
-      "publishedAt": "2026-11-11T00:15:33.000Z",
-      "image": "https://www.niemanlab.org/images/MarcinWilkowski-DatifiedRelations-better-images-of-ai.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-11T00:15:33.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-      "link": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
-      "summary": "The new laptop goes the extra mile to recreate the iconic feature.",
-      "publishedAt": "2026-11-11T00:03:54.000Z",
-      "image": "https://www.engadget.com/img/gallery/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/l-intro-1794354248.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-11T00:03:54.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to get this Siri camera upgrade for your iPad before its public release",
-      "link": "https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/",
-      "summary": "You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app.",
-      "publishedAt": "2026-11-11T00:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-this-siri-camera-upgrade-for-your-ipad-before-its-public-release/l-intro-1794345704.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
-      "link": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
-      "summary": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
-      "publishedAt": "2026-11-10T23:42:04.000Z",
-      "image": "https://www.engadget.com/img/gallery/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/l-intro-1794353889.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T23:42:04.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Seagate's new hybrid drive raises some old questions",
       "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
@@ -143,17 +381,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-10T23:30:56.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How SCSKiller is trying to fix shader stuttering in PC games",
-      "link": "https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games/",
-      "summary": "This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,",
-      "publishedAt": "2026-11-10T23:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-scskiller-is-trying-to-fix-shader-stuttering-in-pc-games/l-intro-1793806351.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T23:30:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -167,77 +394,15 @@
       "latestActivity": "2026-11-10T23:02:39.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
-      "link": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
-      "summary": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
-      "publishedAt": "2026-11-10T23:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/these-xiaomi-phones-are-no-longer-getting-support-with-octobers-hyperos-4-update/l-intro-1793733962.jpg",
+      "source": "Ars Technica",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "publishedAt": "2026-11-10T22:35:01.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-10T23:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Early Amazon Black Friday Deals (2026)",
-      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
-      "publishedAt": "2026-11-10T22:42:06.000Z",
-      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/191:100/w_1280,c_limit/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T22:42:06.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
-      "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
-      "summary": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
-      "publishedAt": "2026-11-10T13:30:00.000Z",
-      "image": "https://media.wired.com/photos/6af233321b32910f5c003593/191:100/w_1280,c_limit/Ring-Drone-Cam-Gear-DSC_0211.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-          "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-          "publishedAt": "2026-11-10T22:35:01.000Z"
-        }
-      ],
       "latestActivity": "2026-11-10T22:35:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update\nComments URL: https://news.ycombinator.com/item?id=50447074\nPoints: 359\n# Comments: 164",
-      "publishedAt": "2026-11-10T22:17:56.000Z",
-      "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T22:17:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "$30M Raised to Redo the CPU",
-      "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised\nComments URL: https://news.ycombinator.com/item?id=50447036\nPoints: 58\n# Comments: 42",
-      "publishedAt": "2026-11-10T22:14:03.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T22:14:03.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Meta warns some of its AI glasses may get 'too warm' if they get wet",
-      "link": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
-      "summary": "A software update will tell users if they're affected and direct them to Meta's customer support for a full replacement.",
-      "publishedAt": "2026-11-10T22:05:37.000Z",
-      "image": "https://www.engadget.com/img/gallery/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/l-intro-1794347917.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T22:05:37.000Z"
     },
     {
       "source": "The Verge",
@@ -280,17 +445,6 @@
       "latestActivity": "2026-11-10T21:40:31.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "publishedAt": "2026-11-10T21:12:59.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T21:12:59.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
@@ -300,28 +454,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-10T21:08:52.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sony cancels live-service shooter Fairgames",
-      "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but…",
-      "publishedAt": "2026-11-10T21:06:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T21:06:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Six Math Essentials",
-      "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html\nComments URL: https://news.ycombinator.com/item?id=50446246\nPoints: 184\n# Comments: 32",
-      "publishedAt": "2026-11-10T20:58:44.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T20:58:44.000Z"
     },
     {
       "source": "TechCrunch",
@@ -379,17 +511,6 @@
       "latestActivity": "2026-11-10T19:57:52.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The PlayStation Plus PC app is shutting down next month",
-      "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
-      "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers…",
-      "publishedAt": "2026-11-10T19:40:52.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T19:40:52.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Google Fi adds support for a second 5G network, won't say which one",
       "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
@@ -401,39 +522,6 @@
       "latestActivity": "2026-11-10T19:35:59.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Starlink Mini 2 adds a swappable battery",
-      "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop…",
-      "publishedAt": "2026-11-10T19:19:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/starlinkmini2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T19:19:12.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand techno…",
-      "publishedAt": "2026-11-10T19:04:05.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T19:04:05.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "publishedAt": "2026-11-10T19:03:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T19:03:52.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
       "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
@@ -443,72 +531,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-10T19:00:26.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google’s Pixel Tag tracker is now available",
-      "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the P…",
-      "publishedAt": "2026-11-10T19:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T19:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
-      "link": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
-      "summary": "MAGA failed because it didn’t go far enough, right-wing extremists say—and following devastating midterm losses, they see an opportunity to take over.",
-      "publishedAt": "2026-11-10T16:40:19.000Z",
-      "image": "https://media.wired.com/photos/6af27c52c8e55d123d396247/191:100/w_1280,c_limit/White-Supremacists-Extremists-Finally-Get-Election-Results-Politics.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T16:40:19.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
-      "link": "https://www.wired.com/story/our-place-sale-november-2026/",
-      "summary": "Get up to 30 percent off and save an extra $60 on orders over $100.",
-      "publishedAt": "2026-11-10T15:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af28b8914dbf9f3787139d3/191:100/w_1280,c_limit/our-place-deals-post-.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T15:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-      "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
-      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af293932a1c39196b9b1e9d/191:100/w_1280,c_limit/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "4DX Movies Are Entering Their Thirsty Romance Era",
-      "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
-      "summary": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af2567ae8695dca9334016b/191:100/w_1280,c_limit/4DX-is-For-Horny-Girlies-Now-Culture.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/191:100/w_1280,c_limit/gear_ai_operating_system_nerdy.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T14:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -531,17 +553,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-10T13:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
-      "link": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
-      "summary": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
-      "publishedAt": "2026-11-10T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af25cdd5a9cd51895c4c0b7/191:100/w_1280,c_limit/Grindr-1-Percent-Getting-Their-Own-Gated-Community-Culture-2281609113.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T12:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -597,17 +608,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-09T10:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartm…",
-      "publishedAt": "2026-11-06T13:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/2026_BA_Reno_15.jpg?w=840",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-06T13:10:00.000Z"
     }
   ]
 }
