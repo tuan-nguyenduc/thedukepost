@@ -1,27 +1,214 @@
 {
-  "syncedAt": "2026-11-14T22:05:29.042Z",
+  "syncedAt": "2026-11-15T05:29:12.217Z",
   "items": [
     {
-      "source": "Engadget",
-      "title": "Honor Magic8 Pro vs. Magic9 Pro Max: What's been upgraded?",
-      "link": "https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison/",
-      "summary": "This Pro upgrade is messier than the typical year-over-year refresh, but the new flagship does give us a pretty good idea of where Honor put its priorities.",
-      "publishedAt": "2026-11-14T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/honor-magic8-pro-vs-magic9-pro-max-whats-been-upgraded/l-intro-1793827245.jpg",
+      "source": "Hacker News",
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "link": "https://github.com/matheuzgomes/gawain",
+      "summary": "Yes, i really hate \"dict[str, ANY]\"\nComments URL: https://news.ycombinator.com/item?id=50504072\nPoints: 14\n# Comments: 1",
+      "publishedAt": "2026-11-15T04:39:25.000Z",
+      "image": "https://opengraph.githubassets.com/823b8fe88cb2efe9c01b722e8a9f91f3108730406ad94f17dfe3c488a0e7f291/matheuzgomes/gawain",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-14T22:00:00.000Z"
+      "latestActivity": "2026-11-15T04:39:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp\nComments URL: https://news.ycombinator.com/item?id=50503930\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-11-15T04:09:11.000Z",
+      "image": "https://opengraph.githubassets.com/18d1a0e93e42ddb8b2ca46aff4c51b35ef39840cb09444d9aaca86e156273e45/Tthanh2k6/turbo-browser-mcp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T04:09:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Osint Case Studies",
+      "link": "https://osintsearch.org/blog/osint-case-studies",
+      "summary": "Article URL: https://osintsearch.org/blog/osint-case-studies\nComments URL: https://news.ycombinator.com/item?id=50503731\nPoints: 10\n# Comments: 1",
+      "publishedAt": "2026-11-15T03:33:41.000Z",
+      "image": "https://cdn.osintsearch.org/blog/osint-osint-case-studies-2026-09-23-b37518eb5418.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T03:33:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c\nComments URL: https://news.ycombinator.com/item?…",
+      "publishedAt": "2026-11-15T03:05:54.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T03:05:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "My favourite modern NES games",
+      "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "summary": "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/\nComments URL: https://news.ycombinator.com/item?id=50503465\nPoints: 8\n# Comments: 0",
+      "publishedAt": "2026-11-15T02:41:25.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T02:41:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches\nComments URL: https://news.ycombinator.com/item?id=50503255\nPoints: 145\n#…",
+      "publishedAt": "2026-11-15T02:00:54.000Z",
+      "image": "https://www.eff.org/files/banner_library/siren_v._san_jose.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T02:00:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "summary": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\nComments URL: https://news.ycombinator.com/item?id=50502988\nPo…",
+      "publishedAt": "2026-11-15T01:18:36.000Z",
+      "image": "https://litnews.ai/og/default.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T01:18:36.000Z"
     },
     {
       "source": "Engadget",
-      "title": "Here's when a dedicated graphics card is worth it",
-      "link": "https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/",
-      "summary": "Modern iGPUs are surprisingly capable, but they aren't without limitations.",
-      "publishedAt": "2026-11-14T21:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-when-a-dedicated-graphics-card-is-worth-it/l-intro-1794342731.jpg",
+      "title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+      "link": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+      "summary": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5.",
+      "publishedAt": "2026-11-15T01:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/which-nvidia-gpu-is-closest-to-the-ps5-the-answer-isnt-so-simple/l-intro-1793996536.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-14T21:45:00.000Z"
+      "latestActivity": "2026-11-15T01:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "link": "https://bobbiec.github.io/jamaican-font.html",
+      "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html\nComments URL: https://news.ycombinator.com/item?id=50502839\nPoints: 19\n# Comments: 5",
+      "publishedAt": "2026-11-15T00:56:45.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T00:56:45.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "This Sony patent would add a credit card reader to your PlayStation controller",
+      "link": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+      "summary": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming.",
+      "publishedAt": "2026-11-15T00:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/this-sony-patent-would-add-a-credit-card-reader-to-your-playstation-controller/l-intro-1793989603.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T00:45:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "summary": "It felt like stepping into the future.",
+      "publishedAt": "2026-11-15T00:40:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T00:40:59.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "link": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+      "summary": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider.",
+      "publishedAt": "2026-11-15T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-limitations-of-egpus-vs-onboard-graphics-cards-for-laptops/l-intro-1794329161.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T00:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "11 gadgets under $10 that solve everyday problems",
+      "link": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
+      "summary": "Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades.",
+      "publishedAt": "2026-11-15T00:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/11-gadgets-under-10-that-solve-everyday-problems/l-intro-1793998678.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T00:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fun…",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T00:08:07.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "There's a hidden way you can check which services are running on your Android phone",
+      "link": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+      "summary": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps.",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/theres-a-hidden-way-you-can-check-which-services-are-running-on-your-android-phone/l-intro-1794382909.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T00:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Common reasons your Roku TV can turn on by itself and how to fix it",
+      "link": "https://www.engadget.com/2313550/roku-tv-turns-on-by-itself-common-reasons-fixes/",
+      "summary": "If your TV has randomly been turning on and it has a Roku attached to it, it could be your Roku's doing. Check these settings.",
+      "publishedAt": "2026-11-14T23:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/common-reasons-your-roku-tv-can-turn-on-by-itself-and-how-to-fix-it/l-intro-1794413571.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-14T23:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "One cable mistake could be killing your desktop PC's gaming performance",
+      "link": "https://www.engadget.com/2313063/cable-mistake-desktop-pc-gaming-performance/",
+      "summary": "Plugging your monitor into the motherboard instead of your dedicated GPU can ruin gaming performance. Here's how to check your ports and get your frames back.",
+      "publishedAt": "2026-11-14T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/one-cable-mistake-could-be-killing-your-desktop-pcs-gaming-performance/l-intro-1794331166.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-14T23:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
+      "link": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
+      "summary": "Some SD cards just won't accept files larger than 4GB, no matter the total capacity or how much free storage there is. But don't worry, it's not hard to fix.",
+      "publishedAt": "2026-11-14T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/why-your-sd-card-wont-let-you-transfer-files-bigger-than-4gb-and-how-to-fix-it/l-intro-1794020287.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-14T23:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company h…",
+      "publishedAt": "2026-11-14T21:44:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-14T21:44:44.000Z"
     },
     {
       "source": "TechCrunch",
@@ -33,101 +220,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-14T21:41:22.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The reasons why your TV soundbar has an audio delay",
-      "link": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
-      "summary": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.",
-      "publishedAt": "2026-11-14T21:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-reasons-why-your-tv-soundbar-has-an-audio-delay/l-intro-1794341678.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T21:30:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "summary": "One way or another, the company will get some more data on Saturday.",
-      "publishedAt": "2026-11-14T00:49:13.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "SpaceX Catches the Starship to end Flight 15",
-          "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-          "publishedAt": "2026-11-14T21:22:24.000Z"
-        }
-      ],
-      "latestActivity": "2026-11-14T21:22:24.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why some USB ports are yellow (and less common than others)",
-      "link": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
-      "summary": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
-      "publishedAt": "2026-11-14T21:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-some-usb-ports-are-yellow-and-less-common-than-others/l-intro-1794332281.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T21:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Yeah, LLM's haven't solved much of anything else, but hey, here you go",
-      "link": "https://apps.apple.com/us/app/intellikey/id1667188645",
-      "summary": "Article URL: https://apps.apple.com/us/app/intellikey/id1667188645\nComments URL: https://news.ycombinator.com/item?id=50500792\nPoints: 5\n# Comments: 1",
-      "publishedAt": "2026-11-14T21:04:02.000Z",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/84/ed/8f84ed36-8cce-15f7-64d9-7b7a1cd3780d/Placeholder.mill/1200x630wa.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T21:04:02.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to clear the cache on your Samsung TV",
-      "link": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
-      "summary": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out – and how.",
-      "publishedAt": "2026-11-14T21:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-samsung-tv/l-intro-1794330105.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T21:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "SpaceX successfully catches Starship after launch for the first time",
-      "link": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
-      "summary": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship.",
-      "publishedAt": "2026-11-14T20:54:14.000Z",
-      "image": "https://www.engadget.com/img/gallery/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/l-intro-1794693469.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T20:54:14.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to clear the cache on your Xbox Series X",
-      "link": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
-      "summary": "Clearing the cache on your Xbox Series X can help it retain its snappiness while avoiding glitches, or you can perform a console reset if all else fails.",
-      "publishedAt": "2026-11-14T20:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-xbox-series-x/l-intro-1794327413.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T20:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Is your car tracking your location? Here's how to check and opt out",
-      "link": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
-      "summary": "Modern cars are great for farming user data, and big tech companies know it. It's important to know how this information is collected and how to opt out.",
-      "publishedAt": "2026-11-14T20:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/is-your-car-tracking-your-location-heres-how-to-check-and-opt-out/l-intro-1794245169.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T20:30:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -152,28 +244,6 @@
       "latestActivity": "2026-11-14T19:47:40.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
-      "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
-      "summary": "Article URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year\nComments URL: https://news.ycombinator.com/item?id=5049994…",
-      "publishedAt": "2026-11-14T19:23:40.000Z",
-      "image": "https://snworksceo.imgix.net/drt/f42dabdd-cdb4-4bb9-b3b1-cdbee8f8a198.sized-1000x1000.jpg?w=800&h=600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T19:23:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379\nComments URL: https://news.ycombinator.com/ite…",
-      "publishedAt": "2026-11-14T18:56:47.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T18:56:47.000Z"
-    },
-    {
       "source": "TechCrunch",
       "title": "Got an iPhone Duo? These 9 settings make it easier to use",
       "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
@@ -183,28 +253,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-14T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "US IRS free online tax filing open source repo (2025)",
-      "link": "https://github.com/IRS-Public/direct-file",
-      "summary": "Article URL: https://github.com/IRS-Public/direct-file\nComments URL: https://news.ycombinator.com/item?id=50499083\nPoints: 118\n# Comments: 66",
-      "publishedAt": "2026-11-14T17:48:20.000Z",
-      "image": "https://opengraph.githubassets.com/55d2cf40447bd09729a0162eb2986fca3599c5210667c1c85845961122b61d20/IRS-Public/direct-file",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T17:48:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "A Family Tree of Software Job Titles",
-      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/\nComments URL: https://news.ycombinator.com/item?id=50499038\nPoints: 121\n# Comments: 54",
-      "publishedAt": "2026-11-14T17:45:19.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T17:45:19.000Z"
     },
     {
       "source": "TechCrunch",
@@ -227,28 +275,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-14T17:44:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "link": "https://www.crissyfield.de/research/lovable-en/",
-      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/\nComments URL: https://news.ycombinator.com/item?id=50499017\nPoints: 473\n# Comments: 166",
-      "publishedAt": "2026-11-14T17:43:10.000Z",
-      "image": "https://www.crissyfield.de/images/research-lovable-opengraph.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T17:43:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Will we put data centers in space?",
-      "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-      "summary": "Article URL: https://www.forethought.org/research/will-we-really-put-data-centers-in-space\nComments URL: https://news.ycombinator.com/item?id=50498945\nPoints: 37\n# Comments: 99",
-      "publishedAt": "2026-11-14T17:35:33.000Z",
-      "image": "https://images.ctfassets.net/4owxfjx3z3if/2tbdxaWP1WfSlnTCGjPHld/c5a892bc6b3a324cdb803d0997e341a3/levelized-cost-of-energy-beige.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T17:35:33.000Z"
     },
     {
       "source": "TechCrunch",
@@ -276,7 +302,7 @@
       "source": "Wired",
       "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
       "link": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
-      "summary": "Stock up on outdoor gear and gifts for friends at REI's annual holiday sale.",
+      "summary": "Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.",
       "publishedAt": "2026-11-14T11:00:00.000Z",
       "image": "https://media.wired.com/photos/6af78becda0b3f5acb040c4d/191:100/w_1280,c_limit/The-21-Best-REI-Holiday-Sale-Outdoor-Deals.jpg",
       "sourceCount": 2,
@@ -379,17 +405,6 @@
       "latestActivity": "2026-11-14T12:05:00.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January 6th, 2025, Nvidia CEO Jensen Huang got h…",
-      "publishedAt": "2026-11-14T12:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T12:00:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "How to Run SteamOS on Your Mac",
       "link": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
@@ -446,6 +461,17 @@
     },
     {
       "source": "Ars Technica",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "summary": "One way or another, the company will get some more data on Saturday.",
+      "publishedAt": "2026-11-14T00:49:13.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-14T00:49:13.000Z"
+    },
+    {
+      "source": "Ars Technica",
       "title": "FAA has lifted its third-ever nationwide ground stop",
       "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
       "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
@@ -465,17 +491,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-13T23:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "publishedAt": "2026-11-13T22:43:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-13T22:43:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -509,17 +524,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-13T20:03:13.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-      "publishedAt": "2026-11-13T19:49:16.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-13T19:49:16.000Z"
     },
     {
       "source": "MIT Technology Review",
