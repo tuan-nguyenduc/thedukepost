@@ -1,6 +1,211 @@
 {
-  "syncedAt": "2026-11-15T23:50:28.882Z",
+  "syncedAt": "2026-11-16T05:27:35.494Z",
   "items": [
+    {
+      "source": "The Verge",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "summary": "ULA Vulcan rocket lifts off on November 15, 2026, carrying 40 Amazon Leo broadband satellites. | Photo: Manuel Mazzanti / NurPhoto via Getty Images\t\n\nUnited Launch Alliance (ULA) s…",
+      "publishedAt": "2026-11-15T21:05:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
+          "link": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+          "publishedAt": "2026-11-16T04:56:53.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-16T04:56:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Linux was created as a rejection of robust software architecture and tools",
+      "link": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+      "summary": "Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569\nComments URL: https://news.ycombinator.com/item?id=50513843\nPoints: 22\n# Comments: 14",
+      "publishedAt": "2026-11-16T03:58:04.000Z",
+      "image": "https://pbs.twimg.com/profile_images/1747709979220402176/LWwcvNYH_400x400.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T03:58:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "link": "https://news.ycombinator.com/item?id=50513451",
+      "summary": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with…",
+      "publishedAt": "2026-11-16T02:53:30.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T02:53:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Qwen4-Max",
+      "link": "https://qwen.ai/blog?id=qwen4-max",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max\nComments URL: https://news.ycombinator.com/item?id=50513215\nPoints: 253\n# Comments: 86",
+      "publishedAt": "2026-11-16T02:14:44.000Z",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T02:14:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "link": "https://iter.ca/post/ubo-uxss/",
+      "summary": "Article URL: https://iter.ca/post/ubo-uxss/\nComments URL: https://news.ycombinator.com/item?id=50513160\nPoints: 185\n# Comments: 48",
+      "publishedAt": "2026-11-16T02:04:48.000Z",
+      "image": "https://iter.ca//ubo-epicker.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T02:04:48.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "publishedAt": "2026-11-16T01:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T01:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to clear the application cache on your Mac",
+      "link": "https://www.engadget.com/2314079/how-to-clear-application-cache-mac/",
+      "summary": "Clearing app caches don't necessarily make your Mac run faster.",
+      "publishedAt": "2026-11-16T01:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-application-cache-on-your-mac/l-intro-1794426299.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T01:30:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The com…",
+      "publishedAt": "2026-11-16T01:26:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T01:26:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Coles hit by a cybersecurity incident",
+      "link": "https://www.colesgroup.com.au/updates/",
+      "summary": "Article URL: https://www.colesgroup.com.au/updates/\nComments URL: https://news.ycombinator.com/item?id=50512824\nPoints: 81\n# Comments: 59",
+      "publishedAt": "2026-11-16T01:14:35.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T01:14:35.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The oldest gadget in your house could be your home network's biggest security hole",
+      "link": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
+      "summary": "It may be more economical to hold onto gadgets for as long as possible, but you're putting your entire home network at risk with outdate hardware.",
+      "publishedAt": "2026-11-16T01:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-oldest-gadget-in-your-house-could-be-your-home-networks-biggest-security-hole/l-intro-1794425398.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T01:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The pros and cons of using your phone as a mobile hotspot",
+      "link": "https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/",
+      "summary": "Using your phone to help other devices connect to the internet is undeniably convenient, but it also comes with other perks – and a few downsides.",
+      "publishedAt": "2026-11-16T00:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-phone-as-a-mobile-hotspot/l-intro-1794063254.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T00:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The pros and cons of using cloud storage over local storage",
+      "link": "https://www.engadget.com/2313943/pros-cons-using-cloud-storage-over-local/",
+      "summary": "Before AI ran rampant through the technology market, cloud storage was the new, big thing, as it seems like every major company has its own cloud service.",
+      "publishedAt": "2026-11-16T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-cloud-storage-over-local-storage/l-intro-1794259350.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T00:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454\nComments URL: https://news.ycombinator.com/item?id=50512441\nPoints: 88\n# Comments: 22",
+      "publishedAt": "2026-11-16T00:21:54.000Z",
+      "image": "https://forum.torproject.org/uploads/default/original/2X/d/d3424bed34f4ec18b2e99178c2801ba6dfb655d6.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T00:21:54.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "10 things your iPhone's Notes app can do other than taking notes",
+      "link": "https://www.engadget.com/2310550/other-things-iphone-notes-app-can-do/",
+      "summary": "Apple Notes can be much more than a place for random scraps of information once you learn everything it's capable of.",
+      "publishedAt": "2026-11-16T00:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/10-things-your-iphones-notes-app-can-do-other-than-taking-notes/l-intro-1793719334.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T00:15:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "summary": "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone\nComments URL: https://news.ycombinator.com/item?id=50512296\nPoints: 18\n# Comments: 0",
+      "publishedAt": "2026-11-16T00:03:12.000Z",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68671751&width=1200&height=600&coordinates=0%2C357%2C0%2C358",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T00:03:12.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What causes a sudden drop in phone battery percentage?",
+      "link": "https://www.engadget.com/2313940/phone-battery-percentage-suddenly-drops/",
+      "summary": "Tired of watching your phone's battery jump from green to red? It's time to start troubleshooting what's causing your battery percentage to suddenly drop.",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-causes-a-sudden-drop-in-phone-battery-percentage/l-intro-1793994936.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What's Next for Nvidia?",
+      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/\nComments URL: https://news.ycombinator.com/item?id=50512235\nPoints: 154\n# Comments: 190",
+      "publishedAt": "2026-11-15T23:55:55.000Z",
+      "image": "https://steveblank.com/wp-content/uploads/2026/11/nvidia-reinventions-1024x677.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T23:55:55.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's what actually happens if your laptop battery is completely drained",
+      "link": "https://www.engadget.com/2313936/what-happens-drained-laptop-battery/",
+      "summary": "While letting your laptop run out of battery may seem harmless, it might be doing more long-term damage to your device than you ever expected.",
+      "publishedAt": "2026-11-15T23:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-what-actually-happens-if-your-laptop-battery-is-completely-drained/l-intro-1794241309.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-15T23:45:00.000Z"
+    },
     {
       "source": "TechCrunch",
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -13,52 +218,6 @@
       "latestActivity": "2026-11-15T23:30:00.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Why your Wi-Fi slows down when more devices connect",
-      "link": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
-      "summary": "Your Wi-Fi router is like a busy train station, and once you get a sense of how things work, it's easier to keep the incoming and outgoing traffic humming.",
-      "publishedAt": "2026-11-15T23:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-your-wi-fi-slows-down-when-more-devices-connect/l-intro-1794334766.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T23:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "publishedAt": "2026-11-14T21:41:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-      "sourceCount": 3,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-          "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-          "publishedAt": "2026-11-15T20:43:49.000Z"
-        },
-        {
-          "source": "Hacker News",
-          "title": "Jensen Huang might return to Nvidia as CEO",
-          "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
-          "publishedAt": "2026-11-15T23:24:53.000Z"
-        }
-      ],
-      "latestActivity": "2026-11-15T23:24:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-      "link": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
-      "summary": "Article URL: https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/\nComments URL: https://news.ycombinator.com/item?id=50511899\nPoints: 12\n# Comments:…",
-      "publishedAt": "2026-11-15T23:12:38.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T23:12:38.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
       "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
@@ -68,94 +227,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-15T23:11:54.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Preserving 30 Years of Salon Journalism",
-      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/\nComments URL: https://news.ycombinator.com/item?id=50511806\nPoints: 17\n# Comments: 4",
-      "publishedAt": "2026-11-15T23:00:11.000Z",
-      "image": "https://blog.archive.org/wp-content/uploads/2026/11/Salon-Logos-Background-2-2048x1071-1.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T23:00:11.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How long can a 1000 watt-hour power station run your devices?",
-      "link": "https://www.engadget.com/2313932/how-long-1000-watt-power-station-run-devices/",
-      "summary": "Determining the stamina of your portable power station is more complicated than simply dividing its battery capacity by the power consumption of your devices.",
-      "publishedAt": "2026-11-15T23:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-long-can-a-1000-watt-hour-power-station-run-your-devices/l-intro-1794331577.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T23:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "link": "https://lastcomplication.com/",
-      "summary": "Article URL: https://lastcomplication.com/\nComments URL: https://news.ycombinator.com/item?id=50511718\nPoints: 7\n# Comments: 1",
-      "publishedAt": "2026-11-15T22:48:52.000Z",
-      "image": "https://lastcomplication.com/icon-512.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T22:48:52.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Samsung is discontinuing these useful mobile apps in December",
-      "link": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december/",
-      "summary": "You don't have long to grab the augmented reality tools for your Galaxy devices.",
-      "publishedAt": "2026-11-15T22:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/samsung-is-discontinuing-these-useful-mobile-apps-in-december/l-intro-1793998077.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T22:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
-      "link": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/",
-      "summary": "Article URL: https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/\nComments URL: https://news.ycombinator.com/item?id=50511505\nPoin…",
-      "publishedAt": "2026-11-15T22:26:33.000Z",
-      "image": "https://wp.harpers.org/wp-content/uploads/2023/11/CUT-6-1124x844.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T22:26:33.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How one 13-year-old is helping solve a huge solar panel limitation",
-      "link": "https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/",
-      "summary": "This teenager's affordable DIY solar panel design is attracting national attention, and for good reason.",
-      "publishedAt": "2026-11-15T22:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-one-13-year-old-is-helping-solve-a-huge-solar-panel-limitation/l-intro-1794243328.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T22:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Old Bitly Links Are Being Hijacked",
-      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/\nComments URL: https://news.ycombinator.com/item?id=50511395\nPoints: 80\n# Comments: 41",
-      "publishedAt": "2026-11-15T22:11:43.000Z",
-      "image": "https://ransomnews.com/wp-content/uploads/2026/11/burger-king-tweet-bitly-link-hijack-2026-cover-1024x576.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T22:11:43.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to get warnings about speed cameras in Apple CarPlay",
-      "link": "https://www.engadget.com/2313915/how-to-get-speed-camera-alerts-carplay/",
-      "summary": "Whether you use Apple Maps, Google Maps, or Waze in CarPlay, ensure these settings are on to receive warnings about nearby speed cameras.",
-      "publishedAt": "2026-11-15T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-warnings-about-speed-cameras-in-apple-carplay/l-intro-1794407480.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T22:00:00.000Z"
     },
     {
       "source": "TechCrunch",
@@ -180,66 +251,15 @@
       "latestActivity": "2026-11-15T21:49:22.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How to tell whether your car supports Apple CarPlay",
-      "link": "https://www.engadget.com/2313909/how-to-tell-if-car-supports-apple-carplay/",
-      "summary": "Determining if your car is compatible with Apple CarPlay is quite simple. If yours is not, there are ways to add CarPlay to your vehicle.",
-      "publishedAt": "2026-11-15T21:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-tell-whether-your-car-supports-apple-carplay/l-intro-1794260075.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T21:45:00.000Z"
-    },
-    {
       "source": "The Verge",
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "summary": "ULA Vulcan rocket lifts off on November 15, 2026, carrying 40 Amazon Leo broadband satellites. | Photo: Manuel Mazzanti / NurPhoto via Getty Images\t\n\nUnited Launch Alliance (ULA) s…",
-      "publishedAt": "2026-11-15T21:05:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Hacker News",
-          "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-          "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-          "publishedAt": "2026-11-15T21:38:11.000Z"
-        }
-      ],
-      "latestActivity": "2026-11-15T21:38:11.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "AO3 is back online but with limited features",
-      "link": "https://www.engadget.com/2317218/ao3-is-back-online-but-with-limited-features/",
-      "summary": "The outage lasted two weeks but full functionality is expected to resume soon.",
-      "publishedAt": "2026-11-15T21:33:18.000Z",
-      "image": "https://www.engadget.com/img/gallery/ao3-is-back-online-but-with-limited-features/l-intro-1794777750.jpg",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up to speed, but there have alread…",
+      "publishedAt": "2026-11-15T20:43:49.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-15T21:33:18.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to get the most protection from your Ring camera security system",
-      "link": "https://www.engadget.com/2313904/how-to-maximize-ring-camera-security-protection/",
-      "summary": "A Ring camera can provide a huge boost to the safety of your home, but there's more you can do to maximize that added layer of security.",
-      "publishedAt": "2026-11-15T21:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-the-most-protection-from-your-ring-camera-security-system/l-intro-1794064696.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T21:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Your Agent Will Pick the Hackable One",
-      "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-      "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/\nComments URL: https://news.ycombinator.com/item?id=50510799\nPoints: 65\n# Comments: 38",
-      "publishedAt": "2026-11-15T21:10:39.000Z",
-      "image": "https://geoffstearns.com/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T21:10:39.000Z"
+      "latestActivity": "2026-11-15T20:43:49.000Z"
     },
     {
       "source": "TechCrunch",
@@ -328,17 +348,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-15T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
-      "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
-      "summary": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now throu…",
-      "publishedAt": "2026-11-15T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T14:00:00.000Z"
     },
     {
       "source": "Ars Technica",
