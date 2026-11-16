@@ -1,89 +1,444 @@
 {
-  "syncedAt": "2026-11-16T05:27:35.494Z",
+  "syncedAt": "2026-11-16T15:10:18.827Z",
   "items": [
     {
+      "source": "TechCrunch",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "publishedAt": "2026-11-16T15:02:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/us-commerce.jpg?w=564",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T15:02:34.000Z"
+    },
+    {
       "source": "The Verge",
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "summary": "ULA Vulcan rocket lifts off on November 15, 2026, carrying 40 Amazon Leo broadband satellites. | Photo: Manuel Mazzanti / NurPhoto via Getty Images\t\n\nUnited Launch Alliance (ULA) s…",
-      "publishedAt": "2026-11-15T21:05:02.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Google Maps can now create trip itineraries for you",
+      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, whic…",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 2,
       "related": [
         {
-          "source": "Engadget",
-          "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
-          "link": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
-          "publishedAt": "2026-11-16T04:56:53.000Z"
+          "source": "TechCrunch",
+          "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+          "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+          "publishedAt": "2026-11-16T14:48:13.000Z"
         }
       ],
-      "latestActivity": "2026-11-16T04:56:53.000Z"
+      "latestActivity": "2026-11-16T14:48:13.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Linux was created as a rejection of robust software architecture and tools",
-      "link": "https://twitter.com/GrapheneOS/status/2122079826257588569",
-      "summary": "Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569\nComments URL: https://news.ycombinator.com/item?id=50513843\nPoints: 22\n# Comments: 14",
-      "publishedAt": "2026-11-16T03:58:04.000Z",
-      "image": "https://pbs.twimg.com/profile_images/1747709979220402176/LWwcvNYH_400x400.jpg",
+      "source": "The Verge",
+      "title": "Apple TV is getting video podcasts you can watch for free",
+      "link": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
+      "summary": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new updat…",
+      "publishedAt": "2026-11-16T14:45:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T03:58:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tell HN: HN is being scraped for emails to scam",
-      "link": "https://news.ycombinator.com/item?id=50513451",
-      "summary": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with…",
-      "publishedAt": "2026-11-16T02:53:30.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T02:53:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Qwen4-Max",
-      "link": "https://qwen.ai/blog?id=qwen4-max",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max\nComments URL: https://news.ycombinator.com/item?id=50513215\nPoints: 253\n# Comments: 86",
-      "publishedAt": "2026-11-16T02:14:44.000Z",
-      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T02:14:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "link": "https://iter.ca/post/ubo-uxss/",
-      "summary": "Article URL: https://iter.ca/post/ubo-uxss/\nComments URL: https://news.ycombinator.com/item?id=50513160\nPoints: 185\n# Comments: 48",
-      "publishedAt": "2026-11-16T02:04:48.000Z",
-      "image": "https://iter.ca//ubo-epicker.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T02:04:48.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Apple launches new app to study how people use AI for health",
-      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
-      "publishedAt": "2026-11-16T01:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T01:30:00.000Z"
+      "latestActivity": "2026-11-16T14:45:56.000Z"
     },
     {
       "source": "Engadget",
-      "title": "How to clear the application cache on your Mac",
-      "link": "https://www.engadget.com/2314079/how-to-clear-application-cache-mac/",
-      "summary": "Clearing app caches don't necessarily make your Mac run faster.",
-      "publishedAt": "2026-11-16T01:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-application-cache-on-your-mac/l-intro-1794426299.jpg",
+      "title": "Where should you place your Wi-Fi router for the best internet?",
+      "link": "https://www.engadget.com/2314221/where-to-place-wifi-router-best-internet/",
+      "summary": "Let your router work at its best by placing it in the right spot of your home - and know when you need an upgrade.",
+      "publishedAt": "2026-11-16T14:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/where-should-you-place-your-wi-fi-router-for-the-best-internet/l-intro-1794429353.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T01:30:00.000Z"
+      "latestActivity": "2026-11-16T14:45:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "America’s air traffic control system couldn’t handle a single bad router",
+      "link": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
+      "summary": "Flight statuses change from delayed to canceled at the San Diego International Airport after the FAA issued an emergency nationwide ground stop on November 13th, 2026. | Photo: Luk…",
+      "publishedAt": "2026-11-16T14:43:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304497345.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T14:43:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
+      "link": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+      "summary": "Article URL: https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint\nComments URL: https://news.ycombinator.com/item?id=50517838\nPoints: 30\n# Comments: 0",
+      "publishedAt": "2026-11-16T14:17:53.000Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26272702156305.jpg?c=16x9&q=w_800,c_fill",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T14:17:53.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What is an NFC tag and how does one work?",
+      "link": "https://www.engadget.com/2314180/what-is-an-nfc-tag/",
+      "summary": "NFC tags are cheap, lightweight and easy to use. Here's what NFC technology does, where it's used and how it differs from RFID.",
+      "publishedAt": "2026-11-16T14:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-is-an-nfc-tag-and-how-does-one-work/l-intro-1794428645.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T14:15:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+      "link": "https://github.com/withcoral/coral",
+      "summary": "Hi HN, I'm James, one of the co-founders of Coral.\nCoral is an open-source, self-hosted gateway that sits between your agents and the systems they work on. Agents call tools by wri…",
+      "publishedAt": "2026-11-16T14:14:51.000Z",
+      "image": "https://opengraph.githubassets.com/6cca7f8973017ddf23ac2b8f29b390482f961e4aea62a50130415e1fab32a243/withcoral/coral",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T14:14:51.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/191:100/w_1280,c_limit/111226-Nvidia%20In%20Trouble.jpg",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Ars Technica",
+          "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+          "publishedAt": "2026-11-16T14:06:16.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-16T14:06:16.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+      "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+      "summary": "The point-to-point driver assist is coming to the US and Germany in 2027.",
+      "publishedAt": "2026-11-16T14:00:05.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T14:00:05.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+      "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+      "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "summary": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible\t\n\nAudible is introducing an AI-assisted synopsis feature that's designed to help users d…",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Hands-on (and off) with Mercedes-Benz's upcoming MB.Drive Assist Pro system",
+      "link": "https://www.engadget.com/2315999/hands-on-and-off-with-mercedes-benz-mbdrive-assist-pro/",
+      "summary": "Benz takes us another step towards self-driving.",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/hands-on-and-off-with-mercedes-benzs-upcoming-mb-drive-assist-pro-system/l-intro-1794586242.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
+      "link": "https://jack.cab/blog/siterate",
+      "summary": "Article URL: https://jack.cab/blog/siterate\nComments URL: https://news.ycombinator.com/item?id=50517602\nPoints: 141\n# Comments: 34",
+      "publishedAt": "2026-11-16T13:51:38.000Z",
+      "image": "https://jack.cab/_astro/banner.BWU3oHHm_1KyTK9.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:51:38.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Which Steam settings should you change to improve gaming performance?",
+      "link": "https://www.engadget.com/2314137/steam-settings-to-improve-gaming-performance/",
+      "summary": "When in doubt, disable the Steam Overlay.",
+      "publishedAt": "2026-11-16T13:45:00.000Z",
+      "image": "https://www.engadget.com/img/engadget-meta-image-1280x720.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:45:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
+      "link": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "summary": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-off…",
+      "publishedAt": "2026-11-16T13:39:07.000Z",
+      "image": "http://groundworkcollaborative.org/wp-content/uploads/2026/11/GWC_CL_Cover_110526-1-791x1024.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:39:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026\nComments URL: https://news.ycombina…",
+      "publishedAt": "2026-11-16T13:18:22.000Z",
+      "image": "https://image.theregister.com/254046.jpg?imageId=254046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:18:22.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use your phone to find an Apple TV remote",
+      "link": "https://www.engadget.com/2313628/how-to-use-phone-find-apple-tv-remote/",
+      "summary": "Apple TV now lets you use your iPhone to find a lost remote, with onscreen prompts that guide you closer until you track it down somewhere in your home.",
+      "publishedAt": "2026-11-16T13:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-your-phone-to-find-an-apple-tv-remote/l-intro-1794408447.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:15:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that pr…",
+      "publishedAt": "2026-11-16T13:10:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/09/0924f.png?fit=2128,1196",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:10:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "link": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/our-next-energy-pack-inspection.jpg?resize=1200,900",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "link": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/GettyImages-2283442251.jpg?resize=1200,774",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Nvidia scandal isn’t slowing down",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are…",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Sony 27-inch Gaming Monitor with DualSense Charging Hook review: A piece of PC history",
+      "link": "https://www.engadget.com/2313601/sony-27-inch-gaming-monitor-with-dualsense-charging-hook-review/",
+      "summary": "Sony's 27-inch gaming monitor is a perfectly adequate display with one unique hook.",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/sony-27-inch-gaming-monitor-with-dualsense-charging-hook-review-a-piece-of-pc-history/l-intro-1794404092.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building AI that can work across the enterprise",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to l…",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "publishedAt": "2026-11-16T12:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T12:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
+      "link": "https://www.wired.com/story/best-digital-photo-frames/",
+      "summary": "There are more digital photo frames than ever these days. After years of testing, these are the ones I’d buy.",
+      "publishedAt": "2026-11-16T12:01:00.000Z",
+      "image": "https://media.wired.com/photos/6af7e6c419af9e663f54144d/191:100/w_1280,c_limit/My-Favorite-Home-Gadget-Is-Still-a-Digital-Photo-Frame.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T12:01:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
+      "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+      "summary": "For those who have lived under armed drones, the sound overhead can be distressing.",
+      "publishedAt": "2026-11-16T12:00:57.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2298538124-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T12:00:57.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "link": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-uber.jpg?resize=1200,801",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "The Verge",
+          "title": "Amazon’s Zoox robotaxis are now available via Uber",
+          "link": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+          "publishedAt": "2026-11-16T12:00:00.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/\nComments URL: https://news.ycombinator.com/item?id=50516473\nPoints:…",
+      "publishedAt": "2026-11-16T11:39:31.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T11:39:31.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
+      "link": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
+      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
+      "publishedAt": "2026-11-16T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/6af5c0853b3d498b480a78ca/191:100/w_1280,c_limit/111226-EPA%20ASPECT%20Plane.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T11:30:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
+      "link": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "publishedAt": "2026-11-16T11:30:00.000Z",
+      "image": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/191:100/w_1280,c_limit/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T11:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "link": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "summary": "Article URL: https://www.monirbounadi.com/Bounadi_JMP.pdf\nComments URL: https://news.ycombinator.com/item?id=50516245\nPoints: 116\n# Comments: 73",
+      "publishedAt": "2026-11-16T11:03:16.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T11:03:16.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for…",
+      "publishedAt": "2026-11-16T11:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CVIRGINIA_I__0003_1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T11:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
+      "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
+      "summary": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "image": "https://media.wired.com/photos/6af7da955e4ca9026ac50ea4/191:100/w_1280,c_limit/The-Best-Apple-3-in-1-Travel-Chargers.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "It's always DNS, so why are we running our own?",
+      "link": "https://s2.dev/blog/dns-server",
+      "summary": "Article URL: https://s2.dev/blog/dns-server\nComments URL: https://news.ycombinator.com/item?id=50515616\nPoints: 43\n# Comments: 27",
+      "publishedAt": "2026-11-16T09:19:38.000Z",
+      "image": "https://s2.dev/blog/dns-server-og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T09:19:38.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQ…",
+      "publishedAt": "2026-11-16T07:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T07:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Apple's new research app is designed to make AI health tools more user-friendly",
+      "link": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
+      "summary": "Apple has unveiled a new research study with the aim of learning how people use AI health tools.",
+      "publishedAt": "2026-11-16T06:06:05.000Z",
+      "image": "https://www.engadget.com/img/gallery/apples-new-research-app-is-designed-to-make-ai-health-tools-more-user-friendly/l-intro-1794809079.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T06:06:05.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
+      "link": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+      "summary": "United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.",
+      "publishedAt": "2026-11-16T04:56:53.000Z",
+      "image": "https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T04:56:53.000Z"
     },
     {
       "source": "The Verge",
@@ -97,127 +452,6 @@
       "latestActivity": "2026-11-16T01:26:56.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Coles hit by a cybersecurity incident",
-      "link": "https://www.colesgroup.com.au/updates/",
-      "summary": "Article URL: https://www.colesgroup.com.au/updates/\nComments URL: https://news.ycombinator.com/item?id=50512824\nPoints: 81\n# Comments: 59",
-      "publishedAt": "2026-11-16T01:14:35.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T01:14:35.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The oldest gadget in your house could be your home network's biggest security hole",
-      "link": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
-      "summary": "It may be more economical to hold onto gadgets for as long as possible, but you're putting your entire home network at risk with outdate hardware.",
-      "publishedAt": "2026-11-16T01:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-oldest-gadget-in-your-house-could-be-your-home-networks-biggest-security-hole/l-intro-1794425398.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T01:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The pros and cons of using your phone as a mobile hotspot",
-      "link": "https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/",
-      "summary": "Using your phone to help other devices connect to the internet is undeniably convenient, but it also comes with other perks – and a few downsides.",
-      "publishedAt": "2026-11-16T00:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-phone-as-a-mobile-hotspot/l-intro-1794063254.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T00:45:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The pros and cons of using cloud storage over local storage",
-      "link": "https://www.engadget.com/2313943/pros-cons-using-cloud-storage-over-local/",
-      "summary": "Before AI ran rampant through the technology market, cloud storage was the new, big thing, as it seems like every major company has its own cloud service.",
-      "publishedAt": "2026-11-16T00:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-cloud-storage-over-local-storage/l-intro-1794259350.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T00:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454\nComments URL: https://news.ycombinator.com/item?id=50512441\nPoints: 88\n# Comments: 22",
-      "publishedAt": "2026-11-16T00:21:54.000Z",
-      "image": "https://forum.torproject.org/uploads/default/original/2X/d/d3424bed34f4ec18b2e99178c2801ba6dfb655d6.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T00:21:54.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "10 things your iPhone's Notes app can do other than taking notes",
-      "link": "https://www.engadget.com/2310550/other-things-iphone-notes-app-can-do/",
-      "summary": "Apple Notes can be much more than a place for random scraps of information once you learn everything it's capable of.",
-      "publishedAt": "2026-11-16T00:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/10-things-your-iphones-notes-app-can-do-other-than-taking-notes/l-intro-1793719334.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T00:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-      "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-      "summary": "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone\nComments URL: https://news.ycombinator.com/item?id=50512296\nPoints: 18\n# Comments: 0",
-      "publishedAt": "2026-11-16T00:03:12.000Z",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68671751&width=1200&height=600&coordinates=0%2C357%2C0%2C358",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T00:03:12.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "What causes a sudden drop in phone battery percentage?",
-      "link": "https://www.engadget.com/2313940/phone-battery-percentage-suddenly-drops/",
-      "summary": "Tired of watching your phone's battery jump from green to red? It's time to start troubleshooting what's causing your battery percentage to suddenly drop.",
-      "publishedAt": "2026-11-16T00:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-causes-a-sudden-drop-in-phone-battery-percentage/l-intro-1793994936.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T00:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "What's Next for Nvidia?",
-      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/\nComments URL: https://news.ycombinator.com/item?id=50512235\nPoints: 154\n# Comments: 190",
-      "publishedAt": "2026-11-15T23:55:55.000Z",
-      "image": "https://steveblank.com/wp-content/uploads/2026/11/nvidia-reinventions-1024x677.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T23:55:55.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Here's what actually happens if your laptop battery is completely drained",
-      "link": "https://www.engadget.com/2313936/what-happens-drained-laptop-battery/",
-      "summary": "While letting your laptop run out of battery may seem harmless, it might be doing more long-term damage to your device than you ever expected.",
-      "publishedAt": "2026-11-15T23:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/heres-what-actually-happens-if-your-laptop-battery-is-completely-drained/l-intro-1794241309.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T23:45:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "publishedAt": "2026-11-15T23:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T23:30:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
       "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
@@ -227,127 +461,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-15T23:11:54.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "publishedAt": "2026-11-15T21:56:35.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T21:56:35.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
-      "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
-      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial…",
-      "publishedAt": "2026-11-15T21:49:22.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a0664469113_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T21:49:22.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up to speed, but there have alread…",
-      "publishedAt": "2026-11-15T20:43:49.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T20:43:49.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "publishedAt": "2026-11-15T20:20:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T20:20:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both De…",
-      "publishedAt": "2026-11-15T19:15:43.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T19:15:43.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-      "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-      "publishedAt": "2026-11-15T18:29:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T18:29:14.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-      "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "publishedAt": "2026-11-15T17:05:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T17:05:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-      "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
-      "summary": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 P…",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s first smart glasses are coming together",
-      "link": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
-      "summary": "Apple’s smart glasses are reportedly ‘slightly thinner’ than Meta’s 2nd gen Ray-Ban glasses above. | Photo: Amelia Holowaty Krales / The Verge\t\n\nApple's smart glasses are among the…",
-      "publishedAt": "2026-11-15T16:59:16.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T16:59:16.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "The tech products we enthusiastically recommend this holiday season",
-      "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-      "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
-      "publishedAt": "2026-11-15T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1350065490.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
-      "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
-      "summary": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's l…",
-      "publishedAt": "2026-11-15T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/hampton-headshot-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T16:00:00.000Z"
     },
     {
       "source": "Ars Technica",
@@ -394,61 +507,6 @@
       "latestActivity": "2026-11-15T11:30:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
-      "link": "https://www.wired.com/review/logitech-yeti-2/",
-      "summary": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
-      "publishedAt": "2026-11-15T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/6af7df7e7f77ca3a14ead393/191:100/w_1280,c_limit/Review--Logitech-Yeti-2.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T11:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "publishedAt": "2026-11-15T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/191:100/w_1280,c_limit/Screenshot%202026-11-11%20at%2014.47.44.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "It’s Getting Too Dry for Even Cactuses to Survive",
-      "link": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
-      "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
-      "publishedAt": "2026-11-15T10:30:00.000Z",
-      "image": "https://media.wired.com/photos/6af6e9401b752946d00e4918/191:100/w_1280,c_limit/extreme-heat-climate-change-cacti-cactus-extinction-biodiversity-risk-models.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T10:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "M6 Mac Mini Early Black Friday Sale (2026)",
-      "link": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
-      "summary": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T10:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
-      "link": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
-      "summary": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af5dd41ea249e5173fa2e83/191:100/w_1280,c_limit/Weixin%20Image_2025-07-15_230629_400.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T10:00:00.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
       "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
@@ -458,17 +516,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-15T00:40:59.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Where was Nvidia’s security team?",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fun…",
-      "publishedAt": "2026-11-15T00:08:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T00:08:07.000Z"
     },
     {
       "source": "Ars Technica",
@@ -491,39 +538,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-14T12:05:51.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "summary": "One way or another, the company will get some more data on Saturday.",
-      "publishedAt": "2026-11-14T00:49:13.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T00:49:13.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
-      "publishedAt": "2026-11-13T23:17:38.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-13T23:17:38.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-      "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
-      "publishedAt": "2026-11-13T21:59:01.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-13T21:59:01.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -590,28 +604,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-11T17:00:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: preserving minds and weighing open AI risks",
-      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind…",
-      "publishedAt": "2026-11-11T13:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/10/GettyImages-82110531_1.jpg?fit=2880,1920",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-11T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to reg…",
-      "publishedAt": "2026-11-10T13:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/12/GettyImages-1252251768-SA.jpg?fit=1920,1280",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-10T13:10:00.000Z"
     }
   ]
 }
