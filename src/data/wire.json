@@ -1,217 +1,513 @@
 {
-  "syncedAt": "2026-11-16T15:10:18.827Z",
+  "syncedAt": "2026-11-17T00:02:07.358Z",
   "items": [
     {
-      "source": "TechCrunch",
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-      "publishedAt": "2026-11-16T15:02:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/us-commerce.jpg?w=564",
+      "source": "The Verge",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to th…",
+      "publishedAt": "2026-11-16T23:35:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T15:02:34.000Z"
+      "latestActivity": "2026-11-16T23:35:58.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised an $125 million Series A at a $1 billion valuation led by NEA.",
+      "publishedAt": "2026-11-16T23:32:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T23:32:32.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to put your iPad in recovery mode (with and without a home button)",
+      "link": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode/",
+      "summary": "A failed update or too many wrong passcodes can leave your iPad unusable. Find out how recovery mode works and when it's worth trying as a last resort.",
+      "publishedAt": "2026-11-16T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-put-your-ipad-in-recovery-mode-with-and-without-a-home-button/l-intro-1794505141.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T23:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "link": "https://github.com/0nelight/sutra-os",
+      "summary": "Article URL: https://github.com/0nelight/sutra-os\nComments URL: https://news.ycombinator.com/item?id=50525052\nPoints: 7\n# Comments: 0",
+      "publishedAt": "2026-11-16T23:25:41.000Z",
+      "image": "https://opengraph.githubassets.com/f56916b2d423751c9140e30f8f71cd4ff2e3b952d74d8b609a420b7116e9df74/0nelight/sutra-os",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T23:25:41.000Z"
     },
     {
       "source": "The Verge",
-      "title": "Google Maps can now create trip itineraries for you",
-      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, whic…",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstateme…",
+      "publishedAt": "2026-11-16T23:17:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T23:17:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/\nComments URL: https://news.ycombinator.com/item?id=50524767\nPoints: 29\n# Commen…",
+      "publishedAt": "2026-11-16T23:00:34.000Z",
+      "image": "https://storage.ghost.io/c/2d/aa/2daa4f7f-a71b-47d2-a54c-06b8c60222ef/content/images/size/w1200/2026/11/Cybersecurity-Alert_-Malicious-Code-Injection.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T23:00:34.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The charging mistakes that could ruin your Nintendo Switch's battery",
+      "link": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery/",
+      "summary": "To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-charging-mistakes-that-could-ruin-your-nintendo-switchs-battery/l-intro-1794501086.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T23:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "publishedAt": "2026-11-16T22:58:27.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T22:58:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 38\n# Comments: 13",
+      "publishedAt": "2026-11-16T22:58:20.000Z",
+      "image": "https://xusheng.dev/posts/windows-coding-agent-telemetry/agent-names.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T22:58:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "US will say \"no\" to global ban on killer robots",
+      "link": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
+      "summary": "Article URL: https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369\nComments URL: https://news.ycombinator.com/item?id=50524728\nPoints: 37\n# Comments: 27",
+      "publishedAt": "2026-11-16T22:57:49.000Z",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2304868307.jpg?w=1200&crop=1",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T22:57:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "summary": "https://news.ycombinator.com/item?id=50524260\nComments URL: https://news.ycombinator.com/item?id=50524165\nPoints: 132\n# Comments: 53",
+      "publishedAt": "2026-11-16T22:14:38.000Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2304760060.jpg?c=16x9&q=w_800,c_fill",
+      "sourceCount": 3,
       "related": [
         {
-          "source": "TechCrunch",
-          "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-          "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-          "publishedAt": "2026-11-16T14:48:13.000Z"
+          "source": "Engadget",
+          "title": "United Airlines has fixed issue that caused 'widespread system outage'",
+          "link": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
+          "publishedAt": "2026-11-16T22:38:43.000Z"
+        },
+        {
+          "source": "The Verge",
+          "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+          "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+          "publishedAt": "2026-11-16T22:54:59.000Z"
         }
       ],
-      "latestActivity": "2026-11-16T14:48:13.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple TV is getting video podcasts you can watch for free",
-      "link": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
-      "summary": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new updat…",
-      "publishedAt": "2026-11-16T14:45:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T14:45:56.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Where should you place your Wi-Fi router for the best internet?",
-      "link": "https://www.engadget.com/2314221/where-to-place-wifi-router-best-internet/",
-      "summary": "Let your router work at its best by placing it in the right spot of your home - and know when you need an upgrade.",
-      "publishedAt": "2026-11-16T14:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/where-should-you-place-your-wi-fi-router-for-the-best-internet/l-intro-1794429353.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T14:45:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "America’s air traffic control system couldn’t handle a single bad router",
-      "link": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
-      "summary": "Flight statuses change from delayed to canceled at the San Diego International Airport after the FAA issued an emergency nationwide ground stop on November 13th, 2026. | Photo: Luk…",
-      "publishedAt": "2026-11-16T14:43:48.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304497345.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T14:43:48.000Z"
+      "latestActivity": "2026-11-16T22:54:59.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
-      "link": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
-      "summary": "Article URL: https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint\nComments URL: https://news.ycombinator.com/item?id=50517838\nPoints: 30\n# Comments: 0",
-      "publishedAt": "2026-11-16T14:17:53.000Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26272702156305.jpg?c=16x9&q=w_800,c_fill",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "summary": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/\nComments URL: https://news.ycombinator.com/item?id=50524225\nPoints: 56\n# Comments: 14",
+      "publishedAt": "2026-11-16T22:19:23.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T14:17:53.000Z"
+      "latestActivity": "2026-11-16T22:19:23.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "What is an NFC tag and how does one work?",
-      "link": "https://www.engadget.com/2314180/what-is-an-nfc-tag/",
-      "summary": "NFC tags are cheap, lightweight and easy to use. Here's what NFC technology does, where it's used and how it differs from RFID.",
-      "publishedAt": "2026-11-16T14:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/what-is-an-nfc-tag-and-how-does-one-work/l-intro-1794428645.jpg",
+      "source": "TechCrunch",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "publishedAt": "2026-11-16T22:12:31.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T14:15:00.000Z"
+      "latestActivity": "2026-11-16T22:12:31.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the tu…",
+      "publishedAt": "2026-11-16T22:03:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T22:03:02.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "publishedAt": "2026-11-16T21:56:39.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T21:56:39.000Z"
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
-      "link": "https://github.com/withcoral/coral",
-      "summary": "Hi HN, I'm James, one of the co-founders of Coral.\nCoral is an open-source, self-hosted gateway that sits between your agents and the systems they work on. Agents call tools by wri…",
-      "publishedAt": "2026-11-16T14:14:51.000Z",
-      "image": "https://opengraph.githubassets.com/6cca7f8973017ddf23ac2b8f29b390482f961e4aea62a50130415e1fab32a243/withcoral/coral",
+      "title": "Spamhaus new email sender requirements in November",
+      "link": "https://www.spamhaus.org/sender-guidelines/",
+      "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/\nComments URL: https://news.ycombinator.com/item?id=50523784\nPoints: 55\n# Comments: 45",
+      "publishedAt": "2026-11-16T21:47:19.000Z",
+      "image": null,
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T14:14:51.000Z"
+      "latestActivity": "2026-11-16T21:47:19.000Z"
     },
     {
       "source": "Wired",
-      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-      "publishedAt": "2026-11-16T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/191:100/w_1280,c_limit/111226-Nvidia%20In%20Trouble.jpg",
+      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
+      "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
+      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions…",
+      "publishedAt": "2026-11-16T21:45:45.000Z",
+      "image": "https://media.wired.com/photos/6afb6cf38468d112312ff4b9/191:100/w_1280,c_limit/Security_Yes,%20Your%20Bank%20Is%20Having%20an%20Outage_v2.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T21:45:45.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation…",
+      "publishedAt": "2026-11-16T21:41:57.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&#038;strip=all&#038;crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T21:41:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "BugMeNot has closed",
+      "link": "https://www.bugmenot.com/",
+      "summary": "Article URL: https://www.bugmenot.com/\nComments URL: https://news.ycombinator.com/item?id=50523601\nPoints: 225\n# Comments: 109",
+      "publishedAt": "2026-11-16T21:32:17.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T21:32:17.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
+      "link": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
+      "summary": "Originally launching only with Touch ID, Apple’s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it’s likely not as secure as Face ID.",
+      "publishedAt": "2026-11-16T18:26:26.000Z",
+      "image": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/191:100/w_1280,c_limit/DSC_9451.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+          "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+          "publishedAt": "2026-11-16T19:26:55.000Z"
+        },
+        {
+          "source": "Engadget",
+          "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
+          "link": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/",
+          "publishedAt": "2026-11-16T21:17:24.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-16T21:17:24.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and othe…",
+      "publishedAt": "2026-11-16T21:01:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T21:01:02.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Every Xbox console generation sorted by release date",
+      "link": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date/",
+      "summary": "Microsoft debuted the Xbox in 2001, and there's quite a lot to look back on from the quarter-century since the company got into gaming.",
+      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/every-xbox-console-generation-sorted-by-release-date/l-intro-1794499952.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T21:00:00.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+      "link": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+      "summary": "New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "image": "https://media.wired.com/photos/6af711ad797722e005ec2bb9/191:100/w_1280,c_limit/111326-Michigan%20400%20Data%20Centers.jpg",
       "sourceCount": 2,
       "related": [
         {
           "source": "Ars Technica",
-          "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-          "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-          "publishedAt": "2026-11-16T14:06:16.000Z"
+          "title": "Hyperscale data centers use 2% of US electricity",
+          "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+          "publishedAt": "2026-11-16T20:52:10.000Z"
         }
       ],
-      "latestActivity": "2026-11-16T14:06:16.000Z"
+      "latestActivity": "2026-11-16T20:52:10.000Z"
     },
     {
-      "source": "Ars Technica",
-      "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
-      "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
-      "summary": "The point-to-point driver assist is coming to the US and Germany in 2027.",
-      "publishedAt": "2026-11-16T14:00:05.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg",
+      "source": "Engadget",
+      "title": "Customers at major banks report difficulty accessing accounts online",
+      "link": "https://www.engadget.com/2318431/customers-at-major-banks-report-difficulty-accessing-accounts-online/",
+      "summary": "Representatives from the companies say this is a technical problem and not a cyberattack.",
+      "publishedAt": "2026-11-16T20:49:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/customers-at-major-banks-report-difficulty-accessing-accounts-online/l-intro-1794862115.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T14:00:05.000Z"
+      "latestActivity": "2026-11-16T20:49:32.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
-      "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
-      "summary": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T14:00:00.000Z"
+      "source": "Engadget",
+      "title": "California sues OpenAI after that Hugging Face rogue hacking incident",
+      "link": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/",
+      "summary": "State AG Rob Bonta has accused the company of making AI agents \"without the safeguards and monitoring necessary to adequately protect\" users.",
+      "publishedAt": "2026-11-16T19:52:24.000Z",
+      "image": "https://www.engadget.com/img/gallery/california-sues-openai-after-that-hugging-face-rogue-hacking-incident/l-intro-1794858677.jpg",
+      "sourceCount": 3,
+      "related": [
+        {
+          "source": "TechCrunch",
+          "title": "California state AG sues OpenAI over rogue agent incidents",
+          "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+          "publishedAt": "2026-11-16T20:07:13.000Z"
+        },
+        {
+          "source": "The Verge",
+          "title": "California sues OpenAI over rogue AI hacking incidents",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+          "publishedAt": "2026-11-16T20:46:01.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-16T20:46:01.000Z"
     },
     {
       "source": "The Verge",
-      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-      "summary": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible\t\n\nAudible is introducing an AI-assisted synopsis feature that's designed to help users d…",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "summary": "Sam… thank you. | Image: Getty Images\t\n\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a…",
+      "publishedAt": "2026-11-16T20:41:28.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T14:00:00.000Z"
+      "latestActivity": "2026-11-16T20:41:28.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "publishedAt": "2026-11-16T20:37:47.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T20:37:47.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+      "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded u…",
+      "publishedAt": "2026-11-16T20:36:14.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T20:36:14.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "summary": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellat…",
+      "publishedAt": "2026-11-16T20:29:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T20:29:37.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
+      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
+      "publishedAt": "2026-11-16T20:27:58.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T20:27:58.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "link": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/",
+      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
+      "publishedAt": "2026-11-16T20:00:00.000Z",
+      "image": "https://media.wired.com/photos/6afb4cc16a1af442b6a49972/191:100/w_1280,c_limit/Update--Best-Early-Black-Friday-Espresso-Machine-Deals.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T20:00:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+      "publishedAt": "2026-11-16T19:54:21.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T19:54:21.000Z"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+      "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "publishedAt": "2026-11-16T19:53:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/uber-breach-2288234319.jpg?resize=1200,820",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T19:53:00.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "When will humans actually fly on Starship?",
+      "link": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+      "publishedAt": "2026-11-16T19:46:08.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T19:46:08.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "link": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
+      "publishedAt": "2026-11-16T19:36:25.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T19:36:25.000Z"
     },
     {
       "source": "Engadget",
-      "title": "Hands-on (and off) with Mercedes-Benz's upcoming MB.Drive Assist Pro system",
-      "link": "https://www.engadget.com/2315999/hands-on-and-off-with-mercedes-benz-mbdrive-assist-pro/",
-      "summary": "Benz takes us another step towards self-driving.",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/hands-on-and-off-with-mercedes-benzs-upcoming-mb-drive-assist-pro-system/l-intro-1794586242.jpg",
+      "title": "Which Google Pixel phone is most similar to the Galaxy S26+?",
+      "link": "https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/",
+      "summary": "Trying to choose between the Google Pixel 11 Pro and Samsung Galaxy S26+? We break down the specs, cameras and prices to help find the best one for you.",
+      "publishedAt": "2026-11-16T19:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/which-google-pixel-phone-is-most-similar-to-the-galaxy-s26/l-intro-1794486626.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T14:00:00.000Z"
+      "latestActivity": "2026-11-16T19:30:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
-      "link": "https://jack.cab/blog/siterate",
-      "summary": "Article URL: https://jack.cab/blog/siterate\nComments URL: https://news.ycombinator.com/item?id=50517602\nPoints: 141\n# Comments: 34",
-      "publishedAt": "2026-11-16T13:51:38.000Z",
-      "image": "https://jack.cab/_astro/banner.BWU3oHHm_1KyTK9.png",
+      "source": "TechCrunch",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "publishedAt": "2026-11-16T19:12:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T13:51:38.000Z"
+      "latestActivity": "2026-11-16T19:12:02.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Which Steam settings should you change to improve gaming performance?",
-      "link": "https://www.engadget.com/2314137/steam-settings-to-improve-gaming-performance/",
-      "summary": "When in doubt, disable the Steam Overlay.",
-      "publishedAt": "2026-11-16T13:45:00.000Z",
-      "image": "https://www.engadget.com/img/engadget-meta-image-1280x720.png",
+      "source": "MIT Technology Review",
+      "title": "The open-source movement wants Jensen Huang back",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen…",
+      "publishedAt": "2026-11-16T18:38:47.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T13:45:00.000Z"
+      "latestActivity": "2026-11-16T18:38:47.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
-      "link": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-      "summary": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-off…",
-      "publishedAt": "2026-11-16T13:39:07.000Z",
-      "image": "http://groundworkcollaborative.org/wp-content/uploads/2026/11/GWC_CL_Cover_110526-1-791x1024.png",
+      "source": "Wired",
+      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+      "link": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "image": "https://media.wired.com/photos/6af7ae201244c1a16020acc3/191:100/w_1280,c_limit/Instagram-Users-Can-Expect-Avalanche-on-Amazon-Affiliate-Posts-Gear.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T13:39:07.000Z"
+      "latestActivity": "2026-11-16T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-      "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026\nComments URL: https://news.ycombina…",
-      "publishedAt": "2026-11-16T13:18:22.000Z",
-      "image": "https://image.theregister.com/254046.jpg?imageId=254046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "source": "Wired",
+      "title": "AO3 Is Back. This Is Not a Drill",
+      "link": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
+      "summary": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
+      "publishedAt": "2026-11-16T16:40:33.000Z",
+      "image": "https://media.wired.com/photos/6afb1b61fd92a97bc81f1a8d/191:100/w_1280,c_limit/111626-AO3%20Back%20Online.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T13:18:22.000Z"
+      "latestActivity": "2026-11-16T16:40:33.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "How to use your phone to find an Apple TV remote",
-      "link": "https://www.engadget.com/2313628/how-to-use-phone-find-apple-tv-remote/",
-      "summary": "Apple TV now lets you use your iPhone to find a lost remote, with onscreen prompts that guide you closer until you track it down somewhere in your home.",
-      "publishedAt": "2026-11-16T13:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-your-phone-to-find-an-apple-tv-remote/l-intro-1794408447.jpg",
+      "source": "Wired",
+      "title": "Jensen Huang Is Gone. Now What?",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang…",
+      "publishedAt": "2026-11-16T16:12:51.000Z",
+      "image": "https://media.wired.com/photos/6af78c75239676948e926fc2/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Katie-Lauren-Business.jpg",
       "sourceCount": 1,
       "related": [],
-      "latestActivity": "2026-11-16T13:15:00.000Z"
+      "latestActivity": "2026-11-16T16:12:51.000Z"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction…",
+      "publishedAt": "2026-11-16T16:04:28.000Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?w=840",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-16T16:04:28.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -225,50 +521,6 @@
       "latestActivity": "2026-11-16T13:10:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "After dodging death, battery startup Our Next Energy is now going public",
-      "link": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
-      "publishedAt": "2026-11-16T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/our-next-energy-pack-inspection.jpg?resize=1200,900",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
-      "link": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
-      "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
-      "publishedAt": "2026-11-16T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/GettyImages-2283442251.jpg?resize=1200,774",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Nvidia scandal isn’t slowing down",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are…",
-      "publishedAt": "2026-11-16T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Sony 27-inch Gaming Monitor with DualSense Charging Hook review: A piece of PC history",
-      "link": "https://www.engadget.com/2313601/sony-27-inch-gaming-monitor-with-dualsense-charging-hook-review/",
-      "summary": "Sony's 27-inch gaming monitor is a perfectly adequate display with one unique hook.",
-      "publishedAt": "2026-11-16T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/sony-27-inch-gaming-monitor-with-dualsense-charging-hook-review-a-piece-of-pc-history/l-intro-1794404092.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T13:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "Building AI that can work across the enterprise",
       "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
@@ -280,17 +532,6 @@
       "latestActivity": "2026-11-16T13:00:00.000Z"
     },
     {
-      "source": "TechCrunch",
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-      "publishedAt": "2026-11-16T12:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T12:30:00.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
       "link": "https://www.wired.com/story/best-digital-photo-frames/",
@@ -300,244 +541,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-16T12:01:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
-      "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
-      "summary": "For those who have lived under armed drones, the sound overhead can be distressing.",
-      "publishedAt": "2026-11-16T12:00:57.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2298538124-2560x1440.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T12:00:57.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
-      "link": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
-      "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
-      "publishedAt": "2026-11-16T12:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-uber.jpg?resize=1200,801",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "The Verge",
-          "title": "Amazon’s Zoox robotaxis are now available via Uber",
-          "link": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
-          "publishedAt": "2026-11-16T12:00:00.000Z"
-        }
-      ],
-      "latestActivity": "2026-11-16T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-      "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/\nComments URL: https://news.ycombinator.com/item?id=50516473\nPoints:…",
-      "publishedAt": "2026-11-16T11:39:31.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T11:39:31.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-      "link": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
-      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
-      "publishedAt": "2026-11-16T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/6af5c0853b3d498b480a78ca/191:100/w_1280,c_limit/111226-EPA%20ASPECT%20Plane.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T11:30:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
-      "link": "https://www.wired.com/story/best-smart-bird-feeders/",
-      "summary": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "publishedAt": "2026-11-16T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/191:100/w_1280,c_limit/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T11:30:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Coffeehouses and the Rise of Science [pdf]",
-      "link": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-      "summary": "Article URL: https://www.monirbounadi.com/Bounadi_JMP.pdf\nComments URL: https://news.ycombinator.com/item?id=50516245\nPoints: 116\n# Comments: 73",
-      "publishedAt": "2026-11-16T11:03:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T11:03:16.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
-      "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
-      "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for…",
-      "publishedAt": "2026-11-16T11:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CVIRGINIA_I__0003_1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T11:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
-      "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
-      "summary": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
-      "publishedAt": "2026-11-16T10:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af7da955e4ca9026ac50ea4/191:100/w_1280,c_limit/The-Best-Apple-3-in-1-Travel-Chargers.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "It's always DNS, so why are we running our own?",
-      "link": "https://s2.dev/blog/dns-server",
-      "summary": "Article URL: https://s2.dev/blog/dns-server\nComments URL: https://news.ycombinator.com/item?id=50515616\nPoints: 43\n# Comments: 27",
-      "publishedAt": "2026-11-16T09:19:38.000Z",
-      "image": "https://s2.dev/blog/dns-server-og.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T09:19:38.000Z"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-      "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-      "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQ…",
-      "publishedAt": "2026-11-16T07:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T07:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Apple's new research app is designed to make AI health tools more user-friendly",
-      "link": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
-      "summary": "Apple has unveiled a new research study with the aim of learning how people use AI health tools.",
-      "publishedAt": "2026-11-16T06:06:05.000Z",
-      "image": "https://www.engadget.com/img/gallery/apples-new-research-app-is-designed-to-make-ai-health-tools-more-user-friendly/l-intro-1794809079.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T06:06:05.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
-      "link": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
-      "summary": "United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.",
-      "publishedAt": "2026-11-16T04:56:53.000Z",
-      "image": "https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T04:56:53.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The com…",
-      "publishedAt": "2026-11-16T01:26:56.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-16T01:26:56.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-      "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-      "publishedAt": "2026-11-15T23:11:54.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T23:11:54.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "How the world’s fires changed while humanity hit pause",
-      "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
-      "publishedAt": "2026-11-15T12:07:34.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T12:07:34.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
-      "link": "https://www.wired.com/story/best-paper-planners/",
-      "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
-      "publishedAt": "2026-11-15T12:01:00.000Z",
-      "image": "https://media.wired.com/photos/6af7de304c1f7b55abfd9851/191:100/w_1280,c_limit/I%E2%80%99ve-Tested-Dozens-of-Planners.-These-Are-the-Best-Ones.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T12:01:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "AI DJs Completely Kill My Groove",
-      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-      "publishedAt": "2026-11-15T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/191:100/w_1280,c_limit/Untitled-1.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T12:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Evercade Nexus Review: The Best Retro Handheld Yet",
-      "link": "https://www.wired.com/review/evercade-nexus/",
-      "summary": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
-      "publishedAt": "2026-11-15T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/6af5e7fe5864e5f624e083eb/191:100/w_1280,c_limit/Evercade%20Nexus%20(1).jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T11:30:00.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-      "summary": "It felt like stepping into the future.",
-      "publishedAt": "2026-11-15T00:40:59.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-15T00:40:59.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "James Webb telescope finds ice older than the star it orbits",
-      "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-      "summary": "Radiation and collisions reshape the planetary building materials.",
-      "publishedAt": "2026-11-14T12:15:48.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T12:15:48.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Winemakers are learning that conservation can be good for business",
-      "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
-      "publishedAt": "2026-11-14T12:05:51.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-14T12:05:51.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -582,28 +585,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-12T20:16:24.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate…",
-      "publishedAt": "2026-11-12T13:10:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260424_Cdrama.webp?fit=2128,1196",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-12T13:10:00.000Z"
-    },
-    {
-      "source": "MIT Technology Review",
-      "title": "What to know about this year’s UN climate talks",
-      "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 offi…",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-11T17:00:00.000Z"
     }
   ]
 }
