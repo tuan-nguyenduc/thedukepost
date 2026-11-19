@@ -1,6 +1,204 @@
 {
-  "syncedAt": "2026-11-18T21:43:53.732Z",
+  "syncedAt": "2026-11-19T02:58:08.905Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "AI Will Not Make You Rich (2025)",
+      "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/\nComments URL: https://news.ycombinator.com/item?id=50555093\nPoints: 49\n# Comments: 29",
+      "publishedAt": "2026-11-19T01:51:28.000Z",
+      "image": "https://colossus.com/wp-content/uploads/2025/09/Neumann-preview-card.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T01:51:28.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+      "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for m…",
+      "publishedAt": "2026-11-19T01:39:45.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T01:39:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
+      "link": "https://adeindex.com",
+      "summary": "Article URL: https://adeindex.com\nComments URL: https://news.ycombinator.com/item?id=50554973\nPoints: 7\n# Comments: 2",
+      "publishedAt": "2026-11-19T01:33:52.000Z",
+      "image": "https://adeindex.com/opengraph-image?4abf08475ebf229c",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T01:33:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "link": "https://github.com/Ri4dH/failtrace",
+      "summary": "Article URL: https://github.com/Ri4dH/failtrace\nComments URL: https://news.ycombinator.com/item?id=50554941\nPoints: 9\n# Comments: 0",
+      "publishedAt": "2026-11-19T01:30:43.000Z",
+      "image": "https://opengraph.githubassets.com/754265509dc68f7ba7b953734ec684ca8ce47d171b95846ae292370120ae1e53/Ri4dH/failtrace",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T01:30:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Unreal Tournament 2004 in the Browser",
+      "link": "https://ut2004.dev/",
+      "summary": "Article URL: https://ut2004.dev/\nComments URL: https://news.ycombinator.com/item?id=50554935\nPoints: 25\n# Comments: 5",
+      "publishedAt": "2026-11-19T01:29:29.000Z",
+      "image": "https://assets.ut2004.dev/web/og.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T01:29:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "link": "https://arxiv.org/abs/2607.29378",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29378\nComments URL: https://news.ycombinator.com/item?id=50554908\nPoints: 11\n# Comments: 4",
+      "publishedAt": "2026-11-19T01:27:02.000Z",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T01:27:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+      "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-a…",
+      "publishedAt": "2026-11-19T00:57:20.000Z",
+      "image": "https://www.lawyerscommittee.org/wp-content/uploads/2026/09/Press-Statements-Blue-980x653-1.webp",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T00:57:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/\nComments URL: https://news.ycombinator.com/item?id=50554374\nPoints: 101\n# Comments: 34",
+      "publishedAt": "2026-11-19T00:29:45.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T00:29:45.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
+      "link": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
+      "publishedAt": "2026-11-19T00:23:15.000Z",
+      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-Laptop-Deals.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T00:23:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "We need smart people who give a shit",
+      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/\nComments URL: https://news.ycombinator.com/item?id=50554045\nPoints: 261\n# Comments: 138",
+      "publishedAt": "2026-11-18T23:53:49.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T23:53:49.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "publishedAt": "2026-11-18T23:25:04.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T23:25:04.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Waymo pauses service in San Francisco after robotaxis get stuck on flooded streets",
+      "link": "https://www.engadget.com/2321312/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/",
+      "summary": "Waymo temporarily paused service in San Francisco after several robotaxis caused traffic jams as they were unable to navigate flooded streets during a storm.",
+      "publishedAt": "2026-11-18T23:23:57.000Z",
+      "image": "https://www.engadget.com/img/gallery/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/l-intro-1795043825.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T23:23:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according…",
+      "publishedAt": "2026-11-18T23:18:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T23:18:35.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "publishedAt": "2026-11-18T23:10:39.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-2560x1440.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T23:10:39.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "link": "https://www.wired.com/story/guys-really-we-got-this/",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "publishedAt": "2026-11-18T22:16:23.000Z",
+      "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/191:100/w_1280,c_limit/Does-NVIDIA-Got-This-Business.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T22:16:23.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "publishedAt": "2026-11-18T22:08:57.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T22:08:57.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "link": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided…",
+      "publishedAt": "2026-11-18T22:05:48.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T22:05:48.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "publishedAt": "2026-11-18T22:00:00.000Z",
+      "image": "https://media.wired.com/photos/6afcfe9d821bf3ffcbf308a8/191:100/w_1280,c_limit/politics_trump_adventures_china.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-18T22:00:00.000Z"
+    },
     {
       "source": "Ars Technica",
       "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
@@ -35,17 +233,6 @@
       "latestActivity": "2026-11-18T21:15:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",
-      "link": "https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/",
-      "summary": "Article URL: https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/\nComments URL: https://news.ycombinator.com/item?id=50552169…",
-      "publishedAt": "2026-11-18T21:11:10.000Z",
-      "image": "https://www.percona.com/wp-content/uploads/2026/11/goat_small.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T21:11:10.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "Rockstar just settled a major question about GTA 6's controversial FPS decision",
       "link": "https://www.engadget.com/2321134/rockstar-just-settled-a-major-question-about-gta-6s-controversial-fps-decision/",
@@ -68,39 +255,6 @@
       "latestActivity": "2026-11-18T20:41:12.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/\nComments URL: https://news.ycombinator.com/item?id=50551601\nPoints: 19\n# C…",
-      "publishedAt": "2026-11-18T20:20:17.000Z",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566_1.width-1300.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T20:20:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
-      "link": "https://searchbrowser.app/",
-      "summary": "Article URL: https://searchbrowser.app/\nComments URL: https://news.ycombinator.com/item?id=50551398\nPoints: 24\n# Comments: 16",
-      "publishedAt": "2026-11-18T20:04:31.000Z",
-      "image": "https://searchbrowser.app/search/og/home.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T20:04:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Sexp Matrix",
-      "link": "https://lisper.cc/ideas/entangle.html",
-      "summary": "Article URL: https://lisper.cc/ideas/entangle.html\nComments URL: https://news.ycombinator.com/item?id=50551359\nPoints: 17\n# Comments: 2",
-      "publishedAt": "2026-11-18T20:01:50.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T20:01:50.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
       "link": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
@@ -121,17 +275,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-18T19:40:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-      "link": "https://www.radixark.com/blog/daisyrose-27b",
-      "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b\nComments URL: https://news.ycombinator.com/item?id=50551046\nPoints: 47\n# Comments: 6",
-      "publishedAt": "2026-11-18T19:39:16.000Z",
-      "image": "https://www.radixark.com/images/daisyrose-27b/hero.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T19:39:16.000Z"
     },
     {
       "source": "Wired",
@@ -168,11 +311,11 @@
     },
     {
       "source": "The Verge",
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "title": "Nvidia’s rise, visualized",
       "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
       "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have c…",
       "publishedAt": "2026-11-18T19:30:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/acastro_STK083_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002526/acastro_STK083_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-18T19:30:00.000Z"
@@ -222,21 +365,14 @@
       "latestActivity": "2026-11-18T19:19:33.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The best early Black Friday deals you can already shop",
-      "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping ea…",
-      "publishedAt": "2026-11-18T18:44:27.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Wired",
-          "title": "Best Early Black Friday Phone Deals (2026)",
-          "link": "https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/",
-          "publishedAt": "2026-11-18T19:17:06.000Z"
-        }
-      ],
+      "source": "Wired",
+      "title": "Best Early Black Friday Phone Deals (2026)",
+      "link": "https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/",
+      "summary": "As the holidays creep closer, I’m already seeing some tempting early Black Friday phone deals.",
+      "publishedAt": "2026-11-18T19:17:06.000Z",
+      "image": "https://media.wired.com/photos/6afde765a3ba61ac1ff46232/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-Phone-Deals.jpg",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-11-18T19:17:06.000Z"
     },
     {
@@ -251,28 +387,6 @@
       "latestActivity": "2026-11-18T19:14:19.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-      "link": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competit…",
-      "publishedAt": "2026-11-18T19:11:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Exclusive-image-of-the-unannounced-Lenovo-Legion-Go-Beam-gaming-handheld-in-white-with-lime-green-accents.jpg?quality=90&#038;strip=all&#038;crop=2.6,4.9777777777778,89.2,87.911111111111",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T19:11:50.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms th…",
-      "publishedAt": "2026-11-18T19:07:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T19:07:29.000Z"
-    },
-    {
       "source": "Wired",
       "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
       "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
@@ -282,28 +396,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-18T19:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-      "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-      "summary": "Article URL: https://tin.computer/blog/fake-ai-crawler-secrets-scanners\nComments URL: https://news.ycombinator.com/item?id=50550461\nPoints: 15\n# Comments: 1",
-      "publishedAt": "2026-11-18T18:53:17.000Z",
-      "image": "https://tin.computer/opengraph-image",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T18:53:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Genie 4 is now available",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\nComments URL: https://news.ycombinator.com/item?id=50550…",
-      "publishedAt": "2026-11-18T18:49:51.000Z",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T18:49:51.000Z"
     },
     {
       "source": "Ars Technica",
@@ -317,35 +409,6 @@
       "latestActivity": "2026-11-18T18:46:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "When Free Software Isn't Free Enough",
-      "link": "https://foss.life/notes/2026/free-software-isnt-free-enough/",
-      "summary": "Article URL: https://foss.life/notes/2026/free-software-isnt-free-enough/\nComments URL: https://news.ycombinator.com/item?id=50550264\nPoints: 26\n# Comments: 12",
-      "publishedAt": "2026-11-18T18:39:28.000Z",
-      "image": "https://foss.life/og.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T18:39:28.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
-      "link": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/",
-      "summary": "The highly contagious disease is spreading across the country, and “may even be gaining speed.”",
-      "publishedAt": "2026-11-18T17:53:08.000Z",
-      "image": "https://media.wired.com/photos/6afcff5af77d006ac6e61e11/191:100/w_1280,c_limit/science_us_measles_free_status.jpg",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "The \"shameful\" measles data that lost the US its elimination status",
-          "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
-          "publishedAt": "2026-11-18T18:30:23.000Z"
-        }
-      ],
-      "latestActivity": "2026-11-18T18:30:23.000Z"
-    },
-    {
       "source": "Engadget",
       "title": "You can't use GTA 6 cheats until you beat the game",
       "link": "https://www.engadget.com/2320852/you-cant-use-gta-6-cheats-until-you-beat-the-game/",
@@ -355,17 +418,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-18T18:25:40.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
-      "publishedAt": "2026-11-18T18:10:33.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T18:10:33.000Z"
     },
     {
       "source": "Engadget",
@@ -388,50 +440,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-18T17:59:47.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-      "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-      "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
-      "publishedAt": "2026-11-18T17:53:59.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T17:53:59.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday",
-      "link": "https://www.wired.com/story/macbook-neo-deal-november-2026/",
-      "summary": "Discounts on Apple’s entry-level MacBook have been minuscule, but ahead of Black Friday, the MacBook Neo is just $649.",
-      "publishedAt": "2026-11-18T17:47:23.000Z",
-      "image": "https://media.wired.com/photos/6afddc7636140b742f8ad817/191:100/w_1280,c_limit/The-MacBook-Neo-Just-Got-Its-Largest-Discount-Ever.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T17:47:23.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-      "publishedAt": "2026-11-18T17:33:07.000Z",
-      "image": "https://media.wired.com/photos/6afddee377c5562ae471019b/191:100/w_1280,c_limit/GettyImages-2304258889.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T17:33:07.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why GTA 6 doesn't have a 60 fps performance mode",
-      "link": "https://www.engadget.com/2320281/why-gta-6-no-60-fps-performance-mode/",
-      "summary": "Rockstar has a history of releasing its games at lower framerates than rival titles. That's still the case with GTA 6.",
-      "publishedAt": "2026-11-18T17:15:15.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-gta-6-doesnt-have-a-60-fps-performance-mode/l-intro-1794997359.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-18T17:15:15.000Z"
     },
     {
       "source": "MIT Technology Review",
