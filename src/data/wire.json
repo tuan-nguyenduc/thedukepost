@@ -1,6 +1,196 @@
 {
-  "syncedAt": "2026-11-19T21:59:43.497Z",
+  "syncedAt": "2026-11-20T03:00:01.122Z",
   "items": [
+    {
+      "source": "Wired",
+      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+      "link": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+      "summary": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. A veterinary expert explains how a 2,500-pound animal can succumb to a knit hat.",
+      "publishedAt": "2026-11-20T02:39:47.000Z",
+      "image": "https://media.wired.com/photos/6aff6de3747e1608ed3c9a9a/191:100/w_1280,c_limit/RIP-Fiona-the-Hippo-Business-1230298782.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-20T02:39:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "Article URL: https://github.com/openssl/openssl/pull/33652\nComments URL: https://news.ycombinator.com/item?id=50569226\nPoints: 22\n# Comments: 1",
+      "publishedAt": "2026-11-20T02:01:09.000Z",
+      "image": "https://opengraph.githubassets.com/d916370b558eb3cac8dc01b88d8ab926b071f58101c5310fdc4b4b5b880d0aa7/openssl/openssl/pull/33652",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-20T02:01:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never\nComments URL: https://news.ycombinator.com/item?id=50568861\nPoints: 15\n# Comments: 3",
+      "publishedAt": "2026-11-20T01:06:12.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!F4Pm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c9dc8fc-3b97-48bf-9594-781fe179ffe0_1920x1080.jpeg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-20T01:06:12.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase\nComments URL: https://news.ycombinator.com/item?id=50568643\nPoints: 7\n# Comments: 3",
+      "publishedAt": "2026-11-20T00:37:31.000Z",
+      "image": "https://www.databricks.com/sites/default/files/2026-11/PG-19-cover.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-20T00:37:31.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's accordin…",
+      "publishedAt": "2026-11-19T22:31:41.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+          "link": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
+          "publishedAt": "2026-11-20T00:03:22.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-20T00:03:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "link": "https://git-aarvin.github.io/mei/",
+      "summary": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 160\n# Comments: 97",
+      "publishedAt": "2026-11-19T23:35:35.000Z",
+      "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T23:35:35.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "summary": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87\nComments URL: https://news.ycombinator.com/item?id=50568082\nP…",
+      "publishedAt": "2026-11-19T23:32:11.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T23:32:11.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "The GTA 6 star system says a lot more than just your Wanted level",
+      "link": "https://www.engadget.com/2322564/gta-6-wanted-level-star-system-details/",
+      "summary": "Just committing a robbery doesn't necessarily mean your Wanted level will rise.",
+      "publishedAt": "2026-11-19T23:28:22.000Z",
+      "image": "https://www.engadget.com/img/gallery/the-gta-6-star-system-says-a-lot-more-than-just-your-wanted-level/l-intro-1795130347.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T23:28:22.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Leaked images may show Motorola's answer to the iPhone Duo",
+      "link": "https://www.engadget.com/2322557/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/",
+      "summary": "We may have our best look yet at Motorola's upcoming foldable.",
+      "publishedAt": "2026-11-19T23:13:40.000Z",
+      "image": "https://www.engadget.com/img/gallery/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/l-intro-1795129766.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T23:13:40.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+      "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+      "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
+      "publishedAt": "2026-11-19T23:12:17.000Z",
+      "image": "https://media.wired.com/photos/6afe07274e8d4af8d3d5721a/191:100/w_1280,c_limit/Right-Wing-GTA-Woke-Complaints-Culture-Jason_and_Lucia_03.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T23:12:17.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta’s Muse Charm might cost $300",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revea…",
+      "publishedAt": "2026-11-19T20:22:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 2,
+      "related": [
+        {
+          "source": "Engadget",
+          "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
+          "link": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
+          "publishedAt": "2026-11-19T22:56:42.000Z"
+        }
+      ],
+      "latestActivity": "2026-11-19T22:56:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "RegExr: Temporarily Offline",
+      "link": "https://regexr.com/",
+      "summary": "Article URL: https://regexr.com/\nComments URL: https://news.ycombinator.com/item?id=50567374\nPoints: 56\n# Comments: 28",
+      "publishedAt": "2026-11-19T22:27:07.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T22:27:07.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "publishedAt": "2026-11-19T22:16:37.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/amazon-640x285.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T22:16:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Synology Security Advisory",
+      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21\nComments URL: https://news.ycombinator.com/item?id=50567209\nPoints: 109\n# Comments: 78",
+      "publishedAt": "2026-11-19T22:13:40.000Z",
+      "image": "https://fileres.synology.com/images/common/meta-tag-preview-image/img_synology.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T22:13:40.000Z"
+    },
+    {
+      "source": "Wired",
+      "title": "Best Amazon Black Friday Deals (2026)",
+      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "summary": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
+      "publishedAt": "2026-11-19T22:02:12.000Z",
+      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/191:100/w_1280,c_limit/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T22:02:12.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images\t\n\n\"We've got this,\" Colette Kress, inte…",
+      "publishedAt": "2026-11-19T21:59:35.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-19T21:59:35.000Z"
+    },
     {
       "source": "Wired",
       "title": "What’s With All These Outages?",
@@ -45,7 +235,7 @@
       "source": "Hacker News",
       "title": "Rebuilding my local voice assistant pipeline",
       "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline\nComments URL: https://news.ycombinator.com/item?id=50566261\nPoints: 10\n# Comments: 1",
+      "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline\nComments URL: https://news.ycombinator.com/item?id=50566261\nPoints: 63\n# Comments: 12",
       "publishedAt": "2026-11-19T20:57:14.000Z",
       "image": "https://s3.platypush.tech/static/images/voice-assistant-pipeline.png",
       "sourceCount": 1,
@@ -95,17 +285,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-19T20:29:46.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta’s Muse Charm might cost $300",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revea…",
-      "publishedAt": "2026-11-19T20:22:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T20:22:17.000Z"
     },
     {
       "source": "Ars Technica",
@@ -196,39 +375,6 @@
       "latestActivity": "2026-11-19T19:16:42.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was a…",
-      "publishedAt": "2026-11-19T19:12:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T19:12:30.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Ubisoft lays off 166 more workers, opens a generative AI studio",
-      "link": "https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/",
-      "summary": "Even Rockstar developers fear layoffs, as GTA 6 rakes in billions of dollars.",
-      "publishedAt": "2026-11-19T19:06:04.000Z",
-      "image": "https://www.engadget.com/img/gallery/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/l-intro-1795114771.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T19:06:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o\nComments URL: https://news.ycombinator.com/item?id=50564366\nPoints: 38\n# Comments: 66",
-      "publishedAt": "2026-11-19T18:47:16.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T18:47:16.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
       "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
@@ -238,50 +384,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-19T18:44:39.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Anthropic is now a public company worth more than $1 trillion",
-      "link": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/",
-      "summary": "The company was briefly valued at more than $2 trillion.",
-      "publishedAt": "2026-11-19T18:41:26.000Z",
-      "image": "https://www.engadget.com/img/gallery/anthropic-is-now-a-public-company-worth-more-than-1-trillion/l-intro-1795113508.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T18:41:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\nComments URL: https://news.ycombinator.com/item?id=50564159\nPoints: 111\n# Comments: 59",
-      "publishedAt": "2026-11-19T18:35:17.000Z",
-      "image": "https://globalcommercegraph.com/og-image.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T18:35:17.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-      "summary": "The excellent Sonos Play offers up to 24 hours of playback on a single charge. | Photo: John Higgins / The Verge\t\n\nSonos speakers and soundbars aren’t exactly cheap, but thankfully…",
-      "publishedAt": "2026-11-19T18:33:08.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T18:33:08.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to game share GTA 6 and split the cost with a friend",
-      "link": "https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost/",
-      "summary": "You can do this on Xbox Series X and PlayStation 5.",
-      "publishedAt": "2026-11-19T18:00:48.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-game-share-gta-6-and-split-the-cost-with-a-friend/l-intro-1795110904.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T18:00:48.000Z"
     },
     {
       "source": "Ars Technica",
@@ -295,50 +397,6 @@
       "latestActivity": "2026-11-19T18:00:33.000Z"
     },
     {
-      "source": "Engadget",
-      "title": "Google signs deal with Blue Origin to send satellite data centers into orbit",
-      "link": "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/",
-      "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
-      "publishedAt": "2026-11-19T17:38:44.000Z",
-      "image": "https://www.engadget.com/img/gallery/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/l-intro-1795109453.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T17:38:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Claude solves two open problems in the physics of black holes",
-      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 295\n# Comments: 122",
-      "publishedAt": "2026-11-19T17:30:44.000Z",
-      "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T17:30:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "summary": "https://archive.ph/2Et0x\nComments URL: https://news.ycombinator.com/item?id=50563066\nPoints: 307\n# Comments: 33",
-      "publishedAt": "2026-11-19T17:25:33.000Z",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/05/28111438/SEI_299218241.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T17:25:33.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Anthropic hits $2T in Nasdaq debut",
-      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50…",
-      "publishedAt": "2026-11-19T17:02:40.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T17:02:40.000Z"
-    },
-    {
       "source": "Wired",
       "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
       "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
@@ -350,28 +408,6 @@
       "latestActivity": "2026-11-19T17:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Chrome AI features wasting much bandwidth",
-      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/\nComments URL: https://news.ycombinator.com/item?id=50562636\nPoints: 108\n# Comments: 39",
-      "publishedAt": "2026-11-19T16:54:25.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T16:54:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "link": "https://github.com/onlook-dev/onlook/",
-      "summary": "Hey HN, I'm Daniel, founder of Onlook (https://github.com/onlook-dev/onlook and onlook.com).\nOnlook is a desktop app that puts a canvas on top of your real codebase, letting you de…",
-      "publishedAt": "2026-11-19T16:34:04.000Z",
-      "image": "https://opengraph.githubassets.com/5abaf4799529efe99019b8e95e760ae870b1f58e6fff493e1025a516ba9fe157/onlook-dev/onlook",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T16:34:04.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Mouse fight club might explain why we like to watch violent things",
       "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
@@ -381,17 +417,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-19T14:04:38.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-      "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-      "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-      "publishedAt": "2026-11-19T13:40:02.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-1152x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T13:40:02.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -416,28 +441,6 @@
       "latestActivity": "2026-11-19T12:00:00.000Z"
     },
     {
-      "source": "Wired",
-      "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
-      "link": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
-      "summary": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/6afd6967d7198704b1746983/191:100/w_1280,c_limit/1LD%20Social%20Graphics_Shine%20Bright%20-%20Web%20Hero%20copy%202.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T12:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/191:100/w_1280,c_limit/Anthropic-IPO-Business-2297744238.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T12:00:00.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "A human liver has been kept alive outside the body for a record seven weeks",
       "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
@@ -447,17 +450,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-19T12:00:00.000Z"
-    },
-    {
-      "source": "Wired",
-      "title": "The Best Early Black Friday Deals on Laptops I’ve Tested (2026)",
-      "link": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
-      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
-      "publishedAt": "2026-11-19T11:30:00.000Z",
-      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/191:100/w_1280,c_limit/The-Best-Early-Black-Friday-Laptop-Deals.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-19T11:30:00.000Z"
     },
     {
       "source": "MIT Technology Review",
