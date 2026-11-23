@@ -1,49 +1,192 @@
 {
-  "syncedAt": "2026-11-22T23:23:21.244Z",
+  "syncedAt": "2026-11-23T06:29:02.219Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "A Partial Evaluator for C",
+      "link": "https://phoenix.labri.fr/software/tempo/",
+      "summary": "Article URL: https://phoenix.labri.fr/software/tempo/\nComments URL: https://news.ycombinator.com/item?id=50607627\nPoints: 10\n# Comments: 0",
+      "publishedAt": "2026-11-23T04:51:48.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T04:51:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+      "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+      "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/\nComments URL: https://n…",
+      "publishedAt": "2026-11-23T04:31:32.000Z",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/926565802_1319525056967043_7275237550580400758_n.png?stp=dst-jpg_tt6&cstp=mx803x1075&ctp=p600x600&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=b96d88&_nc_ohc=kSKRZXj5ngAQ7kNvwFhKXPj&_nc_oc=Adq8GNk8vQbXcoy5nJqIc_3bosuCJ9_sARLQeUgJYh-VSmFdn2PBoUFzFYjaFQzR69s&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=5B49UbEaoSr6ozP_HvoO6Q&_nc_ss=72180&oh=00_AQR315fsACTU6qUZRY6y0Arg4afZ_Jb-SLEQt4Jf62552A&oe=6B09946D",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T04:31:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "link": "https://github.com/AFK-surf/xnulinux",
+      "summary": "Article URL: https://github.com/AFK-surf/xnulinux\nComments URL: https://news.ycombinator.com/item?id=50607261\nPoints: 112\n# Comments: 44",
+      "publishedAt": "2026-11-23T03:49:24.000Z",
+      "image": "https://opengraph.githubassets.com/2c72269b87af4362564d0807343957704bfa9a67e3dc266d07e2dd8078d176b8/AFK-surf/xnulinux",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T03:49:24.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small di…",
+      "publishedAt": "2026-11-23T03:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T03:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "summary": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/\nComments URL: https://news.ycombinator.com/item?id=50606499\nPoints: 30\n# Comments: 4",
+      "publishedAt": "2026-11-23T01:50:23.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T01:50:23.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Here's how much Starlink cost in 2020 vs. 2026",
+      "link": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
+      "summary": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
+      "publishedAt": "2026-11-23T01:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/heres-how-much-starlink-cost-in-2020-vs-2026/l-intro-1794842346.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T01:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "link": "https://spelunkr.tv",
+      "summary": "Article URL: https://spelunkr.tv\nComments URL: https://news.ycombinator.com/item?id=50606192\nPoints: 336\n# Comments: 52",
+      "publishedAt": "2026-11-23T01:13:51.000Z",
+      "image": "https://spelunkr.tv/og-image.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T01:13:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "What we learned operating auth for 1k APIs",
+      "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/\nComments URL: https://news.ycombinator.com/item?id=50606072\nPoints: 30\n# Comments: 4",
+      "publishedAt": "2026-11-23T01:01:11.000Z",
+      "image": "https://cdn.sanity.io/images/7yse5usn/production/3c399a96bf3e292ee10595e55c6598da8b0be60f-1674x940.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T01:01:11.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to clear your cache on Google TV",
+      "link": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+      "summary": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
+      "publishedAt": "2026-11-23T01:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T01:00:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+      "link": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+      "summary": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+      "publishedAt": "2026-11-23T00:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T00:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Should you go with a headphone DAC/amp combo or a stack?",
+      "link": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+      "summary": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
+      "publishedAt": "2026-11-23T00:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T00:30:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "8 Windows apps you should probably remove from your PC",
+      "link": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+      "summary": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+      "publishedAt": "2026-11-23T00:15:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T00:15:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Public vs. private IP addresses: what's the difference?",
+      "link": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+      "summary": "One identifies your network, the other identifies the devices using your network.",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "link": "https://0rwx.com/",
+      "summary": "Article URL: https://0rwx.com/\nComments URL: https://news.ycombinator.com/item?id=50605445\nPoints: 35\n# Comments: 8",
+      "publishedAt": "2026-11-22T23:53:00.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-22T23:53:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "What is the best way to secure your PlayStation 5 for a flight?",
+      "link": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
+      "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
+      "publishedAt": "2026-11-22T23:45:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-best-way-to-secure-your-playstation-5-for-a-flight/l-intro-1794602643.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-22T23:45:00.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to use AI glasses as a teleprompter",
+      "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+      "summary": "If you have the right type of smart glasses, this is an easy feature to enable.",
+      "publishedAt": "2026-11-22T23:30:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-ai-glasses-as-a-teleprompter/l-intro-1794839468.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-22T23:30:00.000Z"
+    },
     {
       "source": "Hacker News",
       "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
       "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 202\n# Comments: 155",
       "publishedAt": "2026-11-22T23:12:10.000Z",
       "image": "https://claude.ai/images/claude_ogimage.png",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-22T23:12:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20\nComments URL: https://news.ycombinator.com/item?id=50604988\nPoints: 7\n# Comments: 0",
-      "publishedAt": "2026-11-22T23:06:37.000Z",
-      "image": "https://www.gl-inet.com/cdn/shop/articles/20261121-145609_1200x675.jpg?v=1795244669",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T23:06:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Do Not Accept",
-      "link": "https://donotaccept.ai/",
-      "summary": "Article URL: https://donotaccept.ai/\nComments URL: https://news.ycombinator.com/item?id=50604959\nPoints: 13\n# Comments: 6",
-      "publishedAt": "2026-11-22T23:02:20.000Z",
-      "image": "https://donotaccept.ai/og-eye.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T23:02:20.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The pros and cons of sharing your location",
-      "link": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
-      "summary": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
-      "publishedAt": "2026-11-22T23:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T23:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -55,138 +198,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-22T22:48:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
-      "link": "https://philpapers.org/rec/NIEIOT-2",
-      "summary": "Article URL: https://philpapers.org/rec/NIEIOT-2\nComments URL: https://news.ycombinator.com/item?id=50604742\nPoints: 23\n# Comments: 3",
-      "publishedAt": "2026-11-22T22:41:33.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T22:41:33.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Can you safely use a 140w charger on an iPhone?",
-      "link": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
-      "summary": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
-      "publishedAt": "2026-11-22T22:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T22:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "This free app connects your Android phone to your Windows PC wirelessly",
-      "link": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
-      "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
-      "publishedAt": "2026-11-22T22:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T22:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Usefulness of Useless Knowledge [pdf]",
-      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-      "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf\nComments URL: https://news.ycombinator.com/item?id=50604472\nPoints: 17\n# Comments: 1",
-      "publishedAt": "2026-11-22T22:10:58.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T22:10:58.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
-      "link": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
-      "summary": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
-      "publishedAt": "2026-11-22T22:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T22:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Agent swarm trying to solve P vs. NP",
-      "link": "https://pequalnp.com/",
-      "summary": "Article URL: https://pequalnp.com/\nComments URL: https://news.ycombinator.com/item?id=50604314\nPoints: 38\n# Comments: 29",
-      "publishedAt": "2026-11-22T21:53:45.000Z",
-      "image": "https://pequalnp.com/assets/f6d4ee14bbe1/img/share-home.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T21:53:45.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Why your monitor flickers when you turn it on and can it be fixed?",
-      "link": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
-      "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
-      "publishedAt": "2026-11-22T21:45:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/why-your-monitor-flickers-when-you-turn-it-on-and-can-it-be-fixed/l-intro-1794601400.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T21:45:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-      "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/\nComments URL: https://news.ycombinator.com/item?id=50604123\nPoints: 13\n#…",
-      "publishedAt": "2026-11-22T21:33:12.000Z",
-      "image": "https://fosscomics.com/posts/16. BSD Unix Part 6 - The Struggle for Freedom/images/feature-freedom.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T21:33:12.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "The cool phone camera trick that can test your remote control's battery",
-      "link": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
-      "summary": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
-      "publishedAt": "2026-11-22T21:30:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/the-cool-phone-camera-trick-that-can-test-your-remote-controls-battery/l-intro-1794630742.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T21:30:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Which solar panel type is best for your home?",
-      "link": "https://www.engadget.com/2319531/solar-panel-types-best-home-use/",
-      "summary": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
-      "publishedAt": "2026-11-22T21:15:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/which-solar-panel-type-is-best-for-your-home/l-intro-1794509643.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T21:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Will the first approved psychedelic become a blockbuster?",
-      "link": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
-      "summary": "Article URL: https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/\nComments URL: https://news.ycombinator.com/item?id=50603962\nPoints: 9\n# Commen…",
-      "publishedAt": "2026-11-22T21:13:10.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T21:13:10.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "How Secure Is Your Password? Here's How To Test It",
-      "link": "https://www.engadget.com/2319522/how-secure-is-password/",
-      "summary": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
-      "publishedAt": "2026-11-22T21:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/how-secure-is-your-password-heres-how-to-test-it/l-intro-1794581081.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-22T21:00:00.000Z"
     },
     {
       "source": "The Verge",
@@ -259,17 +270,6 @@
           "publishedAt": "2026-11-22T14:00:00.000Z"
         }
       ],
-      "latestActivity": "2026-11-22T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "‘The show is starting soon. Please turn on your headphones.’",
-      "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-      "summary": "Love Me uses Auracast broadcasts both for accessibility and the sound design. | Photo: Curtis Brown\t\n\nUp a few concrete steps and through the front door of a 200-year-old row house…",
-      "publishedAt": "2026-11-22T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
       "latestActivity": "2026-11-22T14:00:00.000Z"
     },
     {
