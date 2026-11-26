@@ -1,6 +1,182 @@
 {
-  "syncedAt": "2026-11-25T21:18:17.337Z",
+  "syncedAt": "2026-11-26T03:59:58.227Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "link": "https://news.ycombinator.com/item?id=50649864",
+      "summary": "There have been questions about why the /ask page (https://news.ycombinator.com/ask) was running dry of Ask HNs - e.g.:\nAsk HN: Why is Ask HN only showing me 14 posts? - https://ne…",
+      "publishedAt": "2026-11-26T00:43:34.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-26T00:43:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Collection of preserved UI style guides",
+      "link": "https://aresluna.org/ui-style-guides/",
+      "summary": "Article URL: https://aresluna.org/ui-style-guides/\nComments URL: https://news.ycombinator.com/item?id=50649834\nPoints: 28\n# Comments: 2",
+      "publishedAt": "2026-11-26T00:40:00.000Z",
+      "image": "https://aresluna.org/images/ui-style-guides/ogimage.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-26T00:40:00.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home up…",
+      "publishedAt": "2026-11-26T00:04:34.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-26T00:04:34.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court f…",
+      "publishedAt": "2026-11-25T23:56:44.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T23:56:44.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
+      "link": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+      "summary": "Multiple gadgets from Engadget's Best of 2026 list are already on sale, including Samsung's flagship foldable and Apple's ultra-popular entry-level laptop.",
+      "publishedAt": "2026-11-25T23:36:46.000Z",
+      "image": "https://www.engadget.com/img/gallery/we-reviewed-these-10-gadgets-and-theyre-now-on-sale-for-black-friday/l-intro-1795649274.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T23:36:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "link": "https://modaic.dev/blog/latency-doesnt-lie",
+      "summary": "Article URL: https://modaic.dev/blog/latency-doesnt-lie\nComments URL: https://news.ycombinator.com/item?id=50648823\nPoints: 255\n# Comments: 72",
+      "publishedAt": "2026-11-25T22:57:04.000Z",
+      "image": "https://www.modaic.dev/blog/latency-doesnt-lie/latency_doesnt_lie_og.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T22:57:04.000Z"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "publishedAt": "2026-11-25T22:36:45.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T22:36:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Bare Metal Qwen",
+      "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os\nComments URL: https://news.ycombinator.com/item?id=50648365\nPoints: 83\n# Comments: 16",
+      "publishedAt": "2026-11-25T22:15:34.000Z",
+      "image": "https://opengraph.githubassets.com/c285bdbe69fe61d477007255ae246e83345a615d0b5ce1b3ffc3d449e5dd532e/alesha-pro/llm.asm",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T22:15:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Deploying a payphone on a tiny Pacific Island",
+      "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "summary": "Article URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/\nComments URL: https://news.ycombinator.com/item?id=50648323\nPoints:…",
+      "publishedAt": "2026-11-25T22:12:25.000Z",
+      "image": null,
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T22:12:25.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
+      "link": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
+      "summary": "With a hefty install size, GTA 6 will take up a significant chunk of your PS5 or Xbox Series X/S storage space.",
+      "publishedAt": "2026-11-25T22:07:07.000Z",
+      "image": "https://www.engadget.com/img/gallery/can-you-play-gta-6-from-an-external-hard-drive-on-ps5-or-xbox-series-xs/l-intro-1795642883.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T22:07:07.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on informatio…",
+      "publishedAt": "2026-11-25T21:51:26.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&#038;strip=all&#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T21:51:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "link": "https://github.com/lsernau/grh-lean",
+      "summary": "Article URL: https://github.com/lsernau/grh-lean\nComments URL: https://news.ycombinator.com/item?id=50648050\nPoints: 326\n# Comments: 160",
+      "publishedAt": "2026-11-25T21:48:10.000Z",
+      "image": "https://opengraph.githubassets.com/0b9945da16eb535b7bf1eb38b4e3df47f15022462a1bd353b8bcad6d1f34a7f4/lsernau/grh-lean",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T21:48:10.000Z"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Verge’s 2026 holiday gift guide for travelers",
+      "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut lik…",
+      "publishedAt": "2026-11-25T21:48:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T21:48:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Defang Security Incident",
+      "link": "https://defang.io/blog/post/security-incident-november-2026/",
+      "summary": "Article URL: https://defang.io/blog/post/security-incident-november-2026/\nComments URL: https://news.ycombinator.com/item?id=50648035\nPoints: 68\n# Comments: 20",
+      "publishedAt": "2026-11-25T21:47:16.000Z",
+      "image": "https://defang.io/blog/imported/security-incident-november-2026/cover.png",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T21:47:16.000Z"
+    },
+    {
+      "source": "Engadget",
+      "title": "7 gadgets that'll instantly upgrade your Thanksgiving feast",
+      "link": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
+      "summary": "These tools will make turkey day just a little easier.",
+      "publishedAt": "2026-11-25T21:41:43.000Z",
+      "image": "https://www.engadget.com/img/gallery/7-cool-gadgets-to-instantly-upgrade-your-thanksgiving-feast/l-intro-1795617573.jpg",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T21:41:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "https://archive.ph/pcUgy\nComments URL: https://news.ycombinator.com/item?id=50647673\nPoints: 248\n# Comments: 201",
+      "publishedAt": "2026-11-25T21:18:02.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+      "sourceCount": 1,
+      "related": [],
+      "latestActivity": "2026-11-25T21:18:02.000Z"
+    },
     {
       "source": "Ars Technica",
       "title": "Google search alternative Kagi launches Gmail rival",
@@ -53,17 +229,6 @@
       "latestActivity": "2026-11-25T20:01:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
-      "link": "https://danprice.ai/blog/opus-symphony",
-      "summary": "Article URL: https://danprice.ai/blog/opus-symphony\nComments URL: https://news.ycombinator.com/item?id=50646662\nPoints: 25\n# Comments: 23",
-      "publishedAt": "2026-11-25T19:57:08.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T19:57:08.000Z"
-    },
-    {
       "source": "The Verge",
       "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
       "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
@@ -73,17 +238,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-25T19:45:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "link": "https://scottaaronson.blog/?p=10379",
-      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220\nComments URL: https://news.ycombinator.com/item?id=50646108\nPoints…",
-      "publishedAt": "2026-11-25T19:11:27.000Z",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T19:11:27.000Z"
     },
     {
       "source": "The Verge",
@@ -119,21 +273,14 @@
       "latestActivity": "2026-11-25T18:38:12.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiat…",
-      "publishedAt": "2026-11-25T17:44:51.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 2,
-      "related": [
-        {
-          "source": "Ars Technica",
-          "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-          "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
-          "publishedAt": "2026-11-25T18:22:38.000Z"
-        }
-      ],
+      "source": "Ars Technica",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "publishedAt": "2026-11-25T18:22:38.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+      "sourceCount": 1,
+      "related": [],
       "latestActivity": "2026-11-25T18:22:38.000Z"
     },
     {
@@ -143,17 +290,6 @@
       "summary": "The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge\t\n\nUnlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily…",
       "publishedAt": "2026-11-25T18:00:00.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The loneliest peptide party in New York",
-      "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change yo…",
-      "publishedAt": "2026-11-25T18:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-25T18:00:00.000Z"
@@ -177,28 +313,6 @@
       "latestActivity": "2026-11-25T17:54:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "Britain's ghost stations",
-      "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-      "summary": "https://archive.ph/pfVdX\nComments URL: https://news.ycombinator.com/item?id=50645074\nPoints: 54\n# Comments: 9",
-      "publishedAt": "2026-11-25T17:43:46.000Z",
-      "image": "https://spectator.com/wp-content/uploads/2026/11/GettyImages-929334326-e1795346317691.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T17:43:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-      "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator…",
-      "publishedAt": "2026-11-25T17:34:34.000Z",
-      "image": "https://opengraph.githubassets.com/8fb9041c148529dd76a570c301c5e28b4f1841271515bc19270884b5599e8bbe/openai/math",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T17:34:34.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
       "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
@@ -210,28 +324,6 @@
       "latestActivity": "2026-11-25T17:33:30.000Z"
     },
     {
-      "source": "Hacker News",
-      "title": "1Password Security Incident",
-      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident\nComments URL: https://news.ycombinator.com/item?id=50644817\nPoints: 739\n# Comments: 307",
-      "publishedAt": "2026-11-25T17:18:26.000Z",
-      "image": "https://images.ctfassets.net/3091ajzcmzlr/3yu0DTU3edoU7HK8MxkW54/c5e7801fb8c0d7d52295da96af7e8013/business_2x.webp",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T17:18:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Deriving Black-Scholes",
-      "link": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-      "summary": "Article URL: https://david.alvarezrosa.com/posts/deriving-black-scholes/\nComments URL: https://news.ycombinator.com/item?id=50644814\nPoints: 43\n# Comments: 30",
-      "publishedAt": "2026-11-25T17:18:15.000Z",
-      "image": "https://david.alvarezrosa.com/images/home-illustration.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T17:18:15.000Z"
-    },
-    {
       "source": "Ars Technica",
       "title": "Etsy clarifies AI terms after seller backlash",
       "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
@@ -241,17 +333,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-25T17:12:57.000Z"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Verge’s guide to the best gifts under $100",
-      "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made,…",
-      "publishedAt": "2026-11-25T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T17:00:00.000Z"
     },
     {
       "source": "MIT Technology Review",
@@ -298,61 +379,6 @@
       "latestActivity": "2026-11-25T16:03:17.000Z"
     },
     {
-      "source": "The Verge",
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case…",
-      "publishedAt": "2026-11-25T16:00:59.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T16:00:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "Investigating degraded experiences across GitHub products",
-      "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "summary": "Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx\nComments URL: https://news.ycombinator.com/item?id=50643720\nPoints: 172\n# Comments: 90",
-      "publishedAt": "2026-11-25T15:59:23.000Z",
-      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T15:59:23.000Z"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-      "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-      "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
-      "publishedAt": "2026-11-25T15:35:17.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T15:35:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "title": "In C++, = default and {} are not the same constructor",
-      "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-      "summary": "Article URL: https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/\nComments URL: https://news.ycombinator.com/item?id=50643199\nPoints: 82\n# Comments: 1…",
-      "publishedAt": "2026-11-25T15:20:15.000Z",
-      "image": null,
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T15:20:15.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Five solar generators going for deep discounts on Black Friday",
-      "link": "https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday/",
-      "summary": "Save 20 to 40 percent on models from Anker, EcoFlow and more.",
-      "publishedAt": "2026-11-25T14:15:20.000Z",
-      "image": "https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T14:15:20.000Z"
-    },
-    {
       "source": "MIT Technology Review",
       "title": "The Download: AI swamping open records, and firefighting for permafrost",
       "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
@@ -362,28 +388,6 @@
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-25T13:10:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "Acer Predator Atlas 8 review: Potent performance at a slightly better price",
-      "link": "https://www.engadget.com/2326961/acer-predator-atlas-8-review/",
-      "summary": "Thanks to its Intel Arc G3 Extreme chip, the Acer Predator Atlas 8 delivers 95 percent of the performance you get from MSI's Claw 8 EX AI+ for $350 less.",
-      "publishedAt": "2026-11-25T13:00:00.000Z",
-      "image": "https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T13:00:00.000Z"
-    },
-    {
-      "source": "Engadget",
-      "title": "WhatsApp is testing stickers with sound",
-      "link": "https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/",
-      "summary": "WhatsApp's newest public beta includes the ability to create stickers with sounds.",
-      "publishedAt": "2026-11-25T12:24:57.000Z",
-      "image": "https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg",
-      "sourceCount": 1,
-      "related": [],
-      "latestActivity": "2026-11-25T12:24:57.000Z"
     },
     {
       "source": "Wired",
@@ -431,22 +435,22 @@
     },
     {
       "source": "Wired",
-      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
-      "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
-      "summary": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spre…",
+      "title": "A Journey Through the Absurd Hell of Trump’s Third-Country Deportations",
+      "link": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
+      "summary": "How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch.",
       "publishedAt": "2026-11-25T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6b05e919e84f380c55f0e941/191:100/w_1280,c_limit/Security_Fans%20of%20School%20Shooters%20Are%20Using%20AI%20to%20Lionize%20Their%20Heroes_v1.jpg",
+      "image": "https://media.wired.com/photos/6b049924eb59315dec5094b0/191:100/w_1280,c_limit/Deported-Illustration_01.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-25T11:00:00.000Z"
     },
     {
       "source": "Wired",
-      "title": "A Journey Through the Absurd Hell of Trump’s Third-Country Deportations",
-      "link": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
-      "summary": "How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch.",
+      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+      "link": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+      "summary": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spre…",
       "publishedAt": "2026-11-25T11:00:00.000Z",
-      "image": "https://media.wired.com/photos/6b049924eb59315dec5094b0/191:100/w_1280,c_limit/Deported-Illustration_01.jpg",
+      "image": "https://media.wired.com/photos/6b05e919e84f380c55f0e941/191:100/w_1280,c_limit/Security_Fans%20of%20School%20Shooters%20Are%20Using%20AI%20to%20Lionize%20Their%20Heroes_v1.jpg",
       "sourceCount": 1,
       "related": [],
       "latestActivity": "2026-11-25T11:00:00.000Z"
